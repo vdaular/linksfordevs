@@ -174,13 +174,5 @@
     "Domain": "mfbt.ai",
     "Description": "Coding is only one aspect of the engineering process. We don't have to leverage LLMs just to code. We can leverage them to engineer better software.\n",
     "Confidence": 0.9940371
-  },
-  {
-    "Title": "Teleoperation is Always the Butt of the Joke",
-    "Url": "https://idiallo.com/blog/teleoperation-is-the-butt-of-the-joke?src=feed",
-    "Timestamp": "2026-02-20T22:01:56",
-    "Domain": "idiallo.com",
-    "Description": "A few years back, the term \"AI\" took an unexpected turn when it was redefined as \"Actual Indian\". As in, a person in India operating the machine remotely.\n",
-    "Confidence": 0.7860722
   }
 ]
