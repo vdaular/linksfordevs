@@ -198,21 +198,5 @@
     "Domain": "harpers.org",
     "Description": "Tech’s new generation and the end of thinking",
     "Confidence": 0.63851595
-  },
-  {
-    "Title": "Eliminating the Impossible",
-    "Url": "https://xkcd.com/3210/",
-    "Timestamp": "2026-02-20T20:02:09",
-    "Domain": "xkcd.com",
-    "Description": "",
-    "Confidence": 0.98151064
-  },
-  {
-    "Title": "Keep Android Open | F-Droid - Free and Open Source Android App Repository",
-    "Url": "https://f-droid.org/2026/02/20/twif.html",
-    "Timestamp": "2026-02-20T20:02:06",
-    "Domain": "f-droid.org",
-    "Description": "This Week in F-Droid TWIF curated on Friday, 20 Feb 2026, Week 8 F-Droid core During out talks with F-Droid users at FOSDEM26 we were baffled to learn most w...",
-    "Confidence": 0.9173867
   }
 ]
