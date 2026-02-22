@@ -142,13 +142,5 @@
     "Domain": "theredbeard.io",
     "Description": "Claude used 23K tokens to fix a one-line bug. Gemini used 350K. I built a tool to find out why.",
     "Confidence": 0.99222285
-  },
-  {
-    "Title": "Turn Dependabot Off",
-    "Url": "https://words.filippo.io/dependabot/",
-    "Timestamp": "2026-02-21T02:01:55",
-    "Domain": "words.filippo.io",
-    "Description": "I recommend turning Dependabot off and replacing it with a pair of scheduled GitHub Actions, one running govulncheck, and the other running CI against the latest version of your dependencies.",
-    "Confidence": 0.98725957
   }
 ]
