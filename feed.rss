@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>How I built Timeframe, our family e-paper dashboard - Joel Hawksley</title>
+      <link>https://hawksley.org/2026/02/17/timeframe.html</link>
+      <description>Over the past decade, I've worked to build the perfect family dashboard system for our home, called Timeframe:</description>
+      <category>ruby</category>
+      <category>containers</category>
+      <category>apple</category>
+      <category>android</category>
+      <category>nodejs</category>
+      <guid>https://hawksley.org/2026/02/17/timeframe.html</guid>
+      <pubDate>Sun, 22 Feb 2026 22:02:06 GMT</pubDate>
+    </item>
+    <item>
       <title>Attention Media ≠ Social Networks</title>
       <link>https://susam.net/attention-media-vs-social-networks.html</link>
       <description>By Susam Pal on 20 Jan 2026</description>
