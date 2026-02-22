@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Attention Media ≠ Social Networks</title>
+      <link>https://susam.net/attention-media-vs-social-networks.html</link>
+      <description>By Susam Pal on 20 Jan 2026</description>
+      <category>web</category>
+      <guid>https://susam.net/attention-media-vs-social-networks.html</guid>
+      <pubDate>Sun, 22 Feb 2026 18:01:57 GMT</pubDate>
+    </item>
+    <item>
       <title>GitHub - xaskasdf/ntransformer: High-efficiency LLM inference engine in C++/CUDA. Run Llama 70B on RTX 3090.</title>
       <link>https://github.com/xaskasdf/ntransformer</link>
       <description>High-efficiency LLM inference engine in C++/CUDA. Run Llama 70B on RTX 3090. - xaskasdf/ntransformer</description>
@@ -176,15 +184,6 @@
       <category>python</category>
       <guid>https://blog.merigoux.fr/en/2026/02/19/building-proper-pl.html</guid>
       <pubDate>Sun, 22 Feb 2026 00:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Andrej Karpathy talks about “Claws”</title>
-      <link>https://simonwillison.net/2026/Feb/21/claws/</link>
-      <description>Andrej Karpathy tweeted a mini-essay about buying a Mac Mini ("The apple store person told me they are selling like hotcakes and everyone is confused") to tinker with Claws: I'm …</description>
-      <category>apple</category>
-      <category>ai</category>
-      <guid>https://simonwillison.net/2026/Feb/21/claws/</guid>
-      <pubDate>Sat, 21 Feb 2026 18:01:51 GMT</pubDate>
     </item>
   </channel>
 </rss>
