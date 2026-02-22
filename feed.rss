@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>GitHub - xaskasdf/ntransformer: High-efficiency LLM inference engine in C++/CUDA. Run Llama 70B on RTX 3090.</title>
+      <link>https://github.com/xaskasdf/ntransformer</link>
+      <description>High-efficiency LLM inference engine in C++/CUDA. Run Llama 70B on RTX 3090. - xaskasdf/ntransformer</description>
+      <category>ai</category>
+      <category>cloud</category>
+      <category>linux</category>
+      <guid>https://github.com/xaskasdf/ntransformer</guid>
+      <pubDate>Sun, 22 Feb 2026 11:01:57 GMT</pubDate>
+    </item>
+    <item>
       <title>Boris Tane</title>
       <link>https://boristane.com/blog/how-i-use-claude-code/</link>
       <description>The research-plan-implement workflow I use to build software with Claude Code, and why I never let it write code until I've approved a written plan.</description>
@@ -186,17 +196,6 @@
       <category>sql</category>
       <guid>https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/</guid>
       <pubDate>Sat, 21 Feb 2026 14:02:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>I Intercepted 3,177 API Calls Across 4 AI Coding Tools. Here's What's Actually Filling Your Context Window. | The Redbeard</title>
-      <link>https://theredbeard.io/blog/i-intercepted-3177-api-calls-across-4-ai-coding-tools</link>
-      <description>Claude used 23K tokens to fix a one-line bug. Gemini used 350K. I built a tool to find out why.</description>
-      <category>git</category>
-      <category>javascript</category>
-      <category>ai</category>
-      <category>nodejs</category>
-      <guid>https://theredbeard.io/blog/i-intercepted-3177-api-calls-across-4-ai-coding-tools</guid>
-      <pubDate>Sat, 21 Feb 2026 11:02:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
