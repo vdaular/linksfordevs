@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Boris Tane</title>
+      <link>https://boristane.com/blog/how-i-use-claude-code/</link>
+      <description>The research-plan-implement workflow I use to build software with Claude Code, and why I never let it write code until I've approved a written plan.</description>
+      <category>ai</category>
+      <category>sql</category>
+      <category>git</category>
+      <guid>https://boristane.com/blog/how-i-use-claude-code/</guid>
+      <pubDate>Sun, 22 Feb 2026 06:02:15 GMT</pubDate>
+    </item>
+    <item>
       <title>Why is Claude an Electron App?</title>
       <link>https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html</link>
       <description>If code is free, why aren’t all apps native?</description>
