@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Why is Claude an Electron App?",
+    "Url": "https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html",
+    "Timestamp": "2026-02-22T01:01:58",
+    "Domain": "www.dbreunig.com",
+    "Description": "If code is free, why aren’t all apps native?",
+    "Confidence": 0.9937085
+  },
+  {
     "Title": "How much are you paying for abstraction?",
     "Url": "https://kmaliszewski9.github.io/scala/2026/02/20/jsoniter.html",
     "Timestamp": "2026-02-22T00:03:06",
@@ -142,13 +150,5 @@
     "Domain": "words.filippo.io",
     "Description": "I recommend turning Dependabot off and replacing it with a pair of scheduled GitHub Actions, one running govulncheck, and the other running CI against the latest version of your dependencies.",
     "Confidence": 0.98725957
-  },
-  {
-    "Title": "Wikipedia blacklists Archive.today, starts removing 695,000 archive links",
-    "Url": "https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/",
-    "Timestamp": "2026-02-21T01:01:59",
-    "Domain": "arstechnica.com",
-    "Description": "If DDoSing a blog wasn't bad enough, archive site also tampered with web snapshots.",
-    "Confidence": 0.72104096
   }
 ]

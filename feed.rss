@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Why is Claude an Electron App?</title>
+      <link>https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html</link>
+      <description>If code is free, why aren’t all apps native?</description>
+      <category>cloud</category>
+      <category>rust</category>
+      <category>apple</category>
+      <category>javascript</category>
+      <category>linux</category>
+      <guid>https://www.dbreunig.com/2026/02/21/why-is-claude-an-electron-app.html</guid>
+      <pubDate>Sun, 22 Feb 2026 01:01:58 GMT</pubDate>
+    </item>
+    <item>
       <title>How much are you paying for abstraction?</title>
       <link>https://kmaliszewski9.github.io/scala/2026/02/20/jsoniter.html</link>
       <description>I asked myself this question when playing with (de)serialization in Scala-based microservice doing Kafka stream processing. The bill turned out to be quite a rip-off.</description>
@@ -186,13 +198,6 @@
       <category>git</category>
       <guid>https://words.filippo.io/dependabot/</guid>
       <pubDate>Sat, 21 Feb 2026 02:01:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wikipedia blacklists Archive.today, starts removing 695,000 archive links</title>
-      <link>https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/</link>
-      <description>If DDoSing a blog wasn't bad enough, archive site also tampered with web snapshots.</description>
-      <guid>https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/</guid>
-      <pubDate>Sat, 21 Feb 2026 01:01:59 GMT</pubDate>
     </item>
   </channel>
 </rss>
