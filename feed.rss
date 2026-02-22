@@ -7,6 +7,145 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>How much are you paying for abstraction?</title>
+      <link>https://kmaliszewski9.github.io/scala/2026/02/20/jsoniter.html</link>
+      <description>I asked myself this question when playing with (de)serialization in Scala-based microservice doing Kafka stream processing. The bill turned out to be quite a rip-off.</description>
+      <category>javascript</category>
+      <category>web</category>
+      <guid>https://kmaliszewski9.github.io/scala/2026/02/20/jsoniter.html</guid>
+      <pubDate>Sun, 22 Feb 2026 00:03:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Compression of Everything</title>
+      <link>https://blog.approximated-intelligence.de/2026/02/19/ai-compression.html</link>
+      <description>Re-encode a JPEG hundreds of times and you get fractal noise. No detail survives long enough to matter, and the structure just dissolves. Not from any single dramatic event - each pass looks almost identical to the one before - the degradation only shows in aggregate, and by then it’s too late to recover what’s lost.</description>
+      <category>ai</category>
+      <guid>https://blog.approximated-intelligence.de/2026/02/19/ai-compression.html</guid>
+      <pubDate>Sun, 22 Feb 2026 00:03:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Boris Tane</title>
+      <link>https://boristane.com/blog/the-software-development-lifecycle-is-dead/</link>
+      <description>AI agents didn't make the SDLC faster. They killed it. All that's left is context.</description>
+      <category>ai</category>
+      <category>cloud</category>
+      <category>vscode</category>
+      <guid>https://boristane.com/blog/the-software-development-lifecycle-is-dead/</guid>
+      <pubDate>Sun, 22 Feb 2026 00:02:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fighting games have a product design problem • cthor.me</title>
+      <link>https://cthor.me/Fighting-games-product-design</link>
+      <description>Fighting games in 2026 are floundering, with everything not called Street Fighter 6 relegated to the trash bin of history. The worst and most likely outcome is that other studios look at this and think SF6 is the destiny of the genre and try to mimic its game design to regain some relevance. This will predictably fail, and the genre’s future will ultimately be at the mercy of Street Fighter 7.</description>
+      <category>gaming</category>
+      <category>vscode</category>
+      <guid>https://cthor.me/Fighting-games-product-design</guid>
+      <pubDate>Sun, 22 Feb 2026 00:02:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Building a Solar-Powered Bird Station</title>
+      <link>https://alec.is/posts/building-a-solar-powered-bird-station/</link>
+      <description>Principal software engineer with deep experience in full-stack TypeScript, custom web browsers and real-time, media-focused systems.</description>
+      <category>apple</category>
+      <category>containers</category>
+      <category>javascript</category>
+      <category>web</category>
+      <guid>https://alec.is/posts/building-a-solar-powered-bird-station/</guid>
+      <pubDate>Sun, 22 Feb 2026 00:02:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>I want Artificial Competence, not more Artificial Intelligence</title>
+      <link>https://jdauriemma.com/programming/i-want-artificial-competence-not-more-ai</link>
+      <description>We are meant to do more than babysit agents.</description>
+      <category>ai</category>
+      <guid>https://jdauriemma.com/programming/i-want-artificial-competence-not-more-ai</guid>
+      <pubDate>Sun, 22 Feb 2026 00:02:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why LLMs Hallucinate and How to Reduce It | Sicheng Ouyang</title>
+      <link>https://sicheng.dev/writing/why-does-LLMs-hallucinate</link>
+      <description>Discover the reasons behind hallucinations in Large Language Models (LLMs) and explore the underlying mechanisms that contribute to this phenomenon.</description>
+      <author> (Sicheng Ouyang)</author>
+      <category>ai</category>
+      <category>vscode</category>
+      <guid>https://sicheng.dev/writing/why-does-LLMs-hallucinate</guid>
+      <pubDate>Sun, 22 Feb 2026 00:02:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Refactoring Slop</title>
+      <link>https://elijahpotter.dev/articles/refactoring-slop</link>
+      <description>There are a gazillion guides out there about the various techniques you can use to improve the quality of AI generated code. Instead, I want to talk about some more generally applicable ideas that I've found especially useful in the age of AI.</description>
+      <category>ai</category>
+      <guid>https://elijahpotter.dev/articles/refactoring-slop</guid>
+      <pubDate>Sun, 22 Feb 2026 00:02:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>What Happened to Software is Happening to Finance and Accounting</title>
+      <link>https://doempke.com/what-happened-to-software-is-happening-to-finance-and-accounting/</link>
+      <description>AI is repricing professional services. KPMG just pressured its auditor to cut fees 14%. A CPA who codes on what comes next for finance.</description>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://doempke.com/what-happened-to-software-is-happening-to-finance-and-accounting/</guid>
+      <pubDate>Sun, 22 Feb 2026 00:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>From Microservices to Agent Mesh: Why Your Next Infrastructure Won't Be Coded | Wanderclan</title>
+      <link>https://wanderclan.eu/from-microservices-to-agent-mesh-why-your-next-infrastructure-wont-be-coded/</link>
+      <description>Here is a sentence that would have been absurd three years ago: markdown is becoming a programming language.</description>
+      <category>containers</category>
+      <category>git</category>
+      <category>ai</category>
+      <category>android</category>
+      <category>nodejs</category>
+      <guid>https://wanderclan.eu/from-microservices-to-agent-mesh-why-your-next-infrastructure-wont-be-coded/</guid>
+      <pubDate>Sun, 22 Feb 2026 00:02:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why Are We Still Writing CRUD UI With Hands?</title>
+      <link>https://shivekkhurana.com/blog/why-are-we-still-writing-crud-ui-with-hands/</link>
+      <description>Claude can write perfect UIs and Backends, but why is it writing React at all?</description>
+      <author> (Shivek Khurana)</author>
+      <category>cloud</category>
+      <category>ai</category>
+      <category>python</category>
+      <category>sql</category>
+      <category>javascript</category>
+      <guid>https://shivekkhurana.com/blog/why-are-we-still-writing-crud-ui-with-hands/</guid>
+      <pubDate>Sun, 22 Feb 2026 00:02:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Piantor Pro Review: My RSI Journey and Switching to a 36-Key Keyboard - JovianMoon.io</title>
+      <link>https://jovianmoon.io/posts/rsi-36-key-keyboard</link>
+      <description>A Piantor Pro showcase and the story of how repetitive strain injury forced me to rethink everything about how I type.</description>
+      <category>ai</category>
+      <category>vscode</category>
+      <category>git</category>
+      <category>linux</category>
+      <guid>https://jovianmoon.io/posts/rsi-36-key-keyboard</guid>
+      <pubDate>Sun, 22 Feb 2026 00:02:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Degoogling — Vishnu's Pages</title>
+      <link>https://iamvishnu.com/posts/degoogling</link>
+      <description>Moving away from Google services after 20 years, and the journey so far.</description>
+      <category>apple</category>
+      <category>encryption</category>
+      <guid>https://iamvishnu.com/posts/degoogling</guid>
+      <pubDate>Sun, 22 Feb 2026 00:02:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Literal translations • Building a language that people want</title>
+      <link>https://blog.merigoux.fr/en/2026/02/19/building-proper-pl.html</link>
+      <description>It has been 5 years since I have submitted the Catala paper to theInternational Conference on Functional Programming</description>
+      <category>vscode</category>
+      <category>encryption</category>
+      <category>ai</category>
+      <category>typescript</category>
+      <category>python</category>
+      <guid>https://blog.merigoux.fr/en/2026/02/19/building-proper-pl.html</guid>
+      <pubDate>Sun, 22 Feb 2026 00:02:14 GMT</pubDate>
+    </item>
+    <item>
       <title>Andrej Karpathy talks about “Claws”</title>
       <link>https://simonwillison.net/2026/Feb/21/claws/</link>
       <description>Andrej Karpathy tweeted a mini-essay about buying a Mac Mini ("The apple store person told me they are selling like hotcakes and everyone is confused") to tinker with Claws: I'm …</description>
@@ -54,173 +193,6 @@
       <description>If DDoSing a blog wasn't bad enough, archive site also tampered with web snapshots.</description>
       <guid>https://arstechnica.com/tech-policy/2026/02/wikipedia-bans-archive-today-after-site-executed-ddos-and-altered-web-captures/</guid>
       <pubDate>Sat, 21 Feb 2026 01:01:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Engineering Maturity is all you need</title>
-      <link>https://blog.nilenso.com/blog/2026/02/16/engineering-maturity-is-all-you-need/</link>
-      <description>8:PM in the evening: it’s demo day tomorrow.</description>
-      <category>ai</category>
-      <guid>https://blog.nilenso.com/blog/2026/02/16/engineering-maturity-is-all-you-need/</guid>
-      <pubDate>Sat, 21 Feb 2026 00:03:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Use digests, not tags, in your Dockerfiles</title>
-      <link>https://interrupt.sh/blog/dockerfile-tags/</link>
-      <description>How mutable Docker tags can pwn your builds.</description>
-      <category>nodejs</category>
-      <category>containers</category>
-      <category>git</category>
-      <guid>https://interrupt.sh/blog/dockerfile-tags/</guid>
-      <pubDate>Sat, 21 Feb 2026 00:03:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Thoughts on Standardizing Programming Languages</title>
-      <link>https://daoudclarke.net/2026/02/20/thoughts-on-standardizing-languages</link>
-      <description>I’ve worked at a few places where there is a “standard” language. Froman organisational perspective, this makes a lot of sense: if everyonewrites the same la...</description>
-      <category>rust</category>
-      <guid>https://daoudclarke.net/2026/02/20/thoughts-on-standardizing-languages</guid>
-      <pubDate>Sat, 21 Feb 2026 00:03:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>I found a Vulnerability. They found a Lawyer.</title>
-      <link>https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer</link>
-      <description>What happens when you responsibly disclose a critical vulnerability exposing personal data - including that of minors - and the organization responds with legal threats instead of a thank you?</description>
-      <category>ai</category>
-      <category>encryption</category>
-      <guid>https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer</guid>
-      <pubDate>Sat, 21 Feb 2026 00:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Django ORM Standalone⁽¹⁾: Querying an existing database</title>
-      <link>https://www.paulox.net/2026/02/20/django-orm-standalone-database-inspectdb-query/</link>
-      <description>A practical step-by-step guide to using Django ORM in standalone mode to connect to and query an existing database using inspectdb.</description>
-      <category>sql</category>
-      <category>cloud</category>
-      <category>python</category>
-      <guid>https://www.paulox.net/2026/02/20/django-orm-standalone-database-inspectdb-query/</guid>
-      <pubDate>Sat, 21 Feb 2026 00:02:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Inside PostgreSQL's 8KB Page</title>
-      <link>https://boringsql.com/posts/inside-the-8kb-page/</link>
-      <description>A byte-level tour of the 8KB page. PostgreSQL's atomic unit of storage. We deep dive into page headers, line pointers, and free space using pageinspect to see exactly how your data lives on disk.</description>
-      <category>sql</category>
-      <guid>https://boringsql.com/posts/inside-the-8kb-page/</guid>
-      <pubDate>Sat, 21 Feb 2026 00:02:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>How will OpenAI compete? — Benedict Evans</title>
-      <link>https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x</link>
-      <description>OpenAI has some big questions. It doesn’t have unique tech. It has a big user base, but with limited engagement and stickiness and no network effect. The incumbents have matched the tech and are leveraging their product and distribution. And a lot of the value and leverage will come from new experie</description>
-      <category>ai</category>
-      <category>cloud</category>
-      <category>apple</category>
-      <guid>https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x</guid>
-      <pubDate>Sat, 21 Feb 2026 00:02:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ten years late to the dbt party (DuckDB edition)</title>
-      <link>https://rmoff.net/2026/02/19/ten-years-late-to-the-dbt-party-duckdb-edition/</link>
-      <description></description>
-      <category>sql</category>
-      <category>ai</category>
-      <category>javascript</category>
-      <category>git</category>
-      <guid>https://rmoff.net/2026/02/19/ten-years-late-to-the-dbt-party-duckdb-edition/</guid>
-      <pubDate>Sat, 21 Feb 2026 00:02:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>My Coding Agent Watches Me Get Frustrated, Then Fixes Itself</title>
-      <link>https://pradeep.md/2026/02/20/self-improving-coding-agent.html</link>
-      <description>pi-reflect reads your coding agent's session logs, finds where you got frustrated, and edits its rules so the same mistakes don't happen again.</description>
-      <category>cloud</category>
-      <category>git</category>
-      <category>typescript</category>
-      <category>rust</category>
-      <category>ai</category>
-      <guid>https://pradeep.md/2026/02/20/self-improving-coding-agent.html</guid>
-      <pubDate>Sat, 21 Feb 2026 00:02:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>If LLMs Only Predict the Next Token, Why Do They Work?</title>
-      <link>https://sicheng.dev/writing/why-can-LLM-work</link>
-      <description>Discussing why LLMs work and the reasoning behind their behavior.</description>
-      <author> (Sicheng Ouyang)</author>
-      <category>ai</category>
-      <category>conference</category>
-      <category>python</category>
-      <guid>https://sicheng.dev/writing/why-can-LLM-work</guid>
-      <pubDate>Sat, 21 Feb 2026 00:02:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>satisfies never off by one</title>
-      <link>https://nicklawler.website/exhaustiveness-off-by-one/</link>
-      <description>Exhaustiveness checking in TypeScript. Works with `if` and ternary expressions. No unnecessary conditions or unreachable code.</description>
-      <category>typescript</category>
-      <category>javascript</category>
-      <guid>https://nicklawler.website/exhaustiveness-off-by-one/</guid>
-      <pubDate>Sat, 21 Feb 2026 00:02:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>PGQueuer for High-Performance Job Queues</title>
-      <link>https://alexdewey.github.io/AlexDeweyGiovanniniBlog/2026/02/20/PGqueuer.html</link>
-      <description>PGQueuer takes a PostgreSQL database and can turn it into a reliable background job processor. The problem becomes how on the face unwieldy the technology is. Because it’s powerful, it requires a lot to get into, especially for people new to backend development.</description>
-      <category>sql</category>
-      <category>javascript</category>
-      <category>web</category>
-      <guid>https://alexdewey.github.io/AlexDeweyGiovanniniBlog/2026/02/20/PGqueuer.html</guid>
-      <pubDate>Sat, 21 Feb 2026 00:02:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Thought Eddies</title>
-      <link>https://www.danielcorin.com/posts/2026/stateful-agents/</link>
-      <description>An Experimental Digital Garden</description>
-      <category>ai</category>
-      <category>javascript</category>
-      <guid>https://www.danielcorin.com/posts/2026/stateful-agents/</guid>
-      <pubDate>Sat, 21 Feb 2026 00:02:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Be Wary of Bluesky</title>
-      <link>https://kevinak.se/blog/be-wary-of-bluesky</link>
-      <description>Bluesky promises decentralization, but nearly every user's data sits on Bluesky's servers, and every new ATProto app reinforces that centralization. T</description>
-      <category>git</category>
-      <guid>https://kevinak.se/blog/be-wary-of-bluesky</guid>
-      <pubDate>Sat, 21 Feb 2026 00:02:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>I Audited Three Vibe Coded Products in a Single Day</title>
-      <link>https://fromtheprism.com/vibe-coding-audit</link>
-      <description>Three AI-built products, three critical security vulnerabilities. An afternoon of casual testing reveals what happens when nobody understands the code that runs their product.</description>
-      <category>ai</category>
-      <category>sql</category>
-      <category>nodejs</category>
-      <category>git</category>
-      <category>gaming</category>
-      <guid>https://fromtheprism.com/vibe-coding-audit</guid>
-      <pubDate>Sat, 21 Feb 2026 00:02:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>erxi or how I learned to love the fast testing suite</title>
-      <link>https://hahn.website/blog/erxi/</link>
-      <description>erxi is available on GitHub.</description>
-      <category>ai</category>
-      <category>rust</category>
-      <category>javascript</category>
-      <category>vscode</category>
-      <guid>https://hahn.website/blog/erxi/</guid>
-      <pubDate>Sat, 21 Feb 2026 00:02:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vibe Coding vs Vibe Engineering
-</title>
-      <link>https://mfbt.ai/blog/vibe-coding-vs-vibe-engineering/</link>
-      <description>Coding is only one aspect of the engineering process. We don't have to leverage LLMs just to code. We can leverage them to engineer better software.
-</description>
-      <category>ai</category>
-      <category>vscode</category>
-      <guid>https://mfbt.ai/blog/vibe-coding-vs-vibe-engineering/</guid>
-      <pubDate>Sat, 21 Feb 2026 00:02:08 GMT</pubDate>
     </item>
   </channel>
 </rss>

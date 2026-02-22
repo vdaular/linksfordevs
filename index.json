@@ -1,5 +1,117 @@
 [
   {
+    "Title": "How much are you paying for abstraction?",
+    "Url": "https://kmaliszewski9.github.io/scala/2026/02/20/jsoniter.html",
+    "Timestamp": "2026-02-22T00:03:06",
+    "Domain": "kmaliszewski9.github.io",
+    "Description": "I asked myself this question when playing with (de)serialization in Scala-based microservice doing Kafka stream processing. The bill turned out to be quite a rip-off.",
+    "Confidence": 0.99862534
+  },
+  {
+    "Title": "The Compression of Everything",
+    "Url": "https://blog.approximated-intelligence.de/2026/02/19/ai-compression.html",
+    "Timestamp": "2026-02-22T00:03:02",
+    "Domain": "blog.approximated-intelligence.de",
+    "Description": "Re-encode a JPEG hundreds of times and you get fractal noise. No detail survives long enough to matter, and the structure just dissolves. Not from any single dramatic event - each pass looks almost identical to the one before - the degradation only shows in aggregate, and by then it’s too late to recover what’s lost.",
+    "Confidence": 0.883982
+  },
+  {
+    "Title": "Boris Tane",
+    "Url": "https://boristane.com/blog/the-software-development-lifecycle-is-dead/",
+    "Timestamp": "2026-02-22T00:02:59",
+    "Domain": "boristane.com",
+    "Description": "AI agents didn't make the SDLC faster. They killed it. All that's left is context.",
+    "Confidence": 0.9918663
+  },
+  {
+    "Title": "Fighting games have a product design problem • cthor.me",
+    "Url": "https://cthor.me/Fighting-games-product-design",
+    "Timestamp": "2026-02-22T00:02:55",
+    "Domain": "cthor.me",
+    "Description": "Fighting games in 2026 are floundering, with everything not called Street Fighter 6 relegated to the trash bin of history. The worst and most likely outcome is that other studios look at this and think SF6 is the destiny of the genre and try to mimic its game design to regain some relevance. This will predictably fail, and the genre’s future will ultimately be at the mercy of Street Fighter 7.",
+    "Confidence": 0.9781196
+  },
+  {
+    "Title": "Building a Solar-Powered Bird Station",
+    "Url": "https://alec.is/posts/building-a-solar-powered-bird-station/",
+    "Timestamp": "2026-02-22T00:02:48",
+    "Domain": "alec.is",
+    "Description": "Principal software engineer with deep experience in full-stack TypeScript, custom web browsers and real-time, media-focused systems.",
+    "Confidence": 0.994627
+  },
+  {
+    "Title": "I want Artificial Competence, not more Artificial Intelligence",
+    "Url": "https://jdauriemma.com/programming/i-want-artificial-competence-not-more-ai",
+    "Timestamp": "2026-02-22T00:02:45",
+    "Domain": "jdauriemma.com",
+    "Description": "We are meant to do more than babysit agents.",
+    "Confidence": 0.9553769
+  },
+  {
+    "Title": "Why LLMs Hallucinate and How to Reduce It | Sicheng Ouyang",
+    "Url": "https://sicheng.dev/writing/why-does-LLMs-hallucinate",
+    "Timestamp": "2026-02-22T00:02:41",
+    "Domain": "sicheng.dev",
+    "Description": "Discover the reasons behind hallucinations in Large Language Models (LLMs) and explore the underlying mechanisms that contribute to this phenomenon.",
+    "Confidence": 0.97131747
+  },
+  {
+    "Title": "Refactoring Slop",
+    "Url": "https://elijahpotter.dev/articles/refactoring-slop",
+    "Timestamp": "2026-02-22T00:02:38",
+    "Domain": "elijahpotter.dev",
+    "Description": "There are a gazillion guides out there about the various techniques you can use to improve the quality of AI generated code. Instead, I want to talk about some more generally applicable ideas that I've found especially useful in the age of AI.",
+    "Confidence": 0.99205226
+  },
+  {
+    "Title": "What Happened to Software is Happening to Finance and Accounting",
+    "Url": "https://doempke.com/what-happened-to-software-is-happening-to-finance-and-accounting/",
+    "Timestamp": "2026-02-22T00:02:34",
+    "Domain": "doempke.com",
+    "Description": "AI is repricing professional services. KPMG just pressured its auditor to cut fees 14%. A CPA who codes on what comes next for finance.",
+    "Confidence": 0.90875655
+  },
+  {
+    "Title": "From Microservices to Agent Mesh: Why Your Next Infrastructure Won't Be Coded | Wanderclan",
+    "Url": "https://wanderclan.eu/from-microservices-to-agent-mesh-why-your-next-infrastructure-wont-be-coded/",
+    "Timestamp": "2026-02-22T00:02:31",
+    "Domain": "wanderclan.eu",
+    "Description": "Here is a sentence that would have been absurd three years ago: markdown is becoming a programming language.",
+    "Confidence": 0.9893931
+  },
+  {
+    "Title": "Why Are We Still Writing CRUD UI With Hands?",
+    "Url": "https://shivekkhurana.com/blog/why-are-we-still-writing-crud-ui-with-hands/",
+    "Timestamp": "2026-02-22T00:02:26",
+    "Domain": "shivekkhurana.com",
+    "Description": "Claude can write perfect UIs and Backends, but why is it writing React at all?",
+    "Confidence": 0.99597853
+  },
+  {
+    "Title": "Piantor Pro Review: My RSI Journey and Switching to a 36-Key Keyboard - JovianMoon.io",
+    "Url": "https://jovianmoon.io/posts/rsi-36-key-keyboard",
+    "Timestamp": "2026-02-22T00:02:22",
+    "Domain": "jovianmoon.io",
+    "Description": "A Piantor Pro showcase and the story of how repetitive strain injury forced me to rethink everything about how I type.",
+    "Confidence": 0.9937836
+  },
+  {
+    "Title": "Degoogling — Vishnu's Pages",
+    "Url": "https://iamvishnu.com/posts/degoogling",
+    "Timestamp": "2026-02-22T00:02:18",
+    "Domain": "iamvishnu.com",
+    "Description": "Moving away from Google services after 20 years, and the journey so far.",
+    "Confidence": 0.97842085
+  },
+  {
+    "Title": "Literal translations • Building a language that people want",
+    "Url": "https://blog.merigoux.fr/en/2026/02/19/building-proper-pl.html",
+    "Timestamp": "2026-02-22T00:02:14",
+    "Domain": "blog.merigoux.fr",
+    "Description": "It has been 5 years since I have submitted the Catala paper to theInternational Conference on Functional Programming",
+    "Confidence": 0.98630214
+  },
+  {
     "Title": "Andrej Karpathy talks about “Claws”",
     "Url": "https://simonwillison.net/2026/Feb/21/claws/",
     "Timestamp": "2026-02-21T18:01:51",
@@ -38,141 +150,5 @@
     "Domain": "arstechnica.com",
     "Description": "If DDoSing a blog wasn't bad enough, archive site also tampered with web snapshots.",
     "Confidence": 0.72104096
-  },
-  {
-    "Title": "Engineering Maturity is all you need",
-    "Url": "https://blog.nilenso.com/blog/2026/02/16/engineering-maturity-is-all-you-need/",
-    "Timestamp": "2026-02-21T00:03:12",
-    "Domain": "blog.nilenso.com",
-    "Description": "8:PM in the evening: it’s demo day tomorrow.",
-    "Confidence": 0.99636024
-  },
-  {
-    "Title": "Use digests, not tags, in your Dockerfiles",
-    "Url": "https://interrupt.sh/blog/dockerfile-tags/",
-    "Timestamp": "2026-02-21T00:03:08",
-    "Domain": "interrupt.sh",
-    "Description": "How mutable Docker tags can pwn your builds.",
-    "Confidence": 0.984662
-  },
-  {
-    "Title": "Thoughts on Standardizing Programming Languages",
-    "Url": "https://daoudclarke.net/2026/02/20/thoughts-on-standardizing-languages",
-    "Timestamp": "2026-02-21T00:03:04",
-    "Domain": "daoudclarke.net",
-    "Description": "I’ve worked at a few places where there is a “standard” language. Froman organisational perspective, this makes a lot of sense: if everyonewrites the same la...",
-    "Confidence": 0.98221135
-  },
-  {
-    "Title": "I found a Vulnerability. They found a Lawyer.",
-    "Url": "https://dixken.de/blog/i-found-a-vulnerability-they-found-a-lawyer",
-    "Timestamp": "2026-02-21T00:03:00",
-    "Domain": "dixken.de",
-    "Description": "What happens when you responsibly disclose a critical vulnerability exposing personal data - including that of minors - and the organization responds with legal threats instead of a thank you?",
-    "Confidence": 0.97826093
-  },
-  {
-    "Title": "Django ORM Standalone⁽¹⁾: Querying an existing database",
-    "Url": "https://www.paulox.net/2026/02/20/django-orm-standalone-database-inspectdb-query/",
-    "Timestamp": "2026-02-21T00:02:54",
-    "Domain": "www.paulox.net",
-    "Description": "A practical step-by-step guide to using Django ORM in standalone mode to connect to and query an existing database using inspectdb.",
-    "Confidence": 0.99650776
-  },
-  {
-    "Title": "Inside PostgreSQL's 8KB Page",
-    "Url": "https://boringsql.com/posts/inside-the-8kb-page/",
-    "Timestamp": "2026-02-21T00:02:50",
-    "Domain": "boringsql.com",
-    "Description": "A byte-level tour of the 8KB page. PostgreSQL's atomic unit of storage. We deep dive into page headers, line pointers, and free space using pageinspect to see exactly how your data lives on disk.",
-    "Confidence": 0.99393976
-  },
-  {
-    "Title": "How will OpenAI compete? — Benedict Evans",
-    "Url": "https://www.ben-evans.com/benedictevans/2026/2/19/how-will-openai-compete-nkg2x",
-    "Timestamp": "2026-02-21T00:02:45",
-    "Domain": "www.ben-evans.com",
-    "Description": "OpenAI has some big questions. It doesn’t have unique tech. It has a big user base, but with limited engagement and stickiness and no network effect. The incumbents have matched the tech and are leveraging their product and distribution. And a lot of the value and leverage will come from new experie",
-    "Confidence": 0.9840192
-  },
-  {
-    "Title": "Ten years late to the dbt party (DuckDB edition)",
-    "Url": "https://rmoff.net/2026/02/19/ten-years-late-to-the-dbt-party-duckdb-edition/",
-    "Timestamp": "2026-02-21T00:02:41",
-    "Domain": "rmoff.net",
-    "Description": "",
-    "Confidence": 0.96782047
-  },
-  {
-    "Title": "My Coding Agent Watches Me Get Frustrated, Then Fixes Itself",
-    "Url": "https://pradeep.md/2026/02/20/self-improving-coding-agent.html",
-    "Timestamp": "2026-02-21T00:02:36",
-    "Domain": "pradeep.md",
-    "Description": "pi-reflect reads your coding agent's session logs, finds where you got frustrated, and edits its rules so the same mistakes don't happen again.",
-    "Confidence": 0.98816293
-  },
-  {
-    "Title": "If LLMs Only Predict the Next Token, Why Do They Work?",
-    "Url": "https://sicheng.dev/writing/why-can-LLM-work",
-    "Timestamp": "2026-02-21T00:02:32",
-    "Domain": "sicheng.dev",
-    "Description": "Discussing why LLMs work and the reasoning behind their behavior.",
-    "Confidence": 0.9780441
-  },
-  {
-    "Title": "satisfies never off by one",
-    "Url": "https://nicklawler.website/exhaustiveness-off-by-one/",
-    "Timestamp": "2026-02-21T00:02:29",
-    "Domain": "nicklawler.website",
-    "Description": "Exhaustiveness checking in TypeScript. Works with `if` and ternary expressions. No unnecessary conditions or unreachable code.",
-    "Confidence": 0.9971141
-  },
-  {
-    "Title": "PGQueuer for High-Performance Job Queues",
-    "Url": "https://alexdewey.github.io/AlexDeweyGiovanniniBlog/2026/02/20/PGqueuer.html",
-    "Timestamp": "2026-02-21T00:02:26",
-    "Domain": "alexdewey.github.io",
-    "Description": "PGQueuer takes a PostgreSQL database and can turn it into a reliable background job processor. The problem becomes how on the face unwieldy the technology is. Because it’s powerful, it requires a lot to get into, especially for people new to backend development.",
-    "Confidence": 0.99342406
-  },
-  {
-    "Title": "Thought Eddies",
-    "Url": "https://www.danielcorin.com/posts/2026/stateful-agents/",
-    "Timestamp": "2026-02-21T00:02:23",
-    "Domain": "www.danielcorin.com",
-    "Description": "An Experimental Digital Garden",
-    "Confidence": 0.99555874
-  },
-  {
-    "Title": "Be Wary of Bluesky",
-    "Url": "https://kevinak.se/blog/be-wary-of-bluesky",
-    "Timestamp": "2026-02-21T00:02:19",
-    "Domain": "kevinak.se",
-    "Description": "Bluesky promises decentralization, but nearly every user's data sits on Bluesky's servers, and every new ATProto app reinforces that centralization. T",
-    "Confidence": 0.98486286
-  },
-  {
-    "Title": "I Audited Three Vibe Coded Products in a Single Day",
-    "Url": "https://fromtheprism.com/vibe-coding-audit",
-    "Timestamp": "2026-02-21T00:02:16",
-    "Domain": "fromtheprism.com",
-    "Description": "Three AI-built products, three critical security vulnerabilities. An afternoon of casual testing reveals what happens when nobody understands the code that runs their product.",
-    "Confidence": 0.972129
-  },
-  {
-    "Title": "erxi or how I learned to love the fast testing suite",
-    "Url": "https://hahn.website/blog/erxi/",
-    "Timestamp": "2026-02-21T00:02:13",
-    "Domain": "hahn.website",
-    "Description": "erxi is available on GitHub.",
-    "Confidence": 0.98875093
-  },
-  {
-    "Title": "Vibe Coding vs Vibe Engineering\n",
-    "Url": "https://mfbt.ai/blog/vibe-coding-vs-vibe-engineering/",
-    "Timestamp": "2026-02-21T00:02:08",
-    "Domain": "mfbt.ai",
-    "Description": "Coding is only one aspect of the engineering process. We don't have to leverage LLMs just to code. We can leverage them to engineer better software.\n",
-    "Confidence": 0.9940371
   }
 ]
