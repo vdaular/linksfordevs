@@ -142,13 +142,5 @@
     "Domain": "simonwillison.net",
     "Description": "Andrej Karpathy tweeted a mini-essay about buying a Mac Mini (\"The apple store person told me they are selling like hotcakes and everyone is confused\") to tinker with Claws: I'm …",
     "Confidence": 0.9835306
-  },
-  {
-    "Title": "I Verified My LinkedIn Identity. Here's What I Actually Handed Over.",
-    "Url": "https://thelocalstack.eu/posts/linkedin-identity-verification-privacy/",
-    "Timestamp": "2026-02-21T14:02:02",
-    "Domain": "thelocalstack.eu",
-    "Description": "I wanted a blue badge on LinkedIn. To get it, I gave a US company my passport, my face, and my biometric data. Then I read the fine print.",
-    "Confidence": 0.90036637
   }
 ]
