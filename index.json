@@ -1,5 +1,13 @@
 [
   {
+    "Title": "What's so hard about continuous learning?",
+    "Url": "https://www.seangoedecke.com/continuous-learning/",
+    "Timestamp": "2026-02-23T21:02:17",
+    "Domain": "www.seangoedecke.com",
+    "Description": "Why can’t models continue to get smarter after they’re deployed? If you hire a human employee, they will grow more familiar with your systems over time, and (if they stick around long enough) eventually become a genuine domain expert. AI models are not like this. They are always exactly as capable as the first moment you use them.",
+    "Confidence": 0.9977432
+  },
+  {
     "Title": "The Age Verification Trap",
     "Url": "https://spectrum.ieee.org/age-verification",
     "Timestamp": "2026-02-23T17:02:16",
