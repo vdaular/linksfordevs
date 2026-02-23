@@ -1,5 +1,13 @@
 [
   {
+    "Title": "The Little Red Dot",
+    "Url": "https://idiallo.com/blog/little-red-dot?src=feed",
+    "Timestamp": "2026-02-23T12:02:10",
+    "Domain": "idiallo.com",
+    "Description": "Sometimes, I have 50 tabs open. Looking for a single piece of information ends up being a rapid click on each tab until I find what I'm looking for. Somehow, every time I get to that LinkedIn tab, I p",
+    "Confidence": 0.98681957
+  },
+  {
     "Title": "CIA World Factbook Archive",
     "Url": "https://cia-factbook-archive.fly.dev/",
     "Timestamp": "2026-02-23T07:02:03",
