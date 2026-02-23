@@ -222,13 +222,5 @@
     "Domain": "github.com",
     "Description": "High-efficiency LLM inference engine in C++/CUDA. Run Llama 70B on RTX 3090. - xaskasdf/ntransformer",
     "Confidence": 0.9966658
-  },
-  {
-    "Title": "Boris Tane",
-    "Url": "https://boristane.com/blog/how-i-use-claude-code/",
-    "Timestamp": "2026-02-22T06:02:15",
-    "Domain": "boristane.com",
-    "Description": "The research-plan-implement workflow I use to build software with Claude Code, and why I never let it write code until I've approved a written plan.",
-    "Confidence": 0.98911387
   }
 ]
