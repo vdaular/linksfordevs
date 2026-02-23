@@ -222,13 +222,5 @@
     "Domain": "susam.net",
     "Description": "By Susam Pal on 20 Jan 2026",
     "Confidence": 0.91906714
-  },
-  {
-    "Title": "GitHub - xaskasdf/ntransformer: High-efficiency LLM inference engine in C++/CUDA. Run Llama 70B on RTX 3090.",
-    "Url": "https://github.com/xaskasdf/ntransformer",
-    "Timestamp": "2026-02-22T11:01:57",
-    "Domain": "github.com",
-    "Description": "High-efficiency LLM inference engine in C++/CUDA. Run Llama 70B on RTX 3090. - xaskasdf/ntransformer",
-    "Confidence": 0.9966658
   }
 ]
