@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Blood test boosts Alzheimer's diagnosis accuracy to 94.5%, clinical study shows</title>
+      <link>https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html</link>
+      <description>A protein lurking around in the blood can help with the accurate diagnosis of Alzheimer's disease. In a recent study, researchers from Spain investigated how blood-based biomarkers, such as a protein called p-tau217, affect both the clinical diagnosis of Alzheimer's and neurologists' confidence in their diagnosis.</description>
+      <category>web</category>
+      <guid>https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html</guid>
+      <pubDate>Tue, 24 Feb 2026 10:02:04 GMT</pubDate>
+    </item>
+    <item>
       <title>Dictionary Compression is finally here, and it's ridiculously good</title>
       <link>https://httptoolkit.com/blog/dictionary-compression-performance-zstd-brotli/</link>
       <description> Dictionary compression could completely change how applications send data over the web. It's recently gained broad support, and offers absurd real-world...</description>
