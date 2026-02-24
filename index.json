@@ -214,13 +214,5 @@
     "Domain": "spectrum.ieee.org",
     "Description": "Platforms are caught in a dilemma: enforce age restrictions or protect user privacy. How are they navigating this tricky terrain?",
     "Confidence": 0.7827224
-  },
-  {
-    "Title": "Ladybird adopts Rust, with help from AI - Ladybird",
-    "Url": "https://ladybird.org/posts/adopting-rust/",
-    "Timestamp": "2026-02-23T13:02:08",
-    "Domain": "ladybird.org",
-    "Description": "We're adopting Rust as our C++ successor language, and using AI agents to accelerate the transition.",
-    "Confidence": 0.98902035
   }
 ]
