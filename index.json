@@ -1,5 +1,13 @@
 [
   {
+    "Title": "FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI build one for me",
+    "Url": "https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/",
+    "Timestamp": "2026-02-24T03:02:41",
+    "Domain": "vladimir.varank.in",
+    "Description": "My old 2016 MacBook Pro has been collecting dust in a cabinet for some time now. The laptop suffers from a “flexgate” problem, and I don’t have any practical use for it. For quite some time, I’ve been thinking about repurposing it as a guinea pig, to play with FreeBSD — an OS that I’d aspired to play with for a long while, but had never had a real reason to.\nDuring the recent holiday season, right after FreeBSD 15 release, I’ve finally found time to set the laptop up. Doing that I didn’t plan, or even think, this may turn into a story about AI coding.",
+    "Confidence": 0.9508749
+  },
+  {
     "Title": "Risk-Adjusted Intelligence • Matt Neary",
     "Url": "http://blog.mattneary.com/risk-adjusted-intelligence",
     "Timestamp": "2026-02-24T00:04:24",
@@ -198,21 +206,5 @@
     "Domain": "www.seangoedecke.com",
     "Description": "Speculation about what’s really going on inside a tech company is almost always wrong.",
     "Confidence": 0.8351954
-  },
-  {
-    "Title": "Loops - Short videos. Your community. Your rules.",
-    "Url": "https://joinloops.org/",
-    "Timestamp": "2026-02-23T03:02:14",
-    "Domain": "joinloops.org",
-    "Description": "All the fun of short-form video, none of the corporate control. Loops is federated, open-source, and designed to give power back to creators and communities.",
-    "Confidence": 0.9377344
-  },
-  {
-    "Title": "Account Restricted Without WARNING– Google AI Ultra / OAuth via OpenClaw - Google Antigravity - Google AI Developers Forum",
-    "Url": "https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778",
-    "Timestamp": "2026-02-23T03:02:10",
-    "Domain": "discuss.ai.google.dev",
-    "Description": "I’m seeking assistance regarding a sudden restriction on my Google AI Ultra account that has persisted for three days. I received no prior warnings or notifications regarding a potential violation.  The only recent change in my workflow was connecting Gemini models via OpenClaw OAuth. If third-party integrations are the issue, I would expect the platform to block the integration rather than restrict a paid account ($249/mo) without communication.  I have already emailed support but haven’t recei...",
-    "Confidence": 0.9253653
   }
 ]

@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI build one for me</title>
+      <link>https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/</link>
+      <description>My old 2016 MacBook Pro has been collecting dust in a cabinet for some time now. The laptop suffers from a “flexgate” problem, and I don’t have any practical use for it. For quite some time, I’ve been thinking about repurposing it as a guinea pig, to play with FreeBSD — an OS that I’d aspired to play with for a long while, but had never had a real reason to.
+During the recent holiday season, right after FreeBSD 15 release, I’ve finally found time to set the laptop up. Doing that I didn’t plan, or even think, this may turn into a story about AI coding.</description>
+      <category>linux</category>
+      <category>ai</category>
+      <category>encryption</category>
+      <category>gaming</category>
+      <guid>https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/</guid>
+      <pubDate>Tue, 24 Feb 2026 03:02:41 GMT</pubDate>
+    </item>
+    <item>
       <title>Risk-Adjusted Intelligence • Matt Neary</title>
       <link>http://blog.mattneary.com/risk-adjusted-intelligence</link>
       <description>Software engineers have maintained a self-conception as highly paid, skilled tradespeople. This framework is falling apart now that the barriers to entry are disappearing. The craft is now carried out by AI — the SWE is just the capital allocator,... | Matt Neary | Svbtle</description>
@@ -236,21 +248,6 @@
       <category>ai</category>
       <guid>https://www.seangoedecke.com/insider-amnesia/</guid>
       <pubDate>Mon, 23 Feb 2026 05:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Loops - Short videos. Your community. Your rules.</title>
-      <link>https://joinloops.org/</link>
-      <description>All the fun of short-form video, none of the corporate control. Loops is federated, open-source, and designed to give power back to creators and communities.</description>
-      <guid>https://joinloops.org/</guid>
-      <pubDate>Mon, 23 Feb 2026 03:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Account Restricted Without WARNING– Google AI Ultra / OAuth via OpenClaw - Google Antigravity - Google AI Developers Forum</title>
-      <link>https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778</link>
-      <description>I’m seeking assistance regarding a sudden restriction on my Google AI Ultra account that has persisted for three days. I received no prior warnings or notifications regarding a potential violation.  The only recent change in my workflow was connecting Gemini models via OpenClaw OAuth. If third-party integrations are the issue, I would expect the platform to block the integration rather than restrict a paid account ($249/mo) without communication.  I have already emailed support but haven’t recei...</description>
-      <category>ai</category>
-      <guid>https://discuss.ai.google.dev/t/account-restricted-without-warning-google-ai-ultra-oauth-via-openclaw/122778</guid>
-      <pubDate>Mon, 23 Feb 2026 03:02:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
