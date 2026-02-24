@@ -260,13 +260,5 @@ During the recent holiday season, right after FreeBSD 15 release, I’ve finally
       <guid>https://idiallo.com/blog/little-red-dot?src=feed</guid>
       <pubDate>Mon, 23 Feb 2026 12:02:10 GMT</pubDate>
     </item>
-    <item>
-      <title>CIA World Factbook Archive</title>
-      <link>https://cia-factbook-archive.fly.dev/</link>
-      <description>36 years of structured intelligence data. Search, browse, compare, and export 1,061,522 fields across 281 entities (1990-2025).</description>
-      <category>gaming</category>
-      <guid>https://cia-factbook-archive.fly.dev/</guid>
-      <pubDate>Mon, 23 Feb 2026 07:02:03 GMT</pubDate>
-    </item>
   </channel>
 </rss>
