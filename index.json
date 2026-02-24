@@ -1,5 +1,21 @@
 [
   {
+    "Title": "the watchers: how openai, the US government, and persona built an identity surveillance machine that files reports on you to the feds",
+    "Url": "https://vmfunc.re/blog/persona/",
+    "Timestamp": "2026-02-24T20:02:39",
+    "Domain": "vmfunc.re",
+    "Description": "53MB of source code leaked from a government endpoint. 269 verification checks. biometric face databases. SAR filings to FinCEN. and the same company that verifies your ChatGPT account.",
+    "Confidence": 0.9842373
+  },
+  {
+    "Title": "I Taught My Dog to Vibe Code Games | Caleb Leak",
+    "Url": "https://www.calebleak.com/posts/dog-game/",
+    "Timestamp": "2026-02-24T20:02:36",
+    "Domain": "www.calebleak.com",
+    "Description": "My cavapoo Momo vibe coded playable Godot games. All I had to do was teach her to type, route her input to Claude Code, and build the right tools.",
+    "Confidence": 0.9810014
+  },
+  {
     "Title": "The Hidden Cost of AI-Assisted Coding No One is Talking About",
     "Url": "https://www.bitarch.dev/blog/the-hidden-cost-of-ai-assisted-coding",
     "Timestamp": "2026-02-24T15:02:11",
