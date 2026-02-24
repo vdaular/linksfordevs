@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Code Isn’t Slowing Your Project Down, Communication Is - ShiftMag",
+    "Url": "https://shiftmag.dev/code-isnt-slowing-your-project-down-communication-is-7889/",
+    "Timestamp": "2026-02-24T05:02:39",
+    "Domain": "shiftmag.dev",
+    "Description": "Large software projects slow down not due to code, but poor communication. Conway’s Law shapes architecture but the Inverse Conway Maneuver can speed delivery.",
+    "Confidence": 0.99560523
+  },
+  {
     "Title": "FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI build one for me",
     "Url": "https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/",
     "Timestamp": "2026-02-24T03:02:41",
@@ -198,13 +206,5 @@
     "Domain": "cia-factbook-archive.fly.dev",
     "Description": "36 years of structured intelligence data. Search, browse, compare, and export 1,061,522 fields across 281 entities (1990-2025).",
     "Confidence": 0.86257255
-  },
-  {
-    "Title": "Insider amnesia",
-    "Url": "https://www.seangoedecke.com/insider-amnesia/",
-    "Timestamp": "2026-02-23T05:02:12",
-    "Domain": "www.seangoedecke.com",
-    "Description": "Speculation about what’s really going on inside a tech company is almost always wrong.",
-    "Confidence": 0.8351954
   }
 ]

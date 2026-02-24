@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Code Isn’t Slowing Your Project Down, Communication Is - ShiftMag</title>
+      <link>https://shiftmag.dev/code-isnt-slowing-your-project-down-communication-is-7889/</link>
+      <description>Large software projects slow down not due to code, but poor communication. Conway’s Law shapes architecture but the Inverse Conway Maneuver can speed delivery.</description>
+      <category>ai</category>
+      <guid>https://shiftmag.dev/code-isnt-slowing-your-project-down-communication-is-7889/</guid>
+      <pubDate>Tue, 24 Feb 2026 05:02:39 GMT</pubDate>
+    </item>
+    <item>
       <title>FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI build one for me</title>
       <link>https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/</link>
       <description>My old 2016 MacBook Pro has been collecting dust in a cabinet for some time now. The laptop suffers from a “flexgate” problem, and I don’t have any practical use for it. For quite some time, I’ve been thinking about repurposing it as a guinea pig, to play with FreeBSD — an OS that I’d aspired to play with for a long while, but had never had a real reason to.
@@ -240,14 +248,6 @@ During the recent holiday season, right after FreeBSD 15 release, I’ve finally
       <category>gaming</category>
       <guid>https://cia-factbook-archive.fly.dev/</guid>
       <pubDate>Mon, 23 Feb 2026 07:02:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Insider amnesia</title>
-      <link>https://www.seangoedecke.com/insider-amnesia/</link>
-      <description>Speculation about what’s really going on inside a tech company is almost always wrong.</description>
-      <category>ai</category>
-      <guid>https://www.seangoedecke.com/insider-amnesia/</guid>
-      <pubDate>Mon, 23 Feb 2026 05:02:12 GMT</pubDate>
     </item>
   </channel>
 </rss>
