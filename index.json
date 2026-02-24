@@ -1,5 +1,21 @@
 [
   {
+    "Title": "An Open Letter to Google regarding Mandatory Developer Registration for Android App Distribution",
+    "Url": "https://keepandroidopen.org/open-letter/",
+    "Timestamp": "2026-02-24T21:02:12",
+    "Domain": "keepandroidopen.org",
+    "Description": "Open Letter to Google Regarding Mandatory Developer Registration for Third-Party App Distribution",
+    "Confidence": 0.9289531
+  },
+  {
+    "Title": "RFC 406i - The Rejection of Artificially Generated Slop (RAGS)",
+    "Url": "https://406.fail/",
+    "Timestamp": "2026-02-24T21:02:09",
+    "Domain": "406.fail",
+    "Description": "[ERROR 406i: AI_SLOP_DETECTED]",
+    "Confidence": 0.9750036
+  },
+  {
     "Title": "the watchers: how openai, the US government, and persona built an identity surveillance machine that files reports on you to the feds",
     "Url": "https://vmfunc.re/blog/persona/",
     "Timestamp": "2026-02-24T20:02:39",
@@ -222,13 +238,5 @@
     "Domain": "enigmeta.com",
     "Description": "When AI writes your code, understanding doesn't come along for the ride. What if the same codebase that builds the software also generates narrated video walkthroughs that explain it?",
     "Confidence": 0.9633134
-  },
-  {
-    "Title": "What's so hard about continuous learning?",
-    "Url": "https://www.seangoedecke.com/continuous-learning/",
-    "Timestamp": "2026-02-23T21:02:17",
-    "Domain": "www.seangoedecke.com",
-    "Description": "Why can’t models continue to get smarter after they’re deployed? If you hire a human employee, they will grow more familiar with your systems over time, and (if they stick around long enough) eventually become a genuine domain expert. AI models are not like this. They are always exactly as capable as the first moment you use them.",
-    "Confidence": 0.9977432
   }
 ]

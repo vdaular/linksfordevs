@@ -7,6 +7,26 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>An Open Letter to Google regarding Mandatory Developer Registration for Android App Distribution</title>
+      <link>https://keepandroidopen.org/open-letter/</link>
+      <description>Open Letter to Google Regarding Mandatory Developer Registration for Third-Party App Distribution</description>
+      <category>android</category>
+      <category>sql</category>
+      <guid>https://keepandroidopen.org/open-letter/</guid>
+      <pubDate>Tue, 24 Feb 2026 21:02:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>RFC 406i - The Rejection of Artificially Generated Slop (RAGS)</title>
+      <link>https://406.fail/</link>
+      <description>[ERROR 406i: AI_SLOP_DETECTED]</description>
+      <category>ai</category>
+      <category>git</category>
+      <category>apple</category>
+      <category>python</category>
+      <guid>https://406.fail/</guid>
+      <pubDate>Tue, 24 Feb 2026 21:02:09 GMT</pubDate>
+    </item>
+    <item>
       <title>the watchers: how openai, the US government, and persona built an identity surveillance machine that files reports on you to the feds</title>
       <link>https://vmfunc.re/blog/persona/</link>
       <description>53MB of source code leaked from a government endpoint. 269 verification checks. biometric face databases. SAR filings to FinCEN. and the same company that verifies your ChatGPT account.</description>
@@ -274,14 +294,6 @@ During the recent holiday season, right after FreeBSD 15 release, I’ve finally
       <category>ai</category>
       <guid>https://enigmeta.com/posts/2026-02-19-video-overviews-for-agentic-code/</guid>
       <pubDate>Tue, 24 Feb 2026 00:03:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>What's so hard about continuous learning?</title>
-      <link>https://www.seangoedecke.com/continuous-learning/</link>
-      <description>Why can’t models continue to get smarter after they’re deployed? If you hire a human employee, they will grow more familiar with your systems over time, and (if they stick around long enough) eventually become a genuine domain expert. AI models are not like this. They are always exactly as capable as the first moment you use them.</description>
-      <category>ai</category>
-      <guid>https://www.seangoedecke.com/continuous-learning/</guid>
-      <pubDate>Mon, 23 Feb 2026 21:02:17 GMT</pubDate>
     </item>
   </channel>
 </rss>

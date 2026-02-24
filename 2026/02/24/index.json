@@ -1,5 +1,19 @@
 [
   {
+    "Title": "An Open Letter to Google regarding Mandatory Developer Registration for Android App Distribution",
+    "Url": "https://keepandroidopen.org/open-letter/",
+    "Timestamp": "2026-02-24T21:02:12",
+    "Domain": "keepandroidopen.org",
+    "Description": "Open Letter to Google Regarding Mandatory Developer Registration for Third-Party App Distribution"
+  },
+  {
+    "Title": "RFC 406i - The Rejection of Artificially Generated Slop (RAGS)",
+    "Url": "https://406.fail/",
+    "Timestamp": "2026-02-24T21:02:09",
+    "Domain": "406.fail",
+    "Description": "[ERROR 406i: AI_SLOP_DETECTED]"
+  },
+  {
     "Title": "the watchers: how openai, the US government, and persona built an identity surveillance machine that files reports on you to the feds",
     "Url": "https://vmfunc.re/blog/persona/",
     "Timestamp": "2026-02-24T20:02:39",
