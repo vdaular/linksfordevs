@@ -259,14 +259,5 @@ During the recent holiday season, right after FreeBSD 15 release, I’ve finally
       <guid>https://www.seangoedecke.com/continuous-learning/</guid>
       <pubDate>Mon, 23 Feb 2026 21:02:17 GMT</pubDate>
     </item>
-    <item>
-      <title>The Age Verification Trap</title>
-      <link>https://spectrum.ieee.org/age-verification</link>
-      <description>Platforms are caught in a dilemma: enforce age restrictions or protect user privacy. How are they navigating this tricky terrain?</description>
-      <author> (https://www.facebook.com/48576411181)</author>
-      <category>ai</category>
-      <guid>https://spectrum.ieee.org/age-verification</guid>
-      <pubDate>Mon, 23 Feb 2026 17:02:16 GMT</pubDate>
-    </item>
   </channel>
 </rss>
