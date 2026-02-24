@@ -7,6 +7,25 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Dictionary Compression is finally here, and it's ridiculously good</title>
+      <link>https://httptoolkit.com/blog/dictionary-compression-performance-zstd-brotli/</link>
+      <description> Dictionary compression could completely change how applications send data over the web. It's recently gained broad support, and offers absurd real-world...</description>
+      <category>nodejs</category>
+      <category>javascript</category>
+      <category>web</category>
+      <category>python</category>
+      <guid>https://httptoolkit.com/blog/dictionary-compression-performance-zstd-brotli/</guid>
+      <pubDate>Tue, 24 Feb 2026 06:02:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Amperage</title>
+      <link>https://xkcd.com/3211/</link>
+      <description></description>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3211/</guid>
+      <pubDate>Tue, 24 Feb 2026 06:02:03 GMT</pubDate>
+    </item>
+    <item>
       <title>Code Isn’t Slowing Your Project Down, Communication Is - ShiftMag</title>
       <link>https://shiftmag.dev/code-isnt-slowing-your-project-down-communication-is-7889/</link>
       <description>Large software projects slow down not due to code, but poor communication. Conway’s Law shapes architecture but the Inverse Conway Maneuver can speed delivery.</description>

@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Dictionary Compression is finally here, and it's ridiculously good",
+    "Url": "https://httptoolkit.com/blog/dictionary-compression-performance-zstd-brotli/",
+    "Timestamp": "2026-02-24T06:02:06",
+    "Domain": "httptoolkit.com",
+    "Description": " Dictionary compression could completely change how applications send data over the web. It's recently gained broad support, and offers absurd real-world...",
+    "Confidence": 0.9937929
+  },
+  {
+    "Title": "Amperage",
+    "Url": "https://xkcd.com/3211/",
+    "Timestamp": "2026-02-24T06:02:03",
+    "Domain": "xkcd.com",
+    "Description": "",
+    "Confidence": 0.98151064
+  },
+  {
     "Title": "Code Isn’t Slowing Your Project Down, Communication Is - ShiftMag",
     "Url": "https://shiftmag.dev/code-isnt-slowing-your-project-down-communication-is-7889/",
     "Timestamp": "2026-02-24T05:02:39",
