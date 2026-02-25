@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>When access to knowledge is no longer the limitation</title>
+      <link>https://idiallo.com/blog/access-to-knowledge-is-no-longer-a-limitation?src=feed</link>
+      <description>Let's do this thought experiment together. I have a little box. I'll place the box on the table. Now I'll open the little box and put all the arguments against large language models in it. I'll put al</description>
+      <category>ai</category>
+      <guid>https://idiallo.com/blog/access-to-knowledge-is-no-longer-a-limitation?src=feed</guid>
+      <pubDate>Wed, 25 Feb 2026 12:02:11 GMT</pubDate>
+    </item>
+    <item>
       <title>pi.dev</title>
       <link>https://pi.dev/</link>
       <description>A terminal-based coding agent</description>
