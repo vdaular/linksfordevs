@@ -222,13 +222,5 @@
     "Domain": "www.calebleak.com",
     "Description": "My cavapoo Momo vibe coded playable Godot games. All I had to do was teach her to type, route her input to Claude Code, and build the right tools.",
     "Confidence": 0.9810014
-  },
-  {
-    "Title": "The Hidden Cost of AI-Assisted Coding No One is Talking About",
-    "Url": "https://www.bitarch.dev/blog/the-hidden-cost-of-ai-assisted-coding",
-    "Timestamp": "2026-02-24T15:02:11",
-    "Domain": "www.bitarch.dev",
-    "Description": "AI helps us write code faster than ever, but are we sacrificing modularity, readability, and maintainability?",
-    "Confidence": 0.9932721
   }
 ]
