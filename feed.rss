@@ -311,17 +311,5 @@ Armed with a laptop and $100 Claude Code subscripti...</description>
       <guid>https://shiftmag.dev/code-isnt-slowing-your-project-down-communication-is-7889/</guid>
       <pubDate>Tue, 24 Feb 2026 05:02:39 GMT</pubDate>
     </item>
-    <item>
-      <title>FreeBSD doesn't have Wi-Fi driver for my old MacBook. AI build one for me</title>
-      <link>https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/</link>
-      <description>My old 2016 MacBook Pro has been collecting dust in a cabinet for some time now. The laptop suffers from a “flexgate” problem, and I don’t have any practical use for it. For quite some time, I’ve been thinking about repurposing it as a guinea pig, to play with FreeBSD — an OS that I’d aspired to play with for a long while, but had never had a real reason to.
-During the recent holiday season, right after FreeBSD 15 release, I’ve finally found time to set the laptop up. Doing that I didn’t plan, or even think, this may turn into a story about AI coding.</description>
-      <category>linux</category>
-      <category>ai</category>
-      <category>encryption</category>
-      <category>gaming</category>
-      <guid>https://vladimir.varank.in/notes/2026/02/freebsd-brcmfmac/</guid>
-      <pubDate>Tue, 24 Feb 2026 03:02:41 GMT</pubDate>
-    </item>
   </channel>
 </rss>
