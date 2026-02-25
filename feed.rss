@@ -300,29 +300,5 @@ Armed with a laptop and $100 Claude Code subscripti...</description>
       <guid>https://406.fail/</guid>
       <pubDate>Tue, 24 Feb 2026 21:02:09 GMT</pubDate>
     </item>
-    <item>
-      <title>the watchers: how openai, the US government, and persona built an identity surveillance machine that files reports on you to the feds</title>
-      <link>https://vmfunc.re/blog/persona/</link>
-      <description>53MB of source code leaked from a government endpoint. 269 verification checks. biometric face databases. SAR filings to FinCEN. and the same company that verifies your ChatGPT account.</description>
-      <category>javascript</category>
-      <category>typescript</category>
-      <category>conference</category>
-      <category>ai</category>
-      <category>sql</category>
-      <guid>https://vmfunc.re/blog/persona/</guid>
-      <pubDate>Tue, 24 Feb 2026 20:02:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>I Taught My Dog to Vibe Code Games | Caleb Leak</title>
-      <link>https://www.calebleak.com/posts/dog-game/</link>
-      <description>My cavapoo Momo vibe coded playable Godot games. All I had to do was teach her to type, route her input to Claude Code, and build the right tools.</description>
-      <category>gaming</category>
-      <category>rust</category>
-      <category>apple</category>
-      <category>ai</category>
-      <category>nodejs</category>
-      <guid>https://www.calebleak.com/posts/dog-game/</guid>
-      <pubDate>Tue, 24 Feb 2026 20:02:36 GMT</pubDate>
-    </item>
   </channel>
 </rss>
