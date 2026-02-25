@@ -246,13 +246,5 @@
     "Domain": "xkcd.com",
     "Description": "",
     "Confidence": 0.98151064
-  },
-  {
-    "Title": "Code Isn’t Slowing Your Project Down, Communication Is - ShiftMag",
-    "Url": "https://shiftmag.dev/code-isnt-slowing-your-project-down-communication-is-7889/",
-    "Timestamp": "2026-02-24T05:02:39",
-    "Domain": "shiftmag.dev",
-    "Description": "Large software projects slow down not due to code, but poor communication. Conway’s Law shapes architecture but the Inverse Conway Maneuver can speed delivery.",
-    "Confidence": 0.99560523
   }
 ]

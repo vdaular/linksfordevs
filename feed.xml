@@ -303,13 +303,5 @@ Armed with a laptop and $100 Claude Code subscripti...</description>
       <guid>https://xkcd.com/3211/</guid>
       <pubDate>Tue, 24 Feb 2026 06:02:03 GMT</pubDate>
     </item>
-    <item>
-      <title>Code Isn’t Slowing Your Project Down, Communication Is - ShiftMag</title>
-      <link>https://shiftmag.dev/code-isnt-slowing-your-project-down-communication-is-7889/</link>
-      <description>Large software projects slow down not due to code, but poor communication. Conway’s Law shapes architecture but the Inverse Conway Maneuver can speed delivery.</description>
-      <category>ai</category>
-      <guid>https://shiftmag.dev/code-isnt-slowing-your-project-down-communication-is-7889/</guid>
-      <pubDate>Tue, 24 Feb 2026 05:02:39 GMT</pubDate>
-    </item>
   </channel>
 </rss>
