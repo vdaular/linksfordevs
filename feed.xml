@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Fake Job Interviews Are Installing Backdoors on Developer Machines</title>
+      <link>https://threatroad.substack.com/p/fake-job-interviews-are-installing</link>
+      <description>Microsoft found attackers weaponizing Next.js “technical assessments” that trigger C2 the moment you open the project in VS Code. Three execution paths, same backdoor.</description>
+      <category>nodejs</category>
+      <category>git</category>
+      <category>conference</category>
+      <category>vscode</category>
+      <category>cloud</category>
+      <guid>https://threatroad.substack.com/p/fake-job-interviews-are-installing</guid>
+      <pubDate>Wed, 25 Feb 2026 17:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>Never Buy A .online Domain</title>
       <link>https://www.0xsid.com/blog/online-tld-is-pain</link>
       <description>I’ve been a .com purist for over two decades of building. Once, I broke that rule and bought a .online TLD for a small project. This is the story of how it went up in flames.</description>
