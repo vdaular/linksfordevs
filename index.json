@@ -1,5 +1,173 @@
 [
   {
+    "Title": "I Contain Multitudes",
+    "Url": "https://tobeva.com/articles/multitudes/",
+    "Timestamp": "2026-02-25T01:03:37",
+    "Domain": "tobeva.com",
+    "Description": "The Agentic Coding Simul",
+    "Confidence": 0.94752973
+  },
+  {
+    "Title": "Why It's Hard to Claw the Enterprise",
+    "Url": "https://mercurialsolo.github.io/posts/request-for-agent-infra/",
+    "Timestamp": "2026-02-25T01:03:33",
+    "Domain": "mercurialsolo.github.io",
+    "Description": "Inspite of all the hype around personal assistants, personal agency still feels far from reality. It feels like we are the ones grinding for the agents today - constantly reviewing plans, uploading context and providing agents access to tools.",
+    "Confidence": 0.87368983
+  },
+  {
+    "Title": "Agents are not thinking, they are searching",
+    "Url": "https://technoyoda.github.io/agent-search.html",
+    "Timestamp": "2026-02-25T01:03:30",
+    "Domain": "technoyoda.github.io",
+    "Description": "Prologue",
+    "Confidence": 0.98689586
+  },
+  {
+    "Title": "Why the KeePass format should be based on SQLite",
+    "Url": "https://mketab.org/blog/sqlite_kdbx/",
+    "Timestamp": "2026-02-25T01:03:27",
+    "Domain": "mketab.org",
+    "Description": "KeePass has long been the gold standard and darling of the tech world due to its unrelenting commitment to security, stability, and data sovereignty. However, the XML format which the KDBX file format has been predicated on since 2007 has become a persistent friction point for developers and users in the adoption of modern security and convenience features.\nThe Problems with KDBX Let us first start by explaining what a KDBX (4.1) file actually is. 1 Barring the technicalities, a KDBX file is an encrypted & authenticated gzipped XML file which contains the typical fields you may expect of a password manager. Attachments are stored as binary data (the old KDBX 3 format used to base64 encode the files), while custom icons are stored as base64 strings within the XML file. Important to note is that every time a KDBX file is updated, no matter how small the edit was, the entire file gets rewritten. The entire file is also loaded into memory. Perhaps the most relevant part of the spec to this post are the TProtectedString and CustomData references, which, respectively, are the user-facing custom attributes, and non-user-facing plugin or app data.",
+    "Confidence": 0.9911062
+  },
+  {
+    "Title": "Lime's billing model is encouraging cyclists to run red lights",
+    "Url": "https://tk.gg/posts/lime-bikes-should-stop-charging-when-you-stop",
+    "Timestamp": "2026-02-25T01:03:24",
+    "Domain": "tk.gg",
+    "Description": "Per-minute billing on rental bikes may be the worst incentive for good behaviour.",
+    "Confidence": 0.91692567
+  },
+  {
+    "Title": "Stop Writing if in Bash",
+    "Url": "https://samueleamato.xyz/2026/02/24/stop-writing-if-in-bash",
+    "Timestamp": "2026-02-25T01:03:17",
+    "Domain": "samueleamato.xyz",
+    "Description": "Stop Writing if in Bash",
+    "Confidence": 0.96140426
+  },
+  {
+    "Title": "We Solved Execution. Now What?",
+    "Url": "https://anirudharamesh.github.io/blog/we-solved-execution-now-what/",
+    "Timestamp": "2026-02-25T01:03:14",
+    "Domain": "anirudharamesh.github.io",
+    "Description": "AI solved execution. The bottleneck now is purpose.",
+    "Confidence": 0.980774
+  },
+  {
+    "Title": "\"SaaS is Dead\" - they say - Dmitry Kudryavtsev",
+    "Url": "https://kudmitry.com/articles/saas-is-dead-they-say/",
+    "Timestamp": "2026-02-25T01:03:11",
+    "Domain": "kudmitry.com",
+    "Description": "SaaS is Dead.\n\nEverywhere you look -- be it HackerNews, Reddit, or LinkedIn -- they claim that SaaS is dead.\nArmed with a laptop and $100 Claude Code subscripti...",
+    "Confidence": 0.9586982
+  },
+  {
+    "Title": "My Way (So Far) | xomiachuna.tech",
+    "Url": "https://xomiachuna.tech/posts/my-way/",
+    "Timestamp": "2026-02-25T01:03:05",
+    "Domain": "xomiachuna.tech",
+    "Description": "Since childhood, I was captivated with sciences. The interest was fueled by a trove of children’s encyclopedias my parents got for me, and for a few years, the primary kind of present I got was books full of illustrations about space, animals, technology, the human body, and adjacent topics. In school, I was often at the top of my class in math, and later in other sciences. Physics specifically showed me that you can apply mathematical thinking in useful ways to solve practical problems.",
+    "Confidence": 0.96392995
+  },
+  {
+    "Title": "The Rise of Agent-to-Agent Apps",
+    "Url": "https://brianchristner.io/the-rise-of-agent-to-agent-apps/",
+    "Timestamp": "2026-02-25T01:03:02",
+    "Domain": "brianchristner.io",
+    "Description": "SaaS won't die—it'll transform into data providers for AI agents. Learn why Agent-Native apps and Agent-to-Agent marketplaces are the next app ecosystem.",
+    "Confidence": 0.99648
+  },
+  {
+    "Title": "No Good Engineer is Arrogant | Agilitza Blog",
+    "Url": "https://agilitza.com/blog/no-good-engineer-is-arrogant/",
+    "Timestamp": "2026-02-25T01:02:59",
+    "Domain": "agilitza.com",
+    "Description": "Why humility isn't just a nice trait for engineers—it's a requirement. If you think you've mastered engineering, you're not doing anything challenging.",
+    "Confidence": 0.9925985
+  },
+  {
+    "Title": "I freaking love the new tools I built for myself",
+    "Url": "https://bastiangruber.ca/posts/i-freaking-love-the-new-tools-i-built-for-myself/",
+    "Timestamp": "2026-02-25T01:02:56",
+    "Domain": "bastiangruber.ca",
+    "Description": "Building with Claude is a real joy and empowerment.",
+    "Confidence": 0.97820866
+  },
+  {
+    "Title": "The Longest Line Of Sight",
+    "Url": "https://tombh.co.uk/longest-line-of-sight",
+    "Timestamp": "2026-02-25T01:02:44",
+    "Domain": "tombh.co.uk",
+    "Description": "09 February 2026",
+    "Confidence": 0.9753682
+  },
+  {
+    "Title": "Row Locks With Joins Can Produce Surprising Results in PostgreSQL",
+    "Url": "https://hakibenita.com/postgres-row-lock-with-join",
+    "Timestamp": "2026-02-25T01:02:41",
+    "Domain": "hakibenita.com",
+    "Description": "The strange edge case that triggered our assertions",
+    "Confidence": 0.9921852
+  },
+  {
+    "Title": "Why I Hate Anthropic and You Should Too",
+    "Url": "https://danielmiessler.com/blog/why-you-should-hate-anthropic",
+    "Timestamp": "2026-02-25T01:02:36",
+    "Domain": "danielmiessler.com",
+    "Description": "It's not about what a company does, but how it affects your token budget",
+    "Confidence": 0.7718051
+  },
+  {
+    "Title": "I ported one program to 10 languages to see how an LLM thinks",
+    "Url": "https://www.alexv.lv/llm-ports/",
+    "Timestamp": "2026-02-25T01:02:33",
+    "Domain": "www.alexv.lv",
+    "Description": "← alexv.lv",
+    "Confidence": 0.9943173
+  },
+  {
+    "Title": "The Hydrogen Truck Problem Isn't the Truck",
+    "Url": "https://www.mikeayles.com/blog/hydrogen-refuelling-road-freight/",
+    "Timestamp": "2026-02-25T01:02:29",
+    "Domain": "www.mikeayles.com",
+    "Description": "Hydrogen fuel cell trucks exist. They work. The problem is everything around them: production efficiency, infrastructure economics, and a competitor called 'the grid' that's already everywhere.",
+    "Confidence": 0.95599693
+  },
+  {
+    "Title": "What if iteration is all we need?",
+    "Url": "https://www.robert-glaser.de/what-if-iteration-is-all-we-need/",
+    "Timestamp": "2026-02-25T01:02:26",
+    "Domain": "www.robert-glaser.de",
+    "Description": "What if every ceremony in software development was a workaround for expensive human iteration? What happens when juniors learn architecture on day one and spec-driven development turns out to be waterfall in disguise? Are we in the best restaurant in the world, but there’s no menu?",
+    "Confidence": 0.9652621
+  },
+  {
+    "Title": "Let Developers Cook",
+    "Url": "https://jaylol.com/2026/02/23/ai-and-software-engineering-productivity/",
+    "Timestamp": "2026-02-25T01:02:23",
+    "Domain": "jaylol.com",
+    "Description": "The case for extremely early prototyping in the age of AI",
+    "Confidence": 0.9903021
+  },
+  {
+    "Title": "There's software, and then there's promptware",
+    "Url": "https://kelvinfichter.com/pages/thoughts/promptware/",
+    "Timestamp": "2026-02-25T01:02:19",
+    "Domain": "kelvinfichter.com",
+    "Description": "Agents can do things pretty good, actually!",
+    "Confidence": 0.9839184
+  },
+  {
+    "Title": "SaaS is (ought to be) dead",
+    "Url": "https://dev.ribic.ba/saas-is-dead",
+    "Timestamp": "2026-02-25T01:02:16",
+    "Domain": "dev.ribic.ba",
+    "Description": "Replacing SaaS subscriptions with an hour of agentic coding",
+    "Confidence": 0.96714556
+  },
+  {
     "Title": "How we rebuilt Next.js with AI in one week",
     "Url": "https://blog.cloudflare.com/vinext/",
     "Timestamp": "2026-02-25T00:02:11",

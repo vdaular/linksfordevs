@@ -7,6 +7,203 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>I Contain Multitudes</title>
+      <link>https://tobeva.com/articles/multitudes/</link>
+      <description>The Agentic Coding Simul</description>
+      <category>android</category>
+      <category>ai</category>
+      <category>gaming</category>
+      <category>sql</category>
+      <guid>https://tobeva.com/articles/multitudes/</guid>
+      <pubDate>Wed, 25 Feb 2026 01:03:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why It's Hard to Claw the Enterprise</title>
+      <link>https://mercurialsolo.github.io/posts/request-for-agent-infra/</link>
+      <description>Inspite of all the hype around personal assistants, personal agency still feels far from reality. It feels like we are the ones grinding for the agents today - constantly reviewing plans, uploading context and providing agents access to tools.</description>
+      <category>encryption</category>
+      <category>cloud</category>
+      <category>ai</category>
+      <guid>https://mercurialsolo.github.io/posts/request-for-agent-infra/</guid>
+      <pubDate>Wed, 25 Feb 2026 01:03:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Agents are not thinking, they are searching</title>
+      <link>https://technoyoda.github.io/agent-search.html</link>
+      <description>Prologue</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://technoyoda.github.io/agent-search.html</guid>
+      <pubDate>Wed, 25 Feb 2026 01:03:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why the KeePass format should be based on SQLite</title>
+      <link>https://mketab.org/blog/sqlite_kdbx/</link>
+      <description>KeePass has long been the gold standard and darling of the tech world due to its unrelenting commitment to security, stability, and data sovereignty. However, the XML format which the KDBX file format has been predicated on since 2007 has become a persistent friction point for developers and users in the adoption of modern security and convenience features.
+The Problems with KDBX Let us first start by explaining what a KDBX (4.1) file actually is. 1 Barring the technicalities, a KDBX file is an encrypted &amp; authenticated gzipped XML file which contains the typical fields you may expect of a password manager. Attachments are stored as binary data (the old KDBX 3 format used to base64 encode the files), while custom icons are stored as base64 strings within the XML file. Important to note is that every time a KDBX file is updated, no matter how small the edit was, the entire file gets rewritten. The entire file is also loaded into memory. Perhaps the most relevant part of the spec to this post are the TProtectedString and CustomData references, which, respectively, are the user-facing custom attributes, and non-user-facing plugin or app data.</description>
+      <category>sql</category>
+      <category>cloud</category>
+      <category>encryption</category>
+      <guid>https://mketab.org/blog/sqlite_kdbx/</guid>
+      <pubDate>Wed, 25 Feb 2026 01:03:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lime's billing model is encouraging cyclists to run red lights</title>
+      <link>https://tk.gg/posts/lime-bikes-should-stop-charging-when-you-stop</link>
+      <description>Per-minute billing on rental bikes may be the worst incentive for good behaviour.</description>
+      <author> (Matt TK Taylor)</author>
+      <guid>https://tk.gg/posts/lime-bikes-should-stop-charging-when-you-stop</guid>
+      <pubDate>Wed, 25 Feb 2026 01:03:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stop Writing if in Bash</title>
+      <link>https://samueleamato.xyz/2026/02/24/stop-writing-if-in-bash</link>
+      <description>Stop Writing if in Bash</description>
+      <category>python</category>
+      <guid>https://samueleamato.xyz/2026/02/24/stop-writing-if-in-bash</guid>
+      <pubDate>Wed, 25 Feb 2026 01:03:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>We Solved Execution. Now What?</title>
+      <link>https://anirudharamesh.github.io/blog/we-solved-execution-now-what/</link>
+      <description>AI solved execution. The bottleneck now is purpose.</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://anirudharamesh.github.io/blog/we-solved-execution-now-what/</guid>
+      <pubDate>Wed, 25 Feb 2026 01:03:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>"SaaS is Dead" - they say - Dmitry Kudryavtsev</title>
+      <link>https://kudmitry.com/articles/saas-is-dead-they-say/</link>
+      <description>SaaS is Dead.
+
+Everywhere you look -- be it HackerNews, Reddit, or LinkedIn -- they claim that SaaS is dead.
+Armed with a laptop and $100 Claude Code subscripti...</description>
+      <category>ai</category>
+      <guid>https://kudmitry.com/articles/saas-is-dead-they-say/</guid>
+      <pubDate>Wed, 25 Feb 2026 01:03:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>My Way (So Far) | xomiachuna.tech</title>
+      <link>https://xomiachuna.tech/posts/my-way/</link>
+      <description>Since childhood, I was captivated with sciences. The interest was fueled by a trove of children’s encyclopedias my parents got for me, and for a few years, the primary kind of present I got was books full of illustrations about space, animals, technology, the human body, and adjacent topics. In school, I was often at the top of my class in math, and later in other sciences. Physics specifically showed me that you can apply mathematical thinking in useful ways to solve practical problems.</description>
+      <category>android</category>
+      <category>python</category>
+      <category>ai</category>
+      <category>rust</category>
+      <category>containers</category>
+      <guid>https://xomiachuna.tech/posts/my-way/</guid>
+      <pubDate>Wed, 25 Feb 2026 01:03:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Rise of Agent-to-Agent Apps</title>
+      <link>https://brianchristner.io/the-rise-of-agent-to-agent-apps/</link>
+      <description>SaaS won't die—it'll transform into data providers for AI agents. Learn why Agent-Native apps and Agent-to-Agent marketplaces are the next app ecosystem.</description>
+      <category>ai</category>
+      <guid>https://brianchristner.io/the-rise-of-agent-to-agent-apps/</guid>
+      <pubDate>Wed, 25 Feb 2026 01:03:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>No Good Engineer is Arrogant | Agilitza Blog</title>
+      <link>https://agilitza.com/blog/no-good-engineer-is-arrogant/</link>
+      <description>Why humility isn't just a nice trait for engineers—it's a requirement. If you think you've mastered engineering, you're not doing anything challenging.</description>
+      <guid>https://agilitza.com/blog/no-good-engineer-is-arrogant/</guid>
+      <pubDate>Wed, 25 Feb 2026 01:02:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>I freaking love the new tools I built for myself</title>
+      <link>https://bastiangruber.ca/posts/i-freaking-love-the-new-tools-i-built-for-myself/</link>
+      <description>Building with Claude is a real joy and empowerment.</description>
+      <category>ai</category>
+      <category>conference</category>
+      <category>encryption</category>
+      <category>web</category>
+      <category>vscode</category>
+      <guid>https://bastiangruber.ca/posts/i-freaking-love-the-new-tools-i-built-for-myself/</guid>
+      <pubDate>Wed, 25 Feb 2026 01:02:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Longest Line Of Sight</title>
+      <link>https://tombh.co.uk/longest-line-of-sight</link>
+      <description>09 February 2026</description>
+      <category>rust</category>
+      <category>sql</category>
+      <category>javascript</category>
+      <guid>https://tombh.co.uk/longest-line-of-sight</guid>
+      <pubDate>Wed, 25 Feb 2026 01:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Row Locks With Joins Can Produce Surprising Results in PostgreSQL</title>
+      <link>https://hakibenita.com/postgres-row-lock-with-join</link>
+      <description>The strange edge case that triggered our assertions</description>
+      <category>sql</category>
+      <category>python</category>
+      <guid>https://hakibenita.com/postgres-row-lock-with-join</guid>
+      <pubDate>Wed, 25 Feb 2026 01:02:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why I Hate Anthropic and You Should Too</title>
+      <link>https://danielmiessler.com/blog/why-you-should-hate-anthropic</link>
+      <description>It's not about what a company does, but how it affects your token budget</description>
+      <category>ai</category>
+      <guid>https://danielmiessler.com/blog/why-you-should-hate-anthropic</guid>
+      <pubDate>Wed, 25 Feb 2026 01:02:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>I ported one program to 10 languages to see how an LLM thinks</title>
+      <link>https://www.alexv.lv/llm-ports/</link>
+      <description>← alexv.lv</description>
+      <category>nodejs</category>
+      <category>encryption</category>
+      <category>javascript</category>
+      <category>ai</category>
+      <category>python</category>
+      <guid>https://www.alexv.lv/llm-ports/</guid>
+      <pubDate>Wed, 25 Feb 2026 01:02:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Hydrogen Truck Problem Isn't the Truck</title>
+      <link>https://www.mikeayles.com/blog/hydrogen-refuelling-road-freight/</link>
+      <description>Hydrogen fuel cell trucks exist. They work. The problem is everything around them: production efficiency, infrastructure economics, and a competitor called 'the grid' that's already everywhere.</description>
+      <guid>https://www.mikeayles.com/blog/hydrogen-refuelling-road-freight/</guid>
+      <pubDate>Wed, 25 Feb 2026 01:02:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>What if iteration is all we need?</title>
+      <link>https://www.robert-glaser.de/what-if-iteration-is-all-we-need/</link>
+      <description>What if every ceremony in software development was a workaround for expensive human iteration? What happens when juniors learn architecture on day one and spec-driven development turns out to be waterfall in disguise? Are we in the best restaurant in the world, but there’s no menu?</description>
+      <category>encryption</category>
+      <category>ai</category>
+      <guid>https://www.robert-glaser.de/what-if-iteration-is-all-we-need/</guid>
+      <pubDate>Wed, 25 Feb 2026 01:02:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Let Developers Cook</title>
+      <link>https://jaylol.com/2026/02/23/ai-and-software-engineering-productivity/</link>
+      <description>The case for extremely early prototyping in the age of AI</description>
+      <category>ai</category>
+      <guid>https://jaylol.com/2026/02/23/ai-and-software-engineering-productivity/</guid>
+      <pubDate>Wed, 25 Feb 2026 01:02:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>There's software, and then there's promptware</title>
+      <link>https://kelvinfichter.com/pages/thoughts/promptware/</link>
+      <description>Agents can do things pretty good, actually!</description>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://kelvinfichter.com/pages/thoughts/promptware/</guid>
+      <pubDate>Wed, 25 Feb 2026 01:02:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>SaaS is (ought to be) dead</title>
+      <link>https://dev.ribic.ba/saas-is-dead</link>
+      <description>Replacing SaaS subscriptions with an hour of agentic coding</description>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://dev.ribic.ba/saas-is-dead</guid>
+      <pubDate>Wed, 25 Feb 2026 01:02:16 GMT</pubDate>
+    </item>
+    <item>
       <title>How we rebuilt Next.js with AI in one week</title>
       <link>https://blog.cloudflare.com/vinext/</link>
       <description>One engineer used AI to rebuild Next.js on Vite in a week. vinext builds up to 4x faster, produces 57% smaller bundles, and deploys to Cloudflare Workers with a single command.</description>
