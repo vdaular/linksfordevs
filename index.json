@@ -1,5 +1,13 @@
 [
   {
+    "Title": "How we rebuilt Next.js with AI in one week",
+    "Url": "https://blog.cloudflare.com/vinext/",
+    "Timestamp": "2026-02-25T00:02:11",
+    "Domain": "blog.cloudflare.com",
+    "Description": "One engineer used AI to rebuild Next.js on Vite in a week. vinext builds up to 4x faster, produces 57% smaller bundles, and deploys to Cloudflare Workers with a single command.",
+    "Confidence": 0.9974385
+  },
+  {
     "Title": "An Open Letter to Google regarding Mandatory Developer Registration for Android App Distribution",
     "Url": "https://keepandroidopen.org/open-letter/",
     "Timestamp": "2026-02-24T21:02:12",
@@ -86,157 +94,5 @@
     "Domain": "vladimir.varank.in",
     "Description": "My old 2016 MacBook Pro has been collecting dust in a cabinet for some time now. The laptop suffers from a “flexgate” problem, and I don’t have any practical use for it. For quite some time, I’ve been thinking about repurposing it as a guinea pig, to play with FreeBSD — an OS that I’d aspired to play with for a long while, but had never had a real reason to.\nDuring the recent holiday season, right after FreeBSD 15 release, I’ve finally found time to set the laptop up. Doing that I didn’t plan, or even think, this may turn into a story about AI coding.",
     "Confidence": 0.9508749
-  },
-  {
-    "Title": "Risk-Adjusted Intelligence • Matt Neary",
-    "Url": "http://blog.mattneary.com/risk-adjusted-intelligence",
-    "Timestamp": "2026-02-24T00:04:24",
-    "Domain": "blog.mattneary.com",
-    "Description": "Software engineers have maintained a self-conception as highly paid, skilled tradespeople. This framework is falling apart now that the barriers to entry are disappearing. The craft is now carried out by AI — the SWE is just the capital allocator,... | Matt Neary | Svbtle",
-    "Confidence": 0.8772593
-  },
-  {
-    "Title": "Wrapping Code Comments",
-    "Url": "https://matklad.github.io/2026/02/21/wrapping-code-comments.html",
-    "Timestamp": "2026-02-24T00:04:18",
-    "Domain": "matklad.github.io",
-    "Description": "I was today years old when I realized that:",
-    "Confidence": 0.9969167
-  },
-  {
-    "Title": "Want to Survive Current Tech Era - Learn to Be a Good QA - Work & Life Notes",
-    "Url": "https://worklifenotes.com/2026/02/23/want-to-survive-current-tech-era-learn-to-be-a-good-qa/",
-    "Timestamp": "2026-02-24T00:04:15",
-    "Domain": "worklifenotes.com",
-    "Description": "The amount of messages I see these days on our Discord and other platforms from humans and bots desperately looking for jobs is at spam-like levels. Couple of",
-    "Confidence": 0.99744767
-  },
-  {
-    "Title": "You don't need free lists!",
-    "Url": "https://jakubtomsu.github.io/posts/bit_pools/",
-    "Timestamp": "2026-02-24T00:04:09",
-    "Domain": "jakubtomsu.github.io",
-    "Description": "An alternative to free-list-based pools using multi-level bit sets",
-    "Confidence": 0.9966538
-  },
-  {
-    "Title": "Blog of http://archive.today/",
-    "Url": "https://lj.rossia.org/users/archive_today/",
-    "Timestamp": "2026-02-24T00:04:06",
-    "Domain": "lj.rossia.org",
-    "Description": "(Recent Entries)\n(Archive)\n(Friends)\n(User Info)\n (My Website)",
-    "Confidence": 0.8201138
-  },
-  {
-    "Title": "The Instance Is Up. Or Is It? Health Checking in Client-Side vs Server-Side Load Balancing",
-    "Url": "https://singh-sanjay.com/2026/01/12/health-checks-client-vs-server-side-lb.html",
-    "Timestamp": "2026-02-24T00:03:59",
-    "Domain": "singh-sanjay.com",
-    "Description": "Why zombie instances survive health checks, and what the choice between server-side and client-side load balancing means for how fast your system detects and reacts to failure.",
-    "Confidence": 0.9876454
-  },
-  {
-    "Title": "25 Years of Eggs",
-    "Url": "https://www.john-rush.com/posts/eggs-25-years-20260219.html",
-    "Timestamp": "2026-02-24T00:03:56",
-    "Domain": "www.john-rush.com",
-    "Description": "Two AI agents, 11,345 receipts, and 1.6 billion tokens to find out what I’ve spent on eggs since 2001.",
-    "Confidence": 0.8556777
-  },
-  {
-    "Title": "Claude the Instructor",
-    "Url": "https://rmoff.net/2026/02/20/claude-the-instructor/",
-    "Timestamp": "2026-02-24T00:03:52",
-    "Domain": "rmoff.net",
-    "Description": "",
-    "Confidence": 0.9895534
-  },
-  {
-    "Title": "What I Learned After Building 3 TV Apps Coming From Mobile | Dinko Marinac",
-    "Url": "https://dinkomarinac.dev/blog/what-i-learned-after-building-3-tv-apps-coming-from-mobile/",
-    "Timestamp": "2026-02-24T00:03:48",
-    "Domain": "dinkomarinac.dev",
-    "Description": "Practical lessons from three TV app projects on why mobile assumptions fail on TV, covering UX, performance, hardware constraints, and developer experience.",
-    "Confidence": 0.9921846
-  },
-  {
-    "Title": "Code Review Is Not About Catching Bugs",
-    "Url": "https://www.davidpoll.com/2026/02/code-review-is-not-about-catching-bugs/",
-    "Timestamp": "2026-02-24T00:03:44",
-    "Domain": "www.davidpoll.com",
-    "Description": "My former Parse colleague Charity Majors – now CTO of Honeycomb and one of the strongest voices in the observability space – recently posted something that caught my attention. She’s frustrated wit...",
-    "Confidence": 0.9693212
-  },
-  {
-    "Title": "Context Engineering for Commercial Agent Systems - Jeremy Daly",
-    "Url": "https://jeremydaly.com/context-engineering-for-commercial-agent-systems/",
-    "Timestamp": "2026-02-24T00:03:40",
-    "Domain": "jeremydaly.com",
-    "Description": "Memory, Isolation, Hardening, and Multi-Tenant Context Infrastructure",
-    "Confidence": 0.9910833
-  },
-  {
-    "Title": "Will Software Engineering Survive?",
-    "Url": "https://akr.am/blog/posts/will-software-engineering-survive",
-    "Timestamp": "2026-02-24T00:03:32",
-    "Domain": "akr.am",
-    "Description": "Investigating recent claims amidst the rise of LLMs.",
-    "Confidence": 0.96236116
-  },
-  {
-    "Title": "Fixing ORM Slowness by 80% with Strategic PostgreSQL Indexing | Stormatics",
-    "Url": "https://stormatics.tech/blogs/fixing-orm-slowness-by-80-with-strategic-postgresql-indexing",
-    "Timestamp": "2026-02-24T00:03:29",
-    "Domain": "stormatics.tech",
-    "Description": "Boost PostgreSQL performance by 80% with strategic indexing, reduce sequential scans and IOPS without changing application code.",
-    "Confidence": 0.9937579
-  },
-  {
-    "Title": "Vector search using only Parquet and DataFusion – Xiangpeng’s blog",
-    "Url": "https://blog.xiangpeng.systems/posts/vector-search-with-parquet-datafusion/",
-    "Timestamp": "2026-02-24T00:03:22",
-    "Domain": "blog.xiangpeng.systems",
-    "Description": "Just tune your existing stack",
-    "Confidence": 0.99886876
-  },
-  {
-    "Title": "herdctl: Composable Fleets of Claude Agents",
-    "Url": "https://edspencer.net/2026/2/22/herdctl-composable-fleets",
-    "Timestamp": "2026-02-24T00:03:18",
-    "Domain": "edspencer.net",
-    "Description": "I justed added support for Composable Fleets to herdctl. As I build herdctl into more projects, I increasingly find myself creating a fleet of agents per project, and wanted a way to run them all from a central place so that I can juggle a bunch of things at once.",
-    "Confidence": 0.9954488
-  },
-  {
-    "Title": "The app that fixes itself: Tightening the feedback loop with agent orchestration",
-    "Url": "https://steveinflow.github.io/blog/self-healing-app-with-agent-orchestration/",
-    "Timestamp": "2026-02-24T00:03:15",
-    "Domain": "steveinflow.github.io",
-    "Description": "How I wired a ticket system, an orchestrator, and Claude agents into a feedback loop that lets my app fix itself.",
-    "Confidence": 0.9926002
-  },
-  {
-    "Title": "The Death of the Software Craftsman",
-    "Url": "https://naildrivin5.com/blog/2026/02/23/the-death-of-the-software-craftsman.html",
-    "Timestamp": "2026-02-24T00:03:12",
-    "Domain": "naildrivin5.com",
-    "Description": "The Death of the Software Craftsman",
-    "Confidence": 0.99614567
-  },
-  {
-    "Title": "Depth effect wallpapers",
-    "Url": "https://fayziev.com/blog/depth-effect-wallpapers",
-    "Timestamp": "2026-02-24T00:03:09",
-    "Domain": "fayziev.com",
-    "Description": "Building a Windows desktop wallpaper app that uses AI depth estimation to place a clock between image layers, creating an iOS-like depth effect.",
-    "Confidence": 0.97214234
-  },
-  {
-    "Title": "Fighting Cognitive Debt in Agentic Code with Video Overviews",
-    "Url": "https://enigmeta.com/posts/2026-02-19-video-overviews-for-agentic-code/",
-    "Timestamp": "2026-02-24T00:03:06",
-    "Domain": "enigmeta.com",
-    "Description": "When AI writes your code, understanding doesn't come along for the ride. What if the same codebase that builds the software also generates narrated video walkthroughs that explain it?",
-    "Confidence": 0.9633134
   }
 ]

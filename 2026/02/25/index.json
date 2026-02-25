@@ -1,0 +1,9 @@
+[
+  {
+    "Title": "How we rebuilt Next.js with AI in one week",
+    "Url": "https://blog.cloudflare.com/vinext/",
+    "Timestamp": "2026-02-25T00:02:11",
+    "Domain": "blog.cloudflare.com",
+    "Description": "One engineer used AI to rebuild Next.js on Vite in a week. vinext builds up to 4x faster, produces 57% smaller bundles, and deploys to Cloudflare Workers with a single command."
+  }
+]
