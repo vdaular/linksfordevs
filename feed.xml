@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The United States needs fewer bus stops - Works in Progress Magazine</title>
+      <link>https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/</link>
+      <description>Bus stop balancing is fast, cheap, and effective. It can turn a service people tolerate into one they’re happy to use.</description>
+      <guid>https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/</guid>
+      <pubDate>Wed, 25 Feb 2026 23:03:50 GMT</pubDate>
+    </item>
+    <item>
       <title>Falsehoods programmers believe about time</title>
       <link>https://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time</link>
       <description>Over the past couple of years [I have spent a lot of time][checklist] debugging other engineers' test code.  This was interesting work, occasionally frustrating but always informative. One might not...</description>
