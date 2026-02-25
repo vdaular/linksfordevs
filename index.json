@@ -1,5 +1,13 @@
 [
   {
+    "Title": "pi.dev",
+    "Url": "https://pi.dev/",
+    "Timestamp": "2026-02-25T06:02:16",
+    "Domain": "pi.dev",
+    "Description": "A terminal-based coding agent",
+    "Confidence": 0.998193
+  },
+  {
     "Title": "I Contain Multitudes",
     "Url": "https://tobeva.com/articles/multitudes/",
     "Timestamp": "2026-02-25T01:03:37",
@@ -230,21 +238,5 @@
     "Domain": "medicalxpress.com",
     "Description": "A protein lurking around in the blood can help with the accurate diagnosis of Alzheimer's disease. In a recent study, researchers from Spain investigated how blood-based biomarkers, such as a protein called p-tau217, affect both the clinical diagnosis of Alzheimer's and neurologists' confidence in their diagnosis.",
     "Confidence": 0.95015
-  },
-  {
-    "Title": "Dictionary Compression is finally here, and it's ridiculously good",
-    "Url": "https://httptoolkit.com/blog/dictionary-compression-performance-zstd-brotli/",
-    "Timestamp": "2026-02-24T06:02:06",
-    "Domain": "httptoolkit.com",
-    "Description": " Dictionary compression could completely change how applications send data over the web. It's recently gained broad support, and offers absurd real-world...",
-    "Confidence": 0.9937929
-  },
-  {
-    "Title": "Amperage",
-    "Url": "https://xkcd.com/3211/",
-    "Timestamp": "2026-02-24T06:02:03",
-    "Domain": "xkcd.com",
-    "Description": "",
-    "Confidence": 0.98151064
   }
 ]

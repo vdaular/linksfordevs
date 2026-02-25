@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>pi.dev</title>
+      <link>https://pi.dev/</link>
+      <description>A terminal-based coding agent</description>
+      <category>ai</category>
+      <category>typescript</category>
+      <category>git</category>
+      <category>javascript</category>
+      <category>nodejs</category>
+      <guid>https://pi.dev/</guid>
+      <pubDate>Wed, 25 Feb 2026 06:02:16 GMT</pubDate>
+    </item>
+    <item>
       <title>I Contain Multitudes</title>
       <link>https://tobeva.com/articles/multitudes/</link>
       <description>The Agentic Coding Simul</description>
@@ -283,25 +295,6 @@ Armed with a laptop and $100 Claude Code subscripti...</description>
       <category>web</category>
       <guid>https://medicalxpress.com/news/2026-02-blood-boosts-alzheimer-diagnosis-accuracy.html</guid>
       <pubDate>Tue, 24 Feb 2026 10:02:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dictionary Compression is finally here, and it's ridiculously good</title>
-      <link>https://httptoolkit.com/blog/dictionary-compression-performance-zstd-brotli/</link>
-      <description> Dictionary compression could completely change how applications send data over the web. It's recently gained broad support, and offers absurd real-world...</description>
-      <category>nodejs</category>
-      <category>javascript</category>
-      <category>web</category>
-      <category>python</category>
-      <guid>https://httptoolkit.com/blog/dictionary-compression-performance-zstd-brotli/</guid>
-      <pubDate>Tue, 24 Feb 2026 06:02:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Amperage</title>
-      <link>https://xkcd.com/3211/</link>
-      <description></description>
-      <category>javascript</category>
-      <guid>https://xkcd.com/3211/</guid>
-      <pubDate>Tue, 24 Feb 2026 06:02:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
