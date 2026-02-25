@@ -7,6 +7,20 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Falsehoods programmers believe about time</title>
+      <link>https://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time</link>
+      <description>Over the past couple of years [I have spent a lot of time][checklist] debugging other engineers' test code.  This was interesting work, occasionally frustrating but always informative. One might not...</description>
+      <guid>https://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time</guid>
+      <pubDate>Wed, 25 Feb 2026 21:02:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Following 35% growth, solar has passed hydro on US grid</title>
+      <link>https://arstechnica.com/science/2026/02/final-2025-data-is-in-us-energy-use-is-up-as-solar-passes-hydro/</link>
+      <description>Coal makes a bit of a comeback, if only by accident.</description>
+      <guid>https://arstechnica.com/science/2026/02/final-2025-data-is-in-us-energy-use-is-up-as-solar-passes-hydro/</guid>
+      <pubDate>Wed, 25 Feb 2026 21:02:21 GMT</pubDate>
+    </item>
+    <item>
       <title>New accounts on HN 10x more likely to use EM-dashes</title>
       <link>https://www.marginalia.nu/weird-ai-crap/hn/</link>
       <description>I’ve had this sense that HN has gotten absolutely innundated with bots last few months. First most obvious giveaway is the frequency with which you see accounts posting brilliant insights like
@@ -279,26 +293,6 @@ Armed with a laptop and $100 Claude Code subscripti...</description>
       <category>vscode</category>
       <guid>https://blog.cloudflare.com/vinext/</guid>
       <pubDate>Wed, 25 Feb 2026 00:02:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>An Open Letter to Google regarding Mandatory Developer Registration for Android App Distribution</title>
-      <link>https://keepandroidopen.org/open-letter/</link>
-      <description>Open Letter to Google Regarding Mandatory Developer Registration for Third-Party App Distribution</description>
-      <category>android</category>
-      <category>sql</category>
-      <guid>https://keepandroidopen.org/open-letter/</guid>
-      <pubDate>Tue, 24 Feb 2026 21:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>RFC 406i - The Rejection of Artificially Generated Slop (RAGS)</title>
-      <link>https://406.fail/</link>
-      <description>[ERROR 406i: AI_SLOP_DETECTED]</description>
-      <category>ai</category>
-      <category>git</category>
-      <category>apple</category>
-      <category>python</category>
-      <guid>https://406.fail/</guid>
-      <pubDate>Tue, 24 Feb 2026 21:02:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
