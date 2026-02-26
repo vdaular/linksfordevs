@@ -289,17 +289,5 @@ Armed with a laptop and $100 Claude Code subscripti...</description>
       <guid>https://dev.ribic.ba/saas-is-dead</guid>
       <pubDate>Wed, 25 Feb 2026 01:02:16 GMT</pubDate>
     </item>
-    <item>
-      <title>How we rebuilt Next.js with AI in one week</title>
-      <link>https://blog.cloudflare.com/vinext/</link>
-      <description>One engineer used AI to rebuild Next.js on Vite in a week. vinext builds up to 4x faster, produces 57% smaller bundles, and deploys to Cloudflare Workers with a single command.</description>
-      <category>nodejs</category>
-      <category>javascript</category>
-      <category>ai</category>
-      <category>typescript</category>
-      <category>vscode</category>
-      <guid>https://blog.cloudflare.com/vinext/</guid>
-      <pubDate>Wed, 25 Feb 2026 00:02:11 GMT</pubDate>
-    </item>
   </channel>
 </rss>
