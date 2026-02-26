@@ -327,17 +327,5 @@ Beyond the accounts that are visibly glitching out, the vibe is also seriously o
       <guid>https://www.marginalia.nu/weird-ai-crap/hn/</guid>
       <pubDate>Wed, 25 Feb 2026 19:02:18 GMT</pubDate>
     </item>
-    <item>
-      <title>Fake Job Interviews Are Installing Backdoors on Developer Machines</title>
-      <link>https://threatroad.substack.com/p/fake-job-interviews-are-installing</link>
-      <description>Microsoft found attackers weaponizing Next.js “technical assessments” that trigger C2 the moment you open the project in VS Code. Three execution paths, same backdoor.</description>
-      <category>nodejs</category>
-      <category>git</category>
-      <category>conference</category>
-      <category>vscode</category>
-      <category>cloud</category>
-      <guid>https://threatroad.substack.com/p/fake-job-interviews-are-installing</guid>
-      <pubDate>Wed, 25 Feb 2026 17:02:08 GMT</pubDate>
-    </item>
   </channel>
 </rss>
