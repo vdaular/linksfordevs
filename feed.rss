@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>How to Securely Erase an old Hard Drive on macOS Tahoe</title>
+      <link>https://www.jeffgeerling.com/blog/2026/securely-erase-hard-drive-macos-tahoe/</link>
+      <description>Apparently Apple thinks nobody with a modern Mac uses spinning rust (hard drives with platters) anymore.
+I plugged in a hard drive from an old iMac into my Mac Studio using my Sabrent USB to SATA Hard Drive enclosure, and opened up Disk Utility, clicked on the top-level disk in the sidebar, and clicked 'Erase'.
+Lo and behold, there's no 'Security Options' button on there, as there had been since—I believe—the very first version of Disk Utility in Mac OS X!</description>
+      <category>apple</category>
+      <category>rust</category>
+      <guid>https://www.jeffgeerling.com/blog/2026/securely-erase-hard-drive-macos-tahoe/</guid>
+      <pubDate>Thu, 26 Feb 2026 21:02:06 GMT</pubDate>
+    </item>
+    <item>
       <title>Nano Banana 2: Combining Pro capabilities with lightning-fast speed</title>
       <link>https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/</link>
       <description>Our latest image generation model offers advanced world knowledge, production-ready specs, subject consistency and more, all at Flash speed.</description>
@@ -308,20 +319,6 @@ Banning algorithim feeds won't magically make social media clean, but it would a
       <description>Bus stop balancing is fast, cheap, and effective. It can turn a service people tolerate into one they’re happy to use.</description>
       <guid>https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/</guid>
       <pubDate>Wed, 25 Feb 2026 23:03:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Falsehoods programmers believe about time</title>
-      <link>https://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time</link>
-      <description>Over the past couple of years [I have spent a lot of time][checklist] debugging other engineers' test code.  This was interesting work, occasionally frustrating but always informative. One might not...</description>
-      <guid>https://infiniteundo.com/post/25326999628/falsehoods-programmers-believe-about-time</guid>
-      <pubDate>Wed, 25 Feb 2026 21:02:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Following 35% growth, solar has passed hydro on US grid</title>
-      <link>https://arstechnica.com/science/2026/02/final-2025-data-is-in-us-energy-use-is-up-as-solar-passes-hydro/</link>
-      <description>Coal makes a bit of a comeback, if only by accident.</description>
-      <guid>https://arstechnica.com/science/2026/02/final-2025-data-is-in-us-energy-use-is-up-as-solar-passes-hydro/</guid>
-      <pubDate>Wed, 25 Feb 2026 21:02:21 GMT</pubDate>
     </item>
   </channel>
 </rss>
