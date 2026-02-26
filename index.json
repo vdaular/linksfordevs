@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Nano Banana 2: Combining Pro capabilities with lightning-fast speed",
+    "Url": "https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/",
+    "Timestamp": "2026-02-26T19:02:06",
+    "Domain": "blog.google",
+    "Description": "Our latest image generation model offers advanced world knowledge, production-ready specs, subject consistency and more, all at Flash speed.",
+    "Confidence": 0.859876
+  },
+  {
     "Title": "Little Red Dots",
     "Url": "https://xkcd.com/3212/",
     "Timestamp": "2026-02-26T03:02:04",
@@ -198,13 +206,5 @@
     "Domain": "arstechnica.com",
     "Description": "Coal makes a bit of a comeback, if only by accident.",
     "Confidence": 0.643244
-  },
-  {
-    "Title": "New accounts on HN 10x more likely to use EM-dashes",
-    "Url": "https://www.marginalia.nu/weird-ai-crap/hn/",
-    "Timestamp": "2026-02-25T19:02:18",
-    "Domain": "www.marginalia.nu",
-    "Description": "I’ve had this sense that HN has gotten absolutely innundated with bots last few months. First most obvious giveaway is the frequency with which you see accounts posting brilliant insights like\n13 60 well and t6ctctfuvuh7hguhuig8h88gd to f6gug7h8j8h6fzbuvubt GB I be cugttc fav uhz cb ibub8vgxgvzdrc to bubuvtxfh tf d xxx h z j gj uxomoxtububonjbk P.l.kvh cb hug tf 6 go k7gtcv8j9j7gimpiiuh7i 8ubg\nor\n1662476506\nor\nАё\nBeyond the accounts that are visibly glitching out, the vibe is also seriously off.",
-    "Confidence": 0.7678651
   }
 ]
