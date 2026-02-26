@@ -7,6 +7,284 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Devirtualization and Static Polymorphism | David Álvarez Rosa | Personal Website</title>
+      <link>https://david.alvarezrosa.com/posts/devirtualization-and-static-polymorphism/</link>
+      <description>Ever wondered why your &amp;ldquo;clean&amp;rdquo; polymorphic design underperforms in benchmarks? Virtual dispatch enables polymorphism, but it comes with hidden …</description>
+      <guid>https://david.alvarezrosa.com/posts/devirtualization-and-static-polymorphism/</guid>
+      <pubDate>Thu, 26 Feb 2026 01:03:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why You Can’t Buy a Data Center Right Now – Timlig Engineering Notes</title>
+      <link>https://timlig.com/posts/ai-supply-chain-crisis/</link>
+      <description>The AI boom created the worst electronics supply chain crisis in history. Here’s a simple map of what’s broken, who broke it, and when it gets fixed.</description>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://timlig.com/posts/ai-supply-chain-crisis/</guid>
+      <pubDate>Thu, 26 Feb 2026 01:03:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>The long death of programming languages</title>
+      <link>https://til.andrew-quinn.me/posts/the-long-death-of-programming-languages/</link>
+      <description>I wrote my first Clojure program in anger a few months ago.
+Only, it’s not accurate to
+say that I wrote it; AI did most of the writing, and I directed it on what my
+design goals were and why.
+Architecturally, you could call it was a stateless
+anti-corruption layer,
+yapping between some REST endpoints and some ancient proprietary serialization.
+I had never written a Clojure program of nontrivial size before. Indeed I had
+barely touched any Lisp at all
+since working through SICP
+during a high school summer vacation, over a decade ago.
+That didn’t matter. Much more important was emphasizing certain invariants from
+the start, like the aforementioned statelessness, which made it very easy to
+unit and integration test, which was the true challenge.</description>
+      <category>rust</category>
+      <category>ai</category>
+      <guid>https://til.andrew-quinn.me/posts/the-long-death-of-programming-languages/</guid>
+      <pubDate>Thu, 26 Feb 2026 01:03:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stress testing Claude's language skills</title>
+      <link>https://vivsha.ws/blog/stress-testing-claudes-language-skills</link>
+      <description>Polyglot or poly-not?</description>
+      <author> (https://vivsha.ws)</author>
+      <category>typescript</category>
+      <category>ruby</category>
+      <category>rust</category>
+      <category>sql</category>
+      <category>python</category>
+      <guid>https://vivsha.ws/blog/stress-testing-claudes-language-skills</guid>
+      <pubDate>Thu, 26 Feb 2026 01:03:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>The cartography of reason</title>
+      <link>https://www.samrith.dev/blog/the-cartography-of-reason/</link>
+      <description>Quit being tired of your best reasoning getting lost in endless chat logs or messy notes.</description>
+      <category>nodejs</category>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://www.samrith.dev/blog/the-cartography-of-reason/</guid>
+      <pubDate>Thu, 26 Feb 2026 01:03:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>“OpenClaw, open the front door”</title>
+      <link>https://jukkan.com/openclaw-open-the-front-door/</link>
+      <description>The 84-Day Arc from Weekend Project to Weaponized Infrastructure. Why warnings aren’t stopping OpenClaw enthusiasts from giving AI agents the keys to everything.</description>
+      <category>ai</category>
+      <category>git</category>
+      <category>sql</category>
+      <category>nodejs</category>
+      <category>containers</category>
+      <guid>https://jukkan.com/openclaw-open-the-front-door/</guid>
+      <pubDate>Thu, 26 Feb 2026 01:03:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>I rendered 1,418 Unicode confusable pairs across 230 fonts. Most aren't confusable to the eye.</title>
+      <link>https://paultendo.github.io/posts/confusable-vision-visual-similarity/</link>
+      <description>confusable-vision renders every TR39 confusable pair across 230 macOS system fonts and measures visual similarity with SSIM. 96.5% of confusables.txt is not high-risk, but 82 pairs are pixel-identical in at least one font.</description>
+      <category>encryption</category>
+      <category>nodejs</category>
+      <category>web</category>
+      <category>apple</category>
+      <guid>https://paultendo.github.io/posts/confusable-vision-visual-similarity/</guid>
+      <pubDate>Thu, 26 Feb 2026 01:03:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>bertolami</title>
+      <link>https://bertolami.com/blog/minimum-viable-coding-agents</link>
+      <description>Joe Bertolami's portfolio and blog covering artificial intelligence, game development, computer graphics, data compression, and more.</description>
+      <category>ai</category>
+      <category>python</category>
+      <category>gaming</category>
+      <guid>https://bertolami.com/blog/minimum-viable-coding-agents</guid>
+      <pubDate>Thu, 26 Feb 2026 01:03:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Eternal Promise: A History of Attempts to Eliminate Programmers</title>
+      <link>https://www.ivanturkovic.com/2026/01/22/history-software-simplification-cobol-ai-hype/</link>
+      <description>From COBOL in the 1960s to AI in the 2020s, every generation promises to eliminate programmers. Explore the recurring cycles of software simplification hype.</description>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://www.ivanturkovic.com/2026/01/22/history-software-simplification-cobol-ai-hype/</guid>
+      <pubDate>Thu, 26 Feb 2026 01:03:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>How Did Hendrix Turn His Guitar Into a Wave Synthesizer?</title>
+      <link>https://spectrum.ieee.org/jimi-hendrix-systems-engineer</link>
+      <description>How did Jimi Hendrix turn his guitar into a wave synthesizer? Dive into the engineering behind his iconic sound.</description>
+      <author> (https://www.facebook.com/48576411181)</author>
+      <category>python</category>
+      <guid>https://spectrum.ieee.org/jimi-hendrix-systems-engineer</guid>
+      <pubDate>Thu, 26 Feb 2026 01:03:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why Core Banking Systems Are Terrible and Always Were</title>
+      <link>https://andrewbaker.ninja/2026/02/24/core-banking-is-a-terrible-idea-it-always-was/</link>
+      <description>Core banking systems promised to solve everything in one platform but became architectural nightmares that prevent banks from adapting to modern needs.</description>
+      <author> (https://andrewbaker.ninja/)</author>
+      <category>cloud</category>
+      <category>ai</category>
+      <guid>https://andrewbaker.ninja/2026/02/24/core-banking-is-a-terrible-idea-it-always-was/</guid>
+      <pubDate>Thu, 26 Feb 2026 01:02:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>My bar on software is too high</title>
+      <link>https://edwardbx.com/articles/my-bar-is-too-high/</link>
+      <description>I'm comparing myself with the best in the world</description>
+      <category>ai</category>
+      <category>youtube</category>
+      <guid>https://edwardbx.com/articles/my-bar-is-too-high/</guid>
+      <pubDate>Thu, 26 Feb 2026 01:02:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Last Year of Terraform – Encore Blog</title>
+      <link>https://encore.dev/blog/last-year-of-terraform</link>
+      <description>AI agents generate code faster than teams can write Terraform. Infrastructure from Code, where infrastructure is derived from application code, is the only approach that scales.</description>
+      <author> (Ivan Cernja)</author>
+      <category>typescript</category>
+      <category>containers</category>
+      <category>sql</category>
+      <category>cloud</category>
+      <category>ai</category>
+      <guid>https://encore.dev/blog/last-year-of-terraform</guid>
+      <pubDate>Thu, 26 Feb 2026 01:02:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Just use symlinks and be agent agnostic</title>
+      <link>https://matanabudy.com/just-use-symlinks-and-be-agent-agnostic/</link>
+      <description>Coding is solved right? Everything is great, AI is replacing us, we just need to press “allow”. But on which model? Which agent?
+Coding agents move fast, an...</description>
+      <category>ai</category>
+      <guid>https://matanabudy.com/just-use-symlinks-and-be-agent-agnostic/</guid>
+      <pubDate>Thu, 26 Feb 2026 01:02:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Practical Decentralization</title>
+      <link>https://www.pfrazee.com/blog/practical-decentralization</link>
+      <description>The point of decentralization is to guarantee the rights of individuals and communities on the Internet. Pulling that off is a balancing act between practicality and ideology.</description>
+      <author> (Paul Frazee)</author>
+      <guid>https://www.pfrazee.com/blog/practical-decentralization</guid>
+      <pubDate>Thu, 26 Feb 2026 01:02:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>The IDE Might Die – Taking My Favorite Programming Language With It</title>
+      <link>https://thomasbandt.com/ide-death-fsharp</link>
+      <description>I've been in love with F# for many years. But as AI changes how I write code, the IDE I depend on may not survive – and F# might not either (at least not in my toolstack).</description>
+      <category>visualstudio</category>
+      <category>typescript</category>
+      <category>git</category>
+      <category>apple</category>
+      <category>ai</category>
+      <guid>https://thomasbandt.com/ide-death-fsharp</guid>
+      <pubDate>Thu, 26 Feb 2026 01:02:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Power Efficiency - why we care so much about it</title>
+      <link>https://trmnl.com/blog/power-efficiency</link>
+      <description>No one wants to spend their life charging batteries.</description>
+      <category>cloud</category>
+      <category>git</category>
+      <category>linux</category>
+      <guid>https://trmnl.com/blog/power-efficiency</guid>
+      <pubDate>Thu, 26 Feb 2026 01:02:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tests Are The New Moat | Daniel Saewitz</title>
+      <link>https://saewitz.com/tests-are-the-new-moat</link>
+      <description>As AI becomes better at cloning people's open source work, what ends up becoming most valuable are software contracts, tests, and API surface area. This clashes the incentives of clearly defining your commercialized open source software with protecting it.</description>
+      <author> (Daniel Saewitz)</author>
+      <category>sql</category>
+      <category>javascript</category>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://saewitz.com/tests-are-the-new-moat</guid>
+      <pubDate>Thu, 26 Feb 2026 01:02:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Algorithmic Feeds Need to Be Banned</title>
+      <link>https://shubhamjain.co/2026/02/25/algorithmic-feeds-need-to-be-banned/</link>
+      <description>
+"What Orwell feared were those who would ban books. What Huxley feared was that there would be no reason to ban a book, for there would be no one who wanted to read one. Orwell feared those who would deprive us of information. Huxley feared those who would give us so much that we would be reduced to passivity and egoism. Orwell feared that the truth would be concealed from us. Huxley feared the truth would be drowned in a sea of irrelevance."
+
+— Neil Postman, [Amusing Ourselves to Death: Public Discourse in the Age of Show Business](https://www.goodreads.com/work/quotes/2337731)
+
+---
+
+I often wonder if it's simply my age or the world is truly going to sh*t. When you've an opinion like that, it also means you're disregarding facts that prove the opposite: poverty is down, child mortality has fallen, wars are fewer, people live longer, and work fewer hours. 
+
+I don't dispute that the world is getting better in those ways, however, I am convinced that it's also getting worse in many. For eg, it's the decline of slowly leisurely activities and increase in cheap dopamine seeking. In US, 40% teenagers were reported to be using [smartphones more than 8h per day](https://backlinko.com/screen-time-statistics). And I bet most of it was on scrolling social media feeds. The number of people who didn't read a single book in 2023 [was alarmingly 46%](https://www.statista.com/chart/32988/share-of-respondents-who-read-or-listened-to-books/), a radical jump from [just 24% in 1990.](https://www.generationtechblog.com/p/are-books-dead-why-gen-z-doesnt-read) 
+
+Some may dismiss these concerns by pointing to historical moral panics—early 20th-century warnings about novels, crosswords, or even cycling supposedly corrupting society.
+
+What makes the current situation troubling is its correlation with a broad and visible decline in mental well-being. 
+
+- From 2011 to 2022, adults who experienced poor mental health rose from 35.7% to 42.5% according to BRFSS, from 31.1% to 35.8% according to NSDUH, and from 18.7% to 20.5% according to NHIS. [Source](https://hsph.harvard.edu/news/mental-health-declined-among-u-s-adults-from-2011-to-2022/?utm_source=chatgpt.com)
+
+- “One of the notable trends we observed was a sharp rise in the rates of anxiety, depression, and stress in adolescents and young adults over the past 20 years. Rates increased by more than two-fold for those aged 16–24, and understanding what is underlying these patterns is of critical importance.” [Source](https://sphr.nihr.ac.uk/news-and-events/news/changes-in-depression-anxiety-and-stress-over-two-decades/?utm_source=chatgpt.com)
+
+And I suspect that the real picture is far worse. Because, having anxiety, stress is quite different from being clinically diagnosed with it.
+
+I see people around me and it's all too evident. People are more isolated, more absorbed in feeds, more socially anxious, and increasingly pessimistic about the future.
+
+As someone on HN put it, “the future has lost its appeal to me.” I couldn't have put it better how I feel these days and I suspect everyone else too.
+
+---
+
+What is the source of this pessimism? I remember being techno-optimist for the most part, thinking how technology is making everything better. Where did all go wrong?
+
+In my view, they did with the invention of algorithmic feeds. Social media had a bad rap from infancy, but gradually these platforms started ignoring what you explicitly chose—your interests, your follows—and started showing things to increase engagement, for eg, based on what others happened to like. The turning point was TikTok. That's where things went rapidly downhill. 
+​
+The idea was simple: discard user intent altogether in favor of pure engagement optimization. Relevance didn't matter anymore, it all about reducing friction to extend the time spent on app. Seeing it succeed, it was only a matter of time when everyone else followed. 
+
+Algorithmic feeds don't care whether you feel miserable, angry, or anxious after showing you something. They don't care about the quality of the content, nor whether it is shallow, sexist, misogynistic, or socially corrosive. Their sole objective is time-on-platform.
+
+Our attention spans already bad as they were have fallen off the cliff. We are often angry at the world or anxious about the future and slow leisurely things are just not fun and enjoyable anymore. It's the Neil Postman's worst fears realized—a dystopia not through censorship, but through constant stimulation.
+
+We spend an enormous amount of time debating artificial general intelligence and the hypothetical risks it may pose, while largely ignoring the fact that algorithimic feeds have already been doing the damage. Instead of showing what we chose, they are exploiting our worst cravings and making us all misrable.
+
+It is no accident that rage-bait—content solely created to provoke outrage—has become a quick and dirty way to rise on social media. Content goes viral not because it is insightful or good, but because engagement that results from you being angry.
+
+---
+
+## So what can be done?
+
+The worst part is this is how no one seems to see it as a problem. Most politicians, regulators are chasing the easy targets: restricting it for teenagers, or censoring some content, or preventing fake news, but no one is asking why we are allowing algorithimic feeds to slowly corrupt our minds.
+
+The issue is that much of the problematic content doesn't violate any law but still is poison that shouldn't be on anyone's feed. The easiest example is painting feminism as some evil propaganda against men, and how women's place in the kitchen is natural order of things. Such views have gained steam in the recent times purely because of social media.
+
+Regulating these feeds would mean recognizing the problem in the first place, and I don't hope that will happen anytime soon.
+
+The ideal regulation would be to ban or heavily regulate algorithmic feeds. If you don't follow someone, or a page, or an interest, there's no reason for you to get that stuff on your timeline. Only things that should be shown is what you explicitly choose. And if it does, it should be easy enough to nuke it from your timeline. 
+
+Yes, the feed would grow dull as it was in when Facebook was still early, but it also means our sanity will return. The social media of 2016 was bad in many ways, but our debates were centered around how seeing bright parts of others lives made us feel worse. I would have never imagined that I would be staring at re-emergence of loud and unashamed racism and misogyny. 
+
+Banning algorithim feeds won't magically make social media clean, but it would a decent reset.
+
+ 
+</description>
+      <guid>https://shubhamjain.co/2026/02/25/algorithmic-feeds-need-to-be-banned/</guid>
+      <pubDate>Thu, 26 Feb 2026 01:02:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>At Last I Am Free</title>
+      <link>https://magiconair.net/blog/2026-02-25-at-last-i-am-free</link>
+      <description>At Last I Am Free - On the liberation of building with AI agents</description>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://magiconair.net/blog/2026-02-25-at-last-i-am-free</guid>
+      <pubDate>Thu, 26 Feb 2026 01:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>The flatness of the machine</title>
+      <link>https://betterthangood.xyz/blog/ai-writing-has-no-voice/</link>
+      <description>AI prose is fluent, frictionless, and hollow. Why next-token prediction, RLHF, and model collapse are systematically and increasingly optimized against voice.</description>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://betterthangood.xyz/blog/ai-writing-has-no-voice/</guid>
+      <pubDate>Thu, 26 Feb 2026 01:02:19 GMT</pubDate>
+    </item>
+    <item>
       <title>The United States needs fewer bus stops - Works in Progress Magazine</title>
       <link>https://worksinprogress.co/issue/the-united-states-needs-fewer-bus-stops/</link>
       <description>Bus stop balancing is fast, cheap, and effective. It can turn a service people tolerate into one they’re happy to use.</description>
@@ -91,203 +369,6 @@ Beyond the accounts that are visibly glitching out, the vibe is also seriously o
       <category>nodejs</category>
       <guid>https://pi.dev/</guid>
       <pubDate>Wed, 25 Feb 2026 06:02:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>I Contain Multitudes</title>
-      <link>https://tobeva.com/articles/multitudes/</link>
-      <description>The Agentic Coding Simul</description>
-      <category>android</category>
-      <category>ai</category>
-      <category>gaming</category>
-      <category>sql</category>
-      <guid>https://tobeva.com/articles/multitudes/</guid>
-      <pubDate>Wed, 25 Feb 2026 01:03:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why It's Hard to Claw the Enterprise</title>
-      <link>https://mercurialsolo.github.io/posts/request-for-agent-infra/</link>
-      <description>Inspite of all the hype around personal assistants, personal agency still feels far from reality. It feels like we are the ones grinding for the agents today - constantly reviewing plans, uploading context and providing agents access to tools.</description>
-      <category>encryption</category>
-      <category>cloud</category>
-      <category>ai</category>
-      <guid>https://mercurialsolo.github.io/posts/request-for-agent-infra/</guid>
-      <pubDate>Wed, 25 Feb 2026 01:03:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Agents are not thinking, they are searching</title>
-      <link>https://technoyoda.github.io/agent-search.html</link>
-      <description>Prologue</description>
-      <category>ai</category>
-      <category>gaming</category>
-      <guid>https://technoyoda.github.io/agent-search.html</guid>
-      <pubDate>Wed, 25 Feb 2026 01:03:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why the KeePass format should be based on SQLite</title>
-      <link>https://mketab.org/blog/sqlite_kdbx/</link>
-      <description>KeePass has long been the gold standard and darling of the tech world due to its unrelenting commitment to security, stability, and data sovereignty. However, the XML format which the KDBX file format has been predicated on since 2007 has become a persistent friction point for developers and users in the adoption of modern security and convenience features.
-The Problems with KDBX Let us first start by explaining what a KDBX (4.1) file actually is. 1 Barring the technicalities, a KDBX file is an encrypted &amp; authenticated gzipped XML file which contains the typical fields you may expect of a password manager. Attachments are stored as binary data (the old KDBX 3 format used to base64 encode the files), while custom icons are stored as base64 strings within the XML file. Important to note is that every time a KDBX file is updated, no matter how small the edit was, the entire file gets rewritten. The entire file is also loaded into memory. Perhaps the most relevant part of the spec to this post are the TProtectedString and CustomData references, which, respectively, are the user-facing custom attributes, and non-user-facing plugin or app data.</description>
-      <category>sql</category>
-      <category>cloud</category>
-      <category>encryption</category>
-      <guid>https://mketab.org/blog/sqlite_kdbx/</guid>
-      <pubDate>Wed, 25 Feb 2026 01:03:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lime's billing model is encouraging cyclists to run red lights</title>
-      <link>https://tk.gg/posts/lime-bikes-should-stop-charging-when-you-stop</link>
-      <description>Per-minute billing on rental bikes may be the worst incentive for good behaviour.</description>
-      <author> (Matt TK Taylor)</author>
-      <guid>https://tk.gg/posts/lime-bikes-should-stop-charging-when-you-stop</guid>
-      <pubDate>Wed, 25 Feb 2026 01:03:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stop Writing if in Bash</title>
-      <link>https://samueleamato.xyz/2026/02/24/stop-writing-if-in-bash</link>
-      <description>Stop Writing if in Bash</description>
-      <category>python</category>
-      <guid>https://samueleamato.xyz/2026/02/24/stop-writing-if-in-bash</guid>
-      <pubDate>Wed, 25 Feb 2026 01:03:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>We Solved Execution. Now What?</title>
-      <link>https://anirudharamesh.github.io/blog/we-solved-execution-now-what/</link>
-      <description>AI solved execution. The bottleneck now is purpose.</description>
-      <category>ai</category>
-      <category>gaming</category>
-      <guid>https://anirudharamesh.github.io/blog/we-solved-execution-now-what/</guid>
-      <pubDate>Wed, 25 Feb 2026 01:03:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>"SaaS is Dead" - they say - Dmitry Kudryavtsev</title>
-      <link>https://kudmitry.com/articles/saas-is-dead-they-say/</link>
-      <description>SaaS is Dead.
-
-Everywhere you look -- be it HackerNews, Reddit, or LinkedIn -- they claim that SaaS is dead.
-Armed with a laptop and $100 Claude Code subscripti...</description>
-      <category>ai</category>
-      <guid>https://kudmitry.com/articles/saas-is-dead-they-say/</guid>
-      <pubDate>Wed, 25 Feb 2026 01:03:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>My Way (So Far) | xomiachuna.tech</title>
-      <link>https://xomiachuna.tech/posts/my-way/</link>
-      <description>Since childhood, I was captivated with sciences. The interest was fueled by a trove of children’s encyclopedias my parents got for me, and for a few years, the primary kind of present I got was books full of illustrations about space, animals, technology, the human body, and adjacent topics. In school, I was often at the top of my class in math, and later in other sciences. Physics specifically showed me that you can apply mathematical thinking in useful ways to solve practical problems.</description>
-      <category>android</category>
-      <category>python</category>
-      <category>ai</category>
-      <category>rust</category>
-      <category>containers</category>
-      <guid>https://xomiachuna.tech/posts/my-way/</guid>
-      <pubDate>Wed, 25 Feb 2026 01:03:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Rise of Agent-to-Agent Apps</title>
-      <link>https://brianchristner.io/the-rise-of-agent-to-agent-apps/</link>
-      <description>SaaS won't die—it'll transform into data providers for AI agents. Learn why Agent-Native apps and Agent-to-Agent marketplaces are the next app ecosystem.</description>
-      <category>ai</category>
-      <guid>https://brianchristner.io/the-rise-of-agent-to-agent-apps/</guid>
-      <pubDate>Wed, 25 Feb 2026 01:03:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>No Good Engineer is Arrogant | Agilitza Blog</title>
-      <link>https://agilitza.com/blog/no-good-engineer-is-arrogant/</link>
-      <description>Why humility isn't just a nice trait for engineers—it's a requirement. If you think you've mastered engineering, you're not doing anything challenging.</description>
-      <guid>https://agilitza.com/blog/no-good-engineer-is-arrogant/</guid>
-      <pubDate>Wed, 25 Feb 2026 01:02:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>I freaking love the new tools I built for myself</title>
-      <link>https://bastiangruber.ca/posts/i-freaking-love-the-new-tools-i-built-for-myself/</link>
-      <description>Building with Claude is a real joy and empowerment.</description>
-      <category>ai</category>
-      <category>conference</category>
-      <category>encryption</category>
-      <category>web</category>
-      <category>vscode</category>
-      <guid>https://bastiangruber.ca/posts/i-freaking-love-the-new-tools-i-built-for-myself/</guid>
-      <pubDate>Wed, 25 Feb 2026 01:02:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Longest Line Of Sight</title>
-      <link>https://tombh.co.uk/longest-line-of-sight</link>
-      <description>09 February 2026</description>
-      <category>rust</category>
-      <category>sql</category>
-      <category>javascript</category>
-      <guid>https://tombh.co.uk/longest-line-of-sight</guid>
-      <pubDate>Wed, 25 Feb 2026 01:02:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Row Locks With Joins Can Produce Surprising Results in PostgreSQL</title>
-      <link>https://hakibenita.com/postgres-row-lock-with-join</link>
-      <description>The strange edge case that triggered our assertions</description>
-      <category>sql</category>
-      <category>python</category>
-      <guid>https://hakibenita.com/postgres-row-lock-with-join</guid>
-      <pubDate>Wed, 25 Feb 2026 01:02:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why I Hate Anthropic and You Should Too</title>
-      <link>https://danielmiessler.com/blog/why-you-should-hate-anthropic</link>
-      <description>It's not about what a company does, but how it affects your token budget</description>
-      <category>ai</category>
-      <guid>https://danielmiessler.com/blog/why-you-should-hate-anthropic</guid>
-      <pubDate>Wed, 25 Feb 2026 01:02:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>I ported one program to 10 languages to see how an LLM thinks</title>
-      <link>https://www.alexv.lv/llm-ports/</link>
-      <description>← alexv.lv</description>
-      <category>nodejs</category>
-      <category>encryption</category>
-      <category>javascript</category>
-      <category>ai</category>
-      <category>python</category>
-      <guid>https://www.alexv.lv/llm-ports/</guid>
-      <pubDate>Wed, 25 Feb 2026 01:02:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Hydrogen Truck Problem Isn't the Truck</title>
-      <link>https://www.mikeayles.com/blog/hydrogen-refuelling-road-freight/</link>
-      <description>Hydrogen fuel cell trucks exist. They work. The problem is everything around them: production efficiency, infrastructure economics, and a competitor called 'the grid' that's already everywhere.</description>
-      <guid>https://www.mikeayles.com/blog/hydrogen-refuelling-road-freight/</guid>
-      <pubDate>Wed, 25 Feb 2026 01:02:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>What if iteration is all we need?</title>
-      <link>https://www.robert-glaser.de/what-if-iteration-is-all-we-need/</link>
-      <description>What if every ceremony in software development was a workaround for expensive human iteration? What happens when juniors learn architecture on day one and spec-driven development turns out to be waterfall in disguise? Are we in the best restaurant in the world, but there’s no menu?</description>
-      <category>encryption</category>
-      <category>ai</category>
-      <guid>https://www.robert-glaser.de/what-if-iteration-is-all-we-need/</guid>
-      <pubDate>Wed, 25 Feb 2026 01:02:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Let Developers Cook</title>
-      <link>https://jaylol.com/2026/02/23/ai-and-software-engineering-productivity/</link>
-      <description>The case for extremely early prototyping in the age of AI</description>
-      <category>ai</category>
-      <guid>https://jaylol.com/2026/02/23/ai-and-software-engineering-productivity/</guid>
-      <pubDate>Wed, 25 Feb 2026 01:02:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>There's software, and then there's promptware</title>
-      <link>https://kelvinfichter.com/pages/thoughts/promptware/</link>
-      <description>Agents can do things pretty good, actually!</description>
-      <category>ai</category>
-      <category>sql</category>
-      <guid>https://kelvinfichter.com/pages/thoughts/promptware/</guid>
-      <pubDate>Wed, 25 Feb 2026 01:02:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>SaaS is (ought to be) dead</title>
-      <link>https://dev.ribic.ba/saas-is-dead</link>
-      <description>Replacing SaaS subscriptions with an hour of agentic coding</description>
-      <category>ai</category>
-      <category>web</category>
-      <guid>https://dev.ribic.ba/saas-is-dead</guid>
-      <pubDate>Wed, 25 Feb 2026 01:02:16 GMT</pubDate>
     </item>
   </channel>
 </rss>

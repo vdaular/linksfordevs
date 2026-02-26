@@ -1,1 +1,149 @@
-[]
+[
+  {
+    "Title": "Devirtualization and Static Polymorphism | David Álvarez Rosa | Personal Website",
+    "Url": "https://david.alvarezrosa.com/posts/devirtualization-and-static-polymorphism/",
+    "Timestamp": "2026-02-26T01:03:42",
+    "Domain": "david.alvarezrosa.com",
+    "Description": "Ever wondered why your &ldquo;clean&rdquo; polymorphic design underperforms in benchmarks? Virtual dispatch enables polymorphism, but it comes with hidden …"
+  },
+  {
+    "Title": "Why You Can’t Buy a Data Center Right Now – Timlig Engineering Notes",
+    "Url": "https://timlig.com/posts/ai-supply-chain-crisis/",
+    "Timestamp": "2026-02-26T01:03:37",
+    "Domain": "timlig.com",
+    "Description": "The AI boom created the worst electronics supply chain crisis in history. Here’s a simple map of what’s broken, who broke it, and when it gets fixed."
+  },
+  {
+    "Title": "The long death of programming languages",
+    "Url": "https://til.andrew-quinn.me/posts/the-long-death-of-programming-languages/",
+    "Timestamp": "2026-02-26T01:03:34",
+    "Domain": "til.andrew-quinn.me",
+    "Description": "I wrote my first Clojure program in anger a few months ago.\nOnly, it’s not accurate to\nsay that I wrote it; AI did most of the writing, and I directed it on what my\ndesign goals were and why.\nArchitecturally, you could call it was a stateless\nanti-corruption layer,\nyapping between some REST endpoints and some ancient proprietary serialization.\nI had never written a Clojure program of nontrivial size before. Indeed I had\nbarely touched any Lisp at all\nsince working through SICP\nduring a high school summer vacation, over a decade ago.\nThat didn’t matter. Much more important was emphasizing certain invariants from\nthe start, like the aforementioned statelessness, which made it very easy to\nunit and integration test, which was the true challenge."
+  },
+  {
+    "Title": "Stress testing Claude's language skills",
+    "Url": "https://vivsha.ws/blog/stress-testing-claudes-language-skills",
+    "Timestamp": "2026-02-26T01:03:30",
+    "Domain": "vivsha.ws",
+    "Description": "Polyglot or poly-not?"
+  },
+  {
+    "Title": "The cartography of reason",
+    "Url": "https://www.samrith.dev/blog/the-cartography-of-reason/",
+    "Timestamp": "2026-02-26T01:03:26",
+    "Domain": "www.samrith.dev",
+    "Description": "Quit being tired of your best reasoning getting lost in endless chat logs or messy notes."
+  },
+  {
+    "Title": "“OpenClaw, open the front door”",
+    "Url": "https://jukkan.com/openclaw-open-the-front-door/",
+    "Timestamp": "2026-02-26T01:03:23",
+    "Domain": "jukkan.com",
+    "Description": "The 84-Day Arc from Weekend Project to Weaponized Infrastructure. Why warnings aren’t stopping OpenClaw enthusiasts from giving AI agents the keys to everything."
+  },
+  {
+    "Title": "I rendered 1,418 Unicode confusable pairs across 230 fonts. Most aren't confusable to the eye.",
+    "Url": "https://paultendo.github.io/posts/confusable-vision-visual-similarity/",
+    "Timestamp": "2026-02-26T01:03:17",
+    "Domain": "paultendo.github.io",
+    "Description": "confusable-vision renders every TR39 confusable pair across 230 macOS system fonts and measures visual similarity with SSIM. 96.5% of confusables.txt is not high-risk, but 82 pairs are pixel-identical in at least one font."
+  },
+  {
+    "Title": "bertolami",
+    "Url": "https://bertolami.com/blog/minimum-viable-coding-agents",
+    "Timestamp": "2026-02-26T01:03:10",
+    "Domain": "bertolami.com",
+    "Description": "Joe Bertolami's portfolio and blog covering artificial intelligence, game development, computer graphics, data compression, and more."
+  },
+  {
+    "Title": "The Eternal Promise: A History of Attempts to Eliminate Programmers",
+    "Url": "https://www.ivanturkovic.com/2026/01/22/history-software-simplification-cobol-ai-hype/",
+    "Timestamp": "2026-02-26T01:03:07",
+    "Domain": "www.ivanturkovic.com",
+    "Description": "From COBOL in the 1960s to AI in the 2020s, every generation promises to eliminate programmers. Explore the recurring cycles of software simplification hype."
+  },
+  {
+    "Title": "How Did Hendrix Turn His Guitar Into a Wave Synthesizer?",
+    "Url": "https://spectrum.ieee.org/jimi-hendrix-systems-engineer",
+    "Timestamp": "2026-02-26T01:03:03",
+    "Domain": "spectrum.ieee.org",
+    "Description": "How did Jimi Hendrix turn his guitar into a wave synthesizer? Dive into the engineering behind his iconic sound."
+  },
+  {
+    "Title": "Why Core Banking Systems Are Terrible and Always Were",
+    "Url": "https://andrewbaker.ninja/2026/02/24/core-banking-is-a-terrible-idea-it-always-was/",
+    "Timestamp": "2026-02-26T01:02:59",
+    "Domain": "andrewbaker.ninja",
+    "Description": "Core banking systems promised to solve everything in one platform but became architectural nightmares that prevent banks from adapting to modern needs."
+  },
+  {
+    "Title": "My bar on software is too high",
+    "Url": "https://edwardbx.com/articles/my-bar-is-too-high/",
+    "Timestamp": "2026-02-26T01:02:56",
+    "Domain": "edwardbx.com",
+    "Description": "I'm comparing myself with the best in the world"
+  },
+  {
+    "Title": "The Last Year of Terraform – Encore Blog",
+    "Url": "https://encore.dev/blog/last-year-of-terraform",
+    "Timestamp": "2026-02-26T01:02:52",
+    "Domain": "encore.dev",
+    "Description": "AI agents generate code faster than teams can write Terraform. Infrastructure from Code, where infrastructure is derived from application code, is the only approach that scales."
+  },
+  {
+    "Title": "Just use symlinks and be agent agnostic",
+    "Url": "https://matanabudy.com/just-use-symlinks-and-be-agent-agnostic/",
+    "Timestamp": "2026-02-26T01:02:49",
+    "Domain": "matanabudy.com",
+    "Description": "Coding is solved right? Everything is great, AI is replacing us, we just need to press “allow”. But on which model? Which agent?\nCoding agents move fast, an..."
+  },
+  {
+    "Title": "Practical Decentralization",
+    "Url": "https://www.pfrazee.com/blog/practical-decentralization",
+    "Timestamp": "2026-02-26T01:02:45",
+    "Domain": "www.pfrazee.com",
+    "Description": "The point of decentralization is to guarantee the rights of individuals and communities on the Internet. Pulling that off is a balancing act between practicality and ideology."
+  },
+  {
+    "Title": "The IDE Might Die – Taking My Favorite Programming Language With It",
+    "Url": "https://thomasbandt.com/ide-death-fsharp",
+    "Timestamp": "2026-02-26T01:02:42",
+    "Domain": "thomasbandt.com",
+    "Description": "I've been in love with F# for many years. But as AI changes how I write code, the IDE I depend on may not survive – and F# might not either (at least not in my toolstack)."
+  },
+  {
+    "Title": "Power Efficiency - why we care so much about it",
+    "Url": "https://trmnl.com/blog/power-efficiency",
+    "Timestamp": "2026-02-26T01:02:38",
+    "Domain": "trmnl.com",
+    "Description": "No one wants to spend their life charging batteries."
+  },
+  {
+    "Title": "Tests Are The New Moat | Daniel Saewitz",
+    "Url": "https://saewitz.com/tests-are-the-new-moat",
+    "Timestamp": "2026-02-26T01:02:33",
+    "Domain": "saewitz.com",
+    "Description": "As AI becomes better at cloning people's open source work, what ends up becoming most valuable are software contracts, tests, and API surface area. This clashes the incentives of clearly defining your commercialized open source software with protecting it."
+  },
+  {
+    "Title": "Algorithmic Feeds Need to Be Banned",
+    "Url": "https://shubhamjain.co/2026/02/25/algorithmic-feeds-need-to-be-banned/",
+    "Timestamp": "2026-02-26T01:02:30",
+    "Domain": "shubhamjain.co",
+    "Description": "\n\"What Orwell feared were those who would ban books. What Huxley feared was that there would be no reason to ban a book, for there would be no one who wanted to read one. Orwell feared those who would deprive us of information. Huxley feared those who would give us so much that we would be reduced to passivity and egoism. Orwell feared that the truth would be concealed from us. Huxley feared the truth would be drowned in a sea of irrelevance.\"\n\n— Neil Postman, [Amusing Ourselves to Death: Public Discourse in the Age of Show Business](https://www.goodreads.com/work/quotes/2337731)\n\n---\n\nI often wonder if it's simply my age or the world is truly going to sh*t. When you've an opinion like that, it also means you're disregarding facts that prove the opposite: poverty is down, child mortality has fallen, wars are fewer, people live longer, and work fewer hours. \n\nI don't dispute that the world is getting better in those ways, however, I am convinced that it's also getting worse in many. For eg, it's the decline of slowly leisurely activities and increase in cheap dopamine seeking. In US, 40% teenagers were reported to be using [smartphones more than 8h per day](https://backlinko.com/screen-time-statistics). And I bet most of it was on scrolling social media feeds. The number of people who didn't read a single book in 2023 [was alarmingly 46%](https://www.statista.com/chart/32988/share-of-respondents-who-read-or-listened-to-books/), a radical jump from [just 24% in 1990.](https://www.generationtechblog.com/p/are-books-dead-why-gen-z-doesnt-read) \n\nSome may dismiss these concerns by pointing to historical moral panics—early 20th-century warnings about novels, crosswords, or even cycling supposedly corrupting society.\n\nWhat makes the current situation troubling is its correlation with a broad and visible decline in mental well-being. \n\n- From 2011 to 2022, adults who experienced poor mental health rose from 35.7% to 42.5% according to BRFSS, from 31.1% to 35.8% according to NSDUH, and from 18.7% to 20.5% according to NHIS. [Source](https://hsph.harvard.edu/news/mental-health-declined-among-u-s-adults-from-2011-to-2022/?utm_source=chatgpt.com)\n\n- “One of the notable trends we observed was a sharp rise in the rates of anxiety, depression, and stress in adolescents and young adults over the past 20 years. Rates increased by more than two-fold for those aged 16–24, and understanding what is underlying these patterns is of critical importance.” [Source](https://sphr.nihr.ac.uk/news-and-events/news/changes-in-depression-anxiety-and-stress-over-two-decades/?utm_source=chatgpt.com)\n\nAnd I suspect that the real picture is far worse. Because, having anxiety, stress is quite different from being clinically diagnosed with it.\n\nI see people around me and it's all too evident. People are more isolated, more absorbed in feeds, more socially anxious, and increasingly pessimistic about the future.\n\nAs someone on HN put it, “the future has lost its appeal to me.” I couldn't have put it better how I feel these days and I suspect everyone else too.\n\n---\n\nWhat is the source of this pessimism? I remember being techno-optimist for the most part, thinking how technology is making everything better. Where did all go wrong?\n\nIn my view, they did with the invention of algorithmic feeds. Social media had a bad rap from infancy, but gradually these platforms started ignoring what you explicitly chose—your interests, your follows—and started showing things to increase engagement, for eg, based on what others happened to like. The turning point was TikTok. That's where things went rapidly downhill. \n​\nThe idea was simple: discard user intent altogether in favor of pure engagement optimization. Relevance didn't matter anymore, it all about reducing friction to extend the time spent on app. Seeing it succeed, it was only a matter of time when everyone else followed. \n\nAlgorithmic feeds don't care whether you feel miserable, angry, or anxious after showing you something. They don't care about the quality of the content, nor whether it is shallow, sexist, misogynistic, or socially corrosive. Their sole objective is time-on-platform.\n\nOur attention spans already bad as they were have fallen off the cliff. We are often angry at the world or anxious about the future and slow leisurely things are just not fun and enjoyable anymore. It's the Neil Postman's worst fears realized—a dystopia not through censorship, but through constant stimulation.\n\nWe spend an enormous amount of time debating artificial general intelligence and the hypothetical risks it may pose, while largely ignoring the fact that algorithimic feeds have already been doing the damage. Instead of showing what we chose, they are exploiting our worst cravings and making us all misrable.\n\nIt is no accident that rage-bait—content solely created to provoke outrage—has become a quick and dirty way to rise on social media. Content goes viral not because it is insightful or good, but because engagement that results from you being angry.\n\n---\n\n## So what can be done?\n\nThe worst part is this is how no one seems to see it as a problem. Most politicians, regulators are chasing the easy targets: restricting it for teenagers, or censoring some content, or preventing fake news, but no one is asking why we are allowing algorithimic feeds to slowly corrupt our minds.\n\nThe issue is that much of the problematic content doesn't violate any law but still is poison that shouldn't be on anyone's feed. The easiest example is painting feminism as some evil propaganda against men, and how women's place in the kitchen is natural order of things. Such views have gained steam in the recent times purely because of social media.\n\nRegulating these feeds would mean recognizing the problem in the first place, and I don't hope that will happen anytime soon.\n\nThe ideal regulation would be to ban or heavily regulate algorithmic feeds. If you don't follow someone, or a page, or an interest, there's no reason for you to get that stuff on your timeline. Only things that should be shown is what you explicitly choose. And if it does, it should be easy enough to nuke it from your timeline. \n\nYes, the feed would grow dull as it was in when Facebook was still early, but it also means our sanity will return. The social media of 2016 was bad in many ways, but our debates were centered around how seeing bright parts of others lives made us feel worse. I would have never imagined that I would be staring at re-emergence of loud and unashamed racism and misogyny. \n\nBanning algorithim feeds won't magically make social media clean, but it would a decent reset.\n\n \n"
+  },
+  {
+    "Title": "At Last I Am Free",
+    "Url": "https://magiconair.net/blog/2026-02-25-at-last-i-am-free",
+    "Timestamp": "2026-02-26T01:02:27",
+    "Domain": "magiconair.net",
+    "Description": "At Last I Am Free - On the liberation of building with AI agents"
+  },
+  {
+    "Title": "The flatness of the machine",
+    "Url": "https://betterthangood.xyz/blog/ai-writing-has-no-voice/",
+    "Timestamp": "2026-02-26T01:02:19",
+    "Domain": "betterthangood.xyz",
+    "Description": "AI prose is fluent, frictionless, and hollow. Why next-token prediction, RLHF, and model collapse are systematically and increasingly optimized against voice."
+  }
+]
