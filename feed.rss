@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Little Red Dots</title>
+      <link>https://xkcd.com/3212/</link>
+      <description></description>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3212/</guid>
+      <pubDate>Thu, 26 Feb 2026 03:02:04 GMT</pubDate>
+    </item>
+    <item>
       <title>Devirtualization and Static Polymorphism | David Álvarez Rosa | Personal Website</title>
       <link>https://david.alvarezrosa.com/posts/devirtualization-and-static-polymorphism/</link>
       <description>Ever wondered why your &amp;ldquo;clean&amp;rdquo; polymorphic design underperforms in benchmarks? Virtual dispatch enables polymorphism, but it comes with hidden …</description>

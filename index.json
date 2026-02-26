@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Little Red Dots",
+    "Url": "https://xkcd.com/3212/",
+    "Timestamp": "2026-02-26T03:02:04",
+    "Domain": "xkcd.com",
+    "Description": "",
+    "Confidence": 0.98151064
+  },
+  {
     "Title": "Devirtualization and Static Polymorphism | David Álvarez Rosa | Personal Website",
     "Url": "https://david.alvarezrosa.com/posts/devirtualization-and-static-polymorphism/",
     "Timestamp": "2026-02-26T01:03:42",
