@@ -238,13 +238,5 @@
     "Domain": "idiallo.com",
     "Description": "Let's do this thought experiment together. I have a little box. I'll place the box on the table. Now I'll open the little box and put all the arguments against large language models in it. I'll put al",
     "Confidence": 0.9234179
-  },
-  {
-    "Title": "pi.dev",
-    "Url": "https://pi.dev/",
-    "Timestamp": "2026-02-25T06:02:16",
-    "Domain": "pi.dev",
-    "Description": "A terminal-based coding agent",
-    "Confidence": 0.998193
   }
 ]

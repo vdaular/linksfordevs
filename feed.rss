@@ -366,17 +366,5 @@ Beyond the accounts that are visibly glitching out, the vibe is also seriously o
       <guid>https://idiallo.com/blog/access-to-knowledge-is-no-longer-a-limitation?src=feed</guid>
       <pubDate>Wed, 25 Feb 2026 12:02:11 GMT</pubDate>
     </item>
-    <item>
-      <title>pi.dev</title>
-      <link>https://pi.dev/</link>
-      <description>A terminal-based coding agent</description>
-      <category>ai</category>
-      <category>typescript</category>
-      <category>git</category>
-      <category>javascript</category>
-      <category>nodejs</category>
-      <guid>https://pi.dev/</guid>
-      <pubDate>Wed, 25 Feb 2026 06:02:16 GMT</pubDate>
-    </item>
   </channel>
 </rss>
