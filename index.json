@@ -230,13 +230,5 @@
     "Domain": "www.infoq.com",
     "Description": "Daniel Stenberg shut down cURL's bug bounty after AI submissions hit 20%. Mitchell Hashimoto banned AI code from Ghostty. Steve Ruiz closed all external PRs to tldraw. Economic research shows \"vibe coding\" weakens the user engagement that sustains open source. As developers delegate to AI agents, documentation visits and bug reports collapse—threatening the ecosystem's viability.",
     "Confidence": 0.9609213
-  },
-  {
-    "Title": "When access to knowledge is no longer the limitation",
-    "Url": "https://idiallo.com/blog/access-to-knowledge-is-no-longer-a-limitation?src=feed",
-    "Timestamp": "2026-02-25T12:02:11",
-    "Domain": "idiallo.com",
-    "Description": "Let's do this thought experiment together. I have a little box. I'll place the box on the table. Now I'll open the little box and put all the arguments against large language models in it. I'll put al",
-    "Confidence": 0.9234179
   }
 ]
