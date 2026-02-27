@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The Hunt for Dark Breakfast</title>
+      <link>https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/</link>
+      <description>With a theoretical model of breakfast, can we derive the existence of “dark breakfasts,” breakfasts that we know must exist, but have never observed?</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://moultano.wordpress.com/2026/02/22/the-hunt-for-dark-breakfast/</guid>
+      <pubDate>Fri, 27 Feb 2026 12:01:59 GMT</pubDate>
+    </item>
+    <item>
       <title>Setting up a static site with Github Pages + Astro | Pure Krome</title>
       <link>https://www.world-domination.com.au/posts/2025/setup-static-website-github-pages-with-astro/</link>
       <description>Static Website with Github + Astro</description>
