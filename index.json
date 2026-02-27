@@ -238,13 +238,5 @@
     "Domain": "www.anthropic.com",
     "Description": "A statement from our CEO on national security uses of AI",
     "Confidence": 0.70992786
-  },
-  {
-    "Title": "How to Securely Erase an old Hard Drive on macOS Tahoe",
-    "Url": "https://www.jeffgeerling.com/blog/2026/securely-erase-hard-drive-macos-tahoe/",
-    "Timestamp": "2026-02-26T21:02:06",
-    "Domain": "www.jeffgeerling.com",
-    "Description": "Apparently Apple thinks nobody with a modern Mac uses spinning rust (hard drives with platters) anymore.\nI plugged in a hard drive from an old iMac into my Mac Studio using my Sabrent USB to SATA Hard Drive enclosure, and opened up Disk Utility, clicked on the top-level disk in the sidebar, and clicked 'Erase'.\nLo and behold, there's no 'Security Options' button on there, as there had been since—I believe—the very first version of Disk Utility in Mac OS X!",
-    "Confidence": 0.9507035
   }
 ]
