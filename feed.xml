@@ -7,6 +7,21 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>We Need Process, But Process Gets in the Way</title>
+      <link>https://idiallo.com/blog/when-process-get-in-the-way?src=feed</link>
+      <description>How do you manage a company with 50,000 employees? You need processes that give you visibility and control across every function such as technology, logistics, operations, and more. But the moment you</description>
+      <guid>https://idiallo.com/blog/when-process-get-in-the-way?src=feed</guid>
+      <pubDate>Fri, 27 Feb 2026 22:02:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dental Formulas</title>
+      <link>https://xkcd.com/3213/</link>
+      <description></description>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3213/</guid>
+      <pubDate>Fri, 27 Feb 2026 22:02:22 GMT</pubDate>
+    </item>
+    <item>
       <title>We deserve a better streams API for JavaScript</title>
       <link>https://blog.cloudflare.com/a-better-web-streams-api/</link>
       <description>The Web streams API has become ubiquitous in JavaScript runtimes but was designed for a different era. Here's what a modern streaming API could (should?) look like.</description>
