@@ -1,5 +1,40 @@
 [
   {
+    "Title": "Setting up a static site with Github Pages + Astro | Pure Krome",
+    "Url": "https://www.world-domination.com.au/posts/2025/setup-static-website-github-pages-with-astro/",
+    "Timestamp": "2026-02-27T11:02:13",
+    "Domain": "www.world-domination.com.au",
+    "Description": "Static Website with Github + Astro"
+  },
+  {
+    "Title": "AI Agent Skills and you | Pure Krome",
+    "Url": "https://www.world-domination.com.au/posts/2025/ai-agent-skills-and-you/",
+    "Timestamp": "2026-02-27T11:02:10",
+    "Domain": "www.world-domination.com.au",
+    "Description": "Thoughts about AI Agent Skills, CLI and API's inside Docker Containers."
+  },
+  {
+    "Title": "Simple: Observability | Pure Krome",
+    "Url": "https://www.world-domination.com.au/posts/2025/simple-observability/",
+    "Timestamp": "2026-02-27T11:02:06",
+    "Domain": "www.world-domination.com.au",
+    "Description": "A simple application to monitor your applications/microservices."
+  },
+  {
+    "Title": "Simple: AWS S3 Downloader | Pure Krome",
+    "Url": "https://www.world-domination.com.au/posts/2026/simple-aws-s3-downloader/",
+    "Timestamp": "2026-02-27T11:02:03",
+    "Domain": "www.world-domination.com.au",
+    "Description": "Simple AWS S3 TUI downloader using .NET and C#"
+  },
+  {
+    "Title": "Number 5 is Alive | Pure Krome",
+    "Url": "https://www.world-domination.com.au/posts/2025/number-5-is-alive/",
+    "Timestamp": "2026-02-27T11:01:59",
+    "Domain": "www.world-domination.com.au",
+    "Description": "Writing notes for future you and future me."
+  },
+  {
     "Title": "Stop Expecting Your Best Engineer to Be a Good Mentor",
     "Url": "https://levelup.gitconnected.com/stop-expecting-your-best-engineer-to-be-a-good-mentor-05eba3ff6c98?sk=d91cdc30a50aa785038f159d0c337370",
     "Timestamp": "2026-02-27T08:02:16",

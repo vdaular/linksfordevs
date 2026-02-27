@@ -7,6 +7,56 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Setting up a static site with Github Pages + Astro | Pure Krome</title>
+      <link>https://www.world-domination.com.au/posts/2025/setup-static-website-github-pages-with-astro/</link>
+      <description>Static Website with Github + Astro</description>
+      <category>nodejs</category>
+      <category>containers</category>
+      <category>linux</category>
+      <category>cloud</category>
+      <category>git</category>
+      <guid>https://www.world-domination.com.au/posts/2025/setup-static-website-github-pages-with-astro/</guid>
+      <pubDate>Fri, 27 Feb 2026 11:02:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI Agent Skills and you | Pure Krome</title>
+      <link>https://www.world-domination.com.au/posts/2025/ai-agent-skills-and-you/</link>
+      <description>Thoughts about AI Agent Skills, CLI and API's inside Docker Containers.</description>
+      <category>containers</category>
+      <category>visualstudio</category>
+      <category>cloud</category>
+      <category>ai</category>
+      <category>python</category>
+      <guid>https://www.world-domination.com.au/posts/2025/ai-agent-skills-and-you/</guid>
+      <pubDate>Fri, 27 Feb 2026 11:02:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Simple: Observability | Pure Krome</title>
+      <link>https://www.world-domination.com.au/posts/2025/simple-observability/</link>
+      <description>A simple application to monitor your applications/microservices.</description>
+      <category>containers</category>
+      <category>javascript</category>
+      <category>ai</category>
+      <guid>https://www.world-domination.com.au/posts/2025/simple-observability/</guid>
+      <pubDate>Fri, 27 Feb 2026 11:02:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Simple: AWS S3 Downloader | Pure Krome</title>
+      <link>https://www.world-domination.com.au/posts/2026/simple-aws-s3-downloader/</link>
+      <description>Simple AWS S3 TUI downloader using .NET and C#</description>
+      <category>cloud</category>
+      <category>ai</category>
+      <guid>https://www.world-domination.com.au/posts/2026/simple-aws-s3-downloader/</guid>
+      <pubDate>Fri, 27 Feb 2026 11:02:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Number 5 is Alive | Pure Krome</title>
+      <link>https://www.world-domination.com.au/posts/2025/number-5-is-alive/</link>
+      <description>Writing notes for future you and future me.</description>
+      <guid>https://www.world-domination.com.au/posts/2025/number-5-is-alive/</guid>
+      <pubDate>Fri, 27 Feb 2026 11:01:59 GMT</pubDate>
+    </item>
+    <item>
       <title>Stop Expecting Your Best Engineer to Be a Good Mentor</title>
       <link>https://levelup.gitconnected.com/stop-expecting-your-best-engineer-to-be-a-good-mentor-05eba3ff6c98?sk=d91cdc30a50aa785038f159d0c337370</link>
       <description>Most of them can’t, and that’s not a character flaw.</description>
