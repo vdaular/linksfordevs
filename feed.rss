@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Kafka CLI in C# | no dogma blog</title>
+      <link>https://nodogmablog.bryanhogan.net/2026/02/kafka-cli-in-c/</link>
+      <description>Here is a C# CLI for Kafka to produce and consume messages, and list, create, and delete topics.</description>
+      <category>containers</category>
+      <category>dotnet</category>
+      <guid>https://nodogmablog.bryanhogan.net/2026/02/kafka-cli-in-c/</guid>
+      <pubDate>Fri, 27 Feb 2026 03:02:09 GMT</pubDate>
+    </item>
+    <item>
       <title>Your Login Endpoint Is Leaking Information</title>
       <link>https://federico.page/blog/your-login-endpoint-is-leaking-information/</link>
       <description>How attackers can tell if an email or password is wrong, even when the error message is the same</description>
@@ -192,14 +201,6 @@ Lo and behold, there's no 'Security Options' button on there, as there had been 
       <category>ai</category>
       <guid>https://blog.google/innovation-and-ai/technology/ai/nano-banana-2/</guid>
       <pubDate>Thu, 26 Feb 2026 19:02:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Little Red Dots</title>
-      <link>https://xkcd.com/3212/</link>
-      <description></description>
-      <category>javascript</category>
-      <guid>https://xkcd.com/3212/</guid>
-      <pubDate>Thu, 26 Feb 2026 03:02:04 GMT</pubDate>
     </item>
   </channel>
 </rss>

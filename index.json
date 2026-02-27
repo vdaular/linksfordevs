@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Kafka CLI in C# | no dogma blog",
+    "Url": "https://nodogmablog.bryanhogan.net/2026/02/kafka-cli-in-c/",
+    "Timestamp": "2026-02-27T03:02:09",
+    "Domain": "nodogmablog.bryanhogan.net",
+    "Description": "Here is a C# CLI for Kafka to produce and consume messages, and list, create, and delete topics.",
+    "Confidence": 0.9974764
+  },
+  {
     "Title": "Your Login Endpoint Is Leaking Information",
     "Url": "https://federico.page/blog/your-login-endpoint-is-leaking-information/",
     "Timestamp": "2026-02-27T02:03:06",
@@ -158,13 +166,5 @@
     "Domain": "blog.google",
     "Description": "Our latest image generation model offers advanced world knowledge, production-ready specs, subject consistency and more, all at Flash speed.",
     "Confidence": 0.859876
-  },
-  {
-    "Title": "Little Red Dots",
-    "Url": "https://xkcd.com/3212/",
-    "Timestamp": "2026-02-26T03:02:04",
-    "Domain": "xkcd.com",
-    "Description": "",
-    "Confidence": 0.98151064
   }
 ]
