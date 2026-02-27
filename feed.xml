@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Statement from Dario Amodei on our discussions with the Department of War</title>
+      <link>https://www.anthropic.com/news/statement-department-of-war</link>
+      <description>A statement from our CEO on national security uses of AI</description>
+      <category>ai</category>
+      <guid>https://www.anthropic.com/news/statement-department-of-war</guid>
+      <pubDate>Fri, 27 Feb 2026 00:02:11 GMT</pubDate>
+    </item>
+    <item>
       <title>How to Securely Erase an old Hard Drive on macOS Tahoe</title>
       <link>https://www.jeffgeerling.com/blog/2026/securely-erase-hard-drive-macos-tahoe/</link>
       <description>Apparently Apple thinks nobody with a modern Mac uses spinning rust (hard drives with platters) anymore.
