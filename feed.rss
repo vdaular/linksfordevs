@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Upgrading my Open Source Pi Surveillance Server with Frigate</title>
+      <link>https://www.jeffgeerling.com/blog/2026/upgrading-my-open-source-pi-surveillance-server-frigate/</link>
+      <description>In 2024 I built a Pi Frigate NVR with Axzez's Interceptor 1U Case, and installed it in my 19" rack. Using a Coral TPU for object detection, it's been dutifully surveilling my property—on my terms (100% local, no cloud integration or account required).
+I've wanted to downsize the setup while keeping cheap large hard drives1, and an AI accelerator.</description>
+      <category>containers</category>
+      <category>linux</category>
+      <category>ai</category>
+      <guid>https://www.jeffgeerling.com/blog/2026/upgrading-my-open-source-pi-surveillance-server-frigate/</guid>
+      <pubDate>Fri, 27 Feb 2026 16:02:09 GMT</pubDate>
+    </item>
+    <item>
       <title>Making WebAssembly a first-class language on the Web – Mozilla Hacks - the Web developer blog</title>
       <link>https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/</link>
       <description>This post is an expanded version of a presentation I gave at the recent WebAssembly CG meeting in Munich. WebAssembly has come a long way since its first release in 2017. The 1.0 version of WebAssembly was already a great fit for low-level languages like C and C++, and immediately enabled many new kinds of applications to efficiently target the web.</description>
