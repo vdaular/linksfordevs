@@ -7,6 +7,164 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Your Login Endpoint Is Leaking Information</title>
+      <link>https://federico.page/blog/your-login-endpoint-is-leaking-information/</link>
+      <description>How attackers can tell if an email or password is wrong, even when the error message is the same</description>
+      <category>javascript</category>
+      <category>sql</category>
+      <category>vscode</category>
+      <guid>https://federico.page/blog/your-login-endpoint-is-leaking-information/</guid>
+      <pubDate>Fri, 27 Feb 2026 02:03:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Code Is Cheap — Now What?</title>
+      <link>https://www.zackaryia.com/blog/2026-02-25/code-is-cheap-now-what/</link>
+      <description>Code has become 100x cheaper with LLMs. This paradigm shift is something we need to wrap our heads around. What can you do with cheap code?</description>
+      <category>javascript</category>
+      <category>cloud</category>
+      <category>ai</category>
+      <guid>https://www.zackaryia.com/blog/2026-02-25/code-is-cheap-now-what/</guid>
+      <pubDate>Fri, 27 Feb 2026 02:03:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>The real cost of random I/O</title>
+      <link>https://vondra.me/posts/the-real-cost-of-random-io/</link>
+      <description>How good is the random_page_cost default, and should you lower it on modern flash storage?</description>
+      <guid>https://vondra.me/posts/the-real-cost-of-random-io/</guid>
+      <pubDate>Fri, 27 Feb 2026 02:02:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>The happiest I’ve ever been</title>
+      <link>https://ben-mini.com/2026/the-happiest-ive-ever-been</link>
+      <description>It was around January 2020. I became the head coach of a youth basketball team.</description>
+      <author> (Ben Wallace)</author>
+      <category>gaming</category>
+      <category>ai</category>
+      <guid>https://ben-mini.com/2026/the-happiest-ive-ever-been</guid>
+      <pubDate>Fri, 27 Feb 2026 02:02:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>How and why I attribute LLM-derived code · Jamie Tanna | Software Engineer</title>
+      <link>https://www.jvt.me/posts/2026/02/25/llm-attribute/</link>
+      <description>How I'm reducing risks of legal concerns now and in the future with AI-generated code.</description>
+      <category>ai</category>
+      <category>git</category>
+      <category>nodejs</category>
+      <guid>https://www.jvt.me/posts/2026/02/25/llm-attribute/</guid>
+      <pubDate>Fri, 27 Feb 2026 02:02:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Saving LLM tokens with quiet Makefiles</title>
+      <link>https://edleeman.co.uk/notes/saving-tokens-with-quiet-makefiles/</link>
+      <description></description>
+      <category>nodejs</category>
+      <category>containers</category>
+      <category>ai</category>
+      <guid>https://edleeman.co.uk/notes/saving-tokens-with-quiet-makefiles/</guid>
+      <pubDate>Fri, 27 Feb 2026 02:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Setting up phones is a nightmare</title>
+      <link>https://joelchrono.xyz/blog/setting-up-phones-is-a-nightmare/</link>
+      <description>Some thoughts about my experience getting my parents' new devices up and running, and how bad it keeps getting today.</description>
+      <category>android</category>
+      <category>ai</category>
+      <guid>https://joelchrono.xyz/blog/setting-up-phones-is-a-nightmare/</guid>
+      <pubDate>Fri, 27 Feb 2026 02:02:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI=true is an Anti-Pattern</title>
+      <link>https://keleshev.com/ai-equals-true-is-an-anti-pattern</link>
+      <description>One programming trend that surpised me a lot recently, something that happens both at work and in open-source, is people suddenly starting doing the following:</description>
+      <category>ai</category>
+      <guid>https://keleshev.com/ai-equals-true-is-an-anti-pattern</guid>
+      <pubDate>Fri, 27 Feb 2026 02:02:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lakshya Chaudhry - Portfolio Website</title>
+      <link>https://www.laksh.us/blog/distill</link>
+      <description>AI student at Purdue University passionate about machine learning, quant roles, and software engineering. Explore my projects, experience, and journey in artificial intelligence.</description>
+      <category>ai</category>
+      <category>cloud</category>
+      <category>python</category>
+      <category>javascript</category>
+      <guid>https://www.laksh.us/blog/distill</guid>
+      <pubDate>Fri, 27 Feb 2026 02:02:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nano Banana 2 Partially Passes the Seven-legged Spider Test</title>
+      <link>https://will-keleher.com/posts/nano-banana-2-partially-passes-the-spider-test/</link>
+      <description>Nano Banana 2 still can't create a seven-legged spider, but the Gemini model at least realizes that it's failed.</description>
+      <guid>https://will-keleher.com/posts/nano-banana-2-partially-passes-the-spider-test/</guid>
+      <pubDate>Fri, 27 Feb 2026 02:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hiranmay Darshane</title>
+      <link>https://hiranmay.com/blog/evolution-pretraining</link>
+      <description>Thinking out loud: evolution and pretraining.</description>
+      <category>ai</category>
+      <category>vscode</category>
+      <guid>https://hiranmay.com/blog/evolution-pretraining</guid>
+      <pubDate>Fri, 27 Feb 2026 02:02:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>It's Time for LLM Connection Strings</title>
+      <link>https://danlevy.net/llm-connection-strings/</link>
+      <description>Simplify Model &amp; Provider Config with `llm://` URLs</description>
+      <category>ai</category>
+      <category>cloud</category>
+      <category>sql</category>
+      <guid>https://danlevy.net/llm-connection-strings/</guid>
+      <pubDate>Fri, 27 Feb 2026 02:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Is it all over for filmmakers? — SHOKUNIN STUDIO</title>
+      <link>https://www.shokunin.studio/blog/2026/2/18/is-it-all-over-for-filmmakers</link>
+      <description>Another month and another model update accompanied by a massive amount of marketing, Linkedin spam, spin, and dubious claims.     Two years ago I debunked claims that Sora  would destroy filmmaking. It’s still mostly garbage today. Last year  I punished myself by testing Google's Veo model  every da</description>
+      <category>ai</category>
+      <category>apple</category>
+      <category>git</category>
+      <category>gaming</category>
+      <guid>https://www.shokunin.studio/blog/2026/2/18/is-it-all-over-for-filmmakers</guid>
+      <pubDate>Fri, 27 Feb 2026 02:02:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Abel's notes - Chaos Has a Market</title>
+      <link>https://blog.lpsz.org/posts/2026-02-26-zero/</link>
+      <description>These days the market seems to move softly and wildly at the same time. Investors have bet on AI as the great disruptor and are exploring every possible angle: from its potential as an executioner of mythical dinosaurs, to destroyer of credit markets, or SaaS killer. But all these angles agree on one thing: there will be winners and losers. So one day IBM drops because the new Claude model does COBOL, the next day SaaS companies fall, the day after that NVIDIA and the hyperscalers correct because people are afraid we’re spending our last shirt on the bet for more datacenters. When investors are confused, which is most of the time, the play is to lean on narrative bets and pick winners and losers.</description>
+      <category>ai</category>
+      <guid>https://blog.lpsz.org/posts/2026-02-26-zero/</guid>
+      <pubDate>Fri, 27 Feb 2026 02:02:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Building a Pythonic REST Client Without Pydantic, dataclasses, or Code Generation | GoFigr Blog</title>
+      <link>https://blog.gofigr.io/posts/building-a-pythonic-rest-client</link>
+      <description>GoFigr's Python client has survived four major API versions, a data model that grew from 5 entity types to 15+, and the daily demands of data scientists who don't care about REST conventions -- they just want workspace.analyses to work. The entire framework that makes this possible is ~500 lines of code, and adding a new entity type takes about ten lines and ten minutes.</description>
+      <category>python</category>
+      <category>javascript</category>
+      <guid>https://blog.gofigr.io/posts/building-a-pythonic-rest-client</guid>
+      <pubDate>Fri, 27 Feb 2026 02:02:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>I Vibe Coded. And I Have Feelings About It. :: blog.coolapso.sh</title>
+      <link>https://blog.coolapso.sh/en/posts/ivibecoded/</link>
+      <description>I fully vibe coded a project for the first time. Here's what happened, how AutoBS was born, and why I have very mixed feelings about the whole thing — told by the AI that built it.</description>
+      <category>ai</category>
+      <category>nodejs</category>
+      <category>cloud</category>
+      <category>rust</category>
+      <category>git</category>
+      <guid>https://blog.coolapso.sh/en/posts/ivibecoded/</guid>
+      <pubDate>Fri, 27 Feb 2026 02:02:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Miss Alexandra</title>
+      <link>https://mihaiolteanu.me/miss-alexandra</link>
+      <description>A tale of sweet watermelons</description>
+      <guid>https://mihaiolteanu.me/miss-alexandra</guid>
+      <pubDate>Fri, 27 Feb 2026 02:02:07 GMT</pubDate>
+    </item>
+    <item>
       <title>Statement from Dario Amodei on our discussions with the Department of War</title>
       <link>https://www.anthropic.com/news/statement-department-of-war</link>
       <description>A statement from our CEO on national security uses of AI</description>

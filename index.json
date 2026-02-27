@@ -1,5 +1,141 @@
 [
   {
+    "Title": "Your Login Endpoint Is Leaking Information",
+    "Url": "https://federico.page/blog/your-login-endpoint-is-leaking-information/",
+    "Timestamp": "2026-02-27T02:03:06",
+    "Domain": "federico.page",
+    "Description": "How attackers can tell if an email or password is wrong, even when the error message is the same",
+    "Confidence": 0.99751896
+  },
+  {
+    "Title": "Code Is Cheap — Now What?",
+    "Url": "https://www.zackaryia.com/blog/2026-02-25/code-is-cheap-now-what/",
+    "Timestamp": "2026-02-27T02:03:03",
+    "Domain": "www.zackaryia.com",
+    "Description": "Code has become 100x cheaper with LLMs. This paradigm shift is something we need to wrap our heads around. What can you do with cheap code?",
+    "Confidence": 0.9721983
+  },
+  {
+    "Title": "The real cost of random I/O",
+    "Url": "https://vondra.me/posts/the-real-cost-of-random-io/",
+    "Timestamp": "2026-02-27T02:02:59",
+    "Domain": "vondra.me",
+    "Description": "How good is the random_page_cost default, and should you lower it on modern flash storage?",
+    "Confidence": 0.98929346
+  },
+  {
+    "Title": "The happiest I’ve ever been",
+    "Url": "https://ben-mini.com/2026/the-happiest-ive-ever-been",
+    "Timestamp": "2026-02-27T02:02:56",
+    "Domain": "ben-mini.com",
+    "Description": "It was around January 2020. I became the head coach of a youth basketball team.",
+    "Confidence": 0.9120333
+  },
+  {
+    "Title": "How and why I attribute LLM-derived code · Jamie Tanna | Software Engineer",
+    "Url": "https://www.jvt.me/posts/2026/02/25/llm-attribute/",
+    "Timestamp": "2026-02-27T02:02:53",
+    "Domain": "www.jvt.me",
+    "Description": "How I'm reducing risks of legal concerns now and in the future with AI-generated code.",
+    "Confidence": 0.97235817
+  },
+  {
+    "Title": "Saving LLM tokens with quiet Makefiles",
+    "Url": "https://edleeman.co.uk/notes/saving-tokens-with-quiet-makefiles/",
+    "Timestamp": "2026-02-27T02:02:46",
+    "Domain": "edleeman.co.uk",
+    "Description": "",
+    "Confidence": 0.9921906
+  },
+  {
+    "Title": "Setting up phones is a nightmare",
+    "Url": "https://joelchrono.xyz/blog/setting-up-phones-is-a-nightmare/",
+    "Timestamp": "2026-02-27T02:02:43",
+    "Domain": "joelchrono.xyz",
+    "Description": "Some thoughts about my experience getting my parents' new devices up and running, and how bad it keeps getting today.",
+    "Confidence": 0.84867793
+  },
+  {
+    "Title": "AI=true is an Anti-Pattern",
+    "Url": "https://keleshev.com/ai-equals-true-is-an-anti-pattern",
+    "Timestamp": "2026-02-27T02:02:40",
+    "Domain": "keleshev.com",
+    "Description": "One programming trend that surpised me a lot recently, something that happens both at work and in open-source, is people suddenly starting doing the following:",
+    "Confidence": 0.9956279
+  },
+  {
+    "Title": "Lakshya Chaudhry - Portfolio Website",
+    "Url": "https://www.laksh.us/blog/distill",
+    "Timestamp": "2026-02-27T02:02:37",
+    "Domain": "www.laksh.us",
+    "Description": "AI student at Purdue University passionate about machine learning, quant roles, and software engineering. Explore my projects, experience, and journey in artificial intelligence.",
+    "Confidence": 0.97230476
+  },
+  {
+    "Title": "Nano Banana 2 Partially Passes the Seven-legged Spider Test",
+    "Url": "https://will-keleher.com/posts/nano-banana-2-partially-passes-the-spider-test/",
+    "Timestamp": "2026-02-27T02:02:34",
+    "Domain": "will-keleher.com",
+    "Description": "Nano Banana 2 still can't create a seven-legged spider, but the Gemini model at least realizes that it's failed.",
+    "Confidence": 0.9195952
+  },
+  {
+    "Title": "Hiranmay Darshane",
+    "Url": "https://hiranmay.com/blog/evolution-pretraining",
+    "Timestamp": "2026-02-27T02:02:30",
+    "Domain": "hiranmay.com",
+    "Description": "Thinking out loud: evolution and pretraining.",
+    "Confidence": 0.9726988
+  },
+  {
+    "Title": "It's Time for LLM Connection Strings",
+    "Url": "https://danlevy.net/llm-connection-strings/",
+    "Timestamp": "2026-02-27T02:02:27",
+    "Domain": "danlevy.net",
+    "Description": "Simplify Model & Provider Config with `llm://` URLs",
+    "Confidence": 0.9938371
+  },
+  {
+    "Title": "Is it all over for filmmakers? — SHOKUNIN STUDIO",
+    "Url": "https://www.shokunin.studio/blog/2026/2/18/is-it-all-over-for-filmmakers",
+    "Timestamp": "2026-02-27T02:02:23",
+    "Domain": "www.shokunin.studio",
+    "Description": "Another month and another model update accompanied by a massive amount of marketing, Linkedin spam, spin, and dubious claims.     Two years ago I debunked claims that Sora  would destroy filmmaking. It’s still mostly garbage today. Last year  I punished myself by testing Google's Veo model  every da",
+    "Confidence": 0.9406748
+  },
+  {
+    "Title": "Abel's notes - Chaos Has a Market",
+    "Url": "https://blog.lpsz.org/posts/2026-02-26-zero/",
+    "Timestamp": "2026-02-27T02:02:19",
+    "Domain": "blog.lpsz.org",
+    "Description": "These days the market seems to move softly and wildly at the same time. Investors have bet on AI as the great disruptor and are exploring every possible angle: from its potential as an executioner of mythical dinosaurs, to destroyer of credit markets, or SaaS killer. But all these angles agree on one thing: there will be winners and losers. So one day IBM drops because the new Claude model does COBOL, the next day SaaS companies fall, the day after that NVIDIA and the hyperscalers correct because people are afraid we’re spending our last shirt on the bet for more datacenters. When investors are confused, which is most of the time, the play is to lean on narrative bets and pick winners and losers.",
+    "Confidence": 0.9100801
+  },
+  {
+    "Title": "Building a Pythonic REST Client Without Pydantic, dataclasses, or Code Generation | GoFigr Blog",
+    "Url": "https://blog.gofigr.io/posts/building-a-pythonic-rest-client",
+    "Timestamp": "2026-02-27T02:02:15",
+    "Domain": "blog.gofigr.io",
+    "Description": "GoFigr's Python client has survived four major API versions, a data model that grew from 5 entity types to 15+, and the daily demands of data scientists who don't care about REST conventions -- they just want workspace.analyses to work. The entire framework that makes this possible is ~500 lines of code, and adding a new entity type takes about ten lines and ten minutes.",
+    "Confidence": 0.99605346
+  },
+  {
+    "Title": "I Vibe Coded. And I Have Feelings About It. :: blog.coolapso.sh",
+    "Url": "https://blog.coolapso.sh/en/posts/ivibecoded/",
+    "Timestamp": "2026-02-27T02:02:10",
+    "Domain": "blog.coolapso.sh",
+    "Description": "I fully vibe coded a project for the first time. Here's what happened, how AutoBS was born, and why I have very mixed feelings about the whole thing — told by the AI that built it.",
+    "Confidence": 0.98263854
+  },
+  {
+    "Title": "Miss Alexandra",
+    "Url": "https://mihaiolteanu.me/miss-alexandra",
+    "Timestamp": "2026-02-27T02:02:07",
+    "Domain": "mihaiolteanu.me",
+    "Description": "A tale of sweet watermelons",
+    "Confidence": 0.82687664
+  },
+  {
     "Title": "Statement from Dario Amodei on our discussions with the Department of War",
     "Url": "https://www.anthropic.com/news/statement-department-of-war",
     "Timestamp": "2026-02-27T00:02:11",
