@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Stop Expecting Your Best Engineer to Be a Good Mentor</title>
+      <link>https://levelup.gitconnected.com/stop-expecting-your-best-engineer-to-be-a-good-mentor-05eba3ff6c98?sk=d91cdc30a50aa785038f159d0c337370</link>
+      <description>Most of them can’t, and that’s not a character flaw.</description>
+      <author> (https://thesystemistsimon.medium.com)</author>
+      <category>ai</category>
+      <guid>https://levelup.gitconnected.com/stop-expecting-your-best-engineer-to-be-a-good-mentor-05eba3ff6c98?sk=d91cdc30a50aa785038f159d0c337370</guid>
+      <pubDate>Fri, 27 Feb 2026 08:02:16 GMT</pubDate>
+    </item>
+    <item>
       <title>Kafka CLI in C# | no dogma blog</title>
       <link>https://nodogmablog.bryanhogan.net/2026/02/kafka-cli-in-c/</link>
       <description>Here is a C# CLI for Kafka to produce and consume messages, and list, create, and delete topics.</description>
