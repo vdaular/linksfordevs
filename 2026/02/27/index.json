@@ -1,5 +1,12 @@
 [
   {
+    "Title": "We deserve a better streams API for JavaScript",
+    "Url": "https://blog.cloudflare.com/a-better-web-streams-api/",
+    "Timestamp": "2026-02-27T20:02:38",
+    "Domain": "blog.cloudflare.com",
+    "Description": "The Web streams API has become ubiquitous in JavaScript runtimes but was designed for a different era. Here's what a modern streaming API could (should?) look like."
+  },
+  {
     "Title": "Google API Keys Weren't Secrets. But then Gemini Changed the Rules. ◆ Truffle Security Co.",
     "Url": "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules",
     "Timestamp": "2026-02-27T17:02:14",
