@@ -7,6 +7,29 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Don't trust AI agents | NanoClaw Blog</title>
+      <link>https://nanoclaw.dev/blog/nanoclaw-security-model</link>
+      <description>AI agents need a security model that assumes things will go wrong. The right response isn't better permission checks, it's architecture that makes trust unnecessary.</description>
+      <category>containers</category>
+      <category>cloud</category>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://nanoclaw.dev/blog/nanoclaw-security-model</guid>
+      <pubDate>Sat, 28 Feb 2026 20:02:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>I Built an AI to Play Tempest… It Beat Me.</title>
+      <link>https://youtube.com/watch?v=TdbpoDjIvPk</link>
+      <description>I spent a year building an AI to master the hardest version of Tempest ever made… and yesterday it beat my official world record. What started as a stubborn engineering experiment turned into a full-blown machine learning breakthrough, complete with 15 million frames of gameplay, a custom MAME socket bridge, prioritized replay, and the two changes that finally cracked the plateau: attention and polar coordinates. Here’s how a 1-million-parameter model went from clueless to superhuman — and what it taught me about building AI that actually works.
+
+Live Training Dashboard: http://davepl.com:8765</description>
+      <author> (Dave's Garage)</author>
+      <category>ai</category>
+      <category>youtube</category>
+      <guid>https://youtube.com/watch?v=TdbpoDjIvPk</guid>
+      <pubDate>Sat, 28 Feb 2026 20:02:04 GMT</pubDate>
+    </item>
+    <item>
       <title>Cognitive Debt: When Velocity Exceeds Comprehension | rockoder</title>
       <link>https://www.rockoder.com/beyondthecode/cognitive-debt-when-velocity-exceeds-comprehension/</link>
       <description>A systems analysis of how AI-assisted development creates a gap between output speed and understanding, and why organizations cannot see it happening.</description>
@@ -282,17 +305,6 @@
       <category>javascript</category>
       <guid>https://xkcd.com/3213/</guid>
       <pubDate>Fri, 27 Feb 2026 22:02:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>We deserve a better streams API for JavaScript</title>
-      <link>https://blog.cloudflare.com/a-better-web-streams-api/</link>
-      <description>The Web streams API has become ubiquitous in JavaScript runtimes but was designed for a different era. Here's what a modern streaming API could (should?) look like.</description>
-      <category>nodejs</category>
-      <category>ai</category>
-      <category>javascript</category>
-      <category>web</category>
-      <guid>https://blog.cloudflare.com/a-better-web-streams-api/</guid>
-      <pubDate>Fri, 27 Feb 2026 20:02:38 GMT</pubDate>
     </item>
   </channel>
 </rss>

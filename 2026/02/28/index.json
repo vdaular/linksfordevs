@@ -1,5 +1,19 @@
 [
   {
+    "Title": "Don't trust AI agents | NanoClaw Blog",
+    "Url": "https://nanoclaw.dev/blog/nanoclaw-security-model",
+    "Timestamp": "2026-02-28T20:02:08",
+    "Domain": "nanoclaw.dev",
+    "Description": "AI agents need a security model that assumes things will go wrong. The right response isn't better permission checks, it's architecture that makes trust unnecessary."
+  },
+  {
+    "Title": "I Built an AI to Play Tempest… It Beat Me.",
+    "Url": "https://youtube.com/watch?v=TdbpoDjIvPk",
+    "Timestamp": "2026-02-28T20:02:04",
+    "Domain": "youtube.com",
+    "Description": "I spent a year building an AI to master the hardest version of Tempest ever made… and yesterday it beat my official world record. What started as a stubborn engineering experiment turned into a full-blown machine learning breakthrough, complete with 15 million frames of gameplay, a custom MAME socket bridge, prioritized replay, and the two changes that finally cracked the plateau: attention and polar coordinates. Here’s how a 1-million-parameter model went from clueless to superhuman — and what it taught me about building AI that actually works.\n\nLive Training Dashboard: http://davepl.com:8765"
+  },
+  {
     "Title": "Cognitive Debt: When Velocity Exceeds Comprehension | rockoder",
     "Url": "https://www.rockoder.com/beyondthecode/cognitive-debt-when-velocity-exceeds-comprehension/",
     "Timestamp": "2026-02-28T19:02:02",
