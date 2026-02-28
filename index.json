@@ -254,13 +254,5 @@
     "Domain": "mihaiolteanu.me",
     "Description": "A tale of sweet watermelons",
     "Confidence": 0.82687664
-  },
-  {
-    "Title": "Statement from Dario Amodei on our discussions with the Department of War",
-    "Url": "https://www.anthropic.com/news/statement-department-of-war",
-    "Timestamp": "2026-02-27T00:02:11",
-    "Domain": "www.anthropic.com",
-    "Description": "A statement from our CEO on national security uses of AI",
-    "Confidence": 0.70992786
   }
 ]
