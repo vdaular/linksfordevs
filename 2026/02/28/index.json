@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Statement on the comments from Secretary of War Pete Hegseth",
+    "Url": "https://www.anthropic.com/news/statement-comments-secretary-war",
+    "Timestamp": "2026-02-28T03:02:41",
+    "Domain": "www.anthropic.com",
+    "Description": "Anthropic's response to the Secretary of War and advice for customers"
+  },
+  {
     "Title": "Managing Netplan with Django in Production (Revisisted)",
     "Url": "https://adelbordbari.github.io/code/2025-02-01-manage-netplan-with-django/",
     "Timestamp": "2026-02-28T02:03:50",

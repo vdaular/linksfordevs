@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Statement on the comments from Secretary of War Pete Hegseth",
+    "Url": "https://www.anthropic.com/news/statement-comments-secretary-war",
+    "Timestamp": "2026-02-28T03:02:41",
+    "Domain": "www.anthropic.com",
+    "Description": "Anthropic's response to the Secretary of War and advice for customers",
+    "Confidence": 0.910631
+  },
+  {
     "Title": "Managing Netplan with Django in Production (Revisisted)",
     "Url": "https://adelbordbari.github.io/code/2025-02-01-manage-netplan-with-django/",
     "Timestamp": "2026-02-28T02:03:50",
@@ -286,13 +294,5 @@
     "Domain": "levelup.gitconnected.com",
     "Description": "Most of them can’t, and that’s not a character flaw.",
     "Confidence": 0.977273
-  },
-  {
-    "Title": "Kafka CLI in C# | no dogma blog",
-    "Url": "https://nodogmablog.bryanhogan.net/2026/02/kafka-cli-in-c/",
-    "Timestamp": "2026-02-27T03:02:09",
-    "Domain": "nodogmablog.bryanhogan.net",
-    "Description": "Here is a C# CLI for Kafka to produce and consume messages, and list, create, and delete topics.",
-    "Confidence": 0.9974764
   }
 ]

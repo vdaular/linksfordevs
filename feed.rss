@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Statement on the comments from Secretary of War Pete Hegseth</title>
+      <link>https://www.anthropic.com/news/statement-comments-secretary-war</link>
+      <description>Anthropic's response to the Secretary of War and advice for customers</description>
+      <category>ai</category>
+      <guid>https://www.anthropic.com/news/statement-comments-secretary-war</guid>
+      <pubDate>Sat, 28 Feb 2026 03:02:41 GMT</pubDate>
+    </item>
+    <item>
       <title>Managing Netplan with Django in Production (Revisisted)</title>
       <link>https://adelbordbari.github.io/code/2025-02-01-manage-netplan-with-django/</link>
       <description></description>
@@ -348,15 +356,6 @@ I've wanted to downsize the setup while keeping cheap large hard drives1, and an
       <category>ai</category>
       <guid>https://levelup.gitconnected.com/stop-expecting-your-best-engineer-to-be-a-good-mentor-05eba3ff6c98?sk=d91cdc30a50aa785038f159d0c337370</guid>
       <pubDate>Fri, 27 Feb 2026 08:02:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kafka CLI in C# | no dogma blog</title>
-      <link>https://nodogmablog.bryanhogan.net/2026/02/kafka-cli-in-c/</link>
-      <description>Here is a C# CLI for Kafka to produce and consume messages, and list, create, and delete topics.</description>
-      <category>containers</category>
-      <category>dotnet</category>
-      <guid>https://nodogmablog.bryanhogan.net/2026/02/kafka-cli-in-c/</guid>
-      <pubDate>Fri, 27 Feb 2026 03:02:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
