@@ -238,13 +238,5 @@
     "Domain": "trufflesecurity.com",
     "Description": "Google spent over a decade telling developers that Google API keys (like those used in Maps, Firebase, etc.) are not secrets. But that's no longer true.",
     "Confidence": 0.9788384
-  },
-  {
-    "Title": "Upgrading my Open Source Pi Surveillance Server with Frigate",
-    "Url": "https://www.jeffgeerling.com/blog/2026/upgrading-my-open-source-pi-surveillance-server-frigate/",
-    "Timestamp": "2026-02-27T16:02:09",
-    "Domain": "www.jeffgeerling.com",
-    "Description": "In 2024 I built a Pi Frigate NVR with Axzez's Interceptor 1U Case, and installed it in my 19\" rack. Using a Coral TPU for object detection, it's been dutifully surveilling my property—on my terms (100% local, no cloud integration or account required).\nI've wanted to downsize the setup while keeping cheap large hard drives1, and an AI accelerator.",
-    "Confidence": 0.98067963
   }
 ]
