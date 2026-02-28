@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>How do I cancel my ChatGPT subscription? | OpenAI Help Center</title>
+      <link>https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription</link>
+      <description>Subscription cancellation options and details</description>
+      <category>ai</category>
+      <category>apple</category>
+      <category>android</category>
+      <guid>https://help.openai.com/en/articles/7232927-how-do-i-cancel-my-chatgpt-subscription</guid>
+      <pubDate>Sat, 28 Feb 2026 08:02:18 GMT</pubDate>
+    </item>
+    <item>
       <title>Statement on the comments from Secretary of War Pete Hegseth</title>
       <link>https://www.anthropic.com/news/statement-comments-secretary-war</link>
       <description>Anthropic's response to the Secretary of War and advice for customers</description>
@@ -347,15 +357,6 @@ I've wanted to downsize the setup while keeping cheap large hard drives1, and an
       <description>Writing notes for future you and future me.</description>
       <guid>https://www.world-domination.com.au/posts/2025/number-5-is-alive/</guid>
       <pubDate>Fri, 27 Feb 2026 11:01:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stop Expecting Your Best Engineer to Be a Good Mentor</title>
-      <link>https://levelup.gitconnected.com/stop-expecting-your-best-engineer-to-be-a-good-mentor-05eba3ff6c98?sk=d91cdc30a50aa785038f159d0c337370</link>
-      <description>Most of them can’t, and that’s not a character flaw.</description>
-      <author> (https://thesystemistsimon.medium.com)</author>
-      <category>ai</category>
-      <guid>https://levelup.gitconnected.com/stop-expecting-your-best-engineer-to-be-a-good-mentor-05eba3ff6c98?sk=d91cdc30a50aa785038f159d0c337370</guid>
-      <pubDate>Fri, 27 Feb 2026 08:02:16 GMT</pubDate>
     </item>
   </channel>
 </rss>
