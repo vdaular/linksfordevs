@@ -7,6 +7,27 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>What AI coding costs you | Tom Wojcik</title>
+      <link>https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/</link>
+      <description>What's the effect of the prolonged AI usage among coders and is it tracked correctly, if it all?</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <category>encryption</category>
+      <guid>https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/</guid>
+      <pubDate>Sat, 28 Feb 2026 22:02:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Headless Sync - Obsidian Help</title>
+      <link>https://help.obsidian.md/sync/headless</link>
+      <description>Headless Sync - Obsidian Help</description>
+      <category>nodejs</category>
+      <category>encryption</category>
+      <category>javascript</category>
+      <category>linux</category>
+      <guid>https://help.obsidian.md/sync/headless</guid>
+      <pubDate>Sat, 28 Feb 2026 22:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>Don't trust AI agents | NanoClaw Blog</title>
       <link>https://nanoclaw.dev/blog/nanoclaw-security-model</link>
       <description>AI agents need a security model that assumes things will go wrong. The right response isn't better permission checks, it's architecture that makes trust unnecessary.</description>
@@ -290,21 +311,6 @@ Live Training Dashboard: http://davepl.com:8765</description>
       <category>youtube</category>
       <guid>https://pseudosingleton.com/leaving-google-improved-my-life/</guid>
       <pubDate>Fri, 27 Feb 2026 23:02:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>We Need Process, But Process Gets in the Way</title>
-      <link>https://idiallo.com/blog/when-process-get-in-the-way?src=feed</link>
-      <description>How do you manage a company with 50,000 employees? You need processes that give you visibility and control across every function such as technology, logistics, operations, and more. But the moment you</description>
-      <guid>https://idiallo.com/blog/when-process-get-in-the-way?src=feed</guid>
-      <pubDate>Fri, 27 Feb 2026 22:02:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dental Formulas</title>
-      <link>https://xkcd.com/3213/</link>
-      <description></description>
-      <category>javascript</category>
-      <guid>https://xkcd.com/3213/</guid>
-      <pubDate>Fri, 27 Feb 2026 22:02:22 GMT</pubDate>
     </item>
   </channel>
 </rss>
