@@ -299,15 +299,5 @@ I've wanted to downsize the setup while keeping cheap large hard drives1, and an
       <guid>https://www.jeffgeerling.com/blog/2026/upgrading-my-open-source-pi-surveillance-server-frigate/</guid>
       <pubDate>Fri, 27 Feb 2026 16:02:09 GMT</pubDate>
     </item>
-    <item>
-      <title>Making WebAssembly a first-class language on the Web – Mozilla Hacks - the Web developer blog</title>
-      <link>https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/</link>
-      <description>This post is an expanded version of a presentation I gave at the recent WebAssembly CG meeting in Munich. WebAssembly has come a long way since its first release in 2017. The 1.0 version of WebAssembly was already a great fit for low-level languages like C and C++, and immediately enabled many new kinds of applications to efficiently target the web.</description>
-      <category>web</category>
-      <category>javascript</category>
-      <category>rust</category>
-      <guid>https://hacks.mozilla.org/2026/02/making-webassembly-a-first-class-language-on-the-web/</guid>
-      <pubDate>Fri, 27 Feb 2026 14:01:50 GMT</pubDate>
-    </item>
   </channel>
 </rss>
