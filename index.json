@@ -230,13 +230,5 @@
     "Domain": "blog.cloudflare.com",
     "Description": "The Web streams API has become ubiquitous in JavaScript runtimes but was designed for a different era. Here's what a modern streaming API could (should?) look like.",
     "Confidence": 0.9971012
-  },
-  {
-    "Title": "Google API Keys Weren't Secrets. But then Gemini Changed the Rules. ◆ Truffle Security Co.",
-    "Url": "https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules",
-    "Timestamp": "2026-02-27T17:02:14",
-    "Domain": "trufflesecurity.com",
-    "Description": "Google spent over a decade telling developers that Google API keys (like those used in Maps, Firebase, etc.) are not secrets. But that's no longer true.",
-    "Confidence": 0.9788384
   }
 ]

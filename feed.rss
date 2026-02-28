@@ -277,16 +277,5 @@
       <guid>https://blog.cloudflare.com/a-better-web-streams-api/</guid>
       <pubDate>Fri, 27 Feb 2026 20:02:38 GMT</pubDate>
     </item>
-    <item>
-      <title>Google API Keys Weren't Secrets. But then Gemini Changed the Rules. ◆ Truffle Security Co.</title>
-      <link>https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules</link>
-      <description>Google spent over a decade telling developers that Google API keys (like those used in Maps, Firebase, etc.) are not secrets. But that's no longer true.</description>
-      <category>javascript</category>
-      <category>ai</category>
-      <category>vscode</category>
-      <category>web</category>
-      <guid>https://trufflesecurity.com/blog/google-api-keys-werent-secrets-but-then-gemini-changed-the-rules</guid>
-      <pubDate>Fri, 27 Feb 2026 17:02:14 GMT</pubDate>
-    </item>
   </channel>
 </rss>
