@@ -246,13 +246,5 @@
     "Domain": "honnibal.dev",
     "Description": "The \"LLM welfare\" question provokes a lot of uncertainty in people, but it really shouldn't. The analogy between LLM computations and what we view as morally relevant experiences is very loose.",
     "Confidence": 0.9256619
-  },
-  {
-    "Title": "Leaving Google has actively improved my life",
-    "Url": "https://pseudosingleton.com/leaving-google-improved-my-life/",
-    "Timestamp": "2026-02-27T23:02:20",
-    "Domain": "pseudosingleton.com",
-    "Description": "In May of 2023, Google introduced “AI overviews” into their search engine.^1] This followed years of decisions leading to worse search quality and the consum...",
-    "Confidence": 0.99411327
   }
 ]
