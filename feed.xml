@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Switch to Claude without starting over | Claude</title>
+      <link>https://claude.com/import-memory</link>
+      <description>Transfer your preferences, projects, and context from other AI providers into Claude. Switch without losing what makes your AI useful.</description>
+      <category>ai</category>
+      <guid>https://claude.com/import-memory</guid>
+      <pubDate>Sun, 01 Mar 2026 14:02:10 GMT</pubDate>
+    </item>
+    <item>
       <title>Our agreement with the Department of War</title>
       <link>https://openai.com/index/our-agreement-with-the-department-of-war</link>
       <description>Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.</description>
