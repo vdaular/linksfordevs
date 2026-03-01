@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>AI Made Writing Code Easier. It Made Engineering Harder.</title>
+      <link>https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/</link>
+      <description>Writing code is easier than ever. Being a software engineer is harder than ever. The paradox nobody talks about, and what engineers and leaders should do.</description>
+      <category>ai</category>
+      <guid>https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/</guid>
+      <pubDate>Sun, 01 Mar 2026 17:02:12 GMT</pubDate>
+    </item>
+    <item>
       <title>Switch to Claude without starting over | Claude</title>
       <link>https://claude.com/import-memory</link>
       <description>Transfer your preferences, projects, and context from other AI providers into Claude. Switch without losing what makes your AI useful.</description>
