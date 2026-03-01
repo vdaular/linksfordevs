@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Expert Beginners and Lone Wolves will dominate this early LLM era",
+    "Url": "https://www.jeffgeerling.com/blog/2026/expert-beginners-and-lone-wolves-dominate-llm-era/",
+    "Timestamp": "2026-03-01T23:02:08",
+    "Domain": "www.jeffgeerling.com",
+    "Description": "After migrating this blog from a static site generator into Drupal in 2009, I noted:\nAs a sad side-effect, all the blog comments are gone. Forever. Wiped out. But have no fear, we can start new discussions on many new posts! I archived all the comments from the old 'Thingamablog' version of the blog, but can't repost them here (at least, not with my time constraints... it would just take a nice import script, but I don't have the time for that now)."
+  },
+  {
     "Title": "Service health - Mar 01, 2026 | AWS Health Dashboard",
     "Url": "https://health.aws.amazon.com/health/status?tag=linksfordevs-20&lfd=202603",
     "Timestamp": "2026-03-01T21:02:19",
