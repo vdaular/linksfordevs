@@ -1,5 +1,13 @@
 [
   {
+    "Title": "“How old are you?” Asked the OS",
+    "Url": "https://idiallo.com/byte-size/how-old-are-you-asked-the-os?src=feed",
+    "Timestamp": "2026-03-01T02:02:05",
+    "Domain": "idiallo.com",
+    "Description": "California is mandating that all operating systems ask for the user's age during account creation. There are so many flaws with this premise. We lose control.",
+    "Confidence": 0.90429693
+  },
+  {
     "Title": "On How Mailchimp Suspended Our Account · @radekmie’s take on IT and stuff",
     "Url": "https://radekmie.dev/blog/on-how-mailchimp-suspended-our-account/",
     "Timestamp": "2026-03-01T00:03:12",
@@ -166,181 +174,5 @@
     "Domain": "www.anthropic.com",
     "Description": "Anthropic's response to the Secretary of War and advice for customers",
     "Confidence": 0.910631
-  },
-  {
-    "Title": "Managing Netplan with Django in Production (Revisisted)",
-    "Url": "https://adelbordbari.github.io/code/2025-02-01-manage-netplan-with-django/",
-    "Timestamp": "2026-02-28T02:03:50",
-    "Domain": "adelbordbari.github.io",
-    "Description": "",
-    "Confidence": 0.9990278
-  },
-  {
-    "Title": "We really do need to get money moving differently. – Wilsons Blog",
-    "Url": "https://wilsoniumite.com/2026/02/27/we-really-do-need-to-get-money-moving-differently/",
-    "Timestamp": "2026-02-28T02:03:46",
-    "Domain": "wilsoniumite.com",
-    "Description": "A simple model of how the economy works is it’s some kind of rewards system. You do something good that other people will pay you for and you are then rewarded with money. You are a smart engineer and your boss gives you a raise, you’re a smart entrepreneur and VCs give you tons of money. That money entitles you to stuff, the idea being that there is only so much stuff, yachts, housing, fancy clothes, holidays, and you are rewarded for being good at something by being first in line to get that stuff in lieu of someone else getting it. And then we say that this encourages people to work hard and be smart, and that is good for society overall. This is perhaps true to a degree but it is in many ways the less interesting (and less important) part of what “the economy” is.",
-    "Confidence": 0.9455341
-  },
-  {
-    "Title": "I Was Tired of Juggling My Agents, So I Hired a Middle Manager",
-    "Url": "https://www.sawyerhood.com/blog/hired-a-middle-manager",
-    "Timestamp": "2026-02-28T02:03:42",
-    "Domain": "www.sawyerhood.com",
-    "Description": "I built a persistent manager agent to orchestrate coding workers, handle merge logistics, and keep me out of the context-switching grind.",
-    "Confidence": 0.97676766
-  },
-  {
-    "Title": "Please, please, please stop using passkeys for encrypting user data",
-    "Url": "https://blog.timcappalli.me/p/passkeys-prf-warning/",
-    "Timestamp": "2026-02-28T02:03:39",
-    "Domain": "blog.timcappalli.me",
-    "Description": "Passkeys are the future of authentication, but using them for data encryption is a disaster waiting to happen. Overloading these credentials creates a dangerous blast radius that can lead to the irreversible loss of a user's most sacred memories and documents.",
-    "Confidence": 0.9935158
-  },
-  {
-    "Title": "Zugunruhe | Nathan's Notes",
-    "Url": "https://www.nathanzhao.cc/zugunruhe",
-    "Timestamp": "2026-02-28T02:03:35",
-    "Domain": "www.nathanzhao.cc",
-    "Description": "Ideology, beyond robustness and agency",
-    "Confidence": 0.7439636
-  },
-  {
-    "Title": "Filesystems are having a moment",
-    "Url": "https://madalitso.me/notes/why-everyone-is-talking-about-filesystems/",
-    "Timestamp": "2026-02-28T02:03:32",
-    "Domain": "madalitso.me",
-    "Description": "a digital garden by daniel phiri",
-    "Confidence": 0.986879
-  },
-  {
-    "Title": "LLMs Out of Context",
-    "Url": "https://lucek.ai/blogs/llms-out-of-context",
-    "Timestamp": "2026-02-28T02:03:29",
-    "Domain": "lucek.ai",
-    "Description": "Context engineering, context rot, and how LLMs navigate content far exceeding their context window.",
-    "Confidence": 0.97645634
-  },
-  {
-    "Title": "How To Run Services on a Linux Server",
-    "Url": "https://huijzer.xyz/posts/150/how-to-run-services-on-a-linux-server",
-    "Timestamp": "2026-02-28T02:03:26",
-    "Domain": "huijzer.xyz",
-    "Description": "My blog containing posts about open source software, statistics, history, and related topics",
-    "Confidence": 0.99876386
-  },
-  {
-    "Title": "There is but one truly serious philosophical problem, and that is suicide",
-    "Url": "https://blog.danielyj.com/blog/suicide",
-    "Timestamp": "2026-02-28T02:03:22",
-    "Domain": "blog.danielyj.com",
-    "Description": "Contemplating Camus",
-    "Confidence": 0.94710326
-  },
-  {
-    "Title": "My Fully Automated Labor Law Research Tool Is Finally Here – Matt Bruenig Dot Com",
-    "Url": "https://mattbruenig.com/2026/02/23/my-fully-automated-labor-law-research-tool-is-finally-here/",
-    "Timestamp": "2026-02-28T02:03:18",
-    "Domain": "mattbruenig.com",
-    "Description": "",
-    "Confidence": 0.9938648
-  },
-  {
-    "Title": "The thieves are upset about theft — Cyrus Radfar",
-    "Url": "https://cyrusradfar.com/thoughts/the-thieves-are-upset-about-theft",
-    "Timestamp": "2026-02-28T02:03:12",
-    "Domain": "cyrusradfar.com",
-    "Description": "AI labs trained on everyone's data without asking. Now they're furious that other AI labs are training on their outputs. The pattern is older than electricity.",
-    "Confidence": 0.732401
-  },
-  {
-    "Title": "When DNS Load Balancing Is Good Enough — and When It Will Quietly Fail You",
-    "Url": "https://singh-sanjay.com/2026/02/24/when-dns-load-balancing-is-not-enough.html",
-    "Timestamp": "2026-02-28T02:03:08",
-    "Domain": "singh-sanjay.com",
-    "Description": "DNS round-robin works fine until your fleet becomes dynamic, your services multiply, or your datacenters need to coordinate. Here is where the line is, and what breaks when you cross it.",
-    "Confidence": 0.97655976
-  },
-  {
-    "Title": "memory is the residual of surprise",
-    "Url": "https://brgsk.xyz/memory-residual-of-surprise/",
-    "Timestamp": "2026-02-28T02:03:05",
-    "Domain": "brgsk.xyz",
-    "Description": "what neurobiology knows about memory that AI agents forgot. on prediction error, bi-temporal modeling, and why most memory systems are junk drawers.",
-    "Confidence": 0.88977844
-  },
-  {
-    "Title": "We Will Not Be Divided",
-    "Url": "https://notdivided.org/",
-    "Timestamp": "2026-02-28T02:03:01",
-    "Domain": "notdivided.org",
-    "Description": "Employees of Google and OpenAI stand together to refuse the Department of War's demands to use AI models for domestic mass surveillance and autonomous killing without human oversight.",
-    "Confidence": 0.88737166
-  },
-  {
-    "Title": "The Unreasonable Effectiveness of External Feedback Loops",
-    "Url": "https://bernste.in/writings/the-unreasonable-effectiveness-of-external-feedback-loops/",
-    "Timestamp": "2026-02-28T02:02:58",
-    "Domain": "bernste.in",
-    "Description": "If the agent can't be forced to confront ground truth, you didn't build a software factory - you built a demo generator.",
-    "Confidence": 0.97565585
-  },
-  {
-    "Title": "Developers Are Safe",
-    "Url": "https://azamsharp.com/2026/02/26/developers-are-safe.html",
-    "Timestamp": "2026-02-28T02:02:54",
-    "Domain": "azamsharp.com",
-    "Description": "Developers Are Safe… Thanks to Corporate Red Tape",
-    "Confidence": 0.986336
-  },
-  {
-    "Title": "Some notes on unreliability of LLM APIs",
-    "Url": "https://andrewpwheeler.com/2026/02/27/some-notes-on-unreliability-of-llm-apis/",
-    "Timestamp": "2026-02-28T02:02:51",
-    "Domain": "andrewpwheeler.com",
-    "Description": "Because my book, LLMs for Mortals, was created with Quarto, it runs the code when I compile the book. It uses cached versions when no code changes, but it is guaranteed to be working code for the p…",
-    "Confidence": 0.9847559
-  },
-  {
-    "Title": "Even with a Fleet of Coding Agents, You Still Can’t Recreate StackOverflow in a Weekend",
-    "Url": "https://orischwartz.com/posts/even-with-fleet-of-coding-agents.html",
-    "Timestamp": "2026-02-28T02:02:47",
-    "Domain": "orischwartz.com",
-    "Description": "February 27, 2026",
-    "Confidence": 0.9951881
-  },
-  {
-    "Title": "Hello burnout my old friend... - Trisha Gee",
-    "Url": "https://trishagee.com/2026/02/12/hello-burnout-my-old-friend/",
-    "Timestamp": "2026-02-28T02:02:44",
-    "Domain": "trishagee.com",
-    "Description": "I am struggling. There. I said it. Yes, I'm middle-aged. Yes, I have kids. Yes, I have an aging parent who has health issues. Yes, I'm building a house. (shhhhhh: yes I'm perimenopausal). But it's not just that (just! Ha!). I want to help people. I LIKE helping people. I like learning. I like trying … Continue reading \"Hello burnout my old friend…\"",
-    "Confidence": 0.9710386
-  },
-  {
-    "Title": "A bright coloured fish",
-    "Url": "https://varun.ch/til/bright-coloured-fish/",
-    "Timestamp": "2026-02-28T02:02:38",
-    "Domain": "varun.ch",
-    "Description": "Web developer and cybersecurity researcher",
-    "Confidence": 0.8399276
-  },
-  {
-    "Title": "The Tools of Angel Investing",
-    "Url": "https://zachholman.com/posts/the-tools-of-angel-investing",
-    "Timestamp": "2026-02-28T02:02:35",
-    "Domain": "zachholman.com",
-    "Description": "Written pieces, talks, and other bits by Zach Holman.",
-    "Confidence": 0.8426234
-  },
-  {
-    "Title": "LLMs don't suffer · honnibal.dev",
-    "Url": "https://honnibal.dev/blog/suffering",
-    "Timestamp": "2026-02-28T02:02:31",
-    "Domain": "honnibal.dev",
-    "Description": "The \"LLM welfare\" question provokes a lot of uncertainty in people, but it really shouldn't. The analogy between LLM computations and what we view as morally relevant experiences is very loose.",
-    "Confidence": 0.9256619
   }
 ]
