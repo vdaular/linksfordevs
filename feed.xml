@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>microgpt</title>
+      <link>http://karpathy.github.io/2026/02/12/microgpt/</link>
+      <description>Musings of a Computer Scientist.</description>
+      <category>ai</category>
+      <category>nodejs</category>
+      <category>cloud</category>
+      <category>python</category>
+      <category>encryption</category>
+      <guid>http://karpathy.github.io/2026/02/12/microgpt/</guid>
+      <pubDate>Sun, 01 Mar 2026 05:02:25 GMT</pubDate>
+    </item>
+    <item>
       <title>“How old are you?” Asked the OS</title>
       <link>https://idiallo.com/byte-size/how-old-are-you-asked-the-os?src=feed</link>
       <description>California is mandating that all operating systems ask for the user's age during account creation. There are so many flaws with this premise. We lose control.</description>
