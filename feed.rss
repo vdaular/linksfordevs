@@ -216,28 +216,5 @@ but you should not give "Agentic AI" access to your computer, accounts or wallet
       <guid>https://help.obsidian.md/sync/headless</guid>
       <pubDate>Sat, 28 Feb 2026 22:02:08 GMT</pubDate>
     </item>
-    <item>
-      <title>Don't trust AI agents | NanoClaw Blog</title>
-      <link>https://nanoclaw.dev/blog/nanoclaw-security-model</link>
-      <description>AI agents need a security model that assumes things will go wrong. The right response isn't better permission checks, it's architecture that makes trust unnecessary.</description>
-      <category>containers</category>
-      <category>cloud</category>
-      <category>ai</category>
-      <category>javascript</category>
-      <guid>https://nanoclaw.dev/blog/nanoclaw-security-model</guid>
-      <pubDate>Sat, 28 Feb 2026 20:02:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>I Built an AI to Play Tempest… It Beat Me.</title>
-      <link>https://youtube.com/watch?v=TdbpoDjIvPk</link>
-      <description>I spent a year building an AI to master the hardest version of Tempest ever made… and yesterday it beat my official world record. What started as a stubborn engineering experiment turned into a full-blown machine learning breakthrough, complete with 15 million frames of gameplay, a custom MAME socket bridge, prioritized replay, and the two changes that finally cracked the plateau: attention and polar coordinates. Here’s how a 1-million-parameter model went from clueless to superhuman — and what it taught me about building AI that actually works.
-
-Live Training Dashboard: http://davepl.com:8765</description>
-      <author> (Dave's Garage)</author>
-      <category>ai</category>
-      <category>youtube</category>
-      <guid>https://youtube.com/watch?v=TdbpoDjIvPk</guid>
-      <pubDate>Sat, 28 Feb 2026 20:02:04 GMT</pubDate>
-    </item>
   </channel>
 </rss>
