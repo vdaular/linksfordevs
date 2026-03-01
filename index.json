@@ -1,5 +1,101 @@
 [
   {
+    "Title": "On How Mailchimp Suspended Our Account · @radekmie’s take on IT and stuff",
+    "Url": "https://radekmie.dev/blog/on-how-mailchimp-suspended-our-account/",
+    "Timestamp": "2026-03-01T00:03:12",
+    "Domain": "radekmie.dev",
+    "Description": "Here’s a short horror story of us losing tens of thousands of emails. Hopefully it won’t happen to you, but if you do, here’s a few tips.",
+    "Confidence": 0.96972734
+  },
+  {
+    "Title": "Feature Flags: Power, Risk and Responsibility",
+    "Url": "http://emanueleminotto.github.io/blog/feature-flags-power-risk-responsabilities",
+    "Timestamp": "2026-03-01T00:03:09",
+    "Domain": "emanueleminotto.github.io",
+    "Description": "It’s Friday afternoon.You’ve just deployed a new feature.Tests are green. The code review passed. Everything looked fine in staging.Ten minutes later, the fi...",
+    "Confidence": 0.99432874
+  },
+  {
+    "Title": "I built an RGB controller with Arduino – Miloš Švaňa",
+    "Url": "https://svana.name/2026/02/i-built-an-rgb-controller-with-arduino/",
+    "Timestamp": "2026-03-01T00:03:05",
+    "Domain": "svana.name",
+    "Description": "Before Christmas, I bought a new computer case. It came with three built-in RGB fans. Unfortunately, the fans use a 3-pin aRGB connection, while my now quite old motherboard has a 4-pin RGB header. I am sure that I could find an adapter that would solve this issue right away. But there is no fun in that. Having experimented with Arduino for some time, now was the time to use my skills to build something useful.",
+    "Confidence": 0.9969722
+  },
+  {
+    "Title": "WebTiles: It's fine to accept user-supplied code, actually",
+    "Url": "https://dimden.dev/blog/?id=15-webtiles-its-fine-to-accept-user-supplied-code-actually",
+    "Timestamp": "2026-03-01T00:02:57",
+    "Domain": "dimden.dev",
+    "Description": "My website and blog.",
+    "Confidence": 0.9843486
+  },
+  {
+    "Title": "It's incredibly easy to game Twitter's trending news algorithm",
+    "Url": "https://muddy.jprs.me/notes/2026-02-27-it-s-incredibly-easy-to-game-twitter-s-trending-news-algorithm/",
+    "Timestamp": "2026-03-01T00:02:52",
+    "Domain": "muddy.jprs.me",
+    "Description": "Twitter’s “Today’s News” section is a mix of real news, very minor stories (usually discussion of a random AI-related post), nonsense trends, and barely disguised marketing.\nThe algorithm behind it seems pretty easy to manipulate.\nThis trending topic revolves around an explosive DM warning of imminent 25% layoffs at a FAANG company:\nHere is the original post, which comes from an account called Tech Layoff Tracker (@TechLayoffLover):\nThere is no reason to believe this post is real. The account, created this month (February 2026), made its first post 7 hours ago. The post in question was made 5 hours ago, or 2 hours after the account’s very first post. Of course, the account carries an utterly meaningless blue “verified” checkmark.",
+    "Confidence": 0.8352534
+  },
+  {
+    "Title": "“They’ll be bored of the slop soon enough” – Writing for Design Jury President Holly Kielty",
+    "Url": "https://www.dandad.org/insights/features/theyll-be-bored-of-the-slop-soon-enough-writing-for-design-jury-president-holly-kielty",
+    "Timestamp": "2026-03-01T00:02:49",
+    "Domain": "www.dandad.org",
+    "Description": "Published",
+    "Confidence": 0.82420504
+  },
+  {
+    "Title": "On Beads, Bloat, and Breaking Points",
+    "Url": "https://random.qmx.me/posts/2026/01/04/on-beads-bloat-and-breaking-points/",
+    "Timestamp": "2026-03-01T00:02:41",
+    "Domain": "random.qmx.me",
+    "Description": "Beads changed how I think about agentic workflows. The concept is genuinely revolutionary - persistent memory for coding agents that survives context compaction, dependency graphs, task tracking that actually works across sessions. But the internet is calling it a “virus.” And honestly? I agree with them. This isn’t a hit piece though. Steve Yegge didn’t deceive anyone. He was brutally upfront about the constraints. I just want to talk about what happens when good ideas meet messy execution, and the question I still can’t answer: when do you walk away?",
+    "Confidence": 0.98736227
+  },
+  {
+    "Title": "Be careful with LLM \"Agents\" (Maurycy's blog)",
+    "Url": "https://maurycyz.com/misc/sandbox_llms/",
+    "Timestamp": "2026-03-01T00:02:38",
+    "Domain": "maurycyz.com",
+    "Description": "I get it: Large Language Models are interesting...\nbut you should not give \"Agentic AI\" access to your computer, accounts or wallet.",
+    "Confidence": 0.90689987
+  },
+  {
+    "Title": "Why LLMs Can't Play Chess",
+    "Url": "https://www.nicowesterdale.com/blog/why-llms-cant-play-chess",
+    "Timestamp": "2026-03-01T00:02:33",
+    "Domain": "www.nicowesterdale.com",
+    "Description": "LLMs' attempts to play chess are hilarious; they blunder queens and move illegally. Here's what this tells us about when to use LLMs to solve complex software engineering tasks, and when to absolutely not.",
+    "Confidence": 0.97855127
+  },
+  {
+    "Title": "You don't have to if you don't want to.",
+    "Url": "https://www.scottsmitelli.com/articles/you-dont-have-to/",
+    "Timestamp": "2026-03-01T00:02:28",
+    "Domain": "www.scottsmitelli.com",
+    "Description": "\"In the year 5555, your arms are hangin' limp at your sides, your legs got nothing to do, some machine doin' that for you.\" Zager and Evans sang these words in 1969. Now, thirty-five centuries ahead of schedule, it's never been easier to tell the world \"I didn't care about this and I don't care about you.\"",
+    "Confidence": 0.86782074
+  },
+  {
+    "Title": "The third hard problem",
+    "Url": "https://mmapped.blog/posts/48-the-third-hard-problem",
+    "Timestamp": "2026-03-01T00:02:25",
+    "Domain": "mmapped.blog",
+    "Description": "It’s not off-by-one errors.",
+    "Confidence": 0.9309397
+  },
+  {
+    "Title": "Disposable Software: When generating code costs less than finding it",
+    "Url": "https://gavinray97.github.io/blog/llm-build-cheaper-than-searching",
+    "Timestamp": "2026-03-01T00:02:21",
+    "Domain": "gavinray97.github.io",
+    "Description": "LLMs have made generating code nearly free, but maintaining it hasn't changed. On the growing plague of code that shouldn't exist and the discipline of searching before building.",
+    "Confidence": 0.9132716
+  },
+  {
     "Title": "What AI coding costs you | Tom Wojcik",
     "Url": "https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/",
     "Timestamp": "2026-02-28T22:02:11",
