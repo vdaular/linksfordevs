@@ -174,21 +174,5 @@
     "Domain": "gavinray97.github.io",
     "Description": "LLMs have made generating code nearly free, but maintaining it hasn't changed. On the growing plague of code that shouldn't exist and the discipline of searching before building.",
     "Confidence": 0.9132716
-  },
-  {
-    "Title": "What AI coding costs you | Tom Wojcik",
-    "Url": "https://tomwojcik.com/posts/2026-02-15/finding-the-right-amount-of-ai/",
-    "Timestamp": "2026-02-28T22:02:11",
-    "Domain": "tomwojcik.com",
-    "Description": "What's the effect of the prolonged AI usage among coders and is it tracked correctly, if it all?",
-    "Confidence": 0.98118883
-  },
-  {
-    "Title": "Headless Sync - Obsidian Help",
-    "Url": "https://help.obsidian.md/sync/headless",
-    "Timestamp": "2026-02-28T22:02:08",
-    "Domain": "help.obsidian.md",
-    "Description": "Headless Sync - Obsidian Help",
-    "Confidence": 0.9872469
   }
 ]
