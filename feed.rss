@@ -7,6 +7,26 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Service health - Mar 01, 2026 | AWS Health Dashboard</title>
+      <link>https://health.aws.amazon.com/health/status?tag=linksfordevs-20&amp;lfd=202603</link>
+      <description>View the overall status and health of AWS services using the AWS Health Dashboard.</description>
+      <category>cloud</category>
+      <category>containers</category>
+      <category>sql</category>
+      <guid>https://health.aws.amazon.com/health/status?tag=linksfordevs-20&amp;lfd=202603</guid>
+      <pubDate>Sun, 01 Mar 2026 21:02:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>The looming AI clownpocalypse · honnibal.dev</title>
+      <link>https://honnibal.dev/blog/clownpocalypse</link>
+      <description>Exploits will soon be cheaper to develop autonomously than they earn. What then?</description>
+      <category>ai</category>
+      <category>web</category>
+      <category>sql</category>
+      <guid>https://honnibal.dev/blog/clownpocalypse</guid>
+      <pubDate>Sun, 01 Mar 2026 21:02:15 GMT</pubDate>
+    </item>
+    <item>
       <title>Ghostty Docs</title>
       <link>https://ghostty.org/docs</link>
       <description>Ghostty is a fast, feature-rich, and cross-platform terminal emulator

@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Service health - Mar 01, 2026 | AWS Health Dashboard",
+    "Url": "https://health.aws.amazon.com/health/status?tag=linksfordevs-20&lfd=202603",
+    "Timestamp": "2026-03-01T21:02:19",
+    "Domain": "health.aws.amazon.com",
+    "Description": "View the overall status and health of AWS services using the AWS Health Dashboard.",
+    "Confidence": 0.9691641
+  },
+  {
+    "Title": "The looming AI clownpocalypse · honnibal.dev",
+    "Url": "https://honnibal.dev/blog/clownpocalypse",
+    "Timestamp": "2026-03-01T21:02:15",
+    "Domain": "honnibal.dev",
+    "Description": "Exploits will soon be cheaper to develop autonomously than they earn. What then?",
+    "Confidence": 0.9552294
+  },
+  {
     "Title": "Ghostty Docs",
     "Url": "https://ghostty.org/docs",
     "Timestamp": "2026-03-01T18:02:13",
