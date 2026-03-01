@@ -166,13 +166,5 @@
     "Domain": "idiallo.com",
     "Description": "OpenAI has decided to join the Department of war to enable mass surveillance and weapons deployment in war. We are all cancelling our OpenAI subscriptions.",
     "Confidence": 0.97662884
-  },
-  {
-    "Title": "How to delete your account | OpenAI Help Center",
-    "Url": "https://help.openai.com/en/articles/6378407-how-to-delete-your-account",
-    "Timestamp": "2026-02-28T13:02:06",
-    "Domain": "help.openai.com",
-    "Description": "Delete your account by submitting a request to our Privacy Portal or within ChatGPT directly.",
-    "Confidence": 0.9689721
   }
 ]
