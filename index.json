@@ -166,13 +166,5 @@
     "Domain": "help.openai.com",
     "Description": "Subscription cancellation options and details",
     "Confidence": 0.83529747
-  },
-  {
-    "Title": "Statement on the comments from Secretary of War Pete Hegseth",
-    "Url": "https://www.anthropic.com/news/statement-comments-secretary-war",
-    "Timestamp": "2026-02-28T03:02:41",
-    "Domain": "www.anthropic.com",
-    "Description": "Anthropic's response to the Secretary of War and advice for customers",
-    "Confidence": 0.910631
   }
 ]
