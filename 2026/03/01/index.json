@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Our agreement with the Department of War",
+    "Url": "https://openai.com/index/our-agreement-with-the-department-of-war",
+    "Timestamp": "2026-03-01T06:02:04",
+    "Domain": "openai.com",
+    "Description": "Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments."
+  },
+  {
     "Title": "microgpt",
     "Url": "http://karpathy.github.io/2026/02/12/microgpt/",
     "Timestamp": "2026-03-01T05:02:25",
