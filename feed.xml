@@ -7,6 +7,33 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Ghostty Docs</title>
+      <link>https://ghostty.org/docs</link>
+      <description>Ghostty is a fast, feature-rich, and cross-platform terminal emulator
+that uses platform-native UI and GPU acceleration.</description>
+      <guid>https://ghostty.org/docs</guid>
+      <pubDate>Sun, 01 Mar 2026 18:02:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ad-Supported AI Chat Demo — See Every Ad Type in Action</title>
+      <link>https://99helpers.com/tools/ad-supported-chat</link>
+      <description>Experience what AI chat looks like with heavy advertising: banners, interstitials, sponsored responses, freemium gates, and more.</description>
+      <category>ai</category>
+      <category>youtube</category>
+      <guid>https://99helpers.com/tools/ad-supported-chat</guid>
+      <pubDate>Sun, 01 Mar 2026 18:02:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Decision Trees</title>
+      <link>https://mlu-explain.github.io/decision-tree/</link>
+      <description>An introduction to the Decision Trees, Entropy, and Information Gain.</description>
+      <category>nodejs</category>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://mlu-explain.github.io/decision-tree/</guid>
+      <pubDate>Sun, 01 Mar 2026 18:02:06 GMT</pubDate>
+    </item>
+    <item>
       <title>AI Made Writing Code Easier. It Made Engineering Harder.</title>
       <link>https://www.ivanturkovic.com/2026/02/25/ai-made-writing-code-easier-engineering-harder/</link>
       <description>Writing code is easier than ever. Being a software engineer is harder than ever. The paradox nobody talks about, and what engineers and leaders should do.</description>
@@ -211,23 +238,6 @@ Live Training Dashboard: http://davepl.com:8765</description>
       <category>youtube</category>
       <guid>https://youtube.com/watch?v=TdbpoDjIvPk</guid>
       <pubDate>Sat, 28 Feb 2026 20:02:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cognitive Debt: When Velocity Exceeds Comprehension | rockoder</title>
-      <link>https://www.rockoder.com/beyondthecode/cognitive-debt-when-velocity-exceeds-comprehension/</link>
-      <description>A systems analysis of how AI-assisted development creates a gap between output speed and understanding, and why organizations cannot see it happening.</description>
-      <category>ai</category>
-      <guid>https://www.rockoder.com/beyondthecode/cognitive-debt-when-velocity-exceeds-comprehension/</guid>
-      <pubDate>Sat, 28 Feb 2026 19:02:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>That's it, I'm cancelling my ChatGPT</title>
-      <link>https://idiallo.com/byte-size/im-cancelling-my-chatgpt-openai-account?src=feed</link>
-      <description>OpenAI has decided to join the Department of war to enable mass surveillance and weapons deployment in war. We are all cancelling our OpenAI subscriptions.</description>
-      <category>ai</category>
-      <category>youtube</category>
-      <guid>https://idiallo.com/byte-size/im-cancelling-my-chatgpt-openai-account?src=feed</guid>
-      <pubDate>Sat, 28 Feb 2026 18:02:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
