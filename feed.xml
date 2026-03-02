@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>/e/OS - e Foundation - deGoogled unGoogled smartphone operating systems and online services</title>
+      <link>https://e.foundation/e-os/</link>
+      <description>ECOSYSTEMKEY FEATURESGET /E/OSNEED HELP /e/OS is a complete, fully “deGoogled”, mobile ecosystem /e/OS is an open-source mobile operating system paired with carefully selected applications. They form a privacy-enabled internal system for your smartphone. And it’s not just claims: open-source means auditable privacy. /e/OS has received academic recognition from researchers at…</description>
+      <category>cloud</category>
+      <category>android</category>
+      <category>git</category>
+      <guid>https://e.foundation/e-os/</guid>
+      <pubDate>Mon, 02 Mar 2026 13:02:15 GMT</pubDate>
+    </item>
+    <item>
       <title>Why we feel an aversion towards LLM articles</title>
       <link>https://idiallo.com/blog/why-we-hate-llm-articles?src=feed</link>
       <description>Last year, I pushed myself to write and publish every other day for the whole year. I had accumulated a large number of subjects over the years, and I was ready to start blogging again. After writing </description>
