@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>WebMCP is available for early preview  |  Blog  |  Chrome for Developers</title>
+      <link>https://developer.chrome.com/blog/webmcp-epp</link>
+      <description>WebMCP aims to provide a standard way for exposing structured tools, ensuring AI agents can perform actions on your site with increased speed, reliability, and precision.</description>
+      <category>ai</category>
+      <category>javascript</category>
+      <category>web</category>
+      <guid>https://developer.chrome.com/blog/webmcp-epp</guid>
+      <pubDate>Mon, 02 Mar 2026 07:02:18 GMT</pubDate>
+    </item>
+    <item>
       <title>MCP is dead. Long live the CLI</title>
       <link>https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html</link>
       <description>I’m going to make a bold claim: MCP is already dying. We may not fully realize it yet, but the signs are there. OpenClaw doesn’t support it. Pi doesn’t support it. And for good reason.</description>

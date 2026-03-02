@@ -1,5 +1,12 @@
 [
   {
+    "Title": "WebMCP is available for early preview  |  Blog  |  Chrome for Developers",
+    "Url": "https://developer.chrome.com/blog/webmcp-epp",
+    "Timestamp": "2026-03-02T07:02:18",
+    "Domain": "developer.chrome.com",
+    "Description": "WebMCP aims to provide a standard way for exposing structured tools, ensuring AI agents can perform actions on your site with increased speed, reliability, and precision."
+  },
+  {
     "Title": "MCP is dead. Long live the CLI",
     "Url": "https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html",
     "Timestamp": "2026-03-02T02:02:16",
