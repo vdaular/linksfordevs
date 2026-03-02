@@ -221,16 +221,5 @@ Since the original Pico's RAM is fairly constrained, you get a maximum of 208 KB
       <guid>https://psteitz.blogspot.com/2026/02/mutability-considered-harmful.html</guid>
       <pubDate>Mon, 02 Mar 2026 00:02:21 GMT</pubDate>
     </item>
-    <item>
-      <title>Expert Beginners and Lone Wolves will dominate this early LLM era</title>
-      <link>https://www.jeffgeerling.com/blog/2026/expert-beginners-and-lone-wolves-dominate-llm-era/</link>
-      <description>After migrating this blog from a static site generator into Drupal in 2009, I noted:
-As a sad side-effect, all the blog comments are gone. Forever. Wiped out. But have no fear, we can start new discussions on many new posts! I archived all the comments from the old 'Thingamablog' version of the blog, but can't repost them here (at least, not with my time constraints... it would just take a nice import script, but I don't have the time for that now).</description>
-      <category>apple</category>
-      <category>ai</category>
-      <category>sql</category>
-      <guid>https://www.jeffgeerling.com/blog/2026/expert-beginners-and-lone-wolves-dominate-llm-era/</guid>
-      <pubDate>Sun, 01 Mar 2026 23:02:08 GMT</pubDate>
-    </item>
   </channel>
 </rss>

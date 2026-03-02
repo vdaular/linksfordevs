@@ -174,13 +174,5 @@
     "Domain": "psteitz.blogspot.com",
     "Description": "We live in a constantly changing world.  Updates happen all the time.  It's counter-intuitive to say that we need to somehow avoid mutabilit...",
     "Confidence": 0.95335233
-  },
-  {
-    "Title": "Expert Beginners and Lone Wolves will dominate this early LLM era",
-    "Url": "https://www.jeffgeerling.com/blog/2026/expert-beginners-and-lone-wolves-dominate-llm-era/",
-    "Timestamp": "2026-03-01T23:02:08",
-    "Domain": "www.jeffgeerling.com",
-    "Description": "After migrating this blog from a static site generator into Drupal in 2009, I noted:\nAs a sad side-effect, all the blog comments are gone. Forever. Wiped out. But have no fear, we can start new discussions on many new posts! I archived all the comments from the old 'Thingamablog' version of the blog, but can't repost them here (at least, not with my time constraints... it would just take a nice import script, but I don't have the time for that now).",
-    "Confidence": 0.99260175
   }
 ]
