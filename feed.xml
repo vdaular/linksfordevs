@@ -217,13 +217,5 @@ that uses platform-native UI and GPU acceleration.</description>
       <guid>https://claude.com/import-memory</guid>
       <pubDate>Sun, 01 Mar 2026 14:02:10 GMT</pubDate>
     </item>
-    <item>
-      <title>Our agreement with the Department of War</title>
-      <link>https://openai.com/index/our-agreement-with-the-department-of-war</link>
-      <description>Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.</description>
-      <category>ai</category>
-      <guid>https://openai.com/index/our-agreement-with-the-department-of-war</guid>
-      <pubDate>Sun, 01 Mar 2026 06:02:04 GMT</pubDate>
-    </item>
   </channel>
 </rss>

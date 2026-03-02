@@ -174,13 +174,5 @@
     "Domain": "claude.com",
     "Description": "Transfer your preferences, projects, and context from other AI providers into Claude. Switch without losing what makes your AI useful.",
     "Confidence": 0.97739273
-  },
-  {
-    "Title": "Our agreement with the Department of War",
-    "Url": "https://openai.com/index/our-agreement-with-the-department-of-war",
-    "Timestamp": "2026-03-01T06:02:04",
-    "Domain": "openai.com",
-    "Description": "Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.",
-    "Confidence": 0.908202
   }
 ]
