@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Motorola News | Motorola's new partnership with GrapheneOS</title>
+      <link>https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/</link>
+      <description>Motorola announces three new B2B solutions at MWC 2026, including GrapheneOS partnership, Moto Analytics and more.</description>
+      <category>android</category>
+      <guid>https://motorolanews.com/motorola-three-new-b2b-solutions-at-mwc-2026/</guid>
+      <pubDate>Mon, 02 Mar 2026 09:02:21 GMT</pubDate>
+    </item>
+    <item>
       <title>WebMCP is available for early preview  |  Blog  |  Chrome for Developers</title>
       <link>https://developer.chrome.com/blog/webmcp-epp</link>
       <description>WebMCP aims to provide a standard way for exposing structured tools, ensuring AI agents can perform actions on your site with increased speed, reliability, and precision.</description>
