@@ -7,6 +7,27 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>MCP is dead. Long live the CLI</title>
+      <link>https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html</link>
+      <description>I’m going to make a bold claim: MCP is already dying. We may not fully realize it yet, but the signs are there. OpenClaw doesn’t support it. Pi doesn’t support it. And for good reason.</description>
+      <category>cloud</category>
+      <category>javascript</category>
+      <category>ai</category>
+      <guid>https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html</guid>
+      <pubDate>Mon, 02 Mar 2026 02:02:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Killing my inner Necron</title>
+      <link>https://xeiaso.net/blog/2026/killing-my-inner-necron/</link>
+      <description>On surviving surgery, confronting mortality, and finding peace on the other side.</description>
+      <category>apple</category>
+      <category>ai</category>
+      <category>git</category>
+      <category>gaming</category>
+      <guid>https://xeiaso.net/blog/2026/killing-my-inner-necron/</guid>
+      <pubDate>Mon, 02 Mar 2026 02:02:13 GMT</pubDate>
+    </item>
+    <item>
       <title>Dating Apps, Data Structures, and Dopamine | ErrorCode0</title>
       <link>https://www.errorcodezero.dev/blog/dating-apps-dsa-and-dopamine/</link>
       <description>A tale of app building.</description>
@@ -215,13 +236,6 @@ that uses platform-native UI and GPU acceleration.</description>
       <category>encryption</category>
       <guid>http://karpathy.github.io/2026/02/12/microgpt/</guid>
       <pubDate>Sun, 01 Mar 2026 05:02:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>“How old are you?” Asked the OS</title>
-      <link>https://idiallo.com/byte-size/how-old-are-you-asked-the-os?src=feed</link>
-      <description>California is mandating that all operating systems ask for the user's age during account creation. There are so many flaws with this premise. We lose control.</description>
-      <guid>https://idiallo.com/byte-size/how-old-are-you-asked-the-os?src=feed</guid>
-      <pubDate>Sun, 01 Mar 2026 02:02:05 GMT</pubDate>
     </item>
   </channel>
 </rss>

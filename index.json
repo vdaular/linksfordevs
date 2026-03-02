@@ -1,5 +1,21 @@
 [
   {
+    "Title": "MCP is dead. Long live the CLI",
+    "Url": "https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html",
+    "Timestamp": "2026-03-02T02:02:16",
+    "Domain": "ejholmes.github.io",
+    "Description": "I’m going to make a bold claim: MCP is already dying. We may not fully realize it yet, but the signs are there. OpenClaw doesn’t support it. Pi doesn’t support it. And for good reason.",
+    "Confidence": 0.99599206
+  },
+  {
+    "Title": "Killing my inner Necron",
+    "Url": "https://xeiaso.net/blog/2026/killing-my-inner-necron/",
+    "Timestamp": "2026-03-02T02:02:13",
+    "Domain": "xeiaso.net",
+    "Description": "On surviving surgery, confronting mortality, and finding peace on the other side.",
+    "Confidence": 0.8886691
+  },
+  {
     "Title": "Dating Apps, Data Structures, and Dopamine | ErrorCode0",
     "Url": "https://www.errorcodezero.dev/blog/dating-apps-dsa-and-dopamine/",
     "Timestamp": "2026-03-02T00:03:13",
@@ -174,13 +190,5 @@
     "Domain": "karpathy.github.io",
     "Description": "Musings of a Computer Scientist.",
     "Confidence": 0.9976235
-  },
-  {
-    "Title": "“How old are you?” Asked the OS",
-    "Url": "https://idiallo.com/byte-size/how-old-are-you-asked-the-os?src=feed",
-    "Timestamp": "2026-03-01T02:02:05",
-    "Domain": "idiallo.com",
-    "Description": "California is mandating that all operating systems ask for the user's age during account creation. There are so many flaws with this premise. We lose control.",
-    "Confidence": 0.90429693
   }
 ]
