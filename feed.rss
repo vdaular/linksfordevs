@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>I built a pint-sized Macintosh</title>
+      <link>https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/</link>
+      <description>To kick off MARCHintosh, I built this tiny pint-sized Macintosh with a Raspberry Pi Pico:
+This is not my own doing—I just assembled the parts to run Matt Evans' Pico Micro Mac firmware on a Raspberry Pi Pico (with an RP2040).
+The version I built outputs to a 640x480 VGA display at 60 Hz, and allows you to plug in a USB keyboard and mouse.
+Since the original Pico's RAM is fairly constrained, you get a maximum of 208 KB of RAM with this setup—which is 63% more RAM than you got on the original '128K' Macintosh!</description>
+      <category>apple</category>
+      <guid>https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/</guid>
+      <pubDate>Mon, 02 Mar 2026 22:02:05 GMT</pubDate>
+    </item>
+    <item>
       <title>Jolla Phone (Sep 2026)</title>
       <link>https://commerce.jolla.com/products/jolla-phone-sept-26</link>
       <description>The independent European Do It Together (DIT) Linux phone, shaped by the people who use it.</description>

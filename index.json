@@ -1,5 +1,13 @@
 [
   {
+    "Title": "I built a pint-sized Macintosh",
+    "Url": "https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/",
+    "Timestamp": "2026-03-02T22:02:05",
+    "Domain": "www.jeffgeerling.com",
+    "Description": "To kick off MARCHintosh, I built this tiny pint-sized Macintosh with a Raspberry Pi Pico:\nThis is not my own doing—I just assembled the parts to run Matt Evans' Pico Micro Mac firmware on a Raspberry Pi Pico (with an RP2040).\nThe version I built outputs to a 640x480 VGA display at 60 Hz, and allows you to plug in a USB keyboard and mouse.\nSince the original Pico's RAM is fairly constrained, you get a maximum of 208 KB of RAM with this setup—which is 63% more RAM than you got on the original '128K' Macintosh!",
+    "Confidence": 0.9946302
+  },
+  {
     "Title": "Jolla Phone (Sep 2026)",
     "Url": "https://commerce.jolla.com/products/jolla-phone-sept-26",
     "Timestamp": "2026-03-02T15:02:29",
