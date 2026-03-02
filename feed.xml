@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Why we feel an aversion towards LLM articles</title>
+      <link>https://idiallo.com/blog/why-we-hate-llm-articles?src=feed</link>
+      <description>Last year, I pushed myself to write and publish every other day for the whole year. I had accumulated a large number of subjects over the years, and I was ready to start blogging again. After writing </description>
+      <category>ai</category>
+      <guid>https://idiallo.com/blog/why-we-hate-llm-articles?src=feed</guid>
+      <pubDate>Mon, 02 Mar 2026 12:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>GitHub - mandel-macaque/memento: Keep track of you codex sessions per commit</title>
       <link>https://github.com/mandel-macaque/memento</link>
       <description>Keep track of you codex sessions per commit. Contribute to mandel-macaque/memento development by creating an account on GitHub.</description>
