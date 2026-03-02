@@ -174,21 +174,5 @@
     "Domain": "www.jeffgeerling.com",
     "Description": "After migrating this blog from a static site generator into Drupal in 2009, I noted:\nAs a sad side-effect, all the blog comments are gone. Forever. Wiped out. But have no fear, we can start new discussions on many new posts! I archived all the comments from the old 'Thingamablog' version of the blog, but can't repost them here (at least, not with my time constraints... it would just take a nice import script, but I don't have the time for that now).",
     "Confidence": 0.99260175
-  },
-  {
-    "Title": "Service health - Mar 01, 2026 | AWS Health Dashboard",
-    "Url": "https://health.aws.amazon.com/health/status?tag=linksfordevs-20&lfd=202603",
-    "Timestamp": "2026-03-01T21:02:19",
-    "Domain": "health.aws.amazon.com",
-    "Description": "View the overall status and health of AWS services using the AWS Health Dashboard.",
-    "Confidence": 0.9691641
-  },
-  {
-    "Title": "The looming AI clownpocalypse · honnibal.dev",
-    "Url": "https://honnibal.dev/blog/clownpocalypse",
-    "Timestamp": "2026-03-01T21:02:15",
-    "Domain": "honnibal.dev",
-    "Description": "Exploits will soon be cheaper to develop autonomously than they earn. What then?",
-    "Confidence": 0.9552294
   }
 ]
