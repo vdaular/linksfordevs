@@ -225,17 +225,5 @@ that uses platform-native UI and GPU acceleration.</description>
       <guid>https://openai.com/index/our-agreement-with-the-department-of-war</guid>
       <pubDate>Sun, 01 Mar 2026 06:02:04 GMT</pubDate>
     </item>
-    <item>
-      <title>microgpt</title>
-      <link>http://karpathy.github.io/2026/02/12/microgpt/</link>
-      <description>Musings of a Computer Scientist.</description>
-      <category>ai</category>
-      <category>nodejs</category>
-      <category>cloud</category>
-      <category>python</category>
-      <category>encryption</category>
-      <guid>http://karpathy.github.io/2026/02/12/microgpt/</guid>
-      <pubDate>Sun, 01 Mar 2026 05:02:25 GMT</pubDate>
-    </item>
   </channel>
 </rss>

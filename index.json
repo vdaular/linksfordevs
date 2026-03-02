@@ -182,13 +182,5 @@
     "Domain": "openai.com",
     "Description": "Details on OpenAI’s contract with the Department of War, outlining safety red lines, legal protections, and how AI systems will be deployed in classified environments.",
     "Confidence": 0.908202
-  },
-  {
-    "Title": "microgpt",
-    "Url": "http://karpathy.github.io/2026/02/12/microgpt/",
-    "Timestamp": "2026-03-01T05:02:25",
-    "Domain": "karpathy.github.io",
-    "Description": "Musings of a Computer Scientist.",
-    "Confidence": 0.9976235
   }
 ]
