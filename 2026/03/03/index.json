@@ -1,5 +1,19 @@
 [
   {
+    "Title": "Electric Vehicles",
+    "Url": "https://xkcd.com/3214/",
+    "Timestamp": "2026-03-03T04:02:04",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "Giving LLMs a personality is just good engineering",
+    "Url": "https://www.seangoedecke.com/giving-llms-a-personality/",
+    "Timestamp": "2026-03-03T04:02:01",
+    "Domain": "www.seangoedecke.com",
+    "Description": "AI skeptics often argue that current AI systems shouldn’t be so human-like. The idea - most recently expressed in this opinion piece by Nathan Beacom - is that language models should explicitly be tools, like calculators or search engines. Although they can pretend to be people, they shouldn’t, because it encourages users to overestimate AI capabilities and (at worst) slip into AI psychosis. Here’s a representative paragraph from the piece:"
+  },
+  {
     "Title": "Welcome (back) to Macintosh",
     "Url": "https://take.surf/2026/03/01/welcome-back-to-macintosh",
     "Timestamp": "2026-03-03T03:02:23",
