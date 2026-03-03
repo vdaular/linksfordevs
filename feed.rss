@@ -332,26 +332,5 @@ Since the original Pico's RAM is fairly constrained, you get a maximum of 208 KB
       <guid>https://developer.chrome.com/blog/webmcp-epp</guid>
       <pubDate>Mon, 02 Mar 2026 07:02:18 GMT</pubDate>
     </item>
-    <item>
-      <title>MCP is dead. Long live the CLI</title>
-      <link>https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html</link>
-      <description>I’m going to make a bold claim: MCP is already dying. We may not fully realize it yet, but the signs are there. OpenClaw doesn’t support it. Pi doesn’t support it. And for good reason.</description>
-      <category>cloud</category>
-      <category>javascript</category>
-      <category>ai</category>
-      <guid>https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html</guid>
-      <pubDate>Mon, 02 Mar 2026 02:02:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Killing my inner Necron</title>
-      <link>https://xeiaso.net/blog/2026/killing-my-inner-necron/</link>
-      <description>On surviving surgery, confronting mortality, and finding peace on the other side.</description>
-      <category>apple</category>
-      <category>ai</category>
-      <category>git</category>
-      <category>gaming</category>
-      <guid>https://xeiaso.net/blog/2026/killing-my-inner-necron/</guid>
-      <pubDate>Mon, 02 Mar 2026 02:02:13 GMT</pubDate>
-    </item>
   </channel>
 </rss>

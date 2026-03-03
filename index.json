@@ -270,21 +270,5 @@
     "Domain": "developer.chrome.com",
     "Description": "WebMCP aims to provide a standard way for exposing structured tools, ensuring AI agents can perform actions on your site with increased speed, reliability, and precision.",
     "Confidence": 0.98935914
-  },
-  {
-    "Title": "MCP is dead. Long live the CLI",
-    "Url": "https://ejholmes.github.io/2026/02/28/mcp-is-dead-long-live-the-cli.html",
-    "Timestamp": "2026-03-02T02:02:16",
-    "Domain": "ejholmes.github.io",
-    "Description": "I’m going to make a bold claim: MCP is already dying. We may not fully realize it yet, but the signs are there. OpenClaw doesn’t support it. Pi doesn’t support it. And for good reason.",
-    "Confidence": 0.99599206
-  },
-  {
-    "Title": "Killing my inner Necron",
-    "Url": "https://xeiaso.net/blog/2026/killing-my-inner-necron/",
-    "Timestamp": "2026-03-02T02:02:13",
-    "Domain": "xeiaso.net",
-    "Description": "On surviving surgery, confronting mortality, and finding peace on the other side.",
-    "Confidence": 0.8886691
   }
 ]
