@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Apple introduces MacBook Pro with all-new M5 Pro and M5 Max</title>
+      <link>https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/</link>
+      <description>Apple announced the latest 14- and 16-inch MacBook Pro with the all-new M5 Pro and M5 Max.</description>
+      <category>apple</category>
+      <category>ai</category>
+      <category>cloud</category>
+      <category>gaming</category>
+      <guid>https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/</guid>
+      <pubDate>Tue, 03 Mar 2026 16:01:57 GMT</pubDate>
+    </item>
+    <item>
       <title>XKCD Dependency</title>
       <link>https://editor.p5js.org/isohedral/full/vJa5RiZWs</link>
       <description>A web editor for p5.js, a JavaScript library with the goal of making coding accessible to artists, designers, educators, and beginners.</description>
