@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Apple introduces the new MacBook Air with M5</title>
+      <link>https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/</link>
+      <description>Apple today announced the new MacBook Air with M5, bringing exceptional performance and expanded AI capabilities to the world’s most popular laptop.</description>
+      <category>apple</category>
+      <category>cloud</category>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/</guid>
+      <pubDate>Tue, 03 Mar 2026 20:02:05 GMT</pubDate>
+    </item>
+    <item>
       <title>Nobody Gets Promoted for Simplicity</title>
       <link>https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/</link>
       <description>We reward complexity and ignore simplicity. In interviews, design reviews, and promotions. Here’s how to fix it.</description>
