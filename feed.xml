@@ -310,14 +310,5 @@ Since the original Pico's RAM is fairly constrained, you get a maximum of 208 KB
       <guid>https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/</guid>
       <pubDate>Mon, 02 Mar 2026 22:02:05 GMT</pubDate>
     </item>
-    <item>
-      <title>Jolla Phone (Sep 2026)</title>
-      <link>https://commerce.jolla.com/products/jolla-phone-sept-26</link>
-      <description>The independent European Do It Together (DIT) Linux phone, shaped by the people who use it.</description>
-      <category>android</category>
-      <category>linux</category>
-      <guid>https://commerce.jolla.com/products/jolla-phone-sept-26</guid>
-      <pubDate>Mon, 02 Mar 2026 15:02:29 GMT</pubDate>
-    </item>
   </channel>
 </rss>
