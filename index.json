@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Open source package repositories face sustainability crisis",
+    "Url": "https://www.theregister.com/2026/02/28/open_source_opinion/",
+    "Timestamp": "2026-03-03T13:02:03",
+    "Domain": "www.theregister.com",
+    "Description": "Opinion: Careless big-time users are treating FOSS repos like content delivery networks",
+    "Confidence": 0.7140479
+  },
+  {
     "Title": "Electric Vehicles",
     "Url": "https://xkcd.com/3214/",
     "Timestamp": "2026-03-03T04:02:04",
@@ -254,13 +262,5 @@
     "Domain": "www.windowslatest.com",
     "Description": "Microsoft blocks the word Microslop on its Copilot Discord, bans users, and locks channels after backlash, showing tensions around its AI push",
     "Confidence": 0.9215607
-  },
-  {
-    "Title": "/e/OS - e Foundation - deGoogled unGoogled smartphone operating systems and online services",
-    "Url": "https://e.foundation/e-os/",
-    "Timestamp": "2026-03-02T13:02:15",
-    "Domain": "e.foundation",
-    "Description": "ECOSYSTEMKEY FEATURESGET /E/OSNEED HELP /e/OS is a complete, fully “deGoogled”, mobile ecosystem /e/OS is an open-source mobile operating system paired with carefully selected applications. They form a privacy-enabled internal system for your smartphone. And it’s not just claims: open-source means auditable privacy. /e/OS has received academic recognition from researchers at…",
-    "Confidence": 0.95194507
   }
 ]

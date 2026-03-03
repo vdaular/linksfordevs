@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Open source package repositories face sustainability crisis</title>
+      <link>https://www.theregister.com/2026/02/28/open_source_opinion/</link>
+      <description>Opinion: Careless big-time users are treating FOSS repos like content delivery networks</description>
+      <category>ai</category>
+      <category>android</category>
+      <category>linux</category>
+      <category>javascript</category>
+      <category>gaming</category>
+      <guid>https://www.theregister.com/2026/02/28/open_source_opinion/</guid>
+      <pubDate>Tue, 03 Mar 2026 13:02:03 GMT</pubDate>
+    </item>
+    <item>
       <title>Electric Vehicles</title>
       <link>https://xkcd.com/3214/</link>
       <description></description>
@@ -309,16 +321,6 @@ Since the original Pico's RAM is fairly constrained, you get a maximum of 208 KB
       <category>gaming</category>
       <guid>https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/</guid>
       <pubDate>Mon, 02 Mar 2026 14:02:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>/e/OS - e Foundation - deGoogled unGoogled smartphone operating systems and online services</title>
-      <link>https://e.foundation/e-os/</link>
-      <description>ECOSYSTEMKEY FEATURESGET /E/OSNEED HELP /e/OS is a complete, fully “deGoogled”, mobile ecosystem /e/OS is an open-source mobile operating system paired with carefully selected applications. They form a privacy-enabled internal system for your smartphone. And it’s not just claims: open-source means auditable privacy. /e/OS has received academic recognition from researchers at…</description>
-      <category>cloud</category>
-      <category>android</category>
-      <category>git</category>
-      <guid>https://e.foundation/e-os/</guid>
-      <pubDate>Mon, 02 Mar 2026 13:02:15 GMT</pubDate>
     </item>
   </channel>
 </rss>
