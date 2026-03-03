@@ -1,5 +1,213 @@
 [
   {
+    "Title": "Is Code Still Relevant?",
+    "Url": "https://ajchambeaud.com/blog/is-code-still-relevant/",
+    "Timestamp": "2026-03-03T00:04:14",
+    "Domain": "ajchambeaud.com",
+    "Description": "I've been writing code for a living for 16 years. The changes I've seen in the industry over the last year feel like something else entirely.",
+    "Confidence": 0.9929496
+  },
+  {
+    "Title": "Postgres Column Naming",
+    "Url": "https://steve.dignam.xyz/2026/02/28/postgres-column-naming/",
+    "Timestamp": "2026-03-03T00:04:10",
+    "Domain": "steve.dignam.xyz",
+    "Description": "Where “?column?” comes from",
+    "Confidence": 0.97664243
+  },
+  {
+    "Title": "Incentives Drive Everything",
+    "Url": "https://yusufaytas.com/incentives-drive-everything/",
+    "Timestamp": "2026-03-03T00:04:06",
+    "Domain": "yusufaytas.com",
+    "Description": "Incentives shape behavior. When value is invisible, proxies become targets, driving bloat, volatility, and rational dysfunction in modern orgs.",
+    "Confidence": 0.9834795
+  },
+  {
+    "Title": "Abstraction Beats Realism",
+    "Url": "https://kaikunze.de/post/2026-02-26-abstraction-beats-realism/",
+    "Timestamp": "2026-03-03T00:04:02",
+    "Domain": "kaikunze.de",
+    "Description": "How Abstract Visualizations of Audience Physiology Enhance VR Concert Experiences",
+    "Confidence": 0.7891086
+  },
+  {
+    "Title": "Why Everyone Needs a Dead Man's Switch · Technical Blog · Alcazar Security",
+    "Url": "https://blog.alcazarsec.com/posts/reasons-to-get-yourself-a-dead-man-switch",
+    "Timestamp": "2026-03-03T00:03:59",
+    "Domain": "blog.alcazarsec.com",
+    "Description": "Why Everyone Needs a Dead Man's Switch",
+    "Confidence": 0.77868086
+  },
+  {
+    "Title": "Dev Tools and Moats",
+    "Url": "https://ravivyas.com/2026/03/01/dev-tools-and-moats",
+    "Timestamp": "2026-03-03T00:03:55",
+    "Domain": "ravivyas.com",
+    "Description": "Over the last week, I’ve had two different conversations with two different friends. One asked me where dev tools are headed. Another asked, almost casually, what happens to moats in an AI-first world.",
+    "Confidence": 0.9956107
+  },
+  {
+    "Title": "Strix - First impressions",
+    "Url": "https://theartificialq.github.io/2026/02/28/strix-first-impressions.html",
+    "Timestamp": "2026-03-03T00:03:52",
+    "Domain": "theartificialq.github.io",
+    "Description": "We’ve all heard it: penetration testers are over. Their job will soon be done by agentic AI frameworks that can find the same (or even more elusive) vulnerabilities for a fraction of their bloody money - and since they don’t need to sleep, eat, or have a work-life balance, they can run 24/7. And you, Red Teamers, are next. Ok, doomers, you got my attention. I decided to look at one of these rising AI penetration testing superstars, strix, and be generous enough to share my random thoughts with you. If you plan to test this tool yourself, check the APPENDIX: Practical tips for Strix testing section at the end of this post - I think I can save you some time and money. Here’s the TL;DR for those of you who don’t have enough time or patience to read my whole rant: After this test, am I scared to death and looking for a plumbing job? No, not yet. Am I impressed? Yes, I am. Actually, thinking about it, I’m very impressed.",
+    "Confidence": 0.9941701
+  },
+  {
+    "Title": "How I built a sub-500ms latency voice agent from scratch | Nick Tikhonov",
+    "Url": "https://www.ntik.me/posts/voice-agent",
+    "Timestamp": "2026-03-03T00:03:49",
+    "Domain": "www.ntik.me",
+    "Description": "Nick Tikhonov's blog",
+    "Confidence": 0.97393596
+  },
+  {
+    "Title": "Common Mobile UX Mistakes I See in Almost Every Project | Dinko Marinac",
+    "Url": "https://dinkomarinac.dev/blog/common-mobile-ux-mistakes-i-see-in-almost-every-project/",
+    "Timestamp": "2026-03-03T00:03:45",
+    "Domain": "dinkomarinac.dev",
+    "Description": "Subtle but frequent mobile UX issues that only become obvious when apps are built and shipped, covering dropdowns, modals, dashboards, and forms.",
+    "Confidence": 0.9907532
+  },
+  {
+    "Title": "How to identify assumptions by distorting time – Abi Jones",
+    "Url": "https://www.jonesabi.com/blog/thinking-tools-how-to-identify-assumptions-by-distorting-time",
+    "Timestamp": "2026-03-03T00:03:41",
+    "Domain": "www.jonesabi.com",
+    "Description": "Thinking tools: How to identify assumptions by distorting time",
+    "Confidence": 0.94168955
+  },
+  {
+    "Title": "Zola is dead to me. Long live Kusachi!",
+    "Url": "https://dork.dev/posts/2026-01-15-zola-is-dead-to-me/index.html",
+    "Timestamp": "2026-03-03T00:03:35",
+    "Domain": "dork.dev",
+    "Description": "I’d not long since switched from Carbon to Zola and added the\nexternal/ page to dork.dev (which at the time of writing\nthis, still needs to be replaced on Kusachi). Here are some of my\nproblems with Zola!",
+    "Confidence": 0.99712455
+  },
+  {
+    "Title": "Do Not Write with an LLM",
+    "Url": "https://elijahpotter.dev/articles/do-not-write-with-an-LLM",
+    "Timestamp": "2026-03-03T00:03:32",
+    "Domain": "elijahpotter.dev",
+    "Description": "I have been seeing an increasingly prevalent trend of people showing up in online spaces flaunting that they are writing with the assistance of AI. They seem to be proud of this. They shouldn't be.",
+    "Confidence": 0.99351937
+  },
+  {
+    "Title": "I Charge for a Single-File Web App I Can’t Protect From Piracy",
+    "Url": "https://joeldare.com/i-charge-for-a-single-file-web-app-i-cant-protect-from-piracy",
+    "Timestamp": "2026-03-03T00:03:28",
+    "Domain": "joeldare.com",
+    "Description": "By Joel Dare ⟡ Written March 1, 2026",
+    "Confidence": 0.9955368
+  },
+  {
+    "Title": "So... can Home Assistant run DOOM?",
+    "Url": "https://frenck.dev/home-assistant-can-run-doom/",
+    "Timestamp": "2026-03-03T00:03:25",
+    "Domain": "frenck.dev",
+    "Description": "It started with a DOOM t-shirt at a meetup. The real question? Can Home Assistant run DOOM? Two hours later, I had a fully working DOOM integration for Home Assistant and was fighting demons on my smart home dashboard.",
+    "Confidence": 0.9940556
+  },
+  {
+    "Title": "No Code by Hand | Ashwini's blog",
+    "Url": "https://ashwch.com/no-code-by-hand-agentic-platform-acceleration.html",
+    "Timestamp": "2026-03-03T00:03:20",
+    "Domain": "ashwch.com",
+    "Description": "CI dropped from 37 minutes to 9, at 35% lower cost. Here is what we learned about the hidden queue, mixing Claude and Codex, and where the real multiplier came from.",
+    "Confidence": 0.9836175
+  },
+  {
+    "Title": "Using Claude Code Agent Teams for Incident Investigation — magarcia",
+    "Url": "https://magarcia.io/using-claude-code-agent-teams-for-incident-investigation/",
+    "Timestamp": "2026-03-03T00:03:17",
+    "Domain": "magarcia.io",
+    "Description": "How I used Claude Code's agent teams to run a parallel, multi-agent production incident investigation — with one prompt and surprisingly good results.",
+    "Confidence": 0.9514213
+  },
+  {
+    "Title": "Which programming languages pay the most? I made my own salary charts",
+    "Url": "https://stribny.name/posts/salaries-by-language/",
+    "Timestamp": "2026-03-03T00:03:13",
+    "Domain": "stribny.name",
+    "Description": "Is Rust the best paying programming language? Or Julia? In this investigative article we will get to know the best paying languages, and much more.",
+    "Confidence": 0.9662979
+  },
+  {
+    "Title": "Marketing Is Eating Engineering",
+    "Url": "https://ericciarla.com/blog/marketing-is-eating-engineering.html",
+    "Timestamp": "2026-03-03T00:03:08",
+    "Domain": "ericciarla.com",
+    "Description": "AI is making every engineer dramatically more productive. As the bottleneck shifts from code to distribution, marketing and GTM roles are becoming the new moat.",
+    "Confidence": 0.98643994
+  },
+  {
+    "Title": "I let Claude improve my keyboard's firmware",
+    "Url": "https://daniellombrana.es/blog/2026/03/01/claude-improved-my-keyboard-firmware",
+    "Timestamp": "2026-03-03T00:03:05",
+    "Domain": "daniellombrana.es",
+    "Description": "A short story about how Claude improved my keyboard's firmware",
+    "Confidence": 0.9814034
+  },
+  {
+    "Title": "The inner workings of TCP zero-copy",
+    "Url": "https://blog.tohojo.dk/2026/02/the-inner-workings-of-tcp-zero-copy.html",
+    "Timestamp": "2026-03-03T00:03:01",
+    "Domain": "blog.tohojo.dk",
+    "Description": "",
+    "Confidence": 0.9669184
+  },
+  {
+    "Title": "An identity crisis in engineering",
+    "Url": "https://bgthread.github.io/an-identity-crisis-in-engineering/",
+    "Timestamp": "2026-03-03T00:02:47",
+    "Domain": "bgthread.github.io",
+    "Description": "Building software by hand was hard but pleasurable. When things didn’t work, we dug into the code and looked it up on the internet. We implemented the solution after we understood; we looked down our nose at the brute-force blind-pastes from StackOverflow. We drew enormous satisfaction from this. Of course, the clout we gained among coworkers for our ability to solve difficult issues didn’t hurt.",
+    "Confidence": 0.96727353
+  },
+  {
+    "Title": "She Came Out of the Bathroom Naked, Employee Says",
+    "Url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
+    "Timestamp": "2026-03-03T00:02:41",
+    "Domain": "www.svd.se",
+    "Description": "Bank details, sex and naked people who seem unaware they are being recorded. Behind Meta’s new smart glasses lies a hidden workforce, uneasy about peering into the most intimate parts of other people’s lives.",
+    "Confidence": 0.9001599
+  },
+  {
+    "Title": "Repurposing Claude Code for Better Spotify Recommendations",
+    "Url": "https://fredbenenson.com/blog/2026/03/02/repurposing-claude-code-for-better-spotify-recommendations/",
+    "Timestamp": "2026-03-03T00:02:37",
+    "Domain": "fredbenenson.com",
+    "Description": "I built a Claude Code skill that creates Spotify playlists from natural language. You describe what you want — “70s Ethiopian jazz fusion,” “ambient music that sounds like i…",
+    "Confidence": 0.92450505
+  },
+  {
+    "Title": "Change your default date format to the least ambiguous",
+    "Url": "https://practicalbetterments.com/change-your-default-date-format-to-the-least-ambiguous/",
+    "Timestamp": "2026-03-03T00:02:34",
+    "Domain": "practicalbetterments.com",
+    "Description": "On 13th November 2025 a TikTok-er had beef with Air Canada.1",
+    "Confidence": 0.9400185
+  },
+  {
+    "Title": "How I used Cursor to Migrate Frameworks",
+    "Url": "https://kentcdodds.com/blog/how-i-used-cursor-to-migrate-frameworks",
+    "Timestamp": "2026-03-03T00:02:27",
+    "Domain": "kentcdodds.com",
+    "Description": "I upgraded kentcdodds.com from Remix v2 to React Router v7 in a day with over 17k lines of code changed. Here's how I did it.",
+    "Confidence": 0.98117816
+  },
+  {
+    "Title": "Astro and Svelte: Why I Believe They're the Future of Web Development",
+    "Url": "https://xergioalex.com/blog/astro-and-svelte-the-future-of-web-development/",
+    "Timestamp": "2026-03-03T00:02:23",
+    "Domain": "xergioalex.com",
+    "Description": "Why Astro and Svelte represent a return to web development simplicity — backed by data from State of JS 2025, performance benchmarks, and real-world experience building this very website.",
+    "Confidence": 0.9887043
+  },
+  {
     "Title": "I built a pint-sized Macintosh",
     "Url": "https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/",
     "Timestamp": "2026-03-02T22:02:05",
@@ -78,101 +286,5 @@
     "Domain": "xeiaso.net",
     "Description": "On surviving surgery, confronting mortality, and finding peace on the other side.",
     "Confidence": 0.8886691
-  },
-  {
-    "Title": "Dating Apps, Data Structures, and Dopamine | ErrorCode0",
-    "Url": "https://www.errorcodezero.dev/blog/dating-apps-dsa-and-dopamine/",
-    "Timestamp": "2026-03-02T00:03:13",
-    "Domain": "www.errorcodezero.dev",
-    "Description": "A tale of app building.",
-    "Confidence": 0.84929556
-  },
-  {
-    "Title": "Having fun with modern web APIs",
-    "Url": "https://robida.net/entries/2026/01/28/having-fun-with-modern-web-apis",
-    "Timestamp": "2026-03-02T00:03:09",
-    "Domain": "robida.net",
-    "Description": "One of the many reasons why I wanted to start blogging again was to explore modern browser APIs. Technically, I work as a full stack developer for my day job, but I usually spend most of my time on t…",
-    "Confidence": 0.9969933
-  },
-  {
-    "Title": "Blog by Dario",
-    "Url": "https://blog.dmilicic.com/posts/what-is-good-code-in-2026",
-    "Timestamp": "2026-03-02T00:03:05",
-    "Domain": "blog.dmilicic.com",
-    "Description": "Blog - Senior Mobile Engineer - Dario Milicic",
-    "Confidence": 0.9947871
-  },
-  {
-    "Title": "Background Jobs for TanStack Start with pg-boss by Jamie Davenport",
-    "Url": "https://jxd.dev/writing/background-jobs-tanstack-start-pg-boss/",
-    "Timestamp": "2026-03-02T00:03:01",
-    "Domain": "jxd.dev",
-    "Description": "TanStack Start server functions are great for request/response logic, but some work shouldn't block the user. This post walks through wiring pg-boss into a TanStack Start app to handle durable background jobs — with a typed registry, a Nitro plugin, and a fan-out pattern for post-signup flows.",
-    "Confidence": 0.9989459
-  },
-  {
-    "Title": "Sit On Your Ass Web Development",
-    "Url": "https://blog.jim-nielsen.com/2025/sit-on-your-ass-web-dev/",
-    "Timestamp": "2026-03-02T00:02:58",
-    "Domain": "blog.jim-nielsen.com",
-    "Description": "Writing about the big beautiful mess that is making things for the world wide web.",
-    "Confidence": 0.9560126
-  },
-  {
-    "Title": "What I learned building a Multi-Agent System",
-    "Url": "https://davide.im/posts/multi-agent-system/",
-    "Timestamp": "2026-03-02T00:02:55",
-    "Domain": "davide.im",
-    "Description": "Building a multi-agent AI system to automate cloud assessment documentation. Learn about agent design, role specialization, MCP servers, and context engineering for complex LLM workflows.",
-    "Confidence": 0.98898757
-  },
-  {
-    "Title": "The Colour of Production - Leon Mika",
-    "Url": "https://lmika.org/2026/02/27/the-colour-of-production.html",
-    "Timestamp": "2026-03-02T00:02:43",
-    "Domain": "lmika.org",
-    "Description": "On the colour-coding system used for different development environments.",
-    "Confidence": 0.9550346
-  },
-  {
-    "Title": "You think unemployed, I think retired",
-    "Url": "https://jesseduffield.com/You-Think-Unemployed-I-Think-Retired/",
-    "Timestamp": "2026-03-02T00:02:36",
-    "Domain": "jesseduffield.com",
-    "Description": "\n  Work sucks, I know\n\n  - blink-182\n\n\n",
-    "Confidence": 0.8329758
-  },
-  {
-    "Title": "Who Actually Owns Your ATProto Identity? Hint: It's Probably Not You",
-    "Url": "https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you",
-    "Timestamp": "2026-03-02T00:02:33",
-    "Domain": "kevinak.se",
-    "Description": "ATProto gives your PDS operator full control of your signing and rotation keys, letting them impersonate you across every app in the ecosystem or kill",
-    "Confidence": 0.99014574
-  },
-  {
-    "Title": "Let's Talk About the Humanoid Robot in the Room",
-    "Url": "https://matthiasplappert.com/blog/2026/humanoid-robot-in-the-room/",
-    "Timestamp": "2026-03-02T00:02:29",
-    "Domain": "matthiasplappert.com",
-    "Description": "General purpose humanoid robots are like self-driving, but actually much harder.",
-    "Confidence": 0.9880356
-  },
-  {
-    "Title": "Software for One | Koen van Gilst",
-    "Url": "https://koenvangilst.nl/lab/software-for-one",
-    "Timestamp": "2026-03-02T00:02:26",
-    "Domain": "koenvangilst.nl",
-    "Description": "Instead of downloading someone else's app, I built exactly what I wanted for less than a dollar.",
-    "Confidence": 0.9658642
-  },
-  {
-    "Title": "Mutability considered harmful",
-    "Url": "https://psteitz.blogspot.com/2026/02/mutability-considered-harmful.html",
-    "Timestamp": "2026-03-02T00:02:21",
-    "Domain": "psteitz.blogspot.com",
-    "Description": "We live in a constantly changing world.  Updates happen all the time.  It's counter-intuitive to say that we need to somehow avoid mutabilit...",
-    "Confidence": 0.95335233
   }
 ]

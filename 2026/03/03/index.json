@@ -1,0 +1,184 @@
+[
+  {
+    "Title": "Is Code Still Relevant?",
+    "Url": "https://ajchambeaud.com/blog/is-code-still-relevant/",
+    "Timestamp": "2026-03-03T00:04:14",
+    "Domain": "ajchambeaud.com",
+    "Description": "I've been writing code for a living for 16 years. The changes I've seen in the industry over the last year feel like something else entirely."
+  },
+  {
+    "Title": "Postgres Column Naming",
+    "Url": "https://steve.dignam.xyz/2026/02/28/postgres-column-naming/",
+    "Timestamp": "2026-03-03T00:04:10",
+    "Domain": "steve.dignam.xyz",
+    "Description": "Where “?column?” comes from"
+  },
+  {
+    "Title": "Incentives Drive Everything",
+    "Url": "https://yusufaytas.com/incentives-drive-everything/",
+    "Timestamp": "2026-03-03T00:04:06",
+    "Domain": "yusufaytas.com",
+    "Description": "Incentives shape behavior. When value is invisible, proxies become targets, driving bloat, volatility, and rational dysfunction in modern orgs."
+  },
+  {
+    "Title": "Abstraction Beats Realism",
+    "Url": "https://kaikunze.de/post/2026-02-26-abstraction-beats-realism/",
+    "Timestamp": "2026-03-03T00:04:02",
+    "Domain": "kaikunze.de",
+    "Description": "How Abstract Visualizations of Audience Physiology Enhance VR Concert Experiences"
+  },
+  {
+    "Title": "Why Everyone Needs a Dead Man's Switch · Technical Blog · Alcazar Security",
+    "Url": "https://blog.alcazarsec.com/posts/reasons-to-get-yourself-a-dead-man-switch",
+    "Timestamp": "2026-03-03T00:03:59",
+    "Domain": "blog.alcazarsec.com",
+    "Description": "Why Everyone Needs a Dead Man's Switch"
+  },
+  {
+    "Title": "Dev Tools and Moats",
+    "Url": "https://ravivyas.com/2026/03/01/dev-tools-and-moats",
+    "Timestamp": "2026-03-03T00:03:55",
+    "Domain": "ravivyas.com",
+    "Description": "Over the last week, I’ve had two different conversations with two different friends. One asked me where dev tools are headed. Another asked, almost casually, what happens to moats in an AI-first world."
+  },
+  {
+    "Title": "Strix - First impressions",
+    "Url": "https://theartificialq.github.io/2026/02/28/strix-first-impressions.html",
+    "Timestamp": "2026-03-03T00:03:52",
+    "Domain": "theartificialq.github.io",
+    "Description": "We’ve all heard it: penetration testers are over. Their job will soon be done by agentic AI frameworks that can find the same (or even more elusive) vulnerabilities for a fraction of their bloody money - and since they don’t need to sleep, eat, or have a work-life balance, they can run 24/7. And you, Red Teamers, are next. Ok, doomers, you got my attention. I decided to look at one of these rising AI penetration testing superstars, strix, and be generous enough to share my random thoughts with you. If you plan to test this tool yourself, check the APPENDIX: Practical tips for Strix testing section at the end of this post - I think I can save you some time and money. Here’s the TL;DR for those of you who don’t have enough time or patience to read my whole rant: After this test, am I scared to death and looking for a plumbing job? No, not yet. Am I impressed? Yes, I am. Actually, thinking about it, I’m very impressed."
+  },
+  {
+    "Title": "How I built a sub-500ms latency voice agent from scratch | Nick Tikhonov",
+    "Url": "https://www.ntik.me/posts/voice-agent",
+    "Timestamp": "2026-03-03T00:03:49",
+    "Domain": "www.ntik.me",
+    "Description": "Nick Tikhonov's blog"
+  },
+  {
+    "Title": "Common Mobile UX Mistakes I See in Almost Every Project | Dinko Marinac",
+    "Url": "https://dinkomarinac.dev/blog/common-mobile-ux-mistakes-i-see-in-almost-every-project/",
+    "Timestamp": "2026-03-03T00:03:45",
+    "Domain": "dinkomarinac.dev",
+    "Description": "Subtle but frequent mobile UX issues that only become obvious when apps are built and shipped, covering dropdowns, modals, dashboards, and forms."
+  },
+  {
+    "Title": "How to identify assumptions by distorting time – Abi Jones",
+    "Url": "https://www.jonesabi.com/blog/thinking-tools-how-to-identify-assumptions-by-distorting-time",
+    "Timestamp": "2026-03-03T00:03:41",
+    "Domain": "www.jonesabi.com",
+    "Description": "Thinking tools: How to identify assumptions by distorting time"
+  },
+  {
+    "Title": "Zola is dead to me. Long live Kusachi!",
+    "Url": "https://dork.dev/posts/2026-01-15-zola-is-dead-to-me/index.html",
+    "Timestamp": "2026-03-03T00:03:35",
+    "Domain": "dork.dev",
+    "Description": "I’d not long since switched from Carbon to Zola and added the\nexternal/ page to dork.dev (which at the time of writing\nthis, still needs to be replaced on Kusachi). Here are some of my\nproblems with Zola!"
+  },
+  {
+    "Title": "Do Not Write with an LLM",
+    "Url": "https://elijahpotter.dev/articles/do-not-write-with-an-LLM",
+    "Timestamp": "2026-03-03T00:03:32",
+    "Domain": "elijahpotter.dev",
+    "Description": "I have been seeing an increasingly prevalent trend of people showing up in online spaces flaunting that they are writing with the assistance of AI. They seem to be proud of this. They shouldn't be."
+  },
+  {
+    "Title": "I Charge for a Single-File Web App I Can’t Protect From Piracy",
+    "Url": "https://joeldare.com/i-charge-for-a-single-file-web-app-i-cant-protect-from-piracy",
+    "Timestamp": "2026-03-03T00:03:28",
+    "Domain": "joeldare.com",
+    "Description": "By Joel Dare ⟡ Written March 1, 2026"
+  },
+  {
+    "Title": "So... can Home Assistant run DOOM?",
+    "Url": "https://frenck.dev/home-assistant-can-run-doom/",
+    "Timestamp": "2026-03-03T00:03:25",
+    "Domain": "frenck.dev",
+    "Description": "It started with a DOOM t-shirt at a meetup. The real question? Can Home Assistant run DOOM? Two hours later, I had a fully working DOOM integration for Home Assistant and was fighting demons on my smart home dashboard."
+  },
+  {
+    "Title": "No Code by Hand | Ashwini's blog",
+    "Url": "https://ashwch.com/no-code-by-hand-agentic-platform-acceleration.html",
+    "Timestamp": "2026-03-03T00:03:20",
+    "Domain": "ashwch.com",
+    "Description": "CI dropped from 37 minutes to 9, at 35% lower cost. Here is what we learned about the hidden queue, mixing Claude and Codex, and where the real multiplier came from."
+  },
+  {
+    "Title": "Using Claude Code Agent Teams for Incident Investigation — magarcia",
+    "Url": "https://magarcia.io/using-claude-code-agent-teams-for-incident-investigation/",
+    "Timestamp": "2026-03-03T00:03:17",
+    "Domain": "magarcia.io",
+    "Description": "How I used Claude Code's agent teams to run a parallel, multi-agent production incident investigation — with one prompt and surprisingly good results."
+  },
+  {
+    "Title": "Which programming languages pay the most? I made my own salary charts",
+    "Url": "https://stribny.name/posts/salaries-by-language/",
+    "Timestamp": "2026-03-03T00:03:13",
+    "Domain": "stribny.name",
+    "Description": "Is Rust the best paying programming language? Or Julia? In this investigative article we will get to know the best paying languages, and much more."
+  },
+  {
+    "Title": "Marketing Is Eating Engineering",
+    "Url": "https://ericciarla.com/blog/marketing-is-eating-engineering.html",
+    "Timestamp": "2026-03-03T00:03:08",
+    "Domain": "ericciarla.com",
+    "Description": "AI is making every engineer dramatically more productive. As the bottleneck shifts from code to distribution, marketing and GTM roles are becoming the new moat."
+  },
+  {
+    "Title": "I let Claude improve my keyboard's firmware",
+    "Url": "https://daniellombrana.es/blog/2026/03/01/claude-improved-my-keyboard-firmware",
+    "Timestamp": "2026-03-03T00:03:05",
+    "Domain": "daniellombrana.es",
+    "Description": "A short story about how Claude improved my keyboard's firmware"
+  },
+  {
+    "Title": "The inner workings of TCP zero-copy",
+    "Url": "https://blog.tohojo.dk/2026/02/the-inner-workings-of-tcp-zero-copy.html",
+    "Timestamp": "2026-03-03T00:03:01",
+    "Domain": "blog.tohojo.dk",
+    "Description": ""
+  },
+  {
+    "Title": "An identity crisis in engineering",
+    "Url": "https://bgthread.github.io/an-identity-crisis-in-engineering/",
+    "Timestamp": "2026-03-03T00:02:47",
+    "Domain": "bgthread.github.io",
+    "Description": "Building software by hand was hard but pleasurable. When things didn’t work, we dug into the code and looked it up on the internet. We implemented the solution after we understood; we looked down our nose at the brute-force blind-pastes from StackOverflow. We drew enormous satisfaction from this. Of course, the clout we gained among coworkers for our ability to solve difficult issues didn’t hurt."
+  },
+  {
+    "Title": "She Came Out of the Bathroom Naked, Employee Says",
+    "Url": "https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything",
+    "Timestamp": "2026-03-03T00:02:41",
+    "Domain": "www.svd.se",
+    "Description": "Bank details, sex and naked people who seem unaware they are being recorded. Behind Meta’s new smart glasses lies a hidden workforce, uneasy about peering into the most intimate parts of other people’s lives."
+  },
+  {
+    "Title": "Repurposing Claude Code for Better Spotify Recommendations",
+    "Url": "https://fredbenenson.com/blog/2026/03/02/repurposing-claude-code-for-better-spotify-recommendations/",
+    "Timestamp": "2026-03-03T00:02:37",
+    "Domain": "fredbenenson.com",
+    "Description": "I built a Claude Code skill that creates Spotify playlists from natural language. You describe what you want — “70s Ethiopian jazz fusion,” “ambient music that sounds like i…"
+  },
+  {
+    "Title": "Change your default date format to the least ambiguous",
+    "Url": "https://practicalbetterments.com/change-your-default-date-format-to-the-least-ambiguous/",
+    "Timestamp": "2026-03-03T00:02:34",
+    "Domain": "practicalbetterments.com",
+    "Description": "On 13th November 2025 a TikTok-er had beef with Air Canada.1"
+  },
+  {
+    "Title": "How I used Cursor to Migrate Frameworks",
+    "Url": "https://kentcdodds.com/blog/how-i-used-cursor-to-migrate-frameworks",
+    "Timestamp": "2026-03-03T00:02:27",
+    "Domain": "kentcdodds.com",
+    "Description": "I upgraded kentcdodds.com from Remix v2 to React Router v7 in a day with over 17k lines of code changed. Here's how I did it."
+  },
+  {
+    "Title": "Astro and Svelte: Why I Believe They're the Future of Web Development",
+    "Url": "https://xergioalex.com/blog/astro-and-svelte-the-future-of-web-development/",
+    "Timestamp": "2026-03-03T00:02:23",
+    "Domain": "xergioalex.com",
+    "Description": "Why Astro and Svelte represent a return to web development simplicity — backed by data from State of JS 2025, performance benchmarks, and real-world experience building this very website."
+  }
+]

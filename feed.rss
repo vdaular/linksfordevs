@@ -7,6 +7,254 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Is Code Still Relevant?</title>
+      <link>https://ajchambeaud.com/blog/is-code-still-relevant/</link>
+      <description>I've been writing code for a living for 16 years. The changes I've seen in the industry over the last year feel like something else entirely.</description>
+      <category>ai</category>
+      <category>vscode</category>
+      <guid>https://ajchambeaud.com/blog/is-code-still-relevant/</guid>
+      <pubDate>Tue, 03 Mar 2026 00:04:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Postgres Column Naming</title>
+      <link>https://steve.dignam.xyz/2026/02/28/postgres-column-naming/</link>
+      <description>Where “?column?” comes from</description>
+      <category>sql</category>
+      <guid>https://steve.dignam.xyz/2026/02/28/postgres-column-naming/</guid>
+      <pubDate>Tue, 03 Mar 2026 00:04:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Incentives Drive Everything</title>
+      <link>https://yusufaytas.com/incentives-drive-everything/</link>
+      <description>Incentives shape behavior. When value is invisible, proxies become targets, driving bloat, volatility, and rational dysfunction in modern orgs.</description>
+      <author> (https://www.facebook.com/yusufaytas)</author>
+      <category>gaming</category>
+      <category>vscode</category>
+      <guid>https://yusufaytas.com/incentives-drive-everything/</guid>
+      <pubDate>Tue, 03 Mar 2026 00:04:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Abstraction Beats Realism</title>
+      <link>https://kaikunze.de/post/2026-02-26-abstraction-beats-realism/</link>
+      <description>How Abstract Visualizations of Audience Physiology Enhance VR Concert Experiences</description>
+      <guid>https://kaikunze.de/post/2026-02-26-abstraction-beats-realism/</guid>
+      <pubDate>Tue, 03 Mar 2026 00:04:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why Everyone Needs a Dead Man's Switch · Technical Blog · Alcazar Security</title>
+      <link>https://blog.alcazarsec.com/posts/reasons-to-get-yourself-a-dead-man-switch</link>
+      <description>Why Everyone Needs a Dead Man's Switch</description>
+      <guid>https://blog.alcazarsec.com/posts/reasons-to-get-yourself-a-dead-man-switch</guid>
+      <pubDate>Tue, 03 Mar 2026 00:03:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dev Tools and Moats</title>
+      <link>https://ravivyas.com/2026/03/01/dev-tools-and-moats</link>
+      <description>Over the last week, I’ve had two different conversations with two different friends. One asked me where dev tools are headed. Another asked, almost casually, what happens to moats in an AI-first world.</description>
+      <category>ai</category>
+      <category>vscode</category>
+      <category>javascript</category>
+      <guid>https://ravivyas.com/2026/03/01/dev-tools-and-moats</guid>
+      <pubDate>Tue, 03 Mar 2026 00:03:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Strix - First impressions</title>
+      <link>https://theartificialq.github.io/2026/02/28/strix-first-impressions.html</link>
+      <description>We’ve all heard it: penetration testers are over. Their job will soon be done by agentic AI frameworks that can find the same (or even more elusive) vulnerabilities for a fraction of their bloody money - and since they don’t need to sleep, eat, or have a work-life balance, they can run 24/7. And you, Red Teamers, are next. Ok, doomers, you got my attention. I decided to look at one of these rising AI penetration testing superstars, strix, and be generous enough to share my random thoughts with you. If you plan to test this tool yourself, check the APPENDIX: Practical tips for Strix testing section at the end of this post - I think I can save you some time and money. Here’s the TL;DR for those of you who don’t have enough time or patience to read my whole rant: After this test, am I scared to death and looking for a plumbing job? No, not yet. Am I impressed? Yes, I am. Actually, thinking about it, I’m very impressed.</description>
+      <category>git</category>
+      <category>ai</category>
+      <category>containers</category>
+      <category>gaming</category>
+      <category>web</category>
+      <guid>https://theartificialq.github.io/2026/02/28/strix-first-impressions.html</guid>
+      <pubDate>Tue, 03 Mar 2026 00:03:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I built a sub-500ms latency voice agent from scratch | Nick Tikhonov</title>
+      <link>https://www.ntik.me/posts/voice-agent</link>
+      <description>Nick Tikhonov's blog</description>
+      <category>ai</category>
+      <guid>https://www.ntik.me/posts/voice-agent</guid>
+      <pubDate>Tue, 03 Mar 2026 00:03:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Common Mobile UX Mistakes I See in Almost Every Project | Dinko Marinac</title>
+      <link>https://dinkomarinac.dev/blog/common-mobile-ux-mistakes-i-see-in-almost-every-project/</link>
+      <description>Subtle but frequent mobile UX issues that only become obvious when apps are built and shipped, covering dropdowns, modals, dashboards, and forms.</description>
+      <guid>https://dinkomarinac.dev/blog/common-mobile-ux-mistakes-i-see-in-almost-every-project/</guid>
+      <pubDate>Tue, 03 Mar 2026 00:03:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to identify assumptions by distorting time – Abi Jones</title>
+      <link>https://www.jonesabi.com/blog/thinking-tools-how-to-identify-assumptions-by-distorting-time</link>
+      <description>Thinking tools: How to identify assumptions by distorting time</description>
+      <category>ai</category>
+      <guid>https://www.jonesabi.com/blog/thinking-tools-how-to-identify-assumptions-by-distorting-time</guid>
+      <pubDate>Tue, 03 Mar 2026 00:03:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zola is dead to me. Long live Kusachi!</title>
+      <link>https://dork.dev/posts/2026-01-15-zola-is-dead-to-me/index.html</link>
+      <description>I’d not long since switched from Carbon to Zola and added the
+external/ page to dork.dev (which at the time of writing
+this, still needs to be replaced on Kusachi). Here are some of my
+problems with Zola!</description>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://dork.dev/posts/2026-01-15-zola-is-dead-to-me/index.html</guid>
+      <pubDate>Tue, 03 Mar 2026 00:03:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Do Not Write with an LLM</title>
+      <link>https://elijahpotter.dev/articles/do-not-write-with-an-LLM</link>
+      <description>I have been seeing an increasingly prevalent trend of people showing up in online spaces flaunting that they are writing with the assistance of AI. They seem to be proud of this. They shouldn't be.</description>
+      <category>ai</category>
+      <guid>https://elijahpotter.dev/articles/do-not-write-with-an-LLM</guid>
+      <pubDate>Tue, 03 Mar 2026 00:03:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>I Charge for a Single-File Web App I Can’t Protect From Piracy</title>
+      <link>https://joeldare.com/i-charge-for-a-single-file-web-app-i-cant-protect-from-piracy</link>
+      <description>By Joel Dare ⟡ Written March 1, 2026</description>
+      <category>web</category>
+      <category>sql</category>
+      <guid>https://joeldare.com/i-charge-for-a-single-file-web-app-i-cant-protect-from-piracy</guid>
+      <pubDate>Tue, 03 Mar 2026 00:03:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>So... can Home Assistant run DOOM?</title>
+      <link>https://frenck.dev/home-assistant-can-run-doom/</link>
+      <description>It started with a DOOM t-shirt at a meetup. The real question? Can Home Assistant run DOOM? Two hours later, I had a fully working DOOM integration for Home Assistant and was fighting demons on my smart home dashboard.</description>
+      <author> (https://www.facebook.com/frenck)</author>
+      <category>visualstudio</category>
+      <category>web</category>
+      <category>gaming</category>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://frenck.dev/home-assistant-can-run-doom/</guid>
+      <pubDate>Tue, 03 Mar 2026 00:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>No Code by Hand | Ashwini's blog</title>
+      <link>https://ashwch.com/no-code-by-hand-agentic-platform-acceleration.html</link>
+      <description>CI dropped from 37 minutes to 9, at 35% lower cost. Here is what we learned about the hidden queue, mixing Claude and Codex, and where the real multiplier came from.</description>
+      <category>python</category>
+      <category>sql</category>
+      <category>encryption</category>
+      <category>conference</category>
+      <category>git</category>
+      <guid>https://ashwch.com/no-code-by-hand-agentic-platform-acceleration.html</guid>
+      <pubDate>Tue, 03 Mar 2026 00:03:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Using Claude Code Agent Teams for Incident Investigation — magarcia</title>
+      <link>https://magarcia.io/using-claude-code-agent-teams-for-incident-investigation/</link>
+      <description>How I used Claude Code's agent teams to run a parallel, multi-agent production incident investigation — with one prompt and surprisingly good results.</description>
+      <category>nodejs</category>
+      <category>sql</category>
+      <category>javascript</category>
+      <category>vscode</category>
+      <category>ai</category>
+      <guid>https://magarcia.io/using-claude-code-agent-teams-for-incident-investigation/</guid>
+      <pubDate>Tue, 03 Mar 2026 00:03:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Which programming languages pay the most? I made my own salary charts</title>
+      <link>https://stribny.name/posts/salaries-by-language/</link>
+      <description>Is Rust the best paying programming language? Or Julia? In this investigative article we will get to know the best paying languages, and much more.</description>
+      <category>ai</category>
+      <category>python</category>
+      <category>sql</category>
+      <category>javascript</category>
+      <category>gaming</category>
+      <guid>https://stribny.name/posts/salaries-by-language/</guid>
+      <pubDate>Tue, 03 Mar 2026 00:03:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Marketing Is Eating Engineering</title>
+      <link>https://ericciarla.com/blog/marketing-is-eating-engineering.html</link>
+      <description>AI is making every engineer dramatically more productive. As the bottleneck shifts from code to distribution, marketing and GTM roles are becoming the new moat.</description>
+      <author> (Eric Ciarla)</author>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://ericciarla.com/blog/marketing-is-eating-engineering.html</guid>
+      <pubDate>Tue, 03 Mar 2026 00:03:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>I let Claude improve my keyboard's firmware</title>
+      <link>https://daniellombrana.es/blog/2026/03/01/claude-improved-my-keyboard-firmware</link>
+      <description>A short story about how Claude improved my keyboard's firmware</description>
+      <category>ai</category>
+      <category>nodejs</category>
+      <category>apple</category>
+      <category>android</category>
+      <guid>https://daniellombrana.es/blog/2026/03/01/claude-improved-my-keyboard-firmware</guid>
+      <pubDate>Tue, 03 Mar 2026 00:03:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>The inner workings of TCP zero-copy</title>
+      <link>https://blog.tohojo.dk/2026/02/the-inner-workings-of-tcp-zero-copy.html</link>
+      <description></description>
+      <guid>https://blog.tohojo.dk/2026/02/the-inner-workings-of-tcp-zero-copy.html</guid>
+      <pubDate>Tue, 03 Mar 2026 00:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>An identity crisis in engineering</title>
+      <link>https://bgthread.github.io/an-identity-crisis-in-engineering/</link>
+      <description>Building software by hand was hard but pleasurable. When things didn’t work, we dug into the code and looked it up on the internet. We implemented the solution after we understood; we looked down our nose at the brute-force blind-pastes from StackOverflow. We drew enormous satisfaction from this. Of course, the clout we gained among coworkers for our ability to solve difficult issues didn’t hurt.</description>
+      <category>ai</category>
+      <guid>https://bgthread.github.io/an-identity-crisis-in-engineering/</guid>
+      <pubDate>Tue, 03 Mar 2026 00:02:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>She Came Out of the Bathroom Naked, Employee Says</title>
+      <link>https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything</link>
+      <description>Bank details, sex and naked people who seem unaware they are being recorded. Behind Meta’s new smart glasses lies a hidden workforce, uneasy about peering into the most intimate parts of other people’s lives.</description>
+      <author> (Naipanoi Lepapa,Ahmed Abdigadir,Julia Lindblom,Erik Norman)</author>
+      <category>ai</category>
+      <category>cloud</category>
+      <guid>https://www.svd.se/a/K8nrV4/metas-ai-smart-glasses-and-data-privacy-concerns-workers-say-we-see-everything</guid>
+      <pubDate>Tue, 03 Mar 2026 00:02:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Repurposing Claude Code for Better Spotify Recommendations</title>
+      <link>https://fredbenenson.com/blog/2026/03/02/repurposing-claude-code-for-better-spotify-recommendations/</link>
+      <description>I built a Claude Code skill that creates Spotify playlists from natural language. You describe what you want — “70s Ethiopian jazz fusion,” “ambient music that sounds like i…</description>
+      <category>ai</category>
+      <category>python</category>
+      <guid>https://fredbenenson.com/blog/2026/03/02/repurposing-claude-code-for-better-spotify-recommendations/</guid>
+      <pubDate>Tue, 03 Mar 2026 00:02:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Change your default date format to the least ambiguous</title>
+      <link>https://practicalbetterments.com/change-your-default-date-format-to-the-least-ambiguous/</link>
+      <description>On 13th November 2025 a TikTok-er had beef with Air Canada.1</description>
+      <guid>https://practicalbetterments.com/change-your-default-date-format-to-the-least-ambiguous/</guid>
+      <pubDate>Tue, 03 Mar 2026 00:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I used Cursor to Migrate Frameworks</title>
+      <link>https://kentcdodds.com/blog/how-i-used-cursor-to-migrate-frameworks</link>
+      <description>I upgraded kentcdodds.com from Remix v2 to React Router v7 in a day with over 17k lines of code changed. Here's how I did it.</description>
+      <category>nodejs</category>
+      <category>javascript</category>
+      <guid>https://kentcdodds.com/blog/how-i-used-cursor-to-migrate-frameworks</guid>
+      <pubDate>Tue, 03 Mar 2026 00:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Astro and Svelte: Why I Believe They're the Future of Web Development</title>
+      <link>https://xergioalex.com/blog/astro-and-svelte-the-future-of-web-development/</link>
+      <description>Why Astro and Svelte represent a return to web development simplicity — backed by data from State of JS 2025, performance benchmarks, and real-world experience building this very website.</description>
+      <author> (https://xergioalex.com/about/)</author>
+      <category>javascript</category>
+      <category>web</category>
+      <category>typescript</category>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://xergioalex.com/blog/astro-and-svelte-the-future-of-web-development/</guid>
+      <pubDate>Tue, 03 Mar 2026 00:02:23 GMT</pubDate>
+    </item>
+    <item>
       <title>I built a pint-sized Macintosh</title>
       <link>https://www.jeffgeerling.com/blog/2026/pint-sized-macintosh-pico-micro-mac/</link>
       <description>To kick off MARCHintosh, I built this tiny pint-sized Macintosh with a Raspberry Pi Pico:
@@ -104,122 +352,6 @@ Since the original Pico's RAM is fairly constrained, you get a maximum of 208 KB
       <category>gaming</category>
       <guid>https://xeiaso.net/blog/2026/killing-my-inner-necron/</guid>
       <pubDate>Mon, 02 Mar 2026 02:02:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dating Apps, Data Structures, and Dopamine | ErrorCode0</title>
-      <link>https://www.errorcodezero.dev/blog/dating-apps-dsa-and-dopamine/</link>
-      <description>A tale of app building.</description>
-      <guid>https://www.errorcodezero.dev/blog/dating-apps-dsa-and-dopamine/</guid>
-      <pubDate>Mon, 02 Mar 2026 00:03:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Having fun with modern web APIs</title>
-      <link>https://robida.net/entries/2026/01/28/having-fun-with-modern-web-apis</link>
-      <description>One of the many reasons why I wanted to start blogging again was to explore modern browser APIs. Technically, I work as a full stack developer for my day job, but I usually spend most of my time on t…</description>
-      <category>android</category>
-      <category>sql</category>
-      <category>javascript</category>
-      <category>web</category>
-      <category>apple</category>
-      <guid>https://robida.net/entries/2026/01/28/having-fun-with-modern-web-apis</guid>
-      <pubDate>Mon, 02 Mar 2026 00:03:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Blog by Dario</title>
-      <link>https://blog.dmilicic.com/posts/what-is-good-code-in-2026</link>
-      <description>Blog - Senior Mobile Engineer - Dario Milicic</description>
-      <category>ai</category>
-      <guid>https://blog.dmilicic.com/posts/what-is-good-code-in-2026</guid>
-      <pubDate>Mon, 02 Mar 2026 00:03:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Background Jobs for TanStack Start with pg-boss by Jamie Davenport</title>
-      <link>https://jxd.dev/writing/background-jobs-tanstack-start-pg-boss/</link>
-      <description>TanStack Start server functions are great for request/response logic, but some work shouldn't block the user. This post walks through wiring pg-boss into a TanStack Start app to handle durable background jobs — with a typed registry, a Nitro plugin, and a fan-out pattern for post-signup flows.</description>
-      <category>typescript</category>
-      <category>nodejs</category>
-      <category>sql</category>
-      <guid>https://jxd.dev/writing/background-jobs-tanstack-start-pg-boss/</guid>
-      <pubDate>Mon, 02 Mar 2026 00:03:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sit On Your Ass Web Development</title>
-      <link>https://blog.jim-nielsen.com/2025/sit-on-your-ass-web-dev/</link>
-      <description>Writing about the big beautiful mess that is making things for the world wide web.</description>
-      <category>rust</category>
-      <category>javascript</category>
-      <guid>https://blog.jim-nielsen.com/2025/sit-on-your-ass-web-dev/</guid>
-      <pubDate>Mon, 02 Mar 2026 00:02:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>What I learned building a Multi-Agent System</title>
-      <link>https://davide.im/posts/multi-agent-system/</link>
-      <description>Building a multi-agent AI system to automate cloud assessment documentation. Learn about agent design, role specialization, MCP servers, and context engineering for complex LLM workflows.</description>
-      <category>cloud</category>
-      <category>ai</category>
-      <category>encryption</category>
-      <category>javascript</category>
-      <category>vscode</category>
-      <guid>https://davide.im/posts/multi-agent-system/</guid>
-      <pubDate>Mon, 02 Mar 2026 00:02:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Colour of Production - Leon Mika</title>
-      <link>https://lmika.org/2026/02/27/the-colour-of-production.html</link>
-      <description>On the colour-coding system used for different development environments.</description>
-      <category>web</category>
-      <guid>https://lmika.org/2026/02/27/the-colour-of-production.html</guid>
-      <pubDate>Mon, 02 Mar 2026 00:02:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>You think unemployed, I think retired</title>
-      <link>https://jesseduffield.com/You-Think-Unemployed-I-Think-Retired/</link>
-      <description>
-  Work sucks, I know
-
-  - blink-182
-
-
-</description>
-      <category>ai</category>
-      <category>gaming</category>
-      <guid>https://jesseduffield.com/You-Think-Unemployed-I-Think-Retired/</guid>
-      <pubDate>Mon, 02 Mar 2026 00:02:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Who Actually Owns Your ATProto Identity? Hint: It's Probably Not You</title>
-      <link>https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you</link>
-      <description>ATProto gives your PDS operator full control of your signing and rotation keys, letting them impersonate you across every app in the ecosystem or kill</description>
-      <category>git</category>
-      <category>sql</category>
-      <guid>https://kevinak.se/blog/who-actually-owns-your-atproto-identity-hint-its-probably-not-you</guid>
-      <pubDate>Mon, 02 Mar 2026 00:02:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Let's Talk About the Humanoid Robot in the Room</title>
-      <link>https://matthiasplappert.com/blog/2026/humanoid-robot-in-the-room/</link>
-      <description>General purpose humanoid robots are like self-driving, but actually much harder.</description>
-      <category>ai</category>
-      <guid>https://matthiasplappert.com/blog/2026/humanoid-robot-in-the-room/</guid>
-      <pubDate>Mon, 02 Mar 2026 00:02:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Software for One | Koen van Gilst</title>
-      <link>https://koenvangilst.nl/lab/software-for-one</link>
-      <description>Instead of downloading someone else's app, I built exactly what I wanted for less than a dollar.</description>
-      <category>ai</category>
-      <category>apple</category>
-      <guid>https://koenvangilst.nl/lab/software-for-one</guid>
-      <pubDate>Mon, 02 Mar 2026 00:02:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mutability considered harmful</title>
-      <link>https://psteitz.blogspot.com/2026/02/mutability-considered-harmful.html</link>
-      <description>We live in a constantly changing world.  Updates happen all the time.  It's counter-intuitive to say that we need to somehow avoid mutabilit...</description>
-      <category>sql</category>
-      <category>web</category>
-      <guid>https://psteitz.blogspot.com/2026/02/mutability-considered-harmful.html</guid>
-      <pubDate>Mon, 02 Mar 2026 00:02:21 GMT</pubDate>
     </item>
   </channel>
 </rss>
