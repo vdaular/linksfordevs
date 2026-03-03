@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>XKCD Dependency</title>
+      <link>https://editor.p5js.org/isohedral/full/vJa5RiZWs</link>
+      <description>A web editor for p5.js, a JavaScript library with the goal of making coding accessible to artists, designers, educators, and beginners.</description>
+      <guid>https://editor.p5js.org/isohedral/full/vJa5RiZWs</guid>
+      <pubDate>Tue, 03 Mar 2026 14:01:51 GMT</pubDate>
+    </item>
+    <item>
       <title>Open source package repositories face sustainability crisis</title>
       <link>https://www.theregister.com/2026/02/28/open_source_opinion/</link>
       <description>Opinion: Careless big-time users are treating FOSS repos like content delivery networks</description>
@@ -311,16 +318,6 @@ Since the original Pico's RAM is fairly constrained, you get a maximum of 208 KB
       <category>linux</category>
       <guid>https://commerce.jolla.com/products/jolla-phone-sept-26</guid>
       <pubDate>Mon, 02 Mar 2026 15:02:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft gets tired of “Microslop,” bans the word on its Discord, then locks the server after backlash</title>
-      <link>https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/</link>
-      <description>Microsoft blocks the word Microslop on its Copilot Discord, bans users, and locks channels after backlash, showing tensions around its AI push</description>
-      <author> (https://www.facebook.com/Abhijith.MB)</author>
-      <category>ai</category>
-      <category>gaming</category>
-      <guid>https://www.windowslatest.com/2026/03/02/microsoft-gets-tired-of-microslop-bans-the-word-on-its-discord-then-locks-the-server-after-backlash/</guid>
-      <pubDate>Mon, 02 Mar 2026 14:02:16 GMT</pubDate>
     </item>
   </channel>
 </rss>
