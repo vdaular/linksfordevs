@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Welcome (back) to Macintosh</title>
+      <link>https://take.surf/2026/03/01/welcome-back-to-macintosh</link>
+      <description>For at least 10 years, every Time Machine set up I have been in charge of, or tasked with maintaining for someone else, has eventually run into an issue where it stops backing up successfully. The only solution has been to start over, to not inherit backup state and to manually delete the old backup. My experience while looking up this solution repeatedly has been that this is not uncommon, and definitely is not just me holding it wrong; indeed the steps are marked as recommended solutions on Apple's own forums.</description>
+      <category>apple</category>
+      <category>gaming</category>
+      <category>linux</category>
+      <guid>https://take.surf/2026/03/01/welcome-back-to-macintosh</guid>
+      <pubDate>Tue, 03 Mar 2026 03:02:23 GMT</pubDate>
+    </item>
+    <item>
       <title>Is Code Still Relevant?</title>
       <link>https://ajchambeaud.com/blog/is-code-still-relevant/</link>
       <description>I've been writing code for a living for 16 years. The changes I've seen in the industry over the last year feel like something else entirely.</description>

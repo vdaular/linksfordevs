@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Welcome (back) to Macintosh",
+    "Url": "https://take.surf/2026/03/01/welcome-back-to-macintosh",
+    "Timestamp": "2026-03-03T03:02:23",
+    "Domain": "take.surf",
+    "Description": "For at least 10 years, every Time Machine set up I have been in charge of, or tasked with maintaining for someone else, has eventually run into an issue where it stops backing up successfully. The only solution has been to start over, to not inherit backup state and to manually delete the old backup. My experience while looking up this solution repeatedly has been that this is not uncommon, and definitely is not just me holding it wrong; indeed the steps are marked as recommended solutions on Apple's own forums."
+  },
+  {
     "Title": "Is Code Still Relevant?",
     "Url": "https://ajchambeaud.com/blog/is-code-still-relevant/",
     "Timestamp": "2026-03-03T00:04:14",
