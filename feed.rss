@@ -320,13 +320,5 @@ Since the original Pico's RAM is fairly constrained, you get a maximum of 208 KB
       <guid>https://e.foundation/e-os/</guid>
       <pubDate>Mon, 02 Mar 2026 13:02:15 GMT</pubDate>
     </item>
-    <item>
-      <title>Why we feel an aversion towards LLM articles</title>
-      <link>https://idiallo.com/blog/why-we-hate-llm-articles?src=feed</link>
-      <description>Last year, I pushed myself to write and publish every other day for the whole year. I had accumulated a large number of subjects over the years, and I was ready to start blogging again. After writing </description>
-      <category>ai</category>
-      <guid>https://idiallo.com/blog/why-we-hate-llm-articles?src=feed</guid>
-      <pubDate>Mon, 02 Mar 2026 12:02:08 GMT</pubDate>
-    </item>
   </channel>
 </rss>
