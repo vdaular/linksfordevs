@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Something is afoot in the land of Qwen</title>
+      <link>https://simonwillison.net/2026/Mar/4/qwen/</link>
+      <description>I’m behind on writing about Qwen 3.5, a truly remarkable family of open weight models released by Alibaba’s Qwen team over the past few weeks. I’m hoping that the 3.5 …</description>
+      <category>apple</category>
+      <category>ai</category>
+      <guid>https://simonwillison.net/2026/Mar/4/qwen/</guid>
+      <pubDate>Wed, 04 Mar 2026 19:02:05 GMT</pubDate>
+    </item>
+    <item>
       <title>Say hello to MacBook Neo</title>
       <link>https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/</link>
       <description>Apple today unveiled MacBook Neo, an all-new laptop that delivers the magic of the Mac at a breakthrough price.</description>
@@ -334,15 +343,6 @@ I've recen...</description>
       <category>gaming</category>
       <guid>https://www.apple.com/newsroom/2026/03/apple-introduces-the-new-macbook-air-with-m5/</guid>
       <pubDate>Tue, 03 Mar 2026 20:02:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nobody Gets Promoted for Simplicity</title>
-      <link>https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/</link>
-      <description>We reward complexity and ignore simplicity. In interviews, design reviews, and promotions. Here’s how to fix it.</description>
-      <category>sql</category>
-      <category>gaming</category>
-      <guid>https://terriblesoftware.org/2026/03/03/nobody-gets-promoted-for-simplicity/</guid>
-      <pubDate>Tue, 03 Mar 2026 19:02:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
