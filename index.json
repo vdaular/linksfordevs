@@ -270,13 +270,5 @@
     "Domain": "terriblesoftware.org",
     "Description": "We reward complexity and ignore simplicity. In interviews, design reviews, and promotions. Here’s how to fix it.",
     "Confidence": 0.9899263
-  },
-  {
-    "Title": "I'm struggling to think of any online services for which I'd be willing to verify my identity or age",
-    "Url": "https://neilzone.co.uk/2026/03/im-struggling-to-think-of-any-online-services-for-which-id-be-willing-to-verify-my-identity-or-age/",
-    "Timestamp": "2026-03-03T17:02:05",
-    "Domain": "neilzone.co.uk",
-    "Description": "Identity verification and age verification is an increasinly common policy conversation at the moment, in numerous countries.",
-    "Confidence": 0.98146623
   }
 ]
