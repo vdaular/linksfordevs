@@ -7,6 +7,30 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Make Your .NET Tests Insanely Faster</title>
+      <link>https://youtube.com/watch?v=eE7PWWV1ykE</link>
+      <description>Get every Dometrain 30% off with code HANDSON30: https://dometrain.com/courses/?ref=nick-chapsas&amp;promo=youtube&amp;coupon_code=HANDSON30
+
+Hello, everybody. I'm Nick, and in this video, I will talk about a new mocking library called Imposter that can speed up your .NET tests significantly and reduce their memory footprint.
+
+Give Imposter a star on GitHub: https://github.com/themidnightgospel/Imposter
+
+Don't forget to comment, like and subscribe :)
+
+Social Media:
+Follow me on GitHub: https://github.com/Elfocrash
+Follow me on Twitter: https://twitter.com/nickchapsas
+Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas
+
+#csharp #dotnet</description>
+      <author> (Nick Chapsas)</author>
+      <category>dotnet</category>
+      <category>youtube</category>
+      <category>git</category>
+      <guid>https://youtube.com/watch?v=eE7PWWV1ykE</guid>
+      <pubDate>Wed, 04 Mar 2026 13:01:32 GMT</pubDate>
+    </item>
+    <item>
       <title>Interruption-Driven Development</title>
       <link>https://idiallo.com/blog/interruption-driven-development?src=feed</link>
       <description>I have a hard time listening to music while working. I know a lot of people do it, but whenever I need to focus on a problem, I have to hunt down the tab playing music and pause it. And yet I still we</description>
@@ -318,18 +342,6 @@ I've recen...</description>
       <description>A web editor for p5.js, a JavaScript library with the goal of making coding accessible to artists, designers, educators, and beginners.</description>
       <guid>https://editor.p5js.org/isohedral/full/vJa5RiZWs</guid>
       <pubDate>Tue, 03 Mar 2026 14:01:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Open source package repositories face sustainability crisis</title>
-      <link>https://www.theregister.com/2026/02/28/open_source_opinion/</link>
-      <description>Opinion: Careless big-time users are treating FOSS repos like content delivery networks</description>
-      <category>ai</category>
-      <category>android</category>
-      <category>linux</category>
-      <category>javascript</category>
-      <category>gaming</category>
-      <guid>https://www.theregister.com/2026/02/28/open_source_opinion/</guid>
-      <pubDate>Tue, 03 Mar 2026 13:02:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
