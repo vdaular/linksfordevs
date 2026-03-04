@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Lenovo’s New T&#x2d;Series ThinkPads Score 10/10 for Repairability",
+    "Url": "https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability",
+    "Timestamp": "2026-03-04T04:02:05",
+    "Domain": "www.ifixit.com",
+    "Description": "Repair goes mega mainstream with the launch of Lenovo’s new T&#x2d;series business laptops, which earned our highest honor with a 10/10 repairability score.",
+    "Confidence": 0.84394735
+  },
+  {
     "Title": "Intel's make-or-break 18A process node debuts for data center with 288-core Xeon 6+ CPU — multi-chip monster sports 12 channels of DDR5-8000, Foveros Direct 3D packaging tech",
     "Url": "https://www.tomshardware.com/pc-components/cpus/intels-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon-6-cpu-multi-chip-monster-sports-12-channels-of-ddr5-8000-foveros-direct-3d-packaging-tech",
     "Timestamp": "2026-03-04T03:02:04",
@@ -230,21 +238,5 @@
     "Domain": "www.theregister.com",
     "Description": "Opinion: Careless big-time users are treating FOSS repos like content delivery networks",
     "Confidence": 0.7140479
-  },
-  {
-    "Title": "Electric Vehicles",
-    "Url": "https://xkcd.com/3214/",
-    "Timestamp": "2026-03-03T04:02:04",
-    "Domain": "xkcd.com",
-    "Description": "",
-    "Confidence": 0.98151064
-  },
-  {
-    "Title": "Giving LLMs a personality is just good engineering",
-    "Url": "https://www.seangoedecke.com/giving-llms-a-personality/",
-    "Timestamp": "2026-03-03T04:02:01",
-    "Domain": "www.seangoedecke.com",
-    "Description": "AI skeptics often argue that current AI systems shouldn’t be so human-like. The idea - most recently expressed in this opinion piece by Nathan Beacom - is that language models should explicitly be tools, like calculators or search engines. Although they can pretend to be people, they shouldn’t, because it encourages users to overestimate AI capabilities and (at worst) slip into AI psychosis. Here’s a representative paragraph from the piece:",
-    "Confidence": 0.88429695
   }
 ]
