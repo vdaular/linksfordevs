@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Agentic Engineering Patterns - Simon Willison's Weblog",
+    "Url": "https://simonwillison.net/guides/agentic-engineering-patterns/",
+    "Timestamp": "2026-03-04T14:01:45",
+    "Domain": "simonwillison.net",
+    "Description": "Sponsored by: Augment Code — Agent Orchestration. Living Specs. Your favorite agents. Build with Intent.",
+    "Confidence": 0.99171466
+  },
+  {
     "Title": "Make Your .NET Tests Insanely Faster",
     "Url": "https://youtube.com/watch?v=eE7PWWV1ykE",
     "Timestamp": "2026-03-04T13:01:32",
@@ -262,13 +270,5 @@
     "Domain": "www.apple.com",
     "Description": "Apple announced the latest 14- and 16-inch MacBook Pro with the all-new M5 Pro and M5 Max.",
     "Confidence": 0.9374484
-  },
-  {
-    "Title": "XKCD Dependency",
-    "Url": "https://editor.p5js.org/isohedral/full/vJa5RiZWs",
-    "Timestamp": "2026-03-03T14:01:51",
-    "Domain": "editor.p5js.org",
-    "Description": "A web editor for p5.js, a JavaScript library with the goal of making coding accessible to artists, designers, educators, and beginners.",
-    "Confidence": 0.80844456
   }
 ]

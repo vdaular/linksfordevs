@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Agentic Engineering Patterns - Simon Willison's Weblog</title>
+      <link>https://simonwillison.net/guides/agentic-engineering-patterns/</link>
+      <description>Sponsored by: Augment Code — Agent Orchestration. Living Specs. Your favorite agents. Build with Intent.</description>
+      <category>ai</category>
+      <guid>https://simonwillison.net/guides/agentic-engineering-patterns/</guid>
+      <pubDate>Wed, 04 Mar 2026 14:01:45 GMT</pubDate>
+    </item>
+    <item>
       <title>Make Your .NET Tests Insanely Faster</title>
       <link>https://youtube.com/watch?v=eE7PWWV1ykE</link>
       <description>Get every Dometrain 30% off with code HANDSON30: https://dometrain.com/courses/?ref=nick-chapsas&amp;promo=youtube&amp;coupon_code=HANDSON30
@@ -335,13 +343,6 @@ I've recen...</description>
       <category>gaming</category>
       <guid>https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/</guid>
       <pubDate>Tue, 03 Mar 2026 16:01:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>XKCD Dependency</title>
-      <link>https://editor.p5js.org/isohedral/full/vJa5RiZWs</link>
-      <description>A web editor for p5.js, a JavaScript library with the goal of making coding accessible to artists, designers, educators, and beginners.</description>
-      <guid>https://editor.p5js.org/isohedral/full/vJa5RiZWs</guid>
-      <pubDate>Tue, 03 Mar 2026 14:01:51 GMT</pubDate>
     </item>
   </channel>
 </rss>
