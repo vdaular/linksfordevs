@@ -7,6 +7,39 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Unmasking Epstein: My Open Source AI Tool</title>
+      <link>https://youtu.be/mKK9VPito-E</link>
+      <description>This video is about a problem that has been considered unsolvable: the permanent redaction of the Epstein case files. As an engineer, I don't see a black bar as a dead end—I see it as a geometry problem with a data-driven solution.
+
+In this video, I demonstrate Unredact, a tool I built to reverse-engineer these redactions using a multi-phase algorithm that layers OCR, Computer Vision, and AI. By cross-referencing the physical dimensions of the redaction boxes against known typography and massive datasets, we can move past speculation and into forensic reality.
+
+The goal of this project is simple: accountability. If the data exists to uncover the truth, that data should be accessible to the public. To that end, Unredact is now fully open-source.
+
+Credits &amp; Resources
+This project was built on the shoulders of these incredible investigators:
+
+Inspiration: Huge thanks to @EpsteinSleuther. Her methodology and deep-dives into these files provided the blueprint for how I structured this application’s detection logic.
+
+Channel: https://www.youtube.com/@EpsteinSleuther
+
+Data Source: This tool wouldn't be possible without the work of R. Howard Stone, whose research and associate data provided the essential validation sets for the algorithm.
+
+Data Repo: https://github.com/rhowardstone/Epstein-research-data
+
+Get the Tool
+You can find the code, the logic breakdown, and the contribution guidelines on GitHub. I’m making this available to everyone so we can collectively ensure these names don't stay hidden forever.
+
+Project Repo: https://github.com/Alex-Gilbert/unredact
+
+#EpsteinFiles #Forensics #OpenSource #DataScience #Unredact</description>
+      <author> (Alex Gilbert)</author>
+      <category>ai</category>
+      <category>youtube</category>
+      <category>git</category>
+      <guid>https://youtu.be/mKK9VPito-E</guid>
+      <pubDate>Wed, 04 Mar 2026 09:01:58 GMT</pubDate>
+    </item>
+    <item>
       <title>I Put a Full JVM Inside a Browser Tab. It "Works". Technically. Eventually.</title>
       <link>https://bmarti44.substack.com/p/i-put-a-full-jvm-inside-a-browser</link>
       <description>There is an entire Linux kernel in there and it takes 55 seconds to print Hello World</description>
