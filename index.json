@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Say hello to MacBook Neo",
+    "Url": "https://www.apple.com/newsroom/2026/03/say-hello-to-macbook-neo/",
+    "Timestamp": "2026-03-04T16:02:05",
+    "Domain": "www.apple.com",
+    "Description": "Apple today unveiled MacBook Neo, an all-new laptop that delivers the magic of the Mac at a breakthrough price.",
+    "Confidence": 0.95675826
+  },
+  {
     "Title": "Solar Warning",
     "Url": "https://xkcd.com/3215/",
     "Timestamp": "2026-03-04T15:02:02",
@@ -270,13 +278,5 @@
     "Domain": "neilzone.co.uk",
     "Description": "Identity verification and age verification is an increasinly common policy conversation at the moment, in numerous countries.",
     "Confidence": 0.98146623
-  },
-  {
-    "Title": "Apple introduces MacBook Pro with all-new M5 Pro and M5 Max",
-    "Url": "https://www.apple.com/newsroom/2026/03/apple-introduces-macbook-pro-with-all-new-m5-pro-and-m5-max/",
-    "Timestamp": "2026-03-03T16:01:57",
-    "Domain": "www.apple.com",
-    "Description": "Apple announced the latest 14- and 16-inch MacBook Pro with the all-new M5 Pro and M5 Max.",
-    "Confidence": 0.9374484
   }
 ]
