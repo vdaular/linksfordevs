@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Intel's make-or-break 18A process node debuts for data center with 288-core Xeon 6+ CPU — multi-chip monster sports 12 channels of DDR5-8000, Foveros Direct 3D packaging tech</title>
+      <link>https://www.tomshardware.com/pc-components/cpus/intels-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon-6-cpu-multi-chip-monster-sports-12-channels-of-ddr5-8000-foveros-direct-3d-packaging-tech</link>
+      <description>Intel unveils x86 CPU with the industry's highest core count.</description>
+      <category>nodejs</category>
+      <category>ai</category>
+      <guid>https://www.tomshardware.com/pc-components/cpus/intels-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon-6-cpu-multi-chip-monster-sports-12-channels-of-ddr5-8000-foveros-direct-3d-packaging-tech</guid>
+      <pubDate>Wed, 04 Mar 2026 03:02:04 GMT</pubDate>
+    </item>
+    <item>
       <title>What is a token</title>
       <link>https://jenniferplusplus.com/what-is-a-token/</link>
       <description>AI is meant to seem like magic. But there's no such thing as magic. It's all illusion. So, allow me to spoil that illusion for you.</description>
@@ -272,16 +281,6 @@ I've recen...</description>
       <category>ai</category>
       <guid>https://www.seangoedecke.com/giving-llms-a-personality/</guid>
       <pubDate>Tue, 03 Mar 2026 04:02:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Welcome (back) to Macintosh</title>
-      <link>https://take.surf/2026/03/01/welcome-back-to-macintosh</link>
-      <description>For at least 10 years, every Time Machine set up I have been in charge of, or tasked with maintaining for someone else, has eventually run into an issue where it stops backing up successfully. The only solution has been to start over, to not inherit backup state and to manually delete the old backup. My experience while looking up this solution repeatedly has been that this is not uncommon, and definitely is not just me holding it wrong; indeed the steps are marked as recommended solutions on Apple's own forums.</description>
-      <category>apple</category>
-      <category>gaming</category>
-      <category>linux</category>
-      <guid>https://take.surf/2026/03/01/welcome-back-to-macintosh</guid>
-      <pubDate>Tue, 03 Mar 2026 03:02:23 GMT</pubDate>
     </item>
   </channel>
 </rss>
