@@ -7,6 +7,24 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>I Put a Full JVM Inside a Browser Tab. It "Works". Technically. Eventually.</title>
+      <link>https://bmarti44.substack.com/p/i-put-a-full-jvm-inside-a-browser</link>
+      <description>There is an entire Linux kernel in there and it takes 55 seconds to print Hello World</description>
+      <category>web</category>
+      <category>cloud</category>
+      <category>linux</category>
+      <category>javascript</category>
+      <guid>https://bmarti44.substack.com/p/i-put-a-full-jvm-inside-a-browser</guid>
+      <pubDate>Wed, 04 Mar 2026 05:02:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>GrapheneOS (@GrapheneOS@grapheneos.social)</title>
+      <link>https://grapheneos.social/@GrapheneOS/116160393783585567</link>
+      <description>@luana@wetdry.world It will fully support using other operating systems including users making their own builds of GrapheneOS. It's part of our hardware requirements. We'll likely be able to make hardened builds of firmware and drivers which can be released in an official way for easy builds without needing to extract anything from the GrapheneOS or Motorola OS factory images.</description>
+      <guid>https://grapheneos.social/@GrapheneOS/116160393783585567</guid>
+      <pubDate>Wed, 04 Mar 2026 05:02:04 GMT</pubDate>
+    </item>
+    <item>
       <title>Lenovo’s New T&amp;#x2d;Series ThinkPads Score 10/10 for Repairability</title>
       <link>https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability</link>
       <description>Repair goes mega mainstream with the launch of Lenovo’s new T&amp;#x2d;series business laptops, which earned our highest honor with a 10/10 repairability score.</description>
