@@ -7,6 +7,272 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Denoising my life: Part 1</title>
+      <link>https://adityashrishpuranik.com/writing/denoising-my-life</link>
+      <description>Back in 2021, I was Snap addict. And then, one day I decided to cut it - cold turkey. It was one of the best decisions of my life.</description>
+      <category>youtube</category>
+      <guid>https://adityashrishpuranik.com/writing/denoising-my-life</guid>
+      <pubDate>Thu, 05 Mar 2026 01:03:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chris Clapham - Software Engineer</title>
+      <link>https://chrisclapham.com/blog/nuclear-war-an-llm-scenario</link>
+      <description>Personal website of Chris Clapham, Software Engineer</description>
+      <category>ai</category>
+      <guid>https://chrisclapham.com/blog/nuclear-war-an-llm-scenario</guid>
+      <pubDate>Thu, 05 Mar 2026 01:03:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare Pages’ Headers when Using Middleware</title>
+      <link>https://logs.jasonhk.dev/notes/cloudflare-pages-headers-when-using-middleware/</link>
+      <description>I build several websites based with Hugo recently. But I discovered those websites got kinda mid scores on Mozilla Observatory (this one included!). Since I host those websites on Cloudflare, I can solve part of the issue my adding a _headers file to insert some of the needed headers. The one final thing to be tackle is CSP hashes for inline scripts (and styles), I need to find a way to do it since Hugo can’t do it.</description>
+      <category>web</category>
+      <category>javascript</category>
+      <guid>https://logs.jasonhk.dev/notes/cloudflare-pages-headers-when-using-middleware/</guid>
+      <pubDate>Thu, 05 Mar 2026 01:03:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Code or: How I Learned to Stop Worrying and Love the Agent</title>
+      <link>https://brian.jp/blog/claude-code-or-how-i-learned-to-stop-worrying-and-love-the-agent-34/</link>
+      <description>Vibe coding. So hot right now. My initial reaction was to hate it. With a passion. Fuck these LLMs. But as I started asking myself "why?" I couldn't really come up with a good answer other than "bad for the environment" and some ethical concerns that honestly don't make sense given the fact that I'll easily look the other way when it benefits me. So what's up here? What's the deal.io?</description>
+      <category>ai</category>
+      <guid>https://brian.jp/blog/claude-code-or-how-i-learned-to-stop-worrying-and-love-the-agent-34/</guid>
+      <pubDate>Thu, 05 Mar 2026 01:03:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>A Shared Kernel Is a Shared Trust Domain</title>
+      <link>https://cdelmonte.dev/posts/shared-kernel-shared-trust-domain/</link>
+      <description>Containers isolate processes, not trust boundaries. When your platform runs untrusted code, the architectural question is where you place the kernel boundary, and what that costs in memory, latency, and operational complexity.</description>
+      <category>containers</category>
+      <category>nodejs</category>
+      <category>python</category>
+      <category>vscode</category>
+      <category>cloud</category>
+      <guid>https://cdelmonte.dev/posts/shared-kernel-shared-trust-domain/</guid>
+      <pubDate>Thu, 05 Mar 2026 01:03:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Evals Skills for Coding Agents – Hamel’s Blog - Hamel Husain</title>
+      <link>https://hamel.dev/blog/posts/evals-skills/</link>
+      <description>Teach your coding agent evals.</description>
+      <category>ai</category>
+      <guid>https://hamel.dev/blog/posts/evals-skills/</guid>
+      <pubDate>Thu, 05 Mar 2026 01:03:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Your Computer Is Fast Enough</title>
+      <link>https://lukaswerner.com/post/2026-03-03@computer-fast-enough</link>
+      <description>I often claim that self hosting is a great learning experience. I encourage almost anyone who is serious about building software to start a blog. Both because it is good to have a portfolio of work that you have published, but also because it can teach you so much about how to run software. I’ve been running my blog exclusively myself for a little over four years now. I’ve rewritten my site more times than I can count in the last 7 years. Sure I don’t have the biggest audience so I don’t need to deal with massive load practically ever, but I a friend of mine did switch from Fly.io to self-hosting and he does have a big audience. His site gets to the front page of Hacker News quite regularly. Soon after he went self hosted he got on the front page of Hacker News with a load of 5% CPU and 77% memory. Not too bad for getting the hug of death from the internet.</description>
+      <guid>https://lukaswerner.com/post/2026-03-03@computer-fast-enough</guid>
+      <pubDate>Thu, 05 Mar 2026 01:03:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>What I Talk About When I Talk About Prompting</title>
+      <link>https://poyo.co/note/20260217T130137/</link>
+      <description>Foreword This article is not about multi-agent orchestration or free-running autonomous setups. It&amp;#39;s about meat-and-potatoes single-prompt tool calling....</description>
+      <category>rust</category>
+      <category>javascript</category>
+      <category>ai</category>
+      <guid>https://poyo.co/note/20260217T130137/</guid>
+      <pubDate>Thu, 05 Mar 2026 01:03:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Based base64 (now with more steganography!)</title>
+      <link>https://blog.jordan.matelsky.com/bb64/</link>
+      <description>I saw this article yesterday from Daniel Lemire about how newline characters are valid in text representations of URLs, per the WHATWG URL Standard.
+
+</description>
+      <category>python</category>
+      <category>git</category>
+      <category>vscode</category>
+      <guid>https://blog.jordan.matelsky.com/bb64/</guid>
+      <pubDate>Thu, 05 Mar 2026 01:03:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>How are we preparing for the Long Web?</title>
+      <link>https://brennan.day/how-are-we-preparing-for-the-long-web/</link>
+      <description>What will the Internet look like in 2036? 2046? How do we reckon with the challenges of digital preservation, link rot, and building for the Long Web in an age of ephemeral content?</description>
+      <author> (Brennan Kenneth Brown)</author>
+      <category>cloud</category>
+      <category>javascript</category>
+      <category>gaming</category>
+      <category>web</category>
+      <guid>https://brennan.day/how-are-we-preparing-for-the-long-web/</guid>
+      <pubDate>Thu, 05 Mar 2026 01:03:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>At Arms Over Anthropic</title>
+      <link>https://reviews.ofb.biz/safari/article/1399.html</link>
+      <description>Remember when everyone on the Right was rightly upset at the government censoring opinions it found distasteful? Somehow that seems forgotten in the other war of this weekend.</description>
+      <category>ai</category>
+      <category>encryption</category>
+      <guid>https://reviews.ofb.biz/safari/article/1399.html</guid>
+      <pubDate>Thu, 05 Mar 2026 01:03:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Notes on not Looking at the Code</title>
+      <link>https://sigusr2.net/notes-on-not-looking-at-the-code.html</link>
+      <description>I’ve been working at StrongDM for the past year and a half. We recently became “famous” after our AI Lab started sharing information about their experimentation and the desire to spend $1,000 a day per engineer, something that sounds absolutely crazy.</description>
+      <category>containers</category>
+      <category>ai</category>
+      <guid>https://sigusr2.net/notes-on-not-looking-at-the-code.html</guid>
+      <pubDate>Thu, 05 Mar 2026 01:03:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Making Firefox’s right-click not suck with about:config</title>
+      <link>https://joshua.hu/firefox-making-right-click-not-suck</link>
+      <description>A practical about:config checklist to declutter Firefox right-click menus on macOS, disabling AI/chatbot prompts, link previews, OCR, visual search, and other low-value context menu items.</description>
+      <category>web</category>
+      <category>ai</category>
+      <guid>https://joshua.hu/firefox-making-right-click-not-suck</guid>
+      <pubDate>Thu, 05 Mar 2026 01:03:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why Claude Runs on Electron and Not ClaudeVM</title>
+      <link>https://jperla.com/blog/claude-electron-not-claudevm</link>
+      <description>Why is the Claude desktop app written in Electron? V8 won everywhere. Now there's a new VM. It runs English. And the VM is Claude.</description>
+      <category>cloud</category>
+      <category>javascript</category>
+      <category>rust</category>
+      <category>nodejs</category>
+      <category>python</category>
+      <guid>https://jperla.com/blog/claude-electron-not-claudevm</guid>
+      <pubDate>Thu, 05 Mar 2026 01:03:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>When the Model Is the Machine</title>
+      <link>https://blog.mikegchambers.com/posts/when-the-model-is-the-machine/</link>
+      <description>AI agents, runtime software, and what comes after SaaS.</description>
+      <category>cloud</category>
+      <category>ai</category>
+      <category>encryption</category>
+      <category>web</category>
+      <category>sql</category>
+      <guid>https://blog.mikegchambers.com/posts/when-the-model-is-the-machine/</guid>
+      <pubDate>Thu, 05 Mar 2026 01:03:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Big noun pages</title>
+      <link>https://ben.stolovitz.com/posts/big-noun-pages/</link>
+      <description>Big noun pages (like 'Visual Studio') make your documentation better. Here's why.</description>
+      <author> (Ben Stolovitz)</author>
+      <category>visualstudio</category>
+      <category>web</category>
+      <category>cloud</category>
+      <category>vscode</category>
+      <category>ai</category>
+      <guid>https://ben.stolovitz.com/posts/big-noun-pages/</guid>
+      <pubDate>Thu, 05 Mar 2026 01:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Remote Firmware Injection in Popular Solar Inverters - Jakkaru Blog</title>
+      <link>https://jakkaru.de/articles/apsystems-remote-firmware-injection</link>
+      <description>Jakkaru proactively defeats threats with penetration testing, ensuring confidence in your business’s future</description>
+      <category>git</category>
+      <guid>https://jakkaru.de/articles/apsystems-remote-firmware-injection</guid>
+      <pubDate>Thu, 05 Mar 2026 01:02:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ascensions</title>
+      <link>https://www.jmduke.com/posts/ascensions.html</link>
+      <description>Most procedurally generated roguelikes have a concept of ascending difficulty levels designed to test the mettle of players who have wasted the most time mas...</description>
+      <category>git</category>
+      <category>gaming</category>
+      <category>sql</category>
+      <category>web</category>
+      <guid>https://www.jmduke.com/posts/ascensions.html</guid>
+      <pubDate>Thu, 05 Mar 2026 01:02:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Feature led building vs user led building</title>
+      <link>https://salah.louizy.com/blog/feature-led-building-vs-user-led-building/</link>
+      <description>Feature led building vs user led building.</description>
+      <category>git</category>
+      <category>gaming</category>
+      <category>ai</category>
+      <guid>https://salah.louizy.com/blog/feature-led-building-vs-user-led-building/</guid>
+      <pubDate>Thu, 05 Mar 2026 01:02:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Package Managers Need to Cool Down</title>
+      <link>https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html</link>
+      <description>A survey of dependency cooldown support across package managers and update tools.</description>
+      <category>nodejs</category>
+      <category>rust</category>
+      <category>dotnet</category>
+      <category>ruby</category>
+      <category>javascript</category>
+      <guid>https://nesbitt.io/2026/03/04/package-managers-need-to-cool-down.html</guid>
+      <pubDate>Thu, 05 Mar 2026 01:02:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Context Rot in Claude Code: How I Built Automatic Context…</title>
+      <link>https://vincentvandeth.nl/blog/context-rot-claude-code-automatic-rotation</link>
+      <description>Claude Code sessions silently degrade when the context window fills up. I built a 3-hook pipeline that detects pressure, writes a handover, and rotates…</description>
+      <category>ai</category>
+      <category>rust</category>
+      <guid>https://vincentvandeth.nl/blog/context-rot-claude-code-automatic-rotation</guid>
+      <pubDate>Thu, 05 Mar 2026 01:02:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stop using pickle already. Seriously, stop it! — mina86.com</title>
+      <link>https://mina86.com/2026/pickle-should-be-a-war-crime/</link>
+      <description>Perusing glossy magazines,1 I was made aware of CVE-2024-2912 which describes how a POST request could lead to remote code execution (RCE) in BentoML servers. A feature most users would rather live without. Bugs happen and I don’t want to criticise the developers unjustly, but knowing the root of the issue was Python’s pickle module, I can only wonder: How the fuck is this still happening?</description>
+      <category>python</category>
+      <category>sql</category>
+      <guid>https://mina86.com/2026/pickle-should-be-a-war-crime/</guid>
+      <pubDate>Thu, 05 Mar 2026 01:02:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>The End of Eleventy</title>
+      <link>https://brennan.day/the-end-of-eleventy/</link>
+      <description>Build Awesome is a rebrand of 11ty/Eleventy, backed by a successful $40k Kickstarter. But this attempt to monetize static site generators repeats the same mistakes that killed Gatsby and Stackbit—and misunderstands who actually builds static sites.</description>
+      <author> (Brennan Kenneth Brown)</author>
+      <category>nodejs</category>
+      <category>ruby</category>
+      <category>visualstudio</category>
+      <category>javascript</category>
+      <category>web</category>
+      <guid>https://brennan.day/the-end-of-eleventy/</guid>
+      <pubDate>Thu, 05 Mar 2026 01:02:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Four months of Ruby Central moving Ruby backward</title>
+      <link>https://andre.arko.net/2026/03/03/four-months-of-ruby-central-moving-ruby-backward/</link>
+      <description>From the moment RubyGems was first created in 2004, Ruby Central provided governance without claiming ownership, to support the Ruby community. Providing governance meant creating processes to provide stability and predictability. Avoiding ownership meant allowing the community to contribute, to the point where unpaid volunteers created and controlled the entirety of RubyGems.org for many years.
+Last year, Ruby Central flipped that successful formula on its head. They now claim ownership of both Bundler and RubyGems, but refuse to provide governance. Ruby Central now claims sole control over all code and decisions, despite paying for only a few percent of the work required to create and sustain the projects across 22 years. Instead of providing stable and predictable processes, Ruby Central suddenly hijacked the Bundler and RubyGems codebases away from the existing maintainers, shut out the community, and started issuing the threats to sue.</description>
+      <category>ruby</category>
+      <guid>https://andre.arko.net/2026/03/03/four-months-of-ruby-central-moving-ruby-backward/</guid>
+      <pubDate>Thu, 05 Mar 2026 01:02:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Remove annoying banners (Maurycy's blog)</title>
+      <link>https://maurycyz.com/projects/fixsite/</link>
+      <description>This is a small javascript snippet that removes most annoying website elements:</description>
+      <category>nodejs</category>
+      <category>javascript</category>
+      <guid>https://maurycyz.com/projects/fixsite/</guid>
+      <pubDate>Thu, 05 Mar 2026 01:02:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>As Bad atime as Any: Every Read a Write</title>
+      <link>https://ben.enterprises/as-bad-atime-as-any</link>
+      <description>Against POSIX atime</description>
+      <category>linux</category>
+      <guid>https://ben.enterprises/as-bad-atime-as-any</guid>
+      <pubDate>Thu, 05 Mar 2026 01:02:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Autonomous Weapons vs a Nineteen-Year-Old at a Checkpoint | Cezar Cocu</title>
+      <link>https://cezarcocu.com/blog/autonomous-weapons-vs-a-nineteen-year-old-at-a-checkpoint/</link>
+      <description>Autonomous Weapons vs a Nineteen-Year-Old at a Checkpoint</description>
+      <category>ai</category>
+      <category>vscode</category>
+      <category>git</category>
+      <guid>https://cezarcocu.com/blog/autonomous-weapons-vs-a-nineteen-year-old-at-a-checkpoint/</guid>
+      <pubDate>Thu, 05 Mar 2026 01:02:18 GMT</pubDate>
+    </item>
+    <item>
       <title>DeFlock</title>
       <link>https://deflock.org/map#map=5/37.125286/-96.284180</link>
       <description>Find license plate readers (LPRs) near you.</description>
