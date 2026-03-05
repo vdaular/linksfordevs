@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Gabriele Svelto (@gabrielesvelto@mas.to)",
+    "Url": "https://mas.to/@gabrielesvelto/116171750653898304",
+    "Timestamp": "2026-03-05T04:02:04",
+    "Domain": "mas.to",
+    "Description": "A few years ago I designed a way to detect bit-flips in Firefox crash reports and last year we deployed an actual memory tester that runs on user machines after the browser crashes. Today I was looking at the data that comes out of these tests and now I'm 100% positive that the heuristic is sound and a lot of the crashes we see are from users with bad memory or similarly flaky hardware. Here's a few numbers to give you an idea of how large the problem is. 🧵 1/5",
+    "Confidence": 0.8840188
+  },
+  {
     "Title": "Denoising my life: Part 1",
     "Url": "https://adityashrishpuranik.com/writing/denoising-my-life",
     "Timestamp": "2026-03-05T01:03:59",
@@ -294,13 +302,5 @@
     "Domain": "grapheneos.social",
     "Description": "@luana@wetdry.world It will fully support using other operating systems including users making their own builds of GrapheneOS. It's part of our hardware requirements. We'll likely be able to make hardened builds of firmware and drivers which can be released in an official way for easy builds without needing to extract anything from the GrapheneOS or Motorola OS factory images.",
     "Confidence": 0.750331
-  },
-  {
-    "Title": "Lenovo’s New T&#x2d;Series ThinkPads Score 10/10 for Repairability",
-    "Url": "https://www.ifixit.com/News/115827/new-thinkpads-score-perfect-10-repairability",
-    "Timestamp": "2026-03-04T04:02:05",
-    "Domain": "www.ifixit.com",
-    "Description": "Repair goes mega mainstream with the launch of Lenovo’s new T&#x2d;series business laptops, which earned our highest honor with a 10/10 repairability score.",
-    "Confidence": 0.84394735
   }
 ]
