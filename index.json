@@ -1,5 +1,21 @@
 [
   {
+    "Title": "A GitHub Issue Title Compromised 4,000 Developer Machines",
+    "Url": "https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another",
+    "Timestamp": "2026-03-05T23:02:12",
+    "Domain": "grith.ai",
+    "Description": "A prompt injection in a GitHub issue triggered a chain reaction that ended with 4,000 developers getting OpenClaw installed without consent. The attack composes well-understood vulnerabilities into something new: one AI tool bootstrapping another.",
+    "Confidence": 0.96206564
+  },
+  {
+    "Title": "The Government Uses Targeted Advertising to Track Your Location. Here's What We Need to Do.",
+    "Url": "https://www.eff.org/deeplinks/2026/03/targeted-advertising-gives-your-location-government-just-ask-cbp",
+    "Timestamp": "2026-03-05T23:02:08",
+    "Domain": "www.eff.org",
+    "Description": "The online advertising industry has built a massive surveillance machine, and the government can co-opt it to spy on us.",
+    "Confidence": 0.940285
+  },
+  {
     "Title": "Wikimedia Status",
     "Url": "https://www.wikimediastatus.net/",
     "Timestamp": "2026-03-05T18:02:03",
