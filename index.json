@@ -286,13 +286,5 @@
     "Domain": "idiallo.com",
     "Description": "I have a hard time listening to music while working. I know a lot of people do it, but whenever I need to focus on a problem, I have to hunt down the tab playing music and pause it. And yet I still we",
     "Confidence": 0.98806834
-  },
-  {
-    "Title": "Unmasking Epstein: My Open Source AI Tool",
-    "Url": "https://youtu.be/mKK9VPito-E",
-    "Timestamp": "2026-03-04T09:01:58",
-    "Domain": "youtu.be",
-    "Description": "This video is about a problem that has been considered unsolvable: the permanent redaction of the Epstein case files. As an engineer, I don't see a black bar as a dead end—I see it as a geometry problem with a data-driven solution.\n\nIn this video, I demonstrate Unredact, a tool I built to reverse-engineer these redactions using a multi-phase algorithm that layers OCR, Computer Vision, and AI. By cross-referencing the physical dimensions of the redaction boxes against known typography and massive datasets, we can move past speculation and into forensic reality.\n\nThe goal of this project is simple: accountability. If the data exists to uncover the truth, that data should be accessible to the public. To that end, Unredact is now fully open-source.\n\nCredits & Resources\nThis project was built on the shoulders of these incredible investigators:\n\nInspiration: Huge thanks to @EpsteinSleuther. Her methodology and deep-dives into these files provided the blueprint for how I structured this application’s detection logic.\n\nChannel: https://www.youtube.com/@EpsteinSleuther\n\nData Source: This tool wouldn't be possible without the work of R. Howard Stone, whose research and associate data provided the essential validation sets for the algorithm.\n\nData Repo: https://github.com/rhowardstone/Epstein-research-data\n\nGet the Tool\nYou can find the code, the logic breakdown, and the contribution guidelines on GitHub. I’m making this available to everyone so we can collectively ensure these names don't stay hidden forever.\n\nProject Repo: https://github.com/Alex-Gilbert/unredact\n\n#EpsteinFiles #Forensics #OpenSource #DataScience #Unredact",
-    "Confidence": 0.9811485
   }
 ]
