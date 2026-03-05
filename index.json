@@ -270,13 +270,5 @@
     "Domain": "xkcd.com",
     "Description": "",
     "Confidence": 0.98151064
-  },
-  {
-    "Title": "Agentic Engineering Patterns - Simon Willison's Weblog",
-    "Url": "https://simonwillison.net/guides/agentic-engineering-patterns/",
-    "Timestamp": "2026-03-04T14:01:45",
-    "Domain": "simonwillison.net",
-    "Description": "Sponsored by: Augment Code — Agent Orchestration. Living Specs. Your favorite agents. Build with Intent.",
-    "Confidence": 0.99171466
   }
 ]
