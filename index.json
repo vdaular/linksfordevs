@@ -262,13 +262,5 @@
     "Domain": "www.apple.com",
     "Description": "Apple today unveiled MacBook Neo, an all-new laptop that delivers the magic of the Mac at a breakthrough price.",
     "Confidence": 0.95675826
-  },
-  {
-    "Title": "Solar Warning",
-    "Url": "https://xkcd.com/3215/",
-    "Timestamp": "2026-03-04T15:02:02",
-    "Domain": "xkcd.com",
-    "Description": "",
-    "Confidence": 0.98151064
   }
 ]
