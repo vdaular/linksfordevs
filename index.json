@@ -302,13 +302,5 @@
     "Domain": "www.ifixit.com",
     "Description": "Repair goes mega mainstream with the launch of Lenovo’s new T&#x2d;series business laptops, which earned our highest honor with a 10/10 repairability score.",
     "Confidence": 0.84394735
-  },
-  {
-    "Title": "Intel's make-or-break 18A process node debuts for data center with 288-core Xeon 6+ CPU — multi-chip monster sports 12 channels of DDR5-8000, Foveros Direct 3D packaging tech",
-    "Url": "https://www.tomshardware.com/pc-components/cpus/intels-make-or-break-18a-process-node-debuts-for-data-center-with-288-core-xeon-6-cpu-multi-chip-monster-sports-12-channels-of-ddr5-8000-foveros-direct-3d-packaging-tech",
-    "Timestamp": "2026-03-04T03:02:04",
-    "Domain": "www.tomshardware.com",
-    "Description": "Intel unveils x86 CPU with the industry's highest core count.",
-    "Confidence": 0.9821412
   }
 ]
