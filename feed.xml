@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>GitHub - googleworkspace/cli: Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.</title>
+      <link>https://github.com/googleworkspace/cli</link>
+      <description>Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills. - googlework...</description>
+      <category>nodejs</category>
+      <category>javascript</category>
+      <category>ai</category>
+      <category>vscode</category>
+      <category>web</category>
+      <guid>https://github.com/googleworkspace/cli</guid>
+      <pubDate>Thu, 05 Mar 2026 05:02:01 GMT</pubDate>
+    </item>
+    <item>
       <title>Gabriele Svelto (@gabrielesvelto@mas.to)</title>
       <link>https://mas.to/@gabrielesvelto/116171750653898304</link>
       <description>A few years ago I designed a way to detect bit-flips in Firefox crash reports and last year we deployed an actual memory tester that runs on user machines after the browser crashes. Today I was looking at the data that comes out of these tests and now I'm 100% positive that the heuristic is sound and a lot of the crashes we see are from users with bad memory or similarly flaky hardware. Here's a few numbers to give you an idea of how large the problem is. 🧵 1/5</description>
@@ -387,24 +399,6 @@ Project Repo: https://github.com/Alex-Gilbert/unredact
       <category>git</category>
       <guid>https://youtu.be/mKK9VPito-E</guid>
       <pubDate>Wed, 04 Mar 2026 09:01:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>I Put a Full JVM Inside a Browser Tab. It "Works". Technically. Eventually.</title>
-      <link>https://bmarti44.substack.com/p/i-put-a-full-jvm-inside-a-browser</link>
-      <description>There is an entire Linux kernel in there and it takes 55 seconds to print Hello World</description>
-      <category>web</category>
-      <category>cloud</category>
-      <category>linux</category>
-      <category>javascript</category>
-      <guid>https://bmarti44.substack.com/p/i-put-a-full-jvm-inside-a-browser</guid>
-      <pubDate>Wed, 04 Mar 2026 05:02:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>GrapheneOS (@GrapheneOS@grapheneos.social)</title>
-      <link>https://grapheneos.social/@GrapheneOS/116160393783585567</link>
-      <description>@luana@wetdry.world It will fully support using other operating systems including users making their own builds of GrapheneOS. It's part of our hardware requirements. We'll likely be able to make hardened builds of firmware and drivers which can be released in an official way for easy builds without needing to extract anything from the GrapheneOS or Motorola OS factory images.</description>
-      <guid>https://grapheneos.social/@GrapheneOS/116160393783585567</guid>
-      <pubDate>Wed, 04 Mar 2026 05:02:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
