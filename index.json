@@ -246,13 +246,5 @@
     "Domain": "cezarcocu.com",
     "Description": "Autonomous Weapons vs a Nineteen-Year-Old at a Checkpoint",
     "Confidence": 0.9113497
-  },
-  {
-    "Title": "DeFlock",
-    "Url": "https://deflock.org/map#map=5/37.125286/-96.284180",
-    "Timestamp": "2026-03-04T21:02:11",
-    "Domain": "deflock.org",
-    "Description": "Find license plate readers (LPRs) near you.",
-    "Confidence": 0.98150176
   }
 ]
