@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Wikimedia Status</title>
+      <link>https://www.wikimediastatus.net/</link>
+      <description>Welcome to Wikimedia's home for real-time and historical data on system performance.</description>
+      <category>sql</category>
+      <guid>https://www.wikimediastatus.net/</guid>
+      <pubDate>Thu, 05 Mar 2026 18:02:03 GMT</pubDate>
+    </item>
+    <item>
       <title>The L in "LLM" Stands for Lying</title>
       <link>https://acko.net/blog/the-l-in-llm-stands-for-lying/</link>
       <description>Questioning the frame of inevitability in use of AI</description>
@@ -310,15 +318,6 @@ Last year, Ruby Central flipped that successful formula on its head. They now cl
       <description>Find license plate readers (LPRs) near you.</description>
       <guid>https://deflock.org/map#map=5/37.125286/-96.284180</guid>
       <pubDate>Wed, 04 Mar 2026 21:02:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Something is afoot in the land of Qwen</title>
-      <link>https://simonwillison.net/2026/Mar/4/qwen/</link>
-      <description>I’m behind on writing about Qwen 3.5, a truly remarkable family of open weight models released by Alibaba’s Qwen team over the past few weeks. I’m hoping that the 3.5 …</description>
-      <category>apple</category>
-      <category>ai</category>
-      <guid>https://simonwillison.net/2026/Mar/4/qwen/</guid>
-      <pubDate>Wed, 04 Mar 2026 19:02:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
