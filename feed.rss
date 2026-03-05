@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The L in "LLM" Stands for Lying</title>
+      <link>https://acko.net/blog/the-l-in-llm-stands-for-lying/</link>
+      <description>Questioning the frame of inevitability in use of AI</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <category>encryption</category>
+      <category>javascript</category>
+      <category>cloud</category>
+      <guid>https://acko.net/blog/the-l-in-llm-stands-for-lying/</guid>
+      <pubDate>Thu, 05 Mar 2026 13:02:17 GMT</pubDate>
+    </item>
+    <item>
       <title>GitHub - googleworkspace/cli: Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.</title>
       <link>https://github.com/googleworkspace/cli</link>
       <description>Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills. - googlework...</description>
@@ -335,30 +347,6 @@ Last year, Ruby Central flipped that successful formula on its head. They now cl
       <category>ai</category>
       <guid>https://simonwillison.net/guides/agentic-engineering-patterns/</guid>
       <pubDate>Wed, 04 Mar 2026 14:01:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Make Your .NET Tests Insanely Faster</title>
-      <link>https://youtube.com/watch?v=eE7PWWV1ykE</link>
-      <description>Get every Dometrain 30% off with code HANDSON30: https://dometrain.com/courses/?ref=nick-chapsas&amp;promo=youtube&amp;coupon_code=HANDSON30
-
-Hello, everybody. I'm Nick, and in this video, I will talk about a new mocking library called Imposter that can speed up your .NET tests significantly and reduce their memory footprint.
-
-Give Imposter a star on GitHub: https://github.com/themidnightgospel/Imposter
-
-Don't forget to comment, like and subscribe :)
-
-Social Media:
-Follow me on GitHub: https://github.com/Elfocrash
-Follow me on Twitter: https://twitter.com/nickchapsas
-Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas
-
-#csharp #dotnet</description>
-      <author> (Nick Chapsas)</author>
-      <category>dotnet</category>
-      <category>youtube</category>
-      <category>git</category>
-      <guid>https://youtube.com/watch?v=eE7PWWV1ykE</guid>
-      <pubDate>Wed, 04 Mar 2026 13:01:32 GMT</pubDate>
     </item>
   </channel>
 </rss>
