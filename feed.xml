@@ -209,27 +209,5 @@ I pinged him on LinkedIn inquiring about the build (I wasn't the only one!), and
       <guid>https://jusung.dev/posts/tailscale-wsl/</guid>
       <pubDate>Fri, 06 Mar 2026 01:02:06 GMT</pubDate>
     </item>
-    <item>
-      <title>A GitHub Issue Title Compromised 4,000 Developer Machines</title>
-      <link>https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another</link>
-      <description>A prompt injection in a GitHub issue triggered a chain reaction that ended with 4,000 developers getting OpenClaw installed without consent. The attack composes well-understood vulnerabilities into something new: one AI tool bootstrapping another.</description>
-      <author> (grith team)</author>
-      <category>ai</category>
-      <category>javascript</category>
-      <category>nodejs</category>
-      <category>vscode</category>
-      <category>git</category>
-      <guid>https://grith.ai/blog/clinejection-when-your-ai-tool-installs-another</guid>
-      <pubDate>Thu, 05 Mar 2026 23:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Government Uses Targeted Advertising to Track Your Location. Here's What We Need to Do.</title>
-      <link>https://www.eff.org/deeplinks/2026/03/targeted-advertising-gives-your-location-government-just-ask-cbp</link>
-      <description>The online advertising industry has built a massive surveillance machine, and the government can co-opt it to spy on us.</description>
-      <category>apple</category>
-      <category>android</category>
-      <guid>https://www.eff.org/deeplinks/2026/03/targeted-advertising-gives-your-location-government-just-ask-cbp</guid>
-      <pubDate>Thu, 05 Mar 2026 23:02:08 GMT</pubDate>
-    </item>
   </channel>
 </rss>
