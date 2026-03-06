@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Where things stand with the Department of War",
+    "Url": "https://www.anthropic.com/news/where-stand-department-war",
+    "Timestamp": "2026-03-06T04:02:11",
+    "Domain": "www.anthropic.com",
+    "Description": "A statement from Dario Amodei",
+    "Confidence": 0.7148896
+  },
+  {
     "Title": "pg_plan_advice: Plan Stability and User Planner Control for PostgreSQL?",
     "Url": "http://rhaas.blogspot.com/2026/03/pgplanadvice-plan-stability-and-user.html",
     "Timestamp": "2026-03-06T01:03:01",
@@ -150,13 +158,5 @@
     "Domain": "github.com",
     "Description": "Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills. - googlework...",
     "Confidence": 0.99911
-  },
-  {
-    "Title": "Gabriele Svelto (@gabrielesvelto@mas.to)",
-    "Url": "https://mas.to/@gabrielesvelto/116171750653898304",
-    "Timestamp": "2026-03-05T04:02:04",
-    "Domain": "mas.to",
-    "Description": "A few years ago I designed a way to detect bit-flips in Firefox crash reports and last year we deployed an actual memory tester that runs on user machines after the browser crashes. Today I was looking at the data that comes out of these tests and now I'm 100% positive that the heuristic is sound and a lot of the crashes we see are from users with bad memory or similarly flaky hardware. Here's a few numbers to give you an idea of how large the problem is. 🧵 1/5",
-    "Confidence": 0.8840188
   }
 ]

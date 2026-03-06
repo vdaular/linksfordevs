@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Where things stand with the Department of War</title>
+      <link>https://www.anthropic.com/news/where-stand-department-war</link>
+      <description>A statement from Dario Amodei</description>
+      <category>ai</category>
+      <guid>https://www.anthropic.com/news/where-stand-department-war</guid>
+      <pubDate>Fri, 06 Mar 2026 04:02:11 GMT</pubDate>
+    </item>
+    <item>
       <title>pg_plan_advice: Plan Stability and User Planner Control for PostgreSQL?</title>
       <link>http://rhaas.blogspot.com/2026/03/pgplanadvice-plan-stability-and-user.html</link>
       <description>I'm proposing a very ambitious patch set for PostgreSQL 19. Only time will tell whether it ends up in the release, but I can't resist using ...</description>
@@ -185,14 +193,6 @@
       <category>web</category>
       <guid>https://github.com/googleworkspace/cli</guid>
       <pubDate>Thu, 05 Mar 2026 05:02:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gabriele Svelto (@gabrielesvelto@mas.to)</title>
-      <link>https://mas.to/@gabrielesvelto/116171750653898304</link>
-      <description>A few years ago I designed a way to detect bit-flips in Firefox crash reports and last year we deployed an actual memory tester that runs on user machines after the browser crashes. Today I was looking at the data that comes out of these tests and now I'm 100% positive that the heuristic is sound and a lot of the crashes we see are from users with bad memory or similarly flaky hardware. Here's a few numbers to give you an idea of how large the problem is. 🧵 1/5</description>
-      <category>gaming</category>
-      <guid>https://mas.to/@gabrielesvelto/116171750653898304</guid>
-      <pubDate>Thu, 05 Mar 2026 04:02:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
