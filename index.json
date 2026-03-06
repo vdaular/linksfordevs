@@ -158,13 +158,5 @@
     "Domain": "www.wikimediastatus.net",
     "Description": "Welcome to Wikimedia's home for real-time and historical data on system performance.",
     "Confidence": 0.9468897
-  },
-  {
-    "Title": "The L in \"LLM\" Stands for Lying",
-    "Url": "https://acko.net/blog/the-l-in-llm-stands-for-lying/",
-    "Timestamp": "2026-03-05T13:02:17",
-    "Domain": "acko.net",
-    "Description": "Questioning the frame of inevitability in use of AI",
-    "Confidence": 0.94786894
   }
 ]
