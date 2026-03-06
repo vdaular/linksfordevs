@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Global Warming has Accelerated Significantly</title>
+      <link>https://www.researchsquare.com/article/rs-6079807/v1</link>
+      <description>Recent record-hot years have caused a discussion whether global
+warming has accelerated, but previous analysis found that acceleration has
+not yet reached a 95% confidence level given the natural temperature
+variability. Here we account for the influence of three main natural variability
+fact...</description>
+      <guid>https://www.researchsquare.com/article/rs-6079807/v1</guid>
+      <pubDate>Fri, 06 Mar 2026 20:01:57 GMT</pubDate>
+    </item>
+    <item>
       <title>Hardening Firefox with Anthropic’s Red Team  | The Mozilla Blog</title>
       <link>https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/</link>
       <description>For more than two decades, Firefox has been one of the most scrutinized and security-hardened codebases on the web. Open source means our code is visible,</description>
