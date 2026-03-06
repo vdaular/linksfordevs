@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Hardening Firefox with Anthropic’s Red Team  | The Mozilla Blog</title>
+      <link>https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/</link>
+      <description>For more than two decades, Firefox has been one of the most scrutinized and security-hardened codebases on the web. Open source means our code is visible,</description>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/</guid>
+      <pubDate>Fri, 06 Mar 2026 18:01:59 GMT</pubDate>
+    </item>
+    <item>
       <title>A PTP Wall Clock is impractical and a little too precise</title>
       <link>https://www.jeffgeerling.com/blog/2026/ptp-wall-clock-impractical-too-precise/</link>
       <description>After seeing Oliver Ettlin's 39C3 presentation Excuse me, what precise time is It?, I wanted to replicate the PTP (Precision Time Protocol) clock he used live to demonstrate PTP clock sync:
@@ -198,14 +207,6 @@ I pinged him on LinkedIn inquiring about the build (I wasn't the only one!), and
       <category>android</category>
       <guid>https://www.eff.org/deeplinks/2026/03/targeted-advertising-gives-your-location-government-just-ask-cbp</guid>
       <pubDate>Thu, 05 Mar 2026 23:02:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wikimedia Status</title>
-      <link>https://www.wikimediastatus.net/</link>
-      <description>Welcome to Wikimedia's home for real-time and historical data on system performance.</description>
-      <category>sql</category>
-      <guid>https://www.wikimediastatus.net/</guid>
-      <pubDate>Thu, 05 Mar 2026 18:02:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
