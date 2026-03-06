@@ -182,17 +182,5 @@
       <guid>https://acko.net/blog/the-l-in-llm-stands-for-lying/</guid>
       <pubDate>Thu, 05 Mar 2026 13:02:17 GMT</pubDate>
     </item>
-    <item>
-      <title>GitHub - googleworkspace/cli: Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills.</title>
-      <link>https://github.com/googleworkspace/cli</link>
-      <description>Google Workspace CLI — one command-line tool for Drive, Gmail, Calendar, Sheets, Docs, Chat, Admin, and more. Dynamically built from Google Discovery Service. Includes AI agent skills. - googlework...</description>
-      <category>nodejs</category>
-      <category>javascript</category>
-      <category>ai</category>
-      <category>vscode</category>
-      <category>web</category>
-      <guid>https://github.com/googleworkspace/cli</guid>
-      <pubDate>Thu, 05 Mar 2026 05:02:01 GMT</pubDate>
-    </item>
   </channel>
 </rss>
