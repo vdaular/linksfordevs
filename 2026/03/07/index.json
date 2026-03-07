@@ -1,0 +1,128 @@
+[
+  {
+    "Title": "You Can't Hide a Secret from a Process That Runs as You",
+    "Url": "https://danielepolencic.com/hiding-secrets-from-ai-agents",
+    "Timestamp": "2026-03-07T00:03:10",
+    "Domain": "danielepolencic.com",
+    "Description": "I tried six different approaches to protect my credentials from an AI coding agent. Encrypted files, keychain, ACLs, Touch ID, a native addon, sandboxes. Every one failed for the same reason."
+  },
+  {
+    "Title": "What Requests Taught Me About Marriage",
+    "Url": "https://kennethreitz.org/essays/2026-03-06-what_requests_taught_me_about_marriage",
+    "Timestamp": "2026-03-07T00:03:06",
+    "Domain": "kennethreitz.org",
+    "Description": "I have spent fifteen years thinking about how humans interact with systems. It started with HTTP libraries and somehow ended up at consciousness research,..."
+  },
+  {
+    "Title": "Your Docs Directory Is Doomed",
+    "Url": "https://yagmin.com/blog/your-docs-directory-is-doomed/",
+    "Timestamp": "2026-03-07T00:03:02",
+    "Domain": "yagmin.com",
+    "Description": "Maybe you started with a modest CLAUDE.md or AGENTS.md, which you meaningfully crafted over time. Then you adding some core docs (which was best practice anyway), like ARCHITECTURE.md. Before you knew it, you were writing massive specs and generating full-blown features. A lot of those specs shared"
+  },
+  {
+    "Title": "Mycelium Framework",
+    "Url": "https://mycelium-clj.github.io/docs/guestbook.html",
+    "Timestamp": "2026-03-07T00:02:59",
+    "Domain": "mycelium-clj.github.io",
+    "Description": "Mycelium - Schema-enforced, workflow-driven web framework for Clojure"
+  },
+  {
+    "Title": "The Personal Software Era | Robert DeLuca | Software Engineer",
+    "Url": "https://robertdelu.ca/2026/02/02/personal-software-era/",
+    "Timestamp": "2026-03-07T00:02:56",
+    "Domain": "robertdelu.ca",
+    "Description": "We’re entering a personal software era where people are replacing generic SaaS with tools tailored to their exact workflow."
+  },
+  {
+    "Title": "\"We ran out of columns\"",
+    "Url": "https://jimmyhmiller.com/ugliest-beautiful-codebase",
+    "Timestamp": "2026-03-07T00:02:53",
+    "Domain": "jimmyhmiller.com",
+    "Description": "Oh the merchants2 table? Yeah, we ran out of columns on merchants, so we made merchants2"
+  },
+  {
+    "Title": "Close Enough to See",
+    "Url": "https://pablooliva.de/the-closing-window/close-enough-to-see/",
+    "Timestamp": "2026-03-07T00:02:50",
+    "Domain": "pablooliva.de",
+    "Description": "From the dot-com bubble to mortgage fraud to Nord Stream to a livestreamed genocide, I've spent my life inside the systems that exploit people — across continents. This is what it looks like when the pattern finally clicks."
+  },
+  {
+    "Title": "Turning Codebase Antipatterns into Claude Skills",
+    "Url": "https://ihoka.me/blog/2026/03/06/turning-antipatterns-into-claude-skills.html",
+    "Timestamp": "2026-03-07T00:02:46",
+    "Domain": "ihoka.me",
+    "Description": "I spent a morning last week auditing a Rails codebase for string-based HTML construction in JavaScript controllers. Forty violations across twelve files. The same antipattern, copy-pasted and mutated over months, each instance a small act of forgetting that a better way existed."
+  },
+  {
+    "Title": "I Checked 5 Security Skills for Claude Code. Only One Is Worth Installing",
+    "Url": "https://timonweb.com/ai/i-checked-5-security-skills-for-claude-code-only-one-is-worth-installing/",
+    "Timestamp": "2026-03-07T00:02:43",
+    "Domain": "timonweb.com",
+    "Description": "I Checked 5 Security Skills for Claude Code. Only One Is Worth Installing."
+  },
+  {
+    "Title": "Always Building, Never Shipping",
+    "Url": "https://danielgrant.co/posts/always-building-never-shipping",
+    "Timestamp": "2026-03-07T00:02:40",
+    "Domain": "danielgrant.co",
+    "Description": "It is winter in Narnia, and has been for ever so long…. always winter, but never Christmas."
+  },
+  {
+    "Title": "matduggan.com",
+    "Url": "https://matduggan.com/boy-i-was-wrong-about-the-fediverse/",
+    "Timestamp": "2026-03-07T00:02:36",
+    "Domain": "matduggan.com",
+    "Description": "It's JSON all the way down"
+  },
+  {
+    "Title": "Remembering mayhem – MetaBrainz Blog",
+    "Url": "https://blog.metabrainz.org/2026/03/05/remembering-mayhem/",
+    "Timestamp": "2026-03-07T00:02:33",
+    "Domain": "blog.metabrainz.org",
+    "Description": "Rob Kaye (also known to the community and his peers as ruaok and mayhem) was many things. Friend, partner, colleague, ‘that guy with the crazy hair’, hacker, burner, visionary and much more. And always a source of creative mayhem!"
+  },
+  {
+    "Title": "Claude Code's Edit Tool Wastes Your Most Expensive Tokens. Here's a Fix.",
+    "Url": "https://www.wormbytes.ca/2026/03/04/trueline-mcp-announcement/",
+    "Timestamp": "2026-03-07T00:02:28",
+    "Domain": "www.wormbytes.ca",
+    "Description": "You’re deep into a Claude Code session. The agent is humming along, editing files, and making progress."
+  },
+  {
+    "Title": "Sonarly - The AI that fixes prod",
+    "Url": "https://sonarly.com/blog/how-my-agent-built-its-own-tool",
+    "Timestamp": "2026-03-07T00:02:24",
+    "Domain": "sonarly.com",
+    "Description": "AI agents that triage your alerts and fix bugs with full context of your production system."
+  },
+  {
+    "Title": "The Start-Stop Problem",
+    "Url": "https://kramkarthik.com/the-start-stop-problem/",
+    "Timestamp": "2026-03-07T00:02:20",
+    "Domain": "kramkarthik.com",
+    "Description": "In the typical world, in which a wide range of dopamine pumping entertainment is available on your fingertip and the temptation is to scroll for instant gratification, if you're going to get yourself to do something meaningful, then you have to offer an experience that's as good as an Instagram reel or better. What does that mean? It means you need to offer yourself two things simultaneously: there needs to be a way to start doing what you strive to as quickly as possble without any friction, and the act of starting should have immediately results that can be experienced."
+  },
+  {
+    "Title": "DTOs at the Speed of Plain PHP – DerEuroMark",
+    "Url": "https://www.dereuromark.de/2026/03/02/dtos-at-the-speed-of-plain-php/",
+    "Timestamp": "2026-03-07T00:02:17",
+    "Domain": "www.dereuromark.de",
+    "Description": "Zero Reflection, Zero Regrets"
+  },
+  {
+    "Title": "The Next Coding Interface is a Canvas",
+    "Url": "https://blog.abdellatif.io/the-next-coding-interface-is-a-canvas",
+    "Timestamp": "2026-03-07T00:02:12",
+    "Domain": "blog.abdellatif.io",
+    "Description": "IDE → Terminal → Canvas I've been experimenting this week with AI-native Figma alternatives like pencil.dev and paper.design. You describe the product, and t..."
+  },
+  {
+    "Title": "Async Programming Is Just @Inject Time — Will Richardson",
+    "Url": "https://willhbr.net/2026/03/02/async-inject-and-effects/",
+    "Timestamp": "2026-03-07T00:02:09",
+    "Domain": "willhbr.net",
+    "Description": "All I really wanted to do was learn a little bit more about different models for error handling, but then I kept seeing “effects” and “effect systems” mentioned, and after reading about Koka and Effekt I think I’ve been converted. I want effects now. So here’s what I wished I could have read a few weeks ago. To start with, you need to remember that functions don’t exist. They’re made up. They’re a social construct. Your CPU doesn’t know or..."
+  }
+]
