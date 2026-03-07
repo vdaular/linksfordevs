@@ -190,13 +190,5 @@
     "Domain": "www.seangoedecke.com",
     "Description": "In 2021, being a good software engineer felt great. The world was full of software, with more companies arriving every year who needed to employ engineers to write their code and run their systems. I knew I was good at it, and I knew I could keep doing it for as long as I wanted to. The work I loved would not run out.",
     "Confidence": 0.97246575
-  },
-  {
-    "Title": "System76 on Age Verification Laws",
-    "Url": "https://blog.system76.com/post/system76-on-age-verification/",
-    "Timestamp": "2026-03-06T09:01:58",
-    "Domain": "blog.system76.com",
-    "Description": "Liberty has costs, but it's worth it.",
-    "Confidence": 0.9660839
   }
 ]
