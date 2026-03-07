@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Announcing Rust 1.94.0 | Rust Blog",
+    "Url": "https://blog.rust-lang.org/2026/03/05/Rust-1.94.0/",
+    "Timestamp": "2026-03-07T10:02:11",
+    "Domain": "blog.rust-lang.org",
+    "Description": "Empowering everyone to build reliable and efficient software.",
+    "Confidence": 0.9986296
+  },
+  {
+    "Title": "this css proves me human",
+    "Url": "https://will-keleher.com/posts/this-css-makes-me-human/",
+    "Timestamp": "2026-03-07T10:02:07",
+    "Domain": "will-keleher.com",
+    "Description": "I don't think I can build a fence with these posts...",
+    "Confidence": 0.9956802
+  },
+  {
     "Title": "You Can't Hide a Secret from a Process That Runs as You",
     "Url": "https://danielepolencic.com/hiding-secrets-from-ai-agents",
     "Timestamp": "2026-03-07T00:03:10",

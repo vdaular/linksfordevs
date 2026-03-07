@@ -7,6 +7,22 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Announcing Rust 1.94.0 | Rust Blog</title>
+      <link>https://blog.rust-lang.org/2026/03/05/Rust-1.94.0/</link>
+      <description>Empowering everyone to build reliable and efficient software.</description>
+      <category>rust</category>
+      <guid>https://blog.rust-lang.org/2026/03/05/Rust-1.94.0/</guid>
+      <pubDate>Sat, 07 Mar 2026 10:02:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>this css proves me human</title>
+      <link>https://will-keleher.com/posts/this-css-makes-me-human/</link>
+      <description>I don't think I can build a fence with these posts...</description>
+      <category>web</category>
+      <guid>https://will-keleher.com/posts/this-css-makes-me-human/</guid>
+      <pubDate>Sat, 07 Mar 2026 10:02:07 GMT</pubDate>
+    </item>
+    <item>
       <title>You Can't Hide a Secret from a Process That Runs as You</title>
       <link>https://danielepolencic.com/hiding-secrets-from-ai-agents</link>
       <description>I tried six different approaches to protect my credentials from an AI coding agent. Encrypted files, keychain, ACLs, Touch ID, a native addon, sandboxes. Every one failed for the same reason.</description>
