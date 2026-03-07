@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Ki Editor | Ki Editor",
+    "Url": "https://ki-editor.org/",
+    "Timestamp": "2026-03-07T18:02:09",
+    "Domain": "ki-editor.org",
+    "Description": "Multi-cursor structural editor",
+    "Confidence": 0.9565817
+  },
+  {
+    "Title": "Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues * TorrentFreak",
+    "Url": "https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/",
+    "Timestamp": "2026-03-07T18:02:06",
+    "Domain": "torrentfreak.com",
+    "Description": "In an ongoing lawsuit, Meta now argues that uploading pirated books to strangers via BitTorrent qualifies as fair use.",
+    "Confidence": 0.69928944
+  },
+  {
     "Title": "Announcing Rust 1.94.0 | Rust Blog",
     "Url": "https://blog.rust-lang.org/2026/03/05/Rust-1.94.0/",
     "Timestamp": "2026-03-07T10:02:11",
@@ -174,13 +190,5 @@
     "Domain": "www.researchsquare.com",
     "Description": "Recent record-hot years have caused a discussion whether global\r\nwarming has accelerated, but previous analysis found that acceleration has\r\nnot yet reached a 95% confidence level given the natural temperature\r\nvariability. Here we account for the influence of three main natural variability\r\nfact...",
     "Confidence": 0.9652642
-  },
-  {
-    "Title": "Hardening Firefox with Anthropic’s Red Team  | The Mozilla Blog",
-    "Url": "https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/",
-    "Timestamp": "2026-03-06T18:01:59",
-    "Domain": "blog.mozilla.org",
-    "Description": "For more than two decades, Firefox has been one of the most scrutinized and security-hardened codebases on the web. Open source means our code is visible,",
-    "Confidence": 0.9383418
   }
 ]

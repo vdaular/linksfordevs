@@ -7,6 +7,22 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Ki Editor | Ki Editor</title>
+      <link>https://ki-editor.org/</link>
+      <description>Multi-cursor structural editor</description>
+      <category>nodejs</category>
+      <guid>https://ki-editor.org/</guid>
+      <pubDate>Sat, 07 Mar 2026 18:02:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Uploading Pirated Books via BitTorrent Qualifies as Fair Use, Meta Argues * TorrentFreak</title>
+      <link>https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/</link>
+      <description>In an ongoing lawsuit, Meta now argues that uploading pirated books to strangers via BitTorrent qualifies as fair use.</description>
+      <category>ai</category>
+      <guid>https://torrentfreak.com/uploading-pirated-books-via-bittorrent-qualifies-as-fair-use-meta/</guid>
+      <pubDate>Sat, 07 Mar 2026 18:02:06 GMT</pubDate>
+    </item>
+    <item>
       <title>Announcing Rust 1.94.0 | Rust Blog</title>
       <link>https://blog.rust-lang.org/2026/03/05/Rust-1.94.0/</link>
       <description>Empowering everyone to build reliable and efficient software.</description>
@@ -215,15 +231,6 @@ variability. Here we account for the influence of three main natural variability
 fact...</description>
       <guid>https://www.researchsquare.com/article/rs-6079807/v1</guid>
       <pubDate>Fri, 06 Mar 2026 20:01:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hardening Firefox with Anthropic’s Red Team  | The Mozilla Blog</title>
-      <link>https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/</link>
-      <description>For more than two decades, Firefox has been one of the most scrutinized and security-hardened codebases on the web. Open source means our code is visible,</description>
-      <category>ai</category>
-      <category>javascript</category>
-      <guid>https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/</guid>
-      <pubDate>Fri, 06 Mar 2026 18:01:59 GMT</pubDate>
     </item>
   </channel>
 </rss>
