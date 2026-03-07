@@ -225,15 +225,5 @@ fact...</description>
       <guid>https://blog.mozilla.org/en/firefox/hardening-firefox-anthropic-red-team/</guid>
       <pubDate>Fri, 06 Mar 2026 18:01:59 GMT</pubDate>
     </item>
-    <item>
-      <title>A PTP Wall Clock is impractical and a little too precise</title>
-      <link>https://www.jeffgeerling.com/blog/2026/ptp-wall-clock-impractical-too-precise/</link>
-      <description>After seeing Oliver Ettlin's 39C3 presentation Excuse me, what precise time is It?, I wanted to replicate the PTP (Precision Time Protocol) clock he used live to demonstrate PTP clock sync:
-I pinged him on LinkedIn inquiring about the build (I wasn't the only one!), and shortly thereafter, he published Gemini2350/ptp-wallclock, a repository with rough instructions for the build, and his C++ application to display PTP time (if available on the network) on a set of two LED matrix displays, using a Raspberry Pi.</description>
-      <category>git</category>
-      <category>gaming</category>
-      <guid>https://www.jeffgeerling.com/blog/2026/ptp-wall-clock-impractical-too-precise/</guid>
-      <pubDate>Fri, 06 Mar 2026 16:01:58 GMT</pubDate>
-    </item>
   </channel>
 </rss>
