@@ -182,13 +182,5 @@
     "Domain": "idiallo.com",
     "Description": "That's the answer I would always get from the lead developer on my team, many years ago. I wanted clear, concise answers from someone with experience, yet he never said \"Yes\" or \"No.\" It was always \"I",
     "Confidence": 0.8627413
-  },
-  {
-    "Title": "Global Warming has Accelerated Significantly",
-    "Url": "https://www.researchsquare.com/article/rs-6079807/v1",
-    "Timestamp": "2026-03-06T20:01:57",
-    "Domain": "www.researchsquare.com",
-    "Description": "Recent record-hot years have caused a discussion whether global\r\nwarming has accelerated, but previous analysis found that acceleration has\r\nnot yet reached a 95% confidence level given the natural temperature\r\nvariability. Here we account for the influence of three main natural variability\r\nfact...",
-    "Confidence": 0.9652642
   }
 ]
