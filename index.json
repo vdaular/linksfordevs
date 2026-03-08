@@ -190,13 +190,5 @@
     "Domain": "blog.raed.dev",
     "Description": "A collection of hacking stories from my high-school days in Tunisia. Some involve computers, most don't.",
     "Confidence": 0.8733764
-  },
-  {
-    "Title": "Why developers using AI are working longer hours",
-    "Url": "https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/",
-    "Timestamp": "2026-03-07T23:02:02",
-    "Domain": "www.scientificamerican.com",
-    "Description": "Studies find AI helps developers release more software—while logging longer hours and fixing problems after the code goes live",
-    "Confidence": 0.53436273
   }
 ]
