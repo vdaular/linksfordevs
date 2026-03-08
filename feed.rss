@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Warn about PyPy being not actively developed by konstin · Pull Request #17643 · astral-sh/uv</title>
+      <link>https://github.com/astral-sh/uv/pull/17643</link>
+      <description>It seems that PyPy is not being actively developed anymore and is phased out even by numpy (numpy/numpy#30416). There&amp;#39;s no official statement from the project, but the numpy issue is from a PyP...</description>
+      <category>python</category>
+      <category>javascript</category>
+      <category>git</category>
+      <guid>https://github.com/astral-sh/uv/pull/17643</guid>
+      <pubDate>Sun, 08 Mar 2026 15:02:02 GMT</pubDate>
+    </item>
+    <item>
       <title>Qwen3.5 - How to Run Locally Guide | Unsloth Documentation</title>
       <link>https://unsloth.ai/docs/models/qwen3.5</link>
       <description>Run the new Qwen3.5 LLMs including Medium: Qwen3.5-35B-A3B, 27B, 122B-A10B, Small: Qwen3.5-0.8B, 2B, 4B, 9B and 397B-A17B on your local device!</description>
