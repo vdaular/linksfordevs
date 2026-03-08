@@ -7,6 +7,134 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Will Claude Code ruin our team?</title>
+      <link>https://justinjackson.ca/claude-code-ruin</link>
+      <description>AI coding is blurring the lines between engineers, PMs, and designers. In the short-term, it's going to cause havoc. What happens long-term?</description>
+      <category>ai</category>
+      <guid>https://justinjackson.ca/claude-code-ruin</guid>
+      <pubDate>Sun, 08 Mar 2026 00:02:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lost in Technopolis</title>
+      <link>https://newartisans.com/2026/02/my-claude-code-toolkit/</link>
+      <description>RSS feed for John Wiegley's blog</description>
+      <category>git</category>
+      <category>ai</category>
+      <category>sql</category>
+      <category>rust</category>
+      <category>encryption</category>
+      <guid>https://newartisans.com/2026/02/my-claude-code-toolkit/</guid>
+      <pubDate>Sun, 08 Mar 2026 00:02:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>LLMs - Solvers vs Judges</title>
+      <link>https://bensantora.com/posts/llms-solvers-vs-judges/</link>
+      <description>Do LLMs solve unsolvable puzzles or flag the contradiction? Testing ChatGPT, Gemini, KIMI, and others with an impossible logic puzzle reveals whether models prioritize helpfulness over truth.</description>
+      <category>ruby</category>
+      <category>ai</category>
+      <guid>https://bensantora.com/posts/llms-solvers-vs-judges/</guid>
+      <pubDate>Sun, 08 Mar 2026 00:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why All-in-One Productivity Apps Keep Failing | Journal it!</title>
+      <link>https://home.journalit.app/blog/why-productivity-apps-fail</link>
+      <description>All-in-one productivity apps promise everything but keep disappointing. Five design traps explain why — and what solving personal productivity actually requires.</description>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://home.journalit.app/blog/why-productivity-apps-fail</guid>
+      <pubDate>Sun, 08 Mar 2026 00:02:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>My Homemade Robot Nag</title>
+      <link>https://matthewc.dev/projects/_honeydew/</link>
+      <description>I spent way too much of my life avoiding having to make decisions and priorities. My wife and I have a goal to “do one thing on the house every day”. This usually means fixing baseboard, painting, adjusting cabinet doors, installing new cabinets. It ranges from small to big tasks and looking at the spreadsheet is very overwhelming. So work tends to happen in spurts.
+At the same time, cleaning and meal planning are two areas where I need to invest the mental effort to keep track of it and plan it out, but just haven’t made a focused effort.</description>
+      <category>sql</category>
+      <category>nodejs</category>
+      <category>typescript</category>
+      <category>ai</category>
+      <category>cloud</category>
+      <guid>https://matthewc.dev/projects/_honeydew/</guid>
+      <pubDate>Sun, 08 Mar 2026 00:02:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows Support for FrankenPHP: It’s Finally Alive! - Kévin Dunglas</title>
+      <link>https://dunglas.dev/2026/03/windows-support-for-frankenphp-its-finally-alive/</link>
+      <description>It’s happening! I am thrilled to announce the immediate availability of official Windows support for FrankenPHP. Since the project's initial release, this has been by far the most requested feature. While many of you have been successfully running FrankenPHP on Windows via WSL (Windows Subsystem for Linux), native support was the "white whale" we’ve been</description>
+      <category>visualstudio</category>
+      <category>linux</category>
+      <guid>https://dunglas.dev/2026/03/windows-support-for-frankenphp-its-finally-alive/</guid>
+      <pubDate>Sun, 08 Mar 2026 00:02:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>I made a programming language with M&amp;Ms</title>
+      <link>https://mufeedvh.com/posts/i-made-a-programming-language-with-mnms/</link>
+      <description>I built a tiny programming language where programs are candy grids, complete with a renderer, photo decoder, AST tree, and execution trace.</description>
+      <category>visualstudio</category>
+      <category>rust</category>
+      <category>javascript</category>
+      <category>apple</category>
+      <category>ai</category>
+      <guid>https://mufeedvh.com/posts/i-made-a-programming-language-with-mnms/</guid>
+      <pubDate>Sun, 08 Mar 2026 00:02:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why I stopped trusting the official Wikipedia dataset, and what I did about it | Omar Kamali</title>
+      <link>https://omarkamali.com/blog/wikipedia-monthly-pipeline</link>
+      <description>It all started with a DM from a friend, member and contributor to the Moroccan Wikipedia community.
+"Are you using the current version of Wikipedia? The official dataset is severely outdated. We added so many cool articles nowhere on huggingface" He was right. I was running a 2023 snapshot in 2025.</description>
+      <category>cloud</category>
+      <category>apple</category>
+      <category>ai</category>
+      <category>containers</category>
+      <category>android</category>
+      <guid>https://omarkamali.com/blog/wikipedia-monthly-pipeline</guid>
+      <pubDate>Sun, 08 Mar 2026 00:02:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Teaching Claude Code to run commands in Neovim</title>
+      <link>https://fredrikaverpil.github.io/blog/2026/03/07/teaching-claude-code-to-run-commands-in-neovim/</link>
+      <description>Inside a Neovim terminal, the $NVIM environment variable points to the parent Neovim’s Unix socket. This means you can query editor state, inspect buffers, check LSP diagnostics, and even send commands — all through Neovim’s msgpack-RPC API.
+What’s quite neat here is that since I run Claude Code inside a Neovim terminal window, I can make Claude use this API to query and hook into the running Neovim session and much more easily debug issues with my Neovim config, develop plugins, or help with something inside Neovim.</description>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://fredrikaverpil.github.io/blog/2026/03/07/teaching-claude-code-to-run-commands-in-neovim/</guid>
+      <pubDate>Sun, 08 Mar 2026 00:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why Attention Should Cost a Penny</title>
+      <link>https://www.sebs.website/why-attention-should-cost-a-penny</link>
+      <description>&lt;p&gt;To save our sanity from the tidalwave of spam, your inbox doesn't need a better AI - it needs a coin slot.&lt;/p&gt;</description>
+      <category>ai</category>
+      <guid>https://www.sebs.website/why-attention-should-cost-a-penny</guid>
+      <pubDate>Sun, 08 Mar 2026 00:02:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>A Farewell to Code Reviews | Alex Martsinovich</title>
+      <link>https://distantprovince.by/posts/a-farewell-to-code-reviews/</link>
+      <description>Code reviews as I remember them are gone</description>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://distantprovince.by/posts/a-farewell-to-code-reviews/</guid>
+      <pubDate>Sun, 08 Mar 2026 00:02:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why working harder stops working</title>
+      <link>https://www.atbrakhi.dev/blog/why-working-harder-stops-working</link>
+      <description>There's something nobody tells you about getting better at things.</description>
+      <category>gaming</category>
+      <guid>https://www.atbrakhi.dev/blog/why-working-harder-stops-working</guid>
+      <pubDate>Sun, 08 Mar 2026 00:02:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Security vulnerabilities I found in high school</title>
+      <link>https://blog.raed.dev/posts/hacking-stories-from-high-school-days/</link>
+      <description>A collection of hacking stories from my high-school days in Tunisia. Some involve computers, most don't.</description>
+      <category>apple</category>
+      <guid>https://blog.raed.dev/posts/hacking-stories-from-high-school-days/</guid>
+      <pubDate>Sun, 08 Mar 2026 00:02:12 GMT</pubDate>
+    </item>
+    <item>
       <title>Why developers using AI are working longer hours</title>
       <link>https://www.scientificamerican.com/article/why-developers-using-ai-are-working-longer-hours/</link>
       <description>Studies find AI helps developers release more software—while logging longer hours and fixing problems after the code goes live</description>
@@ -45,177 +173,6 @@
       <category>web</category>
       <guid>https://will-keleher.com/posts/this-css-makes-me-human/</guid>
       <pubDate>Sat, 07 Mar 2026 10:02:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>You Can't Hide a Secret from a Process That Runs as You</title>
-      <link>https://danielepolencic.com/hiding-secrets-from-ai-agents</link>
-      <description>I tried six different approaches to protect my credentials from an AI coding agent. Encrypted files, keychain, ACLs, Touch ID, a native addon, sandboxes. Every one failed for the same reason.</description>
-      <category>nodejs</category>
-      <category>containers</category>
-      <category>typescript</category>
-      <category>cloud</category>
-      <category>ai</category>
-      <guid>https://danielepolencic.com/hiding-secrets-from-ai-agents</guid>
-      <pubDate>Sat, 07 Mar 2026 00:03:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>What Requests Taught Me About Marriage</title>
-      <link>https://kennethreitz.org/essays/2026-03-06-what_requests_taught_me_about_marriage</link>
-      <description>I have spent fifteen years thinking about how humans interact with systems. It started with HTTP libraries and somehow ended up at consciousness research,...</description>
-      <category>ai</category>
-      <category>javascript</category>
-      <guid>https://kennethreitz.org/essays/2026-03-06-what_requests_taught_me_about_marriage</guid>
-      <pubDate>Sat, 07 Mar 2026 00:03:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Your Docs Directory Is Doomed</title>
-      <link>https://yagmin.com/blog/your-docs-directory-is-doomed/</link>
-      <description>Maybe you started with a modest CLAUDE.md or AGENTS.md, which you meaningfully crafted over time. Then you adding some core docs (which was best practice anyway), like ARCHITECTURE.md. Before you knew it, you were writing massive specs and generating full-blown features. A lot of those specs shared</description>
-      <category>ai</category>
-      <category>vscode</category>
-      <guid>https://yagmin.com/blog/your-docs-directory-is-doomed/</guid>
-      <pubDate>Sat, 07 Mar 2026 00:03:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mycelium Framework</title>
-      <link>https://mycelium-clj.github.io/docs/guestbook.html</link>
-      <description>Mycelium - Schema-enforced, workflow-driven web framework for Clojure</description>
-      <category>sql</category>
-      <category>conference</category>
-      <category>web</category>
-      <category>git</category>
-      <category>nodejs</category>
-      <guid>https://mycelium-clj.github.io/docs/guestbook.html</guid>
-      <pubDate>Sat, 07 Mar 2026 00:02:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Personal Software Era | Robert DeLuca | Software Engineer</title>
-      <link>https://robertdelu.ca/2026/02/02/personal-software-era/</link>
-      <description>We’re entering a personal software era where people are replacing generic SaaS with tools tailored to their exact workflow.</description>
-      <category>ai</category>
-      <guid>https://robertdelu.ca/2026/02/02/personal-software-era/</guid>
-      <pubDate>Sat, 07 Mar 2026 00:02:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>"We ran out of columns"</title>
-      <link>https://jimmyhmiller.com/ugliest-beautiful-codebase</link>
-      <description>Oh the merchants2 table? Yeah, we ran out of columns on merchants, so we made merchants2</description>
-      <category>javascript</category>
-      <category>sql</category>
-      <guid>https://jimmyhmiller.com/ugliest-beautiful-codebase</guid>
-      <pubDate>Sat, 07 Mar 2026 00:02:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Close Enough to See</title>
-      <link>https://pablooliva.de/the-closing-window/close-enough-to-see/</link>
-      <description>From the dot-com bubble to mortgage fraud to Nord Stream to a livestreamed genocide, I've spent my life inside the systems that exploit people — across continents. This is what it looks like when the pattern finally clicks.</description>
-      <category>ai</category>
-      <guid>https://pablooliva.de/the-closing-window/close-enough-to-see/</guid>
-      <pubDate>Sat, 07 Mar 2026 00:02:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Turning Codebase Antipatterns into Claude Skills</title>
-      <link>https://ihoka.me/blog/2026/03/06/turning-antipatterns-into-claude-skills.html</link>
-      <description>I spent a morning last week auditing a Rails codebase for string-based HTML construction in JavaScript controllers. Forty violations across twelve files. The same antipattern, copy-pasted and mutated over months, each instance a small act of forgetting that a better way existed.</description>
-      <category>encryption</category>
-      <category>nodejs</category>
-      <category>javascript</category>
-      <category>web</category>
-      <category>ai</category>
-      <guid>https://ihoka.me/blog/2026/03/06/turning-antipatterns-into-claude-skills.html</guid>
-      <pubDate>Sat, 07 Mar 2026 00:02:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>I Checked 5 Security Skills for Claude Code. Only One Is Worth Installing</title>
-      <link>https://timonweb.com/ai/i-checked-5-security-skills-for-claude-code-only-one-is-worth-installing/</link>
-      <description>I Checked 5 Security Skills for Claude Code. Only One Is Worth Installing.</description>
-      <author> (https://twitter.com/timonweb)</author>
-      <category>nodejs</category>
-      <category>typescript</category>
-      <category>python</category>
-      <category>rust</category>
-      <category>containers</category>
-      <guid>https://timonweb.com/ai/i-checked-5-security-skills-for-claude-code-only-one-is-worth-installing/</guid>
-      <pubDate>Sat, 07 Mar 2026 00:02:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Always Building, Never Shipping</title>
-      <link>https://danielgrant.co/posts/always-building-never-shipping</link>
-      <description>It is winter in Narnia, and has been for ever so long…. always winter, but never Christmas.</description>
-      <category>ai</category>
-      <category>javascript</category>
-      <guid>https://danielgrant.co/posts/always-building-never-shipping</guid>
-      <pubDate>Sat, 07 Mar 2026 00:02:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>matduggan.com</title>
-      <link>https://matduggan.com/boy-i-was-wrong-about-the-fediverse/</link>
-      <description>It's JSON all the way down</description>
-      <category>gaming</category>
-      <guid>https://matduggan.com/boy-i-was-wrong-about-the-fediverse/</guid>
-      <pubDate>Sat, 07 Mar 2026 00:02:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remembering mayhem – MetaBrainz Blog</title>
-      <link>https://blog.metabrainz.org/2026/03/05/remembering-mayhem/</link>
-      <description>Rob Kaye (also known to the community and his peers as ruaok and mayhem) was many things. Friend, partner, colleague, ‘that guy with the crazy hair’, hacker, burner, visionary and much more. And always a source of creative mayhem!</description>
-      <category>sql</category>
-      <guid>https://blog.metabrainz.org/2026/03/05/remembering-mayhem/</guid>
-      <pubDate>Sat, 07 Mar 2026 00:02:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude Code's Edit Tool Wastes Your Most Expensive Tokens. Here's a Fix.</title>
-      <link>https://www.wormbytes.ca/2026/03/04/trueline-mcp-announcement/</link>
-      <description>You’re deep into a Claude Code session. The agent is humming along, editing files, and making progress.</description>
-      <category>typescript</category>
-      <category>javascript</category>
-      <category>vscode</category>
-      <category>ai</category>
-      <guid>https://www.wormbytes.ca/2026/03/04/trueline-mcp-announcement/</guid>
-      <pubDate>Sat, 07 Mar 2026 00:02:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sonarly - The AI that fixes prod</title>
-      <link>https://sonarly.com/blog/how-my-agent-built-its-own-tool</link>
-      <description>AI agents that triage your alerts and fix bugs with full context of your production system.</description>
-      <category>ai</category>
-      <guid>https://sonarly.com/blog/how-my-agent-built-its-own-tool</guid>
-      <pubDate>Sat, 07 Mar 2026 00:02:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Start-Stop Problem</title>
-      <link>https://kramkarthik.com/the-start-stop-problem/</link>
-      <description>In the typical world, in which a wide range of dopamine pumping entertainment is available on your fingertip and the temptation is to scroll for instant gratification, if you're going to get yourself to do something meaningful, then you have to offer an experience that's as good as an Instagram reel or better. What does that mean? It means you need to offer yourself two things simultaneously: there needs to be a way to start doing what you strive to as quickly as possble without any friction, and the act of starting should have immediately results that can be experienced.</description>
-      <guid>https://kramkarthik.com/the-start-stop-problem/</guid>
-      <pubDate>Sat, 07 Mar 2026 00:02:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>DTOs at the Speed of Plain PHP – DerEuroMark</title>
-      <link>https://www.dereuromark.de/2026/03/02/dtos-at-the-speed-of-plain-php/</link>
-      <description>Zero Reflection, Zero Regrets</description>
-      <category>typescript</category>
-      <category>rust</category>
-      <category>vscode</category>
-      <category>javascript</category>
-      <guid>https://www.dereuromark.de/2026/03/02/dtos-at-the-speed-of-plain-php/</guid>
-      <pubDate>Sat, 07 Mar 2026 00:02:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Next Coding Interface is a Canvas</title>
-      <link>https://blog.abdellatif.io/the-next-coding-interface-is-a-canvas</link>
-      <description>IDE → Terminal → Canvas I've been experimenting this week with AI-native Figma alternatives like pencil.dev and paper.design. You describe the product, and t...</description>
-      <category>ai</category>
-      <guid>https://blog.abdellatif.io/the-next-coding-interface-is-a-canvas</guid>
-      <pubDate>Sat, 07 Mar 2026 00:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Async Programming Is Just @Inject Time — Will Richardson</title>
-      <link>https://willhbr.net/2026/03/02/async-inject-and-effects/</link>
-      <description>All I really wanted to do was learn a little bit more about different models for error handling, but then I kept seeing “effects” and “effect systems” mentioned, and after reading about Koka and Effekt I think I’ve been converted. I want effects now. So here’s what I wished I could have read a few weeks ago. To start with, you need to remember that functions don’t exist. They’re made up. They’re a social construct. Your CPU doesn’t know or...</description>
-      <category>git</category>
-      <category>ruby</category>
-      <guid>https://willhbr.net/2026/03/02/async-inject-and-effects/</guid>
-      <pubDate>Sat, 07 Mar 2026 00:02:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
