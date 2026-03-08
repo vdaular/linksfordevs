@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Based on its own charter, OpenAI should surrender the race</title>
+      <link>https://mlumiste.com/general/openai-charter/</link>
+      <description>Based on its own charter, OpenAI should surrender the race</description>
+      <author> (Martin Lumiste)</author>
+      <category>ai</category>
+      <guid>https://mlumiste.com/general/openai-charter/</guid>
+      <pubDate>Sun, 08 Mar 2026 19:02:00 GMT</pubDate>
+    </item>
+    <item>
       <title>LLM-Driven Large Code Rewrites With Relicensing Are The Latest AI Concern</title>
       <link>https://www.phoronix.com/news/Chardet-LLM-Rewrite-Relicense</link>
       <description>The newest open-source concern around AI that is seeing a lot of interest this weekend is when large language models / AI code generators may rewrite large parts of a codebase and then the 'developers' claiming an alternative license incompatible with the original source license</description>
