@@ -1,5 +1,13 @@
 [
   {
+    "Title": "A Decade of Docker Containers – Communications of the ACM",
+    "Url": "https://cacm.acm.org/research/a-decade-of-docker-containers/",
+    "Timestamp": "2026-03-08T04:02:06",
+    "Domain": "cacm.acm.org",
+    "Description": "Docker is a widely used developer tool that first simplifies the assembly of an application stack (docker build), then allows for the rapid distribution of the resulting executables and data (docker push), and subsequently supports running multiple applications isolated from one another on the same machine (docker run). Developers can compile their own Docker images via a single Dockerfile alongside their source code, and reuse other published images to share packaging efforts across the global set of programming languages and application stacks.",
+    "Confidence": 0.974182
+  },
+  {
     "Title": "Put the ZIP code first.",
     "Url": "https://zipcodefirst.com/",
     "Timestamp": "2026-03-08T03:01:59",
