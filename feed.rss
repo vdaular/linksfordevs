@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Put the ZIP code first.</title>
+      <link>https://zipcodefirst.com/</link>
+      <description>It's 2026. A ZIP code is 5 characters. From those 5 characters you get city, state, and country. 3 fields. Autofilled. Put it first, you animals.</description>
+      <category>javascript</category>
+      <category>sql</category>
+      <category>web</category>
+      <guid>https://zipcodefirst.com/</guid>
+      <pubDate>Sun, 08 Mar 2026 03:01:59 GMT</pubDate>
+    </item>
+    <item>
       <title>Will Claude Code ruin our team?</title>
       <link>https://justinjackson.ca/claude-code-ruin</link>
       <description>AI coding is blurring the lines between engineers, PMs, and designers. In the short-term, it's going to cause havoc. What happens long-term?</description>

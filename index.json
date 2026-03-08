@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Put the ZIP code first.",
+    "Url": "https://zipcodefirst.com/",
+    "Timestamp": "2026-03-08T03:01:59",
+    "Domain": "zipcodefirst.com",
+    "Description": "It's 2026. A ZIP code is 5 characters. From those 5 characters you get city, state, and country. 3 fields. Autofilled. Put it first, you animals.",
+    "Confidence": 0.9865651
+  },
+  {
     "Title": "Will Claude Code ruin our team?",
     "Url": "https://justinjackson.ca/claude-code-ruin",
     "Timestamp": "2026-03-08T00:02:59",
