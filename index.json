@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Qwen3.5 - How to Run Locally Guide | Unsloth Documentation",
+    "Url": "https://unsloth.ai/docs/models/qwen3.5",
+    "Timestamp": "2026-03-08T14:02:04",
+    "Domain": "unsloth.ai",
+    "Description": "Run the new Qwen3.5 LLMs including Medium: Qwen3.5-35B-A3B, 27B, 122B-A10B, Small: Qwen3.5-0.8B, 2B, 4B, 9B and 397B-A17B on your local device!",
+    "Confidence": 0.99495935
+  },
+  {
     "Title": "Cloud VM benchmarks 2026: performance",
     "Url": "https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html",
     "Timestamp": "2026-03-08T11:02:06",

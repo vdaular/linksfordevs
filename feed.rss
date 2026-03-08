@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Qwen3.5 - How to Run Locally Guide | Unsloth Documentation</title>
+      <link>https://unsloth.ai/docs/models/qwen3.5</link>
+      <description>Run the new Qwen3.5 LLMs including Medium: Qwen3.5-35B-A3B, 27B, 122B-A10B, Small: Qwen3.5-0.8B, 2B, 4B, 9B and 397B-A17B on your local device!</description>
+      <category>ai</category>
+      <category>apple</category>
+      <category>git</category>
+      <category>python</category>
+      <guid>https://unsloth.ai/docs/models/qwen3.5</guid>
+      <pubDate>Sun, 08 Mar 2026 14:02:04 GMT</pubDate>
+    </item>
+    <item>
       <title>Cloud VM benchmarks 2026: performance</title>
       <link>https://devblog.ecuadors.net/cloud-vm-benchmarks-2026-performance-price-1i1m.html</link>
       <description>Published: Feb 27, 2026 on dev.to by Dimitrios Kechagias</description>
