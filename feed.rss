@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>GitHub - 0x0mer/CasNum</title>
+      <link>https://github.com/0x0mer/CasNum</link>
+      <description>Contribute to 0x0mer/CasNum development by creating an account on GitHub.</description>
+      <category>encryption</category>
+      <category>git</category>
+      <category>python</category>
+      <category>gaming</category>
+      <guid>https://github.com/0x0mer/CasNum</guid>
+      <pubDate>Sun, 08 Mar 2026 07:02:00 GMT</pubDate>
+    </item>
+    <item>
       <title>A Decade of Docker Containers – Communications of the ACM</title>
       <link>https://cacm.acm.org/research/a-decade-of-docker-containers/</link>
       <description>Docker is a widely used developer tool that first simplifies the assembly of an application stack (docker build), then allows for the rapid distribution of the resulting executables and data (docker push), and subsequently supports running multiple applications isolated from one another on the same machine (docker run). Developers can compile their own Docker images via a single Dockerfile alongside their source code, and reuse other published images to share packaging efforts across the global set of programming languages and application stacks.</description>
