@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Building a Procedural Hex Map with Wave Function Collapse",
+    "Url": "https://felixturner.github.io/hex-map-wfc/article/",
+    "Timestamp": "2026-03-09T22:02:05",
+    "Domain": "felixturner.github.io",
+    "Description": "Procedural medieval islands from 4,100 hex tiles, built with WebGPU and a lot of backtracking."
+  },
+  {
     "Title": "GitHub - ruvnet/RuView: π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
     "Url": "https://github.com/ruvnet/RuView",
     "Timestamp": "2026-03-09T17:02:16",
