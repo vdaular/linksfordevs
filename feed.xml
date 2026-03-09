@@ -243,15 +243,5 @@ For someone who only knows about classical computing and a little about algorith
       <guid>https://arstechnica.com/gadgets/2026/03/apples-512gb-mac-studio-vanishes-a-quiet-acknowledgement-of-the-ram-shortage/</guid>
       <pubDate>Sun, 08 Mar 2026 17:02:05 GMT</pubDate>
     </item>
-    <item>
-      <title>Warn about PyPy being not actively developed by konstin · Pull Request #17643 · astral-sh/uv</title>
-      <link>https://github.com/astral-sh/uv/pull/17643</link>
-      <description>It seems that PyPy is not being actively developed anymore and is phased out even by numpy (numpy/numpy#30416). There&amp;#39;s no official statement from the project, but the numpy issue is from a PyP...</description>
-      <category>python</category>
-      <category>javascript</category>
-      <category>git</category>
-      <guid>https://github.com/astral-sh/uv/pull/17643</guid>
-      <pubDate>Sun, 08 Mar 2026 15:02:02 GMT</pubDate>
-    </item>
   </channel>
 </rss>

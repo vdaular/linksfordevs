@@ -198,13 +198,5 @@
     "Domain": "arstechnica.com",
     "Description": "Announcements this week were mostly business as usual, but Apple isn't immune.",
     "Confidence": 0.82360244
-  },
-  {
-    "Title": "Warn about PyPy being not actively developed by konstin · Pull Request #17643 · astral-sh/uv",
-    "Url": "https://github.com/astral-sh/uv/pull/17643",
-    "Timestamp": "2026-03-08T15:02:02",
-    "Domain": "github.com",
-    "Description": "It seems that PyPy is not being actively developed anymore and is phased out even by numpy (numpy/numpy#30416). There&#39;s no official statement from the project, but the numpy issue is from a PyP...",
-    "Confidence": 0.97861946
   }
 ]
