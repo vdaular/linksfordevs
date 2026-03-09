@@ -262,17 +262,5 @@ For someone who only knows about classical computing and a little about algorith
       <guid>https://github.com/0x0mer/CasNum</guid>
       <pubDate>Sun, 08 Mar 2026 07:02:00 GMT</pubDate>
     </item>
-    <item>
-      <title>A Decade of Docker Containers – Communications of the ACM</title>
-      <link>https://cacm.acm.org/research/a-decade-of-docker-containers/</link>
-      <description>Docker is a widely used developer tool that first simplifies the assembly of an application stack (docker build), then allows for the rapid distribution of the resulting executables and data (docker push), and subsequently supports running multiple applications isolated from one another on the same machine (docker run). Developers can compile their own Docker images via a single Dockerfile alongside their source code, and reuse other published images to share packaging efforts across the global set of programming languages and application stacks.</description>
-      <category>containers</category>
-      <category>apple</category>
-      <category>linux</category>
-      <category>python</category>
-      <category>git</category>
-      <guid>https://cacm.acm.org/research/a-decade-of-docker-containers/</guid>
-      <pubDate>Sun, 08 Mar 2026 04:02:06 GMT</pubDate>
-    </item>
   </channel>
 </rss>
