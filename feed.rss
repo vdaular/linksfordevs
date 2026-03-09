@@ -274,15 +274,5 @@ For someone who only knows about classical computing and a little about algorith
       <guid>https://cacm.acm.org/research/a-decade-of-docker-containers/</guid>
       <pubDate>Sun, 08 Mar 2026 04:02:06 GMT</pubDate>
     </item>
-    <item>
-      <title>Put the ZIP code first.</title>
-      <link>https://zipcodefirst.com/</link>
-      <description>It's 2026. A ZIP code is 5 characters. From those 5 characters you get city, state, and country. 3 fields. Autofilled. Put it first, you animals.</description>
-      <category>javascript</category>
-      <category>sql</category>
-      <category>web</category>
-      <guid>https://zipcodefirst.com/</guid>
-      <pubDate>Sun, 08 Mar 2026 03:01:59 GMT</pubDate>
-    </item>
   </channel>
 </rss>
