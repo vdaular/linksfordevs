@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Agent Safehouse</title>
+      <link>https://agent-safehouse.dev/</link>
+      <description>Sandbox your LLM coding agents on macOS. Kernel-level enforcement via sandbox-exec — deny-first, composable, zero dependencies.</description>
+      <category>ai</category>
+      <category>cloud</category>
+      <category>git</category>
+      <category>javascript</category>
+      <guid>https://agent-safehouse.dev/</guid>
+      <pubDate>Mon, 09 Mar 2026 01:02:03 GMT</pubDate>
+    </item>
+    <item>
       <title>Your Agent Doesn’t Need a README</title>
       <link>https://nihilok.github.io/your-agent-doesn-t-need-a-readme</link>
       <description>Your AI agent is reading your README right now. It’s on paragraph three of the “Getting Started” section, trying to figure out whether npm run dev or make dev is the current way to start the project. It will get there eventually. That’s the problem.</description>

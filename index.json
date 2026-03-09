@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Agent Safehouse",
+    "Url": "https://agent-safehouse.dev/",
+    "Timestamp": "2026-03-09T01:02:03",
+    "Domain": "agent-safehouse.dev",
+    "Description": "Sandbox your LLM coding agents on macOS. Kernel-level enforcement via sandbox-exec — deny-first, composable, zero dependencies.",
+    "Confidence": 0.99562675
+  },
+  {
     "Title": "Your Agent Doesn’t Need a README",
     "Url": "https://nihilok.github.io/your-agent-doesn-t-need-a-readme",
     "Timestamp": "2026-03-09T00:03:41",
