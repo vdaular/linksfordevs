@@ -198,13 +198,5 @@
     "Domain": "devblog.ecuadors.net",
     "Description": "Published: Feb 27, 2026 on dev.to by Dimitrios Kechagias",
     "Confidence": 0.995344
-  },
-  {
-    "Title": "GitHub - 0x0mer/CasNum",
-    "Url": "https://github.com/0x0mer/CasNum",
-    "Timestamp": "2026-03-08T07:02:00",
-    "Domain": "github.com",
-    "Description": "Contribute to 0x0mer/CasNum development by creating an account on GitHub.",
-    "Confidence": 0.996474
   }
 ]
