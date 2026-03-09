@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>FontCrafter: Create Your Handwriting Font for Free</title>
+      <link>https://arcade.pirillo.com/fontcrafter.html</link>
+      <description>Convert your scanned handwriting into custom OTF, TTF, and WOFF2 fonts with local browser processing and vectorization. No account or uploads needed.</description>
+      <author> (Chris Pirillo)</author>
+      <category>web</category>
+      <category>javascript</category>
+      <guid>https://arcade.pirillo.com/fontcrafter.html</guid>
+      <pubDate>Mon, 09 Mar 2026 16:02:14 GMT</pubDate>
+    </item>
+    <item>
       <title>Ireland shuts last coal plant, becomes 15th coal-free country in Europe</title>
       <link>https://www.pv-magazine.com/2025/06/20/ireland-coal-free-ends-coal-power-generation-moneypoint/</link>
       <description>Moneypoint in County Clare, Ireland, joins the ranks of other European nations exiting coal by shutting off power generation at its sole remaining coal plant. Industry observers say Ireland’s increased renewable energy generation in recent years, particularly in wind, has contributed to this milestone. Moneypoint now functions as a backup oil burner under emergency instruction, but it is no longer active in the wholesale electricity market.</description>
