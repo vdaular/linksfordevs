@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor | Rahul's Blog</title>
+      <link>https://www.rahuljuliato.com/posts/emacs-solo-two-years</link>
+      <description>Rahul's Blog</description>
+      <category>git</category>
+      <category>typescript</category>
+      <category>containers</category>
+      <category>ai</category>
+      <category>vscode</category>
+      <guid>https://www.rahuljuliato.com/posts/emacs-solo-two-years</guid>
+      <pubDate>Tue, 10 Mar 2026 10:02:09 GMT</pubDate>
+    </item>
+    <item>
       <title>Home Remedies</title>
       <link>https://xkcd.com/3217/</link>
       <description></description>
