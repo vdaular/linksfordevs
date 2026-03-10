@@ -166,13 +166,5 @@
     "Domain": "felixturner.github.io",
     "Description": "Procedural medieval islands from 4,100 hex tiles, built with WebGPU and a lot of backtracking.",
     "Confidence": 0.97520316
-  },
-  {
-    "Title": "GitHub - ruvnet/RuView: π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.",
-    "Url": "https://github.com/ruvnet/RuView",
-    "Timestamp": "2026-03-09T17:02:16",
-    "Domain": "github.com",
-    "Description": "π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.  - ruvnet/RuView",
-    "Confidence": 0.9774743
   }
 ]

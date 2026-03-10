@@ -198,17 +198,5 @@
       <guid>https://felixturner.github.io/hex-map-wfc/article/</guid>
       <pubDate>Mon, 09 Mar 2026 22:02:05 GMT</pubDate>
     </item>
-    <item>
-      <title>GitHub - ruvnet/RuView: π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.</title>
-      <link>https://github.com/ruvnet/RuView</link>
-      <description>π RuView: WiFi DensePose turns commodity WiFi signals into real-time human pose estimation, vital sign monitoring, and presence detection — all without a single pixel of video.  - ruvnet/RuView</description>
-      <category>nodejs</category>
-      <category>rust</category>
-      <category>containers</category>
-      <category>python</category>
-      <category>cloud</category>
-      <guid>https://github.com/ruvnet/RuView</guid>
-      <pubDate>Mon, 09 Mar 2026 17:02:16 GMT</pubDate>
-    </item>
   </channel>
 </rss>
