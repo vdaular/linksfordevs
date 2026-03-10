@@ -7,6 +7,22 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Tony Hoare (1934-2026)</title>
+      <link>https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html</link>
+      <description>Turing Award winner and former Oxford professor  Tony Hoare  passed away last Thursday at the age of 92. Hoare is famous for quicksort, ALGO...</description>
+      <guid>https://blog.computationalcomplexity.org/2026/03/tony-hoare-1934-2026.html</guid>
+      <pubDate>Tue, 10 Mar 2026 16:02:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>howisFelix.today? · Felix Krause</title>
+      <link>https://howisfelix.today/</link>
+      <description></description>
+      <category>apple</category>
+      <category>sql</category>
+      <guid>https://howisfelix.today/</guid>
+      <pubDate>Tue, 10 Mar 2026 16:01:57 GMT</pubDate>
+    </item>
+    <item>
       <title>Yann LeCun’s AI start-up raises more than $1bn in Europe’s largest seed round</title>
       <link>https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1</link>
       <description>Meta’s former chief AI scientist launches AMI Labs with backing from Nvidia, Temasek and Jeff Bezos </description>
@@ -193,16 +209,6 @@
       <category>cloud</category>
       <guid>https://github.com/ruvnet/RuView</guid>
       <pubDate>Mon, 09 Mar 2026 17:02:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>FontCrafter: Create Your Handwriting Font for Free</title>
-      <link>https://arcade.pirillo.com/fontcrafter.html</link>
-      <description>Convert your scanned handwriting into custom OTF, TTF, and WOFF2 fonts with local browser processing and vectorization. No account or uploads needed.</description>
-      <author> (Chris Pirillo)</author>
-      <category>web</category>
-      <category>javascript</category>
-      <guid>https://arcade.pirillo.com/fontcrafter.html</guid>
-      <pubDate>Mon, 09 Mar 2026 16:02:14 GMT</pubDate>
     </item>
   </channel>
 </rss>
