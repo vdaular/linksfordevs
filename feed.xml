@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>No, it doesn't cost Anthropic $5k per Claude Code user</title>
+      <link>https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/</link>
+      <description>The viral claim that Anthropic loses $5,000 per Claude Code subscriber doesn't survive basic scrutiny. Let's do the actual maths.</description>
+      <author> (Martin Alderson)</author>
+      <category>ai</category>
+      <category>vscode</category>
+      <guid>https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/</guid>
+      <pubDate>Tue, 10 Mar 2026 12:02:05 GMT</pubDate>
+    </item>
+    <item>
       <title>Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor | Rahul's Blog</title>
       <link>https://www.rahuljuliato.com/posts/emacs-solo-two-years</link>
       <description>Rahul's Blog</description>
@@ -200,15 +210,6 @@
       <description>There was a thread the other day about Sriracha going to shit. A lot of the commenters knew that Huy Fong, Sriracha's producer, screwed over...</description>
       <guid>https://old.reddit.com/r/KitchenConfidential/comments/1ro61g2/how_the_sriracha_guys_screwed_over_their_supplier/</guid>
       <pubDate>Mon, 09 Mar 2026 13:02:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why Am I Paranoid, You Say?</title>
-      <link>https://idiallo.com/blog/why-am-i-paranoid?src=feed</link>
-      <description>Technology has advanced to a point I could only have dreamed of as a child. Have you seen the graphics in video games lately? Zero to 60 miles per hour in under two seconds? Communicating with anyone </description>
-      <category>apple</category>
-      <category>android</category>
-      <guid>https://idiallo.com/blog/why-am-i-paranoid?src=feed</guid>
-      <pubDate>Mon, 09 Mar 2026 12:02:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
