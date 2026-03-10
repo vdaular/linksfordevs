@@ -1,5 +1,13 @@
 [
   {
+    "Title": "A New Chapter for Bluesky - Bluesky",
+    "Url": "https://bsky.social/about/blog/03-09-2026-a-new-chapter-for-bluesky",
+    "Timestamp": "2026-03-10T00:02:13",
+    "Domain": "bsky.social",
+    "Description": "After several intense and incredible years building Bluesky from the ground up, I've decided to step back as CEO and transition to a new role as Bluesky's Chief Innovation Officer.",
+    "Confidence": 0.93742687
+  },
+  {
     "Title": "Building a Procedural Hex Map with Wave Function Collapse",
     "Url": "https://felixturner.github.io/hex-map-wfc/article/",
     "Timestamp": "2026-03-09T22:02:05",
@@ -54,133 +62,5 @@
     "Domain": "agent-safehouse.dev",
     "Description": "Sandbox your LLM coding agents on macOS. Kernel-level enforcement via sandbox-exec — deny-first, composable, zero dependencies.",
     "Confidence": 0.99562675
-  },
-  {
-    "Title": "Your Agent Doesn’t Need a README",
-    "Url": "https://nihilok.github.io/your-agent-doesn-t-need-a-readme",
-    "Timestamp": "2026-03-09T00:03:41",
-    "Domain": "nihilok.github.io",
-    "Description": "Your AI agent is reading your README right now. It’s on paragraph three of the “Getting Started” section, trying to figure out whether npm run dev or make dev is the current way to start the project. It will get there eventually. That’s the problem.",
-    "Confidence": 0.99529654
-  },
-  {
-    "Title": "How Claude Code Compresses Your Conversation",
-    "Url": "https://niji.webs.me/blog/2026-03-08-how-claude-code-compresses-context.html",
-    "Timestamp": "2026-03-09T00:03:38",
-    "Domain": "niji.webs.me",
-    "Description": "Reverse-engineering the context window compression system inside Claude Code's binary.",
-    "Confidence": 0.99199235
-  },
-  {
-    "Title": "Hey Siri, Make Me a Million Dollars",
-    "Url": "https://www.josephecombs.com/2026/03/08/hey-siri-make-me-a-million-dollars",
-    "Timestamp": "2026-03-09T00:03:34",
-    "Domain": "www.josephecombs.com",
-    "Description": "This is my personal website. I will write blog posts here on occasion.\n",
-    "Confidence": 0.99659884
-  },
-  {
-    "Title": "LibreOffice 26.2 is here: a faster, more polished office suite that you control - TDF Community Blog",
-    "Url": "https://blog.documentfoundation.org/blog/2026/02/04/libreoffice-26-2-is-here/",
-    "Timestamp": "2026-03-09T00:03:30",
-    "Domain": "blog.documentfoundation.org",
-    "Description": "We’re pleased to announce the release of LibreOffice 26.2, the newest version of the free and open source office suite trusted by millions of users around the world. This release makes it easier than ever for users to create, edit and share documents on their own terms. Designed for individuals and organizations alike, it continues to be a trusted alternative to proprietary office software. LibreOffice 26.2 is focused on improvements that make a difference in daily work and brings better performance, smoother interaction with complex documents and improved compatibility with files created in other office software. Whether you’re writing reports, managing spreadsheets, or preparing presentations, the experience feels more responsive and reliable. LibreOffice has always been about giving users control. LibreOffice 26.2 continues that tradition by strengthening support for open document standards, and ensuring long-term access to your files, without subscriptions, license restrictions, or data collection. Your documents stay yours – forever. Behind this release there is a global community of contributors. Developers, designers, translators, QA testers, and volunteers from around the world worked together to deliver hundreds of fixes and refinements. Their efforts result in a suite that not only adds features, but also improves quality, consistency, and stability,",
-    "Confidence": 0.97534215
-  },
-  {
-    "Title": "Am I scared?",
-    "Url": "https://www.avraam.dev/blog/am-i-scared",
-    "Timestamp": "2026-03-09T00:03:22",
-    "Domain": "www.avraam.dev",
-    "Description": "Lately, I've been getting a lot of questions like, 'Should we be scared about our jobs? Aren't you scared?' The person asking usually expects a soothing response. In reality, I can't answer that, but let me tell you something personal.",
-    "Confidence": 0.9096774
-  },
-  {
-    "Title": "Tools, thinking and people - anton",
-    "Url": "https://podviaznikov.com/writings/tools-thinking-and-people",
-    "Timestamp": "2026-03-09T00:03:19",
-    "Domain": "podviaznikov.com",
-    "Description": "September 2007. I&#39;m still a student but got my first job as junior software engineer working 30 hours a week after my classes. As a junior person ...",
-    "Confidence": 0.87503344
-  },
-  {
-    "Title": "Build Awesome's Kickstarter is Cancelled",
-    "Url": "https://brennan.day/build-awesomes-kickstarter-is-cancelled/",
-    "Timestamp": "2026-03-09T00:03:07",
-    "Domain": "brennan.day",
-    "Description": "After only a couple days, Build Awesome's Kickstarter has been cancelled and rescheduled due to email delivery issues that ruined the project's momentum despite reaching their funding goal in a single day.",
-    "Confidence": 0.9103623
-  },
-  {
-    "Title": "Sinclair 4K BASIC for the ZX80",
-    "Url": "https://troypress.com/sinclair-4k-basic-for-the-zx80/",
-    "Timestamp": "2026-03-09T00:03:03",
-    "Domain": "troypress.com",
-    "Description": "In my study of Tiny BASICs, one I overlooked reviewing was Sinclair 4K BASIC, which stands out for its unique keyboard, its approach to graphics, and its memory usage.",
-    "Confidence": 0.9763161
-  },
-  {
-    "Title": "Why I Ditched ESLint + Prettier for Biome",
-    "Url": "https://xergioalex.com/blog/why-i-ditched-eslint-prettier-for-biome/",
-    "Timestamp": "2026-03-09T00:02:59",
-    "Domain": "xergioalex.com",
-    "Description": "After years of chasing ESLint upgrades and managing the Prettier conflict dance, I switched to Biome. One config file, one binary, and I haven't looked back.",
-    "Confidence": 0.99120986
-  },
-  {
-    "Title": "Software Development: Abstraction is Overrated",
-    "Url": "https://www.heise.de/en/blog/Software-Development-Abstraction-is-Overrated-11198327.html",
-    "Timestamp": "2026-03-09T00:02:56",
-    "Domain": "www.heise.de",
-    "Description": "Abstraction is considered a virtue in software development. However, practice shows that wrong abstractions cause more harm than none at all.",
-    "Confidence": 0.9931688
-  },
-  {
-    "Title": "The Workplace Blind Spot",
-    "Url": "https://pablooliva.de/the-closing-window/the-workplace-blind-spot/",
-    "Timestamp": "2026-03-09T00:02:49",
-    "Domain": "pablooliva.de",
-    "Description": "Most knowledge workers assume their role's complexity will protect them from AI. I held the same belief — until I was proven wrong, twice. The models don't need to improve; they just need to be better harnessed.",
-    "Confidence": 0.94869155
-  },
-  {
-    "Title": "Running OpenClaw on Synology NAS: complete setup",
-    "Url": "https://rgo.pt/posts/running-openclaw-on-synology-nas",
-    "Timestamp": "2026-03-09T00:02:42",
-    "Domain": "rgo.pt",
-    "Description": "A complete guide to self-hosting the OpenClaw AI agent on a headless Synology NAS",
-    "Confidence": 0.9965628
-  },
-  {
-    "Title": "How Long Do Major Strait of Hormuz Disruptions Last?",
-    "Url": "https://statwonk.com/hormuz-duration-model.html",
-    "Timestamp": "2026-03-09T00:02:38",
-    "Domain": "statwonk.com",
-    "Description": "The Strait of Hormuz has experienced five major disruption episodes since 1981, ranging from a\n                    multi-year tanker war to brief seizure incidents. With the current 2026 conflict disrupting\n                    commercial traffic through the strait, a natural question arises: how long should we\n                        expect this disruption to last?",
-    "Confidence": 0.9779725
-  },
-  {
-    "Title": "Conveying Math Intuition Is Hard",
-    "Url": "https://cjauvin.github.io/posts/conveying-math-intuition-is-hard/",
-    "Timestamp": "2026-03-09T00:02:34",
-    "Domain": "cjauvin.github.io",
-    "Description": "3blue1brown recently felt the need to add a supplementary video to its Grover’s algorithm introduction. Apparently, a lot of people have been confused by what I believe is basically just the logical structure of the concept, or why this algorithm is interesting and surprising in the first place.\nFor someone who only knows about classical computing and a little about algorithm complexity, the simplest way to get an intuition about Grover’s algorithm might be to first consider this:",
-    "Confidence": 0.97897595
-  },
-  {
-    "Title": "I Used NumPy to Plan for My Home Renovations | Pier-Luc Brault - Personal Website",
-    "Url": "https://plbrault.com/blog-posts/i-used-numpy-to-plan-for-my-home-renovations/",
-    "Timestamp": "2026-03-09T00:02:31",
-    "Domain": "plbrault.com",
-    "Description": "My partner and I have been homeowners for over a year now, and it has been great. However, the time has now come for us to start seriously…",
-    "Confidence": 0.97725374
-  },
-  {
-    "Title": "Stop Uploading Millions of Files | Francesco Vigni",
-    "Url": "https://francescovigni.com/blog/webdatasets/",
-    "Timestamp": "2026-03-09T00:02:27",
-    "Domain": "francescovigni.com",
-    "Description": "How I escaped the small-file trap with WebDatasets",
-    "Confidence": 0.96391916
   }
 ]
