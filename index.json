@@ -166,13 +166,5 @@
     "Domain": "bsky.social",
     "Description": "After several intense and incredible years building Bluesky from the ground up, I've decided to step back as CEO and transition to a new role as Bluesky's Chief Innovation Officer.",
     "Confidence": 0.93742687
-  },
-  {
-    "Title": "Building a Procedural Hex Map with Wave Function Collapse",
-    "Url": "https://felixturner.github.io/hex-map-wfc/article/",
-    "Timestamp": "2026-03-09T22:02:05",
-    "Domain": "felixturner.github.io",
-    "Description": "Procedural medieval islands from 4,100 hex tiles, built with WebGPU and a lot of backtracking.",
-    "Confidence": 0.97520316
   }
 ]

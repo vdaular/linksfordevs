@@ -195,15 +195,5 @@
       <guid>https://bsky.social/about/blog/03-09-2026-a-new-chapter-for-bluesky</guid>
       <pubDate>Tue, 10 Mar 2026 00:02:13 GMT</pubDate>
     </item>
-    <item>
-      <title>Building a Procedural Hex Map with Wave Function Collapse</title>
-      <link>https://felixturner.github.io/hex-map-wfc/article/</link>
-      <description>Procedural medieval islands from 4,100 hex tiles, built with WebGPU and a lot of backtracking.</description>
-      <category>ai</category>
-      <category>nodejs</category>
-      <category>javascript</category>
-      <guid>https://felixturner.github.io/hex-map-wfc/article/</guid>
-      <pubDate>Mon, 09 Mar 2026 22:02:05 GMT</pubDate>
-    </item>
   </channel>
 </rss>
