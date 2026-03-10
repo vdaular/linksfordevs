@@ -1,5 +1,109 @@
 [
   {
+    "Title": "Code is still a liability",
+    "Url": "https://vnturing.github.io/blog/posts/code-is-still-a-liability/",
+    "Timestamp": "2026-03-10T01:03:09",
+    "Domain": "vnturing.github.io",
+    "Description": "The more code your team produces, the more code your team must maintain.",
+    "Confidence": 0.9789748
+  },
+  {
+    "Title": "No, your six-year-old cannot paint this",
+    "Url": "https://beller-it.de/blog/20260309-abstract-art-and-llms.html",
+    "Timestamp": "2026-03-10T01:03:06",
+    "Domain": "beller-it.de",
+    "Description": "On abstraction in art and software—why Picasso's childlike drawings take a lifetime to achieve, and what that has to do with LLMs.",
+    "Confidence": 0.9736209
+  },
+  {
+    "Title": "Claude Tested Everything Except the One Thing That Mattered",
+    "Url": "https://christophermeiklejohn.com/ai/claude/2026/03/08/claude-tested-everything-except-the-one-thing-that-mattered.html",
+    "Timestamp": "2026-03-10T01:03:01",
+    "Domain": "christophermeiklejohn.com",
+    "Description": "Three weeks ago I wrote about building a social app in a week with Claude Code. The app shipped. My friends are using it. I kept building.",
+    "Confidence": 0.97480243
+  },
+  {
+    "Title": "How I Run a Software Engineering Standup",
+    "Url": "https://www.jakeworth.com/posts/how-i-run-a-software-engineering-standup/",
+    "Timestamp": "2026-03-10T01:02:58",
+    "Domain": "www.jakeworth.com",
+    "Description": "I’ve been participating in software standups every day for over a decade, and over the past two years, leading them, too. Here’s how I run the best standup meetings that I can.",
+    "Confidence": 0.98522025
+  },
+  {
+    "Title": "I Tried to Write a HTTP Service in Zig and Failed",
+    "Url": "https://maori.geek.nz/i-tried-to-write-a-http-service-in-zig-and-failed-72c4ce581e1d",
+    "Timestamp": "2026-03-10T01:02:55",
+    "Domain": "maori.geek.nz",
+    "Description": "I really like Zig. I have never wanted to write manually memory-managed code before. I don’t like C because it seems opaque and dangerous…",
+    "Confidence": 0.989348
+  },
+  {
+    "Title": "Formalizing Data Structures and Algorithms with Agents",
+    "Url": "https://risemsr.github.io/blog/2026-03-06-autoclrs/",
+    "Timestamp": "2026-03-10T01:02:48",
+    "Domain": "risemsr.github.io",
+    "Description": "Agents formalize imperative algorithms from natural language",
+    "Confidence": 0.9927673
+  },
+  {
+    "Title": "Choosing a Sync Engine for Local-First in 2026 | johnny.sh",
+    "Url": "https://johnny.sh/blog/choosing-a-sync-engine-in-2026/",
+    "Timestamp": "2026-03-10T01:02:45",
+    "Domain": "johnny.sh",
+    "Description": "Detailing my failures with localfirst frameworks",
+    "Confidence": 0.9730666
+  },
+  {
+    "Title": "Reflections on vibe coding an iOS app",
+    "Url": "https://taylor.fausak.me/2026/03/09/vibing/",
+    "Timestamp": "2026-03-10T01:02:42",
+    "Domain": "taylor.fausak.me",
+    "Description": "I am not an iOS developer, but a few days ago I published an iOS app called Pylo. Sure, I have been writing software professionally for nearly 20 years. I even wrote an iOS app before, but the late...",
+    "Confidence": 0.9884785
+  },
+  {
+    "Title": "So you don't want to be a manager | Another Rodeo",
+    "Url": "https://another.rodeo/straight-talk-ic-path/",
+    "Timestamp": "2026-03-10T01:02:39",
+    "Domain": "another.rodeo",
+    "Description": "Straight talk to a senior engineer wanting to stay on an IC track.",
+    "Confidence": 0.9733155
+  },
+  {
+    "Title": "Every language should have a UUID type",
+    "Url": "https://nafees.bearblog.dev/every-language-should-have-a-uuid-type/",
+    "Timestamp": "2026-03-10T01:02:36",
+    "Domain": "nafees.bearblog.dev",
+    "Description": "I reach for UUIDs constantly. And yet in most languages, there's no standard type for them. You use a string, or a [16]byte, or you add a UUID package and ho...",
+    "Confidence": 0.9875953
+  },
+  {
+    "Title": "Reflections on vibecoding ticket.el",
+    "Url": "https://jmmv.dev/2026/03/vibecoding-ticket-el.html",
+    "Timestamp": "2026-03-10T01:02:33",
+    "Domain": "jmmv.dev",
+    "Description": "It has now been a month since I started playing with Claude Code “for real” and by now I’ve mostly switched to Codex CLI: it is much snappier—who would imagine that a “Rewrite in Rust” would make things tangibly faster—and the answers feel more to-the-point than Claude’s to me.",
+    "Confidence": 0.97739756
+  },
+  {
+    "Title": "Software got weird",
+    "Url": "https://www.coryzue.com/writing/software-got-weird/",
+    "Timestamp": "2026-03-10T01:02:27",
+    "Domain": "www.coryzue.com",
+    "Description": "Disjoint thoughts on AI and the future of building things.",
+    "Confidence": 0.98917913
+  },
+  {
+    "Title": "Extremely Personal Software and the Collapse of the Talent Pipeline",
+    "Url": "https://blog.slamdunk.software/extremely-personal-software-and-the-collapse-of-the-talent-pipeline/",
+    "Timestamp": "2026-03-10T01:02:22",
+    "Domain": "blog.slamdunk.software",
+    "Description": "Open source software is changing, and there's a new strain / a new breed of tooling: Extremely Personal Software (EPS). Skilled programmers will reap most of the benefits, while the market adjusts and people figure out how to bring this new workflow to the masses.",
+    "Confidence": 0.990153
+  },
+  {
     "Title": "A New Chapter for Bluesky - Bluesky",
     "Url": "https://bsky.social/about/blog/03-09-2026-a-new-chapter-for-bluesky",
     "Timestamp": "2026-03-10T00:02:13",
@@ -54,13 +158,5 @@
     "Domain": "idiallo.com",
     "Description": "Technology has advanced to a point I could only have dreamed of as a child. Have you seen the graphics in video games lately? Zero to 60 miles per hour in under two seconds? Communicating with anyone ",
     "Confidence": 0.97108924
-  },
-  {
-    "Title": "Agent Safehouse",
-    "Url": "https://agent-safehouse.dev/",
-    "Timestamp": "2026-03-09T01:02:03",
-    "Domain": "agent-safehouse.dev",
-    "Description": "Sandbox your LLM coding agents on macOS. Kernel-level enforcement via sandbox-exec — deny-first, composable, zero dependencies.",
-    "Confidence": 0.99562675
   }
 ]
