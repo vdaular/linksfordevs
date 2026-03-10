@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Home Remedies</title>
+      <link>https://xkcd.com/3217/</link>
+      <description></description>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3217/</guid>
+      <pubDate>Tue, 10 Mar 2026 08:01:57 GMT</pubDate>
+    </item>
+    <item>
       <title>Code is still a liability</title>
       <link>https://vnturing.github.io/blog/posts/code-is-still-a-liability/</link>
       <description>The more code your team produces, the more code your team must maintain.</description>
