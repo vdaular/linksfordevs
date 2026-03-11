@@ -206,13 +206,5 @@
     "Domain": "cemrehancavdar.com",
     "Description": "Python loses every public benchmark by 21-875x. I took the exact problems people use to dunk on Python and climbed every rung of the optimization ladder -- from CPython version upgrades to Rust. Real numbers, real code, real effort costs.",
     "Confidence": 0.9954705
-  },
-  {
-    "Title": "I'm Not Lying, I'm Hallucinating",
-    "Url": "https://idiallo.com/byte-size/im-not-lying-im-hallucinating?src=feed",
-    "Timestamp": "2026-03-10T21:03:03",
-    "Domain": "idiallo.com",
-    "Description": "Hallucination is a catch all term used to justify all failures from an large language models. By anthropomorphizing it, failures become tolerable to users.",
-    "Confidence": 0.81991094
   }
 ]
