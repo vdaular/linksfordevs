@@ -1,5 +1,133 @@
 [
   {
+    "Title": "Can Claude Read Your Website? A Live Experiment in AI Legibility — Change Log",
+    "Url": "https://johnbrennan.xyz/essay/can-claude-read-your-website",
+    "Timestamp": "2026-03-11T00:03:21",
+    "Domain": "johnbrennan.xyz",
+    "Description": "A live case study in which Claude Opus 4.6 attempted to read three websites — johnbrennan.xyz, agentweekly.ai, and aitoonup.com — revealing which design patterns make content visible to AI agents and which leave sites completely dark.",
+    "Confidence": 0.97922736
+  },
+  {
+    "Title": "Build to capture, not to last",
+    "Url": "https://blog.alireza.cc/build-to-capture-not-to-last",
+    "Timestamp": "2026-03-11T00:03:17",
+    "Domain": "blog.alireza.cc",
+    "Description": "AI stacks expire fast. The durable moat is your captured context: preferences, workflows, and decisions that survive every model and tool reset.",
+    "Confidence": 0.9814668
+  },
+  {
+    "Title": "The Slowest Viral Thing",
+    "Url": "https://pilgrima.ge/p/the-slowest-viral-thing",
+    "Timestamp": "2026-03-11T00:03:12",
+    "Domain": "pilgrima.ge",
+    "Description": "On monks, highways, and the thing your body already knows",
+    "Confidence": 0.64598095
+  },
+  {
+    "Title": " Removing recursion via explicit callstack simulation · Programming should be enjoyable \n",
+    "Url": "https://jnkr.tech/blog/removing-recursion",
+    "Timestamp": "2026-03-11T00:03:08",
+    "Domain": "jnkr.tech",
+    "Description": "What do you call the opposite of a functional pearl?",
+    "Confidence": 0.9972648
+  },
+  {
+    "Title": "jola.dev - Stay in the Loop: How I Actually Use Claude Code",
+    "Url": "https://jola.dev/posts/stay-in-the-loop",
+    "Timestamp": "2026-03-11T00:03:05",
+    "Domain": "jola.dev",
+    "Description": "Johanna Larsson is a software engineer, manager, writer, speaker. With over 14 years of experience in software development and management, she has worked with clients from various industries, including finance, healthcare, and education. She is passionate about creating innovative solutions that solve real-world problems. She is also an advocate for diversity and inclusion in the tech industry. She believes that technology can be a force for good and strives to make a positive impact in the world. She is committed to using her skills and expertise to create a better future for all.",
+    "Confidence": 0.995645
+  },
+  {
+    "Title": "Load-Bearing Walls",
+    "Url": "https://brianschrader.com/archive/load-bearing-walls/",
+    "Timestamp": "2026-03-11T00:03:01",
+    "Domain": "brianschrader.com",
+    "Description": "We like to believe that we can predict the future. We believe it because it's true, at least in part. Physical systems obey known physical laws and so even fairly complex systems can be understood and predicted with stunning accuracy. Every branch of science makes predictions. Planes fly, servers compute, and dams generate power all through the strength we have to predict the future, if only in the short term. In our human world, we see pollsters predict elections with better-than-random odds, doctors performing research and intervention at global scales, and even disease propagating at predictable rates.",
+    "Confidence": 0.95171785
+  },
+  {
+    "Title": "Building a Magic Eye Generator and Decoder",
+    "Url": "https://simedw.com/2026/03/10/magic-eye/",
+    "Timestamp": "2026-03-11T00:02:57",
+    "Domain": "simedw.com",
+    "Description": "How Magic Eye autostereograms work and how to decode them.",
+    "Confidence": 0.9805647
+  },
+  {
+    "Title": "Defeating context fatigue with agentic scaffolding – blog",
+    "Url": "https://patrickmccanna.net/defeating-context-fatigue-with-agentic-scaffolding/",
+    "Timestamp": "2026-03-11T00:02:54",
+    "Domain": "patrickmccanna.net",
+    "Description": "I’ve been thinking about how to improve my agent workflows- and I’ve discovered that there is a productivity speed bump that you hit as you get more fearless with agentic development: You know the agents cannot be trusted to make the right call, so you review every decision.  This slows everything down.",
+    "Confidence": 0.98861104
+  },
+  {
+    "Title": "The Biggest Identity Sandpiles and How to Compute Them",
+    "Url": "https://eavan.blog/posts/big-identity-sandpiles.html",
+    "Timestamp": "2026-03-11T00:02:50",
+    "Domain": "eavan.blog",
+    "Description": "When I wrote Beautiful Abelian Sandpiles I wanted to show off some nice images of large identity sandpiles. But the simple algorithm I used was horrendously slow. Showing a sandpile identity that was larger than 100 by 100 took multiple seconds! That's not good enough! I became obsessed with trying to find a faster way, all in an effort to compute bigger and bigger sandpile identities, bigger than anything anyone had seen before. In the end, I did exactly that.",
+    "Confidence": 0.993172
+  },
+  {
+    "Title": "Against Vibes: When is a Generative Model Useful",
+    "Url": "https://www.williamjbowman.com/blog/2026/03/05/against-vibes-when-is-a-generative-model-useful/",
+    "Timestamp": "2026-03-11T00:02:44",
+    "Domain": "www.williamjbowman.com",
+    "Description": "Let's suppose I wanted to answer a question: is the tool X useful for the task Y. If I were scientific about this, I would analyze the properties of tool X and develop a model, and the task Y and the requirements for it and develop a model, and I would us...",
+    "Confidence": 0.99407065
+  },
+  {
+    "Title": "Codex, File My Taxes. Make No Mistakes. | Kyle Corbitt",
+    "Url": "https://corbt.com/posts/codex-file-my-taxes-make-no-mistakes",
+    "Timestamp": "2026-03-11T00:02:41",
+    "Domain": "corbt.com",
+    "Description": "I asked an accountant and an AI agent to prepare my 2025 tax return. Only one succeeded.",
+    "Confidence": 0.9719738
+  },
+  {
+    "Title": "Is Music Just Sound?",
+    "Url": "https://perthirtysix.com/is-music-just-sound",
+    "Timestamp": "2026-03-11T00:02:38",
+    "Domain": "perthirtysix.com",
+    "Description": "A creative technologist's perspective on AI-generated music",
+    "Confidence": 0.9317801
+  },
+  {
+    "Title": "using directx shared surfaces as a kernel ipc channel",
+    "Url": "https://afpereira.me/posts/dxsurflink/",
+    "Timestamp": "2026-03-11T00:02:34",
+    "Domain": "afpereira.me",
+    "Description": "kernel drivers and usermode apps usually talk through well-worn channels: ioctls, shared memory sections, apcs, event objects. they work. they are also very well-known — to developers, to security researchers, and to the tools that monitor them.\ndxsurflink is a proof-of-concept that asks: what if they talked through gpu vram instead?",
+    "Confidence": 0.9962935
+  },
+  {
+    "Title": "Deriving Type Erasure | David Álvarez Rosa | Personal Website",
+    "Url": "https://david.alvarezrosa.com/posts/deriving-type-erasure/",
+    "Timestamp": "2026-03-11T00:02:31",
+    "Domain": "david.alvarezrosa.com",
+    "Description": "Ever looked at std::any and wondered what&rsquo;s going on behind the scenes? Beneath the intimidating interface is a classic technique called type erasure: …",
+    "Confidence": 0.9989917
+  },
+  {
+    "Title": "Stop Using Chat History As Your Agent's State Store",
+    "Url": "https://blog.raed.dev/posts/agentic-workflows-are-not-conversations/",
+    "Timestamp": "2026-03-11T00:02:27",
+    "Domain": "blog.raed.dev",
+    "Description": "The chat interface is fine for users. The flat message model behind it erases the semantics that agentic systems actually need to operate correctly.",
+    "Confidence": 0.99648285
+  },
+  {
+    "Title": "The Optimization Ladder",
+    "Url": "https://cemrehancavdar.com/2026/03/10/optimization-ladder/",
+    "Timestamp": "2026-03-11T00:02:23",
+    "Domain": "cemrehancavdar.com",
+    "Description": "Python loses every public benchmark by 21-875x. I took the exact problems people use to dunk on Python and climbed every rung of the optimization ladder -- from CPython version upgrades to Rust. Real numbers, real code, real effort costs.",
+    "Confidence": 0.9954705
+  },
+  {
     "Title": "I'm Not Lying, I'm Hallucinating",
     "Url": "https://idiallo.com/byte-size/im-not-lying-im-hallucinating?src=feed",
     "Timestamp": "2026-03-10T21:03:03",
@@ -158,13 +286,5 @@
     "Domain": "blog.slamdunk.software",
     "Description": "Open source software is changing, and there's a new strain / a new breed of tooling: Extremely Personal Software (EPS). Skilled programmers will reap most of the benefits, while the market adjusts and people figure out how to bring this new workflow to the masses.",
     "Confidence": 0.990153
-  },
-  {
-    "Title": "A New Chapter for Bluesky - Bluesky",
-    "Url": "https://bsky.social/about/blog/03-09-2026-a-new-chapter-for-bluesky",
-    "Timestamp": "2026-03-10T00:02:13",
-    "Domain": "bsky.social",
-    "Description": "After several intense and incredible years building Bluesky from the ground up, I've decided to step back as CEO and transition to a new role as Bluesky's Chief Innovation Officer.",
-    "Confidence": 0.93742687
   }
 ]

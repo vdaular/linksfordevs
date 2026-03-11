@@ -7,6 +7,155 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Can Claude Read Your Website? A Live Experiment in AI Legibility — Change Log</title>
+      <link>https://johnbrennan.xyz/essay/can-claude-read-your-website</link>
+      <description>A live case study in which Claude Opus 4.6 attempted to read three websites — johnbrennan.xyz, agentweekly.ai, and aitoonup.com — revealing which design patterns make content visible to AI agents and which leave sites completely dark.</description>
+      <category>ai</category>
+      <category>encryption</category>
+      <category>javascript</category>
+      <category>web</category>
+      <category>git</category>
+      <guid>https://johnbrennan.xyz/essay/can-claude-read-your-website</guid>
+      <pubDate>Wed, 11 Mar 2026 00:03:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Build to capture, not to last</title>
+      <link>https://blog.alireza.cc/build-to-capture-not-to-last</link>
+      <description>AI stacks expire fast. The durable moat is your captured context: preferences, workflows, and decisions that survive every model and tool reset.</description>
+      <author> (Alireza Sheikholmolouki)</author>
+      <category>ai</category>
+      <guid>https://blog.alireza.cc/build-to-capture-not-to-last</guid>
+      <pubDate>Wed, 11 Mar 2026 00:03:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Slowest Viral Thing</title>
+      <link>https://pilgrima.ge/p/the-slowest-viral-thing</link>
+      <description>On monks, highways, and the thing your body already knows</description>
+      <guid>https://pilgrima.ge/p/the-slowest-viral-thing</guid>
+      <pubDate>Wed, 11 Mar 2026 00:03:12 GMT</pubDate>
+    </item>
+    <item>
+      <title> Removing recursion via explicit callstack simulation · Programming should be enjoyable 
+</title>
+      <link>https://jnkr.tech/blog/removing-recursion</link>
+      <description>What do you call the opposite of a functional pearl?</description>
+      <category>nodejs</category>
+      <category>ai</category>
+      <category>typescript</category>
+      <category>encryption</category>
+      <category>javascript</category>
+      <guid>https://jnkr.tech/blog/removing-recursion</guid>
+      <pubDate>Wed, 11 Mar 2026 00:03:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>jola.dev - Stay in the Loop: How I Actually Use Claude Code</title>
+      <link>https://jola.dev/posts/stay-in-the-loop</link>
+      <description>Johanna Larsson is a software engineer, manager, writer, speaker. With over 14 years of experience in software development and management, she has worked with clients from various industries, including finance, healthcare, and education. She is passionate about creating innovative solutions that solve real-world problems. She is also an advocate for diversity and inclusion in the tech industry. She believes that technology can be a force for good and strives to make a positive impact in the world. She is committed to using her skills and expertise to create a better future for all.</description>
+      <category>ai</category>
+      <guid>https://jola.dev/posts/stay-in-the-loop</guid>
+      <pubDate>Wed, 11 Mar 2026 00:03:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Load-Bearing Walls</title>
+      <link>https://brianschrader.com/archive/load-bearing-walls/</link>
+      <description>We like to believe that we can predict the future. We believe it because it's true, at least in part. Physical systems obey known physical laws and so even fairly complex systems can be understood and predicted with stunning accuracy. Every branch of science makes predictions. Planes fly, servers compute, and dams generate power all through the strength we have to predict the future, if only in the short term. In our human world, we see pollsters predict elections with better-than-random odds, doctors performing research and intervention at global scales, and even disease propagating at predictable rates.</description>
+      <category>gaming</category>
+      <guid>https://brianschrader.com/archive/load-bearing-walls/</guid>
+      <pubDate>Wed, 11 Mar 2026 00:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Building a Magic Eye Generator and Decoder</title>
+      <link>https://simedw.com/2026/03/10/magic-eye/</link>
+      <description>How Magic Eye autostereograms work and how to decode them.</description>
+      <author> (Simon Edwardsson)</author>
+      <category>ai</category>
+      <guid>https://simedw.com/2026/03/10/magic-eye/</guid>
+      <pubDate>Wed, 11 Mar 2026 00:02:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Defeating context fatigue with agentic scaffolding – blog</title>
+      <link>https://patrickmccanna.net/defeating-context-fatigue-with-agentic-scaffolding/</link>
+      <description>I’ve been thinking about how to improve my agent workflows- and I’ve discovered that there is a productivity speed bump that you hit as you get more fearless with agentic development: You know the agents cannot be trusted to make the right call, so you review every decision.  This slows everything down.</description>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://patrickmccanna.net/defeating-context-fatigue-with-agentic-scaffolding/</guid>
+      <pubDate>Wed, 11 Mar 2026 00:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Biggest Identity Sandpiles and How to Compute Them</title>
+      <link>https://eavan.blog/posts/big-identity-sandpiles.html</link>
+      <description>When I wrote Beautiful Abelian Sandpiles I wanted to show off some nice images of large identity sandpiles. But the simple algorithm I used was horrendously slow. Showing a sandpile identity that was larger than 100 by 100 took multiple seconds! That's not good enough! I became obsessed with trying to find a faster way, all in an effort to compute bigger and bigger sandpile identities, bigger than anything anyone had seen before. In the end, I did exactly that.</description>
+      <guid>https://eavan.blog/posts/big-identity-sandpiles.html</guid>
+      <pubDate>Wed, 11 Mar 2026 00:02:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Against Vibes: When is a Generative Model Useful</title>
+      <link>https://www.williamjbowman.com/blog/2026/03/05/against-vibes-when-is-a-generative-model-useful/</link>
+      <description>Let's suppose I wanted to answer a question: is the tool X useful for the task Y. If I were scientific about this, I would analyze the properties of tool X and develop a model, and the task Y and the requirements for it and develop a model, and I would us...</description>
+      <category>vscode</category>
+      <category>ai</category>
+      <guid>https://www.williamjbowman.com/blog/2026/03/05/against-vibes-when-is-a-generative-model-useful/</guid>
+      <pubDate>Wed, 11 Mar 2026 00:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Codex, File My Taxes. Make No Mistakes. | Kyle Corbitt</title>
+      <link>https://corbt.com/posts/codex-file-my-taxes-make-no-mistakes</link>
+      <description>I asked an accountant and an AI agent to prepare my 2025 tax return. Only one succeeded.</description>
+      <category>ai</category>
+      <guid>https://corbt.com/posts/codex-file-my-taxes-make-no-mistakes</guid>
+      <pubDate>Wed, 11 Mar 2026 00:02:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Is Music Just Sound?</title>
+      <link>https://perthirtysix.com/is-music-just-sound</link>
+      <description>A creative technologist's perspective on AI-generated music</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <category>git</category>
+      <guid>https://perthirtysix.com/is-music-just-sound</guid>
+      <pubDate>Wed, 11 Mar 2026 00:02:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>using directx shared surfaces as a kernel ipc channel</title>
+      <link>https://afpereira.me/posts/dxsurflink/</link>
+      <description>kernel drivers and usermode apps usually talk through well-worn channels: ioctls, shared memory sections, apcs, event objects. they work. they are also very well-known — to developers, to security researchers, and to the tools that monitor them.
+dxsurflink is a proof-of-concept that asks: what if they talked through gpu vram instead?</description>
+      <guid>https://afpereira.me/posts/dxsurflink/</guid>
+      <pubDate>Wed, 11 Mar 2026 00:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Deriving Type Erasure | David Álvarez Rosa | Personal Website</title>
+      <link>https://david.alvarezrosa.com/posts/deriving-type-erasure/</link>
+      <description>Ever looked at std::any and wondered what&amp;rsquo;s going on behind the scenes? Beneath the intimidating interface is a classic technique called type erasure: …</description>
+      <category>rust</category>
+      <category>git</category>
+      <guid>https://david.alvarezrosa.com/posts/deriving-type-erasure/</guid>
+      <pubDate>Wed, 11 Mar 2026 00:02:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stop Using Chat History As Your Agent's State Store</title>
+      <link>https://blog.raed.dev/posts/agentic-workflows-are-not-conversations/</link>
+      <description>The chat interface is fine for users. The flat message model behind it erases the semantics that agentic systems actually need to operate correctly.</description>
+      <category>cloud</category>
+      <category>sql</category>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://blog.raed.dev/posts/agentic-workflows-are-not-conversations/</guid>
+      <pubDate>Wed, 11 Mar 2026 00:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Optimization Ladder</title>
+      <link>https://cemrehancavdar.com/2026/03/10/optimization-ladder/</link>
+      <description>Python loses every public benchmark by 21-875x. I took the exact problems people use to dunk on Python and climbed every rung of the optimization ladder -- from CPython version upgrades to Rust. Real numbers, real code, real effort costs.</description>
+      <category>rust</category>
+      <category>encryption</category>
+      <category>python</category>
+      <category>ai</category>
+      <category>vscode</category>
+      <guid>https://cemrehancavdar.com/2026/03/10/optimization-ladder/</guid>
+      <pubDate>Wed, 11 Mar 2026 00:02:23 GMT</pubDate>
+    </item>
+    <item>
       <title>I'm Not Lying, I'm Hallucinating</title>
       <link>https://idiallo.com/byte-size/im-not-lying-im-hallucinating?src=feed</link>
       <description>Hallucination is a catch all term used to justify all failures from an large language models. By anthropomorphizing it, failures become tolerable to users.</description>
@@ -187,13 +336,6 @@
       <category>rust</category>
       <guid>https://blog.slamdunk.software/extremely-personal-software-and-the-collapse-of-the-talent-pipeline/</guid>
       <pubDate>Tue, 10 Mar 2026 01:02:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>A New Chapter for Bluesky - Bluesky</title>
-      <link>https://bsky.social/about/blog/03-09-2026-a-new-chapter-for-bluesky</link>
-      <description>After several intense and incredible years building Bluesky from the ground up, I've decided to step back as CEO and transition to a new role as Bluesky's Chief Innovation Officer.</description>
-      <guid>https://bsky.social/about/blog/03-09-2026-a-new-chapter-for-bluesky</guid>
-      <pubDate>Tue, 10 Mar 2026 00:02:13 GMT</pubDate>
     </item>
   </channel>
 </rss>
