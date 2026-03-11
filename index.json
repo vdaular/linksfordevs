@@ -1,5 +1,21 @@
 [
   {
+    "Title": "I'm Building Agents That Run While I Sleep",
+    "Url": "https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep",
+    "Timestamp": "2026-03-11T04:02:10",
+    "Domain": "www.claudecodecamp.com",
+    "Description": " I Have No Idea If What They Ship Is Any Good",
+    "Confidence": 0.98540926
+  },
+  {
+    "Title": "CI should fail on your machine first",
+    "Url": "https://blog.nix-ci.com/post/2026-03-09_ci-should-fail-on-your-machine-first",
+    "Timestamp": "2026-03-11T04:02:06",
+    "Domain": "blog.nix-ci.com",
+    "Description": "When you think of CI, you probably picture a remote server somewhere: GitHub Actions, GitLab CI, Jenkins. You push your code, you wait, and eventually you get a green checkmark or a red X. This is so normal that we don't even question it. But why does CI have to be remote? ",
+    "Confidence": 0.99026394
+  },
+  {
     "Title": "The Server Older than my Kids!",
     "Url": "https://idiallo.com/byte-size/my-server-is-older-than-my-kids?src=feed",
     "Timestamp": "2026-03-11T02:02:07",

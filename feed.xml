@@ -7,6 +7,24 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>I'm Building Agents That Run While I Sleep</title>
+      <link>https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep</link>
+      <description> I Have No Idea If What They Ship Is Any Good</description>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep</guid>
+      <pubDate>Wed, 11 Mar 2026 04:02:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>CI should fail on your machine first</title>
+      <link>https://blog.nix-ci.com/post/2026-03-09_ci-should-fail-on-your-machine-first</link>
+      <description>When you think of CI, you probably picture a remote server somewhere: GitHub Actions, GitLab CI, Jenkins. You push your code, you wait, and eventually you get a green checkmark or a red X. This is so normal that we don't even question it. But why does CI have to be remote? </description>
+      <category>git</category>
+      <category>linux</category>
+      <guid>https://blog.nix-ci.com/post/2026-03-09_ci-should-fail-on-your-machine-first</guid>
+      <pubDate>Wed, 11 Mar 2026 04:02:06 GMT</pubDate>
+    </item>
+    <item>
       <title>The Server Older than my Kids!</title>
       <link>https://idiallo.com/byte-size/my-server-is-older-than-my-kids?src=feed</link>
       <description>Due to procrastination, my static file server was long overdue for an upgrade. After 7 years, I've finally written a provisioning script. Welcome this new puppy</description>
