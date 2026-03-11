@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Devlog ⚡ Zig Programming Language</title>
+      <link>https://ziglang.org/devlog/2026/#2026-03-10</link>
+      <description>This page contains a curated list of recent changes to main branch Zig.</description>
+      <category>git</category>
+      <guid>https://ziglang.org/devlog/2026/#2026-03-10</guid>
+      <pubDate>Wed, 11 Mar 2026 11:01:59 GMT</pubDate>
+    </item>
+    <item>
       <title>Every minute you aren’t running 69 agents, you are falling behind</title>
       <link>https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html</link>
       <description>Just kidding.</description>
