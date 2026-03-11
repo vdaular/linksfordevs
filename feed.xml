@@ -254,17 +254,5 @@ dxsurflink is a proof-of-concept that asks: what if they talked through gpu vram
       <guid>https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/</guid>
       <pubDate>Tue, 10 Mar 2026 12:02:05 GMT</pubDate>
     </item>
-    <item>
-      <title>Two Years of Emacs Solo: 35 Modules, Zero External Packages, and a Full Refactor | Rahul's Blog</title>
-      <link>https://www.rahuljuliato.com/posts/emacs-solo-two-years</link>
-      <description>Rahul's Blog</description>
-      <category>git</category>
-      <category>typescript</category>
-      <category>containers</category>
-      <category>ai</category>
-      <category>vscode</category>
-      <guid>https://www.rahuljuliato.com/posts/emacs-solo-two-years</guid>
-      <pubDate>Tue, 10 Mar 2026 10:02:09 GMT</pubDate>
-    </item>
   </channel>
 </rss>
