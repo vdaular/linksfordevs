@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Where did you think the training data was coming from?",
+    "Url": "https://idiallo.com/blog/where-did-the-training-data-come-from-meta-ai-rayban-glasses?src=feed",
+    "Timestamp": "2026-03-11T12:02:02",
+    "Domain": "idiallo.com",
+    "Description": "When the news broke that Meta's smart glasses were feeding data directly into their Facebook servers, I wondered what all the fuss was about. Who thought AI glasses used to secretly record people woul",
+    "Confidence": 0.9757231
+  },
+  {
     "Title": "Devlog ⚡ Zig Programming Language",
     "Url": "https://ziglang.org/devlog/2026/#2026-03-10",
     "Timestamp": "2026-03-11T11:01:59",
@@ -214,13 +222,5 @@
     "Domain": "www.ft.com",
     "Description": "Meta’s former chief AI scientist launches AMI Labs with backing from Nvidia, Temasek and Jeff Bezos ",
     "Confidence": 0.76417214
-  },
-  {
-    "Title": "No, it doesn't cost Anthropic $5k per Claude Code user",
-    "Url": "https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/",
-    "Timestamp": "2026-03-10T12:02:05",
-    "Domain": "martinalderson.com",
-    "Description": "The viral claim that Anthropic loses $5,000 per Claude Code subscriber doesn't survive basic scrutiny. Let's do the actual maths.",
-    "Confidence": 0.9908464
   }
 ]

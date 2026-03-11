@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Where did you think the training data was coming from?</title>
+      <link>https://idiallo.com/blog/where-did-the-training-data-come-from-meta-ai-rayban-glasses?src=feed</link>
+      <description>When the news broke that Meta's smart glasses were feeding data directly into their Facebook servers, I wondered what all the fuss was about. Who thought AI glasses used to secretly record people woul</description>
+      <category>ai</category>
+      <guid>https://idiallo.com/blog/where-did-the-training-data-come-from-meta-ai-rayban-glasses?src=feed</guid>
+      <pubDate>Wed, 11 Mar 2026 12:02:02 GMT</pubDate>
+    </item>
+    <item>
       <title>Devlog ⚡ Zig Programming Language</title>
       <link>https://ziglang.org/devlog/2026/#2026-03-10</link>
       <description>This page contains a curated list of recent changes to main branch Zig.</description>
@@ -251,16 +259,6 @@ dxsurflink is a proof-of-concept that asks: what if they talked through gpu vram
       <category>ai</category>
       <guid>https://www.ft.com/content/e5245ec3-1a58-4eff-ab58-480b6259aaf1</guid>
       <pubDate>Tue, 10 Mar 2026 15:02:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>No, it doesn't cost Anthropic $5k per Claude Code user</title>
-      <link>https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/</link>
-      <description>The viral claim that Anthropic loses $5,000 per Claude Code subscriber doesn't survive basic scrutiny. Let's do the actual maths.</description>
-      <author> (Martin Alderson)</author>
-      <category>ai</category>
-      <category>vscode</category>
-      <guid>https://martinalderson.com/posts/no-it-doesnt-cost-anthropic-5k-per-claude-code-user/</guid>
-      <pubDate>Tue, 10 Mar 2026 12:02:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
