@@ -7,6 +7,24 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>U+237C ⍼ is Azimuth</title>
+      <link>https://ionathan.ch/2026/02/16/angzarr.html</link>
+      <description></description>
+      <category>web</category>
+      <guid>https://ionathan.ch/2026/02/16/angzarr.html</guid>
+      <pubDate>Wed, 11 Mar 2026 08:02:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Crawl entire websites with a single API call using Browser Rendering</title>
+      <link>https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/</link>
+      <description>Browser Rendering's new /crawl endpoint lets you submit a starting URL and automatically discover, render, and return content from an entire website as HTML, Markdown, or structured JSON.</description>
+      <category>javascript</category>
+      <category>web</category>
+      <category>ai</category>
+      <guid>https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/</guid>
+      <pubDate>Wed, 11 Mar 2026 08:02:09 GMT</pubDate>
+    </item>
+    <item>
       <title>I'm Building Agents That Run While I Sleep</title>
       <link>https://www.claudecodecamp.com/p/i-m-building-agents-that-run-while-i-sleep</link>
       <description> I Have No Idea If What They Ship Is Any Good</description>
@@ -237,14 +255,6 @@ dxsurflink is a proof-of-concept that asks: what if they talked through gpu vram
       <category>vscode</category>
       <guid>https://www.rahuljuliato.com/posts/emacs-solo-two-years</guid>
       <pubDate>Tue, 10 Mar 2026 10:02:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Home Remedies</title>
-      <link>https://xkcd.com/3217/</link>
-      <description></description>
-      <category>javascript</category>
-      <guid>https://xkcd.com/3217/</guid>
-      <pubDate>Tue, 10 Mar 2026 08:01:57 GMT</pubDate>
     </item>
   </channel>
 </rss>
