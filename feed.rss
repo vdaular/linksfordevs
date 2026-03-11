@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The Server Older than my Kids!</title>
+      <link>https://idiallo.com/byte-size/my-server-is-older-than-my-kids?src=feed</link>
+      <description>Due to procrastination, my static file server was long overdue for an upgrade. After 7 years, I've finally written a provisioning script. Welcome this new puppy</description>
+      <category>linux</category>
+      <category>web</category>
+      <category>sql</category>
+      <category>javascript</category>
+      <category>ai</category>
+      <guid>https://idiallo.com/byte-size/my-server-is-older-than-my-kids?src=feed</guid>
+      <pubDate>Wed, 11 Mar 2026 02:02:07 GMT</pubDate>
+    </item>
+    <item>
       <title>Can Claude Read Your Website? A Live Experiment in AI Legibility — Change Log</title>
       <link>https://johnbrennan.xyz/essay/can-claude-read-your-website</link>
       <description>A live case study in which Claude Opus 4.6 attempted to read three websites — johnbrennan.xyz, agentweekly.ai, and aitoonup.com — revealing which design patterns make content visible to AI agents and which leave sites completely dark.</description>

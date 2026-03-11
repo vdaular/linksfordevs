@@ -1,5 +1,13 @@
 [
   {
+    "Title": "The Server Older than my Kids!",
+    "Url": "https://idiallo.com/byte-size/my-server-is-older-than-my-kids?src=feed",
+    "Timestamp": "2026-03-11T02:02:07",
+    "Domain": "idiallo.com",
+    "Description": "Due to procrastination, my static file server was long overdue for an upgrade. After 7 years, I've finally written a provisioning script. Welcome this new puppy",
+    "Confidence": 0.963329
+  },
+  {
     "Title": "Can Claude Read Your Website? A Live Experiment in AI Legibility — Change Log",
     "Url": "https://johnbrennan.xyz/essay/can-claude-read-your-website",
     "Timestamp": "2026-03-11T00:03:21",
