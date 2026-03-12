@@ -222,21 +222,5 @@
     "Domain": "geohot.github.io",
     "Description": "Just kidding.",
     "Confidence": 0.9898393
-  },
-  {
-    "Title": "U+237C ⍼ is Azimuth",
-    "Url": "https://ionathan.ch/2026/02/16/angzarr.html",
-    "Timestamp": "2026-03-11T08:02:14",
-    "Domain": "ionathan.ch",
-    "Description": "",
-    "Confidence": 0.9141523
-  },
-  {
-    "Title": "Crawl entire websites with a single API call using Browser Rendering",
-    "Url": "https://developers.cloudflare.com/changelog/post/2026-03-10-br-crawl-endpoint/",
-    "Timestamp": "2026-03-11T08:02:09",
-    "Domain": "developers.cloudflare.com",
-    "Description": "Browser Rendering's new /crawl endpoint lets you submit a starting URL and automatically discover, render, and return content from an entire website as HTML, Markdown, or structured JSON.",
-    "Confidence": 0.91392565
   }
 ]
