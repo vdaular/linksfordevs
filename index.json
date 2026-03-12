@@ -1,5 +1,13 @@
 [
   {
+    "Title": "s@: social networking over static sites",
+    "Url": "http://satproto.org/",
+    "Timestamp": "2026-03-12T09:03:01",
+    "Domain": "satproto.org",
+    "Description": "Social networking over static sites",
+    "Confidence": 0.99833626
+  },
+  {
     "Title": "Subduction Retrieval",
     "Url": "https://xkcd.com/3218/",
     "Timestamp": "2026-03-12T03:02:06",
@@ -214,13 +222,5 @@
     "Domain": "ziglang.org",
     "Description": "This page contains a curated list of recent changes to main branch Zig.",
     "Confidence": 0.996928
-  },
-  {
-    "Title": "Every minute you aren’t running 69 agents, you are falling behind",
-    "Url": "https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html",
-    "Timestamp": "2026-03-11T09:02:27",
-    "Domain": "geohot.github.io",
-    "Description": "Just kidding.",
-    "Confidence": 0.9898393
   }
 ]

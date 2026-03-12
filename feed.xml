@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>s@: social networking over static sites</title>
+      <link>http://satproto.org/</link>
+      <description>Social networking over static sites</description>
+      <category>javascript</category>
+      <category>encryption</category>
+      <category>git</category>
+      <guid>http://satproto.org/</guid>
+      <pubDate>Thu, 12 Mar 2026 09:03:01 GMT</pubDate>
+    </item>
+    <item>
       <title>Subduction Retrieval</title>
       <link>https://xkcd.com/3218/</link>
       <description></description>
@@ -263,16 +273,6 @@ Hetty, like me, likes playing with monster hardware. 2 TB of RAM is not unusual 
       <category>git</category>
       <guid>https://ziglang.org/devlog/2026/#2026-03-10</guid>
       <pubDate>Wed, 11 Mar 2026 11:01:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Every minute you aren’t running 69 agents, you are falling behind</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html</link>
-      <description>Just kidding.</description>
-      <category>ai</category>
-      <category>gaming</category>
-      <category>web</category>
-      <guid>https://geohot.github.io//blog/jekyll/update/2026/03/11/running-69-agents.html</guid>
-      <pubDate>Wed, 11 Mar 2026 09:02:27 GMT</pubDate>
     </item>
   </channel>
 </rss>
