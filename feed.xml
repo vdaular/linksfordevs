@@ -261,18 +261,5 @@ Hetty, like me, likes playing with monster hardware. 2 TB of RAM is not unusual 
       <guid>https://www.adriankrebs.ch/blog/dead-internet/</guid>
       <pubDate>Wed, 11 Mar 2026 22:02:17 GMT</pubDate>
     </item>
-    <item>
-      <title>Temporal: The 9-Year Journey to Fix Time in JavaScript</title>
-      <link>https://bloomberg.github.io/js-blog/post/temporal/</link>
-      <description>JavaScript&amp;#39;s Date object has been a source of bugs for three decades. Temporal, which just reached Stage 4, is a modern replacement with immutable types, first-class time zone and calendar support, and nanosecond precision. This is the story of how Bloomberg, Igalia, and the TC39 community spent nine years turning an idea into a shipping standard.</description>
-      <author> (Jason Williams)</author>
-      <category>nodejs</category>
-      <category>javascript</category>
-      <category>rust</category>
-      <category>web</category>
-      <category>typescript</category>
-      <guid>https://bloomberg.github.io/js-blog/post/temporal/</guid>
-      <pubDate>Wed, 11 Mar 2026 19:02:25 GMT</pubDate>
-    </item>
   </channel>
 </rss>

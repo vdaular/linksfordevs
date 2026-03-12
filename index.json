@@ -206,13 +206,5 @@
     "Domain": "www.adriankrebs.ch",
     "Description": "Bots have taken over",
     "Confidence": 0.95255744
-  },
-  {
-    "Title": "Temporal: The 9-Year Journey to Fix Time in JavaScript",
-    "Url": "https://bloomberg.github.io/js-blog/post/temporal/",
-    "Timestamp": "2026-03-11T19:02:25",
-    "Domain": "bloomberg.github.io",
-    "Description": "JavaScript&#39;s Date object has been a source of bugs for three decades. Temporal, which just reached Stage 4, is a modern replacement with immutable types, first-class time zone and calendar support, and nanosecond precision. This is the story of how Bloomberg, Igalia, and the TC39 community spent nine years turning an idea into a shipping standard.",
-    "Confidence": 0.9823104
   }
 ]
