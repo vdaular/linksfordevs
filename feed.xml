@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Can the MacBook Neo replace my M4 Air?</title>
+      <link>https://www.jeffgeerling.com/blog/2026/macbook-neo-replace-m4-air/</link>
+      <description>Many of us wonder if the MacBook Neo is 'the one'.
+Because I have a faster desktop (currently a M4 Max Mac Studio), I've always used a lower-end Mac laptop, like the iBook or MacBook Air, for travel. I've used MacBook Pros in the past, but I like the portability of smaller, cheaper models.
+In fact, my favorite Mac laptop ever was the 11" Air.</description>
+      <category>apple</category>
+      <category>ai</category>
+      <guid>https://www.jeffgeerling.com/blog/2026/macbook-neo-replace-m4-air/</guid>
+      <pubDate>Thu, 12 Mar 2026 18:02:04 GMT</pubDate>
+    </item>
+    <item>
       <title>MALUS - Clean Room as a Service</title>
       <link>https://malus.sh/</link>
       <description>SYS-001 · REV-2.4 · Robot-Reconstructed · Zero Attribution</description>
