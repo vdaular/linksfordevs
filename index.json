@@ -1,5 +1,173 @@
 [
   {
+    "Title": "I don't know if I like working at higher levels of abstraction",
+    "Url": "https://xeiaso.net/blog/2026/ai-abstraction/",
+    "Timestamp": "2026-03-12T00:03:51",
+    "Domain": "xeiaso.net",
+    "Description": "AI tools push us to higher abstraction. I'm not sure I like what that costs us.",
+    "Confidence": 0.9580999
+  },
+  {
+    "Title": "Why Vibe Coding Won't Build More Successful Products.",
+    "Url": "https://yinka.dev/blog/why-vibe-coding-wont-build-more-successful-products/",
+    "Timestamp": "2026-03-12T00:03:44",
+    "Domain": "yinka.dev",
+    "Description": "Why vibe coding isn't shipping more successful products. More Code ≠ More Products.",
+    "Confidence": 0.990465
+  },
+  {
+    "Title": "Hiding code in code - Hart Traveller",
+    "Url": "https://harttraveller.com/2026/03/11/hiding-code-in-code.html",
+    "Timestamp": "2026-03-12T00:03:41",
+    "Domain": "harttraveller.com",
+    "Description": "You can hide arbitrary code (or any data for that matter) in self executing code. A neat example and a python package (PyPi | GitHub) are included.",
+    "Confidence": 0.99827206
+  },
+  {
+    "Title": "Exclusive scheduled jobs using database locks",
+    "Url": "https://tkareine.org/articles/exclusive-scheduled-jobs-using-db-locks.html",
+    "Timestamp": "2026-03-12T00:03:37",
+    "Domain": "tkareine.org",
+    "Description": "Using locks implemented as rows in an SQL database enables running scheduled background jobs in an application, providing a best-effort guarantee that only one application instance at a time runs …",
+    "Confidence": 0.9943057
+  },
+  {
+    "Title": "Beating App Store review: lessons from shipping a minimal indie game",
+    "Url": "https://blog.kulman.sk/beating-app-store-review/",
+    "Timestamp": "2026-03-12T00:03:34",
+    "Domain": "blog.kulman.sk",
+    "Description": "What App Store ‘Minimum Functionality’ really means, based on shipping a focused, minimal indie game and navigating multiple review rejections.",
+    "Confidence": 0.9668924
+  },
+  {
+    "Title": "Building Better Country Selects",
+    "Url": "https://talysto.com/blog/building-better-country-selects/",
+    "Timestamp": "2026-03-12T00:03:31",
+    "Domain": "talysto.com",
+    "Description": "A practical UX critique of the standard country dropdown, with guidance for better search, ordering, labeling, and implementation.",
+    "Confidence": 0.9910543
+  },
+  {
+    "Title": "Breaking Down the Jelly Slider",
+    "Url": "https://blog.swmansion.com/breaking-down-the-jelly-slider-9ab9239f6d80",
+    "Timestamp": "2026-03-12T00:03:27",
+    "Domain": "blog.swmansion.com",
+    "Description": "After the Jelly Slider implementation gained a lot of attention, I decided to write this post to explain how it works in detail and show…",
+    "Confidence": 0.9947201
+  },
+  {
+    "Title": "The Noble Path",
+    "Url": "https://www.joanwestenberg.com/the-noble-path/",
+    "Timestamp": "2026-03-12T00:03:19",
+    "Domain": "www.joanwestenberg.com",
+    "Description": "It is a truth universally acknowledged that an indie hacker in possession of a widget must be in want of a business model...\n\nEvery tool is a startup now.\n\nEvery script is a SaaS product.\n\nEvery neat little hack you cobbled together on a Sunday afternoon to solve your own",
+    "Confidence": 0.8393131
+  },
+  {
+    "Title": "Bus travel from Lima to Rio de Janeiro",
+    "Url": "https://kenschutte.com/lima-to-rio-by-bus/",
+    "Timestamp": "2026-03-12T00:03:15",
+    "Domain": "kenschutte.com",
+    "Description": "In 2025, I traveled by bus in South America, starting in Lima, Peru and ending in Rio de Janeiro, Brazil. Here are some details for anyone interested in doing the same.",
+    "Confidence": 0.9232538
+  },
+  {
+    "Title": "Intent-Driven Development",
+    "Url": "https://jason-stillwell.com/blog/2026/03/10/intent-driven-development/",
+    "Timestamp": "2026-03-12T00:03:12",
+    "Domain": "jason-stillwell.com",
+    "Description": "As software engineers, I get the feeling we’re moving almost entirely away from code. And I don’t just mean having conversations with agents where they write all the code.\nBut even further, maintaining just a system of prompts that describes the software. Treating the agents as some kind of modern compiler that compiles English into code. The natural language becomes the “code base”.\nWhen we hold these imperative conversations with agents, tell them what we want, watch them write code, we review it, and then close out the session, starting all over from scratch next time. We lose so much each time.",
+    "Confidence": 0.9962059
+  },
+  {
+    "Title": "Playful leadership development in mid-career academic mentoring and coaching",
+    "Url": "https://wonkhe.com/blogs/playful-leadership-development-in-mid-career-academic-mentoring-and-coaching/",
+    "Timestamp": "2026-03-12T00:03:09",
+    "Domain": "wonkhe.com",
+    "Description": "Matthew Beach and Joanne Yao have a bit of fun with playful approaches to mid-career academic mentoring and coaching",
+    "Confidence": 0.75300485
+  },
+  {
+    "Title": "The Mechanics of Autonomous Software Translation",
+    "Url": "https://alperenkeles.com/posts/autonomous-translations/",
+    "Timestamp": "2026-03-12T00:03:01",
+    "Domain": "alperenkeles.com",
+    "Description": "2026 started with a boom of AI-assisted autonomous translations, on 14th of January,\nCursor published their post on Scaling long-running autonomous coding\nin which they created translations of a browser, Java LSP, Windows emulator and Excel. This was\nfollowed by an Anthropic post on Building a C compiler with a team of parallel Claudes, which has only further fanned the flames of the hype. Both of these posts have garnered lots of positive\nattention but have failed to stand to the expectations of the demos, Cursor browser got lots of well-deserved critique, and people had\ntheir good laughs when the C compiler that could compile the Linux kernel failed on a Hello World example. I view both of these as\ninitial attempts at translating production grade software products using an immature translation engine, and getting\nbroken results. It seems from a speculative point of view that the models are capable enough to do this translation, so my\nposition is that the translation harnesses themselves aren't good enough, or the total budget required is much higher. I'll go\ninto the economics of translation in the translation as a function of money section.",
+    "Confidence": 0.9836857
+  },
+  {
+    "Title": "Chasing Boring at Just the Right Speed",
+    "Url": "https://log.andvari.net/no-mttr.html",
+    "Timestamp": "2026-03-12T00:02:57",
+    "Domain": "log.andvari.net",
+    "Description": "Asking the Right Questions A while back when I was looking for a fulltime gig (and when I was contracting, of course), I had the opportunity to do a bunch of interviews (including the kind of...",
+    "Confidence": 0.8991791
+  },
+  {
+    "Title": "Claude Code isn’t going to replace data engineers (yet)",
+    "Url": "https://rmoff.net/2026/03/11/claude-code-isnt-going-to-replace-data-engineers-yet/",
+    "Timestamp": "2026-03-12T00:02:54",
+    "Domain": "rmoff.net",
+    "Description": "",
+    "Confidence": 0.9906308
+  },
+  {
+    "Title": "Introducing: Code Canary",
+    "Url": "https://fredbenenson.com/blog/2026/03/11/introducing-code-canary/",
+    "Timestamp": "2026-03-12T00:02:50",
+    "Domain": "fredbenenson.com",
+    "Description": "If you’ve got any kind of engineering background, you’re probably spending most of your waking hours enmeshed in a possibly unhealthy relationship with a coding agent like Claude Code. …",
+    "Confidence": 0.9502019
+  },
+  {
+    "Title": "Parametricity, or Comptime is Bonkers",
+    "Url": "https://noelwelsh.com/posts/comptime-is-bonkers/",
+    "Timestamp": "2026-03-12T00:02:47",
+    "Domain": "noelwelsh.com",
+    "Description": "Here's a puzzle. Without looking at the body, what does this Rust function do?",
+    "Confidence": 0.9962708
+  },
+  {
+    "Title": "work_mem: it's a trap! | My DBA Notebook",
+    "Url": "https://mydbanotebook.org/posts/work_mem-its-a-trap/",
+    "Timestamp": "2026-03-12T00:02:43",
+    "Domain": "mydbanotebook.org",
+    "Description": "My friend Henrietta Dombrovskaya pinged me on Telegram. Her production cluster had just been killed by the OOM killer after eating 2 TB of RAM. work_mem was set to 2 MB.\nSomething didn’t add up.\nHetty, like me, likes playing with monster hardware. 2 TB of RAM is not unusual in her world. But losing the whole cluster to a single query during peak operations is a very different kind of problem from a 3am outage.",
+    "Confidence": 0.96809214
+  },
+  {
+    "Title": "The Upfront Investment That Saves 10,000 Hours",
+    "Url": "https://eric.mann.blog/the-upfront-investment-that-saves-10000-hours/",
+    "Timestamp": "2026-03-12T00:02:40",
+    "Domain": "eric.mann.blog",
+    "Description": "There’s a pattern in tech where people mock the setup cost of automation without accounting for the return. I spent a day building a Grunt-based WordPress bootstrapper in 2013. Fortune 500 co…",
+    "Confidence": 0.9128056
+  },
+  {
+    "Title": "Code Quality in the Age of Coding Agents",
+    "Url": "https://michaeltimbs.me/blog/code-quality-in-the-age-of-coding-agents/",
+    "Timestamp": "2026-03-12T00:02:36",
+    "Domain": "michaeltimbs.me",
+    "Description": "An adaptation of an internal talk I gave during a company wide ai-adoption week.",
+    "Confidence": 0.98448974
+  },
+  {
+    "Title": "Get in Line (Part 2) - Vyukov's Queue and its specializations",
+    "Url": "https://abhikja.in/blog/2026-03-10-get-in-line-part-2/",
+    "Timestamp": "2026-03-12T00:02:33",
+    "Domain": "abhikja.in",
+    "Description": "In the last post we got a low-latency SPSC queue. But we often need multi-producer or multi-consumer or both - for example if you want to spin-off a bunch of threads in a threadpool to do some work and then aggregate the result back in the main thread, or you want to launch a bunch of async tasks and don’t want to wait on them but still need their result eventually.",
+    "Confidence": 0.9888118
+  },
+  {
+    "Title": "The Debt Beneath the Dream",
+    "Url": "https://om.co/2026/03/09/the-debt-beneath-the-dream/",
+    "Timestamp": "2026-03-12T00:02:29",
+    "Domain": "om.co",
+    "Description": "Every gambler knows that the secret to survivin’ Is knowin’ what to throw away and knowing what to keep ‘Cause every hand’s a winner and every hand’s a loser And the b…",
+    "Confidence": 0.8022362
+  },
+  {
     "Title": "The dead Internet is not a theory anymore.",
     "Url": "https://www.adriankrebs.ch/blog/dead-internet/",
     "Timestamp": "2026-03-11T22:02:17",
@@ -86,133 +254,5 @@
     "Domain": "idiallo.com",
     "Description": "Due to procrastination, my static file server was long overdue for an upgrade. After 7 years, I've finally written a provisioning script. Welcome this new puppy",
     "Confidence": 0.963329
-  },
-  {
-    "Title": "Can Claude Read Your Website? A Live Experiment in AI Legibility — Change Log",
-    "Url": "https://johnbrennan.xyz/essay/can-claude-read-your-website",
-    "Timestamp": "2026-03-11T00:03:21",
-    "Domain": "johnbrennan.xyz",
-    "Description": "A live case study in which Claude Opus 4.6 attempted to read three websites — johnbrennan.xyz, agentweekly.ai, and aitoonup.com — revealing which design patterns make content visible to AI agents and which leave sites completely dark.",
-    "Confidence": 0.97922736
-  },
-  {
-    "Title": "Build to capture, not to last",
-    "Url": "https://blog.alireza.cc/build-to-capture-not-to-last",
-    "Timestamp": "2026-03-11T00:03:17",
-    "Domain": "blog.alireza.cc",
-    "Description": "AI stacks expire fast. The durable moat is your captured context: preferences, workflows, and decisions that survive every model and tool reset.",
-    "Confidence": 0.9814668
-  },
-  {
-    "Title": "The Slowest Viral Thing",
-    "Url": "https://pilgrima.ge/p/the-slowest-viral-thing",
-    "Timestamp": "2026-03-11T00:03:12",
-    "Domain": "pilgrima.ge",
-    "Description": "On monks, highways, and the thing your body already knows",
-    "Confidence": 0.64598095
-  },
-  {
-    "Title": " Removing recursion via explicit callstack simulation · Programming should be enjoyable \n",
-    "Url": "https://jnkr.tech/blog/removing-recursion",
-    "Timestamp": "2026-03-11T00:03:08",
-    "Domain": "jnkr.tech",
-    "Description": "What do you call the opposite of a functional pearl?",
-    "Confidence": 0.9972648
-  },
-  {
-    "Title": "jola.dev - Stay in the Loop: How I Actually Use Claude Code",
-    "Url": "https://jola.dev/posts/stay-in-the-loop",
-    "Timestamp": "2026-03-11T00:03:05",
-    "Domain": "jola.dev",
-    "Description": "Johanna Larsson is a software engineer, manager, writer, speaker. With over 14 years of experience in software development and management, she has worked with clients from various industries, including finance, healthcare, and education. She is passionate about creating innovative solutions that solve real-world problems. She is also an advocate for diversity and inclusion in the tech industry. She believes that technology can be a force for good and strives to make a positive impact in the world. She is committed to using her skills and expertise to create a better future for all.",
-    "Confidence": 0.995645
-  },
-  {
-    "Title": "Load-Bearing Walls",
-    "Url": "https://brianschrader.com/archive/load-bearing-walls/",
-    "Timestamp": "2026-03-11T00:03:01",
-    "Domain": "brianschrader.com",
-    "Description": "We like to believe that we can predict the future. We believe it because it's true, at least in part. Physical systems obey known physical laws and so even fairly complex systems can be understood and predicted with stunning accuracy. Every branch of science makes predictions. Planes fly, servers compute, and dams generate power all through the strength we have to predict the future, if only in the short term. In our human world, we see pollsters predict elections with better-than-random odds, doctors performing research and intervention at global scales, and even disease propagating at predictable rates.",
-    "Confidence": 0.95171785
-  },
-  {
-    "Title": "Building a Magic Eye Generator and Decoder",
-    "Url": "https://simedw.com/2026/03/10/magic-eye/",
-    "Timestamp": "2026-03-11T00:02:57",
-    "Domain": "simedw.com",
-    "Description": "How Magic Eye autostereograms work and how to decode them.",
-    "Confidence": 0.9805647
-  },
-  {
-    "Title": "Defeating context fatigue with agentic scaffolding – blog",
-    "Url": "https://patrickmccanna.net/defeating-context-fatigue-with-agentic-scaffolding/",
-    "Timestamp": "2026-03-11T00:02:54",
-    "Domain": "patrickmccanna.net",
-    "Description": "I’ve been thinking about how to improve my agent workflows- and I’ve discovered that there is a productivity speed bump that you hit as you get more fearless with agentic development: You know the agents cannot be trusted to make the right call, so you review every decision.  This slows everything down.",
-    "Confidence": 0.98861104
-  },
-  {
-    "Title": "The Biggest Identity Sandpiles and How to Compute Them",
-    "Url": "https://eavan.blog/posts/big-identity-sandpiles.html",
-    "Timestamp": "2026-03-11T00:02:50",
-    "Domain": "eavan.blog",
-    "Description": "When I wrote Beautiful Abelian Sandpiles I wanted to show off some nice images of large identity sandpiles. But the simple algorithm I used was horrendously slow. Showing a sandpile identity that was larger than 100 by 100 took multiple seconds! That's not good enough! I became obsessed with trying to find a faster way, all in an effort to compute bigger and bigger sandpile identities, bigger than anything anyone had seen before. In the end, I did exactly that.",
-    "Confidence": 0.993172
-  },
-  {
-    "Title": "Against Vibes: When is a Generative Model Useful",
-    "Url": "https://www.williamjbowman.com/blog/2026/03/05/against-vibes-when-is-a-generative-model-useful/",
-    "Timestamp": "2026-03-11T00:02:44",
-    "Domain": "www.williamjbowman.com",
-    "Description": "Let's suppose I wanted to answer a question: is the tool X useful for the task Y. If I were scientific about this, I would analyze the properties of tool X and develop a model, and the task Y and the requirements for it and develop a model, and I would us...",
-    "Confidence": 0.99407065
-  },
-  {
-    "Title": "Codex, File My Taxes. Make No Mistakes. | Kyle Corbitt",
-    "Url": "https://corbt.com/posts/codex-file-my-taxes-make-no-mistakes",
-    "Timestamp": "2026-03-11T00:02:41",
-    "Domain": "corbt.com",
-    "Description": "I asked an accountant and an AI agent to prepare my 2025 tax return. Only one succeeded.",
-    "Confidence": 0.9719738
-  },
-  {
-    "Title": "Is Music Just Sound?",
-    "Url": "https://perthirtysix.com/is-music-just-sound",
-    "Timestamp": "2026-03-11T00:02:38",
-    "Domain": "perthirtysix.com",
-    "Description": "A creative technologist's perspective on AI-generated music",
-    "Confidence": 0.9317801
-  },
-  {
-    "Title": "using directx shared surfaces as a kernel ipc channel",
-    "Url": "https://afpereira.me/posts/dxsurflink/",
-    "Timestamp": "2026-03-11T00:02:34",
-    "Domain": "afpereira.me",
-    "Description": "kernel drivers and usermode apps usually talk through well-worn channels: ioctls, shared memory sections, apcs, event objects. they work. they are also very well-known — to developers, to security researchers, and to the tools that monitor them.\ndxsurflink is a proof-of-concept that asks: what if they talked through gpu vram instead?",
-    "Confidence": 0.9962935
-  },
-  {
-    "Title": "Deriving Type Erasure | David Álvarez Rosa | Personal Website",
-    "Url": "https://david.alvarezrosa.com/posts/deriving-type-erasure/",
-    "Timestamp": "2026-03-11T00:02:31",
-    "Domain": "david.alvarezrosa.com",
-    "Description": "Ever looked at std::any and wondered what&rsquo;s going on behind the scenes? Beneath the intimidating interface is a classic technique called type erasure: …",
-    "Confidence": 0.9989917
-  },
-  {
-    "Title": "Stop Using Chat History As Your Agent's State Store",
-    "Url": "https://blog.raed.dev/posts/agentic-workflows-are-not-conversations/",
-    "Timestamp": "2026-03-11T00:02:27",
-    "Domain": "blog.raed.dev",
-    "Description": "The chat interface is fine for users. The flat message model behind it erases the semantics that agentic systems actually need to operate correctly.",
-    "Confidence": 0.99648285
-  },
-  {
-    "Title": "The Optimization Ladder",
-    "Url": "https://cemrehancavdar.com/2026/03/10/optimization-ladder/",
-    "Timestamp": "2026-03-11T00:02:23",
-    "Domain": "cemrehancavdar.com",
-    "Description": "Python loses every public benchmark by 21-875x. I took the exact problems people use to dunk on Python and climbed every rung of the optimization ladder -- from CPython version upgrades to Rust. Real numbers, real code, real effort costs.",
-    "Confidence": 0.9954705
   }
 ]
