@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Subduction Retrieval</title>
+      <link>https://xkcd.com/3218/</link>
+      <description></description>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3218/</guid>
+      <pubDate>Thu, 12 Mar 2026 03:02:06 GMT</pubDate>
+    </item>
+    <item>
       <title>I don't know if I like working at higher levels of abstraction</title>
       <link>https://xeiaso.net/blog/2026/ai-abstraction/</link>
       <description>AI tools push us to higher abstraction. I'm not sure I like what that costs us.</description>

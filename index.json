@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Subduction Retrieval",
+    "Url": "https://xkcd.com/3218/",
+    "Timestamp": "2026-03-12T03:02:06",
+    "Domain": "xkcd.com",
+    "Description": "",
+    "Confidence": 0.98151064
+  },
+  {
     "Title": "I don't know if I like working at higher levels of abstraction",
     "Url": "https://xeiaso.net/blog/2026/ai-abstraction/",
     "Timestamp": "2026-03-12T00:03:51",
