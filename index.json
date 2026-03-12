@@ -206,13 +206,5 @@
     "Domain": "www.thewave.engineer",
     "Description": "A 2x4 LEGO brick manufactured in 1958 will snap perfectly onto a brick molded this morning in Denmark, China, Hungary, Mexico, or the Czech Republic. The 66-year-old brick will have the exact same interference fit, the same clutch power, the same 4.8mm stud diameter. This is the result of maintai...",
     "Confidence": 0.9513357
-  },
-  {
-    "Title": "Where did you think the training data was coming from?",
-    "Url": "https://idiallo.com/blog/where-did-the-training-data-come-from-meta-ai-rayban-glasses?src=feed",
-    "Timestamp": "2026-03-11T12:02:02",
-    "Domain": "idiallo.com",
-    "Description": "When the news broke that Meta's smart glasses were feeding data directly into their Facebook servers, I wondered what all the fuss was about. Who thought AI glasses used to secretly record people woul",
-    "Confidence": 0.9757231
   }
 ]
