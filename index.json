@@ -198,13 +198,5 @@
     "Domain": "om.co",
     "Description": "Every gambler knows that the secret to survivin’ Is knowin’ what to throw away and knowing what to keep ‘Cause every hand’s a winner and every hand’s a loser And the b…",
     "Confidence": 0.8022362
-  },
-  {
-    "Title": "The dead Internet is not a theory anymore.",
-    "Url": "https://www.adriankrebs.ch/blog/dead-internet/",
-    "Timestamp": "2026-03-11T22:02:17",
-    "Domain": "www.adriankrebs.ch",
-    "Description": "Bots have taken over",
-    "Confidence": 0.95255744
   }
 ]
