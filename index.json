@@ -246,13 +246,5 @@
     "Domain": "blog.nix-ci.com",
     "Description": "When you think of CI, you probably picture a remote server somewhere: GitHub Actions, GitLab CI, Jenkins. You push your code, you wait, and eventually you get a green checkmark or a red X. This is so normal that we don't even question it. But why does CI have to be remote? ",
     "Confidence": 0.99026394
-  },
-  {
-    "Title": "The Server Older than my Kids!",
-    "Url": "https://idiallo.com/byte-size/my-server-is-older-than-my-kids?src=feed",
-    "Timestamp": "2026-03-11T02:02:07",
-    "Domain": "idiallo.com",
-    "Description": "Due to procrastination, my static file server was long overdue for an upgrade. After 7 years, I've finally written a provisioning script. Welcome this new puppy",
-    "Confidence": 0.963329
   }
 ]

@@ -302,17 +302,5 @@ Hetty, like me, likes playing with monster hardware. 2 TB of RAM is not unusual 
       <guid>https://blog.nix-ci.com/post/2026-03-09_ci-should-fail-on-your-machine-first</guid>
       <pubDate>Wed, 11 Mar 2026 04:02:06 GMT</pubDate>
     </item>
-    <item>
-      <title>The Server Older than my Kids!</title>
-      <link>https://idiallo.com/byte-size/my-server-is-older-than-my-kids?src=feed</link>
-      <description>Due to procrastination, my static file server was long overdue for an upgrade. After 7 years, I've finally written a provisioning script. Welcome this new puppy</description>
-      <category>linux</category>
-      <category>web</category>
-      <category>sql</category>
-      <category>javascript</category>
-      <category>ai</category>
-      <guid>https://idiallo.com/byte-size/my-server-is-older-than-my-kids?src=feed</guid>
-      <pubDate>Wed, 11 Mar 2026 02:02:07 GMT</pubDate>
-    </item>
   </channel>
 </rss>
