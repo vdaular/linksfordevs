@@ -1,5 +1,13 @@
 [
   {
+    "Title": "MALUS - Clean Room as a Service",
+    "Url": "https://malus.sh/",
+    "Timestamp": "2026-03-12T17:02:08",
+    "Domain": "malus.sh",
+    "Description": "SYS-001 · REV-2.4 · Robot-Reconstructed · Zero Attribution",
+    "Confidence": 0.95618564
+  },
+  {
     "Title": "s@: social networking over static sites",
     "Url": "http://satproto.org/",
     "Timestamp": "2026-03-12T09:03:01",
@@ -198,13 +206,5 @@
     "Domain": "bloomberg.github.io",
     "Description": "JavaScript&#39;s Date object has been a source of bugs for three decades. Temporal, which just reached Stage 4, is a modern replacement with immutable types, first-class time zone and calendar support, and nanosecond precision. This is the story of how Bloomberg, Igalia, and the TC39 community spent nine years turning an idea into a shipping standard.",
     "Confidence": 0.9823104
-  },
-  {
-    "Title": "LEGO's 0.002mm Specification and It's Implications for Manufacturing",
-    "Url": "https://www.thewave.engineer/articles.html/productivity/legos-0002mm-specification-and-its-implications-for-manufacturing-r120/",
-    "Timestamp": "2026-03-11T17:02:24",
-    "Domain": "www.thewave.engineer",
-    "Description": "A 2x4 LEGO brick manufactured in 1958 will snap perfectly onto a brick molded this morning in Denmark, China, Hungary, Mexico, or the Czech Republic. The 66-year-old brick will have the exact same interference fit, the same clutch power, the same 4.8mm stud diameter. This is the result of maintai...",
-    "Confidence": 0.9513357
   }
 ]

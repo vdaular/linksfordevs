@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>MALUS - Clean Room as a Service</title>
+      <link>https://malus.sh/</link>
+      <description>SYS-001 · REV-2.4 · Robot-Reconstructed · Zero Attribution</description>
+      <category>ruby</category>
+      <category>nodejs</category>
+      <category>javascript</category>
+      <category>ai</category>
+      <category>dotnet</category>
+      <guid>https://malus.sh/</guid>
+      <pubDate>Thu, 12 Mar 2026 17:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>s@: social networking over static sites</title>
       <link>http://satproto.org/</link>
       <description>Social networking over static sites</description>
@@ -250,13 +262,6 @@ Hetty, like me, likes playing with monster hardware. 2 TB of RAM is not unusual 
       <category>typescript</category>
       <guid>https://bloomberg.github.io/js-blog/post/temporal/</guid>
       <pubDate>Wed, 11 Mar 2026 19:02:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>LEGO's 0.002mm Specification and It's Implications for Manufacturing</title>
-      <link>https://www.thewave.engineer/articles.html/productivity/legos-0002mm-specification-and-its-implications-for-manufacturing-r120/</link>
-      <description>A 2x4 LEGO brick manufactured in 1958 will snap perfectly onto a brick molded this morning in Denmark, China, Hungary, Mexico, or the Czech Republic. The 66-year-old brick will have the exact same interference fit, the same clutch power, the same 4.8mm stud diameter. This is the result of maintai...</description>
-      <guid>https://www.thewave.engineer/articles.html/productivity/legos-0002mm-specification-and-its-implications-for-manufacturing-r120/</guid>
-      <pubDate>Wed, 11 Mar 2026 17:02:24 GMT</pubDate>
     </item>
   </channel>
 </rss>
