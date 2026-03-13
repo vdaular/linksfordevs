@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>It's Work that taught me how to think</title>
+      <link>https://idiallo.com/blog/work-taught-me-how-to-think?src=feed</link>
+      <description>On the first day of my college CS class, the professor walked in holding a Texas Instruments calculator above his head like Steve Jobs unveiling the first iPhone. The students sighed. They had expecte</description>
+      <category>apple</category>
+      <guid>https://idiallo.com/blog/work-taught-me-how-to-think?src=feed</guid>
+      <pubDate>Fri, 13 Mar 2026 12:01:57 GMT</pubDate>
+    </item>
+    <item>
       <title>Vite 8.0 is out!</title>
       <link>https://vite.dev/blog/announcing-vite8</link>
       <description>Vite 8 Release Announcement</description>
