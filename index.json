@@ -190,13 +190,5 @@
     "Domain": "satproto.org",
     "Description": "Social networking over static sites",
     "Confidence": 0.99833626
-  },
-  {
-    "Title": "Subduction Retrieval",
-    "Url": "https://xkcd.com/3218/",
-    "Timestamp": "2026-03-12T03:02:06",
-    "Domain": "xkcd.com",
-    "Description": "",
-    "Confidence": 0.98151064
   }
 ]
