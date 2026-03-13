@@ -1,5 +1,12 @@
 [
   {
+    "Title": "TUIStudio — Design Terminal UIs. Visually.",
+    "Url": "https://tui.studio/",
+    "Timestamp": "2026-03-13T16:02:04",
+    "Domain": "tui.studio",
+    "Description": "A Figma-like visual editor for TUI applications. Drag-and-drop components, edit properties in real-time, and export to 6 frameworks with one click."
+  },
+  {
     "Title": "Restoring an Xserve G5: When Apple built real servers",
     "Url": "https://www.jeffgeerling.com/blog/2026/restoring-xserve-g5-apple-server/",
     "Timestamp": "2026-03-13T15:02:07",
