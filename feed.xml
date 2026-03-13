@@ -231,15 +231,5 @@ In fact, my favorite Mac laptop ever was the 11" Air.</description>
       <guid>https://malus.sh/</guid>
       <pubDate>Thu, 12 Mar 2026 17:02:08 GMT</pubDate>
     </item>
-    <item>
-      <title>s@: social networking over static sites</title>
-      <link>http://satproto.org/</link>
-      <description>Social networking over static sites</description>
-      <category>javascript</category>
-      <category>encryption</category>
-      <category>git</category>
-      <guid>http://satproto.org/</guid>
-      <pubDate>Thu, 12 Mar 2026 09:03:01 GMT</pubDate>
-    </item>
   </channel>
 </rss>

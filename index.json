@@ -182,13 +182,5 @@
     "Domain": "malus.sh",
     "Description": "SYS-001 · REV-2.4 · Robot-Reconstructed · Zero Attribution",
     "Confidence": 0.95618564
-  },
-  {
-    "Title": "s@: social networking over static sites",
-    "Url": "http://satproto.org/",
-    "Timestamp": "2026-03-12T09:03:01",
-    "Domain": "satproto.org",
-    "Description": "Social networking over static sites",
-    "Confidence": 0.99833626
   }
 ]
