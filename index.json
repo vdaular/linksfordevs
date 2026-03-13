@@ -1,5 +1,13 @@
 [
   {
+    "Title": "CanIRun.ai — Can your machine run AI models?",
+    "Url": "https://www.canirun.ai/",
+    "Timestamp": "2026-03-13T18:02:08",
+    "Domain": "www.canirun.ai",
+    "Description": "Detect your hardware and find out which AI models you can run locally. GPU, CPU, and RAM analysis in your browser.",
+    "Confidence": 0.9552554
+  },
+  {
     "Title": "Full Source Code of Sweden's E-Government Platform Leaked From Compromised CGI Sverige Infrastructure",
     "Url": "https://darkwebinformer.com/full-source-code-of-swedens-e-government-platform-leaked-from-compromised-cgi-sverige-infrastructure/",
     "Timestamp": "2026-03-13T17:02:03",
@@ -214,13 +222,5 @@
     "Domain": "gist.github.com",
     "Description": "GitHub Gist: instantly share code, notes, and snippets.",
     "Confidence": 0.57802963
-  },
-  {
-    "Title": "Can the MacBook Neo replace my M4 Air?",
-    "Url": "https://www.jeffgeerling.com/blog/2026/macbook-neo-replace-m4-air/",
-    "Timestamp": "2026-03-12T18:02:04",
-    "Domain": "www.jeffgeerling.com",
-    "Description": "Many of us wonder if the MacBook Neo is 'the one'.\nBecause I have a faster desktop (currently a M4 Max Mac Studio), I've always used a lower-end Mac laptop, like the iBook or MacBook Air, for travel. I've used MacBook Pros in the past, but I like the portability of smaller, cheaper models.\nIn fact, my favorite Mac laptop ever was the 11\" Air.",
-    "Confidence": 0.9422735
   }
 ]

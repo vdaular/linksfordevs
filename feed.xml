@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>CanIRun.ai — Can your machine run AI models?</title>
+      <link>https://www.canirun.ai/</link>
+      <description>Detect your hardware and find out which AI models you can run locally. GPU, CPU, and RAM analysis in your browser.</description>
+      <category>ai</category>
+      <guid>https://www.canirun.ai/</guid>
+      <pubDate>Fri, 13 Mar 2026 18:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>Full Source Code of Sweden's E-Government Platform Leaked From Compromised CGI Sverige Infrastructure</title>
       <link>https://darkwebinformer.com/full-source-code-of-swedens-e-government-platform-leaked-from-compromised-cgi-sverige-infrastructure/</link>
       <description>Full Source Code of Sweden's E-Government Platform Leaked From Compromised CGI Sverige Infrastructure</description>
@@ -269,17 +277,6 @@ as if the followers were still working when the server was off.</description>
       <author> (262588213843476)</author>
       <guid>https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0</guid>
       <pubDate>Thu, 12 Mar 2026 23:03:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Can the MacBook Neo replace my M4 Air?</title>
-      <link>https://www.jeffgeerling.com/blog/2026/macbook-neo-replace-m4-air/</link>
-      <description>Many of us wonder if the MacBook Neo is 'the one'.
-Because I have a faster desktop (currently a M4 Max Mac Studio), I've always used a lower-end Mac laptop, like the iBook or MacBook Air, for travel. I've used MacBook Pros in the past, but I like the portability of smaller, cheaper models.
-In fact, my favorite Mac laptop ever was the 11" Air.</description>
-      <category>apple</category>
-      <category>ai</category>
-      <guid>https://www.jeffgeerling.com/blog/2026/macbook-neo-replace-m4-air/</guid>
-      <pubDate>Thu, 12 Mar 2026 18:02:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
