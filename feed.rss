@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Full Source Code of Sweden's E-Government Platform Leaked From Compromised CGI Sverige Infrastructure</title>
+      <link>https://darkwebinformer.com/full-source-code-of-swedens-e-government-platform-leaked-from-compromised-cgi-sverige-infrastructure/</link>
+      <description>Full Source Code of Sweden's E-Government Platform Leaked From Compromised CGI Sverige Infrastructure</description>
+      <category>containers</category>
+      <category>sql</category>
+      <guid>https://darkwebinformer.com/full-source-code-of-swedens-e-government-platform-leaked-from-compromised-cgi-sverige-infrastructure/</guid>
+      <pubDate>Fri, 13 Mar 2026 17:02:03 GMT</pubDate>
+    </item>
+    <item>
       <title>TUIStudio — Design Terminal UIs. Visually.</title>
       <link>https://tui.studio/</link>
       <description>A Figma-like visual editor for TUI applications. Drag-and-drop components, edit properties in real-time, and export to 6 frameworks with one click.</description>
@@ -271,18 +280,6 @@ In fact, my favorite Mac laptop ever was the 11" Air.</description>
       <category>ai</category>
       <guid>https://www.jeffgeerling.com/blog/2026/macbook-neo-replace-m4-air/</guid>
       <pubDate>Thu, 12 Mar 2026 18:02:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>MALUS - Clean Room as a Service</title>
-      <link>https://malus.sh/</link>
-      <description>SYS-001 · REV-2.4 · Robot-Reconstructed · Zero Attribution</description>
-      <category>ruby</category>
-      <category>nodejs</category>
-      <category>javascript</category>
-      <category>ai</category>
-      <category>dotnet</category>
-      <guid>https://malus.sh/</guid>
-      <pubDate>Thu, 12 Mar 2026 17:02:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
