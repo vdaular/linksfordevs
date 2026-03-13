@@ -230,13 +230,5 @@
     "Domain": "robhooper.xyz",
     "Description": "A decade old TODO in pyicloud: ‘Does syncToken ever change?’ I brute-forced Apple’s iCloud Photos API to find out. The answer makes photo sync 75x more efficient.",
     "Confidence": 0.98241657
-  },
-  {
-    "Title": "gist:291f4388e2de89a43b25c135b44e41f0",
-    "Url": "https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0",
-    "Timestamp": "2026-03-12T23:03:06",
-    "Domain": "gist.github.com",
-    "Description": "GitHub Gist: instantly share code, notes, and snippets.",
-    "Confidence": 0.57802963
   }
 ]
