@@ -1,5 +1,165 @@
 [
   {
+    "Title": "ricciuti.me",
+    "Url": "https://ricciuti.me/blog/mcp-is-not-dead",
+    "Timestamp": "2026-03-13T01:03:15",
+    "Domain": "ricciuti.me",
+    "Description": "Tech blog and personal website of a mad scientist",
+    "Confidence": 0.99687356
+  },
+  {
+    "Title": "I'll probably never use Windows",
+    "Url": "https://waspdev.com/articles/2026-03-12/i-ll-probably-never-use-widows",
+    "Timestamp": "2026-03-13T01:03:12",
+    "Domain": "waspdev.com",
+    "Description": "Windows, as a traditional operating system that users controlled, is becoming a thing of the past. Microsoft is gradually eroding personal computing.",
+    "Confidence": 0.9721645
+  },
+  {
+    "Title": "How to Gmail like a Superhuman",
+    "Url": "https://www.nklswbr.com/blog/gmail-superhuman",
+    "Timestamp": "2026-03-13T01:03:08",
+    "Domain": "www.nklswbr.com",
+    "Description": "",
+    "Confidence": 0.987098
+  },
+  {
+    "Title": "Authentication with Pocket ID",
+    "Url": "https://cweagans.net/2026/03/authentication-with-pocket-id/",
+    "Timestamp": "2026-03-13T01:03:05",
+    "Domain": "cweagans.net",
+    "Description": "The problem with running a bunch of self-hosted services is that you end up with a bunch of separate login systems. Separate passwords (or worse, the same password everywhere)…",
+    "Confidence": 0.99574375
+  },
+  {
+    "Title": "The best voice-to-text app for me",
+    "Url": "https://absta.in/the-best-voice-to-text-app-for-me/",
+    "Timestamp": "2026-03-13T01:03:02",
+    "Domain": "absta.in",
+    "Description": "The best voice-to-text app for me",
+    "Confidence": 0.98269975
+  },
+  {
+    "Title": "What miso-making taught the guy who built Claude Code — Paul Baron",
+    "Url": "https://aka.me/blog/what-miso-taught-claude-code",
+    "Timestamp": "2026-03-13T01:02:59",
+    "Domain": "aka.me",
+    "Description": "Three AI leaders who spent time in Japan came back thinking differently about building technology. What is it about patience, stillness, and distance that creates space for deeper thinking?",
+    "Confidence": 0.66759837
+  },
+  {
+    "Title": "San Francisco is awesome. It could be much better",
+    "Url": "https://faingezicht.com/articles/2026/03/12/san-francisco/?src=hn",
+    "Timestamp": "2026-03-13T01:02:54",
+    "Domain": "faingezicht.com",
+    "Description": "San Francisco’s problems are not monocausal, but housing scarcity makes almost every problem harder. ",
+    "Confidence": 0.579862
+  },
+  {
+    "Title": "“This Is Not The Computer For You” · Sam Henri Gold",
+    "Url": "https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/",
+    "Timestamp": "2026-03-13T01:02:51",
+    "Domain": "samhenri.gold",
+    "Description": "Sam Henri Gold is a product design engineer building playful, useful software.",
+    "Confidence": 0.9803851
+  },
+  {
+    "Title": "Reviewing large changes with Jujutsu",
+    "Url": "https://ben.gesoff.uk/posts/reviewing-large-changes-with-jj/",
+    "Timestamp": "2026-03-13T01:02:48",
+    "Domain": "ben.gesoff.uk",
+    "Description": "Ben Gesoff's personal website",
+    "Confidence": 0.9938892
+  },
+  {
+    "Title": "MCPs, CLIs, and skills: when to use what?",
+    "Url": "https://jngiam.bearblog.dev/mcps-clis-and-skills-when-to-use-what/",
+    "Timestamp": "2026-03-13T01:02:43",
+    "Domain": "jngiam.bearblog.dev",
+    "Description": "\nIf someone tells you \"MCPs are dead\" or \"CLIs are overhyped,\" they're missing bigger picture. I use Skills, CLIs, and MCPs, and the mix is completely differ...",
+    "Confidence": 0.993497
+  },
+  {
+    "Title": "An ode to bzip",
+    "Url": "https://purplesyringa.moe/blog/an-ode-to-bzip/",
+    "Timestamp": "2026-03-13T01:02:40",
+    "Domain": "purplesyringa.moe",
+    "Description": "The story goes like this. ComputerCraft is a mod that adds programming to Minecraft. You write Lua code that gets executed by a bespoke interpreter with access to world APIs, and now you’re writing code instead of having fun. Computers have limited disk space, and my /nix folder is growing out of control, so I need to compress code.\nThe laziest option would be to use LibDeflate, but its decoder is larger than both the gains from compression and my personal boundary for copying code. So the question becomes: what’s the shortest, simplest, most ratio-efficient compression algorithm?\nI initially thought this was a complex question full of tradeoffs, but it turns out it’s very clear-cut. My answer is bzip, even though this algorithm has been critiqued multiple times and has fallen into obscurity since xz and zstd became popular.",
+    "Confidence": 0.9905229
+  },
+  {
+    "Title": "In Praise of Stupid Questions",
+    "Url": "https://mathenchant.wordpress.com/2026/03/12/in-praise-of-stupid-questions/",
+    "Timestamp": "2026-03-13T01:02:36",
+    "Domain": "mathenchant.wordpress.com",
+    "Description": "Ask a silly question, get a silly answer. — Tom Lehrer, “New Math” I ask too many questions. A case in point is the time I lost out on a place I wanted to rent when I asked my pot…",
+    "Confidence": 0.9102597
+  },
+  {
+    "Title": "Build more slop — Will W.",
+    "Url": "https://iamwillwang.com/notes/build-more-slop/",
+    "Timestamp": "2026-03-13T01:02:33",
+    "Domain": "iamwillwang.com",
+    "Description": "Why sloppy software is useful.",
+    "Confidence": 0.9203849
+  },
+  {
+    "Title": "A Typed Language for Agent Coordination",
+    "Url": "https://johncarlosbaez.wordpress.com/2026/03/11/a-typed-language-for-agent-coordination/",
+    "Timestamp": "2026-03-13T01:02:30",
+    "Domain": "johncarlosbaez.wordpress.com",
+    "Description": "guest post by William Waites Agent frameworks are popular. (These are frameworks for coordinating large language model agents, not to be confused with agent-based modelling in the simulation sense.…",
+    "Confidence": 0.9987989
+  },
+  {
+    "Title": "Bubble Sorted Amen Break by Vee 🥑",
+    "Url": "https://parametricavocado.itch.io/amen-sorting",
+    "Timestamp": "2026-03-13T01:02:25",
+    "Domain": "parametricavocado.itch.io",
+    "Description": "Play in your browser",
+    "Confidence": 0.9861664
+  },
+  {
+    "Title": "Offline computing — Aul Ma's research facility",
+    "Url": "https://robertsdotpm.github.io/software_engineering/offline_computing.html",
+    "Timestamp": "2026-03-13T01:02:22",
+    "Domain": "robertsdotpm.github.io",
+    "Description": "Not long ago I was playing the computer game “V Rising” when I came across a surprising\nfeature. In the game you are able to have followers gather resources after a set period.\nWhat’s interesting is how the feature was implemented. You might think that they\nused in-game time to measure this – but instead it was tied to real-life time.\nThis meant that if the host shut down the server the amount of time was applied\nas if the followers were still working when the server was off.",
+    "Confidence": 0.97138214
+  },
+  {
+    "Title": "Why I don't destroy snowmen",
+    "Url": "https://writings.hongminhee.org/2026/01/ethics-of-small-actions/",
+    "Timestamp": "2026-03-13T01:02:19",
+    "Domain": "writings.hongminhee.org",
+    "Description": "In winter, I sometimes come across stories on X about men who deliberately kick over snowmen as they walk by. It's not like destroying a snowman causes real…",
+    "Confidence": 0.88634205
+  },
+  {
+    "Title": "Behold the power of meta::substitute",
+    "Url": "https://brevzin.github.io/c++/2026/03/02/power-of-substitute/",
+    "Timestamp": "2026-03-13T01:02:15",
+    "Domain": "brevzin.github.io",
+    "Description": "My CppCon 2025 talk, Practical Reflection, is now online. Check it out!",
+    "Confidence": 0.9975396
+  },
+  {
+    "Title": "You can turn Claude's most annoying feature off",
+    "Url": "https://jdlms.site/blog/claudes-most-annoying-feature",
+    "Timestamp": "2026-03-13T01:02:11",
+    "Domain": "jdlms.site",
+    "Description": "Claude Code is a fun tool, but it has a small default feature that drives me bananas: the verb spinner. I do not need to see a rotating selection of whimsical gerunds popping up in response to every prompt dozens of times over the course of a day.",
+    "Confidence": 0.9389435
+  },
+  {
+    "Title": "10 Years Later, I Reverse-Engineered iCloud’s syncToken by Brute Force",
+    "Url": "https://robhooper.xyz/blog-synctoken.html",
+    "Timestamp": "2026-03-13T01:02:08",
+    "Domain": "robhooper.xyz",
+    "Description": "A decade old TODO in pyicloud: ‘Does syncToken ever change?’ I brute-forced Apple’s iCloud Photos API to find out. The answer makes photo sync 75x more efficient.",
+    "Confidence": 0.98241657
+  },
+  {
     "Title": "gist:291f4388e2de89a43b25c135b44e41f0",
     "Url": "https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0",
     "Timestamp": "2026-03-12T23:03:06",

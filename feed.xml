@@ -7,6 +7,200 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>ricciuti.me</title>
+      <link>https://ricciuti.me/blog/mcp-is-not-dead</link>
+      <description>Tech blog and personal website of a mad scientist</description>
+      <category>javascript</category>
+      <category>ai</category>
+      <category>nodejs</category>
+      <category>typescript</category>
+      <guid>https://ricciuti.me/blog/mcp-is-not-dead</guid>
+      <pubDate>Fri, 13 Mar 2026 01:03:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>I'll probably never use Windows</title>
+      <link>https://waspdev.com/articles/2026-03-12/i-ll-probably-never-use-widows</link>
+      <description>Windows, as a traditional operating system that users controlled, is becoming a thing of the past. Microsoft is gradually eroding personal computing.</description>
+      <author> (https://waspdev.com/about)</author>
+      <category>gaming</category>
+      <category>linux</category>
+      <category>git</category>
+      <category>apple</category>
+      <category>vscode</category>
+      <guid>https://waspdev.com/articles/2026-03-12/i-ll-probably-never-use-widows</guid>
+      <pubDate>Fri, 13 Mar 2026 01:03:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to Gmail like a Superhuman</title>
+      <link>https://www.nklswbr.com/blog/gmail-superhuman</link>
+      <description></description>
+      <guid>https://www.nklswbr.com/blog/gmail-superhuman</guid>
+      <pubDate>Fri, 13 Mar 2026 01:03:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Authentication with Pocket ID</title>
+      <link>https://cweagans.net/2026/03/authentication-with-pocket-id/</link>
+      <description>The problem with running a bunch of self-hosted services is that you end up with a bunch of separate login systems. Separate passwords (or worse, the same password everywhere)…</description>
+      <author> (https://www.facebook.com/cweagans)</author>
+      <category>sql</category>
+      <category>python</category>
+      <category>encryption</category>
+      <category>containers</category>
+      <guid>https://cweagans.net/2026/03/authentication-with-pocket-id/</guid>
+      <pubDate>Fri, 13 Mar 2026 01:03:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>The best voice-to-text app for me</title>
+      <link>https://absta.in/the-best-voice-to-text-app-for-me/</link>
+      <description>The best voice-to-text app for me</description>
+      <category>ai</category>
+      <guid>https://absta.in/the-best-voice-to-text-app-for-me/</guid>
+      <pubDate>Fri, 13 Mar 2026 01:03:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>What miso-making taught the guy who built Claude Code — Paul Baron</title>
+      <link>https://aka.me/blog/what-miso-taught-claude-code</link>
+      <description>Three AI leaders who spent time in Japan came back thinking differently about building technology. What is it about patience, stillness, and distance that creates space for deeper thinking?</description>
+      <category>ai</category>
+      <guid>https://aka.me/blog/what-miso-taught-claude-code</guid>
+      <pubDate>Fri, 13 Mar 2026 01:02:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>San Francisco is awesome. It could be much better</title>
+      <link>https://faingezicht.com/articles/2026/03/12/san-francisco/?src=hn</link>
+      <description>San Francisco’s problems are not monocausal, but housing scarcity makes almost every problem harder. </description>
+      <category>git</category>
+      <category>ai</category>
+      <guid>https://faingezicht.com/articles/2026/03/12/san-francisco/?src=hn</guid>
+      <pubDate>Fri, 13 Mar 2026 01:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>“This Is Not The Computer For You” · Sam Henri Gold</title>
+      <link>https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/</link>
+      <description>Sam Henri Gold is a product design engineer building playful, useful software.</description>
+      <category>apple</category>
+      <category>conference</category>
+      <category>ai</category>
+      <category>rust</category>
+      <guid>https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/</guid>
+      <pubDate>Fri, 13 Mar 2026 01:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reviewing large changes with Jujutsu</title>
+      <link>https://ben.gesoff.uk/posts/reviewing-large-changes-with-jj/</link>
+      <description>Ben Gesoff's personal website</description>
+      <category>git</category>
+      <category>python</category>
+      <guid>https://ben.gesoff.uk/posts/reviewing-large-changes-with-jj/</guid>
+      <pubDate>Fri, 13 Mar 2026 01:02:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>MCPs, CLIs, and skills: when to use what?</title>
+      <link>https://jngiam.bearblog.dev/mcps-clis-and-skills-when-to-use-what/</link>
+      <description>
+If someone tells you "MCPs are dead" or "CLIs are overhyped," they're missing bigger picture. I use Skills, CLIs, and MCPs, and the mix is completely differ...</description>
+      <category>nodejs</category>
+      <category>ai</category>
+      <category>web</category>
+      <category>javascript</category>
+      <guid>https://jngiam.bearblog.dev/mcps-clis-and-skills-when-to-use-what/</guid>
+      <pubDate>Fri, 13 Mar 2026 01:02:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>An ode to bzip</title>
+      <link>https://purplesyringa.moe/blog/an-ode-to-bzip/</link>
+      <description>The story goes like this. ComputerCraft is a mod that adds programming to Minecraft. You write Lua code that gets executed by a bespoke interpreter with access to world APIs, and now you’re writing code instead of having fun. Computers have limited disk space, and my /nix folder is growing out of control, so I need to compress code.
+The laziest option would be to use LibDeflate, but its decoder is larger than both the gains from compression and my personal boundary for copying code. So the question becomes: what’s the shortest, simplest, most ratio-efficient compression algorithm?
+I initially thought this was a complex question full of tradeoffs, but it turns out it’s very clear-cut. My answer is bzip, even though this algorithm has been critiqued multiple times and has fallen into obscurity since xz and zstd became popular.</description>
+      <category>rust</category>
+      <category>ai</category>
+      <category>vscode</category>
+      <guid>https://purplesyringa.moe/blog/an-ode-to-bzip/</guid>
+      <pubDate>Fri, 13 Mar 2026 01:02:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>In Praise of Stupid Questions</title>
+      <link>https://mathenchant.wordpress.com/2026/03/12/in-praise-of-stupid-questions/</link>
+      <description>Ask a silly question, get a silly answer. — Tom Lehrer, “New Math” I ask too many questions. A case in point is the time I lost out on a place I wanted to rent when I asked my pot…</description>
+      <category>ai</category>
+      <guid>https://mathenchant.wordpress.com/2026/03/12/in-praise-of-stupid-questions/</guid>
+      <pubDate>Fri, 13 Mar 2026 01:02:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Build more slop — Will W.</title>
+      <link>https://iamwillwang.com/notes/build-more-slop/</link>
+      <description>Why sloppy software is useful.</description>
+      <guid>https://iamwillwang.com/notes/build-more-slop/</guid>
+      <pubDate>Fri, 13 Mar 2026 01:02:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>A Typed Language for Agent Coordination</title>
+      <link>https://johncarlosbaez.wordpress.com/2026/03/11/a-typed-language-for-agent-coordination/</link>
+      <description>guest post by William Waites Agent frameworks are popular. (These are frameworks for coordinating large language model agents, not to be confused with agent-based modelling in the simulation sense.…</description>
+      <category>ai</category>
+      <category>git</category>
+      <category>javascript</category>
+      <guid>https://johncarlosbaez.wordpress.com/2026/03/11/a-typed-language-for-agent-coordination/</guid>
+      <pubDate>Fri, 13 Mar 2026 01:02:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bubble Sorted Amen Break by Vee 🥑</title>
+      <link>https://parametricavocado.itch.io/amen-sorting</link>
+      <description>Play in your browser</description>
+      <guid>https://parametricavocado.itch.io/amen-sorting</guid>
+      <pubDate>Fri, 13 Mar 2026 01:02:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Offline computing — Aul Ma's research facility</title>
+      <link>https://robertsdotpm.github.io/software_engineering/offline_computing.html</link>
+      <description>Not long ago I was playing the computer game “V Rising” when I came across a surprising
+feature. In the game you are able to have followers gather resources after a set period.
+What’s interesting is how the feature was implemented. You might think that they
+used in-game time to measure this – but instead it was tied to real-life time.
+This meant that if the host shut down the server the amount of time was applied
+as if the followers were still working when the server was off.</description>
+      <category>gaming</category>
+      <category>web</category>
+      <guid>https://robertsdotpm.github.io/software_engineering/offline_computing.html</guid>
+      <pubDate>Fri, 13 Mar 2026 01:02:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why I don't destroy snowmen</title>
+      <link>https://writings.hongminhee.org/2026/01/ethics-of-small-actions/</link>
+      <description>In winter, I sometimes come across stories on X about men who deliberately kick over snowmen as they walk by. It's not like destroying a snowman causes real…</description>
+      <category>ai</category>
+      <guid>https://writings.hongminhee.org/2026/01/ethics-of-small-actions/</guid>
+      <pubDate>Fri, 13 Mar 2026 01:02:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Behold the power of meta::substitute</title>
+      <link>https://brevzin.github.io/c++/2026/03/02/power-of-substitute/</link>
+      <description>My CppCon 2025 talk, Practical Reflection, is now online. Check it out!</description>
+      <guid>https://brevzin.github.io/c++/2026/03/02/power-of-substitute/</guid>
+      <pubDate>Fri, 13 Mar 2026 01:02:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>You can turn Claude's most annoying feature off</title>
+      <link>https://jdlms.site/blog/claudes-most-annoying-feature</link>
+      <description>Claude Code is a fun tool, but it has a small default feature that drives me bananas: the verb spinner. I do not need to see a rotating selection of whimsical gerunds popping up in response to every prompt dozens of times over the course of a day.</description>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://jdlms.site/blog/claudes-most-annoying-feature</guid>
+      <pubDate>Fri, 13 Mar 2026 01:02:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>10 Years Later, I Reverse-Engineered iCloud’s syncToken by Brute Force</title>
+      <link>https://robhooper.xyz/blog-synctoken.html</link>
+      <description>A decade old TODO in pyicloud: ‘Does syncToken ever change?’ I brute-forced Apple’s iCloud Photos API to find out. The answer makes photo sync 75x more efficient.</description>
+      <category>sql</category>
+      <category>ai</category>
+      <category>cloud</category>
+      <category>python</category>
+      <category>vscode</category>
+      <guid>https://robhooper.xyz/blog-synctoken.html</guid>
+      <pubDate>Fri, 13 Mar 2026 01:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>gist:291f4388e2de89a43b25c135b44e41f0</title>
       <link>https://gist.github.com/bretonium/291f4388e2de89a43b25c135b44e41f0</link>
       <description>GitHub Gist: instantly share code, notes, and snippets.</description>
