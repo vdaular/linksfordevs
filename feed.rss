@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Vite 8.0 is out!</title>
+      <link>https://vite.dev/blog/announcing-vite8</link>
+      <description>Vite 8 Release Announcement</description>
+      <category>nodejs</category>
+      <category>rust</category>
+      <category>typescript</category>
+      <category>javascript</category>
+      <category>web</category>
+      <guid>https://vite.dev/blog/announcing-vite8</guid>
+      <pubDate>Fri, 13 Mar 2026 10:02:13 GMT</pubDate>
+    </item>
+    <item>
       <title>ricciuti.me</title>
       <link>https://ricciuti.me/blog/mcp-is-not-dead</link>
       <description>Tech blog and personal website of a mad scientist</description>
