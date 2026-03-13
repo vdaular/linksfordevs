@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Planets and Bright Stars</title>
+      <link>https://xkcd.com/3219/</link>
+      <description></description>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3219/</guid>
+      <pubDate>Fri, 13 Mar 2026 20:02:13 GMT</pubDate>
+    </item>
+    <item>
       <title>CanIRun.ai — Can your machine run AI models?</title>
       <link>https://www.canirun.ai/</link>
       <description>Detect your hardware and find out which AI models you can run locally. GPU, CPU, and RAM analysis in your browser.</description>
