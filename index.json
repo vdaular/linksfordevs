@@ -1,5 +1,13 @@
 [
   {
+    "Title": "You Digg?",
+    "Url": "https://idiallo.com/byte-size/digg-is-gone-again?src=feed",
+    "Timestamp": "2026-03-14T09:02:01",
+    "Domain": "idiallo.com",
+    "Description": "Digg was just opened to the public in January 2026. After facing a swarm of AI bots, they decided to shutdown once more. I will mourn them in peace again.",
+    "Confidence": 0.8912509
+  },
+  {
     "Title": "computer graphics, maths, shaders, fractals, demoscene",
     "Url": "https://iquilezles.org/articles/noacos/",
     "Timestamp": "2026-03-14T07:02:00",
