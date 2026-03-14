@@ -1,5 +1,109 @@
 [
   {
+    "Title": "How to Run a Pool of Autonomous Coding Agents on Your Jira Backlog",
+    "Url": "https://jaksa.me/blog/2026-03-01-pool-of-agents",
+    "Timestamp": "2026-03-14T01:02:57",
+    "Domain": "jaksa.me",
+    "Description": "What if you could point a fleet of AI agents at your Jira backlog and let them work through it continuously?",
+    "Confidence": 0.9956178
+  },
+  {
+    "Title": "Big tech engineers need big egos",
+    "Url": "https://www.seangoedecke.com/big-tech-needs-big-egos/",
+    "Timestamp": "2026-03-14T01:02:52",
+    "Domain": "www.seangoedecke.com",
+    "Description": "It’s a common position among software engineers that big egos have no place in tech1. This is understandable - we’ve all worked with some insufferably overconfident engineers who needed their egos checked - but I don’t think it’s correct. In fact, I don’t know if it’s possible to survive as a software engineer in a large tech company without some kind of big ego.",
+    "Confidence": 0.96082467
+  },
+  {
+    "Title": "The Model is the Company",
+    "Url": "https://alexwang.ai/posts/the-model-is-the-company/",
+    "Timestamp": "2026-03-14T01:02:49",
+    "Domain": "alexwang.ai",
+    "Description": "Picture two founders starting a company today.",
+    "Confidence": 0.9692746
+  },
+  {
+    "Title": "Why Your Cache Might Be Slowing You Down",
+    "Url": "https://dvcoolarun.com/system-design/caching/scale/2026/03/13/why-your-cache-might-be-slowing-you-down.html",
+    "Timestamp": "2026-03-14T01:02:46",
+    "Domain": "dvcoolarun.com",
+    "Description": "Thoughts on engineering, distributed systems, system design, and resilience patterns.",
+    "Confidence": 0.9790471
+  },
+  {
+    "Title": "Evaluating Claude’s dbt Skills: Building an Eval from Scratch",
+    "Url": "https://rmoff.net/2026/03/13/evaluating-claudes-dbt-skills-building-an-eval-from-scratch/",
+    "Timestamp": "2026-03-14T01:02:42",
+    "Domain": "rmoff.net",
+    "Description": "",
+    "Confidence": 0.99292594
+  },
+  {
+    "Title": "Don't Vibe — Prove | NGrislain",
+    "Url": "https://ngrislain.github.io/projects/2026-3-12-dont-vibe--prove/",
+    "Timestamp": "2026-03-14T01:02:38",
+    "Domain": "ngrislain.github.io",
+    "Description": "AI can write code fast. But can it write correct code?",
+    "Confidence": 0.9913774
+  },
+  {
+    "Title": "let the code do the talking",
+    "Url": "https://sunilpai.dev/posts/after-wimp/",
+    "Timestamp": "2026-03-14T01:02:35",
+    "Domain": "sunilpai.dev",
+    "Description": "(why llms and safe sandboxes may change the basic contract between users and software)",
+    "Confidence": 0.986572
+  },
+  {
+    "Title": "Agentic Abuse at Tech Jobs",
+    "Url": "https://blog.alejandrowainzinger.com/agentic-abuse-at-tech-jobs",
+    "Timestamp": "2026-03-14T01:02:32",
+    "Domain": "blog.alejandrowainzinger.com",
+    "Description": "The classic anti-patterns at tech jobs are back, newly evolved for the early agentic AI era. As the machines get smarter, the humans are doubling down on bad strategies that never worked before and wo",
+    "Confidence": 0.95378673
+  },
+  {
+    "Title": "README, Don't AGENTS.md Me",
+    "Url": "https://www.joshbeckman.org/blog/practicing/readme-dont-agentsmd-me",
+    "Timestamp": "2026-03-14T01:02:28",
+    "Domain": "www.joshbeckman.org",
+    "Description": "This is the place where I rant that the AGENTS.md pattern is a distraction and slows down your software development.\n\nThe software engineering industry has had a standard of adding a README.md file to the root of projects and also the root of an...",
+    "Confidence": 0.991188
+  },
+  {
+    "Title": "Undefined Roles | AndiSmith.com",
+    "Url": "https://www.andismith.com/blogs/2026/03/undefined-roles",
+    "Timestamp": "2026-03-14T01:02:25",
+    "Domain": "www.andismith.com",
+    "Description": "With the acceleration of AI, the traditional boundaries between product, engineering and UX are collapsing.",
+    "Confidence": 0.9700662
+  },
+  {
+    "Title": "How Spotify Silently Updates Itself (And How to Stop It)",
+    "Url": "https://duckass.bearblog.dev/how-spotify-silently-updates-itself-and-how-to-stop-it/",
+    "Timestamp": "2026-03-14T01:02:21",
+    "Domain": "duckass.bearblog.dev",
+    "Description": "Spotify updated itself without my permission. I blocked it. It updated again. I blocked it again. It found a third way. This is the story of reverse-engineer...",
+    "Confidence": 0.9867219
+  },
+  {
+    "Title": "Our Experience with i-Ready",
+    "Url": "https://moultano.wordpress.com/2026/03/12/our-experience-with-i-ready/",
+    "Timestamp": "2026-03-14T01:02:18",
+    "Domain": "moultano.wordpress.com",
+    "Description": "When you chose a school, you probably didn’t realize you were also choosing educational software.",
+    "Confidence": 0.94105464
+  },
+  {
+    "Title": "Scale is absolutely Broken",
+    "Url": "https://www.valiantlynx.com/blogs/scale-is-absolutely-broken",
+    "Timestamp": "2026-03-14T01:02:14",
+    "Domain": "www.valiantlynx.com",
+    "Description": "Explore the terrifying symmetry of scale—from the \"not-space\" beyond the universe to the infinite canyons inside an atom. Learn how axioms and fortune don't just add; they compound at an exponential rate, building a momentum that eventually moves on its own. It’s the mightiest force in the universe, and it’s the only intuition that matters.",
+    "Confidence": 0.9882008
+  },
+  {
     "Title": "Elon Musk pushes out more xAI founders as AI coding effort falters",
     "Url": "https://www.ft.com/content/e5fbc6c2-d5a6-4b97-a105-6a96ea849de5",
     "Timestamp": "2026-03-14T00:02:05",
@@ -78,165 +182,5 @@
     "Domain": "vite.dev",
     "Description": "Vite 8 Release Announcement",
     "Confidence": 0.9837019
-  },
-  {
-    "Title": "ricciuti.me",
-    "Url": "https://ricciuti.me/blog/mcp-is-not-dead",
-    "Timestamp": "2026-03-13T01:03:15",
-    "Domain": "ricciuti.me",
-    "Description": "Tech blog and personal website of a mad scientist",
-    "Confidence": 0.99687356
-  },
-  {
-    "Title": "I'll probably never use Windows",
-    "Url": "https://waspdev.com/articles/2026-03-12/i-ll-probably-never-use-widows",
-    "Timestamp": "2026-03-13T01:03:12",
-    "Domain": "waspdev.com",
-    "Description": "Windows, as a traditional operating system that users controlled, is becoming a thing of the past. Microsoft is gradually eroding personal computing.",
-    "Confidence": 0.9721645
-  },
-  {
-    "Title": "How to Gmail like a Superhuman",
-    "Url": "https://www.nklswbr.com/blog/gmail-superhuman",
-    "Timestamp": "2026-03-13T01:03:08",
-    "Domain": "www.nklswbr.com",
-    "Description": "",
-    "Confidence": 0.987098
-  },
-  {
-    "Title": "Authentication with Pocket ID",
-    "Url": "https://cweagans.net/2026/03/authentication-with-pocket-id/",
-    "Timestamp": "2026-03-13T01:03:05",
-    "Domain": "cweagans.net",
-    "Description": "The problem with running a bunch of self-hosted services is that you end up with a bunch of separate login systems. Separate passwords (or worse, the same password everywhere)…",
-    "Confidence": 0.99574375
-  },
-  {
-    "Title": "The best voice-to-text app for me",
-    "Url": "https://absta.in/the-best-voice-to-text-app-for-me/",
-    "Timestamp": "2026-03-13T01:03:02",
-    "Domain": "absta.in",
-    "Description": "The best voice-to-text app for me",
-    "Confidence": 0.98269975
-  },
-  {
-    "Title": "What miso-making taught the guy who built Claude Code — Paul Baron",
-    "Url": "https://aka.me/blog/what-miso-taught-claude-code",
-    "Timestamp": "2026-03-13T01:02:59",
-    "Domain": "aka.me",
-    "Description": "Three AI leaders who spent time in Japan came back thinking differently about building technology. What is it about patience, stillness, and distance that creates space for deeper thinking?",
-    "Confidence": 0.66759837
-  },
-  {
-    "Title": "San Francisco is awesome. It could be much better",
-    "Url": "https://faingezicht.com/articles/2026/03/12/san-francisco/?src=hn",
-    "Timestamp": "2026-03-13T01:02:54",
-    "Domain": "faingezicht.com",
-    "Description": "San Francisco’s problems are not monocausal, but housing scarcity makes almost every problem harder. ",
-    "Confidence": 0.579862
-  },
-  {
-    "Title": "“This Is Not The Computer For You” · Sam Henri Gold",
-    "Url": "https://samhenri.gold/blog/20260312-this-is-not-the-computer-for-you/",
-    "Timestamp": "2026-03-13T01:02:51",
-    "Domain": "samhenri.gold",
-    "Description": "Sam Henri Gold is a product design engineer building playful, useful software.",
-    "Confidence": 0.9803851
-  },
-  {
-    "Title": "Reviewing large changes with Jujutsu",
-    "Url": "https://ben.gesoff.uk/posts/reviewing-large-changes-with-jj/",
-    "Timestamp": "2026-03-13T01:02:48",
-    "Domain": "ben.gesoff.uk",
-    "Description": "Ben Gesoff's personal website",
-    "Confidence": 0.9938892
-  },
-  {
-    "Title": "MCPs, CLIs, and skills: when to use what?",
-    "Url": "https://jngiam.bearblog.dev/mcps-clis-and-skills-when-to-use-what/",
-    "Timestamp": "2026-03-13T01:02:43",
-    "Domain": "jngiam.bearblog.dev",
-    "Description": "\nIf someone tells you \"MCPs are dead\" or \"CLIs are overhyped,\" they're missing bigger picture. I use Skills, CLIs, and MCPs, and the mix is completely differ...",
-    "Confidence": 0.993497
-  },
-  {
-    "Title": "An ode to bzip",
-    "Url": "https://purplesyringa.moe/blog/an-ode-to-bzip/",
-    "Timestamp": "2026-03-13T01:02:40",
-    "Domain": "purplesyringa.moe",
-    "Description": "The story goes like this. ComputerCraft is a mod that adds programming to Minecraft. You write Lua code that gets executed by a bespoke interpreter with access to world APIs, and now you’re writing code instead of having fun. Computers have limited disk space, and my /nix folder is growing out of control, so I need to compress code.\nThe laziest option would be to use LibDeflate, but its decoder is larger than both the gains from compression and my personal boundary for copying code. So the question becomes: what’s the shortest, simplest, most ratio-efficient compression algorithm?\nI initially thought this was a complex question full of tradeoffs, but it turns out it’s very clear-cut. My answer is bzip, even though this algorithm has been critiqued multiple times and has fallen into obscurity since xz and zstd became popular.",
-    "Confidence": 0.9905229
-  },
-  {
-    "Title": "In Praise of Stupid Questions",
-    "Url": "https://mathenchant.wordpress.com/2026/03/12/in-praise-of-stupid-questions/",
-    "Timestamp": "2026-03-13T01:02:36",
-    "Domain": "mathenchant.wordpress.com",
-    "Description": "Ask a silly question, get a silly answer. — Tom Lehrer, “New Math” I ask too many questions. A case in point is the time I lost out on a place I wanted to rent when I asked my pot…",
-    "Confidence": 0.9102597
-  },
-  {
-    "Title": "Build more slop — Will W.",
-    "Url": "https://iamwillwang.com/notes/build-more-slop/",
-    "Timestamp": "2026-03-13T01:02:33",
-    "Domain": "iamwillwang.com",
-    "Description": "Why sloppy software is useful.",
-    "Confidence": 0.9203849
-  },
-  {
-    "Title": "A Typed Language for Agent Coordination",
-    "Url": "https://johncarlosbaez.wordpress.com/2026/03/11/a-typed-language-for-agent-coordination/",
-    "Timestamp": "2026-03-13T01:02:30",
-    "Domain": "johncarlosbaez.wordpress.com",
-    "Description": "guest post by William Waites Agent frameworks are popular. (These are frameworks for coordinating large language model agents, not to be confused with agent-based modelling in the simulation sense.…",
-    "Confidence": 0.9987989
-  },
-  {
-    "Title": "Bubble Sorted Amen Break by Vee 🥑",
-    "Url": "https://parametricavocado.itch.io/amen-sorting",
-    "Timestamp": "2026-03-13T01:02:25",
-    "Domain": "parametricavocado.itch.io",
-    "Description": "Play in your browser",
-    "Confidence": 0.9861664
-  },
-  {
-    "Title": "Offline computing — Aul Ma's research facility",
-    "Url": "https://robertsdotpm.github.io/software_engineering/offline_computing.html",
-    "Timestamp": "2026-03-13T01:02:22",
-    "Domain": "robertsdotpm.github.io",
-    "Description": "Not long ago I was playing the computer game “V Rising” when I came across a surprising\nfeature. In the game you are able to have followers gather resources after a set period.\nWhat’s interesting is how the feature was implemented. You might think that they\nused in-game time to measure this – but instead it was tied to real-life time.\nThis meant that if the host shut down the server the amount of time was applied\nas if the followers were still working when the server was off.",
-    "Confidence": 0.97138214
-  },
-  {
-    "Title": "Why I don't destroy snowmen",
-    "Url": "https://writings.hongminhee.org/2026/01/ethics-of-small-actions/",
-    "Timestamp": "2026-03-13T01:02:19",
-    "Domain": "writings.hongminhee.org",
-    "Description": "In winter, I sometimes come across stories on X about men who deliberately kick over snowmen as they walk by. It's not like destroying a snowman causes real…",
-    "Confidence": 0.88634205
-  },
-  {
-    "Title": "Behold the power of meta::substitute",
-    "Url": "https://brevzin.github.io/c++/2026/03/02/power-of-substitute/",
-    "Timestamp": "2026-03-13T01:02:15",
-    "Domain": "brevzin.github.io",
-    "Description": "My CppCon 2025 talk, Practical Reflection, is now online. Check it out!",
-    "Confidence": 0.9975396
-  },
-  {
-    "Title": "You can turn Claude's most annoying feature off",
-    "Url": "https://jdlms.site/blog/claudes-most-annoying-feature",
-    "Timestamp": "2026-03-13T01:02:11",
-    "Domain": "jdlms.site",
-    "Description": "Claude Code is a fun tool, but it has a small default feature that drives me bananas: the verb spinner. I do not need to see a rotating selection of whimsical gerunds popping up in response to every prompt dozens of times over the course of a day.",
-    "Confidence": 0.9389435
-  },
-  {
-    "Title": "10 Years Later, I Reverse-Engineered iCloud’s syncToken by Brute Force",
-    "Url": "https://robhooper.xyz/blog-synctoken.html",
-    "Timestamp": "2026-03-13T01:02:08",
-    "Domain": "robhooper.xyz",
-    "Description": "A decade old TODO in pyicloud: ‘Does syncToken ever change?’ I brute-forced Apple’s iCloud Photos API to find out. The answer makes photo sync 75x more efficient.",
-    "Confidence": 0.98241657
   }
 ]
