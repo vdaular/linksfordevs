@@ -239,17 +239,5 @@ The software engineering industry has had a standard of adding a README.md file 
       <guid>https://tui.studio/</guid>
       <pubDate>Fri, 13 Mar 2026 16:02:04 GMT</pubDate>
     </item>
-    <item>
-      <title>Restoring an Xserve G5: When Apple built real servers</title>
-      <link>https://www.jeffgeerling.com/blog/2026/restoring-xserve-g5-apple-server/</link>
-      <description>Recently I came into posession of a few Apple Xserves. The one in question today is an Xserve G5, RackMac3,1, which was built when Apple at the top—and bottom—of it's PowerPC era.
-This isn't the first Xserve—that honor belongs to the G41. And it wasn't the last—there were a few generations of Intel Xeon-powered RackMacs that followed. But in my opinion, it was the most interesting.
-Unfortunately, being manufactured in 2004, this Mac's Delta power supply suffers from the Capacitor Plague. The PSU tends to run hot, and some of the capacitors weren't even 105°C-rated, so they tend to wear out, especially if the Xserve was running high-end workloads.</description>
-      <category>apple</category>
-      <category>linux</category>
-      <category>git</category>
-      <guid>https://www.jeffgeerling.com/blog/2026/restoring-xserve-g5-apple-server/</guid>
-      <pubDate>Fri, 13 Mar 2026 15:02:07 GMT</pubDate>
-    </item>
   </channel>
 </rss>
