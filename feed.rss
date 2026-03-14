@@ -227,17 +227,5 @@ The software engineering industry has had a standard of adding a README.md file 
       <guid>https://darkwebinformer.com/full-source-code-of-swedens-e-government-platform-leaked-from-compromised-cgi-sverige-infrastructure/</guid>
       <pubDate>Fri, 13 Mar 2026 17:02:03 GMT</pubDate>
     </item>
-    <item>
-      <title>TUIStudio — Design Terminal UIs. Visually.</title>
-      <link>https://tui.studio/</link>
-      <description>A Figma-like visual editor for TUI applications. Drag-and-drop components, edit properties in real-time, and export to 6 frameworks with one click.</description>
-      <category>nodejs</category>
-      <category>typescript</category>
-      <category>visualstudio</category>
-      <category>cloud</category>
-      <category>web</category>
-      <guid>https://tui.studio/</guid>
-      <pubDate>Fri, 13 Mar 2026 16:02:04 GMT</pubDate>
-    </item>
   </channel>
 </rss>
