@@ -174,13 +174,5 @@
     "Domain": "xkcd.com",
     "Description": "",
     "Confidence": 0.98151064
-  },
-  {
-    "Title": "CanIRun.ai — Can your machine run AI models?",
-    "Url": "https://www.canirun.ai/",
-    "Timestamp": "2026-03-13T18:02:08",
-    "Domain": "www.canirun.ai",
-    "Description": "Detect your hardware and find out which AI models you can run locally. GPU, CPU, and RAM analysis in your browser.",
-    "Confidence": 0.9552554
   }
 ]
