@@ -1,5 +1,12 @@
 [
   {
+    "Title": "computer graphics, maths, shaders, fractals, demoscene",
+    "Url": "https://iquilezles.org/articles/noacos/",
+    "Timestamp": "2026-03-14T07:02:00",
+    "Domain": "iquilezles.org",
+    "Description": "Tutorials and articles of Inigo Quilez on computer graphics, fractals, math, art, demoscene, shaders and more."
+  },
+  {
     "Title": "GitHub - TomBadash/MouseControl: A lightweight, open-source alternative to Logitech Options+ for remapping buttons on the Logitech MX Master 3S mouse",
     "Url": "https://github.com/TomBadash/MouseControl",
     "Timestamp": "2026-03-14T06:02:22",

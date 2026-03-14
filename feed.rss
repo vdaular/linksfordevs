@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>computer graphics, maths, shaders, fractals, demoscene</title>
+      <link>https://iquilezles.org/articles/noacos/</link>
+      <description>Tutorials and articles of Inigo Quilez on computer graphics, fractals, math, art, demoscene, shaders and more.</description>
+      <category>cloud</category>
+      <category>javascript</category>
+      <guid>https://iquilezles.org/articles/noacos/</guid>
+      <pubDate>Sat, 14 Mar 2026 07:02:00 GMT</pubDate>
+    </item>
+    <item>
       <title>GitHub - TomBadash/MouseControl: A lightweight, open-source alternative to Logitech Options+ for remapping buttons on the Logitech MX Master 3S mouse</title>
       <link>https://github.com/TomBadash/MouseControl</link>
       <description>A lightweight, open-source alternative to Logitech Options+ for remapping buttons on the Logitech MX Master 3S mouse - TomBadash/MouseControl</description>
