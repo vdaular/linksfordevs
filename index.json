@@ -206,13 +206,5 @@
     "Domain": "www.jeffgeerling.com",
     "Description": "Recently I came into posession of a few Apple Xserves. The one in question today is an Xserve G5, RackMac3,1, which was built when Apple at the top—and bottom—of it's PowerPC era.\nThis isn't the first Xserve—that honor belongs to the G41. And it wasn't the last—there were a few generations of Intel Xeon-powered RackMacs that followed. But in my opinion, it was the most interesting.\nUnfortunately, being manufactured in 2004, this Mac's Delta power supply suffers from the Capacitor Plague. The PSU tends to run hot, and some of the capacitors weren't even 105°C-rated, so they tend to wear out, especially if the Xserve was running high-end workloads.",
     "Confidence": 0.8909608
-  },
-  {
-    "Title": "I traced $2 billion in nonprofit grants and 45 states of lobbying records to figure out who's behind the age verification bills. The answer involves a company that profits from your data writing laws that collect more of it.",
-    "Url": "https://old.reddit.com/r/linux/comments/1rshc1f/i_traced_2_billion_in_nonprofit_grants_and_45/",
-    "Timestamp": "2026-03-13T13:02:11",
-    "Domain": "old.reddit.com",
-    "Description": "I've been pulling public records on the wave of \"age verification\" bills moving through US state legislatures. IRS 990 filings, Senate lobbying...",
-    "Confidence": 0.86849946
   }
 ]
