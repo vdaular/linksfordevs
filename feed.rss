@@ -7,6 +7,24 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>1M context is now generally available for Opus 4.6 and Sonnet 4.6 | Claude</title>
+      <link>https://claude.com/blog/1m-context-ga</link>
+      <description>Standard pricing now applies across the full 1M window for both models, with no long-context premium. Media limits expand to 600 images or PDF pages.</description>
+      <category>ai</category>
+      <category>cloud</category>
+      <guid>https://claude.com/blog/1m-context-ga</guid>
+      <pubDate>Sat, 14 Mar 2026 03:02:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Your Phone is an Entire Computer</title>
+      <link>https://medhir.com/blog/your-phone-is-an-entire-computer</link>
+      <description>The new MacBook Neo announcement raises old questions around what rights we have (and don't have) to install software on devices we own.</description>
+      <category>apple</category>
+      <category>linux</category>
+      <guid>https://medhir.com/blog/your-phone-is-an-entire-computer</guid>
+      <pubDate>Sat, 14 Mar 2026 03:02:19 GMT</pubDate>
+    </item>
+    <item>
       <title>How to Run a Pool of Autonomous Coding Agents on Your Jira Backlog</title>
       <link>https://jaksa.me/blog/2026-03-01-pool-of-agents</link>
       <description>What if you could point a fleet of AI agents at your Jira backlog and let them work through it continuously?</description>
