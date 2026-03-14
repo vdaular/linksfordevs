@@ -7,6 +7,26 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>GitHub - TomBadash/MouseControl: A lightweight, open-source alternative to Logitech Options+ for remapping buttons on the Logitech MX Master 3S mouse</title>
+      <link>https://github.com/TomBadash/MouseControl</link>
+      <description>A lightweight, open-source alternative to Logitech Options+ for remapping buttons on the Logitech MX Master 3S mouse - TomBadash/MouseControl</description>
+      <category>cloud</category>
+      <category>python</category>
+      <category>vscode</category>
+      <category>linux</category>
+      <category>git</category>
+      <guid>https://github.com/TomBadash/MouseControl</guid>
+      <pubDate>Sat, 14 Mar 2026 06:02:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub - Hammerspoon/hammerspoon: Staggeringly powerful macOS desktop automation with Lua</title>
+      <link>https://github.com/Hammerspoon/hammerspoon</link>
+      <description>Staggeringly powerful macOS desktop automation with Lua - Hammerspoon/hammerspoon</description>
+      <category>cloud</category>
+      <guid>https://github.com/Hammerspoon/hammerspoon</guid>
+      <pubDate>Sat, 14 Mar 2026 06:02:16 GMT</pubDate>
+    </item>
+    <item>
       <title>1M context is now generally available for Opus 4.6 and Sonnet 4.6 | Claude</title>
       <link>https://claude.com/blog/1m-context-ga</link>
       <description>Standard pricing now applies across the full 1M window for both models, with no long-context premium. Media limits expand to 600 images or PDF pages.</description>
