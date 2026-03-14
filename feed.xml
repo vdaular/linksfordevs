@@ -268,17 +268,5 @@ Unfortunately, being manufactured in 2004, this Mac's Delta power supply suffers
       <guid>https://idiallo.com/blog/work-taught-me-how-to-think?src=feed</guid>
       <pubDate>Fri, 13 Mar 2026 12:01:57 GMT</pubDate>
     </item>
-    <item>
-      <title>Vite 8.0 is out!</title>
-      <link>https://vite.dev/blog/announcing-vite8</link>
-      <description>Vite 8 Release Announcement</description>
-      <category>nodejs</category>
-      <category>rust</category>
-      <category>typescript</category>
-      <category>javascript</category>
-      <category>web</category>
-      <guid>https://vite.dev/blog/announcing-vite8</guid>
-      <pubDate>Fri, 13 Mar 2026 10:02:13 GMT</pubDate>
-    </item>
   </channel>
 </rss>
