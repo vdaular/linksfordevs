@@ -110,13 +110,5 @@
     "Domain": "idiallo.com",
     "Description": "Digg was just opened to the public in January 2026. After facing a swarm of AI bots, they decided to shutdown once more. I will mourn them in peace again.",
     "Confidence": 0.8912509
-  },
-  {
-    "Title": "computer graphics, maths, shaders, fractals, demoscene",
-    "Url": "https://iquilezles.org/articles/noacos/",
-    "Timestamp": "2026-03-14T07:02:00",
-    "Domain": "iquilezles.org",
-    "Description": "Tutorials and articles of Inigo Quilez on computer graphics, fractals, math, art, demoscene, shaders and more.",
-    "Confidence": 0.99548507
   }
 ]

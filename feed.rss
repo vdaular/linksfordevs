@@ -139,14 +139,5 @@ to address that gap.</description>
       <guid>https://idiallo.com/byte-size/digg-is-gone-again?src=feed</guid>
       <pubDate>Sat, 14 Mar 2026 09:02:01 GMT</pubDate>
     </item>
-    <item>
-      <title>computer graphics, maths, shaders, fractals, demoscene</title>
-      <link>https://iquilezles.org/articles/noacos/</link>
-      <description>Tutorials and articles of Inigo Quilez on computer graphics, fractals, math, art, demoscene, shaders and more.</description>
-      <category>cloud</category>
-      <category>javascript</category>
-      <guid>https://iquilezles.org/articles/noacos/</guid>
-      <pubDate>Sat, 14 Mar 2026 07:02:00 GMT</pubDate>
-    </item>
   </channel>
 </rss>
