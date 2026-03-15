@@ -7,6 +7,27 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>How Kernel Anti-Cheats Work: A Deep Dive into Modern Game Protection</title>
+      <link>https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/</link>
+      <description>Modern kernel anti-cheat systems are, without exaggeration, among the most sophisticated pieces of software running on consumer Windows machines. They operate at the highest privilege level available to software, they intercept kernel callbacks that were designed for legitimate security products, they scan memory structures that most programmers never touch in their entire careers, and they do all of this transparently while a game is running. If you have ever wondered how BattlEye actually catches a cheat, or why Vanguard insists on loading before Windows boots, or what it means for a PCIe DMA device to bypass every single one of these protections, this post is for you.</description>
+      <category>nodejs</category>
+      <category>gaming</category>
+      <category>cloud</category>
+      <category>git</category>
+      <category>ai</category>
+      <guid>https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/</guid>
+      <pubDate>Sun, 15 Mar 2026 15:02:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Appalling Stupidity of Spotify’s AI DJ</title>
+      <link>https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html</link>
+      <description>Am I naïve in expecting Artificial Intelligence to be smart? Is my interpretation of the word “intelligence” too literal? And when an AI behaves stupidly, who’s to blame? The programmers or the AI entity itself? Is it even proper to make a distinction between the two? Or does the AI work in so mysterious a way that the programmers need no longer take responsibility?</description>
+      <category>ai</category>
+      <category>android</category>
+      <guid>https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html</guid>
+      <pubDate>Sun, 15 Mar 2026 15:01:57 GMT</pubDate>
+    </item>
+    <item>
       <title>Ageless Linux — Software for Humans of Indeterminate Age</title>
       <link>https://agelesslinux.org/</link>
       <description>A Debian-Based Operating System</description>
