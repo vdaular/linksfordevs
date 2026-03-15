@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Retrohacking Robotron: Inside 1982's Video Game Classic!",
+    "Url": "https://youtube.com/watch?v=ZbZozyGTlKA",
+    "Timestamp": "2026-03-15T18:02:05",
+    "Domain": "youtube.com",
+    "Description": "After teaching an AI to dominate Tempest, I pointed it at Robotron: 2084… and things got gloriously out of control.\n\nRobotron isn’t just another classic arcade game. It’s one of the most chaotic, punishing, brilliantly engineered games of the golden age—an all-direction, twin-stick panic attack running on a Motorola 6809, custom Williams blitter hardware, and the kind of game design that assumes the player is always one bad decision away from disaster.\n\nIn this episode, I dig into my still-in-progress attempt to build an AI that can survive—and eventually master—Robotron. Along the way, I explore what makes the game so uniquely difficult, how its enemy logic and scoring system create constant tactical tradeoffs, and why this challenge is fundamentally different from Tempest. Tempest was elegant. Robotron is chaos management.\n\nEven better, I got to compare notes with Robotron creators Eugene Jarvis and Larry DeMar, who were generous enough to share stories and technical details from the original development process: the 6809-based GIMIX systems, custom in-house tools, hand-managed assembly modules, blitter tricks, and the design philosophy that turned two joysticks and a single screen into one of the most intense games ever made.\n\nSo this is part arcade history, part reverse engineering, part AI experiment, and part excuse to spend far too much time obsessing over one of the greatest cabinets ever built.\n\nCan an AI beat a game that was designed to overload the human brain with too many threats at once? That’s what we’re here to find out.\n\nIf you enjoy deep dives into old hardware, classic games, low-level code, and wildly impractical technical adventures, you’re in the right place.\n\n#Robotron2084 #AI #Arcade #RetroGaming #GameDev #EugeneJarvis #LarryDeMar #Tempest #Assembly #DavePlummer"
+  },
+  {
     "Title": "rack-mount hydroponics",
     "Url": "https://sa.lj.am/rack-mount-hydroponics/",
     "Timestamp": "2026-03-15T16:02:19",
