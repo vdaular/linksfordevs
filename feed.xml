@@ -148,25 +148,5 @@ to address that gap.</description>
       <guid>https://iquilezles.org/articles/noacos/</guid>
       <pubDate>Sat, 14 Mar 2026 07:02:00 GMT</pubDate>
     </item>
-    <item>
-      <title>GitHub - TomBadash/MouseControl: A lightweight, open-source alternative to Logitech Options+ for remapping buttons on the Logitech MX Master 3S mouse</title>
-      <link>https://github.com/TomBadash/MouseControl</link>
-      <description>A lightweight, open-source alternative to Logitech Options+ for remapping buttons on the Logitech MX Master 3S mouse - TomBadash/MouseControl</description>
-      <category>cloud</category>
-      <category>python</category>
-      <category>vscode</category>
-      <category>linux</category>
-      <category>git</category>
-      <guid>https://github.com/TomBadash/MouseControl</guid>
-      <pubDate>Sat, 14 Mar 2026 06:02:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - Hammerspoon/hammerspoon: Staggeringly powerful macOS desktop automation with Lua</title>
-      <link>https://github.com/Hammerspoon/hammerspoon</link>
-      <description>Staggeringly powerful macOS desktop automation with Lua - Hammerspoon/hammerspoon</description>
-      <category>cloud</category>
-      <guid>https://github.com/Hammerspoon/hammerspoon</guid>
-      <pubDate>Sat, 14 Mar 2026 06:02:16 GMT</pubDate>
-    </item>
   </channel>
 </rss>

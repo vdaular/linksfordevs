@@ -118,21 +118,5 @@
     "Domain": "iquilezles.org",
     "Description": "Tutorials and articles of Inigo Quilez on computer graphics, fractals, math, art, demoscene, shaders and more.",
     "Confidence": 0.99548507
-  },
-  {
-    "Title": "GitHub - TomBadash/MouseControl: A lightweight, open-source alternative to Logitech Options+ for remapping buttons on the Logitech MX Master 3S mouse",
-    "Url": "https://github.com/TomBadash/MouseControl",
-    "Timestamp": "2026-03-14T06:02:22",
-    "Domain": "github.com",
-    "Description": "A lightweight, open-source alternative to Logitech Options+ for remapping buttons on the Logitech MX Master 3S mouse - TomBadash/MouseControl",
-    "Confidence": 0.99585783
-  },
-  {
-    "Title": "GitHub - Hammerspoon/hammerspoon: Staggeringly powerful macOS desktop automation with Lua",
-    "Url": "https://github.com/Hammerspoon/hammerspoon",
-    "Timestamp": "2026-03-14T06:02:16",
-    "Domain": "github.com",
-    "Description": "Staggeringly powerful macOS desktop automation with Lua - Hammerspoon/hammerspoon",
-    "Confidence": 0.99538535
   }
 ]
