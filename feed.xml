@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Ageless Linux — Software for Humans of Indeterminate Age</title>
+      <link>https://agelesslinux.org/</link>
+      <description>A Debian-Based Operating System</description>
+      <category>linux</category>
+      <category>gaming</category>
+      <guid>https://agelesslinux.org/</guid>
+      <pubDate>Sun, 15 Mar 2026 03:02:01 GMT</pubDate>
+    </item>
+    <item>
       <title>Allow me to get to know you, mistakes and all</title>
       <link>https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/</link>
       <description>I think I’ve finally pinpointed why it is that I have an allergic reaction when I’m confronted with a text that has me as the intended recipient, but that has been run through an LLM to change or “clean up” the wording - especially if it’s internal communication or even direct communication. Well, at the very least, I think I’ve found the vocabulary to express the idea:
@@ -158,24 +167,6 @@ to address that gap.</description>
       <category>cloud</category>
       <guid>https://github.com/Hammerspoon/hammerspoon</guid>
       <pubDate>Sat, 14 Mar 2026 06:02:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>1M context is now generally available for Opus 4.6 and Sonnet 4.6 | Claude</title>
-      <link>https://claude.com/blog/1m-context-ga</link>
-      <description>Standard pricing now applies across the full 1M window for both models, with no long-context premium. Media limits expand to 600 images or PDF pages.</description>
-      <category>ai</category>
-      <category>cloud</category>
-      <guid>https://claude.com/blog/1m-context-ga</guid>
-      <pubDate>Sat, 14 Mar 2026 03:02:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Your Phone is an Entire Computer</title>
-      <link>https://medhir.com/blog/your-phone-is-an-entire-computer</link>
-      <description>The new MacBook Neo announcement raises old questions around what rights we have (and don't have) to install software on devices we own.</description>
-      <category>apple</category>
-      <category>linux</category>
-      <guid>https://medhir.com/blog/your-phone-is-an-entire-computer</guid>
-      <pubDate>Sat, 14 Mar 2026 03:02:19 GMT</pubDate>
     </item>
   </channel>
 </rss>
