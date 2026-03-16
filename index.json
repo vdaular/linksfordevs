@@ -198,21 +198,5 @@
     "Domain": "github.com",
     "Description": "Contribute to novatic14/MANPADS-System-Launcher-and-Rocket development by creating an account on GitHub.",
     "Confidence": 0.98584473
-  },
-  {
-    "Title": "How Kernel Anti-Cheats Work: A Deep Dive into Modern Game Protection",
-    "Url": "https://s4dbrd.github.io/posts/how-kernel-anti-cheats-work/",
-    "Timestamp": "2026-03-15T15:02:01",
-    "Domain": "s4dbrd.github.io",
-    "Description": "Modern kernel anti-cheat systems are, without exaggeration, among the most sophisticated pieces of software running on consumer Windows machines. They operate at the highest privilege level available to software, they intercept kernel callbacks that were designed for legitimate security products, they scan memory structures that most programmers never touch in their entire careers, and they do all of this transparently while a game is running. If you have ever wondered how BattlEye actually catches a cheat, or why Vanguard insists on loading before Windows boots, or what it means for a PCIe DMA device to bypass every single one of these protections, this post is for you.",
-    "Confidence": 0.9979739
-  },
-  {
-    "Title": "The Appalling Stupidity of Spotify’s AI DJ",
-    "Url": "https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html",
-    "Timestamp": "2026-03-15T15:01:57",
-    "Domain": "www.charlespetzold.com",
-    "Description": "Am I naïve in expecting Artificial Intelligence to be smart? Is my interpretation of the word “intelligence” too literal? And when an AI behaves stupidly, who’s to blame? The programmers or the AI entity itself? Is it even proper to make a distinction between the two? Or does the AI work in so mysterious a way that the programmers need no longer take responsibility?",
-    "Confidence": 0.89792013
   }
 ]
