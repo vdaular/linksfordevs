@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>How I write software with LLMs - Stavros' Stuff</title>
+      <link>https://www.stavros.io/posts/how-i-write-software-with-llms/</link>
+      <description>I don't care for the joy of programming</description>
+      <category>ai</category>
+      <category>web</category>
+      <category>javascript</category>
+      <category>typescript</category>
+      <guid>https://www.stavros.io/posts/how-i-write-software-with-llms/</guid>
+      <pubDate>Mon, 16 Mar 2026 12:02:04 GMT</pubDate>
+    </item>
+    <item>
       <title>Nasdaq's Shame</title>
       <link>https://keubiko.substack.com/p/nasdaqs-shame</link>
       <description>How to rig an index to appease a billionaire</description>
