@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Let your Coding Agent debug your browser session with Chrome DevTools MCP  |  Blog  |  Chrome for Developers</title>
+      <link>https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session</link>
+      <description>We shipped a new feature to the Chrome DevTools MCP server that is going to make it a lot easier for your coding agent to debug your current browser sessions.</description>
+      <category>ai</category>
+      <guid>https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session</guid>
+      <pubDate>Mon, 16 Mar 2026 00:01:58 GMT</pubDate>
+    </item>
+    <item>
       <title>A Visual Introduction to Machine Learning</title>
       <link>https://r2d3.us/visual-intro-to-machine-learning-part-1/</link>
       <description>What is machine learning? See how it works with our animated data visualization.</description>

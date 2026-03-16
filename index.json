@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Let your Coding Agent debug your browser session with Chrome DevTools MCP  |  Blog  |  Chrome for Developers",
+    "Url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
+    "Timestamp": "2026-03-16T00:01:58",
+    "Domain": "developer.chrome.com",
+    "Description": "We shipped a new feature to the Chrome DevTools MCP server that is going to make it a lot easier for your coding agent to debug your current browser sessions.",
+    "Confidence": 0.9985094
+  },
+  {
     "Title": "A Visual Introduction to Machine Learning",
     "Url": "https://r2d3.us/visual-intro-to-machine-learning-part-1/",
     "Timestamp": "2026-03-15T19:02:17",
