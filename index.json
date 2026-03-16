@@ -1,5 +1,133 @@
 [
   {
+    "Title": "The 49MB Web Page",
+    "Url": "https://thatshubham.com/blog/news-audit",
+    "Timestamp": "2026-03-16T01:03:19",
+    "Domain": "thatshubham.com",
+    "Description": "A look at modern news websites. How programmatic ad-tech, huge payloads and hostile architecture destroyed the reading experience.",
+    "Confidence": 0.96810764
+  },
+  {
+    "Title": "One Equation for Faster-Growing Cells",
+    "Url": "https://nikomc.com/2026/03/15/growth-rate/",
+    "Timestamp": "2026-03-16T01:03:15",
+    "Domain": "nikomc.com",
+    "Description": "Notes on the theoretical limit of cell division times.",
+    "Confidence": 0.9660512
+  },
+  {
+    "Title": "Observable file systems for agents",
+    "Url": "https://blog.chudioranu.com/posts/agent-file-systems-observability/",
+    "Timestamp": "2026-03-16T01:03:12",
+    "Domain": "blog.chudioranu.com",
+    "Description": "Building sandboxed, observable file systems and shell environments for AI agents.",
+    "Confidence": 0.9975067
+  },
+  {
+    "Title": "Minor Gripe - Millwright: Smarter Tool Selection From Agent Experience",
+    "Url": "https://minor.gripe/posts/2026-03-13-millwright_smarter_tool_selection_with_adaptive_toolsheds/",
+    "Timestamp": "2026-03-16T01:03:08",
+    "Domain": "minor.gripe",
+    "Description": "",
+    "Confidence": 0.98334247
+  },
+  {
+    "Title": "porting software has been trivial for a while now. here’s how you do it.",
+    "Url": "https://ghuntley.com/porting/",
+    "Timestamp": "2026-03-16T01:03:05",
+    "Domain": "ghuntley.com",
+    "Description": "This one is short and sweet. if you want to port a codebase from one language to another here’s the approach:\n\n 1. Run a ralph loop which compresses all tests into /specs/.md which looks similar to “study every file in tests/* using separate subagents and document in /specs/",
+    "Confidence": 0.91662616
+  },
+  {
+    "Title": "Why Do Engineers Wear a Ring?",
+    "Url": "https://alvinpane.com/essays/the-ring",
+    "Timestamp": "2026-03-16T01:02:57",
+    "Domain": "alvinpane.com",
+    "Description": "On the iron ring, and what it means to build things that hold.",
+    "Confidence": 0.89706427
+  },
+  {
+    "Title": "Cool tech you've never heard of: Wave Field Synthesis",
+    "Url": "https://82mhz.net/posts/2026/03/cool-tech-you-ve-never-heard-of-wave-field-synthesis/",
+    "Timestamp": "2026-03-16T01:02:54",
+    "Domain": "82mhz.net",
+    "Description": "March 15, 2026\n                \n                    Categories\n                        \n                            \n                                \n                            \n                         \n                    \n                \n                Reading time: 9 minutes",
+    "Confidence": 0.96588
+  },
+  {
+    "Title": "Office.eu officially launches in The Hague as Europe's fully sovereign office platform",
+    "Url": "https://office.eu/media/pressrelease-20260304",
+    "Timestamp": "2026-03-16T01:02:49",
+    "Domain": "office.eu",
+    "Description": "Office.eu, a 100% European owned alternative to Microsoft Office and Google Workspace, has officially launched in The Hague.",
+    "Confidence": 0.89188546
+  },
+  {
+    "Title": "Apple Studio Display XDR with M3 Pro",
+    "Url": "https://aidistillery.dev/apple_xdr_studio_m3/",
+    "Timestamp": "2026-03-16T01:02:44",
+    "Domain": "aidistillery.dev",
+    "Description": "I'm glad Apple updated the Studio Display to offer a version with HDR and 120Hz. The previous Studio Display has accurate colors and great resolution, but the upgrades are very welcome.",
+    "Confidence": 0.9366574
+  },
+  {
+    "Title": "Dotfiles by LLM",
+    "Url": "https://www.willmorrison.com/blog/03-15-2026-llm-dotfiles",
+    "Timestamp": "2026-03-16T01:02:41",
+    "Domain": "www.willmorrison.com",
+    "Description": "I let Claude Code configure my entire Arch install",
+    "Confidence": 0.9846877
+  },
+  {
+    "Title": "Shower Thought: Git Teleportation",
+    "Url": "https://idiallo.com/byte-size/git-teleportation?src=feed",
+    "Timestamp": "2026-03-16T01:02:38",
+    "Domain": "idiallo.com",
+    "Description": "A shower thought about teleportation, git and beam destroy. If we were to build a teleportation device, I have the blueprint. Looking for vibe coders for help.",
+    "Confidence": 0.9777383
+  },
+  {
+    "Title": "We do not have a democracy",
+    "Url": "https://joelx.com/we-do-not-have-a-democracy/",
+    "Timestamp": "2026-03-16T01:02:34",
+    "Domain": "joelx.com",
+    "Description": "We do not have a democracy. Politicians here purposefully prevent basic checks so that they can cheat in elections. Without anti-cheating rules like voter ID, your vote does not count. An overwhelming majority of Americans support voter ID and clean voter rolls for fair elections, so why don't we have these protections?",
+    "Confidence": 0.7361952
+  },
+  {
+    "Title": "Building My Own CPU - Part 3: Just Like the Simulations (It Was Not Just Like The Simulations)",
+    "Url": "https://willwarren.com/2026/03/12/building-my-own-cpu-part-3-from-simulation-to-hardware/",
+    "Timestamp": "2026-03-16T01:02:31",
+    "Domain": "willwarren.com",
+    "Description": "The blog of an engineer from Canada",
+    "Confidence": 0.98890203
+  },
+  {
+    "Title": "A Tale of Two Bills: Lawful Access Returns With Changes to Warrantless Access But Dangerous Backdoor Surveillance Risks Remain - Michael Geist",
+    "Url": "https://www.michaelgeist.ca/2026/03/a-tale-of-two-bills-lawful-access-returns-with-changes-to-warrantless-access-but-dangerous-backdoor-surveillance-risks-remains/",
+    "Timestamp": "2026-03-16T01:02:27",
+    "Domain": "www.michaelgeist.ca",
+    "Description": "The decades-long battle over lawful access entered a new phase yesterday with the introduction of Bill C-22, the Lawful Access Act. This bill follows the attempt last spring to bury lawful access provisions in Bill C-2, a border measures bill that was the new government’s first piece of substantive legislation. The lawful access elements of the bill faced an immediate backlash given the inclusion of unprecedented rules permitting widespread warrantless access to personal information. Those rules were on very shaky constitutional ground and the government ultimately decided to hit the reset button on lawful access by proceeding with the border measures in a different bill.  Lawful access never dies, however. Bill C-22 cover the two main aspects of lawful access: law enforcement access to personal information held by communication service providers such as ISPs and wireless providers and the development of surveillance and monitoring capabilities within Canadian networks. In fact, the bill is separated into two with the first half dealing with “timely access to data and information” and the second establishing the Supporting Authorized Access to Information Act (SAAIA).",
+    "Confidence": 0.9242538
+  },
+  {
+    "Title": "How a Deep Learning Library Enables Learning",
+    "Url": "https://www.henrypan.com/blog/2026-03-14-how-deep-learning-library-enables-learning/",
+    "Timestamp": "2026-03-16T01:02:18",
+    "Domain": "www.henrypan.com",
+    "Description": "1. The Familiar Training Step 2. Why Call loss.backward() At All 3. Why An Update Actually Helps 4. Values Remember Where They Came From 5. What One Operation Does During Backward 6. How loss.backward() Walks the Whole Graph 7. So We Have All the Gradients in the Graph. What’s Next?...",
+    "Confidence": 0.9976609
+  },
+  {
+    "Title": "LLMs can be absolutely exhausting",
+    "Url": "https://tomjohnell.com/llms-can-be-absolutely-exhausting/",
+    "Timestamp": "2026-03-16T01:02:13",
+    "Domain": "tomjohnell.com",
+    "Description": "Some days I get in bed after a tortuous 4-5 hour session working with Claude or Codex wondering what the heck happened. It's easy to blame the model - there'...",
+    "Confidence": 0.97210747
+  },
+  {
     "Title": "Let your Coding Agent debug your browser session with Chrome DevTools MCP  |  Blog  |  Chrome for Developers",
     "Url": "https://developer.chrome.com/blog/chrome-devtools-mcp-debug-your-browser-session",
     "Timestamp": "2026-03-16T00:01:58",
