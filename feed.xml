@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>LLM Architecture Gallery</title>
+      <link>https://sebastianraschka.com/llm-architecture-gallery/</link>
+      <description>A gallery that collects architecture figures from The Big LLM Architecture Comparison and related articles, with fact sheets and links back to the original sections.</description>
+      <category>ai</category>
+      <guid>https://sebastianraschka.com/llm-architecture-gallery/</guid>
+      <pubDate>Mon, 16 Mar 2026 03:02:00 GMT</pubDate>
+    </item>
+    <item>
       <title>The rise of malicious repositories on GitHub</title>
       <link>https://rushter.com/blog/github-malware/</link>
       <description>An article about malicious repositories on GitHub</description>
@@ -237,15 +245,6 @@ If you enjoy deep dives into old hardware, classic games, low-level code, and wi
       <category>android</category>
       <guid>https://www.charlespetzold.com/blog/2026/02/The-Appalling-Stupidity-of-Spotifys-AI-DJ.html</guid>
       <pubDate>Sun, 15 Mar 2026 15:01:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ageless Linux — Software for Humans of Indeterminate Age</title>
-      <link>https://agelesslinux.org/</link>
-      <description>A Debian-Based Operating System</description>
-      <category>linux</category>
-      <category>gaming</category>
-      <guid>https://agelesslinux.org/</guid>
-      <pubDate>Sun, 15 Mar 2026 03:02:01 GMT</pubDate>
     </item>
   </channel>
 </rss>

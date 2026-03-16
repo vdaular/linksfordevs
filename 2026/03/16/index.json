@@ -1,5 +1,12 @@
 [
   {
+    "Title": "LLM Architecture Gallery",
+    "Url": "https://sebastianraschka.com/llm-architecture-gallery/",
+    "Timestamp": "2026-03-16T03:02:00",
+    "Domain": "sebastianraschka.com",
+    "Description": "A gallery that collects architecture figures from The Big LLM Architecture Comparison and related articles, with fact sheets and links back to the original sections."
+  },
+  {
     "Title": "The rise of malicious repositories on GitHub",
     "Url": "https://rushter.com/blog/github-malware/",
     "Timestamp": "2026-03-16T02:01:50",

@@ -1,5 +1,13 @@
 [
   {
+    "Title": "LLM Architecture Gallery",
+    "Url": "https://sebastianraschka.com/llm-architecture-gallery/",
+    "Timestamp": "2026-03-16T03:02:00",
+    "Domain": "sebastianraschka.com",
+    "Description": "A gallery that collects architecture figures from The Big LLM Architecture Comparison and related articles, with fact sheets and links back to the original sections.",
+    "Confidence": 0.97194964
+  },
+  {
     "Title": "The rise of malicious repositories on GitHub",
     "Url": "https://rushter.com/blog/github-malware/",
     "Timestamp": "2026-03-16T02:01:50",
@@ -190,13 +198,5 @@
     "Domain": "www.charlespetzold.com",
     "Description": "Am I naïve in expecting Artificial Intelligence to be smart? Is my interpretation of the word “intelligence” too literal? And when an AI behaves stupidly, who’s to blame? The programmers or the AI entity itself? Is it even proper to make a distinction between the two? Or does the AI work in so mysterious a way that the programmers need no longer take responsibility?",
     "Confidence": 0.89792013
-  },
-  {
-    "Title": "Ageless Linux — Software for Humans of Indeterminate Age",
-    "Url": "https://agelesslinux.org/",
-    "Timestamp": "2026-03-15T03:02:01",
-    "Domain": "agelesslinux.org",
-    "Description": "A Debian-Based Operating System",
-    "Confidence": 0.9821922
   }
 ]
