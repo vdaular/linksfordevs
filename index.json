@@ -1,5 +1,13 @@
 [
   {
+    "Title": "The rise of malicious repositories on GitHub",
+    "Url": "https://rushter.com/blog/github-malware/",
+    "Timestamp": "2026-03-16T02:01:50",
+    "Domain": "rushter.com",
+    "Description": "An article about malicious repositories on GitHub",
+    "Confidence": 0.8570158
+  },
+  {
     "Title": "The 49MB Web Page",
     "Url": "https://thatshubham.com/blog/news-audit",
     "Timestamp": "2026-03-16T01:03:19",
@@ -190,101 +198,5 @@
     "Domain": "agelesslinux.org",
     "Description": "A Debian-Based Operating System",
     "Confidence": 0.9821922
-  },
-  {
-    "Title": "Allow me to get to know you, mistakes and all",
-    "Url": "https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/",
-    "Timestamp": "2026-03-15T02:02:16",
-    "Domain": "sebi.io",
-    "Description": "I think I’ve finally pinpointed why it is that I have an allergic reaction when I’m confronted with a text that has me as the intended recipient, but that has been run through an LLM to change or “clean up” the wording - especially if it’s internal communication or even direct communication. Well, at the very least, I think I’ve found the vocabulary to express the idea:\nWhen you run your message through an LLM, it will inevitably obscure what you actually wanted to say; we choose words for a reason after all - even if they’re sometimes not the right words.",
-    "Confidence": 0.9790403
-  },
-  {
-    "Title": "Building my own cloud in 3 months",
-    "Url": "https://kykvit.com/blog/opinions/Claude_Experiment_-_FlyingFish/",
-    "Timestamp": "2026-03-15T02:02:12",
-    "Domain": "kykvit.com",
-    "Description": "For many years now, I've been managing the backups for my family, phone data, laptop data, camera data, everything. While I kept all my personal data since I was 12 intact, that has not been the case for my family; broken external hard drives, photos stored in laptops that were never copied out... It became clear over time, that data needs to be kept safe automatically, otherwise, it is a matter of time for it to be lost forever.",
-    "Confidence": 0.9811027
-  },
-  {
-    "Title": "You Can Just Deploy Things | Relax, it's software.",
-    "Url": "https://nickdichev.com/blog/you-can-just-deploy-things/",
-    "Timestamp": "2026-03-15T02:02:08",
-    "Domain": "nickdichev.com",
-    "Description": "How Nix makes it trivially easy to deploy software on your home server.",
-    "Confidence": 0.9989459
-  },
-  {
-    "Title": "Tree Search Distillation for Language Models using PPO",
-    "Url": "https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/",
-    "Timestamp": "2026-03-15T02:02:05",
-    "Domain": "ayushtambde.com",
-    "Description": "Personal website of Ayush Tambde",
-    "Confidence": 0.9587864
-  },
-  {
-    "Title": "Living with (Jagged) Artificial Superintelligence (ASI)",
-    "Url": "https://langkilde.se/blog/living-with-asi/",
-    "Timestamp": "2026-03-15T02:02:02",
-    "Domain": "langkilde.se",
-    "Description": "A form of jagged artificial superintelligence is here. Models learned to think and use tools, crossing a threshold where agents are genuinely useful. But the human brain remains remarkably cost-effective for dynamic, judgment-heavy problems. Stop trying to be a computer. Be more human instead.",
-    "Confidence": 0.98994374
-  },
-  {
-    "Title": "Still choose boring technology",
-    "Url": "https://jonathannen.com/choose-boring-technology/",
-    "Timestamp": "2026-03-15T02:01:56",
-    "Domain": "jonathannen.com",
-    "Description": "Dan McKinley's classic advice on \"choosing boring technology\" is even more true in the AI era.",
-    "Confidence": 0.92668724
-  },
-  {
-    "Title": "Validation is your agent's bottleneck",
-    "Url": "https://www.nicowil.me/posts/the-missing-validation-layer/",
-    "Timestamp": "2026-03-15T02:01:53",
-    "Domain": "www.nicowil.me",
-    "Description": "A framework for validating the outputs of coding agents is what's currently missing in the AI coding agent space.",
-    "Confidence": 0.9933882
-  },
-  {
-    "Title": "Why I Stopped Using Spotify | Yar Kravtsov's Blog",
-    "Url": "https://yarlson.dev/blog/why-i-stopped-using-spotify/",
-    "Timestamp": "2026-03-15T02:01:50",
-    "Domain": "yarlson.dev",
-    "Description": "I thought streaming was the ethical upgrade from piracy. Turns out it just made music disposable. Now I buy CDs, pirate FLACs, and actually listen to albums …",
-    "Confidence": 0.77271014
-  },
-  {
-    "Title": "Resourceful Computing: What Happens When We Optimize for Old Hardware?",
-    "Url": "https://bensantora.com/posts/resourceful-computing-old-hardware/",
-    "Timestamp": "2026-03-15T02:01:47",
-    "Domain": "bensantora.com",
-    "Description": "Laptop prices are climbing and Windows is pushing users toward new devices. But millions of perfectly capable machines are sitting in homes right now. Here's why optimizing for old hardware is good for users, developers, and the environment.",
-    "Confidence": 0.94963366
-  },
-  {
-    "Title": "Polymarket isn't trustless",
-    "Url": "https://iter.ca/post/polymarket-trust/",
-    "Timestamp": "2026-03-15T02:01:44",
-    "Domain": "iter.ca",
-    "Description": "You actually do have to trust PM",
-    "Confidence": 0.92797816
-  },
-  {
-    "Title": "Overlay Bar Chart · Anantha Kumaran",
-    "Url": "https://ananthakumaran.in/2026/03/14/overlay-bar-chart.html",
-    "Timestamp": "2026-03-15T02:01:39",
-    "Domain": "ananthakumaran.in",
-    "Description": "In this post, I will discuss the overlay bar chart. There is\nplenty of material on stacked and grouped bar charts, but\nrelatively little written about overlay bar charts. This post attempts\nto address that gap.",
-    "Confidence": 0.98583865
-  },
-  {
-    "Title": "Mathematics Distillation Challenge – Equational Theories",
-    "Url": "https://terrytao.wordpress.com/2026/03/13/mathematics-distillation-challenge-equational-theories/",
-    "Timestamp": "2026-03-15T02:01:36",
-    "Domain": "terrytao.wordpress.com",
-    "Description": "Mathematical research traditionally involves a small number of professional mathematicians working closely on difficult problems. However, I have long believed that there is a complementary way to …",
-    "Confidence": 0.947169
   }
 ]

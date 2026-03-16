@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The rise of malicious repositories on GitHub</title>
+      <link>https://rushter.com/blog/github-malware/</link>
+      <description>An article about malicious repositories on GitHub</description>
+      <category>linux</category>
+      <category>git</category>
+      <guid>https://rushter.com/blog/github-malware/</guid>
+      <pubDate>Mon, 16 Mar 2026 02:01:50 GMT</pubDate>
+    </item>
+    <item>
       <title>The 49MB Web Page</title>
       <link>https://thatshubham.com/blog/news-audit</link>
       <description>A look at modern news websites. How programmatic ad-tech, huge payloads and hostile architecture destroyed the reading experience.</description>
@@ -237,121 +246,6 @@ If you enjoy deep dives into old hardware, classic games, low-level code, and wi
       <category>gaming</category>
       <guid>https://agelesslinux.org/</guid>
       <pubDate>Sun, 15 Mar 2026 03:02:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Allow me to get to know you, mistakes and all</title>
-      <link>https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/</link>
-      <description>I think I’ve finally pinpointed why it is that I have an allergic reaction when I’m confronted with a text that has me as the intended recipient, but that has been run through an LLM to change or “clean up” the wording - especially if it’s internal communication or even direct communication. Well, at the very least, I think I’ve found the vocabulary to express the idea:
-When you run your message through an LLM, it will inevitably obscure what you actually wanted to say; we choose words for a reason after all - even if they’re sometimes not the right words.</description>
-      <guid>https://sebi.io/posts/2026-03-14-allow-me-to-get-to-know-you-mistakes-and-all/</guid>
-      <pubDate>Sun, 15 Mar 2026 02:02:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Building my own cloud in 3 months</title>
-      <link>https://kykvit.com/blog/opinions/Claude_Experiment_-_FlyingFish/</link>
-      <description>For many years now, I've been managing the backups for my family, phone data, laptop data, camera data, everything. While I kept all my personal data since I was 12 intact, that has not been the case for my family; broken external hard drives, photos stored in laptops that were never copied out... It became clear over time, that data needs to be kept safe automatically, otherwise, it is a matter of time for it to be lost forever.</description>
-      <category>android</category>
-      <category>rust</category>
-      <category>ai</category>
-      <category>nodejs</category>
-      <category>web</category>
-      <guid>https://kykvit.com/blog/opinions/Claude_Experiment_-_FlyingFish/</guid>
-      <pubDate>Sun, 15 Mar 2026 02:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>You Can Just Deploy Things | Relax, it's software.</title>
-      <link>https://nickdichev.com/blog/you-can-just-deploy-things/</link>
-      <description>How Nix makes it trivially easy to deploy software on your home server.</description>
-      <category>containers</category>
-      <category>sql</category>
-      <category>rust</category>
-      <guid>https://nickdichev.com/blog/you-can-just-deploy-things/</guid>
-      <pubDate>Sun, 15 Mar 2026 02:02:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tree Search Distillation for Language Models using PPO</title>
-      <link>https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/</link>
-      <description>Personal website of Ayush Tambde</description>
-      <category>ai</category>
-      <category>nodejs</category>
-      <category>gaming</category>
-      <category>rust</category>
-      <guid>https://ayushtambde.com/blog/tree-search-distillation-for-language-models-using-ppo/</guid>
-      <pubDate>Sun, 15 Mar 2026 02:02:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Living with (Jagged) Artificial Superintelligence (ASI)</title>
-      <link>https://langkilde.se/blog/living-with-asi/</link>
-      <description>A form of jagged artificial superintelligence is here. Models learned to think and use tools, crossing a threshold where agents are genuinely useful. But the human brain remains remarkably cost-effective for dynamic, judgment-heavy problems. Stop trying to be a computer. Be more human instead.</description>
-      <category>cloud</category>
-      <category>encryption</category>
-      <category>ai</category>
-      <guid>https://langkilde.se/blog/living-with-asi/</guid>
-      <pubDate>Sun, 15 Mar 2026 02:02:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Still choose boring technology</title>
-      <link>https://jonathannen.com/choose-boring-technology/</link>
-      <description>Dan McKinley's classic advice on "choosing boring technology" is even more true in the AI era.</description>
-      <category>sql</category>
-      <category>ai</category>
-      <guid>https://jonathannen.com/choose-boring-technology/</guid>
-      <pubDate>Sun, 15 Mar 2026 02:01:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Validation is your agent's bottleneck</title>
-      <link>https://www.nicowil.me/posts/the-missing-validation-layer/</link>
-      <description>A framework for validating the outputs of coding agents is what's currently missing in the AI coding agent space.</description>
-      <category>cloud</category>
-      <category>python</category>
-      <category>web</category>
-      <category>ai</category>
-      <guid>https://www.nicowil.me/posts/the-missing-validation-layer/</guid>
-      <pubDate>Sun, 15 Mar 2026 02:01:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why I Stopped Using Spotify | Yar Kravtsov's Blog</title>
-      <link>https://yarlson.dev/blog/why-i-stopped-using-spotify/</link>
-      <description>I thought streaming was the ethical upgrade from piracy. Turns out it just made music disposable. Now I buy CDs, pirate FLACs, and actually listen to albums …</description>
-      <guid>https://yarlson.dev/blog/why-i-stopped-using-spotify/</guid>
-      <pubDate>Sun, 15 Mar 2026 02:01:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Resourceful Computing: What Happens When We Optimize for Old Hardware?</title>
-      <link>https://bensantora.com/posts/resourceful-computing-old-hardware/</link>
-      <description>Laptop prices are climbing and Windows is pushing users toward new devices. But millions of perfectly capable machines are sitting in homes right now. Here's why optimizing for old hardware is good for users, developers, and the environment.</description>
-      <category>linux</category>
-      <category>ai</category>
-      <category>javascript</category>
-      <guid>https://bensantora.com/posts/resourceful-computing-old-hardware/</guid>
-      <pubDate>Sun, 15 Mar 2026 02:01:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Polymarket isn't trustless</title>
-      <link>https://iter.ca/post/polymarket-trust/</link>
-      <description>You actually do have to trust PM</description>
-      <category>ai</category>
-      <guid>https://iter.ca/post/polymarket-trust/</guid>
-      <pubDate>Sun, 15 Mar 2026 02:01:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Overlay Bar Chart · Anantha Kumaran</title>
-      <link>https://ananthakumaran.in/2026/03/14/overlay-bar-chart.html</link>
-      <description>In this post, I will discuss the overlay bar chart. There is
-plenty of material on stacked and grouped bar charts, but
-relatively little written about overlay bar charts. This post attempts
-to address that gap.</description>
-      <category>web</category>
-      <guid>https://ananthakumaran.in/2026/03/14/overlay-bar-chart.html</guid>
-      <pubDate>Sun, 15 Mar 2026 02:01:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mathematics Distillation Challenge – Equational Theories</title>
-      <link>https://terrytao.wordpress.com/2026/03/13/mathematics-distillation-challenge-equational-theories/</link>
-      <description>Mathematical research traditionally involves a small number of professional mathematicians working closely on difficult problems. However, I have long believed that there is a complementary way to …</description>
-      <category>ai</category>
-      <guid>https://terrytao.wordpress.com/2026/03/13/mathematics-distillation-challenge-equational-theories/</guid>
-      <pubDate>Sun, 15 Mar 2026 02:01:36 GMT</pubDate>
     </item>
   </channel>
 </rss>
