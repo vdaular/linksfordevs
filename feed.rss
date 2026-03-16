@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Nasdaq's Shame</title>
+      <link>https://keubiko.substack.com/p/nasdaqs-shame</link>
+      <description>How to rig an index to appease a billionaire</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://keubiko.substack.com/p/nasdaqs-shame</guid>
+      <pubDate>Mon, 16 Mar 2026 06:02:00 GMT</pubDate>
+    </item>
+    <item>
       <title>LLM Architecture Gallery</title>
       <link>https://sebastianraschka.com/llm-architecture-gallery/</link>
       <description>A gallery that collects architecture figures from The Big LLM Architecture Comparison and related articles, with fact sheets and links back to the original sections.</description>
