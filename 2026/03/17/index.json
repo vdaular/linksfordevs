@@ -1,5 +1,12 @@
 [
   {
+    "Title": "If you thought the speed of writing code was your problem - you have bigger problems | Debugging Leadership",
+    "Url": "https://andrewmurphy.io/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems",
+    "Timestamp": "2026-03-17T21:02:10",
+    "Domain": "andrewmurphy.io",
+    "Description": "AI coding tools are optimising the wrong thing and nobody wants to hear it. Writing code was already fast. The bottleneck is everything else: unclear requirements, review queues, terrified deploy cultures, and an org chart that needs six meetings to decide what colour the button should be."
+  },
+  {
     "Title": "A sufficiently detailed spec is code",
     "Url": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
     "Timestamp": "2026-03-17T20:02:11",
