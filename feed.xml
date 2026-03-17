@@ -7,6 +7,19 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>OpenClaw is a Security Nightmare Dressed Up as a Daydream | Composio</title>
+      <link>https://composio.dev/content/openclaw-security-and-vulnerabilities</link>
+      <description>Composio content pages powered by our CMS, including tutorials, product updates, and guides.</description>
+      <author> (Sunil Kumar Dash)</author>
+      <category>containers</category>
+      <category>apple</category>
+      <category>conference</category>
+      <category>encryption</category>
+      <category>gaming</category>
+      <guid>https://composio.dev/content/openclaw-security-and-vulnerabilities</guid>
+      <pubDate>Tue, 17 Mar 2026 12:02:02 GMT</pubDate>
+    </item>
+    <item>
       <title>Every layer of review makes you 10x slower</title>
       <link>https://apenwarr.ca/log/20260316</link>
       <description>We’ve all heard of those network effect laws: the value of a network goes up
@@ -273,17 +286,6 @@ Clarification: creating questions and answers is writing, and it’s commonly kn
 </description>
       <guid>https://idiallo.com/blog/loyalty-oath-crusade-speak-up?src=feed</guid>
       <pubDate>Mon, 16 Mar 2026 20:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>How I write software with LLMs - Stavros' Stuff</title>
-      <link>https://www.stavros.io/posts/how-i-write-software-with-llms/</link>
-      <description>I don't care for the joy of programming</description>
-      <category>ai</category>
-      <category>web</category>
-      <category>javascript</category>
-      <category>typescript</category>
-      <guid>https://www.stavros.io/posts/how-i-write-software-with-llms/</guid>
-      <pubDate>Mon, 16 Mar 2026 12:02:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
