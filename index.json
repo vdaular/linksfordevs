@@ -294,13 +294,5 @@
     "Domain": "nguyenhuythanh.com",
     "Description": "Recently, I’ve been solving more and more complex problems. From working on those, I found a “strategy”/method that worked: to lay out the information needed as a bunch of questions, then answer them. I want to share the idea because I think it’s very useful in these ways:\nClarification: creating questions and answers is writing, and it’s commonly known that writing makes your thinking clearer. It also eases your brain from keeping too many details at once 1.",
     "Confidence": 0.9892415
-  },
-  {
-    "Title": "The “small web” is bigger than you might think",
-    "Url": "https://kevinboone.me/small_web_is_big.html",
-    "Timestamp": "2026-03-16T23:02:06",
-    "Domain": "kevinboone.me",
-    "Description": "The small web is growing, and getting more active. Good news.",
-    "Confidence": 0.96849304
   }
 ]
