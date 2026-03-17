@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Rotational Gravity</title>
+      <link>https://xkcd.com/3220/</link>
+      <description></description>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3220/</guid>
+      <pubDate>Tue, 17 Mar 2026 03:02:23 GMT</pubDate>
+    </item>
+    <item>
       <title>Why isn’t anyone panicking?</title>
       <link>https://martinvol.pe/blog/2026/03/15/why-nobody-is-packicking-USA-Iran-war/</link>
       <description>The S&amp;P 500 is near all-time highs. Crypto is up. And yet the US has started its biggest Middle East war since Iraq, and 20% of the world’s oil just went offline. Why is most everybody pretending things are normal?</description>
@@ -269,14 +277,6 @@ Clarification: creating questions and answers is writing, and it’s commonly kn
       <category>gaming</category>
       <guid>https://keubiko.substack.com/p/nasdaqs-shame</guid>
       <pubDate>Mon, 16 Mar 2026 06:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>LLM Architecture Gallery</title>
-      <link>https://sebastianraschka.com/llm-architecture-gallery/</link>
-      <description>A gallery that collects architecture figures from The Big LLM Architecture Comparison and related articles, with fact sheets and links back to the original sections.</description>
-      <category>ai</category>
-      <guid>https://sebastianraschka.com/llm-architecture-gallery/</guid>
-      <pubDate>Mon, 16 Mar 2026 03:02:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

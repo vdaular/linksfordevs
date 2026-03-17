@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Rotational Gravity",
+    "Url": "https://xkcd.com/3220/",
+    "Timestamp": "2026-03-17T03:02:23",
+    "Domain": "xkcd.com",
+    "Description": "",
+    "Confidence": 0.98151064
+  },
+  {
     "Title": "Why isn’t anyone panicking?",
     "Url": "https://martinvol.pe/blog/2026/03/15/why-nobody-is-packicking-USA-Iran-war/",
     "Timestamp": "2026-03-17T01:03:35",
@@ -230,13 +238,5 @@
     "Domain": "keubiko.substack.com",
     "Description": "How to rig an index to appease a billionaire",
     "Confidence": 0.8345887
-  },
-  {
-    "Title": "LLM Architecture Gallery",
-    "Url": "https://sebastianraschka.com/llm-architecture-gallery/",
-    "Timestamp": "2026-03-16T03:02:00",
-    "Domain": "sebastianraschka.com",
-    "Description": "A gallery that collects architecture figures from The Big LLM Architecture Comparison and related articles, with fact sheets and links back to the original sections.",
-    "Confidence": 0.97194964
   }
 ]
