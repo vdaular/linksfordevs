@@ -230,13 +230,5 @@
     "Domain": "www.stavros.io",
     "Description": "I don't care for the joy of programming",
     "Confidence": 0.9944387
-  },
-  {
-    "Title": "Nasdaq's Shame",
-    "Url": "https://keubiko.substack.com/p/nasdaqs-shame",
-    "Timestamp": "2026-03-16T06:02:00",
-    "Domain": "keubiko.substack.com",
-    "Description": "How to rig an index to appease a billionaire",
-    "Confidence": 0.8345887
   }
 ]
