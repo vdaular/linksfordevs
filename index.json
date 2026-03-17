@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Kagi Translate",
+    "Url": "https://translate.kagi.com/?from=en&to=LinkedIn%20speak",
+    "Timestamp": "2026-03-17T07:02:07",
+    "Domain": "translate.kagi.com",
+    "Description": "Kagi Translate uses powerful AI models to instantly and accurately translate any content in any language.",
+    "Confidence": 0.9088015
+  },
+  {
     "Title": "Rotational Gravity",
     "Url": "https://xkcd.com/3220/",
     "Timestamp": "2026-03-17T03:02:23",
