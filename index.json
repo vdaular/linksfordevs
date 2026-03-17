@@ -1,5 +1,13 @@
 [
   {
+    "Title": "A sufficiently detailed spec is code",
+    "Url": "https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code",
+    "Timestamp": "2026-03-17T20:02:11",
+    "Domain": "haskellforall.com",
+    "Description": "Specifications do not address the limitations of agentic coding",
+    "Confidence": 0.99301225
+  },
+  {
     "Title": "Microsoft’s ‘unhackable’ Xbox One has been hacked by 'Bliss'",
     "Url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
     "Timestamp": "2026-03-17T19:02:14",
@@ -270,13 +278,5 @@
     "Domain": "kevinboone.me",
     "Description": "The small web is growing, and getting more active. Good news.",
     "Confidence": 0.96849304
-  },
-  {
-    "Title": "The Loyalty Oath Crusade",
-    "Url": "https://idiallo.com/blog/loyalty-oath-crusade-speak-up?src=feed",
-    "Timestamp": "2026-03-16T20:02:00",
-    "Domain": "idiallo.com",
-    "Description": "In chapter 11 of Catch-22, two captains create a complex set of rules to ensure security in the military. Among them are some absurd requirements just to get food in the mess hall.\n",
-    "Confidence": 0.66451925
   }
 ]

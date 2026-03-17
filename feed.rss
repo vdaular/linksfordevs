@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>A sufficiently detailed spec is code</title>
+      <link>https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code</link>
+      <description>Specifications do not address the limitations of agentic coding</description>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code</guid>
+      <pubDate>Tue, 17 Mar 2026 20:02:11 GMT</pubDate>
+    </item>
+    <item>
       <title>Microsoft’s ‘unhackable’ Xbox One has been hacked by 'Bliss'</title>
       <link>https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level</link>
       <description>A groundbreaking hack for Microsoft’s ‘unhackable’ Xbox One was revealed at the recent RE//verse 2026 conference.</description>
@@ -328,14 +337,6 @@ Clarification: creating questions and answers is writing, and it’s commonly kn
       <description>The small web is growing, and getting more active. Good news.</description>
       <guid>https://kevinboone.me/small_web_is_big.html</guid>
       <pubDate>Mon, 16 Mar 2026 23:02:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Loyalty Oath Crusade</title>
-      <link>https://idiallo.com/blog/loyalty-oath-crusade-speak-up?src=feed</link>
-      <description>In chapter 11 of Catch-22, two captains create a complex set of rules to ensure security in the military. Among them are some absurd requirements just to get food in the mess hall.
-</description>
-      <guid>https://idiallo.com/blog/loyalty-oath-crusade-speak-up?src=feed</guid>
-      <pubDate>Mon, 16 Mar 2026 20:02:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
