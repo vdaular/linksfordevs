@@ -1,5 +1,21 @@
 [
   {
+    "Title": "A Decade of Slug - Eric Lengyel",
+    "Url": "https://terathon.com/blog/decade-slug.html",
+    "Timestamp": "2026-03-17T22:02:18",
+    "Domain": "terathon.com",
+    "Description": "Eric Lengyel   •   March 17, 2026",
+    "Confidence": 0.9191746
+  },
+  {
+    "Title": "Installing .NET on Windows Without Admin Privileges | no dogma blog",
+    "Url": "https://nodogmablog.bryanhogan.net/2026/03/installing-net-on-windows-without-admin-privileges/",
+    "Timestamp": "2026-03-17T22:02:15",
+    "Domain": "nodogmablog.bryanhogan.net",
+    "Description": "If you don't have administrator rights on a Windows computer, you can still install and run .NET.",
+    "Confidence": 0.9981059
+  },
+  {
     "Title": "If you thought the speed of writing code was your problem - you have bigger problems | Debugging Leadership",
     "Url": "https://andrewmurphy.io/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems",
     "Timestamp": "2026-03-17T21:02:10",
