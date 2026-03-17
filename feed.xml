@@ -278,14 +278,5 @@ Clarification: creating questions and answers is writing, and it’s commonly kn
       <guid>https://sebastianraschka.com/llm-architecture-gallery/</guid>
       <pubDate>Mon, 16 Mar 2026 03:02:00 GMT</pubDate>
     </item>
-    <item>
-      <title>The rise of malicious repositories on GitHub</title>
-      <link>https://rushter.com/blog/github-malware/</link>
-      <description>An article about malicious repositories on GitHub</description>
-      <category>linux</category>
-      <category>git</category>
-      <guid>https://rushter.com/blog/github-malware/</guid>
-      <pubDate>Mon, 16 Mar 2026 02:01:50 GMT</pubDate>
-    </item>
   </channel>
 </rss>

@@ -238,13 +238,5 @@
     "Domain": "sebastianraschka.com",
     "Description": "A gallery that collects architecture figures from The Big LLM Architecture Comparison and related articles, with fact sheets and links back to the original sections.",
     "Confidence": 0.97194964
-  },
-  {
-    "Title": "The rise of malicious repositories on GitHub",
-    "Url": "https://rushter.com/blog/github-malware/",
-    "Timestamp": "2026-03-16T02:01:50",
-    "Domain": "rushter.com",
-    "Description": "An article about malicious repositories on GitHub",
-    "Confidence": 0.8570158
   }
 ]
