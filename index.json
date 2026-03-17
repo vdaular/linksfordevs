@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Every layer of review makes you 10x slower",
+    "Url": "https://apenwarr.ca/log/20260316",
+    "Timestamp": "2026-03-17T11:03:30",
+    "Domain": "apenwarr.ca",
+    "Description": "We’ve all heard of those network effect laws: the value of a network goes up\nwith the square of the number of members. Or the cost of commun...",
+    "Confidence": 0.98978573
+  },
+  {
     "Title": "Kagi Translate",
     "Url": "https://translate.kagi.com/?from=en&to=LinkedIn%20speak",
     "Timestamp": "2026-03-17T07:02:07",
