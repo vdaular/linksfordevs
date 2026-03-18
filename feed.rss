@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Landscape Features</title>
+      <link>https://xkcd.com/3221/</link>
+      <description></description>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3221/</guid>
+      <pubDate>Wed, 18 Mar 2026 18:02:21 GMT</pubDate>
+    </item>
+    <item>
       <title>&lt;h1&gt;Rob Pike's 5 Rules of Programming&lt;/h1&gt;</title>
       <link>https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html</link>
       <description>Pike's rules 1 and 2 restate Tony Hoare's famous maxim 
