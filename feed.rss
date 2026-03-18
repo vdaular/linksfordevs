@@ -334,14 +334,5 @@ License, version 2, with the Classpath Exception.</description>
       <guid>https://andrewmurphy.io/blog/if-you-thought-the-speed-of-writing-code-was-your-problem-you-have-bigger-problems</guid>
       <pubDate>Tue, 17 Mar 2026 21:02:10 GMT</pubDate>
     </item>
-    <item>
-      <title>A sufficiently detailed spec is code</title>
-      <link>https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code</link>
-      <description>Specifications do not address the limitations of agentic coding</description>
-      <category>ai</category>
-      <category>git</category>
-      <guid>https://haskellforall.com/2026/03/a-sufficiently-detailed-spec-is-code</guid>
-      <pubDate>Tue, 17 Mar 2026 20:02:11 GMT</pubDate>
-    </item>
   </channel>
 </rss>
