@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Communication Is Surveillance by Design</title>
+      <link>https://idiallo.com/blog/communication-is-surveillance-by-design?src=feed</link>
+      <description>In the very last scene of The Bourne Supremacy, Jason Bourne calls the CIA from what they presume is a public phone. Landy, who answers the call, instructs her team to trace it. Bourne says he wants t</description>
+      <category>encryption</category>
+      <guid>https://idiallo.com/blog/communication-is-surveillance-by-design?src=feed</guid>
+      <pubDate>Wed, 18 Mar 2026 12:01:59 GMT</pubDate>
+    </item>
+    <item>
       <title>Mastering GitHub Copilot | Pure Krome</title>
       <link>https://www.world-domination.com.au/posts/2026/mastering-github-copilot/</link>
       <description>Mastering GitHub Copilot for AI-assisted development</description>
@@ -356,19 +364,6 @@ Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas
       <category>ai</category>
       <guid>https://kagi.com/smallweb/</guid>
       <pubDate>Tue, 17 Mar 2026 13:02:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenClaw is a Security Nightmare Dressed Up as a Daydream | Composio</title>
-      <link>https://composio.dev/content/openclaw-security-and-vulnerabilities</link>
-      <description>Composio content pages powered by our CMS, including tutorials, product updates, and guides.</description>
-      <author> (Sunil Kumar Dash)</author>
-      <category>containers</category>
-      <category>apple</category>
-      <category>conference</category>
-      <category>encryption</category>
-      <category>gaming</category>
-      <guid>https://composio.dev/content/openclaw-security-and-vulnerabilities</guid>
-      <pubDate>Tue, 17 Mar 2026 12:02:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
