@@ -7,6 +7,218 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Confidently Wrong: Agentic coding predictions for the next year</title>
+      <link>https://thomshutt.com/2026/03/17/predictions/</link>
+      <description>Writing and notes by Thom Shutt.</description>
+      <category>ai</category>
+      <guid>https://thomshutt.com/2026/03/17/predictions/</guid>
+      <pubDate>Wed, 18 Mar 2026 00:03:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Economics Of Slop | Thoughts by Javier</title>
+      <link>https://javiergonzalez.io/blog/the-economics-of-slop/</link>
+      <description>Given generative models of AI, we have already lost a battle of what is real in the internet.</description>
+      <category>ai</category>
+      <guid>https://javiergonzalez.io/blog/the-economics-of-slop/</guid>
+      <pubDate>Wed, 18 Mar 2026 00:03:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Two leaps into the unknown | Patricio Albornoz</title>
+      <link>https://www.patricioalbornoz.com/en/articles/two-leaps-into-the-unknown</link>
+      <description>A year of difficult calls, double leaps into the unknown, and starting over from inside Autonoma.</description>
+      <author> (Patricio Albornoz)</author>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://www.patricioalbornoz.com/en/articles/two-leaps-into-the-unknown</guid>
+      <pubDate>Wed, 18 Mar 2026 00:03:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>PWAs Without the Browser? › Ken Vermette</title>
+      <link>https://kver.ca/2026/03/strand-slipshod-vibe-coded-pwas-for-the-desktop/</link>
+      <description>Design, Graphics, and Code</description>
+      <category>linux</category>
+      <category>youtube</category>
+      <category>android</category>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://kver.ca/2026/03/strand-slipshod-vibe-coded-pwas-for-the-desktop/</guid>
+      <pubDate>Wed, 18 Mar 2026 00:03:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sen Hongo</title>
+      <link>https://senhongo.com/blog/shoveling-snow/</link>
+      <description>Sen Hongo is bootstrapping Millefeuille, a personal finance start up</description>
+      <guid>https://senhongo.com/blog/shoveling-snow/</guid>
+      <pubDate>Wed, 18 Mar 2026 00:03:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Databases Were Not Designed For This</title>
+      <link>https://arpitbhayani.me/blogs/defensive-databases/</link>
+      <description>There is an implicit contract at the foundation of every database architecture decision you have ever made. You probably never wrote it down. Nobody does. It just… existed.</description>
+      <category>sql</category>
+      <category>ai</category>
+      <guid>https://arpitbhayani.me/blogs/defensive-databases/</guid>
+      <pubDate>Wed, 18 Mar 2026 00:03:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>How did they get so good?</title>
+      <link>https://www.manhattanmetric.com/blog/2026/03/how-did-llms-get-so-good</link>
+      <description>In two earlier posts I covered a bit of the history of the current batch of AI models, what they are good at, and what they’re not so good at. Had I published those posts a year earlier, we probably could have left the story there, but unless you’ve been living under a rock, it’s clear that the situation has evolved rather rapidly. I will try, then, with this post to conclude the story of how we got to the place we are now (early 2026) and to provide maybe a hint of where we are going.</description>
+      <category>ai</category>
+      <guid>https://www.manhattanmetric.com/blog/2026/03/how-did-llms-get-so-good</guid>
+      <pubDate>Wed, 18 Mar 2026 00:03:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to Thought Lead (2026)</title>
+      <link>https://www.swyx.io/lead</link>
+      <description>I first started compiling " How To Thought Lead (https://x.com/swyx/status/2028694299647656252)" in my notes 5 years ago, at first as an ironic parody and then slowly becoming sincere, and never published it, 1) because I don't know if I ever really nailed it / have a complete picture, 2) I was somewhat worried if I published it then others might diminish the techniques through overuse. </description>
+      <category>ai</category>
+      <category>cloud</category>
+      <category>containers</category>
+      <category>javascript</category>
+      <category>gaming</category>
+      <guid>https://www.swyx.io/lead</guid>
+      <pubDate>Wed, 18 Mar 2026 00:03:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Designing an AI Gateway and Durable Workflow System | Steve Kinney</title>
+      <link>https://stevekinney.com/writing/ai-gateway-durable-workflows</link>
+      <description>A two-layer architecture for production AI systems: a gateway that abstracts providers, enforces policies, and tracks costs, paired with a durable workflow engine that makes long-running agentic tasks survive failures, pause for human approval, and replay deterministically.</description>
+      <category>ai</category>
+      <category>vscode</category>
+      <category>git</category>
+      <category>sql</category>
+      <guid>https://stevekinney.com/writing/ai-gateway-durable-workflows</guid>
+      <pubDate>Wed, 18 Mar 2026 00:03:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Surprising a model</title>
+      <link>https://vivekhaldar.com/articles/surprising-a-model/</link>
+      <description>Back when my kids were little and I was working at Google I was dogfooding an internal Maps or Google Now (remember that?) experiment on my Android phone that nudged you to get going for an event that it had inferred you needed to get to—even if it was not explicitly an event on your calendar!
+For me, this was a notification at 5:30 pm on weekdays to get moving to pick up kids from daycare before it closed at 6 pm. It understood this about my life with very high confidence after maybe a week of silent observation.</description>
+      <category>android</category>
+      <guid>https://vivekhaldar.com/articles/surprising-a-model/</guid>
+      <pubDate>Wed, 18 Mar 2026 00:03:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Migrating from DigitalOcean to Hetzner: From $1,432 to $233/month With Zero Downtime</title>
+      <link>https://isayeter.com/posts/digitalocean-to-hetzner-migration/</link>
+      <description>A real-world production migration from DigitalOcean to Hetzner dedicated, handling 248 GB of MySQL data across 30 databases, 34 Nginx sites, GitLab EE, Neo4j, and live mobile app traffic — with zero downtime.</description>
+      <category>sql</category>
+      <category>nodejs</category>
+      <category>python</category>
+      <category>git</category>
+      <category>apple</category>
+      <guid>https://isayeter.com/posts/digitalocean-to-hetzner-migration/</guid>
+      <pubDate>Wed, 18 Mar 2026 00:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>The best platform team ships zero tools</title>
+      <link>https://aurbano.eu/post/2026-03-13-best-platform-team-ships-zero-tools/</link>
+      <description>Instead of one dashboard that half the company tolerates, imagine twelve that each perfectly serve the people who asked for them. That’s where I think internal tooling is heading. As the cost of building software drops, the natural endpoint isn’t fewer, better applications. It’s many more, each built for a narrow audience, maybe even a single team or workflow. But that only works if building and deploying them is nearly free, and right now, it isn’t.</description>
+      <category>ai</category>
+      <category>sql</category>
+      <category>nodejs</category>
+      <guid>https://aurbano.eu/post/2026-03-13-best-platform-team-ships-zero-tools/</guid>
+      <pubDate>Wed, 18 Mar 2026 00:02:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Who Watches the Provers? — Leonardo de Moura</title>
+      <link>https://leodemoura.github.io/blog/2026-3-16-who-watches-the-provers/</link>
+      <description>Leonardo de Moura — Creator of Lean and Z3</description>
+      <category>rust</category>
+      <category>ai</category>
+      <guid>https://leodemoura.github.io/blog/2026-3-16-who-watches-the-provers/</guid>
+      <pubDate>Wed, 18 Mar 2026 00:02:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Karpathy's Autoresearch Is Two Theses Running in a Loop</title>
+      <link>https://sameernanda.com/autoresearch-verification-search/</link>
+      <description>Karpathy's autoresearch demonstrates two ideas: cheap verification enables autonomous AI loops, and that same cheapness enables search through solution space at scale.</description>
+      <category>cloud</category>
+      <category>ai</category>
+      <guid>https://sameernanda.com/autoresearch-verification-search/</guid>
+      <pubDate>Wed, 18 Mar 2026 00:02:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>What Will Future Programming Languages Look Like?</title>
+      <link>https://jackwsmth.com/what-does-the-future-of-programming-look-like/</link>
+      <description>*If you would like to watch a video version of this post, check it out
+here.*
+
+I’ve been getting into programming language development, compilers, and more...</description>
+      <category>ai</category>
+      <category>rust</category>
+      <guid>https://jackwsmth.com/what-does-the-future-of-programming-look-like/</guid>
+      <pubDate>Wed, 18 Mar 2026 00:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Conversational Software Engineering: Compiling Intent</title>
+      <link>https://robenglander.com/writing/cse-compiling-intent/</link>
+      <description>In a previous article, "AI Didn't Simplify Software Engineering", I argued that AI made bad engineering easier, not simpler. Code was never the hard part; the hard part is keeping intent, specification, tests, and implementation aligned. When that alignment goes, systems drift—and faster generation accelerates drift. Dijkstra, Hoare, Knuth, and others were already saying as much decades ago; the tools have changed, the problem hasn't.</description>
+      <category>ai</category>
+      <category>vscode</category>
+      <category>git</category>
+      <guid>https://robenglander.com/writing/cse-compiling-intent/</guid>
+      <pubDate>Wed, 18 Mar 2026 00:02:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude vs. a €12 Bluetooth keyboard on Linux - Jukka Niiranen blog</title>
+      <link>https://jukkaniiranen.com/2026/03/claude-vs-bluetooth-keyboard-on-linux/</link>
+      <description>AI coding agents are great at solving pure software issues. How about hardware debugging? The observation gap is the real killer there.</description>
+      <category>linux</category>
+      <category>ai</category>
+      <category>vscode</category>
+      <category>python</category>
+      <category>apple</category>
+      <guid>https://jukkaniiranen.com/2026/03/claude-vs-bluetooth-keyboard-on-linux/</guid>
+      <pubDate>Wed, 18 Mar 2026 00:02:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>HA on $40/month: No load balancer, no K8s, just DNS and SSH tunnels</title>
+      <link>https://midpath.in/blog/0001_ha_on_a_budget/index.html</link>
+      <description>Midpath Software Pvt Ltd, Web development, Code migration / testing, Dev cycle optimization, Custom software development</description>
+      <category>python</category>
+      <category>nodejs</category>
+      <category>containers</category>
+      <category>cloud</category>
+      <category>encryption</category>
+      <guid>https://midpath.in/blog/0001_ha_on_a_budget/index.html</guid>
+      <pubDate>Wed, 18 Mar 2026 00:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Unnecessary and Unstable: Why Stablecoins are Bad - Stephen Diehl</title>
+      <link>https://www.stephendiehl.com/posts/stablecoins_bad/</link>
+      <description>Personal blog of Stephen Diehl - Software engineer writing about technology, programming, and the future</description>
+      <author> (Stephen Diehl)</author>
+      <guid>https://www.stephendiehl.com/posts/stablecoins_bad/</guid>
+      <pubDate>Wed, 18 Mar 2026 00:02:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenJDK JDK 26 GA Release</title>
+      <link>https://jdk.java.net/26/</link>
+      <description>This page provides production-ready open-source builds of the
+Java Development Kit,
+version 26, an implementation of the Java SE 26
+Platform under the GNU General Public
+License, version 2, with the Classpath Exception.</description>
+      <category>linux</category>
+      <guid>https://jdk.java.net/26/</guid>
+      <pubDate>Wed, 18 Mar 2026 00:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I run multiple $10K MRR companies on a $20/month tech stack</title>
+      <link>https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack</link>
+      <description></description>
+      <category>sql</category>
+      <category>cloud</category>
+      <category>ruby</category>
+      <category>ai</category>
+      <category>python</category>
+      <guid>https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack</guid>
+      <pubDate>Wed, 18 Mar 2026 00:02:23 GMT</pubDate>
+    </item>
+    <item>
       <title>A Decade of Slug - Eric Lengyel</title>
       <link>https://terathon.com/blog/decade-slug.html</link>
       <description>Eric Lengyel   •   March 17, 2026</description>
