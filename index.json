@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Death to Scroll Fade!",
+    "Url": "https://dbushell.com/2026/01/09/death-to-scroll-fade/",
+    "Timestamp": "2026-03-18T19:02:01",
+    "Domain": "dbushell.com",
+    "Description": "The one where I crowdsource an argument winner",
+    "Confidence": 0.9931534
+  },
+  {
     "Title": "Landscape Features",
     "Url": "https://xkcd.com/3221/",
     "Timestamp": "2026-03-18T18:02:21",
@@ -270,13 +278,5 @@
     "Domain": "haskellforall.com",
     "Description": "Specifications do not address the limitations of agentic coding",
     "Confidence": 0.99301225
-  },
-  {
-    "Title": "Microsoft’s ‘unhackable’ Xbox One has been hacked by 'Bliss'",
-    "Url": "https://www.tomshardware.com/video-games/console-gaming/microsofts-unhackable-xbox-one-has-been-hacked-by-bliss-the-2013-console-finally-fell-to-voltage-glitching-allowing-the-loading-of-unsigned-code-at-every-level",
-    "Timestamp": "2026-03-17T19:02:14",
-    "Domain": "www.tomshardware.com",
-    "Description": "A groundbreaking hack for Microsoft’s ‘unhackable’ Xbox One was revealed at the recent RE//verse 2026 conference.",
-    "Confidence": 0.950389
   }
 ]
