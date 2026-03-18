@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Introducing Forge | Mistral AI</title>
+      <link>https://mistral.ai/news/forge</link>
+      <description>Today, we’re introducing Forge, a system that allows enterprises to build frontier-grade AI models grounded in their proprietary knowledge.</description>
+      <category>ai</category>
+      <guid>https://mistral.ai/news/forge</guid>
+      <pubDate>Wed, 18 Mar 2026 06:02:07 GMT</pubDate>
+    </item>
+    <item>
       <title>GitHub - gsd-build/get-shit-done: A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.</title>
       <link>https://github.com/gsd-build/get-shit-done</link>
       <description>A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. - gsd-build/get-shit-done</description>
@@ -168,8 +176,8 @@ For me, this was a notification at 5:30 pm on weekdays to get moving to pick up 
 here.*
 
 I’ve been getting into programming language development, compilers, and more...</description>
-      <category>ai</category>
       <category>rust</category>
+      <category>ai</category>
       <guid>https://jackwsmth.com/what-does-the-future-of-programming-look-like/</guid>
       <pubDate>Wed, 18 Mar 2026 00:02:46 GMT</pubDate>
     </item>
