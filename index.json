@@ -1,5 +1,21 @@
 [
   {
+    "Title": "AI Coding is Gambling",
+    "Url": "https://notes.visaint.space/ai-coding-is-gambling/",
+    "Timestamp": "2026-03-18T22:02:12",
+    "Domain": "notes.visaint.space",
+    "Description": "GambleAI\n\nI’ve been coding a lot with AI since November, when we all noticed it got really good. And it is quite good for instantly generating something th...",
+    "Confidence": 0.99289346
+  },
+  {
+    "Title": "Comprehension Debt - the hidden cost of AI generated code.",
+    "Url": "https://addyosmani.com/blog/comprehension-debt/",
+    "Timestamp": "2026-03-18T22:02:08",
+    "Domain": "addyosmani.com",
+    "Description": "",
+    "Confidence": 0.97750956
+  },
+  {
     "Title": "Death to Scroll Fade!",
     "Url": "https://dbushell.com/2026/01/09/death-to-scroll-fade/",
     "Timestamp": "2026-03-18T19:02:01",
@@ -246,21 +262,5 @@
     "Domain": "stevehanov.ca",
     "Description": "",
     "Confidence": 0.99671525
-  },
-  {
-    "Title": "A Decade of Slug - Eric Lengyel",
-    "Url": "https://terathon.com/blog/decade-slug.html",
-    "Timestamp": "2026-03-17T22:02:18",
-    "Domain": "terathon.com",
-    "Description": "Eric Lengyel   •   March 17, 2026",
-    "Confidence": 0.9191746
-  },
-  {
-    "Title": "Installing .NET on Windows Without Admin Privileges | no dogma blog",
-    "Url": "https://nodogmablog.bryanhogan.net/2026/03/installing-net-on-windows-without-admin-privileges/",
-    "Timestamp": "2026-03-17T22:02:15",
-    "Domain": "nodogmablog.bryanhogan.net",
-    "Description": "If you don't have administrator rights on a Windows computer, you can still install and run .NET.",
-    "Confidence": 0.9981059
   }
 ]

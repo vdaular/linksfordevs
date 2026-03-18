@@ -7,6 +7,27 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>AI Coding is Gambling</title>
+      <link>https://notes.visaint.space/ai-coding-is-gambling/</link>
+      <description>GambleAI
+
+I’ve been coding a lot with AI since November, when we all noticed it got really good. And it is quite good for instantly generating something th...</description>
+      <category>ai</category>
+      <guid>https://notes.visaint.space/ai-coding-is-gambling/</guid>
+      <pubDate>Wed, 18 Mar 2026 22:02:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Comprehension Debt - the hidden cost of AI generated code.</title>
+      <link>https://addyosmani.com/blog/comprehension-debt/</link>
+      <description></description>
+      <category>ai</category>
+      <category>encryption</category>
+      <category>git</category>
+      <category>vscode</category>
+      <guid>https://addyosmani.com/blog/comprehension-debt/</guid>
+      <pubDate>Wed, 18 Mar 2026 22:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>Death to Scroll Fade!</title>
       <link>https://dbushell.com/2026/01/09/death-to-scroll-fade/</link>
       <description>The one where I crowdsource an argument winner</description>
@@ -309,22 +330,6 @@ License, version 2, with the Classpath Exception.</description>
       <category>python</category>
       <guid>https://stevehanov.ca/blog/how-i-run-multiple-10k-mrr-companies-on-a-20month-tech-stack</guid>
       <pubDate>Wed, 18 Mar 2026 00:02:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>A Decade of Slug - Eric Lengyel</title>
-      <link>https://terathon.com/blog/decade-slug.html</link>
-      <description>Eric Lengyel   •   March 17, 2026</description>
-      <category>gaming</category>
-      <guid>https://terathon.com/blog/decade-slug.html</guid>
-      <pubDate>Tue, 17 Mar 2026 22:02:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Installing .NET on Windows Without Admin Privileges | no dogma blog</title>
-      <link>https://nodogmablog.bryanhogan.net/2026/03/installing-net-on-windows-without-admin-privileges/</link>
-      <description>If you don't have administrator rights on a Windows computer, you can still install and run .NET.</description>
-      <category>dotnet</category>
-      <guid>https://nodogmablog.bryanhogan.net/2026/03/installing-net-on-windows-without-admin-privileges/</guid>
-      <pubDate>Tue, 17 Mar 2026 22:02:15 GMT</pubDate>
     </item>
   </channel>
 </rss>
