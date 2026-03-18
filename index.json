@@ -1,5 +1,13 @@
 [
   {
+    "Title": "<h1>Rob Pike's 5 Rules of Programming</h1>",
+    "Url": "https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html",
+    "Timestamp": "2026-03-18T14:02:14",
+    "Domain": "www.cs.unc.edu",
+    "Description": "Pike's rules 1 and 2 restate Tony Hoare's famous maxim \n\"Premature optimization is the root of all evil.\"",
+    "Confidence": 0.827127
+  },
+  {
     "Title": "Communication Is Surveillance by Design",
     "Url": "https://idiallo.com/blog/communication-is-surveillance-by-design?src=feed",
     "Timestamp": "2026-03-18T12:01:59",

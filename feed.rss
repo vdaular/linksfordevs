@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>&lt;h1&gt;Rob Pike's 5 Rules of Programming&lt;/h1&gt;</title>
+      <link>https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html</link>
+      <description>Pike's rules 1 and 2 restate Tony Hoare's famous maxim 
+"Premature optimization is the root of all evil."</description>
+      <category>web</category>
+      <guid>https://www.cs.unc.edu/~stotts/COMP590-059-f24/robsrules.html</guid>
+      <pubDate>Wed, 18 Mar 2026 14:02:14 GMT</pubDate>
+    </item>
+    <item>
       <title>Communication Is Surveillance by Design</title>
       <link>https://idiallo.com/blog/communication-is-surveillance-by-design?src=feed</link>
       <description>In the very last scene of The Bourne Supremacy, Jason Bourne calls the CIA from what they presume is a public phone. Landy, who answers the call, instructs her team to trace it. Bourne says he wants t</description>
