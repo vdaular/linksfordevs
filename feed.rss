@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>GitHub - gsd-build/get-shit-done: A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.</title>
+      <link>https://github.com/gsd-build/get-shit-done</link>
+      <description>A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. - gsd-build/get-shit-done</description>
+      <category>git</category>
+      <category>encryption</category>
+      <category>nodejs</category>
+      <category>containers</category>
+      <category>javascript</category>
+      <guid>https://github.com/gsd-build/get-shit-done</guid>
+      <pubDate>Wed, 18 Mar 2026 05:02:26 GMT</pubDate>
+    </item>
+    <item>
       <title>Python 3.15’s JIT is now back on track</title>
       <link>https://fidget-spinner.github.io/posts/jit-on-track.html</link>
       <description>Python 3.15’s JIT is now back on track</description>
