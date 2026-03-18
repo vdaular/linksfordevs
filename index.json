@@ -286,13 +286,5 @@
     "Domain": "composio.dev",
     "Description": "Composio content pages powered by our CMS, including tutorials, product updates, and guides.",
     "Confidence": 0.96286863
-  },
-  {
-    "Title": "Every layer of review makes you 10x slower",
-    "Url": "https://apenwarr.ca/log/20260316",
-    "Timestamp": "2026-03-17T11:03:30",
-    "Domain": "apenwarr.ca",
-    "Description": "We’ve all heard of those network effect laws: the value of a network goes up\nwith the square of the number of members. Or the cost of commun...",
-    "Confidence": 0.98978573
   }
 ]
