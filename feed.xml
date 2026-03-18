@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>JavaScript Thinks Everything's a Date</title>
+      <link>https://futuresearch.ai/blog/javascript-thinks-everythings-a-date/</link>
+      <description>Popular JavaScript engines have legacy date parsers that will extract a year from nearly any string containing a number. "Route 66" becomes 1966. "Boeing 747" becomes year 747. We explain how the parser works and contrast it with Python.</description>
+      <author> (Robert Gambee)</author>
+      <category>nodejs</category>
+      <category>python</category>
+      <category>javascript</category>
+      <category>ai</category>
+      <guid>https://futuresearch.ai/blog/javascript-thinks-everythings-a-date/</guid>
+      <pubDate>Wed, 18 Mar 2026 23:02:16 GMT</pubDate>
+    </item>
+    <item>
       <title>AI Coding is Gambling</title>
       <link>https://notes.visaint.space/ai-coding-is-gambling/</link>
       <description>GambleAI

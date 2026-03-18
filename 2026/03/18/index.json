@@ -1,5 +1,12 @@
 [
   {
+    "Title": "JavaScript Thinks Everything's a Date",
+    "Url": "https://futuresearch.ai/blog/javascript-thinks-everythings-a-date/",
+    "Timestamp": "2026-03-18T23:02:16",
+    "Domain": "futuresearch.ai",
+    "Description": "Popular JavaScript engines have legacy date parsers that will extract a year from nearly any string containing a number. \"Route 66\" becomes 1966. \"Boeing 747\" becomes year 747. We explain how the parser works and contrast it with Python."
+  },
+  {
     "Title": "AI Coding is Gambling",
     "Url": "https://notes.visaint.space/ai-coding-is-gambling/",
     "Timestamp": "2026-03-18T22:02:12",
