@@ -7,6 +7,221 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Writing a Good AGENTS.md</title>
+      <link>https://www.philschmid.de/writing-good-agents</link>
+      <description>Learn what to include, what to skip, and how to structure your AGENTS.md for best results.</description>
+      <category>ai</category>
+      <category>nodejs</category>
+      <category>sql</category>
+      <guid>https://www.philschmid.de/writing-good-agents</guid>
+      <pubDate>Thu, 19 Mar 2026 01:03:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Too Much Color</title>
+      <link>https://www.keithcirkel.co.uk/too-much-color/</link>
+      <description>I spent too much time looking at too many colo(u)rs to try and optimise them
+for csskit. Here are some interesting findings.
+</description>
+      <category>cloud</category>
+      <category>web</category>
+      <category>nodejs</category>
+      <guid>https://www.keithcirkel.co.uk/too-much-color/</guid>
+      <pubDate>Thu, 19 Mar 2026 01:03:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why One Key Shouldn’t Rule Them All: Threshold Signatures for the Rest of Us</title>
+      <link>https://eric.mann.blog/why-one-key-shouldnt-rule-them-all-threshold-signatures-for-the-rest-of-us/</link>
+      <description>Private keys are the backbone of digital security — and a single point of failure. Threshold signatures split that risk across multiple parties, and the DKLS23 protocol does it in just three rounds…</description>
+      <category>encryption</category>
+      <category>rust</category>
+      <guid>https://eric.mann.blog/why-one-key-shouldnt-rule-them-all-threshold-signatures-for-the-rest-of-us/</guid>
+      <pubDate>Thu, 19 Mar 2026 01:03:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why Your OpenClaw's Browser Keeps Getting CAPTCHAs | benn's blog</title>
+      <link>https://bennhuang.com/posts/why-your-openclaws-browser-keeps-getting-captchas/</link>
+      <description></description>
+      <category>python</category>
+      <category>javascript</category>
+      <category>web</category>
+      <category>ai</category>
+      <guid>https://bennhuang.com/posts/why-your-openclaws-browser-keeps-getting-captchas/</guid>
+      <pubDate>Thu, 19 Mar 2026 01:03:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>You Have to Earn Your Calculator</title>
+      <link>https://matthiasplappert.com/blog/2026/earn-your-calculator/</link>
+      <description>On the temptation of LLMs, and why sometimes you still need to do the work by hand.</description>
+      <category>ai</category>
+      <guid>https://matthiasplappert.com/blog/2026/earn-your-calculator/</guid>
+      <pubDate>Thu, 19 Mar 2026 01:03:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>We are building gods</title>
+      <link>https://richhaase.com/blog/2026-03-08-we-are-building-gods/</link>
+      <description>How agentic AI moves from tool to trusted authority to what?</description>
+      <author> (Rich)</author>
+      <category>ai</category>
+      <category>apple</category>
+      <guid>https://richhaase.com/blog/2026-03-08-we-are-building-gods/</guid>
+      <pubDate>Thu, 19 Mar 2026 01:03:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Invasion of the Body Snatchers</title>
+      <link>https://www.ahalbert.com/reviews/2026/03/18/the_body_snatchers.html</link>
+      <description></description>
+      <category>rust</category>
+      <guid>https://www.ahalbert.com/reviews/2026/03/18/the_body_snatchers.html</guid>
+      <pubDate>Thu, 19 Mar 2026 01:03:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>bertolami</title>
+      <link>https://bertolami.com/blog/hazards-of-agentic-engineering</link>
+      <description>Joe Bertolami's portfolio and blog covering artificial intelligence, game development, computer graphics, data compression, and more.</description>
+      <category>ai</category>
+      <guid>https://bertolami.com/blog/hazards-of-agentic-engineering</guid>
+      <pubDate>Thu, 19 Mar 2026 01:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>I Miss Coding</title>
+      <link>https://pooyam.dev/i-miss-coding</link>
+      <description>Coding agents have transformed my work at Google. But even if I keep my job, I don't enjoy this new role. I used to love figuring out the 'how.' Now the agent does it, and doing it myself is just inefficient.</description>
+      <category>ai</category>
+      <guid>https://pooyam.dev/i-miss-coding</guid>
+      <pubDate>Thu, 19 Mar 2026 01:03:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>I Drove $31M in Bookings. The System Said I Needed Improvement. - Brian Carpio</title>
+      <link>https://www.briancarpio.com/blog/i-drove-31m-in-bookings-the-system-said-i-needed-improvement</link>
+      <description>My peers called me </description>
+      <category>ai</category>
+      <guid>https://www.briancarpio.com/blog/i-drove-31m-in-bookings-the-system-said-i-needed-improvement</guid>
+      <pubDate>Thu, 19 Mar 2026 01:03:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>How ZJIT removes redundant object loads and stores</title>
+      <link>https://railsatscale.com/2026-03-18-how-zjit-removes-redundant-object-loads-and-stores/</link>
+      <description>ZJIT’s optimizer now removes redundant object loads and stores, improving JIT performance of CRuby’s shape system. This post explains how the optimization works.</description>
+      <category>ruby</category>
+      <guid>https://railsatscale.com/2026-03-18-how-zjit-removes-redundant-object-loads-and-stores/</guid>
+      <pubDate>Thu, 19 Mar 2026 01:03:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>30 Days. Then Gone.</title>
+      <link>https://krollsec.github.io/thirty-days/</link>
+      <description>An open source website that ceases to exist on April 17, 2026. Fork it. Add to it. Leave your mark.</description>
+      <category>javascript</category>
+      <guid>https://krollsec.github.io/thirty-days/</guid>
+      <pubDate>Thu, 19 Mar 2026 01:03:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>I personally paid for our CNCF and Linux Foundation memberships and I’d do it again</title>
+      <link>https://max.gp/writing/i-personally-paid-for-our-cncf-and-linux-foundation-memberships-and-id-do-it-again/</link>
+      <description>Developer and founder based in Germany. Writing about software, infrastructure, and building systems.</description>
+      <category>containers</category>
+      <category>linux</category>
+      <category>gaming</category>
+      <guid>https://max.gp/writing/i-personally-paid-for-our-cncf-and-linux-foundation-memberships-and-id-do-it-again/</guid>
+      <pubDate>Thu, 19 Mar 2026 01:03:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>BEAM Metrics in ClickHouse</title>
+      <link>https://andrealeopardi.com/posts/beam-metrics-in-clickhouse/</link>
+      <description>How we are periodically dumping metrics about our most demanding BEAM processes into an easy-to-query ClickHouse table.
+</description>
+      <category>nodejs</category>
+      <category>sql</category>
+      <category>ai</category>
+      <category>cloud</category>
+      <category>containers</category>
+      <guid>https://andrealeopardi.com/posts/beam-metrics-in-clickhouse/</guid>
+      <pubDate>Thu, 19 Mar 2026 01:03:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>AprilNEA - Full Stack Engineer</title>
+      <link>https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace</link>
+      <description>Full stack developer, open sourceror, serial entrepreneur.</description>
+      <category>typescript</category>
+      <category>git</category>
+      <category>containers</category>
+      <category>ai</category>
+      <category>nodejs</category>
+      <guid>https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace</guid>
+      <pubDate>Thu, 19 Mar 2026 01:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>va/guides/vibe-thinking | Zo Space</title>
+      <link>https://va.zo.space/guides/vibe-thinking</link>
+      <description>Explore va's Zo Space page at /guides/vibe-thinking.</description>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://va.zo.space/guides/vibe-thinking</guid>
+      <pubDate>Thu, 19 Mar 2026 01:02:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>The biggest surprise of the MacBook Neo</title>
+      <link>https://asymco.com/2026/03/18/the-biggest-surprise-of-the-macbook-neo/</link>
+      <description>Remembering the PC market Almost 10 years ago I said “Managing the Mac product line must be one of the most challenging problems at Apple. That may not be obvious given the product’s success.…</description>
+      <category>apple</category>
+      <guid>https://asymco.com/2026/03/18/the-biggest-surprise-of-the-macbook-neo/</guid>
+      <pubDate>Thu, 19 Mar 2026 01:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Product has always been the bottleneck, it’s just clearer now</title>
+      <link>https://kwakubiney.github.io/posts/Product-Has-Always-Been-The-Bottleneck-Its-Just-Clearer-Now/</link>
+      <description>If you’ve been doing engineering in a big enough company for a while now, you are probably aware of the process most companies with a substantial number of people use. Engineers wait for the go ahead to build some product that management has identified to solve a market gap. Now, in most big enough teams, what happens is that management or product identify market gaps, and there’s a lot of ideation that goes on around what the business should build. And this ideation, if you’re doing it right, takes a lot of time and a lot of effort to get the right product built.</description>
+      <category>ai</category>
+      <guid>https://kwakubiney.github.io/posts/Product-Has-Always-Been-The-Bottleneck-Its-Just-Clearer-Now/</guid>
+      <pubDate>Thu, 19 Mar 2026 01:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Building a Personal Mnemonics Bot - We launch on Friday</title>
+      <link>https://rtjom.com/blog/2026/03/building-a-personal-mnemonics-bot/</link>
+      <description>Every now and then I encounter a new word that I’ve never heard before. Or need to memorize the shopping list, a phone number, a date,
+or a fact. In school I didn’t have any system to do that other than just read the information as many times as needed for it to stay in
+my head until it is no longer needed. But as I grow older, I want to retain the information for much longer.</description>
+      <category>ai</category>
+      <guid>https://rtjom.com/blog/2026/03/building-a-personal-mnemonics-bot/</guid>
+      <pubDate>Thu, 19 Mar 2026 01:02:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Just one more prompt | Tao Bojlén</title>
+      <link>https://btao.org/posts/2026-03-18-one-more-prompt</link>
+      <description>I love coding with AI. I often have several parallel agents, across multiple projects, running off on various coding errands for me. Like Craig Mod, I’m software bonkers: I just can’t stop building software.</description>
+      <category>ai</category>
+      <guid>https://btao.org/posts/2026-03-18-one-more-prompt</guid>
+      <pubDate>Thu, 19 Mar 2026 01:02:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Code's poor time awareness</title>
+      <link>https://nicula.xyz/2026/03/18/time-and-llms.html</link>
+      <description>From some of my interactions with Claude Code1 so far I’ve noticed that it seems
+to have a pretty glaring issue: it doesn’t really have a good sense of
+time-tracking built into it. Because of this, Claude2 misses good choices
+that would help it finish some tasks significantly faster.</description>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://nicula.xyz/2026/03/18/time-and-llms.html</guid>
+      <pubDate>Thu, 19 Mar 2026 01:02:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Your System Kills Itself Trying to Recover</title>
+      <link>https://aalpar.github.io/2026/03/18/your-system-kills-itself-trying-to-recover.html</link>
+      <description>Distributed systems fail in two ways: the failure itself, and the system’s automatic response to the failure. The second is usually deadlier.</description>
+      <category>nodejs</category>
+      <category>sql</category>
+      <guid>https://aalpar.github.io/2026/03/18/your-system-kills-itself-trying-to-recover.html</guid>
+      <pubDate>Thu, 19 Mar 2026 01:02:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Is passing user ID through context an antipattern?</title>
+      <link>https://rednafi.com/shards/2026/03/user-id-through-context/</link>
+      <description>Why the middleware-to-handler boundary is a special case for context values.</description>
+      <author> (Redowan Delowar)</author>
+      <guid>https://rednafi.com/shards/2026/03/user-id-through-context/</guid>
+      <pubDate>Thu, 19 Mar 2026 01:02:27 GMT</pubDate>
+    </item>
+    <item>
       <title>JavaScript Thinks Everything's a Date</title>
       <link>https://futuresearch.ai/blog/javascript-thinks-everythings-a-date/</link>
       <description>Popular JavaScript engines have legacy date parsers that will extract a year from nearly any string containing a number. "Route 66" becomes 1966. "Boeing 747" becomes year 747. We explain how the parser works and contrast it with Python.</description>
@@ -121,15 +336,6 @@ I’ve been coding a lot with AI since November, when we all noticed it got real
       <category>javascript</category>
       <guid>https://github.com/gsd-build/get-shit-done</guid>
       <pubDate>Wed, 18 Mar 2026 05:02:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Python 3.15’s JIT is now back on track</title>
-      <link>https://fidget-spinner.github.io/posts/jit-on-track.html</link>
-      <description>Python 3.15’s JIT is now back on track</description>
-      <category>python</category>
-      <category>linux</category>
-      <guid>https://fidget-spinner.github.io/posts/jit-on-track.html</guid>
-      <pubDate>Wed, 18 Mar 2026 01:02:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
