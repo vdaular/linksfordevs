@@ -278,13 +278,5 @@
     "Domain": "mistral.ai",
     "Description": "Today, we’re introducing Forge, a system that allows enterprises to build frontier-grade AI models grounded in their proprietary knowledge.",
     "Confidence": 0.98271525
-  },
-  {
-    "Title": "GitHub - gsd-build/get-shit-done: A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES.",
-    "Url": "https://github.com/gsd-build/get-shit-done",
-    "Timestamp": "2026-03-18T05:02:26",
-    "Domain": "github.com",
-    "Description": "A light-weight and powerful meta-prompting, context engineering and spec-driven development system for Claude Code by TÂCHES. - gsd-build/get-shit-done",
-    "Confidence": 0.9884857
   }
 ]
