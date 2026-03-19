@@ -7,6 +7,29 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Google details new 24-hour process to sideload unverified Android apps</title>
+      <link>https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/</link>
+      <description>The "advanced flow" will be available before verification enforcement begins later this year.</description>
+      <category>android</category>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/</guid>
+      <pubDate>Thu, 19 Mar 2026 22:02:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>anthropic legal requests by thdxr · Pull Request #18186 · anomalyco/opencode</title>
+      <link>https://github.com/anomalyco/opencode/pull/18186</link>
+      <description>Remove anthropic references per legal requests:
+
+Remove anthropic-20250930.txt prompt file
+Remove anthropic from provider hints
+Remove opencode-anthropic-auth builtin plugin
+Remove anthropic from p...</description>
+      <category>ai</category>
+      <guid>https://github.com/anomalyco/opencode/pull/18186</guid>
+      <pubDate>Thu, 19 Mar 2026 22:02:32 GMT</pubDate>
+    </item>
+    <item>
       <title>Bug Report: macOS 26 breaks /etc/resolver/ supplemental DNS for custom TLDs</title>
       <link>https://gist.github.com/adamamyl/81b78eced40feae50eae7c4f3bec1f5a</link>
       <description>Bug Report: macOS 26 breaks /etc/resolver/ supplemental DNS for custom TLDs - macos26-breaks-custom-dns.md</description>
@@ -267,27 +290,6 @@ that would help it finish some tasks significantly faster.</description>
       <category>ai</category>
       <guid>https://futuresearch.ai/blog/javascript-thinks-everythings-a-date/</guid>
       <pubDate>Wed, 18 Mar 2026 23:02:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI Coding is Gambling</title>
-      <link>https://notes.visaint.space/ai-coding-is-gambling/</link>
-      <description>GambleAI
-
-I’ve been coding a lot with AI since November, when we all noticed it got really good. And it is quite good for instantly generating something th...</description>
-      <category>ai</category>
-      <guid>https://notes.visaint.space/ai-coding-is-gambling/</guid>
-      <pubDate>Wed, 18 Mar 2026 22:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Comprehension Debt - the hidden cost of AI generated code.</title>
-      <link>https://addyosmani.com/blog/comprehension-debt/</link>
-      <description></description>
-      <category>ai</category>
-      <category>encryption</category>
-      <category>git</category>
-      <category>vscode</category>
-      <guid>https://addyosmani.com/blog/comprehension-debt/</guid>
-      <pubDate>Wed, 18 Mar 2026 22:02:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
