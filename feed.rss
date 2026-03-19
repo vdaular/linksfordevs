@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>GitHub - KittenML/KittenTTS: State-of-the-art TTS model under 25MB 😻</title>
+      <link>https://github.com/KittenML/KittenTTS</link>
+      <description> State-of-the-art TTS model under 25MB 😻 . Contribute to KittenML/KittenTTS development by creating an account on GitHub.</description>
+      <category>ai</category>
+      <category>python</category>
+      <category>linux</category>
+      <guid>https://github.com/KittenML/KittenTTS</guid>
+      <pubDate>Thu, 19 Mar 2026 23:02:19 GMT</pubDate>
+    </item>
+    <item>
       <title>Google details new 24-hour process to sideload unverified Android apps</title>
       <link>https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/</link>
       <description>The "advanced flow" will be available before verification enforcement begins later this year.</description>
@@ -278,18 +288,6 @@ that would help it finish some tasks significantly faster.</description>
       <author> (Redowan Delowar)</author>
       <guid>https://rednafi.com/shards/2026/03/user-id-through-context/</guid>
       <pubDate>Thu, 19 Mar 2026 01:02:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>JavaScript Thinks Everything's a Date</title>
-      <link>https://futuresearch.ai/blog/javascript-thinks-everythings-a-date/</link>
-      <description>Popular JavaScript engines have legacy date parsers that will extract a year from nearly any string containing a number. "Route 66" becomes 1966. "Boeing 747" becomes year 747. We explain how the parser works and contrast it with Python.</description>
-      <author> (Robert Gambee)</author>
-      <category>nodejs</category>
-      <category>python</category>
-      <category>javascript</category>
-      <category>ai</category>
-      <guid>https://futuresearch.ai/blog/javascript-thinks-everythings-a-date/</guid>
-      <pubDate>Wed, 18 Mar 2026 23:02:16 GMT</pubDate>
     </item>
   </channel>
 </rss>
