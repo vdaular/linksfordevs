@@ -270,13 +270,5 @@
     "Domain": "boreal.social",
     "Description": "f/programming ·\n    \n    submitted by dave_writes_software\n    · Mar 18, 2026 at 02:18",
     "Confidence": 0.9695479
-  },
-  {
-    "Title": "Introducing Forge | Mistral AI",
-    "Url": "https://mistral.ai/news/forge",
-    "Timestamp": "2026-03-18T06:02:07",
-    "Domain": "mistral.ai",
-    "Description": "Today, we’re introducing Forge, a system that allows enterprises to build frontier-grade AI models grounded in their proprietary knowledge.",
-    "Confidence": 0.98271525
   }
 ]
