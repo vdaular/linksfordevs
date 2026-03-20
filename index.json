@@ -1,5 +1,29 @@
 [
   {
+    "Title": "Exploring Claude Code Hooks with the Coding Agent Explorer (.NET)",
+    "Url": "https://nestenius.se/ai/exploring-claude-code-hooks-with-the-coding-agent-explorer-net/",
+    "Timestamp": "2026-03-20T12:01:37",
+    "Domain": "nestenius.se",
+    "Description": "Ever wondered what Claude Code is actually doing while it works? Every file it reads, every command it runs, every permission it requests. Claude Code exposes all of this through a hook system that lets you intercept and observe each step. In this post, you’ll learn what hooks are, how to set them up, and […]",
+    "Confidence": 0.9984733
+  },
+  {
+    "Title": "How AutoMapper Can Crash Your .NET Server",
+    "Url": "https://youtube.com/watch?v=FQdu5cyvb5k",
+    "Timestamp": "2026-03-20T12:01:33",
+    "Domain": "youtube.com",
+    "Description": "Get every Dometrain 30% off with code HANDSON30: https://dometrain.com/courses/?ref=nick-chapsas&promo=youtube&coupon_code=HANDSON30\n\nHello, everybody. I'm Nick, and in this video, I will talk about the new AutoMapper High Severity vulnerability that can crash your .NET server due to uncontrollable recursion. But is it really as big of an issue as it is being presented? \n\nDon't forget to comment, like and subscribe :)\n\nSocial Media:\nFollow me on GitHub: https://github.com/Elfocrash\nFollow me on Twitter: https://twitter.com/nickchapsas\nConnect on LinkedIn: https://www.linkedin.com/in/nick-chapsas\n\n#csharp #dotnet",
+    "Confidence": 0.9980994
+  },
+  {
+    "Title": "Why Is Everyone Supposed to Die If Machines Can Think?",
+    "Url": "https://idiallo.com/blog/everyone-is-supposed-to-die-when-machines-can-think?src=feed",
+    "Timestamp": "2026-03-20T12:01:32",
+    "Domain": "idiallo.com",
+    "Description": "If you only listen to spokespersons for AI companies, you'll have a skewed view of how AI is actually being integrated into the workplace. You probably don't need to convince a developer to include it",
+    "Confidence": 0.9366065
+  },
+  {
     "Title": "GitHub - cockpit-project/cockpit: Cockpit is a web-based graphical interface for servers.",
     "Url": "https://github.com/cockpit-project/cockpit",
     "Timestamp": "2026-03-20T09:02:02",
