@@ -286,13 +286,5 @@
     "Domain": "gist.github.com",
     "Description": "Bug Report: macOS 26 breaks /etc/resolver/ supplemental DNS for custom TLDs - macos26-breaks-custom-dns.md",
     "Confidence": 0.99508125
-  },
-  {
-    "Title": "‘Your Frustration Is the Product’",
-    "Url": "https://daringfireball.net/2026/03/your_frustration_is_the_product",
-    "Timestamp": "2026-03-19T18:02:09",
-    "Domain": "daringfireball.net",
-    "Description": "The people making these decisions for these websites are like ocean liner captains who are *trying* to hit icebergs.",
-    "Confidence": 0.9634208
   }
 ]
