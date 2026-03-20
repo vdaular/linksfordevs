@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Safety Impact",
+    "Url": "https://waymo.com/safety/impact/",
+    "Timestamp": "2026-03-20T04:02:20",
+    "Domain": "waymo.com",
+    "Description": "We're voluntarily sharing our safety data to demonstrate how the Waymo Driver is making roads safer in the places we currently operate. See the stats."
+  },
+  {
     "Title": "the quadratic problem nobody fixed | ian erik varatalu",
     "Url": "https://iev.ee/blog/the-quadratic-problem-nobody-fixed/",
     "Timestamp": "2026-03-20T01:03:59",
