@@ -270,21 +270,5 @@
     "Domain": "github.com",
     "Description": " State-of-the-art TTS model under 25MB 😻 . Contribute to KittenML/KittenTTS development by creating an account on GitHub.",
     "Confidence": 0.98715633
-  },
-  {
-    "Title": "Google details new 24-hour process to sideload unverified Android apps",
-    "Url": "https://arstechnica.com/gadgets/2026/03/google-details-new-24-hour-process-to-sideload-unverified-android-apps/",
-    "Timestamp": "2026-03-19T22:02:36",
-    "Domain": "arstechnica.com",
-    "Description": "The \"advanced flow\" will be available before verification enforcement begins later this year.",
-    "Confidence": 0.8919671
-  },
-  {
-    "Title": "anthropic legal requests by thdxr · Pull Request #18186 · anomalyco/opencode",
-    "Url": "https://github.com/anomalyco/opencode/pull/18186",
-    "Timestamp": "2026-03-19T22:02:32",
-    "Domain": "github.com",
-    "Description": "Remove anthropic references per legal requests:\n\nRemove anthropic-20250930.txt prompt file\nRemove anthropic from provider hints\nRemove opencode-anthropic-auth builtin plugin\nRemove anthropic from p...",
-    "Confidence": 0.9966647
   }
 ]
