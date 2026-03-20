@@ -1,5 +1,173 @@
 [
   {
+    "Title": "the quadratic problem nobody fixed | ian erik varatalu",
+    "Url": "https://iev.ee/blog/the-quadratic-problem-nobody-fixed/",
+    "Timestamp": "2026-03-20T01:03:59",
+    "Domain": "iev.ee",
+    "Description": ""
+  },
+  {
+    "Title": "I Mass-Deleted My MCP Servers. Here's What I Use Instead.",
+    "Url": "https://joshowens.dev/mcps-are-dead/",
+    "Timestamp": "2026-03-20T01:03:55",
+    "Domain": "joshowens.dev",
+    "Description": "MCP servers burn your most valuable resource: context. I replaced mine with skills and CLI tools. Same capabilities, a fraction of the overhead."
+  },
+  {
+    "Title": "I HOPE YOU DON'T USE GENERATIVE AI | RUBY MORGAN VOIGT",
+    "Url": "https://rmv.fyi/notes/i-hope-you-don-t-use-generative-ai",
+    "Timestamp": "2026-03-20T01:03:51",
+    "Domain": "rmv.fyi",
+    "Description": "God forbid you want to convert an image. If you do, you have two broad choices. You can be blessed with the knowledge that your computer knows how to …"
+  },
+  {
+    "Title": "Minecraft Source Code is Interesting! · KJ",
+    "Url": "https://www.karanjanthe.me/posts/minecraft-source/",
+    "Timestamp": "2026-03-20T01:03:47",
+    "Domain": "www.karanjanthe.me",
+    "Description": "A corner of the internet where I think in public."
+  },
+  {
+    "Title": "Capacity Is the Roadmap",
+    "Url": "https://yusufaytas.com/capacity-is-the-roadmap/",
+    "Timestamp": "2026-03-20T01:03:41",
+    "Domain": "yusufaytas.com",
+    "Description": "Most roadmap problems are capacity problems. Make investment buckets visible, budget interrupts, and force trade-offs into the open."
+  },
+  {
+    "Title": "How Orca Works: A High-Performance Crossword Filler",
+    "Url": "https://rainjacket.github.io/orca-solver/",
+    "Timestamp": "2026-03-20T01:03:37",
+    "Domain": "rainjacket.github.io",
+    "Description": "A deep dive into Orca's constraint-propagation crossword filler."
+  },
+  {
+    "Title": "How I Work With Parallel Agents",
+    "Url": "https://remy.duthu.org/2026/03/13/how-i-work-with-parallel-agents.html",
+    "Timestamp": "2026-03-20T01:03:34",
+    "Domain": "remy.duthu.org",
+    "Description": "How I run two Claude Code agents in parallel using git worktrees, plan mode, and custom hooks — and what changes downstream when agents do the bulk of the implementation."
+  },
+  {
+    "Title": "Breaking signals, breaking systems",
+    "Url": "https://guille.site/posts/breaking-signals/",
+    "Timestamp": "2026-03-20T01:03:30",
+    "Domain": "guille.site",
+    "Description": "Posted 2026-03-19"
+  },
+  {
+    "Title": "my first patch to the linux kernel",
+    "Url": "https://pooladkhay.com/posts/first-kernel-patch/",
+    "Timestamp": "2026-03-20T01:03:27",
+    "Domain": "pooladkhay.com",
+    "Description": "<p>How a sign-extension bug in C made me pull my hair out for days but became my first patch to the Linux kernel!</p>"
+  },
+  {
+    "Title": "Wayland set the Linux Desktop back by 10 years",
+    "Url": "https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years",
+    "Timestamp": "2026-03-20T01:03:24",
+    "Domain": "omar.yt",
+    "Description": "Wayland has been a broad misdirection and misallocation of time and developer resources at the expense of users. With more migration from other operating systems, the pressure to fix fundamental problems has become more prominent. After 17 years of development, now is a good time to reflect on some of the larger promises that have been made around the development of Wayland as a replacement for the X11 display protocol."
+  },
+  {
+    "Title": "A Copy-Paste Bug That Broke PSpice® AES-256 Encryption",
+    "Url": "https://jtsylve.blog/post/2026/03/18/PSpice-Encryption-Weakness",
+    "Timestamp": "2026-03-20T01:03:21",
+    "Domain": "jtsylve.blog",
+    "Description": "PSpice is a SPICE circuit simulator from Cadence Design Systems that encrypts proprietary semiconductor model files to protect vendor IP and prevent reuse in third-party SPICE simulators.  The encryption scheme is proprietary and undocumented.\n\n"
+  },
+  {
+    "Title": "2026-03-18 I haven't thought about software patents in a long time",
+    "Url": "https://alexschroeder.ch/view/2026-03-18-software-patents",
+    "Timestamp": "2026-03-20T01:03:18",
+    "Domain": "alexschroeder.ch",
+    "Description": "At work I’m often considered to be the go-to person for questions of software licenses. The latest one was customers wanting to upload HEIC images into the software."
+  },
+  {
+    "Title": "We're Writing Grammar Before the Language Exists",
+    "Url": "https://mvrckhckr.com/articles/were-writing-grammar-before-the-language-exists",
+    "Timestamp": "2026-03-20T01:03:14",
+    "Domain": "mvrckhckr.com",
+    "Description": "Six agent protocols in eighteen months, all designed by humans. But agents can think. The best coordination pattern might be one no human approves."
+  },
+  {
+    "Title": "Three Thoughts on Dark Code",
+    "Url": "https://blog.waleson.com/2026/03/three-thoughts-on-dark-code.html",
+    "Timestamp": "2026-03-20T01:03:11",
+    "Domain": "blog.waleson.com",
+    "Description": "A couple of weeks ago Dan Shapiro's blog post \" The 5 Levels\"  (about Agentic Engineering) did the rounds. He coined Level 5 the \"Dark Softw..."
+  },
+  {
+    "Title": "Young Adults Are Not Very Happy - Probably Overthinking It",
+    "Url": "https://www.allendowney.com/blog/2026/03/19/young-adults-are-not-very-happy/",
+    "Timestamp": "2026-03-20T01:03:07",
+    "Domain": "www.allendowney.com",
+    "Description": "Since 1972, the General Social Survey has asked respondents: “Taken all together, how would you say things are these days—would you say that you are very happy, pretty happy, or not too happy?” The following figure shows how the responses have changed over time and between birth cohorts. Each line represents one birth year. People born in 1900 were 72 years old when the survey started; at that point, about 37% said they were very happy. In 1990, the last... Read More Read More"
+  },
+  {
+    "Title": "Mac processor transitions – Something Something",
+    "Url": "https://colinmckellar.com/2026/03/12/mac-processor-transitions/",
+    "Timestamp": "2026-03-20T01:03:03",
+    "Domain": "colinmckellar.com",
+    "Description": "The latest episode of ATP included a discussion about MacOS 27 dropping support for Intel Macs and MacOS 28 (partially?) dropping support for running intel binaries. I have been curious about this, so did some Wikipedia diving and put this post together."
+  },
+  {
+    "Title": "Why I Don’t Drive",
+    "Url": "https://maxmautner.com/2026/03/17/why-i-do-not-drive.html",
+    "Timestamp": "2026-03-20T01:02:59",
+    "Domain": "maxmautner.com",
+    "Description": "A reflection on a car-free life-—the real tradeoffs, the barometer it provides for community equity, and why to travel slow."
+  },
+  {
+    "Title": "One year of developing my own operating system",
+    "Url": "https://mrunix.me/posts/one-year-osdev/",
+    "Timestamp": "2026-03-20T01:02:56",
+    "Domain": "mrunix.me",
+    "Description": "Writing an operating system from scratch is something I always wanted to do, and last year, I started working on MONOLITH, an operating system meant to make my dream true."
+  },
+  {
+    "Title": "Thoughts on “The Machine Stops”",
+    "Url": "https://rznicolet.com/2026/03/19/thoughts-on-the-machine-stops/",
+    "Timestamp": "2026-03-20T01:02:53",
+    "Domain": "rznicolet.com",
+    "Description": "I was recently reminded of “The Machine Stops”, the 1909 short story by E. M. Forster.  (It’s out of copyright, so it’s available on Project Gutenberg for free.  If you haven’t read it …"
+  },
+  {
+    "Title": "Running WPA3-Enterprise in my home network – Sour Coffee Labs",
+    "Url": "https://sour.coffee/2026/03/16/running-wpa3-enterprise-in-my-home-network/",
+    "Timestamp": "2026-03-20T01:02:49",
+    "Domain": "sour.coffee",
+    "Description": "It’s no secret that by now, most home networks use WPA-Personal. Why? It’s a simple password. This included mine. Well, until today."
+  },
+  {
+    "Title": "Why Whisper Notes for Mac Left the App Store",
+    "Url": "https://whispernotes.app/blog/why-whisper-notes-left-mac-app-store",
+    "Timestamp": "2026-03-20T01:02:46",
+    "Domain": "whispernotes.app",
+    "Description": "Apple now rejects Mac App Store updates that use Accessibility permission. Whisper Notes moved to DMG to keep system-wide Fn voice typing. Free license for App Store purchasers."
+  },
+  {
+    "Title": "Talent is Not Rare - Tasshin",
+    "Url": "https://tasshin.com/blog/talent-is-not-rare/",
+    "Timestamp": "2026-03-20T01:02:42",
+    "Domain": "tasshin.com",
+    "Description": "What if we assumed everyone is talented? That everyone has some gift to give?"
+  },
+  {
+    "Title": "Principled Agentic Software Development - Joe Gaebel",
+    "Url": "https://www.joegaebel.com/articles/principled-agentic-software-development/",
+    "Timestamp": "2026-03-20T01:02:38",
+    "Domain": "www.joegaebel.com",
+    "Description": "Encoding engineering principles in AI workflows"
+  },
+  {
+    "Title": "Maybe version ranges are a good idea after all?",
+    "Url": "https://neilmadden.blog/2026/03/19/maybe-version-ranges-are-a-good-idea-after-all/",
+    "Timestamp": "2026-03-20T01:02:35",
+    "Domain": "neilmadden.blog",
+    "Description": "One of the most important lessons I’ve learned in security, is that it’s always better to push security problems back to the source as much as possible. For example, a small number of experts (hope…"
+  },
+  {
     "Title": "OpenTTD | News | An update on Steam",
     "Url": "https://www.openttd.org/news/2026/03/19/steam-changes-update",
     "Timestamp": "2026-03-20T00:02:05",

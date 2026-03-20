@@ -7,6 +7,224 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>the quadratic problem nobody fixed | ian erik varatalu</title>
+      <link>https://iev.ee/blog/the-quadratic-problem-nobody-fixed/</link>
+      <description></description>
+      <category>rust</category>
+      <guid>https://iev.ee/blog/the-quadratic-problem-nobody-fixed/</guid>
+      <pubDate>Fri, 20 Mar 2026 01:03:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>I Mass-Deleted My MCP Servers. Here's What I Use Instead.</title>
+      <link>https://joshowens.dev/mcps-are-dead/</link>
+      <description>MCP servers burn your most valuable resource: context. I replaced mine with skills and CLI tools. Same capabilities, a fraction of the overhead.</description>
+      <author> (Josh Owens)</author>
+      <category>ai</category>
+      <category>javascript</category>
+      <category>nodejs</category>
+      <category>cloud</category>
+      <category>vscode</category>
+      <guid>https://joshowens.dev/mcps-are-dead/</guid>
+      <pubDate>Fri, 20 Mar 2026 01:03:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>I HOPE YOU DON'T USE GENERATIVE AI | RUBY MORGAN VOIGT</title>
+      <link>https://rmv.fyi/notes/i-hope-you-don-t-use-generative-ai</link>
+      <description>God forbid you want to convert an image. If you do, you have two broad choices. You can be blessed with the knowledge that your computer knows how to …</description>
+      <category>ai</category>
+      <category>ruby</category>
+      <guid>https://rmv.fyi/notes/i-hope-you-don-t-use-generative-ai</guid>
+      <pubDate>Fri, 20 Mar 2026 01:03:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Minecraft Source Code is Interesting! · KJ</title>
+      <link>https://www.karanjanthe.me/posts/minecraft-source/</link>
+      <description>A corner of the internet where I think in public.</description>
+      <category>gaming</category>
+      <category>cloud</category>
+      <guid>https://www.karanjanthe.me/posts/minecraft-source/</guid>
+      <pubDate>Fri, 20 Mar 2026 01:03:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Capacity Is the Roadmap</title>
+      <link>https://yusufaytas.com/capacity-is-the-roadmap/</link>
+      <description>Most roadmap problems are capacity problems. Make investment buckets visible, budget interrupts, and force trade-offs into the open.</description>
+      <author> (https://www.facebook.com/yusufaytas)</author>
+      <guid>https://yusufaytas.com/capacity-is-the-roadmap/</guid>
+      <pubDate>Fri, 20 Mar 2026 01:03:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>How Orca Works: A High-Performance Crossword Filler</title>
+      <link>https://rainjacket.github.io/orca-solver/</link>
+      <description>A deep dive into Orca's constraint-propagation crossword filler.</description>
+      <category>ai</category>
+      <category>rust</category>
+      <guid>https://rainjacket.github.io/orca-solver/</guid>
+      <pubDate>Fri, 20 Mar 2026 01:03:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I Work With Parallel Agents</title>
+      <link>https://remy.duthu.org/2026/03/13/how-i-work-with-parallel-agents.html</link>
+      <description>How I run two Claude Code agents in parallel using git worktrees, plan mode, and custom hooks — and what changes downstream when agents do the bulk of the implementation.</description>
+      <category>git</category>
+      <category>sql</category>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://remy.duthu.org/2026/03/13/how-i-work-with-parallel-agents.html</guid>
+      <pubDate>Fri, 20 Mar 2026 01:03:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Breaking signals, breaking systems</title>
+      <link>https://guille.site/posts/breaking-signals/</link>
+      <description>Posted 2026-03-19</description>
+      <category>ai</category>
+      <guid>https://guille.site/posts/breaking-signals/</guid>
+      <pubDate>Fri, 20 Mar 2026 01:03:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>my first patch to the linux kernel</title>
+      <link>https://pooladkhay.com/posts/first-kernel-patch/</link>
+      <description>&lt;p&gt;How a sign-extension bug in C made me pull my hair out for days but became my first patch to the Linux kernel!&lt;/p&gt;</description>
+      <category>linux</category>
+      <guid>https://pooladkhay.com/posts/first-kernel-patch/</guid>
+      <pubDate>Fri, 20 Mar 2026 01:03:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wayland set the Linux Desktop back by 10 years</title>
+      <link>https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years</link>
+      <description>Wayland has been a broad misdirection and misallocation of time and developer resources at the expense of users. With more migration from other operating systems, the pressure to fix fundamental problems has become more prominent. After 17 years of development, now is a good time to reflect on some of the larger promises that have been made around the development of Wayland as a replacement for the X11 display protocol.</description>
+      <category>linux</category>
+      <category>rust</category>
+      <category>gaming</category>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years</guid>
+      <pubDate>Fri, 20 Mar 2026 01:03:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>A Copy-Paste Bug That Broke PSpice® AES-256 Encryption</title>
+      <link>https://jtsylve.blog/post/2026/03/18/PSpice-Encryption-Weakness</link>
+      <description>PSpice is a SPICE circuit simulator from Cadence Design Systems that encrypts proprietary semiconductor model files to protect vendor IP and prevent reuse in third-party SPICE simulators.  The encryption scheme is proprietary and undocumented.
+
+</description>
+      <category>encryption</category>
+      <category>python</category>
+      <category>rust</category>
+      <guid>https://jtsylve.blog/post/2026/03/18/PSpice-Encryption-Weakness</guid>
+      <pubDate>Fri, 20 Mar 2026 01:03:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>2026-03-18 I haven't thought about software patents in a long time</title>
+      <link>https://alexschroeder.ch/view/2026-03-18-software-patents</link>
+      <description>At work I’m often considered to be the go-to person for questions of software licenses. The latest one was customers wanting to upload HEIC images into the software.</description>
+      <guid>https://alexschroeder.ch/view/2026-03-18-software-patents</guid>
+      <pubDate>Fri, 20 Mar 2026 01:03:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>We're Writing Grammar Before the Language Exists</title>
+      <link>https://mvrckhckr.com/articles/were-writing-grammar-before-the-language-exists</link>
+      <description>Six agent protocols in eighteen months, all designed by humans. But agents can think. The best coordination pattern might be one no human approves.</description>
+      <category>encryption</category>
+      <category>gaming</category>
+      <category>ai</category>
+      <category>cloud</category>
+      <category>vscode</category>
+      <guid>https://mvrckhckr.com/articles/were-writing-grammar-before-the-language-exists</guid>
+      <pubDate>Fri, 20 Mar 2026 01:03:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Three Thoughts on Dark Code</title>
+      <link>https://blog.waleson.com/2026/03/three-thoughts-on-dark-code.html</link>
+      <description>A couple of weeks ago Dan Shapiro's blog post " The 5 Levels"  (about Agentic Engineering) did the rounds. He coined Level 5 the "Dark Softw...</description>
+      <category>ai</category>
+      <category>rust</category>
+      <category>web</category>
+      <guid>https://blog.waleson.com/2026/03/three-thoughts-on-dark-code.html</guid>
+      <pubDate>Fri, 20 Mar 2026 01:03:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Young Adults Are Not Very Happy - Probably Overthinking It</title>
+      <link>https://www.allendowney.com/blog/2026/03/19/young-adults-are-not-very-happy/</link>
+      <description>Since 1972, the General Social Survey has asked respondents: “Taken all together, how would you say things are these days—would you say that you are very happy, pretty happy, or not too happy?” The following figure shows how the responses have changed over time and between birth cohorts. Each line represents one birth year. People born in 1900 were 72 years old when the survey started; at that point, about 37% said they were very happy. In 1990, the last... Read More Read More</description>
+      <guid>https://www.allendowney.com/blog/2026/03/19/young-adults-are-not-very-happy/</guid>
+      <pubDate>Fri, 20 Mar 2026 01:03:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mac processor transitions – Something Something</title>
+      <link>https://colinmckellar.com/2026/03/12/mac-processor-transitions/</link>
+      <description>The latest episode of ATP included a discussion about MacOS 27 dropping support for Intel Macs and MacOS 28 (partially?) dropping support for running intel binaries. I have been curious about this, so did some Wikipedia diving and put this post together.</description>
+      <category>apple</category>
+      <guid>https://colinmckellar.com/2026/03/12/mac-processor-transitions/</guid>
+      <pubDate>Fri, 20 Mar 2026 01:03:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why I Don’t Drive</title>
+      <link>https://maxmautner.com/2026/03/17/why-i-do-not-drive.html</link>
+      <description>A reflection on a car-free life-—the real tradeoffs, the barometer it provides for community equity, and why to travel slow.</description>
+      <guid>https://maxmautner.com/2026/03/17/why-i-do-not-drive.html</guid>
+      <pubDate>Fri, 20 Mar 2026 01:02:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>One year of developing my own operating system</title>
+      <link>https://mrunix.me/posts/one-year-osdev/</link>
+      <description>Writing an operating system from scratch is something I always wanted to do, and last year, I started working on MONOLITH, an operating system meant to make my dream true.</description>
+      <category>ai</category>
+      <guid>https://mrunix.me/posts/one-year-osdev/</guid>
+      <pubDate>Fri, 20 Mar 2026 01:02:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Thoughts on “The Machine Stops”</title>
+      <link>https://rznicolet.com/2026/03/19/thoughts-on-the-machine-stops/</link>
+      <description>I was recently reminded of “The Machine Stops”, the 1909 short story by E. M. Forster.  (It’s out of copyright, so it’s available on Project Gutenberg for free.  If you haven’t read it …</description>
+      <category>ai</category>
+      <guid>https://rznicolet.com/2026/03/19/thoughts-on-the-machine-stops/</guid>
+      <pubDate>Fri, 20 Mar 2026 01:02:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Running WPA3-Enterprise in my home network – Sour Coffee Labs</title>
+      <link>https://sour.coffee/2026/03/16/running-wpa3-enterprise-in-my-home-network/</link>
+      <description>It’s no secret that by now, most home networks use WPA-Personal. Why? It’s a simple password. This included mine. Well, until today.</description>
+      <category>ai</category>
+      <guid>https://sour.coffee/2026/03/16/running-wpa3-enterprise-in-my-home-network/</guid>
+      <pubDate>Fri, 20 Mar 2026 01:02:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why Whisper Notes for Mac Left the App Store</title>
+      <link>https://whispernotes.app/blog/why-whisper-notes-left-mac-app-store</link>
+      <description>Apple now rejects Mac App Store updates that use Accessibility permission. Whisper Notes moved to DMG to keep system-wide Fn voice typing. Free license for App Store purchasers.</description>
+      <author> (Whisper Notes Team)</author>
+      <category>cloud</category>
+      <category>apple</category>
+      <guid>https://whispernotes.app/blog/why-whisper-notes-left-mac-app-store</guid>
+      <pubDate>Fri, 20 Mar 2026 01:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Talent is Not Rare - Tasshin</title>
+      <link>https://tasshin.com/blog/talent-is-not-rare/</link>
+      <description>What if we assumed everyone is talented? That everyone has some gift to give?</description>
+      <guid>https://tasshin.com/blog/talent-is-not-rare/</guid>
+      <pubDate>Fri, 20 Mar 2026 01:02:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Principled Agentic Software Development - Joe Gaebel</title>
+      <link>https://www.joegaebel.com/articles/principled-agentic-software-development/</link>
+      <description>Encoding engineering principles in AI workflows</description>
+      <category>ai</category>
+      <category>cloud</category>
+      <category>javascript</category>
+      <category>vscode</category>
+      <guid>https://www.joegaebel.com/articles/principled-agentic-software-development/</guid>
+      <pubDate>Fri, 20 Mar 2026 01:02:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Maybe version ranges are a good idea after all?</title>
+      <link>https://neilmadden.blog/2026/03/19/maybe-version-ranges-are-a-good-idea-after-all/</link>
+      <description>One of the most important lessons I’ve learned in security, is that it’s always better to push security problems back to the source as much as possible. For example, a small number of experts (hope…</description>
+      <category>encryption</category>
+      <guid>https://neilmadden.blog/2026/03/19/maybe-version-ranges-are-a-good-idea-after-all/</guid>
+      <pubDate>Fri, 20 Mar 2026 01:02:35 GMT</pubDate>
+    </item>
+    <item>
       <title>OpenTTD | News | An update on Steam</title>
       <link>https://www.openttd.org/news/2026/03/19/steam-changes-update</link>
       <description>An open source simulator based on the classic game Transport Tycoon Deluxe. It attempts to mimic the original game as closely as possible while extending it with new features.</description>
@@ -81,221 +299,6 @@ Remove anthropic from p...</description>
       <description>After decades of explosive growth, Austin, Texas, in the 2010s was a victim of its own success. Lured by high-tech jobs and the city’s hip reputation, too many people were competing for too few homes. From 2010 to 2019, rents in Austin increased nearly 93%—more than in any other major American city. And home sale prices increased 82%, more than in any other metro area in Texas.</description>
       <guid>https://www.pew.org/en/research-and-analysis/articles/2026/03/18/austins-surge-of-new-housing-construction-drove-down-rents</guid>
       <pubDate>Thu, 19 Mar 2026 03:02:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Writing a Good AGENTS.md</title>
-      <link>https://www.philschmid.de/writing-good-agents</link>
-      <description>Learn what to include, what to skip, and how to structure your AGENTS.md for best results.</description>
-      <category>ai</category>
-      <category>nodejs</category>
-      <category>sql</category>
-      <guid>https://www.philschmid.de/writing-good-agents</guid>
-      <pubDate>Thu, 19 Mar 2026 01:03:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Too Much Color</title>
-      <link>https://www.keithcirkel.co.uk/too-much-color/</link>
-      <description>I spent too much time looking at too many colo(u)rs to try and optimise them
-for csskit. Here are some interesting findings.
-</description>
-      <category>cloud</category>
-      <category>web</category>
-      <category>nodejs</category>
-      <guid>https://www.keithcirkel.co.uk/too-much-color/</guid>
-      <pubDate>Thu, 19 Mar 2026 01:03:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why One Key Shouldn’t Rule Them All: Threshold Signatures for the Rest of Us</title>
-      <link>https://eric.mann.blog/why-one-key-shouldnt-rule-them-all-threshold-signatures-for-the-rest-of-us/</link>
-      <description>Private keys are the backbone of digital security — and a single point of failure. Threshold signatures split that risk across multiple parties, and the DKLS23 protocol does it in just three rounds…</description>
-      <category>encryption</category>
-      <category>rust</category>
-      <guid>https://eric.mann.blog/why-one-key-shouldnt-rule-them-all-threshold-signatures-for-the-rest-of-us/</guid>
-      <pubDate>Thu, 19 Mar 2026 01:03:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why Your OpenClaw's Browser Keeps Getting CAPTCHAs | benn's blog</title>
-      <link>https://bennhuang.com/posts/why-your-openclaws-browser-keeps-getting-captchas/</link>
-      <description></description>
-      <category>python</category>
-      <category>javascript</category>
-      <category>web</category>
-      <category>ai</category>
-      <guid>https://bennhuang.com/posts/why-your-openclaws-browser-keeps-getting-captchas/</guid>
-      <pubDate>Thu, 19 Mar 2026 01:03:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>You Have to Earn Your Calculator</title>
-      <link>https://matthiasplappert.com/blog/2026/earn-your-calculator/</link>
-      <description>On the temptation of LLMs, and why sometimes you still need to do the work by hand.</description>
-      <category>ai</category>
-      <guid>https://matthiasplappert.com/blog/2026/earn-your-calculator/</guid>
-      <pubDate>Thu, 19 Mar 2026 01:03:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>We are building gods</title>
-      <link>https://richhaase.com/blog/2026-03-08-we-are-building-gods/</link>
-      <description>How agentic AI moves from tool to trusted authority to what?</description>
-      <author> (Rich)</author>
-      <category>ai</category>
-      <category>apple</category>
-      <guid>https://richhaase.com/blog/2026-03-08-we-are-building-gods/</guid>
-      <pubDate>Thu, 19 Mar 2026 01:03:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Invasion of the Body Snatchers</title>
-      <link>https://www.ahalbert.com/reviews/2026/03/18/the_body_snatchers.html</link>
-      <description></description>
-      <category>rust</category>
-      <guid>https://www.ahalbert.com/reviews/2026/03/18/the_body_snatchers.html</guid>
-      <pubDate>Thu, 19 Mar 2026 01:03:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>bertolami</title>
-      <link>https://bertolami.com/blog/hazards-of-agentic-engineering</link>
-      <description>Joe Bertolami's portfolio and blog covering artificial intelligence, game development, computer graphics, data compression, and more.</description>
-      <category>ai</category>
-      <guid>https://bertolami.com/blog/hazards-of-agentic-engineering</guid>
-      <pubDate>Thu, 19 Mar 2026 01:03:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>I Miss Coding</title>
-      <link>https://pooyam.dev/i-miss-coding</link>
-      <description>Coding agents have transformed my work at Google. But even if I keep my job, I don't enjoy this new role. I used to love figuring out the 'how.' Now the agent does it, and doing it myself is just inefficient.</description>
-      <category>ai</category>
-      <guid>https://pooyam.dev/i-miss-coding</guid>
-      <pubDate>Thu, 19 Mar 2026 01:03:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>I Drove $31M in Bookings. The System Said I Needed Improvement. - Brian Carpio</title>
-      <link>https://www.briancarpio.com/blog/i-drove-31m-in-bookings-the-system-said-i-needed-improvement</link>
-      <description>My peers called me </description>
-      <category>ai</category>
-      <guid>https://www.briancarpio.com/blog/i-drove-31m-in-bookings-the-system-said-i-needed-improvement</guid>
-      <pubDate>Thu, 19 Mar 2026 01:03:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>How ZJIT removes redundant object loads and stores</title>
-      <link>https://railsatscale.com/2026-03-18-how-zjit-removes-redundant-object-loads-and-stores/</link>
-      <description>ZJIT’s optimizer now removes redundant object loads and stores, improving JIT performance of CRuby’s shape system. This post explains how the optimization works.</description>
-      <category>ruby</category>
-      <guid>https://railsatscale.com/2026-03-18-how-zjit-removes-redundant-object-loads-and-stores/</guid>
-      <pubDate>Thu, 19 Mar 2026 01:03:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>30 Days. Then Gone.</title>
-      <link>https://krollsec.github.io/thirty-days/</link>
-      <description>An open source website that ceases to exist on April 17, 2026. Fork it. Add to it. Leave your mark.</description>
-      <category>javascript</category>
-      <guid>https://krollsec.github.io/thirty-days/</guid>
-      <pubDate>Thu, 19 Mar 2026 01:03:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>I personally paid for our CNCF and Linux Foundation memberships and I’d do it again</title>
-      <link>https://max.gp/writing/i-personally-paid-for-our-cncf-and-linux-foundation-memberships-and-id-do-it-again/</link>
-      <description>Developer and founder based in Germany. Writing about software, infrastructure, and building systems.</description>
-      <category>containers</category>
-      <category>linux</category>
-      <category>gaming</category>
-      <guid>https://max.gp/writing/i-personally-paid-for-our-cncf-and-linux-foundation-memberships-and-id-do-it-again/</guid>
-      <pubDate>Thu, 19 Mar 2026 01:03:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>BEAM Metrics in ClickHouse</title>
-      <link>https://andrealeopardi.com/posts/beam-metrics-in-clickhouse/</link>
-      <description>How we are periodically dumping metrics about our most demanding BEAM processes into an easy-to-query ClickHouse table.
-</description>
-      <category>nodejs</category>
-      <category>sql</category>
-      <category>ai</category>
-      <category>cloud</category>
-      <category>containers</category>
-      <guid>https://andrealeopardi.com/posts/beam-metrics-in-clickhouse/</guid>
-      <pubDate>Thu, 19 Mar 2026 01:03:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>AprilNEA - Full Stack Engineer</title>
-      <link>https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace</link>
-      <description>Full stack developer, open sourceror, serial entrepreneur.</description>
-      <category>typescript</category>
-      <category>git</category>
-      <category>containers</category>
-      <category>ai</category>
-      <category>nodejs</category>
-      <guid>https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace</guid>
-      <pubDate>Thu, 19 Mar 2026 01:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>va/guides/vibe-thinking | Zo Space</title>
-      <link>https://va.zo.space/guides/vibe-thinking</link>
-      <description>Explore va's Zo Space page at /guides/vibe-thinking.</description>
-      <category>ai</category>
-      <category>sql</category>
-      <guid>https://va.zo.space/guides/vibe-thinking</guid>
-      <pubDate>Thu, 19 Mar 2026 01:02:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>The biggest surprise of the MacBook Neo</title>
-      <link>https://asymco.com/2026/03/18/the-biggest-surprise-of-the-macbook-neo/</link>
-      <description>Remembering the PC market Almost 10 years ago I said “Managing the Mac product line must be one of the most challenging problems at Apple. That may not be obvious given the product’s success.…</description>
-      <category>apple</category>
-      <guid>https://asymco.com/2026/03/18/the-biggest-surprise-of-the-macbook-neo/</guid>
-      <pubDate>Thu, 19 Mar 2026 01:02:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Product has always been the bottleneck, it’s just clearer now</title>
-      <link>https://kwakubiney.github.io/posts/Product-Has-Always-Been-The-Bottleneck-Its-Just-Clearer-Now/</link>
-      <description>If you’ve been doing engineering in a big enough company for a while now, you are probably aware of the process most companies with a substantial number of people use. Engineers wait for the go ahead to build some product that management has identified to solve a market gap. Now, in most big enough teams, what happens is that management or product identify market gaps, and there’s a lot of ideation that goes on around what the business should build. And this ideation, if you’re doing it right, takes a lot of time and a lot of effort to get the right product built.</description>
-      <category>ai</category>
-      <guid>https://kwakubiney.github.io/posts/Product-Has-Always-Been-The-Bottleneck-Its-Just-Clearer-Now/</guid>
-      <pubDate>Thu, 19 Mar 2026 01:02:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Building a Personal Mnemonics Bot - We launch on Friday</title>
-      <link>https://rtjom.com/blog/2026/03/building-a-personal-mnemonics-bot/</link>
-      <description>Every now and then I encounter a new word that I’ve never heard before. Or need to memorize the shopping list, a phone number, a date,
-or a fact. In school I didn’t have any system to do that other than just read the information as many times as needed for it to stay in
-my head until it is no longer needed. But as I grow older, I want to retain the information for much longer.</description>
-      <category>ai</category>
-      <guid>https://rtjom.com/blog/2026/03/building-a-personal-mnemonics-bot/</guid>
-      <pubDate>Thu, 19 Mar 2026 01:02:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Just one more prompt | Tao Bojlén</title>
-      <link>https://btao.org/posts/2026-03-18-one-more-prompt</link>
-      <description>I love coding with AI. I often have several parallel agents, across multiple projects, running off on various coding errands for me. Like Craig Mod, I’m software bonkers: I just can’t stop building software.</description>
-      <category>ai</category>
-      <guid>https://btao.org/posts/2026-03-18-one-more-prompt</guid>
-      <pubDate>Thu, 19 Mar 2026 01:02:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude Code's poor time awareness</title>
-      <link>https://nicula.xyz/2026/03/18/time-and-llms.html</link>
-      <description>From some of my interactions with Claude Code1 so far I’ve noticed that it seems
-to have a pretty glaring issue: it doesn’t really have a good sense of
-time-tracking built into it. Because of this, Claude2 misses good choices
-that would help it finish some tasks significantly faster.</description>
-      <category>ai</category>
-      <category>git</category>
-      <guid>https://nicula.xyz/2026/03/18/time-and-llms.html</guid>
-      <pubDate>Thu, 19 Mar 2026 01:02:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Your System Kills Itself Trying to Recover</title>
-      <link>https://aalpar.github.io/2026/03/18/your-system-kills-itself-trying-to-recover.html</link>
-      <description>Distributed systems fail in two ways: the failure itself, and the system’s automatic response to the failure. The second is usually deadlier.</description>
-      <category>nodejs</category>
-      <category>sql</category>
-      <guid>https://aalpar.github.io/2026/03/18/your-system-kills-itself-trying-to-recover.html</guid>
-      <pubDate>Thu, 19 Mar 2026 01:02:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Is passing user ID through context an antipattern?</title>
-      <link>https://rednafi.com/shards/2026/03/user-id-through-context/</link>
-      <description>Why the middleware-to-handler boundary is a special case for context values.</description>
-      <author> (Redowan Delowar)</author>
-      <guid>https://rednafi.com/shards/2026/03/user-id-through-context/</guid>
-      <pubDate>Thu, 19 Mar 2026 01:02:27 GMT</pubDate>
     </item>
   </channel>
 </rss>

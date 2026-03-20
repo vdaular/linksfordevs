@@ -1,5 +1,197 @@
 [
   {
+    "Title": "the quadratic problem nobody fixed | ian erik varatalu",
+    "Url": "https://iev.ee/blog/the-quadratic-problem-nobody-fixed/",
+    "Timestamp": "2026-03-20T01:03:59",
+    "Domain": "iev.ee",
+    "Description": "",
+    "Confidence": 0.97950864
+  },
+  {
+    "Title": "I Mass-Deleted My MCP Servers. Here's What I Use Instead.",
+    "Url": "https://joshowens.dev/mcps-are-dead/",
+    "Timestamp": "2026-03-20T01:03:55",
+    "Domain": "joshowens.dev",
+    "Description": "MCP servers burn your most valuable resource: context. I replaced mine with skills and CLI tools. Same capabilities, a fraction of the overhead.",
+    "Confidence": 0.99483234
+  },
+  {
+    "Title": "I HOPE YOU DON'T USE GENERATIVE AI | RUBY MORGAN VOIGT",
+    "Url": "https://rmv.fyi/notes/i-hope-you-don-t-use-generative-ai",
+    "Timestamp": "2026-03-20T01:03:51",
+    "Domain": "rmv.fyi",
+    "Description": "God forbid you want to convert an image. If you do, you have two broad choices. You can be blessed with the knowledge that your computer knows how to …",
+    "Confidence": 0.94432306
+  },
+  {
+    "Title": "Minecraft Source Code is Interesting! · KJ",
+    "Url": "https://www.karanjanthe.me/posts/minecraft-source/",
+    "Timestamp": "2026-03-20T01:03:47",
+    "Domain": "www.karanjanthe.me",
+    "Description": "A corner of the internet where I think in public.",
+    "Confidence": 0.99679786
+  },
+  {
+    "Title": "Capacity Is the Roadmap",
+    "Url": "https://yusufaytas.com/capacity-is-the-roadmap/",
+    "Timestamp": "2026-03-20T01:03:41",
+    "Domain": "yusufaytas.com",
+    "Description": "Most roadmap problems are capacity problems. Make investment buckets visible, budget interrupts, and force trade-offs into the open.",
+    "Confidence": 0.9574935
+  },
+  {
+    "Title": "How Orca Works: A High-Performance Crossword Filler",
+    "Url": "https://rainjacket.github.io/orca-solver/",
+    "Timestamp": "2026-03-20T01:03:37",
+    "Domain": "rainjacket.github.io",
+    "Description": "A deep dive into Orca's constraint-propagation crossword filler.",
+    "Confidence": 0.9737438
+  },
+  {
+    "Title": "How I Work With Parallel Agents",
+    "Url": "https://remy.duthu.org/2026/03/13/how-i-work-with-parallel-agents.html",
+    "Timestamp": "2026-03-20T01:03:34",
+    "Domain": "remy.duthu.org",
+    "Description": "How I run two Claude Code agents in parallel using git worktrees, plan mode, and custom hooks — and what changes downstream when agents do the bulk of the implementation.",
+    "Confidence": 0.99276835
+  },
+  {
+    "Title": "Breaking signals, breaking systems",
+    "Url": "https://guille.site/posts/breaking-signals/",
+    "Timestamp": "2026-03-20T01:03:30",
+    "Domain": "guille.site",
+    "Description": "Posted 2026-03-19",
+    "Confidence": 0.93423295
+  },
+  {
+    "Title": "my first patch to the linux kernel",
+    "Url": "https://pooladkhay.com/posts/first-kernel-patch/",
+    "Timestamp": "2026-03-20T01:03:27",
+    "Domain": "pooladkhay.com",
+    "Description": "<p>How a sign-extension bug in C made me pull my hair out for days but became my first patch to the Linux kernel!</p>",
+    "Confidence": 0.9935605
+  },
+  {
+    "Title": "Wayland set the Linux Desktop back by 10 years",
+    "Url": "https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years",
+    "Timestamp": "2026-03-20T01:03:24",
+    "Domain": "omar.yt",
+    "Description": "Wayland has been a broad misdirection and misallocation of time and developer resources at the expense of users. With more migration from other operating systems, the pressure to fix fundamental problems has become more prominent. After 17 years of development, now is a good time to reflect on some of the larger promises that have been made around the development of Wayland as a replacement for the X11 display protocol.",
+    "Confidence": 0.99547726
+  },
+  {
+    "Title": "A Copy-Paste Bug That Broke PSpice® AES-256 Encryption",
+    "Url": "https://jtsylve.blog/post/2026/03/18/PSpice-Encryption-Weakness",
+    "Timestamp": "2026-03-20T01:03:21",
+    "Domain": "jtsylve.blog",
+    "Description": "PSpice is a SPICE circuit simulator from Cadence Design Systems that encrypts proprietary semiconductor model files to protect vendor IP and prevent reuse in third-party SPICE simulators.  The encryption scheme is proprietary and undocumented.\n\n",
+    "Confidence": 0.99383086
+  },
+  {
+    "Title": "2026-03-18 I haven't thought about software patents in a long time",
+    "Url": "https://alexschroeder.ch/view/2026-03-18-software-patents",
+    "Timestamp": "2026-03-20T01:03:18",
+    "Domain": "alexschroeder.ch",
+    "Description": "At work I’m often considered to be the go-to person for questions of software licenses. The latest one was customers wanting to upload HEIC images into the software.",
+    "Confidence": 0.99446
+  },
+  {
+    "Title": "We're Writing Grammar Before the Language Exists",
+    "Url": "https://mvrckhckr.com/articles/were-writing-grammar-before-the-language-exists",
+    "Timestamp": "2026-03-20T01:03:14",
+    "Domain": "mvrckhckr.com",
+    "Description": "Six agent protocols in eighteen months, all designed by humans. But agents can think. The best coordination pattern might be one no human approves.",
+    "Confidence": 0.9613152
+  },
+  {
+    "Title": "Three Thoughts on Dark Code",
+    "Url": "https://blog.waleson.com/2026/03/three-thoughts-on-dark-code.html",
+    "Timestamp": "2026-03-20T01:03:11",
+    "Domain": "blog.waleson.com",
+    "Description": "A couple of weeks ago Dan Shapiro's blog post \" The 5 Levels\"  (about Agentic Engineering) did the rounds. He coined Level 5 the \"Dark Softw...",
+    "Confidence": 0.9596563
+  },
+  {
+    "Title": "Young Adults Are Not Very Happy - Probably Overthinking It",
+    "Url": "https://www.allendowney.com/blog/2026/03/19/young-adults-are-not-very-happy/",
+    "Timestamp": "2026-03-20T01:03:07",
+    "Domain": "www.allendowney.com",
+    "Description": "Since 1972, the General Social Survey has asked respondents: “Taken all together, how would you say things are these days—would you say that you are very happy, pretty happy, or not too happy?” The following figure shows how the responses have changed over time and between birth cohorts. Each line represents one birth year. People born in 1900 were 72 years old when the survey started; at that point, about 37% said they were very happy. In 1990, the last... Read More Read More",
+    "Confidence": 0.7690506
+  },
+  {
+    "Title": "Mac processor transitions – Something Something",
+    "Url": "https://colinmckellar.com/2026/03/12/mac-processor-transitions/",
+    "Timestamp": "2026-03-20T01:03:03",
+    "Domain": "colinmckellar.com",
+    "Description": "The latest episode of ATP included a discussion about MacOS 27 dropping support for Intel Macs and MacOS 28 (partially?) dropping support for running intel binaries. I have been curious about this, so did some Wikipedia diving and put this post together.",
+    "Confidence": 0.8451214
+  },
+  {
+    "Title": "Why I Don’t Drive",
+    "Url": "https://maxmautner.com/2026/03/17/why-i-do-not-drive.html",
+    "Timestamp": "2026-03-20T01:02:59",
+    "Domain": "maxmautner.com",
+    "Description": "A reflection on a car-free life-—the real tradeoffs, the barometer it provides for community equity, and why to travel slow.",
+    "Confidence": 0.7150339
+  },
+  {
+    "Title": "One year of developing my own operating system",
+    "Url": "https://mrunix.me/posts/one-year-osdev/",
+    "Timestamp": "2026-03-20T01:02:56",
+    "Domain": "mrunix.me",
+    "Description": "Writing an operating system from scratch is something I always wanted to do, and last year, I started working on MONOLITH, an operating system meant to make my dream true.",
+    "Confidence": 0.9666971
+  },
+  {
+    "Title": "Thoughts on “The Machine Stops”",
+    "Url": "https://rznicolet.com/2026/03/19/thoughts-on-the-machine-stops/",
+    "Timestamp": "2026-03-20T01:02:53",
+    "Domain": "rznicolet.com",
+    "Description": "I was recently reminded of “The Machine Stops”, the 1909 short story by E. M. Forster.  (It’s out of copyright, so it’s available on Project Gutenberg for free.  If you haven’t read it …",
+    "Confidence": 0.8217539
+  },
+  {
+    "Title": "Running WPA3-Enterprise in my home network – Sour Coffee Labs",
+    "Url": "https://sour.coffee/2026/03/16/running-wpa3-enterprise-in-my-home-network/",
+    "Timestamp": "2026-03-20T01:02:49",
+    "Domain": "sour.coffee",
+    "Description": "It’s no secret that by now, most home networks use WPA-Personal. Why? It’s a simple password. This included mine. Well, until today.",
+    "Confidence": 0.98920876
+  },
+  {
+    "Title": "Why Whisper Notes for Mac Left the App Store",
+    "Url": "https://whispernotes.app/blog/why-whisper-notes-left-mac-app-store",
+    "Timestamp": "2026-03-20T01:02:46",
+    "Domain": "whispernotes.app",
+    "Description": "Apple now rejects Mac App Store updates that use Accessibility permission. Whisper Notes moved to DMG to keep system-wide Fn voice typing. Free license for App Store purchasers.",
+    "Confidence": 0.9617849
+  },
+  {
+    "Title": "Talent is Not Rare - Tasshin",
+    "Url": "https://tasshin.com/blog/talent-is-not-rare/",
+    "Timestamp": "2026-03-20T01:02:42",
+    "Domain": "tasshin.com",
+    "Description": "What if we assumed everyone is talented? That everyone has some gift to give?",
+    "Confidence": 0.83098185
+  },
+  {
+    "Title": "Principled Agentic Software Development - Joe Gaebel",
+    "Url": "https://www.joegaebel.com/articles/principled-agentic-software-development/",
+    "Timestamp": "2026-03-20T01:02:38",
+    "Domain": "www.joegaebel.com",
+    "Description": "Encoding engineering principles in AI workflows",
+    "Confidence": 0.99478024
+  },
+  {
+    "Title": "Maybe version ranges are a good idea after all?",
+    "Url": "https://neilmadden.blog/2026/03/19/maybe-version-ranges-are-a-good-idea-after-all/",
+    "Timestamp": "2026-03-20T01:02:35",
+    "Domain": "neilmadden.blog",
+    "Description": "One of the most important lessons I’ve learned in security, is that it’s always better to push security problems back to the source as much as possible. For example, a small number of experts (hope…",
+    "Confidence": 0.9921376
+  },
+  {
     "Title": "OpenTTD | News | An update on Steam",
     "Url": "https://www.openttd.org/news/2026/03/19/steam-changes-update",
     "Timestamp": "2026-03-20T00:02:05",
@@ -62,189 +254,5 @@
     "Domain": "www.pew.org",
     "Description": "After decades of explosive growth, Austin, Texas, in the 2010s was a victim of its own success. Lured by high-tech jobs and the city’s hip reputation, too many people were competing for too few homes. From 2010 to 2019, rents in Austin increased nearly 93%—more than in any other major American city. And home sale prices increased 82%, more than in any other metro area in Texas.",
     "Confidence": 0.86677986
-  },
-  {
-    "Title": "Writing a Good AGENTS.md",
-    "Url": "https://www.philschmid.de/writing-good-agents",
-    "Timestamp": "2026-03-19T01:03:53",
-    "Domain": "www.philschmid.de",
-    "Description": "Learn what to include, what to skip, and how to structure your AGENTS.md for best results.",
-    "Confidence": 0.97994643
-  },
-  {
-    "Title": "Too Much Color",
-    "Url": "https://www.keithcirkel.co.uk/too-much-color/",
-    "Timestamp": "2026-03-19T01:03:45",
-    "Domain": "www.keithcirkel.co.uk",
-    "Description": "I spent too much time looking at too many colo(u)rs to try and optimise them\nfor csskit. Here are some interesting findings.\n",
-    "Confidence": 0.99329025
-  },
-  {
-    "Title": "Why One Key Shouldn’t Rule Them All: Threshold Signatures for the Rest of Us",
-    "Url": "https://eric.mann.blog/why-one-key-shouldnt-rule-them-all-threshold-signatures-for-the-rest-of-us/",
-    "Timestamp": "2026-03-19T01:03:42",
-    "Domain": "eric.mann.blog",
-    "Description": "Private keys are the backbone of digital security — and a single point of failure. Threshold signatures split that risk across multiple parties, and the DKLS23 protocol does it in just three rounds…",
-    "Confidence": 0.985978
-  },
-  {
-    "Title": "Why Your OpenClaw's Browser Keeps Getting CAPTCHAs | benn's blog",
-    "Url": "https://bennhuang.com/posts/why-your-openclaws-browser-keeps-getting-captchas/",
-    "Timestamp": "2026-03-19T01:03:38",
-    "Domain": "bennhuang.com",
-    "Description": "",
-    "Confidence": 0.97235996
-  },
-  {
-    "Title": "You Have to Earn Your Calculator",
-    "Url": "https://matthiasplappert.com/blog/2026/earn-your-calculator/",
-    "Timestamp": "2026-03-19T01:03:35",
-    "Domain": "matthiasplappert.com",
-    "Description": "On the temptation of LLMs, and why sometimes you still need to do the work by hand.",
-    "Confidence": 0.9971881
-  },
-  {
-    "Title": "We are building gods",
-    "Url": "https://richhaase.com/blog/2026-03-08-we-are-building-gods/",
-    "Timestamp": "2026-03-19T01:03:32",
-    "Domain": "richhaase.com",
-    "Description": "How agentic AI moves from tool to trusted authority to what?",
-    "Confidence": 0.9495357
-  },
-  {
-    "Title": "Invasion of the Body Snatchers",
-    "Url": "https://www.ahalbert.com/reviews/2026/03/18/the_body_snatchers.html",
-    "Timestamp": "2026-03-19T01:03:29",
-    "Domain": "www.ahalbert.com",
-    "Description": "",
-    "Confidence": 0.8905918
-  },
-  {
-    "Title": "bertolami",
-    "Url": "https://bertolami.com/blog/hazards-of-agentic-engineering",
-    "Timestamp": "2026-03-19T01:03:25",
-    "Domain": "bertolami.com",
-    "Description": "Joe Bertolami's portfolio and blog covering artificial intelligence, game development, computer graphics, data compression, and more.",
-    "Confidence": 0.9857971
-  },
-  {
-    "Title": "I Miss Coding",
-    "Url": "https://pooyam.dev/i-miss-coding",
-    "Timestamp": "2026-03-19T01:03:22",
-    "Domain": "pooyam.dev",
-    "Description": "Coding agents have transformed my work at Google. But even if I keep my job, I don't enjoy this new role. I used to love figuring out the 'how.' Now the agent does it, and doing it myself is just inefficient.",
-    "Confidence": 0.98920506
-  },
-  {
-    "Title": "I Drove $31M in Bookings. The System Said I Needed Improvement. - Brian Carpio",
-    "Url": "https://www.briancarpio.com/blog/i-drove-31m-in-bookings-the-system-said-i-needed-improvement",
-    "Timestamp": "2026-03-19T01:03:19",
-    "Domain": "www.briancarpio.com",
-    "Description": "My peers called me ",
-    "Confidence": 0.9618112
-  },
-  {
-    "Title": "How ZJIT removes redundant object loads and stores",
-    "Url": "https://railsatscale.com/2026-03-18-how-zjit-removes-redundant-object-loads-and-stores/",
-    "Timestamp": "2026-03-19T01:03:16",
-    "Domain": "railsatscale.com",
-    "Description": "ZJIT’s optimizer now removes redundant object loads and stores, improving JIT performance of CRuby’s shape system. This post explains how the optimization works.",
-    "Confidence": 0.99520975
-  },
-  {
-    "Title": "30 Days. Then Gone.",
-    "Url": "https://krollsec.github.io/thirty-days/",
-    "Timestamp": "2026-03-19T01:03:12",
-    "Domain": "krollsec.github.io",
-    "Description": "An open source website that ceases to exist on April 17, 2026. Fork it. Add to it. Leave your mark.",
-    "Confidence": 0.9913293
-  },
-  {
-    "Title": "I personally paid for our CNCF and Linux Foundation memberships and I’d do it again",
-    "Url": "https://max.gp/writing/i-personally-paid-for-our-cncf-and-linux-foundation-memberships-and-id-do-it-again/",
-    "Timestamp": "2026-03-19T01:03:09",
-    "Domain": "max.gp",
-    "Description": "Developer and founder based in Germany. Writing about software, infrastructure, and building systems.",
-    "Confidence": 0.99245036
-  },
-  {
-    "Title": "BEAM Metrics in ClickHouse",
-    "Url": "https://andrealeopardi.com/posts/beam-metrics-in-clickhouse/",
-    "Timestamp": "2026-03-19T01:03:04",
-    "Domain": "andrealeopardi.com",
-    "Description": "How we are periodically dumping metrics about our most demanding BEAM processes into an easy-to-query ClickHouse table.\n",
-    "Confidence": 0.9928688
-  },
-  {
-    "Title": "AprilNEA - Full Stack Engineer",
-    "Url": "https://aprilnea.me/en/blog/reverse-engineering-claude-code-antspace",
-    "Timestamp": "2026-03-19T01:03:00",
-    "Domain": "aprilnea.me",
-    "Description": "Full stack developer, open sourceror, serial entrepreneur.",
-    "Confidence": 0.9982551
-  },
-  {
-    "Title": "va/guides/vibe-thinking | Zo Space",
-    "Url": "https://va.zo.space/guides/vibe-thinking",
-    "Timestamp": "2026-03-19T01:02:57",
-    "Domain": "va.zo.space",
-    "Description": "Explore va's Zo Space page at /guides/vibe-thinking.",
-    "Confidence": 0.9353426
-  },
-  {
-    "Title": "The biggest surprise of the MacBook Neo",
-    "Url": "https://asymco.com/2026/03/18/the-biggest-surprise-of-the-macbook-neo/",
-    "Timestamp": "2026-03-19T01:02:51",
-    "Domain": "asymco.com",
-    "Description": "Remembering the PC market Almost 10 years ago I said “Managing the Mac product line must be one of the most challenging problems at Apple. That may not be obvious given the product’s success.…",
-    "Confidence": 0.9567993
-  },
-  {
-    "Title": "Product has always been the bottleneck, it’s just clearer now",
-    "Url": "https://kwakubiney.github.io/posts/Product-Has-Always-Been-The-Bottleneck-Its-Just-Clearer-Now/",
-    "Timestamp": "2026-03-19T01:02:46",
-    "Domain": "kwakubiney.github.io",
-    "Description": "If you’ve been doing engineering in a big enough company for a while now, you are probably aware of the process most companies with a substantial number of people use. Engineers wait for the go ahead to build some product that management has identified to solve a market gap. Now, in most big enough teams, what happens is that management or product identify market gaps, and there’s a lot of ideation that goes on around what the business should build. And this ideation, if you’re doing it right, takes a lot of time and a lot of effort to get the right product built.",
-    "Confidence": 0.9928368
-  },
-  {
-    "Title": "Building a Personal Mnemonics Bot - We launch on Friday",
-    "Url": "https://rtjom.com/blog/2026/03/building-a-personal-mnemonics-bot/",
-    "Timestamp": "2026-03-19T01:02:43",
-    "Domain": "rtjom.com",
-    "Description": "Every now and then I encounter a new word that I’ve never heard before. Or need to memorize the shopping list, a phone number, a date,\nor a fact. In school I didn’t have any system to do that other than just read the information as many times as needed for it to stay in\nmy head until it is no longer needed. But as I grow older, I want to retain the information for much longer.",
-    "Confidence": 0.9586002
-  },
-  {
-    "Title": "Just one more prompt | Tao Bojlén",
-    "Url": "https://btao.org/posts/2026-03-18-one-more-prompt",
-    "Timestamp": "2026-03-19T01:02:39",
-    "Domain": "btao.org",
-    "Description": "I love coding with AI. I often have several parallel agents, across multiple projects, running off on various coding errands for me. Like Craig Mod, I’m software bonkers: I just can’t stop building software.",
-    "Confidence": 0.8997955
-  },
-  {
-    "Title": "Claude Code's poor time awareness",
-    "Url": "https://nicula.xyz/2026/03/18/time-and-llms.html",
-    "Timestamp": "2026-03-19T01:02:35",
-    "Domain": "nicula.xyz",
-    "Description": "From some of my interactions with Claude Code1 so far I’ve noticed that it seems\nto have a pretty glaring issue: it doesn’t really have a good sense of\ntime-tracking built into it. Because of this, Claude2 misses good choices\nthat would help it finish some tasks significantly faster.",
-    "Confidence": 0.99075794
-  },
-  {
-    "Title": "Your System Kills Itself Trying to Recover",
-    "Url": "https://aalpar.github.io/2026/03/18/your-system-kills-itself-trying-to-recover.html",
-    "Timestamp": "2026-03-19T01:02:31",
-    "Domain": "aalpar.github.io",
-    "Description": "Distributed systems fail in two ways: the failure itself, and the system’s automatic response to the failure. The second is usually deadlier.",
-    "Confidence": 0.9881254
-  },
-  {
-    "Title": "Is passing user ID through context an antipattern?",
-    "Url": "https://rednafi.com/shards/2026/03/user-id-through-context/",
-    "Timestamp": "2026-03-19T01:02:27",
-    "Domain": "rednafi.com",
-    "Description": "Why the middleware-to-handler boundary is a special case for context values.",
-    "Confidence": 0.9848306
   }
 ]
