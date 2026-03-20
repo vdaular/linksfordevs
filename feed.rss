@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>OpenTTD | News | An update on Steam</title>
+      <link>https://www.openttd.org/news/2026/03/19/steam-changes-update</link>
+      <description>An open source simulator based on the classic game Transport Tycoon Deluxe. It attempts to mimic the original game as closely as possible while extending it with new features.</description>
+      <category>gaming</category>
+      <guid>https://www.openttd.org/news/2026/03/19/steam-changes-update</guid>
+      <pubDate>Fri, 20 Mar 2026 00:02:05 GMT</pubDate>
+    </item>
+    <item>
       <title>GitHub - KittenML/KittenTTS: State-of-the-art TTS model under 25MB 😻</title>
       <link>https://github.com/KittenML/KittenTTS</link>
       <description> State-of-the-art TTS model under 25MB 😻 . Contribute to KittenML/KittenTTS development by creating an account on GitHub.</description>
