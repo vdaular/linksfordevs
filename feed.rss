@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Push events into a running session with channels - Claude Code Docs</title>
+      <link>https://code.claude.com/docs/en/channels</link>
+      <description>Use channels to push messages, alerts, and webhooks into your Claude Code session from an MCP server. Forward CI results, chat messages, and monitoring events so Claude can react while you're away.</description>
+      <category>git</category>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://code.claude.com/docs/en/channels</guid>
+      <pubDate>Fri, 20 Mar 2026 06:02:22 GMT</pubDate>
+    </item>
+    <item>
       <title>Safety Impact</title>
       <link>https://waymo.com/safety/impact/</link>
       <description>We're voluntarily sharing our safety data to demonstrate how the Waymo Driver is making roads safer in the places we currently operate. See the stats.</description>
