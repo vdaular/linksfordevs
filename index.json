@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Star Formation",
+    "Url": "https://xkcd.com/3222/",
+    "Timestamp": "2026-03-20T21:02:22",
+    "Domain": "xkcd.com",
+    "Description": "",
+    "Confidence": 0.98151064
+  },
+  {
     "Title": "The best laptop Apple ever made",
     "Url": "https://www.jeffgeerling.com/blog/2026/best-laptop-apple-ever-made/",
     "Timestamp": "2026-03-20T15:01:32",
@@ -278,13 +286,5 @@
     "Domain": "github.com",
     "Description": "Remove anthropic references per legal requests:\n\nRemove anthropic-20250930.txt prompt file\nRemove anthropic from provider hints\nRemove opencode-anthropic-auth builtin plugin\nRemove anthropic from p...",
     "Confidence": 0.9966647
-  },
-  {
-    "Title": "Bug Report: macOS 26 breaks /etc/resolver/ supplemental DNS for custom TLDs",
-    "Url": "https://gist.github.com/adamamyl/81b78eced40feae50eae7c4f3bec1f5a",
-    "Timestamp": "2026-03-19T21:02:17",
-    "Domain": "gist.github.com",
-    "Description": "Bug Report: macOS 26 breaks /etc/resolver/ supplemental DNS for custom TLDs - macos26-breaks-custom-dns.md",
-    "Confidence": 0.99508125
   }
 ]

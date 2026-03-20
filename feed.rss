@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Star Formation</title>
+      <link>https://xkcd.com/3222/</link>
+      <description></description>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3222/</guid>
+      <pubDate>Fri, 20 Mar 2026 21:02:22 GMT</pubDate>
+    </item>
+    <item>
       <title>The best laptop Apple ever made</title>
       <link>https://www.jeffgeerling.com/blog/2026/best-laptop-apple-ever-made/</link>
       <description>Today I posted a video titled The best laptop Apple ever made, and tl;dw1 it's the 11" MacBook Air.
@@ -339,17 +347,6 @@ Remove anthropic from p...</description>
       <category>ai</category>
       <guid>https://github.com/anomalyco/opencode/pull/18186</guid>
       <pubDate>Thu, 19 Mar 2026 22:02:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bug Report: macOS 26 breaks /etc/resolver/ supplemental DNS for custom TLDs</title>
-      <link>https://gist.github.com/adamamyl/81b78eced40feae50eae7c4f3bec1f5a</link>
-      <description>Bug Report: macOS 26 breaks /etc/resolver/ supplemental DNS for custom TLDs - macos26-breaks-custom-dns.md</description>
-      <author> (262588213843476)</author>
-      <category>containers</category>
-      <category>ai</category>
-      <category>apple</category>
-      <guid>https://gist.github.com/adamamyl/81b78eced40feae50eae7c4f3bec1f5a</guid>
-      <pubDate>Thu, 19 Mar 2026 21:02:17 GMT</pubDate>
     </item>
   </channel>
 </rss>
