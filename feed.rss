@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The best laptop Apple ever made</title>
+      <link>https://www.jeffgeerling.com/blog/2026/best-laptop-apple-ever-made/</link>
+      <description>Today I posted a video titled The best laptop Apple ever made, and tl;dw1 it's the 11" MacBook Air.
+I acknowledge in the video my pick is slightly subjective, and I also asked a number of other YouTubers which Mac laptop they consider the best (or at least most influential). If you don't want to watch the video, I'll summarize their choices here:</description>
+      <category>apple</category>
+      <guid>https://www.jeffgeerling.com/blog/2026/best-laptop-apple-ever-made/</guid>
+      <pubDate>Fri, 20 Mar 2026 15:01:32 GMT</pubDate>
+    </item>
+    <item>
       <title>Exploring Claude Code Hooks with the Coding Agent Explorer (.NET)</title>
       <link>https://nestenius.se/ai/exploring-claude-code-hooks-with-the-coding-agent-explorer-net/</link>
       <description>Ever wondered what Claude Code is actually doing while it works? Every file it reads, every command it runs, every permission it requests. Claude Code exposes all of this through a hook system that lets you intercept and observe each step. In this post, you’ll learn what hooks are, how to set them up, and […]</description>
@@ -349,15 +358,6 @@ Remove anthropic from p...</description>
       <category>youtube</category>
       <guid>https://daringfireball.net/2026/03/your_frustration_is_the_product</guid>
       <pubDate>Thu, 19 Mar 2026 18:02:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Astral to join OpenAI</title>
-      <link>https://astral.sh/blog/openai</link>
-      <description>Astral has entered into an agreement to join OpenAI as part of the Codex team.</description>
-      <category>python</category>
-      <category>ai</category>
-      <guid>https://astral.sh/blog/openai</guid>
-      <pubDate>Thu, 19 Mar 2026 15:02:23 GMT</pubDate>
     </item>
   </channel>
 </rss>
