@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Our commitment to Windows quality</title>
+      <link>https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/</link>
+      <description>Hello Windows Insiders,
+
+I want to speak to you directly, as an engineer who has spent his career building technology that people depend on every day. Windows touches more people's lives than almost any technology on Earth. Every day, we hear from th</description>
+      <category>linux</category>
+      <category>gaming</category>
+      <category>ai</category>
+      <guid>https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/</guid>
+      <pubDate>Fri, 20 Mar 2026 23:02:11 GMT</pubDate>
+    </item>
+    <item>
       <title>Star Formation</title>
       <link>https://xkcd.com/3222/</link>
       <description></description>
@@ -314,16 +326,6 @@ Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas
       <category>gaming</category>
       <guid>https://www.openttd.org/news/2026/03/19/steam-changes-update</guid>
       <pubDate>Fri, 20 Mar 2026 00:02:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - KittenML/KittenTTS: State-of-the-art TTS model under 25MB 😻</title>
-      <link>https://github.com/KittenML/KittenTTS</link>
-      <description> State-of-the-art TTS model under 25MB 😻 . Contribute to KittenML/KittenTTS development by creating an account on GitHub.</description>
-      <category>ai</category>
-      <category>python</category>
-      <category>linux</category>
-      <guid>https://github.com/KittenML/KittenTTS</guid>
-      <pubDate>Thu, 19 Mar 2026 23:02:19 GMT</pubDate>
     </item>
   </channel>
 </rss>
