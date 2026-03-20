@@ -1,5 +1,13 @@
 [
   {
+    "Title": "GitHub - cockpit-project/cockpit: Cockpit is a web-based graphical interface for servers.",
+    "Url": "https://github.com/cockpit-project/cockpit",
+    "Timestamp": "2026-03-20T09:02:02",
+    "Domain": "github.com",
+    "Description": "Cockpit is a web-based graphical interface for servers. - cockpit-project/cockpit",
+    "Confidence": 0.99192196
+  },
+  {
     "Title": "Push events into a running session with channels - Claude Code Docs",
     "Url": "https://code.claude.com/docs/en/channels",
     "Timestamp": "2026-03-20T06:02:22",
