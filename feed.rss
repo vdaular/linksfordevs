@@ -7,6 +7,190 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Stop leading with the affirmative condition</title>
+      <link>https://idealchorus.com/posts/stop-leading-with-the-affirmative-condition</link>
+      <description>A personal blog about software development and other topics.</description>
+      <category>ai</category>
+      <guid>https://idealchorus.com/posts/stop-leading-with-the-affirmative-condition</guid>
+      <pubDate>Sat, 21 Mar 2026 01:03:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pull requests are dead, long live pull requests</title>
+      <link>https://gieseanw.wordpress.com/2026/03/20/pull-requests-are-dead-long-live-pull-requests/</link>
+      <description>These days when I’m reviewing a pull request it feels like I’m talking to an AI bot, because I am. When I ask questions like “Why did you decide to do it this way?” I usually get a response (from a…</description>
+      <category>git</category>
+      <category>ai</category>
+      <guid>https://gieseanw.wordpress.com/2026/03/20/pull-requests-are-dead-long-live-pull-requests/</guid>
+      <pubDate>Sat, 21 Mar 2026 01:03:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>My Own Personal Claws</title>
+      <link>https://www.bstjohn.net/blog/claws/</link>
+      <description>I replaced OpenClaw with a custom automation system that refines GitHub issues, implements features, fixes CI, investigates production bugs, and turns voice notes into shipped code — all tailored for a single developer.</description>
+      <category>ai</category>
+      <category>encryption</category>
+      <category>git</category>
+      <guid>https://www.bstjohn.net/blog/claws/</guid>
+      <pubDate>Sat, 21 Mar 2026 01:03:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Can we still make software that sparks joy?</title>
+      <link>https://joshondesign.com/2026/03/19/software-joy</link>
+      <description>A diatribe in when I am greatly disappointed in my industry.
+</description>
+      <category>web</category>
+      <category>ai</category>
+      <category>apple</category>
+      <guid>https://joshondesign.com/2026/03/19/software-joy</guid>
+      <pubDate>Sat, 21 Mar 2026 01:03:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>I Am a Software Mechanic</title>
+      <link>https://russell.ballestrini.net/i-am-a-software-mechanic/</link>
+      <description>That job title doesn't exist yet on any W-2. But it describes exactly what I do. You call me when a machine-generated tool breaks something real. A harvest lost. A contract mispriced. A greenhouse running dry. I show up. I read the spec. I find the gap between what someone …</description>
+      <author> (Russell Ballestrini)</author>
+      <category>encryption</category>
+      <category>web</category>
+      <category>python</category>
+      <category>ai</category>
+      <guid>https://russell.ballestrini.net/i-am-a-software-mechanic/</guid>
+      <pubDate>Sat, 21 Mar 2026 01:03:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why your next mobile app is probably headless</title>
+      <link>https://tuananh.net/2026/03/18/why-your-next-mobile-app-is-probably-headless/</link>
+      <description>We used to click through to websites and open apps. More and more, a single assistant does the work in the background. Here is what that changes, and why it already happened with Google and Stack Overflow.</description>
+      <category>youtube</category>
+      <category>gaming</category>
+      <category>ai</category>
+      <guid>https://tuananh.net/2026/03/18/why-your-next-mobile-app-is-probably-headless/</guid>
+      <pubDate>Sat, 21 Mar 2026 01:03:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Time To Dump Windows? - Dennis Forbes</title>
+      <link>https://dennisforbes.ca/blog/microblog/2026/02/time_to_dump_windows/</link>
+      <description>The moment has arrived where I use literally zero facilities of Windows in my day to day work or life</description>
+      <author> (Dennis Forbes)</author>
+      <category>cloud</category>
+      <category>linux</category>
+      <guid>https://dennisforbes.ca/blog/microblog/2026/02/time_to_dump_windows/</guid>
+      <pubDate>Sat, 21 Mar 2026 01:03:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>What Agents Can't Replace</title>
+      <link>https://geoffstearns.com/blog/what-agents-cant-replace/</link>
+      <description>AI agents will hollow out the interaction layer of software, but they can't replace the coordination layer — the shared state, rules, and accountability that let organizations operate without stepping on themselves.</description>
+      <author> (Geoff Stearns)</author>
+      <category>ai</category>
+      <guid>https://geoffstearns.com/blog/what-agents-cant-replace/</guid>
+      <pubDate>Sat, 21 Mar 2026 01:03:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reverse Engineering Life and Reality</title>
+      <link>https://mimetra.com/blog/understanding-of-reality/</link>
+      <description>A Journey Beyond the Physical World</description>
+      <guid>https://mimetra.com/blog/understanding-of-reality/</guid>
+      <pubDate>Sat, 21 Mar 2026 01:03:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Using Claude Code to help me write</title>
+      <link>https://andrewpwheeler.com/2026/03/20/using-claude-code-to-help-me-write/</link>
+      <description>Using LLMs to help you write is understandably a touchy subject for many. There is quite a bit of AI slop coming out now, as it is really easy to just have the LLM tools think for you and write sup…</description>
+      <category>ai</category>
+      <category>vscode</category>
+      <category>python</category>
+      <guid>https://andrewpwheeler.com/2026/03/20/using-claude-code-to-help-me-write/</guid>
+      <pubDate>Sat, 21 Mar 2026 01:03:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Code as Career Coach</title>
+      <link>https://seanplusplus.github.io/2026/03/20/claude-code-as-career-coach/</link>
+      <description>Musings of a Software Engineer.</description>
+      <category>git</category>
+      <category>vscode</category>
+      <category>ai</category>
+      <category>rust</category>
+      <guid>https://seanplusplus.github.io/2026/03/20/claude-code-as-career-coach/</guid>
+      <pubDate>Sat, 21 Mar 2026 01:03:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Age-Gated Internet: Child Safety, Identity Infrastructure, and the Not So Quiet Re-Architecting of the Web - Horkan</title>
+      <link>https://horkan.com/2026/03/20/the-age-gated-internet-child-safety-identity-infrastructure-and-the-not-so-quiet-re-architecting-of-the-web</link>
+      <description>Governments around the world are introducing age-verification and youth social-media laws, but these policies may be doing far more than protecting children. They are quietly pushing identity into operating systems, app stores, and the core infrastructure of the internet, shifting governance down the stack and creating new enforcement chokepoints. Along the way, they reshape platform […]</description>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://horkan.com/2026/03/20/the-age-gated-internet-child-safety-identity-infrastructure-and-the-not-so-quiet-re-architecting-of-the-web</guid>
+      <pubDate>Sat, 21 Mar 2026 01:03:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Unified Modules For Your Nixfiles |  Jadarma's Blog</title>
+      <link>https://jadarma.github.io/blog/posts/2026/03/unified-modules-for-your-nixfiles/</link>
+      <description>How to write dotfile modules for NixOS, nix-darwin, and Home Manager, with an easy mental model and no external dependencies.</description>
+      <author> (Dan Cîmpianu)</author>
+      <category>containers</category>
+      <category>gaming</category>
+      <category>git</category>
+      <category>linux</category>
+      <category>apple</category>
+      <guid>https://jadarma.github.io/blog/posts/2026/03/unified-modules-for-your-nixfiles/</guid>
+      <pubDate>Sat, 21 Mar 2026 01:03:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Accumulated ignorance at scale</title>
+      <link>https://brianguthrie.com/p/accumulated-ignorance-at-scale/</link>
+      <description>What do we do about tech debt and code review in a world where AI both writes the code and reviews it?</description>
+      <author> (Brian Guthrie)</author>
+      <category>ai</category>
+      <guid>https://brianguthrie.com/p/accumulated-ignorance-at-scale/</guid>
+      <pubDate>Sat, 21 Mar 2026 01:03:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>My Problem with MCP</title>
+      <link>https://tomyandell.dev/blog/my-problem-with-mcp</link>
+      <description>Why MCP gets the abstraction wrong</description>
+      <category>ai</category>
+      <category>containers</category>
+      <guid>https://tomyandell.dev/blog/my-problem-with-mcp</guid>
+      <pubDate>Sat, 21 Mar 2026 01:03:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Code: Things I Learned After Using It Every Day</title>
+      <link>https://vinta.ws/code/claude-code-useful-plugins-skills-and-mcps.html</link>
+      <description>I've used Claude Code daily since it came out. These are the best practices, tools, and configuration patterns that I learned. Most of this applies to other coding agents (Codex, Gemini CLI) too.</description>
+      <category>ai</category>
+      <category>encryption</category>
+      <category>python</category>
+      <category>cloud</category>
+      <category>javascript</category>
+      <guid>https://vinta.ws/code/claude-code-useful-plugins-skills-and-mcps.html</guid>
+      <pubDate>Sat, 21 Mar 2026 01:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why I Code</title>
+      <link>https://nisa.la/why-i-code/</link>
+      <description>Listen, I love building cool and useful things as much as the next person. You can look at my GitHub if you want proof. Building interesting things is why I ...</description>
+      <category>ai</category>
+      <guid>https://nisa.la/why-i-code/</guid>
+      <pubDate>Sat, 21 Mar 2026 01:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>My AI dev workflow - building the right thing</title>
+      <link>https://www.dev-log.me/my_ai_dev_workflow/</link>
+      <description>My personal workflow with coding agents, the hard work is not gone, it moved to writing the requirements.</description>
+      <category>ai</category>
+      <category>git</category>
+      <category>vscode</category>
+      <guid>https://www.dev-log.me/my_ai_dev_workflow/</guid>
+      <pubDate>Sat, 21 Mar 2026 01:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>You have access to almost any book</title>
+      <link>https://brianschrader.com/archive/you-have-access-to-almost-any-book/</link>
+      <description>I read a fair bit of non-fiction that spans a number of different genres. But the trouble with non-fiction is that it never answers a question without raising further questions. Non-fiction comes replete with footnotes: a ponzi-scheme for the curious mind.</description>
+      <guid>https://brianschrader.com/archive/you-have-access-to-almost-any-book/</guid>
+      <pubDate>Sat, 21 Mar 2026 01:02:47 GMT</pubDate>
+    </item>
+    <item>
       <title>OpenCode | The open source AI coding agent</title>
       <link>https://opencode.ai/</link>
       <description>OpenCode - The open source coding agent.</description>
@@ -109,224 +293,6 @@ Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas
       <description>We're voluntarily sharing our safety data to demonstrate how the Waymo Driver is making roads safer in the places we currently operate. See the stats.</description>
       <guid>https://waymo.com/safety/impact/</guid>
       <pubDate>Fri, 20 Mar 2026 04:02:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>the quadratic problem nobody fixed | ian erik varatalu</title>
-      <link>https://iev.ee/blog/the-quadratic-problem-nobody-fixed/</link>
-      <description></description>
-      <category>rust</category>
-      <guid>https://iev.ee/blog/the-quadratic-problem-nobody-fixed/</guid>
-      <pubDate>Fri, 20 Mar 2026 01:03:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>I Mass-Deleted My MCP Servers. Here's What I Use Instead.</title>
-      <link>https://joshowens.dev/mcps-are-dead/</link>
-      <description>MCP servers burn your most valuable resource: context. I replaced mine with skills and CLI tools. Same capabilities, a fraction of the overhead.</description>
-      <author> (Josh Owens)</author>
-      <category>ai</category>
-      <category>javascript</category>
-      <category>nodejs</category>
-      <category>cloud</category>
-      <category>vscode</category>
-      <guid>https://joshowens.dev/mcps-are-dead/</guid>
-      <pubDate>Fri, 20 Mar 2026 01:03:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>I HOPE YOU DON'T USE GENERATIVE AI | RUBY MORGAN VOIGT</title>
-      <link>https://rmv.fyi/notes/i-hope-you-don-t-use-generative-ai</link>
-      <description>God forbid you want to convert an image. If you do, you have two broad choices. You can be blessed with the knowledge that your computer knows how to …</description>
-      <category>ai</category>
-      <category>ruby</category>
-      <guid>https://rmv.fyi/notes/i-hope-you-don-t-use-generative-ai</guid>
-      <pubDate>Fri, 20 Mar 2026 01:03:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Minecraft Source Code is Interesting! · KJ</title>
-      <link>https://www.karanjanthe.me/posts/minecraft-source/</link>
-      <description>A corner of the internet where I think in public.</description>
-      <category>gaming</category>
-      <category>cloud</category>
-      <guid>https://www.karanjanthe.me/posts/minecraft-source/</guid>
-      <pubDate>Fri, 20 Mar 2026 01:03:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Capacity Is the Roadmap</title>
-      <link>https://yusufaytas.com/capacity-is-the-roadmap/</link>
-      <description>Most roadmap problems are capacity problems. Make investment buckets visible, budget interrupts, and force trade-offs into the open.</description>
-      <author> (https://www.facebook.com/yusufaytas)</author>
-      <guid>https://yusufaytas.com/capacity-is-the-roadmap/</guid>
-      <pubDate>Fri, 20 Mar 2026 01:03:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>How Orca Works: A High-Performance Crossword Filler</title>
-      <link>https://rainjacket.github.io/orca-solver/</link>
-      <description>A deep dive into Orca's constraint-propagation crossword filler.</description>
-      <category>ai</category>
-      <category>rust</category>
-      <guid>https://rainjacket.github.io/orca-solver/</guid>
-      <pubDate>Fri, 20 Mar 2026 01:03:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>How I Work With Parallel Agents</title>
-      <link>https://remy.duthu.org/2026/03/13/how-i-work-with-parallel-agents.html</link>
-      <description>How I run two Claude Code agents in parallel using git worktrees, plan mode, and custom hooks — and what changes downstream when agents do the bulk of the implementation.</description>
-      <category>git</category>
-      <category>sql</category>
-      <category>ai</category>
-      <category>web</category>
-      <guid>https://remy.duthu.org/2026/03/13/how-i-work-with-parallel-agents.html</guid>
-      <pubDate>Fri, 20 Mar 2026 01:03:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Breaking signals, breaking systems</title>
-      <link>https://guille.site/posts/breaking-signals/</link>
-      <description>Posted 2026-03-19</description>
-      <category>ai</category>
-      <guid>https://guille.site/posts/breaking-signals/</guid>
-      <pubDate>Fri, 20 Mar 2026 01:03:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>my first patch to the linux kernel</title>
-      <link>https://pooladkhay.com/posts/first-kernel-patch/</link>
-      <description>&lt;p&gt;How a sign-extension bug in C made me pull my hair out for days but became my first patch to the Linux kernel!&lt;/p&gt;</description>
-      <category>linux</category>
-      <guid>https://pooladkhay.com/posts/first-kernel-patch/</guid>
-      <pubDate>Fri, 20 Mar 2026 01:03:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wayland set the Linux Desktop back by 10 years</title>
-      <link>https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years</link>
-      <description>Wayland has been a broad misdirection and misallocation of time and developer resources at the expense of users. With more migration from other operating systems, the pressure to fix fundamental problems has become more prominent. After 17 years of development, now is a good time to reflect on some of the larger promises that have been made around the development of Wayland as a replacement for the X11 display protocol.</description>
-      <category>linux</category>
-      <category>rust</category>
-      <category>gaming</category>
-      <category>ai</category>
-      <category>web</category>
-      <guid>https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years</guid>
-      <pubDate>Fri, 20 Mar 2026 01:03:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>A Copy-Paste Bug That Broke PSpice® AES-256 Encryption</title>
-      <link>https://jtsylve.blog/post/2026/03/18/PSpice-Encryption-Weakness</link>
-      <description>PSpice is a SPICE circuit simulator from Cadence Design Systems that encrypts proprietary semiconductor model files to protect vendor IP and prevent reuse in third-party SPICE simulators.  The encryption scheme is proprietary and undocumented.
-
-</description>
-      <category>encryption</category>
-      <category>python</category>
-      <category>rust</category>
-      <guid>https://jtsylve.blog/post/2026/03/18/PSpice-Encryption-Weakness</guid>
-      <pubDate>Fri, 20 Mar 2026 01:03:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>2026-03-18 I haven't thought about software patents in a long time</title>
-      <link>https://alexschroeder.ch/view/2026-03-18-software-patents</link>
-      <description>At work I’m often considered to be the go-to person for questions of software licenses. The latest one was customers wanting to upload HEIC images into the software.</description>
-      <guid>https://alexschroeder.ch/view/2026-03-18-software-patents</guid>
-      <pubDate>Fri, 20 Mar 2026 01:03:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>We're Writing Grammar Before the Language Exists</title>
-      <link>https://mvrckhckr.com/articles/were-writing-grammar-before-the-language-exists</link>
-      <description>Six agent protocols in eighteen months, all designed by humans. But agents can think. The best coordination pattern might be one no human approves.</description>
-      <category>encryption</category>
-      <category>gaming</category>
-      <category>ai</category>
-      <category>cloud</category>
-      <category>vscode</category>
-      <guid>https://mvrckhckr.com/articles/were-writing-grammar-before-the-language-exists</guid>
-      <pubDate>Fri, 20 Mar 2026 01:03:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Three Thoughts on Dark Code</title>
-      <link>https://blog.waleson.com/2026/03/three-thoughts-on-dark-code.html</link>
-      <description>A couple of weeks ago Dan Shapiro's blog post " The 5 Levels"  (about Agentic Engineering) did the rounds. He coined Level 5 the "Dark Softw...</description>
-      <category>ai</category>
-      <category>rust</category>
-      <category>web</category>
-      <guid>https://blog.waleson.com/2026/03/three-thoughts-on-dark-code.html</guid>
-      <pubDate>Fri, 20 Mar 2026 01:03:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Young Adults Are Not Very Happy - Probably Overthinking It</title>
-      <link>https://www.allendowney.com/blog/2026/03/19/young-adults-are-not-very-happy/</link>
-      <description>Since 1972, the General Social Survey has asked respondents: “Taken all together, how would you say things are these days—would you say that you are very happy, pretty happy, or not too happy?” The following figure shows how the responses have changed over time and between birth cohorts. Each line represents one birth year. People born in 1900 were 72 years old when the survey started; at that point, about 37% said they were very happy. In 1990, the last... Read More Read More</description>
-      <guid>https://www.allendowney.com/blog/2026/03/19/young-adults-are-not-very-happy/</guid>
-      <pubDate>Fri, 20 Mar 2026 01:03:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mac processor transitions – Something Something</title>
-      <link>https://colinmckellar.com/2026/03/12/mac-processor-transitions/</link>
-      <description>The latest episode of ATP included a discussion about MacOS 27 dropping support for Intel Macs and MacOS 28 (partially?) dropping support for running intel binaries. I have been curious about this, so did some Wikipedia diving and put this post together.</description>
-      <category>apple</category>
-      <guid>https://colinmckellar.com/2026/03/12/mac-processor-transitions/</guid>
-      <pubDate>Fri, 20 Mar 2026 01:03:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why I Don’t Drive</title>
-      <link>https://maxmautner.com/2026/03/17/why-i-do-not-drive.html</link>
-      <description>A reflection on a car-free life-—the real tradeoffs, the barometer it provides for community equity, and why to travel slow.</description>
-      <guid>https://maxmautner.com/2026/03/17/why-i-do-not-drive.html</guid>
-      <pubDate>Fri, 20 Mar 2026 01:02:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>One year of developing my own operating system</title>
-      <link>https://mrunix.me/posts/one-year-osdev/</link>
-      <description>Writing an operating system from scratch is something I always wanted to do, and last year, I started working on MONOLITH, an operating system meant to make my dream true.</description>
-      <category>ai</category>
-      <guid>https://mrunix.me/posts/one-year-osdev/</guid>
-      <pubDate>Fri, 20 Mar 2026 01:02:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Thoughts on “The Machine Stops”</title>
-      <link>https://rznicolet.com/2026/03/19/thoughts-on-the-machine-stops/</link>
-      <description>I was recently reminded of “The Machine Stops”, the 1909 short story by E. M. Forster.  (It’s out of copyright, so it’s available on Project Gutenberg for free.  If you haven’t read it …</description>
-      <category>ai</category>
-      <guid>https://rznicolet.com/2026/03/19/thoughts-on-the-machine-stops/</guid>
-      <pubDate>Fri, 20 Mar 2026 01:02:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>Running WPA3-Enterprise in my home network – Sour Coffee Labs</title>
-      <link>https://sour.coffee/2026/03/16/running-wpa3-enterprise-in-my-home-network/</link>
-      <description>It’s no secret that by now, most home networks use WPA-Personal. Why? It’s a simple password. This included mine. Well, until today.</description>
-      <category>ai</category>
-      <guid>https://sour.coffee/2026/03/16/running-wpa3-enterprise-in-my-home-network/</guid>
-      <pubDate>Fri, 20 Mar 2026 01:02:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why Whisper Notes for Mac Left the App Store</title>
-      <link>https://whispernotes.app/blog/why-whisper-notes-left-mac-app-store</link>
-      <description>Apple now rejects Mac App Store updates that use Accessibility permission. Whisper Notes moved to DMG to keep system-wide Fn voice typing. Free license for App Store purchasers.</description>
-      <author> (Whisper Notes Team)</author>
-      <category>cloud</category>
-      <category>apple</category>
-      <guid>https://whispernotes.app/blog/why-whisper-notes-left-mac-app-store</guid>
-      <pubDate>Fri, 20 Mar 2026 01:02:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Talent is Not Rare - Tasshin</title>
-      <link>https://tasshin.com/blog/talent-is-not-rare/</link>
-      <description>What if we assumed everyone is talented? That everyone has some gift to give?</description>
-      <guid>https://tasshin.com/blog/talent-is-not-rare/</guid>
-      <pubDate>Fri, 20 Mar 2026 01:02:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Principled Agentic Software Development - Joe Gaebel</title>
-      <link>https://www.joegaebel.com/articles/principled-agentic-software-development/</link>
-      <description>Encoding engineering principles in AI workflows</description>
-      <category>ai</category>
-      <category>cloud</category>
-      <category>javascript</category>
-      <category>vscode</category>
-      <guid>https://www.joegaebel.com/articles/principled-agentic-software-development/</guid>
-      <pubDate>Fri, 20 Mar 2026 01:02:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Maybe version ranges are a good idea after all?</title>
-      <link>https://neilmadden.blog/2026/03/19/maybe-version-ranges-are-a-good-idea-after-all/</link>
-      <description>One of the most important lessons I’ve learned in security, is that it’s always better to push security problems back to the source as much as possible. For example, a small number of experts (hope…</description>
-      <category>encryption</category>
-      <guid>https://neilmadden.blog/2026/03/19/maybe-version-ranges-are-a-good-idea-after-all/</guid>
-      <pubDate>Fri, 20 Mar 2026 01:02:35 GMT</pubDate>
     </item>
   </channel>
 </rss>

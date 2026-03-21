@@ -1,5 +1,138 @@
 [
   {
+    "Title": "Stop leading with the affirmative condition",
+    "Url": "https://idealchorus.com/posts/stop-leading-with-the-affirmative-condition",
+    "Timestamp": "2026-03-21T01:03:58",
+    "Domain": "idealchorus.com",
+    "Description": "A personal blog about software development and other topics."
+  },
+  {
+    "Title": "Pull requests are dead, long live pull requests",
+    "Url": "https://gieseanw.wordpress.com/2026/03/20/pull-requests-are-dead-long-live-pull-requests/",
+    "Timestamp": "2026-03-21T01:03:55",
+    "Domain": "gieseanw.wordpress.com",
+    "Description": "These days when I’m reviewing a pull request it feels like I’m talking to an AI bot, because I am. When I ask questions like “Why did you decide to do it this way?” I usually get a response (from a…"
+  },
+  {
+    "Title": "My Own Personal Claws",
+    "Url": "https://www.bstjohn.net/blog/claws/",
+    "Timestamp": "2026-03-21T01:03:51",
+    "Domain": "www.bstjohn.net",
+    "Description": "I replaced OpenClaw with a custom automation system that refines GitHub issues, implements features, fixes CI, investigates production bugs, and turns voice notes into shipped code — all tailored for a single developer."
+  },
+  {
+    "Title": "Can we still make software that sparks joy?",
+    "Url": "https://joshondesign.com/2026/03/19/software-joy",
+    "Timestamp": "2026-03-21T01:03:47",
+    "Domain": "joshondesign.com",
+    "Description": "A diatribe in when I am greatly disappointed in my industry.\n"
+  },
+  {
+    "Title": "I Am a Software Mechanic",
+    "Url": "https://russell.ballestrini.net/i-am-a-software-mechanic/",
+    "Timestamp": "2026-03-21T01:03:44",
+    "Domain": "russell.ballestrini.net",
+    "Description": "That job title doesn't exist yet on any W-2. But it describes exactly what I do. You call me when a machine-generated tool breaks something real. A harvest lost. A contract mispriced. A greenhouse running dry. I show up. I read the spec. I find the gap between what someone …"
+  },
+  {
+    "Title": "Why your next mobile app is probably headless",
+    "Url": "https://tuananh.net/2026/03/18/why-your-next-mobile-app-is-probably-headless/",
+    "Timestamp": "2026-03-21T01:03:39",
+    "Domain": "tuananh.net",
+    "Description": "We used to click through to websites and open apps. More and more, a single assistant does the work in the background. Here is what that changes, and why it already happened with Google and Stack Overflow."
+  },
+  {
+    "Title": "Time To Dump Windows? - Dennis Forbes",
+    "Url": "https://dennisforbes.ca/blog/microblog/2026/02/time_to_dump_windows/",
+    "Timestamp": "2026-03-21T01:03:36",
+    "Domain": "dennisforbes.ca",
+    "Description": "The moment has arrived where I use literally zero facilities of Windows in my day to day work or life"
+  },
+  {
+    "Title": "What Agents Can't Replace",
+    "Url": "https://geoffstearns.com/blog/what-agents-cant-replace/",
+    "Timestamp": "2026-03-21T01:03:33",
+    "Domain": "geoffstearns.com",
+    "Description": "AI agents will hollow out the interaction layer of software, but they can't replace the coordination layer — the shared state, rules, and accountability that let organizations operate without stepping on themselves."
+  },
+  {
+    "Title": "Reverse Engineering Life and Reality",
+    "Url": "https://mimetra.com/blog/understanding-of-reality/",
+    "Timestamp": "2026-03-21T01:03:30",
+    "Domain": "mimetra.com",
+    "Description": "A Journey Beyond the Physical World"
+  },
+  {
+    "Title": "Using Claude Code to help me write",
+    "Url": "https://andrewpwheeler.com/2026/03/20/using-claude-code-to-help-me-write/",
+    "Timestamp": "2026-03-21T01:03:26",
+    "Domain": "andrewpwheeler.com",
+    "Description": "Using LLMs to help you write is understandably a touchy subject for many. There is quite a bit of AI slop coming out now, as it is really easy to just have the LLM tools think for you and write sup…"
+  },
+  {
+    "Title": "Claude Code as Career Coach",
+    "Url": "https://seanplusplus.github.io/2026/03/20/claude-code-as-career-coach/",
+    "Timestamp": "2026-03-21T01:03:22",
+    "Domain": "seanplusplus.github.io",
+    "Description": "Musings of a Software Engineer."
+  },
+  {
+    "Title": "The Age-Gated Internet: Child Safety, Identity Infrastructure, and the Not So Quiet Re-Architecting of the Web - Horkan",
+    "Url": "https://horkan.com/2026/03/20/the-age-gated-internet-child-safety-identity-infrastructure-and-the-not-so-quiet-re-architecting-of-the-web",
+    "Timestamp": "2026-03-21T01:03:18",
+    "Domain": "horkan.com",
+    "Description": "Governments around the world are introducing age-verification and youth social-media laws, but these policies may be doing far more than protecting children. They are quietly pushing identity into operating systems, app stores, and the core infrastructure of the internet, shifting governance down the stack and creating new enforcement chokepoints. Along the way, they reshape platform […]"
+  },
+  {
+    "Title": "Unified Modules For Your Nixfiles |  Jadarma's Blog",
+    "Url": "https://jadarma.github.io/blog/posts/2026/03/unified-modules-for-your-nixfiles/",
+    "Timestamp": "2026-03-21T01:03:11",
+    "Domain": "jadarma.github.io",
+    "Description": "How to write dotfile modules for NixOS, nix-darwin, and Home Manager, with an easy mental model and no external dependencies."
+  },
+  {
+    "Title": "Accumulated ignorance at scale",
+    "Url": "https://brianguthrie.com/p/accumulated-ignorance-at-scale/",
+    "Timestamp": "2026-03-21T01:03:08",
+    "Domain": "brianguthrie.com",
+    "Description": "What do we do about tech debt and code review in a world where AI both writes the code and reviews it?"
+  },
+  {
+    "Title": "My Problem with MCP",
+    "Url": "https://tomyandell.dev/blog/my-problem-with-mcp",
+    "Timestamp": "2026-03-21T01:03:04",
+    "Domain": "tomyandell.dev",
+    "Description": "Why MCP gets the abstraction wrong"
+  },
+  {
+    "Title": "Claude Code: Things I Learned After Using It Every Day",
+    "Url": "https://vinta.ws/code/claude-code-useful-plugins-skills-and-mcps.html",
+    "Timestamp": "2026-03-21T01:03:01",
+    "Domain": "vinta.ws",
+    "Description": "I've used Claude Code daily since it came out. These are the best practices, tools, and configuration patterns that I learned. Most of this applies to other coding agents (Codex, Gemini CLI) too."
+  },
+  {
+    "Title": "Why I Code",
+    "Url": "https://nisa.la/why-i-code/",
+    "Timestamp": "2026-03-21T01:02:54",
+    "Domain": "nisa.la",
+    "Description": "Listen, I love building cool and useful things as much as the next person. You can look at my GitHub if you want proof. Building interesting things is why I ..."
+  },
+  {
+    "Title": "My AI dev workflow - building the right thing",
+    "Url": "https://www.dev-log.me/my_ai_dev_workflow/",
+    "Timestamp": "2026-03-21T01:02:51",
+    "Domain": "www.dev-log.me",
+    "Description": "My personal workflow with coding agents, the hard work is not gone, it moved to writing the requirements."
+  },
+  {
+    "Title": "You have access to almost any book",
+    "Url": "https://brianschrader.com/archive/you-have-access-to-almost-any-book/",
+    "Timestamp": "2026-03-21T01:02:47",
+    "Domain": "brianschrader.com",
+    "Description": "I read a fair bit of non-fiction that spans a number of different genres. But the trouble with non-fiction is that it never answers a question without raising further questions. Non-fiction comes replete with footnotes: a ponzi-scheme for the curious mind."
+  },
+  {
     "Title": "OpenCode | The open source AI coding agent",
     "Url": "https://opencode.ai/",
     "Timestamp": "2026-03-21T00:02:08",

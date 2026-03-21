@@ -1,5 +1,157 @@
 [
   {
+    "Title": "Stop leading with the affirmative condition",
+    "Url": "https://idealchorus.com/posts/stop-leading-with-the-affirmative-condition",
+    "Timestamp": "2026-03-21T01:03:58",
+    "Domain": "idealchorus.com",
+    "Description": "A personal blog about software development and other topics.",
+    "Confidence": 0.9964712
+  },
+  {
+    "Title": "Pull requests are dead, long live pull requests",
+    "Url": "https://gieseanw.wordpress.com/2026/03/20/pull-requests-are-dead-long-live-pull-requests/",
+    "Timestamp": "2026-03-21T01:03:55",
+    "Domain": "gieseanw.wordpress.com",
+    "Description": "These days when I’m reviewing a pull request it feels like I’m talking to an AI bot, because I am. When I ask questions like “Why did you decide to do it this way?” I usually get a response (from a…",
+    "Confidence": 0.99711895
+  },
+  {
+    "Title": "My Own Personal Claws",
+    "Url": "https://www.bstjohn.net/blog/claws/",
+    "Timestamp": "2026-03-21T01:03:51",
+    "Domain": "www.bstjohn.net",
+    "Description": "I replaced OpenClaw with a custom automation system that refines GitHub issues, implements features, fixes CI, investigates production bugs, and turns voice notes into shipped code — all tailored for a single developer.",
+    "Confidence": 0.9858503
+  },
+  {
+    "Title": "Can we still make software that sparks joy?",
+    "Url": "https://joshondesign.com/2026/03/19/software-joy",
+    "Timestamp": "2026-03-21T01:03:47",
+    "Domain": "joshondesign.com",
+    "Description": "A diatribe in when I am greatly disappointed in my industry.\n",
+    "Confidence": 0.9877779
+  },
+  {
+    "Title": "I Am a Software Mechanic",
+    "Url": "https://russell.ballestrini.net/i-am-a-software-mechanic/",
+    "Timestamp": "2026-03-21T01:03:44",
+    "Domain": "russell.ballestrini.net",
+    "Description": "That job title doesn't exist yet on any W-2. But it describes exactly what I do. You call me when a machine-generated tool breaks something real. A harvest lost. A contract mispriced. A greenhouse running dry. I show up. I read the spec. I find the gap between what someone …",
+    "Confidence": 0.9492655
+  },
+  {
+    "Title": "Why your next mobile app is probably headless",
+    "Url": "https://tuananh.net/2026/03/18/why-your-next-mobile-app-is-probably-headless/",
+    "Timestamp": "2026-03-21T01:03:39",
+    "Domain": "tuananh.net",
+    "Description": "We used to click through to websites and open apps. More and more, a single assistant does the work in the background. Here is what that changes, and why it already happened with Google and Stack Overflow.",
+    "Confidence": 0.7468331
+  },
+  {
+    "Title": "Time To Dump Windows? - Dennis Forbes",
+    "Url": "https://dennisforbes.ca/blog/microblog/2026/02/time_to_dump_windows/",
+    "Timestamp": "2026-03-21T01:03:36",
+    "Domain": "dennisforbes.ca",
+    "Description": "The moment has arrived where I use literally zero facilities of Windows in my day to day work or life",
+    "Confidence": 0.97680706
+  },
+  {
+    "Title": "What Agents Can't Replace",
+    "Url": "https://geoffstearns.com/blog/what-agents-cant-replace/",
+    "Timestamp": "2026-03-21T01:03:33",
+    "Domain": "geoffstearns.com",
+    "Description": "AI agents will hollow out the interaction layer of software, but they can't replace the coordination layer — the shared state, rules, and accountability that let organizations operate without stepping on themselves.",
+    "Confidence": 0.9857251
+  },
+  {
+    "Title": "Reverse Engineering Life and Reality",
+    "Url": "https://mimetra.com/blog/understanding-of-reality/",
+    "Timestamp": "2026-03-21T01:03:30",
+    "Domain": "mimetra.com",
+    "Description": "A Journey Beyond the Physical World",
+    "Confidence": 0.8411968
+  },
+  {
+    "Title": "Using Claude Code to help me write",
+    "Url": "https://andrewpwheeler.com/2026/03/20/using-claude-code-to-help-me-write/",
+    "Timestamp": "2026-03-21T01:03:26",
+    "Domain": "andrewpwheeler.com",
+    "Description": "Using LLMs to help you write is understandably a touchy subject for many. There is quite a bit of AI slop coming out now, as it is really easy to just have the LLM tools think for you and write sup…",
+    "Confidence": 0.9976332
+  },
+  {
+    "Title": "Claude Code as Career Coach",
+    "Url": "https://seanplusplus.github.io/2026/03/20/claude-code-as-career-coach/",
+    "Timestamp": "2026-03-21T01:03:22",
+    "Domain": "seanplusplus.github.io",
+    "Description": "Musings of a Software Engineer.",
+    "Confidence": 0.97488075
+  },
+  {
+    "Title": "The Age-Gated Internet: Child Safety, Identity Infrastructure, and the Not So Quiet Re-Architecting of the Web - Horkan",
+    "Url": "https://horkan.com/2026/03/20/the-age-gated-internet-child-safety-identity-infrastructure-and-the-not-so-quiet-re-architecting-of-the-web",
+    "Timestamp": "2026-03-21T01:03:18",
+    "Domain": "horkan.com",
+    "Description": "Governments around the world are introducing age-verification and youth social-media laws, but these policies may be doing far more than protecting children. They are quietly pushing identity into operating systems, app stores, and the core infrastructure of the internet, shifting governance down the stack and creating new enforcement chokepoints. Along the way, they reshape platform […]",
+    "Confidence": 0.9898743
+  },
+  {
+    "Title": "Unified Modules For Your Nixfiles |  Jadarma's Blog",
+    "Url": "https://jadarma.github.io/blog/posts/2026/03/unified-modules-for-your-nixfiles/",
+    "Timestamp": "2026-03-21T01:03:11",
+    "Domain": "jadarma.github.io",
+    "Description": "How to write dotfile modules for NixOS, nix-darwin, and Home Manager, with an easy mental model and no external dependencies.",
+    "Confidence": 0.99555576
+  },
+  {
+    "Title": "Accumulated ignorance at scale",
+    "Url": "https://brianguthrie.com/p/accumulated-ignorance-at-scale/",
+    "Timestamp": "2026-03-21T01:03:08",
+    "Domain": "brianguthrie.com",
+    "Description": "What do we do about tech debt and code review in a world where AI both writes the code and reviews it?",
+    "Confidence": 0.9737197
+  },
+  {
+    "Title": "My Problem with MCP",
+    "Url": "https://tomyandell.dev/blog/my-problem-with-mcp",
+    "Timestamp": "2026-03-21T01:03:04",
+    "Domain": "tomyandell.dev",
+    "Description": "Why MCP gets the abstraction wrong",
+    "Confidence": 0.9971551
+  },
+  {
+    "Title": "Claude Code: Things I Learned After Using It Every Day",
+    "Url": "https://vinta.ws/code/claude-code-useful-plugins-skills-and-mcps.html",
+    "Timestamp": "2026-03-21T01:03:01",
+    "Domain": "vinta.ws",
+    "Description": "I've used Claude Code daily since it came out. These are the best practices, tools, and configuration patterns that I learned. Most of this applies to other coding agents (Codex, Gemini CLI) too.",
+    "Confidence": 0.9963096
+  },
+  {
+    "Title": "Why I Code",
+    "Url": "https://nisa.la/why-i-code/",
+    "Timestamp": "2026-03-21T01:02:54",
+    "Domain": "nisa.la",
+    "Description": "Listen, I love building cool and useful things as much as the next person. You can look at my GitHub if you want proof. Building interesting things is why I ...",
+    "Confidence": 0.99511683
+  },
+  {
+    "Title": "My AI dev workflow - building the right thing",
+    "Url": "https://www.dev-log.me/my_ai_dev_workflow/",
+    "Timestamp": "2026-03-21T01:02:51",
+    "Domain": "www.dev-log.me",
+    "Description": "My personal workflow with coding agents, the hard work is not gone, it moved to writing the requirements.",
+    "Confidence": 0.9939823
+  },
+  {
+    "Title": "You have access to almost any book",
+    "Url": "https://brianschrader.com/archive/you-have-access-to-almost-any-book/",
+    "Timestamp": "2026-03-21T01:02:47",
+    "Domain": "brianschrader.com",
+    "Description": "I read a fair bit of non-fiction that spans a number of different genres. But the trouble with non-fiction is that it never answers a question without raising further questions. Non-fiction comes replete with footnotes: a ponzi-scheme for the curious mind.",
+    "Confidence": 0.8946587
+  },
+  {
     "Title": "OpenCode | The open source AI coding agent",
     "Url": "https://opencode.ai/",
     "Timestamp": "2026-03-21T00:02:08",
@@ -78,197 +230,5 @@
     "Domain": "waymo.com",
     "Description": "We're voluntarily sharing our safety data to demonstrate how the Waymo Driver is making roads safer in the places we currently operate. See the stats.",
     "Confidence": 0.977551
-  },
-  {
-    "Title": "the quadratic problem nobody fixed | ian erik varatalu",
-    "Url": "https://iev.ee/blog/the-quadratic-problem-nobody-fixed/",
-    "Timestamp": "2026-03-20T01:03:59",
-    "Domain": "iev.ee",
-    "Description": "",
-    "Confidence": 0.97950864
-  },
-  {
-    "Title": "I Mass-Deleted My MCP Servers. Here's What I Use Instead.",
-    "Url": "https://joshowens.dev/mcps-are-dead/",
-    "Timestamp": "2026-03-20T01:03:55",
-    "Domain": "joshowens.dev",
-    "Description": "MCP servers burn your most valuable resource: context. I replaced mine with skills and CLI tools. Same capabilities, a fraction of the overhead.",
-    "Confidence": 0.99483234
-  },
-  {
-    "Title": "I HOPE YOU DON'T USE GENERATIVE AI | RUBY MORGAN VOIGT",
-    "Url": "https://rmv.fyi/notes/i-hope-you-don-t-use-generative-ai",
-    "Timestamp": "2026-03-20T01:03:51",
-    "Domain": "rmv.fyi",
-    "Description": "God forbid you want to convert an image. If you do, you have two broad choices. You can be blessed with the knowledge that your computer knows how to …",
-    "Confidence": 0.94432306
-  },
-  {
-    "Title": "Minecraft Source Code is Interesting! · KJ",
-    "Url": "https://www.karanjanthe.me/posts/minecraft-source/",
-    "Timestamp": "2026-03-20T01:03:47",
-    "Domain": "www.karanjanthe.me",
-    "Description": "A corner of the internet where I think in public.",
-    "Confidence": 0.99679786
-  },
-  {
-    "Title": "Capacity Is the Roadmap",
-    "Url": "https://yusufaytas.com/capacity-is-the-roadmap/",
-    "Timestamp": "2026-03-20T01:03:41",
-    "Domain": "yusufaytas.com",
-    "Description": "Most roadmap problems are capacity problems. Make investment buckets visible, budget interrupts, and force trade-offs into the open.",
-    "Confidence": 0.9574935
-  },
-  {
-    "Title": "How Orca Works: A High-Performance Crossword Filler",
-    "Url": "https://rainjacket.github.io/orca-solver/",
-    "Timestamp": "2026-03-20T01:03:37",
-    "Domain": "rainjacket.github.io",
-    "Description": "A deep dive into Orca's constraint-propagation crossword filler.",
-    "Confidence": 0.9737438
-  },
-  {
-    "Title": "How I Work With Parallel Agents",
-    "Url": "https://remy.duthu.org/2026/03/13/how-i-work-with-parallel-agents.html",
-    "Timestamp": "2026-03-20T01:03:34",
-    "Domain": "remy.duthu.org",
-    "Description": "How I run two Claude Code agents in parallel using git worktrees, plan mode, and custom hooks — and what changes downstream when agents do the bulk of the implementation.",
-    "Confidence": 0.99276835
-  },
-  {
-    "Title": "Breaking signals, breaking systems",
-    "Url": "https://guille.site/posts/breaking-signals/",
-    "Timestamp": "2026-03-20T01:03:30",
-    "Domain": "guille.site",
-    "Description": "Posted 2026-03-19",
-    "Confidence": 0.93423295
-  },
-  {
-    "Title": "my first patch to the linux kernel",
-    "Url": "https://pooladkhay.com/posts/first-kernel-patch/",
-    "Timestamp": "2026-03-20T01:03:27",
-    "Domain": "pooladkhay.com",
-    "Description": "<p>How a sign-extension bug in C made me pull my hair out for days but became my first patch to the Linux kernel!</p>",
-    "Confidence": 0.9935605
-  },
-  {
-    "Title": "Wayland set the Linux Desktop back by 10 years",
-    "Url": "https://omar.yt/posts/wayland-set-the-linux-desktop-back-by-10-years",
-    "Timestamp": "2026-03-20T01:03:24",
-    "Domain": "omar.yt",
-    "Description": "Wayland has been a broad misdirection and misallocation of time and developer resources at the expense of users. With more migration from other operating systems, the pressure to fix fundamental problems has become more prominent. After 17 years of development, now is a good time to reflect on some of the larger promises that have been made around the development of Wayland as a replacement for the X11 display protocol.",
-    "Confidence": 0.99547726
-  },
-  {
-    "Title": "A Copy-Paste Bug That Broke PSpice® AES-256 Encryption",
-    "Url": "https://jtsylve.blog/post/2026/03/18/PSpice-Encryption-Weakness",
-    "Timestamp": "2026-03-20T01:03:21",
-    "Domain": "jtsylve.blog",
-    "Description": "PSpice is a SPICE circuit simulator from Cadence Design Systems that encrypts proprietary semiconductor model files to protect vendor IP and prevent reuse in third-party SPICE simulators.  The encryption scheme is proprietary and undocumented.\n\n",
-    "Confidence": 0.99383086
-  },
-  {
-    "Title": "2026-03-18 I haven't thought about software patents in a long time",
-    "Url": "https://alexschroeder.ch/view/2026-03-18-software-patents",
-    "Timestamp": "2026-03-20T01:03:18",
-    "Domain": "alexschroeder.ch",
-    "Description": "At work I’m often considered to be the go-to person for questions of software licenses. The latest one was customers wanting to upload HEIC images into the software.",
-    "Confidence": 0.99446
-  },
-  {
-    "Title": "We're Writing Grammar Before the Language Exists",
-    "Url": "https://mvrckhckr.com/articles/were-writing-grammar-before-the-language-exists",
-    "Timestamp": "2026-03-20T01:03:14",
-    "Domain": "mvrckhckr.com",
-    "Description": "Six agent protocols in eighteen months, all designed by humans. But agents can think. The best coordination pattern might be one no human approves.",
-    "Confidence": 0.9613152
-  },
-  {
-    "Title": "Three Thoughts on Dark Code",
-    "Url": "https://blog.waleson.com/2026/03/three-thoughts-on-dark-code.html",
-    "Timestamp": "2026-03-20T01:03:11",
-    "Domain": "blog.waleson.com",
-    "Description": "A couple of weeks ago Dan Shapiro's blog post \" The 5 Levels\"  (about Agentic Engineering) did the rounds. He coined Level 5 the \"Dark Softw...",
-    "Confidence": 0.9596563
-  },
-  {
-    "Title": "Young Adults Are Not Very Happy - Probably Overthinking It",
-    "Url": "https://www.allendowney.com/blog/2026/03/19/young-adults-are-not-very-happy/",
-    "Timestamp": "2026-03-20T01:03:07",
-    "Domain": "www.allendowney.com",
-    "Description": "Since 1972, the General Social Survey has asked respondents: “Taken all together, how would you say things are these days—would you say that you are very happy, pretty happy, or not too happy?” The following figure shows how the responses have changed over time and between birth cohorts. Each line represents one birth year. People born in 1900 were 72 years old when the survey started; at that point, about 37% said they were very happy. In 1990, the last... Read More Read More",
-    "Confidence": 0.7690506
-  },
-  {
-    "Title": "Mac processor transitions – Something Something",
-    "Url": "https://colinmckellar.com/2026/03/12/mac-processor-transitions/",
-    "Timestamp": "2026-03-20T01:03:03",
-    "Domain": "colinmckellar.com",
-    "Description": "The latest episode of ATP included a discussion about MacOS 27 dropping support for Intel Macs and MacOS 28 (partially?) dropping support for running intel binaries. I have been curious about this, so did some Wikipedia diving and put this post together.",
-    "Confidence": 0.8451214
-  },
-  {
-    "Title": "Why I Don’t Drive",
-    "Url": "https://maxmautner.com/2026/03/17/why-i-do-not-drive.html",
-    "Timestamp": "2026-03-20T01:02:59",
-    "Domain": "maxmautner.com",
-    "Description": "A reflection on a car-free life-—the real tradeoffs, the barometer it provides for community equity, and why to travel slow.",
-    "Confidence": 0.7150339
-  },
-  {
-    "Title": "One year of developing my own operating system",
-    "Url": "https://mrunix.me/posts/one-year-osdev/",
-    "Timestamp": "2026-03-20T01:02:56",
-    "Domain": "mrunix.me",
-    "Description": "Writing an operating system from scratch is something I always wanted to do, and last year, I started working on MONOLITH, an operating system meant to make my dream true.",
-    "Confidence": 0.9666971
-  },
-  {
-    "Title": "Thoughts on “The Machine Stops”",
-    "Url": "https://rznicolet.com/2026/03/19/thoughts-on-the-machine-stops/",
-    "Timestamp": "2026-03-20T01:02:53",
-    "Domain": "rznicolet.com",
-    "Description": "I was recently reminded of “The Machine Stops”, the 1909 short story by E. M. Forster.  (It’s out of copyright, so it’s available on Project Gutenberg for free.  If you haven’t read it …",
-    "Confidence": 0.8217539
-  },
-  {
-    "Title": "Running WPA3-Enterprise in my home network – Sour Coffee Labs",
-    "Url": "https://sour.coffee/2026/03/16/running-wpa3-enterprise-in-my-home-network/",
-    "Timestamp": "2026-03-20T01:02:49",
-    "Domain": "sour.coffee",
-    "Description": "It’s no secret that by now, most home networks use WPA-Personal. Why? It’s a simple password. This included mine. Well, until today.",
-    "Confidence": 0.98920876
-  },
-  {
-    "Title": "Why Whisper Notes for Mac Left the App Store",
-    "Url": "https://whispernotes.app/blog/why-whisper-notes-left-mac-app-store",
-    "Timestamp": "2026-03-20T01:02:46",
-    "Domain": "whispernotes.app",
-    "Description": "Apple now rejects Mac App Store updates that use Accessibility permission. Whisper Notes moved to DMG to keep system-wide Fn voice typing. Free license for App Store purchasers.",
-    "Confidence": 0.9617849
-  },
-  {
-    "Title": "Talent is Not Rare - Tasshin",
-    "Url": "https://tasshin.com/blog/talent-is-not-rare/",
-    "Timestamp": "2026-03-20T01:02:42",
-    "Domain": "tasshin.com",
-    "Description": "What if we assumed everyone is talented? That everyone has some gift to give?",
-    "Confidence": 0.83098185
-  },
-  {
-    "Title": "Principled Agentic Software Development - Joe Gaebel",
-    "Url": "https://www.joegaebel.com/articles/principled-agentic-software-development/",
-    "Timestamp": "2026-03-20T01:02:38",
-    "Domain": "www.joegaebel.com",
-    "Description": "Encoding engineering principles in AI workflows",
-    "Confidence": 0.99478024
-  },
-  {
-    "Title": "Maybe version ranges are a good idea after all?",
-    "Url": "https://neilmadden.blog/2026/03/19/maybe-version-ranges-are-a-good-idea-after-all/",
-    "Timestamp": "2026-03-20T01:02:35",
-    "Domain": "neilmadden.blog",
-    "Description": "One of the most important lessons I’ve learned in security, is that it’s always better to push security problems back to the source as much as possible. For example, a small number of experts (hope…",
-    "Confidence": 0.9921376
   }
 ]
