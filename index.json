@@ -198,13 +198,5 @@
     "Domain": "blogs.windows.com",
     "Description": "Hello Windows Insiders,\n\nI want to speak to you directly, as an engineer who has spent his career building technology that people depend on every day. Windows touches more people's lives than almost any technology on Earth. Every day, we hear from th",
     "Confidence": 0.9594799
-  },
-  {
-    "Title": "Star Formation",
-    "Url": "https://xkcd.com/3222/",
-    "Timestamp": "2026-03-20T21:02:22",
-    "Domain": "xkcd.com",
-    "Description": "",
-    "Confidence": 0.98151064
   }
 ]
