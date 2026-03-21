@@ -214,13 +214,5 @@
     "Domain": "github.com",
     "Description": "Cockpit is a web-based graphical interface for servers. - cockpit-project/cockpit",
     "Confidence": 0.99192196
-  },
-  {
-    "Title": "Push events into a running session with channels - Claude Code Docs",
-    "Url": "https://code.claude.com/docs/en/channels",
-    "Timestamp": "2026-03-20T06:02:22",
-    "Domain": "code.claude.com",
-    "Description": "Use channels to push messages, alerts, and webhooks into your Claude Code session from an MCP server. Forward CI results, chat messages, and monitoring events so Claude can react while you're away.",
-    "Confidence": 0.99262756
   }
 ]
