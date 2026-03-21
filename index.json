@@ -222,13 +222,5 @@
     "Domain": "code.claude.com",
     "Description": "Use channels to push messages, alerts, and webhooks into your Claude Code session from an MCP server. Forward CI results, chat messages, and monitoring events so Claude can react while you're away.",
     "Confidence": 0.99262756
-  },
-  {
-    "Title": "Safety Impact",
-    "Url": "https://waymo.com/safety/impact/",
-    "Timestamp": "2026-03-20T04:02:20",
-    "Domain": "waymo.com",
-    "Description": "We're voluntarily sharing our safety data to demonstrate how the Waymo Driver is making roads safer in the places we currently operate. See the stats.",
-    "Confidence": 0.977551
   }
 ]
