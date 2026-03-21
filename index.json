@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Blocking the Internet Archive Won’t Stop AI, But It Will Erase the Web’s Historical Record",
+    "Url": "https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record",
+    "Timestamp": "2026-03-21T17:02:01",
+    "Domain": "www.eff.org",
+    "Description": "Imagine a newspaper publisher announcing it will no longer allow libraries to keep copies of its paper. That’s effectively what’s begun happening online in the last few months. The Internet Archive—the world’s largest digital library—has preserved newspapers since it went online in the mid-1990s....",
+    "Confidence": 0.9085991
+  },
+  {
     "Title": "GitHub - ghostty-org/ghostling: A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣",
     "Url": "https://github.com/ghostty-org/ghostling",
     "Timestamp": "2026-03-21T15:02:10",
