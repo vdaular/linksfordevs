@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>What if I stored data in my mouse</title>
+      <link>https://www.timwehrle.de/blog/what-if-i-stored-data-in-my-mouse/</link>
+      <description>Words from me as developer, student and human.</description>
+      <category>rust</category>
+      <guid>https://www.timwehrle.de/blog/what-if-i-stored-data-in-my-mouse/</guid>
+      <pubDate>Sat, 21 Mar 2026 23:02:07 GMT</pubDate>
+    </item>
+    <item>
       <title>Some Things Just Take Time</title>
       <link>https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/</link>
       <description>On friction, patience, and planting trees.</description>
@@ -231,18 +239,6 @@
       <category>git</category>
       <guid>https://opencode.ai/</guid>
       <pubDate>Sat, 21 Mar 2026 00:02:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Our commitment to Windows quality</title>
-      <link>https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/</link>
-      <description>Hello Windows Insiders,
-
-I want to speak to you directly, as an engineer who has spent his career building technology that people depend on every day. Windows touches more people's lives than almost any technology on Earth. Every day, we hear from th</description>
-      <category>linux</category>
-      <category>gaming</category>
-      <category>ai</category>
-      <guid>https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/</guid>
-      <pubDate>Fri, 20 Mar 2026 23:02:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
