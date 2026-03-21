@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Some Things Just Take Time</title>
+      <link>https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/</link>
+      <description>On friction, patience, and planting trees.</description>
+      <author> (Armin Ronacher)</author>
+      <category>ai</category>
+      <guid>https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/</guid>
+      <pubDate>Sat, 21 Mar 2026 20:01:57 GMT</pubDate>
+    </item>
+    <item>
       <title>Blocking the Internet Archive Won’t Stop AI, But It Will Erase the Web’s Historical Record</title>
       <link>https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record</link>
       <description>Imagine a newspaper publisher announcing it will no longer allow libraries to keep copies of its paper. That’s effectively what’s begun happening online in the last few months. The Internet Archive—the world’s largest digital library—has preserved newspapers since it went online in the mid-1990s....</description>
