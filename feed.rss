@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>OpenCode | The open source AI coding agent</title>
+      <link>https://opencode.ai/</link>
+      <description>OpenCode - The open source coding agent.</description>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://opencode.ai/</guid>
+      <pubDate>Sat, 21 Mar 2026 00:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>Our commitment to Windows quality</title>
       <link>https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/</link>
       <description>Hello Windows Insiders,
@@ -318,14 +327,6 @@ Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas
       <category>encryption</category>
       <guid>https://neilmadden.blog/2026/03/19/maybe-version-ranges-are-a-good-idea-after-all/</guid>
       <pubDate>Fri, 20 Mar 2026 01:02:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenTTD | News | An update on Steam</title>
-      <link>https://www.openttd.org/news/2026/03/19/steam-changes-update</link>
-      <description>An open source simulator based on the classic game Transport Tycoon Deluxe. It attempts to mimic the original game as closely as possible while extending it with new features.</description>
-      <category>gaming</category>
-      <guid>https://www.openttd.org/news/2026/03/19/steam-changes-update</guid>
-      <pubDate>Fri, 20 Mar 2026 00:02:05 GMT</pubDate>
     </item>
   </channel>
 </rss>

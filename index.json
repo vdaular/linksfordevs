@@ -1,5 +1,13 @@
 [
   {
+    "Title": "OpenCode | The open source AI coding agent",
+    "Url": "https://opencode.ai/",
+    "Timestamp": "2026-03-21T00:02:08",
+    "Domain": "opencode.ai",
+    "Description": "OpenCode - The open source coding agent.",
+    "Confidence": 0.9908255
+  },
+  {
     "Title": "Our commitment to Windows quality",
     "Url": "https://blogs.windows.com/windows-insider/2026/03/20/our-commitment-to-windows-quality/",
     "Timestamp": "2026-03-20T23:02:11",
@@ -262,13 +270,5 @@
     "Domain": "neilmadden.blog",
     "Description": "One of the most important lessons I’ve learned in security, is that it’s always better to push security problems back to the source as much as possible. For example, a small number of experts (hope…",
     "Confidence": 0.9921376
-  },
-  {
-    "Title": "OpenTTD | News | An update on Steam",
-    "Url": "https://www.openttd.org/news/2026/03/19/steam-changes-update",
-    "Timestamp": "2026-03-20T00:02:05",
-    "Domain": "www.openttd.org",
-    "Description": "An open source simulator based on the classic game Transport Tycoon Deluxe. It attempts to mimic the original game as closely as possible while extending it with new features.",
-    "Confidence": 0.8235276
   }
 ]
