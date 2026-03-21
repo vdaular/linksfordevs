@@ -235,46 +235,5 @@ I acknowledge in the video my pick is slightly subjective, and I also asked a nu
       <guid>https://www.jeffgeerling.com/blog/2026/best-laptop-apple-ever-made/</guid>
       <pubDate>Fri, 20 Mar 2026 15:01:32 GMT</pubDate>
     </item>
-    <item>
-      <title>Exploring Claude Code Hooks with the Coding Agent Explorer (.NET)</title>
-      <link>https://nestenius.se/ai/exploring-claude-code-hooks-with-the-coding-agent-explorer-net/</link>
-      <description>Ever wondered what Claude Code is actually doing while it works? Every file it reads, every command it runs, every permission it requests. Claude Code exposes all of this through a hook system that lets you intercept and observe each step. In this post, you’ll learn what hooks are, how to set them up, and […]</description>
-      <category>javascript</category>
-      <category>linux</category>
-      <category>ai</category>
-      <category>aspnet</category>
-      <category>cloud</category>
-      <guid>https://nestenius.se/ai/exploring-claude-code-hooks-with-the-coding-agent-explorer-net/</guid>
-      <pubDate>Fri, 20 Mar 2026 12:01:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>How AutoMapper Can Crash Your .NET Server</title>
-      <link>https://youtube.com/watch?v=FQdu5cyvb5k</link>
-      <description>Get every Dometrain 30% off with code HANDSON30: https://dometrain.com/courses/?ref=nick-chapsas&amp;promo=youtube&amp;coupon_code=HANDSON30
-
-Hello, everybody. I'm Nick, and in this video, I will talk about the new AutoMapper High Severity vulnerability that can crash your .NET server due to uncontrollable recursion. But is it really as big of an issue as it is being presented? 
-
-Don't forget to comment, like and subscribe :)
-
-Social Media:
-Follow me on GitHub: https://github.com/Elfocrash
-Follow me on Twitter: https://twitter.com/nickchapsas
-Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas
-
-#csharp #dotnet</description>
-      <author> (Nick Chapsas)</author>
-      <category>dotnet</category>
-      <category>youtube</category>
-      <guid>https://youtube.com/watch?v=FQdu5cyvb5k</guid>
-      <pubDate>Fri, 20 Mar 2026 12:01:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why Is Everyone Supposed to Die If Machines Can Think?</title>
-      <link>https://idiallo.com/blog/everyone-is-supposed-to-die-when-machines-can-think?src=feed</link>
-      <description>If you only listen to spokespersons for AI companies, you'll have a skewed view of how AI is actually being integrated into the workplace. You probably don't need to convince a developer to include it</description>
-      <category>ai</category>
-      <guid>https://idiallo.com/blog/everyone-is-supposed-to-die-when-machines-can-think?src=feed</guid>
-      <pubDate>Fri, 20 Mar 2026 12:01:32 GMT</pubDate>
-    </item>
   </channel>
 </rss>
