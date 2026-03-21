@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>A Japanese Glossary of Chopsticks Faux Pas</title>
+      <link>https://www.nippon.com/en/japan-data/h01362/</link>
+      <description>An overview of chopsticks gaffes that are best avoided when eating in Japan.</description>
+      <guid>https://www.nippon.com/en/japan-data/h01362/</guid>
+      <pubDate>Sat, 21 Mar 2026 09:01:59 GMT</pubDate>
+    </item>
+    <item>
       <title>Stop leading with the affirmative condition</title>
       <link>https://idealchorus.com/posts/stop-leading-with-the-affirmative-condition</link>
       <description>A personal blog about software development and other topics.</description>
@@ -268,14 +275,6 @@ Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas
       <category>ai</category>
       <guid>https://idiallo.com/blog/everyone-is-supposed-to-die-when-machines-can-think?src=feed</guid>
       <pubDate>Fri, 20 Mar 2026 12:01:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - cockpit-project/cockpit: Cockpit is a web-based graphical interface for servers.</title>
-      <link>https://github.com/cockpit-project/cockpit</link>
-      <description>Cockpit is a web-based graphical interface for servers. - cockpit-project/cockpit</description>
-      <category>linux</category>
-      <guid>https://github.com/cockpit-project/cockpit</guid>
-      <pubDate>Fri, 20 Mar 2026 09:02:02 GMT</pubDate>
     </item>
   </channel>
 </rss>

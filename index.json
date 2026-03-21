@@ -1,5 +1,13 @@
 [
   {
+    "Title": "A Japanese Glossary of Chopsticks Faux Pas",
+    "Url": "https://www.nippon.com/en/japan-data/h01362/",
+    "Timestamp": "2026-03-21T09:01:59",
+    "Domain": "www.nippon.com",
+    "Description": "An overview of chopsticks gaffes that are best avoided when eating in Japan.",
+    "Confidence": 0.9768591
+  },
+  {
     "Title": "Stop leading with the affirmative condition",
     "Url": "https://idealchorus.com/posts/stop-leading-with-the-affirmative-condition",
     "Timestamp": "2026-03-21T01:03:58",
@@ -206,13 +214,5 @@
     "Domain": "idiallo.com",
     "Description": "If you only listen to spokespersons for AI companies, you'll have a skewed view of how AI is actually being integrated into the workplace. You probably don't need to convince a developer to include it",
     "Confidence": 0.9366065
-  },
-  {
-    "Title": "GitHub - cockpit-project/cockpit: Cockpit is a web-based graphical interface for servers.",
-    "Url": "https://github.com/cockpit-project/cockpit",
-    "Timestamp": "2026-03-20T09:02:02",
-    "Domain": "github.com",
-    "Description": "Cockpit is a web-based graphical interface for servers. - cockpit-project/cockpit",
-    "Confidence": 0.99192196
   }
 ]
