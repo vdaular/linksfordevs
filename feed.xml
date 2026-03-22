@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>404 Deno CEO not found</title>
+      <link>https://dbushell.com/2026/03/20/denos-decline-and-layoffs/</link>
+      <description>The one where I mourn the best runtime and speculate idly</description>
+      <category>nodejs</category>
+      <category>typescript</category>
+      <category>ai</category>
+      <category>apple</category>
+      <category>javascript</category>
+      <guid>https://dbushell.com/2026/03/20/denos-decline-and-layoffs/</guid>
+      <pubDate>Sun, 22 Mar 2026 02:02:03 GMT</pubDate>
+    </item>
+    <item>
       <title>A simple and powerful neural network framework</title>
       <link>https://tinygrad.org/#tinybox</link>
       <description>We write and maintain tinygrad, the fastest growing neural
