@@ -196,13 +196,5 @@
       <guid>https://news.dyne.org/child-protection-is-not-access-control/</guid>
       <pubDate>Sun, 22 Mar 2026 00:02:08 GMT</pubDate>
     </item>
-    <item>
-      <title>What if I stored data in my mouse</title>
-      <link>https://www.timwehrle.de/blog/what-if-i-stored-data-in-my-mouse/</link>
-      <description>Words from me as developer, student and human.</description>
-      <category>rust</category>
-      <guid>https://www.timwehrle.de/blog/what-if-i-stored-data-in-my-mouse/</guid>
-      <pubDate>Sat, 21 Mar 2026 23:02:07 GMT</pubDate>
-    </item>
   </channel>
 </rss>

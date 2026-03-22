@@ -158,13 +158,5 @@
     "Domain": "news.dyne.org",
     "Description": "Age verification turns the open internet into a permission system and pushes control away from families, schools, and users.",
     "Confidence": 0.9774869
-  },
-  {
-    "Title": "What if I stored data in my mouse",
-    "Url": "https://www.timwehrle.de/blog/what-if-i-stored-data-in-my-mouse/",
-    "Timestamp": "2026-03-21T23:02:07",
-    "Domain": "www.timwehrle.de",
-    "Description": "Words from me as developer, student and human.",
-    "Confidence": 0.99438083
   }
 ]
