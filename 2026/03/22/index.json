@@ -1,5 +1,75 @@
 [
   {
+    "Title": "A simple and powerful neural network framework",
+    "Url": "https://tinygrad.org/#tinybox",
+    "Timestamp": "2026-03-22T01:03:07",
+    "Domain": "tinygrad.org",
+    "Description": "We write and maintain tinygrad, the fastest growing neural\n    network framework"
+  },
+  {
+    "Title": "Bun vs Node.js Performance: Why Your Event Loop Is the Real Bottleneck",
+    "Url": "https://howtocenterdiv.com/beyond-the-div/bun-is-fast-your-event-loop-is-not",
+    "Timestamp": "2026-03-22T01:03:04",
+    "Domain": "howtocenterdiv.com",
+    "Description": "Bun is faster than Node.js — but switching runtimes won't fix a saturated connection pool or a blocking Event Loop. This guide covers what Bun actually speeds up, why Promise.all kills your p99 latency, how JSC and V8 GC differ under load, and when migrating to Bun is actually worth it."
+  },
+  {
+    "Title": "Why craft-lovers are losing their craft",
+    "Url": "https://writings.hongminhee.org/2026/03/craft-alienation-llm/",
+    "Timestamp": "2026-03-22T01:02:56",
+    "Domain": "writings.hongminhee.org",
+    "Description": "Les Orchard made a quiet observation recently that I haven't been able to shake. Before LLM coding assistants arrived, the split between developers was…"
+  },
+  {
+    "Title": "america's biggest problem (it's not what you think)",
+    "Url": "https://czhou.bearblog.dev/americas-biggest-problem-its-not-what-you-think/",
+    "Timestamp": "2026-03-22T01:02:49",
+    "Domain": "czhou.bearblog.dev",
+    "Description": "I have lived in this country for right around 20 years. My family settled in the US due to its abundance of economic opportunity and its open mind. Just in m..."
+  },
+  {
+    "Title": "The Future of SaaS Is Agentic",
+    "Url": "https://akashyap.ai/the-future-of-saas-is-agentic/",
+    "Timestamp": "2026-03-22T01:02:46",
+    "Domain": "akashyap.ai",
+    "Description": "TL;DR: The future of SaaS is agentic, but agentic SaaS is not just a chatbot layered on top of APIs and a dashboard. Traditional SaaS was built for users to ..."
+  },
+  {
+    "Title": "9 Ways to Fail at Installing a Browser Extension — Daniel Walker",
+    "Url": "https://danbuilds.online/notes/9-ways-to-fail-at-installing-a-browser-extension/",
+    "Timestamp": "2026-03-22T01:02:43",
+    "Domain": "danbuilds.online",
+    "Description": "All I wanted was for an extension to auto-update. Two hours later, I'm impersonating an IT department."
+  },
+  {
+    "Title": "The Singularity is Coming",
+    "Url": "https://www.manhattanmetric.com/blog/2026/03/the-singularity-is-coming",
+    "Timestamp": "2026-03-22T01:02:40",
+    "Domain": "www.manhattanmetric.com",
+    "Description": "It is not uncommon for popular culture to pick up on a concept from science and twist it until it is nearly unrecognizable. The concept of the “technological singularity” is no exception. Still, when the singularity is talked about as “the machines taking over” or the point at which we all “upload our consciousness to the cloud”, we have strayed so far from the term’s original meaning that it is worth revisiting what the term was meant to convey."
+  },
+  {
+    "Title": "The Claude Dichotomy",
+    "Url": "https://jonathannen.com/the-claude-dichotomy/",
+    "Timestamp": "2026-03-22T01:02:35",
+    "Domain": "jonathannen.com",
+    "Description": "AI is creating a genuine dichotomy: teams drowning in AI-supercharged chaos, others are thriving. The difference is in the approach to transformation."
+  },
+  {
+    "Title": "Who's Writing the Spec?",
+    "Url": "https://dekodiert.de/en/articles/wer-spezifiziert",
+    "Timestamp": "2026-03-22T01:02:32",
+    "Domain": "dekodiert.de",
+    "Description": "Why the bottleneck of knowledge work isn't production but the ability to say what you want. On Taste, Specification, and Evaluation -- the three competencies that are suddenly scarce."
+  },
+  {
+    "Title": "Vibe Coding, QWERTY, and US Healthcare - or: The Future of Software Engineering?",
+    "Url": "https://panthema.net/2026/0318-Vibe-Coding-QWERTY-and-US-Healthcare/",
+    "Timestamp": "2026-03-22T01:02:26",
+    "Domain": "panthema.net",
+    "Description": "Why is changing existing code with AI so much harder than writing new code?"
+  },
+  {
     "Title": "Do Not Turn Child Protection Into Internet Access Control",
     "Url": "https://news.dyne.org/child-protection-is-not-access-control/",
     "Timestamp": "2026-03-22T00:02:08",

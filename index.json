@@ -1,5 +1,85 @@
 [
   {
+    "Title": "A simple and powerful neural network framework",
+    "Url": "https://tinygrad.org/#tinybox",
+    "Timestamp": "2026-03-22T01:03:07",
+    "Domain": "tinygrad.org",
+    "Description": "We write and maintain tinygrad, the fastest growing neural\n    network framework",
+    "Confidence": 0.9936378
+  },
+  {
+    "Title": "Bun vs Node.js Performance: Why Your Event Loop Is the Real Bottleneck",
+    "Url": "https://howtocenterdiv.com/beyond-the-div/bun-is-fast-your-event-loop-is-not",
+    "Timestamp": "2026-03-22T01:03:04",
+    "Domain": "howtocenterdiv.com",
+    "Description": "Bun is faster than Node.js — but switching runtimes won't fix a saturated connection pool or a blocking Event Loop. This guide covers what Bun actually speeds up, why Promise.all kills your p99 latency, how JSC and V8 GC differ under load, and when migrating to Bun is actually worth it.",
+    "Confidence": 0.99151313
+  },
+  {
+    "Title": "Why craft-lovers are losing their craft",
+    "Url": "https://writings.hongminhee.org/2026/03/craft-alienation-llm/",
+    "Timestamp": "2026-03-22T01:02:56",
+    "Domain": "writings.hongminhee.org",
+    "Description": "Les Orchard made a quiet observation recently that I haven't been able to shake. Before LLM coding assistants arrived, the split between developers was…",
+    "Confidence": 0.9284529
+  },
+  {
+    "Title": "america's biggest problem (it's not what you think)",
+    "Url": "https://czhou.bearblog.dev/americas-biggest-problem-its-not-what-you-think/",
+    "Timestamp": "2026-03-22T01:02:49",
+    "Domain": "czhou.bearblog.dev",
+    "Description": "I have lived in this country for right around 20 years. My family settled in the US due to its abundance of economic opportunity and its open mind. Just in m...",
+    "Confidence": 0.8819156
+  },
+  {
+    "Title": "The Future of SaaS Is Agentic",
+    "Url": "https://akashyap.ai/the-future-of-saas-is-agentic/",
+    "Timestamp": "2026-03-22T01:02:46",
+    "Domain": "akashyap.ai",
+    "Description": "TL;DR: The future of SaaS is agentic, but agentic SaaS is not just a chatbot layered on top of APIs and a dashboard. Traditional SaaS was built for users to ...",
+    "Confidence": 0.9935785
+  },
+  {
+    "Title": "9 Ways to Fail at Installing a Browser Extension — Daniel Walker",
+    "Url": "https://danbuilds.online/notes/9-ways-to-fail-at-installing-a-browser-extension/",
+    "Timestamp": "2026-03-22T01:02:43",
+    "Domain": "danbuilds.online",
+    "Description": "All I wanted was for an extension to auto-update. Two hours later, I'm impersonating an IT department.",
+    "Confidence": 0.985443
+  },
+  {
+    "Title": "The Singularity is Coming",
+    "Url": "https://www.manhattanmetric.com/blog/2026/03/the-singularity-is-coming",
+    "Timestamp": "2026-03-22T01:02:40",
+    "Domain": "www.manhattanmetric.com",
+    "Description": "It is not uncommon for popular culture to pick up on a concept from science and twist it until it is nearly unrecognizable. The concept of the “technological singularity” is no exception. Still, when the singularity is talked about as “the machines taking over” or the point at which we all “upload our consciousness to the cloud”, we have strayed so far from the term’s original meaning that it is worth revisiting what the term was meant to convey.",
+    "Confidence": 0.81385493
+  },
+  {
+    "Title": "The Claude Dichotomy",
+    "Url": "https://jonathannen.com/the-claude-dichotomy/",
+    "Timestamp": "2026-03-22T01:02:35",
+    "Domain": "jonathannen.com",
+    "Description": "AI is creating a genuine dichotomy: teams drowning in AI-supercharged chaos, others are thriving. The difference is in the approach to transformation.",
+    "Confidence": 0.88788694
+  },
+  {
+    "Title": "Who's Writing the Spec?",
+    "Url": "https://dekodiert.de/en/articles/wer-spezifiziert",
+    "Timestamp": "2026-03-22T01:02:32",
+    "Domain": "dekodiert.de",
+    "Description": "Why the bottleneck of knowledge work isn't production but the ability to say what you want. On Taste, Specification, and Evaluation -- the three competencies that are suddenly scarce.",
+    "Confidence": 0.9883759
+  },
+  {
+    "Title": "Vibe Coding, QWERTY, and US Healthcare - or: The Future of Software Engineering?",
+    "Url": "https://panthema.net/2026/0318-Vibe-Coding-QWERTY-and-US-Healthcare/",
+    "Timestamp": "2026-03-22T01:02:26",
+    "Domain": "panthema.net",
+    "Description": "Why is changing existing code with AI so much harder than writing new code?",
+    "Confidence": 0.98868436
+  },
+  {
     "Title": "Do Not Turn Child Protection Into Internet Access Control",
     "Url": "https://news.dyne.org/child-protection-is-not-access-control/",
     "Timestamp": "2026-03-22T00:02:08",
@@ -46,157 +126,5 @@
     "Domain": "www.nippon.com",
     "Description": "An overview of chopsticks gaffes that are best avoided when eating in Japan.",
     "Confidence": 0.9768591
-  },
-  {
-    "Title": "Stop leading with the affirmative condition",
-    "Url": "https://idealchorus.com/posts/stop-leading-with-the-affirmative-condition",
-    "Timestamp": "2026-03-21T01:03:58",
-    "Domain": "idealchorus.com",
-    "Description": "A personal blog about software development and other topics.",
-    "Confidence": 0.9964712
-  },
-  {
-    "Title": "Pull requests are dead, long live pull requests",
-    "Url": "https://gieseanw.wordpress.com/2026/03/20/pull-requests-are-dead-long-live-pull-requests/",
-    "Timestamp": "2026-03-21T01:03:55",
-    "Domain": "gieseanw.wordpress.com",
-    "Description": "These days when I’m reviewing a pull request it feels like I’m talking to an AI bot, because I am. When I ask questions like “Why did you decide to do it this way?” I usually get a response (from a…",
-    "Confidence": 0.99711895
-  },
-  {
-    "Title": "My Own Personal Claws",
-    "Url": "https://www.bstjohn.net/blog/claws/",
-    "Timestamp": "2026-03-21T01:03:51",
-    "Domain": "www.bstjohn.net",
-    "Description": "I replaced OpenClaw with a custom automation system that refines GitHub issues, implements features, fixes CI, investigates production bugs, and turns voice notes into shipped code — all tailored for a single developer.",
-    "Confidence": 0.9858503
-  },
-  {
-    "Title": "Can we still make software that sparks joy?",
-    "Url": "https://joshondesign.com/2026/03/19/software-joy",
-    "Timestamp": "2026-03-21T01:03:47",
-    "Domain": "joshondesign.com",
-    "Description": "A diatribe in when I am greatly disappointed in my industry.\n",
-    "Confidence": 0.9877779
-  },
-  {
-    "Title": "I Am a Software Mechanic",
-    "Url": "https://russell.ballestrini.net/i-am-a-software-mechanic/",
-    "Timestamp": "2026-03-21T01:03:44",
-    "Domain": "russell.ballestrini.net",
-    "Description": "That job title doesn't exist yet on any W-2. But it describes exactly what I do. You call me when a machine-generated tool breaks something real. A harvest lost. A contract mispriced. A greenhouse running dry. I show up. I read the spec. I find the gap between what someone …",
-    "Confidence": 0.9492655
-  },
-  {
-    "Title": "Why your next mobile app is probably headless",
-    "Url": "https://tuananh.net/2026/03/18/why-your-next-mobile-app-is-probably-headless/",
-    "Timestamp": "2026-03-21T01:03:39",
-    "Domain": "tuananh.net",
-    "Description": "We used to click through to websites and open apps. More and more, a single assistant does the work in the background. Here is what that changes, and why it already happened with Google and Stack Overflow.",
-    "Confidence": 0.7468331
-  },
-  {
-    "Title": "Time To Dump Windows? - Dennis Forbes",
-    "Url": "https://dennisforbes.ca/blog/microblog/2026/02/time_to_dump_windows/",
-    "Timestamp": "2026-03-21T01:03:36",
-    "Domain": "dennisforbes.ca",
-    "Description": "The moment has arrived where I use literally zero facilities of Windows in my day to day work or life",
-    "Confidence": 0.97680706
-  },
-  {
-    "Title": "What Agents Can't Replace",
-    "Url": "https://geoffstearns.com/blog/what-agents-cant-replace/",
-    "Timestamp": "2026-03-21T01:03:33",
-    "Domain": "geoffstearns.com",
-    "Description": "AI agents will hollow out the interaction layer of software, but they can't replace the coordination layer — the shared state, rules, and accountability that let organizations operate without stepping on themselves.",
-    "Confidence": 0.9857251
-  },
-  {
-    "Title": "Reverse Engineering Life and Reality",
-    "Url": "https://mimetra.com/blog/understanding-of-reality/",
-    "Timestamp": "2026-03-21T01:03:30",
-    "Domain": "mimetra.com",
-    "Description": "A Journey Beyond the Physical World",
-    "Confidence": 0.8411968
-  },
-  {
-    "Title": "Using Claude Code to help me write",
-    "Url": "https://andrewpwheeler.com/2026/03/20/using-claude-code-to-help-me-write/",
-    "Timestamp": "2026-03-21T01:03:26",
-    "Domain": "andrewpwheeler.com",
-    "Description": "Using LLMs to help you write is understandably a touchy subject for many. There is quite a bit of AI slop coming out now, as it is really easy to just have the LLM tools think for you and write sup…",
-    "Confidence": 0.9976332
-  },
-  {
-    "Title": "Claude Code as Career Coach",
-    "Url": "https://seanplusplus.github.io/2026/03/20/claude-code-as-career-coach/",
-    "Timestamp": "2026-03-21T01:03:22",
-    "Domain": "seanplusplus.github.io",
-    "Description": "Musings of a Software Engineer.",
-    "Confidence": 0.97488075
-  },
-  {
-    "Title": "The Age-Gated Internet: Child Safety, Identity Infrastructure, and the Not So Quiet Re-Architecting of the Web - Horkan",
-    "Url": "https://horkan.com/2026/03/20/the-age-gated-internet-child-safety-identity-infrastructure-and-the-not-so-quiet-re-architecting-of-the-web",
-    "Timestamp": "2026-03-21T01:03:18",
-    "Domain": "horkan.com",
-    "Description": "Governments around the world are introducing age-verification and youth social-media laws, but these policies may be doing far more than protecting children. They are quietly pushing identity into operating systems, app stores, and the core infrastructure of the internet, shifting governance down the stack and creating new enforcement chokepoints. Along the way, they reshape platform […]",
-    "Confidence": 0.9898743
-  },
-  {
-    "Title": "Unified Modules For Your Nixfiles |  Jadarma's Blog",
-    "Url": "https://jadarma.github.io/blog/posts/2026/03/unified-modules-for-your-nixfiles/",
-    "Timestamp": "2026-03-21T01:03:11",
-    "Domain": "jadarma.github.io",
-    "Description": "How to write dotfile modules for NixOS, nix-darwin, and Home Manager, with an easy mental model and no external dependencies.",
-    "Confidence": 0.99555576
-  },
-  {
-    "Title": "Accumulated ignorance at scale",
-    "Url": "https://brianguthrie.com/p/accumulated-ignorance-at-scale/",
-    "Timestamp": "2026-03-21T01:03:08",
-    "Domain": "brianguthrie.com",
-    "Description": "What do we do about tech debt and code review in a world where AI both writes the code and reviews it?",
-    "Confidence": 0.9737197
-  },
-  {
-    "Title": "My Problem with MCP",
-    "Url": "https://tomyandell.dev/blog/my-problem-with-mcp",
-    "Timestamp": "2026-03-21T01:03:04",
-    "Domain": "tomyandell.dev",
-    "Description": "Why MCP gets the abstraction wrong",
-    "Confidence": 0.9971551
-  },
-  {
-    "Title": "Claude Code: Things I Learned After Using It Every Day",
-    "Url": "https://vinta.ws/code/claude-code-useful-plugins-skills-and-mcps.html",
-    "Timestamp": "2026-03-21T01:03:01",
-    "Domain": "vinta.ws",
-    "Description": "I've used Claude Code daily since it came out. These are the best practices, tools, and configuration patterns that I learned. Most of this applies to other coding agents (Codex, Gemini CLI) too.",
-    "Confidence": 0.9963096
-  },
-  {
-    "Title": "Why I Code",
-    "Url": "https://nisa.la/why-i-code/",
-    "Timestamp": "2026-03-21T01:02:54",
-    "Domain": "nisa.la",
-    "Description": "Listen, I love building cool and useful things as much as the next person. You can look at my GitHub if you want proof. Building interesting things is why I ...",
-    "Confidence": 0.99511683
-  },
-  {
-    "Title": "My AI dev workflow - building the right thing",
-    "Url": "https://www.dev-log.me/my_ai_dev_workflow/",
-    "Timestamp": "2026-03-21T01:02:51",
-    "Domain": "www.dev-log.me",
-    "Description": "My personal workflow with coding agents, the hard work is not gone, it moved to writing the requirements.",
-    "Confidence": 0.9939823
-  },
-  {
-    "Title": "You have access to almost any book",
-    "Url": "https://brianschrader.com/archive/you-have-access-to-almost-any-book/",
-    "Timestamp": "2026-03-21T01:02:47",
-    "Domain": "brianschrader.com",
-    "Description": "I read a fair bit of non-fiction that spans a number of different genres. But the trouble with non-fiction is that it never answers a question without raising further questions. Non-fiction comes replete with footnotes: a ponzi-scheme for the curious mind.",
-    "Confidence": 0.8946587
   }
 ]
