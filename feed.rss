@@ -7,6 +7,31 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>GitHub - danveloper/flash-moe: Running a big model on a small laptop</title>
+      <link>https://github.com/danveloper/flash-moe</link>
+      <description>Running a big model on a small laptop. Contribute to danveloper/flash-moe development by creating an account on GitHub.</description>
+      <category>cloud</category>
+      <category>javascript</category>
+      <category>python</category>
+      <category>vscode</category>
+      <category>ai</category>
+      <guid>https://github.com/danveloper/flash-moe</guid>
+      <pubDate>Sun, 22 Mar 2026 21:02:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Windows Native App Development Is a Mess</title>
+      <link>https://domenic.me/windows-native-dev/</link>
+      <description>I tried to build a Windows native app using Microsoft's latest technologies. Now I understand why everyone builds Electron apps.</description>
+      <author> (Domenic Denicola)</author>
+      <category>dotnet</category>
+      <category>ai</category>
+      <category>visualstudio</category>
+      <category>rust</category>
+      <category>git</category>
+      <guid>https://domenic.me/windows-native-dev/</guid>
+      <pubDate>Sun, 22 Mar 2026 21:02:07 GMT</pubDate>
+    </item>
+    <item>
       <title>Project NOMAD - Knowledge That Never Goes Offline</title>
       <link>https://www.projectnomad.us/</link>
       <description>A self-contained offline server packed with encyclopedic knowledge, local AI, and essential tools — ready when the internet isn't.</description>
