@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Hormuz Minesweeper</title>
+      <link>https://hormuz.pythonic.ninja/</link>
+      <description>Classic Minesweeper laid across the Strait of Hormuz. Clear the water, flag the mines, and survive the shipping lane.</description>
+      <guid>https://hormuz.pythonic.ninja/</guid>
+      <pubDate>Sun, 22 Mar 2026 13:02:06 GMT</pubDate>
+    </item>
+    <item>
       <title>Tooscut - Video Editor</title>
       <link>https://tooscut.app/</link>
       <description>A powerful NLE editor with GPU compositing, keyframe animation, and real-time preview. No installs required.</description>
