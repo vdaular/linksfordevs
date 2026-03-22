@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Project NOMAD - Knowledge That Never Goes Offline</title>
+      <link>https://www.projectnomad.us/</link>
+      <description>A self-contained offline server packed with encyclopedic knowledge, local AI, and essential tools — ready when the internet isn't.</description>
+      <category>containers</category>
+      <category>ai</category>
+      <category>nodejs</category>
+      <category>linux</category>
+      <guid>https://www.projectnomad.us/</guid>
+      <pubDate>Sun, 22 Mar 2026 20:02:04 GMT</pubDate>
+    </item>
+    <item>
       <title>Delve - Fake Compliance as a Service - Part I</title>
       <link>https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service</link>
       <description>How Delve managed to falsely convince hundreds of customers they were compliant and then lied about it when exposed and called out</description>
@@ -167,15 +178,6 @@
       <category>rust</category>
       <guid>https://www.timwehrle.de/blog/what-if-i-stored-data-in-my-mouse/</guid>
       <pubDate>Sat, 21 Mar 2026 23:02:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Some Things Just Take Time</title>
-      <link>https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/</link>
-      <description>On friction, patience, and planting trees.</description>
-      <author> (Armin Ronacher)</author>
-      <category>ai</category>
-      <guid>https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/</guid>
-      <pubDate>Sat, 21 Mar 2026 20:01:57 GMT</pubDate>
     </item>
   </channel>
 </rss>

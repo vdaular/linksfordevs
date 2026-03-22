@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Project NOMAD - Knowledge That Never Goes Offline",
+    "Url": "https://www.projectnomad.us/",
+    "Timestamp": "2026-03-22T20:02:04",
+    "Domain": "www.projectnomad.us",
+    "Description": "A self-contained offline server packed with encyclopedic knowledge, local AI, and essential tools — ready when the internet isn't.",
+    "Confidence": 0.97615016
+  },
+  {
     "Title": "Delve - Fake Compliance as a Service - Part I",
     "Url": "https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service",
     "Timestamp": "2026-03-22T18:02:14",
@@ -142,13 +150,5 @@
     "Domain": "www.timwehrle.de",
     "Description": "Words from me as developer, student and human.",
     "Confidence": 0.99438083
-  },
-  {
-    "Title": "Some Things Just Take Time",
-    "Url": "https://lucumr.pocoo.org/2026/3/20/some-things-just-take-time/",
-    "Timestamp": "2026-03-21T20:01:57",
-    "Domain": "lucumr.pocoo.org",
-    "Description": "On friction, patience, and planting trees.",
-    "Confidence": 0.95198154
   }
 ]
