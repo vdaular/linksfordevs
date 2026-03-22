@@ -7,6 +7,25 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Tooscut - Video Editor</title>
+      <link>https://tooscut.app/</link>
+      <description>A powerful NLE editor with GPU compositing, keyframe animation, and real-time preview. No installs required.</description>
+      <category>rust</category>
+      <guid>https://tooscut.app/</guid>
+      <pubDate>Sun, 22 Mar 2026 10:02:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Three Pillars of JavaScript Bloat</title>
+      <link>https://43081j.com/2026/03/three-pillars-of-javascript-bloat</link>
+      <description>A brief look at the three main causes of bloat in our JavaScript dependency trees, and how we can start to address them.</description>
+      <category>nodejs</category>
+      <category>cloud</category>
+      <category>javascript</category>
+      <category>containers</category>
+      <guid>https://43081j.com/2026/03/three-pillars-of-javascript-bloat</guid>
+      <pubDate>Sun, 22 Mar 2026 10:02:12 GMT</pubDate>
+    </item>
+    <item>
       <title>404 Deno CEO not found</title>
       <link>https://dbushell.com/2026/03/20/denos-decline-and-layoffs/</link>
       <description>The one where I mourn the best runtime and speculate idly</description>

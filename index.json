@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Tooscut - Video Editor",
+    "Url": "https://tooscut.app/",
+    "Timestamp": "2026-03-22T10:02:16",
+    "Domain": "tooscut.app",
+    "Description": "A powerful NLE editor with GPU compositing, keyframe animation, and real-time preview. No installs required.",
+    "Confidence": 0.8678504
+  },
+  {
+    "Title": "The Three Pillars of JavaScript Bloat",
+    "Url": "https://43081j.com/2026/03/three-pillars-of-javascript-bloat",
+    "Timestamp": "2026-03-22T10:02:12",
+    "Domain": "43081j.com",
+    "Description": "A brief look at the three main causes of bloat in our JavaScript dependency trees, and how we can start to address them.",
+    "Confidence": 0.9971601
+  },
+  {
     "Title": "404 Deno CEO not found",
     "Url": "https://dbushell.com/2026/03/20/denos-decline-and-layoffs/",
     "Timestamp": "2026-03-22T02:02:03",
