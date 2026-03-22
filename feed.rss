@@ -169,13 +169,5 @@
       <guid>https://www.eff.org/deeplinks/2026/03/blocking-internet-archive-wont-stop-ai-it-will-erase-webs-historical-record</guid>
       <pubDate>Sat, 21 Mar 2026 17:02:01 GMT</pubDate>
     </item>
-    <item>
-      <title>GitHub - ghostty-org/ghostling: A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣</title>
-      <link>https://github.com/ghostty-org/ghostling</link>
-      <description>A minimum viable terminal emulator built on top of the libghostty C API. Ex minimo, infinita nascuntur. 👻🐣 - ghostty-org/ghostling</description>
-      <category>rust</category>
-      <guid>https://github.com/ghostty-org/ghostling</guid>
-      <pubDate>Sat, 21 Mar 2026 15:02:10 GMT</pubDate>
-    </item>
   </channel>
 </rss>
