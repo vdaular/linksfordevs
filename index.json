@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Do Not Turn Child Protection Into Internet Access Control",
+    "Url": "https://news.dyne.org/child-protection-is-not-access-control/",
+    "Timestamp": "2026-03-22T00:02:08",
+    "Domain": "news.dyne.org",
+    "Description": "Age verification turns the open internet into a permission system and pushes control away from families, schools, and users.",
+    "Confidence": 0.9774869
+  },
+  {
     "Title": "What if I stored data in my mouse",
     "Url": "https://www.timwehrle.de/blog/what-if-i-stored-data-in-my-mouse/",
     "Timestamp": "2026-03-21T23:02:07",
@@ -190,13 +198,5 @@
     "Domain": "brianschrader.com",
     "Description": "I read a fair bit of non-fiction that spans a number of different genres. But the trouble with non-fiction is that it never answers a question without raising further questions. Non-fiction comes replete with footnotes: a ponzi-scheme for the curious mind.",
     "Confidence": 0.8946587
-  },
-  {
-    "Title": "OpenCode | The open source AI coding agent",
-    "Url": "https://opencode.ai/",
-    "Timestamp": "2026-03-21T00:02:08",
-    "Domain": "opencode.ai",
-    "Description": "OpenCode - The open source coding agent.",
-    "Confidence": 0.9908255
   }
 ]

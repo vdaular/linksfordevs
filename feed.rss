@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Do Not Turn Child Protection Into Internet Access Control</title>
+      <link>https://news.dyne.org/child-protection-is-not-access-control/</link>
+      <description>Age verification turns the open internet into a permission system and pushes control away from families, schools, and users.</description>
+      <category>gaming</category>
+      <category>linux</category>
+      <guid>https://news.dyne.org/child-protection-is-not-access-control/</guid>
+      <pubDate>Sun, 22 Mar 2026 00:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>What if I stored data in my mouse</title>
       <link>https://www.timwehrle.de/blog/what-if-i-stored-data-in-my-mouse/</link>
       <description>Words from me as developer, student and human.</description>
@@ -230,15 +239,6 @@
       <description>I read a fair bit of non-fiction that spans a number of different genres. But the trouble with non-fiction is that it never answers a question without raising further questions. Non-fiction comes replete with footnotes: a ponzi-scheme for the curious mind.</description>
       <guid>https://brianschrader.com/archive/you-have-access-to-almost-any-book/</guid>
       <pubDate>Sat, 21 Mar 2026 01:02:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenCode | The open source AI coding agent</title>
-      <link>https://opencode.ai/</link>
-      <description>OpenCode - The open source coding agent.</description>
-      <category>ai</category>
-      <category>git</category>
-      <guid>https://opencode.ai/</guid>
-      <pubDate>Sat, 21 Mar 2026 00:02:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
