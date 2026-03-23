@@ -198,13 +198,5 @@
     "Domain": "43081j.com",
     "Description": "A brief look at the three main causes of bloat in our JavaScript dependency trees, and how we can start to address them.",
     "Confidence": 0.9971601
-  },
-  {
-    "Title": "404 Deno CEO not found",
-    "Url": "https://dbushell.com/2026/03/20/denos-decline-and-layoffs/",
-    "Timestamp": "2026-03-22T02:02:03",
-    "Domain": "dbushell.com",
-    "Description": "The one where I mourn the best runtime and speculate idly",
-    "Confidence": 0.84681714
   }
 ]
