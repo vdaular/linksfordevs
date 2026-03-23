@@ -7,6 +7,158 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Coding as a Game of Probabilities</title>
+      <link>https://robertmaple.co.uk/coding-as-a-game-of-probabilities/</link>
+      <description>Thinking about coding with AI as a process of navigating a tree of probabilistic outcomes.</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://robertmaple.co.uk/coding-as-a-game-of-probabilities/</guid>
+      <pubDate>Mon, 23 Mar 2026 01:03:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why Email Spam Looks Better Than Usual These Days
+    </title>
+      <link>https://tedium.co/2026/02/25/vibe-coded-email-spam/</link>
+      <description>The problem with making coding easier for more people is that it makes spam more conventionally attractive. Which is bad.
+    </description>
+      <category>ai</category>
+      <category>linux</category>
+      <category>gaming</category>
+      <guid>https://tedium.co/2026/02/25/vibe-coded-email-spam/</guid>
+      <pubDate>Mon, 23 Mar 2026 01:03:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>I Was Excited to See Someone Else Build a /do Router</title>
+      <link>https://vexjoy.com/posts/i-was-excited-to-see-someone-else-build-a-do-router/</link>
+      <description>Nine months of building in public with limited traction. Then someone posted a system with the same architecture and I felt something I wasn’t expecting.</description>
+      <category>ai</category>
+      <guid>https://vexjoy.com/posts/i-was-excited-to-see-someone-else-build-a-do-router/</guid>
+      <pubDate>Mon, 23 Mar 2026 01:03:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Tokenizer and the Brain — Yap.Town</title>
+      <link>https://yap.town/blog/unexpected-application-of-ml-theory-to-language-learning/</link>
+      <description>Applying the Unigram tokenization algorithm to language learning to surprising benefit</description>
+      <category>ai</category>
+      <category>rust</category>
+      <guid>https://yap.town/blog/unexpected-application-of-ml-theory-to-language-learning/</guid>
+      <pubDate>Mon, 23 Mar 2026 01:03:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anne Labs — Building Trusted AI Agents</title>
+      <link>https://anne.lat/blog/kv-cache-compress</link>
+      <description>Secure infrastructure for enterprise AI agents — orchestration, control, and observability for production workflows.</description>
+      <category>ai</category>
+      <guid>https://anne.lat/blog/kv-cache-compress</guid>
+      <pubDate>Mon, 23 Mar 2026 01:02:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Writer's Block meet OpenClaw</title>
+      <link>https://foxish.me/posts/writers-block-meet-openclaw/</link>
+      <description>Writer’s block was my biggest hurdle. Ideas pile up in Todoist and voice memos, but the gap between thought and publish felt impossibly wide.
+That’s changed with OpenClaw. I can record a voice message on my phone, and it appears as a published preview URL in seconds. For the first time, I actually feel optimistic about writing regularly.
+The Setup Hardware: Chromebook at home running OpenClaw via Crostini. Always on, never touched.</description>
+      <category>apple</category>
+      <category>git</category>
+      <guid>https://foxish.me/posts/writers-block-meet-openclaw/</guid>
+      <pubDate>Mon, 23 Mar 2026 01:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to Not Get Hacked Through File Uploads</title>
+      <link>https://www.eliranturgeman.com/2026/03/14/uploads-attack-surface/</link>
+      <description>How attackers exploit file uploads through parser vulnerabilities, stored XSS, path traversal, and zip bombs, with practical defenses and code examples for each.</description>
+      <author> (Eliran Turgeman)</author>
+      <category>nodejs</category>
+      <category>ruby</category>
+      <category>javascript</category>
+      <category>web</category>
+      <category>python</category>
+      <guid>https://www.eliranturgeman.com/2026/03/14/uploads-attack-surface/</guid>
+      <pubDate>Mon, 23 Mar 2026 01:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>The biggest theft in human history occurred in broad daylight. - Lucian’s Labyrinth</title>
+      <link>https://labyrinth.pika.page/posts/the-biggest-theft-in-human-history-occurred-in-broad-daylight</link>
+      <description>In complex societies like ours, theft typically follows a formal process: investigation, apprehension, prosecution, punishment (sometimes) and compensation (sometimes) for the victims. I like to invite you on a brief...</description>
+      <category>ai</category>
+      <guid>https://labyrinth.pika.page/posts/the-biggest-theft-in-human-history-occurred-in-broad-daylight</guid>
+      <pubDate>Mon, 23 Mar 2026 01:02:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Tale of My Retrocomputing Infrastructure</title>
+      <link>https://plbrault.com/blog-posts/the-tale-of-my-retrocomputing-infrastructure/</link>
+      <description>My Mastodon bio reads as follows: Computer science teacher and former software developer. Free software, self-hosting and home automation…</description>
+      <category>gaming</category>
+      <category>apple</category>
+      <category>linux</category>
+      <guid>https://plbrault.com/blog-posts/the-tale-of-my-retrocomputing-infrastructure/</guid>
+      <pubDate>Mon, 23 Mar 2026 01:02:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>An effect notation based on with-clauses and blocks</title>
+      <link>https://blog.yoshuawuyts.com/a-with-based-effect-notation/</link>
+      <description>A bad habit of mine is that I’ll write 10.000 or 20.000 words on a topic, and
+then never publish that. A lot of my longer-form writing never sees the light of
+day because it gets stuck in editing purgatory. Editing small pieces is easy and
+quick, editing long pieces is not. I’ve been wanting to write more about effect
+notations for a while now and have been noodling on something I hope people
+might be alright with. At a minimum wouldn't mind seeing pop up in code.</description>
+      <category>rust</category>
+      <category>python</category>
+      <guid>https://blog.yoshuawuyts.com/a-with-based-effect-notation/</guid>
+      <pubDate>Mon, 23 Mar 2026 01:02:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stop Building Traceability in Jira — RTMify Blog</title>
+      <link>https://rtmify.io/blog/stop_building_traceability_in_jira/</link>
+      <description>Jira is a task tracker, not a traceability tool. The engineering practice that actually satisfies your auditor takes thirty seconds and costs nothing.</description>
+      <category>git</category>
+      <category>encryption</category>
+      <category>python</category>
+      <guid>https://rtmify.io/blog/stop_building_traceability_in_jira/</guid>
+      <pubDate>Mon, 23 Mar 2026 01:02:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>You Are Not Your Job</title>
+      <link>https://jry.io/writing/you-are-not-your-job/</link>
+      <description>Mar 22, 2026</description>
+      <category>ai</category>
+      <guid>https://jry.io/writing/you-are-not-your-job/</guid>
+      <pubDate>Mon, 23 Mar 2026 01:02:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>E-bike for the mind</title>
+      <link>https://www.djmurphy.net/blog/e-bike-for-the-mind/</link>
+      <description>A case for using AI to train, not just to go faster.</description>
+      <category>ai</category>
+      <guid>https://www.djmurphy.net/blog/e-bike-for-the-mind/</guid>
+      <pubDate>Mon, 23 Mar 2026 01:02:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>PC Gamer Recommends RSS Readers in a 37MB Article That Just Keeps Downloading — Stuart Breckenridge</title>
+      <link>https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/</link>
+      <description>No sense of irony.</description>
+      <guid>https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/</guid>
+      <pubDate>Mon, 23 Mar 2026 01:02:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apply less, but better.</title>
+      <link>https://www.adriankrebs.ch/blog/apply-less-but-better/</link>
+      <description>How to stand out among a flood of generic (AI-generated) job applications</description>
+      <category>ai</category>
+      <guid>https://www.adriankrebs.ch/blog/apply-less-but-better/</guid>
+      <pubDate>Mon, 23 Mar 2026 01:02:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>My DIY FPGA board can run Quake II (part 4)</title>
+      <link>https://blog.mikhe.ch/quake2-on-fpga/part4.html</link>
+      <description>kind of a blog</description>
+      <category>ai</category>
+      <category>linux</category>
+      <guid>https://blog.mikhe.ch/quake2-on-fpga/part4.html</guid>
+      <pubDate>Mon, 23 Mar 2026 01:02:14 GMT</pubDate>
+    </item>
+    <item>
       <title>Java Is Fast. Your Code Might Not Be. | Jonathan Vogel</title>
       <link>https://jvogel.me/posts/2026/java-is-fast-your-code-might-not-be/</link>
       <description>Fixing common Java anti-patterns took an app from 1,198ms to 239ms. Eight patterns that compile fine and pass code review but silently drain CPU and balloon heap, with benchmarks and code fixes for each</description>
@@ -104,96 +256,6 @@
       <category>javascript</category>
       <guid>https://dbushell.com/2026/03/20/denos-decline-and-layoffs/</guid>
       <pubDate>Sun, 22 Mar 2026 02:02:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>A simple and powerful neural network framework</title>
-      <link>https://tinygrad.org/#tinybox</link>
-      <description>We write and maintain tinygrad, the fastest growing neural
-    network framework</description>
-      <category>vscode</category>
-      <category>ai</category>
-      <guid>https://tinygrad.org/#tinybox</guid>
-      <pubDate>Sun, 22 Mar 2026 01:03:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bun vs Node.js Performance: Why Your Event Loop Is the Real Bottleneck</title>
-      <link>https://howtocenterdiv.com/beyond-the-div/bun-is-fast-your-event-loop-is-not</link>
-      <description>Bun is faster than Node.js — but switching runtimes won't fix a saturated connection pool or a blocking Event Loop. This guide covers what Bun actually speeds up, why Promise.all kills your p99 latency, how JSC and V8 GC differ under load, and when migrating to Bun is actually worth it.</description>
-      <category>nodejs</category>
-      <category>conference</category>
-      <category>sql</category>
-      <category>javascript</category>
-      <guid>https://howtocenterdiv.com/beyond-the-div/bun-is-fast-your-event-loop-is-not</guid>
-      <pubDate>Sun, 22 Mar 2026 01:03:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why craft-lovers are losing their craft</title>
-      <link>https://writings.hongminhee.org/2026/03/craft-alienation-llm/</link>
-      <description>Les Orchard made a quiet observation recently that I haven't been able to shake. Before LLM coding assistants arrived, the split between developers was…</description>
-      <guid>https://writings.hongminhee.org/2026/03/craft-alienation-llm/</guid>
-      <pubDate>Sun, 22 Mar 2026 01:02:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>america's biggest problem (it's not what you think)</title>
-      <link>https://czhou.bearblog.dev/americas-biggest-problem-its-not-what-you-think/</link>
-      <description>I have lived in this country for right around 20 years. My family settled in the US due to its abundance of economic opportunity and its open mind. Just in m...</description>
-      <category>apple</category>
-      <guid>https://czhou.bearblog.dev/americas-biggest-problem-its-not-what-you-think/</guid>
-      <pubDate>Sun, 22 Mar 2026 01:02:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Future of SaaS Is Agentic</title>
-      <link>https://akashyap.ai/the-future-of-saas-is-agentic/</link>
-      <description>TL;DR: The future of SaaS is agentic, but agentic SaaS is not just a chatbot layered on top of APIs and a dashboard. Traditional SaaS was built for users to ...</description>
-      <category>ai</category>
-      <guid>https://akashyap.ai/the-future-of-saas-is-agentic/</guid>
-      <pubDate>Sun, 22 Mar 2026 01:02:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>9 Ways to Fail at Installing a Browser Extension — Daniel Walker</title>
-      <link>https://danbuilds.online/notes/9-ways-to-fail-at-installing-a-browser-extension/</link>
-      <description>All I wanted was for an extension to auto-update. Two hours later, I'm impersonating an IT department.</description>
-      <category>apple</category>
-      <guid>https://danbuilds.online/notes/9-ways-to-fail-at-installing-a-browser-extension/</guid>
-      <pubDate>Sun, 22 Mar 2026 01:02:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Singularity is Coming</title>
-      <link>https://www.manhattanmetric.com/blog/2026/03/the-singularity-is-coming</link>
-      <description>It is not uncommon for popular culture to pick up on a concept from science and twist it until it is nearly unrecognizable. The concept of the “technological singularity” is no exception. Still, when the singularity is talked about as “the machines taking over” or the point at which we all “upload our consciousness to the cloud”, we have strayed so far from the term’s original meaning that it is worth revisiting what the term was meant to convey.</description>
-      <category>apple</category>
-      <category>ai</category>
-      <guid>https://www.manhattanmetric.com/blog/2026/03/the-singularity-is-coming</guid>
-      <pubDate>Sun, 22 Mar 2026 01:02:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Claude Dichotomy</title>
-      <link>https://jonathannen.com/the-claude-dichotomy/</link>
-      <description>AI is creating a genuine dichotomy: teams drowning in AI-supercharged chaos, others are thriving. The difference is in the approach to transformation.</description>
-      <category>ai</category>
-      <guid>https://jonathannen.com/the-claude-dichotomy/</guid>
-      <pubDate>Sun, 22 Mar 2026 01:02:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Who's Writing the Spec?</title>
-      <link>https://dekodiert.de/en/articles/wer-spezifiziert</link>
-      <description>Why the bottleneck of knowledge work isn't production but the ability to say what you want. On Taste, Specification, and Evaluation -- the three competencies that are suddenly scarce.</description>
-      <author> (Sven Döring)</author>
-      <category>cloud</category>
-      <category>ai</category>
-      <guid>https://dekodiert.de/en/articles/wer-spezifiziert</guid>
-      <pubDate>Sun, 22 Mar 2026 01:02:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vibe Coding, QWERTY, and US Healthcare - or: The Future of Software Engineering?</title>
-      <link>https://panthema.net/2026/0318-Vibe-Coding-QWERTY-and-US-Healthcare/</link>
-      <description>Why is changing existing code with AI so much harder than writing new code?</description>
-      <category>ai</category>
-      <category>encryption</category>
-      <category>javascript</category>
-      <category>git</category>
-      <guid>https://panthema.net/2026/0318-Vibe-Coding-QWERTY-and-US-Healthcare/</guid>
-      <pubDate>Sun, 22 Mar 2026 01:02:26 GMT</pubDate>
     </item>
   </channel>
 </rss>

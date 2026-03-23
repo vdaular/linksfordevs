@@ -1,5 +1,133 @@
 [
   {
+    "Title": "Coding as a Game of Probabilities",
+    "Url": "https://robertmaple.co.uk/coding-as-a-game-of-probabilities/",
+    "Timestamp": "2026-03-23T01:03:12",
+    "Domain": "robertmaple.co.uk",
+    "Description": "Thinking about coding with AI as a process of navigating a tree of probabilistic outcomes.",
+    "Confidence": 0.99248576
+  },
+  {
+    "Title": "Why Email Spam Looks Better Than Usual These Days\n    ",
+    "Url": "https://tedium.co/2026/02/25/vibe-coded-email-spam/",
+    "Timestamp": "2026-03-23T01:03:09",
+    "Domain": "tedium.co",
+    "Description": "The problem with making coding easier for more people is that it makes spam more conventionally attractive. Which is bad.\n    ",
+    "Confidence": 0.99311835
+  },
+  {
+    "Title": "I Was Excited to See Someone Else Build a /do Router",
+    "Url": "https://vexjoy.com/posts/i-was-excited-to-see-someone-else-build-a-do-router/",
+    "Timestamp": "2026-03-23T01:03:05",
+    "Domain": "vexjoy.com",
+    "Description": "Nine months of building in public with limited traction. Then someone posted a system with the same architecture and I felt something I wasn’t expecting.",
+    "Confidence": 0.9885488
+  },
+  {
+    "Title": "The Tokenizer and the Brain — Yap.Town",
+    "Url": "https://yap.town/blog/unexpected-application-of-ml-theory-to-language-learning/",
+    "Timestamp": "2026-03-23T01:03:02",
+    "Domain": "yap.town",
+    "Description": "Applying the Unigram tokenization algorithm to language learning to surprising benefit",
+    "Confidence": 0.98095626
+  },
+  {
+    "Title": "Anne Labs — Building Trusted AI Agents",
+    "Url": "https://anne.lat/blog/kv-cache-compress",
+    "Timestamp": "2026-03-23T01:02:58",
+    "Domain": "anne.lat",
+    "Description": "Secure infrastructure for enterprise AI agents — orchestration, control, and observability for production workflows.",
+    "Confidence": 0.99349844
+  },
+  {
+    "Title": "Writer's Block meet OpenClaw",
+    "Url": "https://foxish.me/posts/writers-block-meet-openclaw/",
+    "Timestamp": "2026-03-23T01:02:54",
+    "Domain": "foxish.me",
+    "Description": "Writer’s block was my biggest hurdle. Ideas pile up in Todoist and voice memos, but the gap between thought and publish felt impossibly wide.\nThat’s changed with OpenClaw. I can record a voice message on my phone, and it appears as a published preview URL in seconds. For the first time, I actually feel optimistic about writing regularly.\nThe Setup Hardware: Chromebook at home running OpenClaw via Crostini. Always on, never touched.",
+    "Confidence": 0.9506427
+  },
+  {
+    "Title": "How to Not Get Hacked Through File Uploads",
+    "Url": "https://www.eliranturgeman.com/2026/03/14/uploads-attack-surface/",
+    "Timestamp": "2026-03-23T01:02:51",
+    "Domain": "www.eliranturgeman.com",
+    "Description": "How attackers exploit file uploads through parser vulnerabilities, stored XSS, path traversal, and zip bombs, with practical defenses and code examples for each.",
+    "Confidence": 0.98761505
+  },
+  {
+    "Title": "The biggest theft in human history occurred in broad daylight. - Lucian’s Labyrinth",
+    "Url": "https://labyrinth.pika.page/posts/the-biggest-theft-in-human-history-occurred-in-broad-daylight",
+    "Timestamp": "2026-03-23T01:02:42",
+    "Domain": "labyrinth.pika.page",
+    "Description": "In complex societies like ours, theft typically follows a formal process: investigation, apprehension, prosecution, punishment (sometimes) and compensation (sometimes) for the victims. I like to invite you on a brief...",
+    "Confidence": 0.97263783
+  },
+  {
+    "Title": "The Tale of My Retrocomputing Infrastructure",
+    "Url": "https://plbrault.com/blog-posts/the-tale-of-my-retrocomputing-infrastructure/",
+    "Timestamp": "2026-03-23T01:02:38",
+    "Domain": "plbrault.com",
+    "Description": "My Mastodon bio reads as follows: Computer science teacher and former software developer. Free software, self-hosting and home automation…",
+    "Confidence": 0.98472214
+  },
+  {
+    "Title": "An effect notation based on with-clauses and blocks",
+    "Url": "https://blog.yoshuawuyts.com/a-with-based-effect-notation/",
+    "Timestamp": "2026-03-23T01:02:35",
+    "Domain": "blog.yoshuawuyts.com",
+    "Description": "A bad habit of mine is that I’ll write 10.000 or 20.000 words on a topic, and\nthen never publish that. A lot of my longer-form writing never sees the light of\nday because it gets stuck in editing purgatory. Editing small pieces is easy and\nquick, editing long pieces is not. I’ve been wanting to write more about effect\nnotations for a while now and have been noodling on something I hope people\nmight be alright with. At a minimum wouldn't mind seeing pop up in code.",
+    "Confidence": 0.99464256
+  },
+  {
+    "Title": "Stop Building Traceability in Jira — RTMify Blog",
+    "Url": "https://rtmify.io/blog/stop_building_traceability_in_jira/",
+    "Timestamp": "2026-03-23T01:02:31",
+    "Domain": "rtmify.io",
+    "Description": "Jira is a task tracker, not a traceability tool. The engineering practice that actually satisfies your auditor takes thirty seconds and costs nothing.",
+    "Confidence": 0.978681
+  },
+  {
+    "Title": "You Are Not Your Job",
+    "Url": "https://jry.io/writing/you-are-not-your-job/",
+    "Timestamp": "2026-03-23T01:02:28",
+    "Domain": "jry.io",
+    "Description": "Mar 22, 2026",
+    "Confidence": 0.9176374
+  },
+  {
+    "Title": "E-bike for the mind",
+    "Url": "https://www.djmurphy.net/blog/e-bike-for-the-mind/",
+    "Timestamp": "2026-03-23T01:02:24",
+    "Domain": "www.djmurphy.net",
+    "Description": "A case for using AI to train, not just to go faster.",
+    "Confidence": 0.9017557
+  },
+  {
+    "Title": "PC Gamer Recommends RSS Readers in a 37MB Article That Just Keeps Downloading — Stuart Breckenridge",
+    "Url": "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/",
+    "Timestamp": "2026-03-23T01:02:20",
+    "Domain": "stuartbreckenridge.net",
+    "Description": "No sense of irony.",
+    "Confidence": 0.8863057
+  },
+  {
+    "Title": "Apply less, but better.",
+    "Url": "https://www.adriankrebs.ch/blog/apply-less-but-better/",
+    "Timestamp": "2026-03-23T01:02:17",
+    "Domain": "www.adriankrebs.ch",
+    "Description": "How to stand out among a flood of generic (AI-generated) job applications",
+    "Confidence": 0.9420145
+  },
+  {
+    "Title": "My DIY FPGA board can run Quake II (part 4)",
+    "Url": "https://blog.mikhe.ch/quake2-on-fpga/part4.html",
+    "Timestamp": "2026-03-23T01:02:14",
+    "Domain": "blog.mikhe.ch",
+    "Description": "kind of a blog",
+    "Confidence": 0.97262377
+  },
+  {
     "Title": "Java Is Fast. Your Code Might Not Be. | Jonathan Vogel",
     "Url": "https://jvogel.me/posts/2026/java-is-fast-your-code-might-not-be/",
     "Timestamp": "2026-03-23T00:02:05",
@@ -78,85 +206,5 @@
     "Domain": "dbushell.com",
     "Description": "The one where I mourn the best runtime and speculate idly",
     "Confidence": 0.84681714
-  },
-  {
-    "Title": "A simple and powerful neural network framework",
-    "Url": "https://tinygrad.org/#tinybox",
-    "Timestamp": "2026-03-22T01:03:07",
-    "Domain": "tinygrad.org",
-    "Description": "We write and maintain tinygrad, the fastest growing neural\n    network framework",
-    "Confidence": 0.9936378
-  },
-  {
-    "Title": "Bun vs Node.js Performance: Why Your Event Loop Is the Real Bottleneck",
-    "Url": "https://howtocenterdiv.com/beyond-the-div/bun-is-fast-your-event-loop-is-not",
-    "Timestamp": "2026-03-22T01:03:04",
-    "Domain": "howtocenterdiv.com",
-    "Description": "Bun is faster than Node.js — but switching runtimes won't fix a saturated connection pool or a blocking Event Loop. This guide covers what Bun actually speeds up, why Promise.all kills your p99 latency, how JSC and V8 GC differ under load, and when migrating to Bun is actually worth it.",
-    "Confidence": 0.99151313
-  },
-  {
-    "Title": "Why craft-lovers are losing their craft",
-    "Url": "https://writings.hongminhee.org/2026/03/craft-alienation-llm/",
-    "Timestamp": "2026-03-22T01:02:56",
-    "Domain": "writings.hongminhee.org",
-    "Description": "Les Orchard made a quiet observation recently that I haven't been able to shake. Before LLM coding assistants arrived, the split between developers was…",
-    "Confidence": 0.9284529
-  },
-  {
-    "Title": "america's biggest problem (it's not what you think)",
-    "Url": "https://czhou.bearblog.dev/americas-biggest-problem-its-not-what-you-think/",
-    "Timestamp": "2026-03-22T01:02:49",
-    "Domain": "czhou.bearblog.dev",
-    "Description": "I have lived in this country for right around 20 years. My family settled in the US due to its abundance of economic opportunity and its open mind. Just in m...",
-    "Confidence": 0.8819156
-  },
-  {
-    "Title": "The Future of SaaS Is Agentic",
-    "Url": "https://akashyap.ai/the-future-of-saas-is-agentic/",
-    "Timestamp": "2026-03-22T01:02:46",
-    "Domain": "akashyap.ai",
-    "Description": "TL;DR: The future of SaaS is agentic, but agentic SaaS is not just a chatbot layered on top of APIs and a dashboard. Traditional SaaS was built for users to ...",
-    "Confidence": 0.9935785
-  },
-  {
-    "Title": "9 Ways to Fail at Installing a Browser Extension — Daniel Walker",
-    "Url": "https://danbuilds.online/notes/9-ways-to-fail-at-installing-a-browser-extension/",
-    "Timestamp": "2026-03-22T01:02:43",
-    "Domain": "danbuilds.online",
-    "Description": "All I wanted was for an extension to auto-update. Two hours later, I'm impersonating an IT department.",
-    "Confidence": 0.985443
-  },
-  {
-    "Title": "The Singularity is Coming",
-    "Url": "https://www.manhattanmetric.com/blog/2026/03/the-singularity-is-coming",
-    "Timestamp": "2026-03-22T01:02:40",
-    "Domain": "www.manhattanmetric.com",
-    "Description": "It is not uncommon for popular culture to pick up on a concept from science and twist it until it is nearly unrecognizable. The concept of the “technological singularity” is no exception. Still, when the singularity is talked about as “the machines taking over” or the point at which we all “upload our consciousness to the cloud”, we have strayed so far from the term’s original meaning that it is worth revisiting what the term was meant to convey.",
-    "Confidence": 0.81385493
-  },
-  {
-    "Title": "The Claude Dichotomy",
-    "Url": "https://jonathannen.com/the-claude-dichotomy/",
-    "Timestamp": "2026-03-22T01:02:35",
-    "Domain": "jonathannen.com",
-    "Description": "AI is creating a genuine dichotomy: teams drowning in AI-supercharged chaos, others are thriving. The difference is in the approach to transformation.",
-    "Confidence": 0.88788694
-  },
-  {
-    "Title": "Who's Writing the Spec?",
-    "Url": "https://dekodiert.de/en/articles/wer-spezifiziert",
-    "Timestamp": "2026-03-22T01:02:32",
-    "Domain": "dekodiert.de",
-    "Description": "Why the bottleneck of knowledge work isn't production but the ability to say what you want. On Taste, Specification, and Evaluation -- the three competencies that are suddenly scarce.",
-    "Confidence": 0.9883759
-  },
-  {
-    "Title": "Vibe Coding, QWERTY, and US Healthcare - or: The Future of Software Engineering?",
-    "Url": "https://panthema.net/2026/0318-Vibe-Coding-QWERTY-and-US-Healthcare/",
-    "Timestamp": "2026-03-22T01:02:26",
-    "Domain": "panthema.net",
-    "Description": "Why is changing existing code with AI so much harder than writing new code?",
-    "Confidence": 0.98868436
   }
 ]
