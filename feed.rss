@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Inflation Timeline</title>
+      <link>https://xkcd.com/3223/</link>
+      <description></description>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3223/</guid>
+      <pubDate>Mon, 23 Mar 2026 19:02:09 GMT</pubDate>
+    </item>
+    <item>
       <title>Student beauty and grades under in-person and remote teaching</title>
       <link>https://www.sciencedirect.com/science/article/pii/S016517652200283X</link>
       <description>This paper examines the role of student facial attractiveness on academic outcomes under various forms of instruction, using data from engineering stu…</description>
