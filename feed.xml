@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Java Is Fast. Your Code Might Not Be. | Jonathan Vogel</title>
+      <link>https://jvogel.me/posts/2026/java-is-fast-your-code-might-not-be/</link>
+      <description>Fixing common Java anti-patterns took an app from 1,198ms to 239ms. Eight patterns that compile fine and pass code review but silently drain CPU and balloon heap, with benchmarks and code fixes for each</description>
+      <category>git</category>
+      <guid>https://jvogel.me/posts/2026/java-is-fast-your-code-might-not-be/</guid>
+      <pubDate>Mon, 23 Mar 2026 00:02:05 GMT</pubDate>
+    </item>
+    <item>
       <title>GitHub - danveloper/flash-moe: Running a big model on a small laptop</title>
       <link>https://github.com/danveloper/flash-moe</link>
       <description>Running a big model on a small laptop. Contribute to danveloper/flash-moe development by creating an account on GitHub.</description>
@@ -186,15 +194,6 @@
       <category>git</category>
       <guid>https://panthema.net/2026/0318-Vibe-Coding-QWERTY-and-US-Healthcare/</guid>
       <pubDate>Sun, 22 Mar 2026 01:02:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Do Not Turn Child Protection Into Internet Access Control</title>
-      <link>https://news.dyne.org/child-protection-is-not-access-control/</link>
-      <description>Age verification turns the open internet into a permission system and pushes control away from families, schools, and users.</description>
-      <category>gaming</category>
-      <category>linux</category>
-      <guid>https://news.dyne.org/child-protection-is-not-access-control/</guid>
-      <pubDate>Sun, 22 Mar 2026 00:02:08 GMT</pubDate>
     </item>
   </channel>
 </rss>

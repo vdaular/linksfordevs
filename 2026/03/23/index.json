@@ -1,0 +1,9 @@
+[
+  {
+    "Title": "Java Is Fast. Your Code Might Not Be. | Jonathan Vogel",
+    "Url": "https://jvogel.me/posts/2026/java-is-fast-your-code-might-not-be/",
+    "Timestamp": "2026-03-23T00:02:05",
+    "Domain": "jvogel.me",
+    "Description": "Fixing common Java anti-patterns took an app from 1,198ms to 239ms. Eight patterns that compile fine and pass code review but silently drain CPU and balloon heap, with benchmarks and code fixes for each"
+  }
+]

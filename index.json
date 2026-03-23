@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Java Is Fast. Your Code Might Not Be. | Jonathan Vogel",
+    "Url": "https://jvogel.me/posts/2026/java-is-fast-your-code-might-not-be/",
+    "Timestamp": "2026-03-23T00:02:05",
+    "Domain": "jvogel.me",
+    "Description": "Fixing common Java anti-patterns took an app from 1,198ms to 239ms. Eight patterns that compile fine and pass code review but silently drain CPU and balloon heap, with benchmarks and code fixes for each",
+    "Confidence": 0.9969521
+  },
+  {
     "Title": "GitHub - danveloper/flash-moe: Running a big model on a small laptop",
     "Url": "https://github.com/danveloper/flash-moe",
     "Timestamp": "2026-03-22T21:02:13",
@@ -150,13 +158,5 @@
     "Domain": "panthema.net",
     "Description": "Why is changing existing code with AI so much harder than writing new code?",
     "Confidence": 0.98868436
-  },
-  {
-    "Title": "Do Not Turn Child Protection Into Internet Access Control",
-    "Url": "https://news.dyne.org/child-protection-is-not-access-control/",
-    "Timestamp": "2026-03-22T00:02:08",
-    "Domain": "news.dyne.org",
-    "Description": "Age verification turns the open internet into a permission system and pushes control away from families, schools, and users.",
-    "Confidence": 0.9774869
   }
 ]
