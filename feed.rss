@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>rz01.org</title>
+      <link>https://rz01.org/eu-migration/</link>
+      <description>For various reasons, I have decided to move as many services and subscriptions as possible from non-EU countries to the EU or to switch to European service providers. The reasons for this are the current global political situation and improved data protection. I don’t want to go into the first point any further for various reasons, but the second point should be immediately obvious, since the EU currently has the most user-friendly laws when it comes to data protection. Below, I will list both the old and new service providers; this is not an advertisement, but simply the result of my research, which was aimed at achieving the same or better quality at affordable prices.</description>
+      <category>android</category>
+      <category>git</category>
+      <category>linux</category>
+      <category>youtube</category>
+      <guid>https://rz01.org/eu-migration/</guid>
+      <pubDate>Mon, 23 Mar 2026 13:02:14 GMT</pubDate>
+    </item>
+    <item>
       <title>We are Changing our Developer Productivity Experiment Design</title>
       <link>https://metr.org/blog/2026-02-24-uplift-update/</link>
       <description>METR previously published a paper which found the use of AI tools caused a 20% slowdown in completing tasks among experienced open-source developers, using data from February to June 2025.</description>
@@ -263,13 +274,6 @@ might be alright with. At a minimum wouldn't mind seeing pop up in code.</descri
       <category>ai</category>
       <guid>https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/</guid>
       <pubDate>Sun, 22 Mar 2026 18:02:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hormuz Minesweeper</title>
-      <link>https://hormuz.pythonic.ninja/</link>
-      <description>Classic Minesweeper laid across the Strait of Hormuz. Clear the water, flag the mines, and survive the shipping lane.</description>
-      <guid>https://hormuz.pythonic.ninja/</guid>
-      <pubDate>Sun, 22 Mar 2026 13:02:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
