@@ -1,5 +1,19 @@
 [
   {
+    "Title": "We are Changing our Developer Productivity Experiment Design",
+    "Url": "https://metr.org/blog/2026-02-24-uplift-update/",
+    "Timestamp": "2026-03-23T07:02:14",
+    "Domain": "metr.org",
+    "Description": "METR previously published a paper which found the use of AI tools caused a 20% slowdown in completing tasks among experienced open-source developers, using data from February to June 2025."
+  },
+  {
+    "Title": "Let's see Paul Allen's SIMD CSV parser",
+    "Url": "https://chunkofcoal.com/posts/simd-csv/",
+    "Timestamp": "2026-03-23T07:02:10",
+    "Domain": "chunkofcoal.com",
+    "Description": "https://github.com/friendlymatthew"
+  },
+  {
     "Title": "Why I love NixOS",
     "Url": "https://www.birkey.co/2026-03-22-why-i-love-nixos.html",
     "Timestamp": "2026-03-23T06:02:17",

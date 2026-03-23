@@ -7,6 +7,24 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>We are Changing our Developer Productivity Experiment Design</title>
+      <link>https://metr.org/blog/2026-02-24-uplift-update/</link>
+      <description>METR previously published a paper which found the use of AI tools caused a 20% slowdown in completing tasks among experienced open-source developers, using data from February to June 2025.</description>
+      <category>ai</category>
+      <guid>https://metr.org/blog/2026-02-24-uplift-update/</guid>
+      <pubDate>Mon, 23 Mar 2026 07:02:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Let's see Paul Allen's SIMD CSV parser</title>
+      <link>https://chunkofcoal.com/posts/simd-csv/</link>
+      <description>https://github.com/friendlymatthew</description>
+      <category>rust</category>
+      <category>apple</category>
+      <category>sql</category>
+      <guid>https://chunkofcoal.com/posts/simd-csv/</guid>
+      <pubDate>Mon, 23 Mar 2026 07:02:10 GMT</pubDate>
+    </item>
+    <item>
       <title>Why I love NixOS</title>
       <link>https://www.birkey.co/2026-03-22-why-i-love-nixos.html</link>
       <description>Why I love NixOS is really about the Nix package manager, reproducibility, and sane system management in the LLM coding era.</description>
