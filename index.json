@@ -206,21 +206,5 @@
     "Domain": "jvogel.me",
     "Description": "Fixing common Java anti-patterns took an app from 1,198ms to 239ms. Eight patterns that compile fine and pass code review but silently drain CPU and balloon heap, with benchmarks and code fixes for each",
     "Confidence": 0.9969521
-  },
-  {
-    "Title": "GitHub - danveloper/flash-moe: Running a big model on a small laptop",
-    "Url": "https://github.com/danveloper/flash-moe",
-    "Timestamp": "2026-03-22T21:02:13",
-    "Domain": "github.com",
-    "Description": "Running a big model on a small laptop. Contribute to danveloper/flash-moe development by creating an account on GitHub.",
-    "Confidence": 0.9935895
-  },
-  {
-    "Title": "Windows Native App Development Is a Mess",
-    "Url": "https://domenic.me/windows-native-dev/",
-    "Timestamp": "2026-03-22T21:02:07",
-    "Domain": "domenic.me",
-    "Description": "I tried to build a Windows native app using Microsoft's latest technologies. Now I understand why everyone builds Electron apps.",
-    "Confidence": 0.9907462
   }
 ]

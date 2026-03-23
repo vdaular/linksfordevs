@@ -248,30 +248,5 @@ might be alright with. At a minimum wouldn't mind seeing pop up in code.</descri
       <guid>https://jvogel.me/posts/2026/java-is-fast-your-code-might-not-be/</guid>
       <pubDate>Mon, 23 Mar 2026 00:02:05 GMT</pubDate>
     </item>
-    <item>
-      <title>GitHub - danveloper/flash-moe: Running a big model on a small laptop</title>
-      <link>https://github.com/danveloper/flash-moe</link>
-      <description>Running a big model on a small laptop. Contribute to danveloper/flash-moe development by creating an account on GitHub.</description>
-      <category>cloud</category>
-      <category>javascript</category>
-      <category>python</category>
-      <category>vscode</category>
-      <category>ai</category>
-      <guid>https://github.com/danveloper/flash-moe</guid>
-      <pubDate>Sun, 22 Mar 2026 21:02:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows Native App Development Is a Mess</title>
-      <link>https://domenic.me/windows-native-dev/</link>
-      <description>I tried to build a Windows native app using Microsoft's latest technologies. Now I understand why everyone builds Electron apps.</description>
-      <author> (Domenic Denicola)</author>
-      <category>dotnet</category>
-      <category>ai</category>
-      <category>visualstudio</category>
-      <category>rust</category>
-      <category>git</category>
-      <guid>https://domenic.me/windows-native-dev/</guid>
-      <pubDate>Sun, 22 Mar 2026 21:02:07 GMT</pubDate>
-    </item>
   </channel>
 </rss>
