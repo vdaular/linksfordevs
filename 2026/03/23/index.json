@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Why I love NixOS",
+    "Url": "https://www.birkey.co/2026-03-22-why-i-love-nixos.html",
+    "Timestamp": "2026-03-23T06:02:17",
+    "Domain": "www.birkey.co",
+    "Description": "Why I love NixOS is really about the Nix package manager, reproducibility, and sane system management in the LLM coding era."
+  },
+  {
     "Title": "The gold standard of optimization: A look under the hood of RollerCoaster Tycoon",
     "Url": "https://larstofus.com/2026/03/22/the-gold-standard-of-optimization-a-look-under-the-hood-of-rollercoaster-tycoon/",
     "Timestamp": "2026-03-23T04:02:08",
