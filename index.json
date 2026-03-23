@@ -222,21 +222,5 @@
     "Domain": "www.projectnomad.us",
     "Description": "A self-contained offline server packed with encyclopedic knowledge, local AI, and essential tools — ready when the internet isn't.",
     "Confidence": 0.97615016
-  },
-  {
-    "Title": "Delve - Fake Compliance as a Service - Part I",
-    "Url": "https://deepdelver.substack.com/p/delve-fake-compliance-as-a-service",
-    "Timestamp": "2026-03-22T18:02:14",
-    "Domain": "deepdelver.substack.com",
-    "Description": "How Delve managed to falsely convince hundreds of customers they were compliant and then lied about it when exposed and called out",
-    "Confidence": 0.98445463
-  },
-  {
-    "Title": "Bored of eating your own dogfood? Try smelling your own farts!",
-    "Url": "https://shkspr.mobi/blog/2026/03/bored-of-eating-your-own-dogfood-try-smelling-your-own-farts/",
-    "Timestamp": "2026-03-22T18:02:08",
-    "Domain": "shkspr.mobi",
-    "Description": "I called a large company the other day. Did I know the information I wanted could be found on their website? And was I aware that I could manage my account online? And would I like to receive a link to chat with their AI assistant via WhatsApp?  Naturally, call volumes were higher than expected. I can only assume that whoever was in charge of predicting call volumes had recent suffered a…",
-    "Confidence": 0.9064759
   }
 ]
