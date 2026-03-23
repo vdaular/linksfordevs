@@ -222,13 +222,5 @@
     "Domain": "domenic.me",
     "Description": "I tried to build a Windows native app using Microsoft's latest technologies. Now I understand why everyone builds Electron apps.",
     "Confidence": 0.9907462
-  },
-  {
-    "Title": "Project NOMAD - Knowledge That Never Goes Offline",
-    "Url": "https://www.projectnomad.us/",
-    "Timestamp": "2026-03-22T20:02:04",
-    "Domain": "www.projectnomad.us",
-    "Description": "A self-contained offline server packed with encyclopedic knowledge, local AI, and essential tools — ready when the internet isn't.",
-    "Confidence": 0.97615016
   }
 ]

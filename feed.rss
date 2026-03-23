@@ -273,16 +273,5 @@ might be alright with. At a minimum wouldn't mind seeing pop up in code.</descri
       <guid>https://domenic.me/windows-native-dev/</guid>
       <pubDate>Sun, 22 Mar 2026 21:02:07 GMT</pubDate>
     </item>
-    <item>
-      <title>Project NOMAD - Knowledge That Never Goes Offline</title>
-      <link>https://www.projectnomad.us/</link>
-      <description>A self-contained offline server packed with encyclopedic knowledge, local AI, and essential tools — ready when the internet isn't.</description>
-      <category>containers</category>
-      <category>ai</category>
-      <category>nodejs</category>
-      <category>linux</category>
-      <guid>https://www.projectnomad.us/</guid>
-      <pubDate>Sun, 22 Mar 2026 20:02:04 GMT</pubDate>
-    </item>
   </channel>
 </rss>
