@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Claude Code Cheat Sheet",
+    "Url": "https://cc.storyfox.cz/",
+    "Timestamp": "2026-03-24T06:02:15",
+    "Domain": "cc.storyfox.cz",
+    "Description": "CtrlC Cancel input/generation",
+    "Confidence": 0.99889845
+  },
+  {
+    "Title": "FCC Updates Covered List to Include Foreign-Made Consumer Routers",
+    "Url": "https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers",
+    "Timestamp": "2026-03-24T06:02:10",
+    "Domain": "www.fcc.gov",
+    "Description": "Update Follows Determination by Executive Branch Agencies that Consumer-Grade Routers Produced in Foreign Countries Threaten National Security",
+    "Confidence": 0.91930056
+  },
+  {
     "Title": "Autoresearch on an old research idea | Blog | Yogesh Kumar",
     "Url": "https://ykumar.me/blog/eclip-autoresearch/",
     "Timestamp": "2026-03-24T01:01:56",
@@ -278,13 +294,5 @@
     "Domain": "chunkofcoal.com",
     "Description": "https://github.com/friendlymatthew",
     "Confidence": 0.9903551
-  },
-  {
-    "Title": "Why I love NixOS",
-    "Url": "https://www.birkey.co/2026-03-22-why-i-love-nixos.html",
-    "Timestamp": "2026-03-23T06:02:17",
-    "Domain": "www.birkey.co",
-    "Description": "Why I love NixOS is really about the Nix package manager, reproducibility, and sane system management in the LLM coding era.",
-    "Confidence": 0.99538255
   }
 ]

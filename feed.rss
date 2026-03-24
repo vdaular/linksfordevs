@@ -7,6 +7,24 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Claude Code Cheat Sheet</title>
+      <link>https://cc.storyfox.cz/</link>
+      <description>CtrlC Cancel input/generation</description>
+      <category>javascript</category>
+      <category>git</category>
+      <category>ai</category>
+      <guid>https://cc.storyfox.cz/</guid>
+      <pubDate>Tue, 24 Mar 2026 06:02:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>FCC Updates Covered List to Include Foreign-Made Consumer Routers</title>
+      <link>https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers</link>
+      <description>Update Follows Determination by Executive Branch Agencies that Consumer-Grade Routers Produced in Foreign Countries Threaten National Security</description>
+      <category>ai</category>
+      <guid>https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers</guid>
+      <pubDate>Tue, 24 Mar 2026 06:02:10 GMT</pubDate>
+    </item>
+    <item>
       <title>Autoresearch on an old research idea | Blog | Yogesh Kumar</title>
       <link>https://ykumar.me/blog/eclip-autoresearch/</link>
       <description>Yogesh Kumar's personal website</description>
@@ -338,17 +356,6 @@ A bit of debugging While there are still some rough edges, there have been tons 
       <category>sql</category>
       <guid>https://chunkofcoal.com/posts/simd-csv/</guid>
       <pubDate>Mon, 23 Mar 2026 07:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why I love NixOS</title>
-      <link>https://www.birkey.co/2026-03-22-why-i-love-nixos.html</link>
-      <description>Why I love NixOS is really about the Nix package manager, reproducibility, and sane system management in the LLM coding era.</description>
-      <category>rust</category>
-      <category>containers</category>
-      <category>linux</category>
-      <category>python</category>
-      <guid>https://www.birkey.co/2026-03-22-why-i-love-nixos.html</guid>
-      <pubDate>Mon, 23 Mar 2026 06:02:17 GMT</pubDate>
     </item>
   </channel>
 </rss>
