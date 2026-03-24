@@ -7,6 +7,30 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>A Simple .NET CLI Web Server | no dogma blog</title>
+      <link>https://nodogmablog.bryanhogan.net/2026/03/a-simple-net-cli-web-server/</link>
+      <description>I got a little tired of running `python -m http.server` every time I wanted to serve some files, so I wrote a simple .NET CLI web server.</description>
+      <category>cloud</category>
+      <category>dotnet</category>
+      <category>python</category>
+      <category>web</category>
+      <category>javascript</category>
+      <guid>https://nodogmablog.bryanhogan.net/2026/03/a-simple-net-cli-web-server/</guid>
+      <pubDate>Tue, 24 Mar 2026 21:02:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wine 11 rewrites how Linux runs Windows games at the kernel level, and the speed gains are massive</title>
+      <link>https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/</link>
+      <description>Wine 11 is the biggest jump for Linux gaming in years.</description>
+      <author> (Adam Conway)</author>
+      <category>gaming</category>
+      <category>linux</category>
+      <category>git</category>
+      <category>android</category>
+      <guid>https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/</guid>
+      <pubDate>Tue, 24 Mar 2026 21:02:25 GMT</pubDate>
+    </item>
+    <item>
       <title>Introducing Apple Business — a new all-in-one platform for businesses of all sizes</title>
       <link>https://www.apple.com/newsroom/2026/03/introducing-apple-business-a-new-all-in-one-platform-for-businesses-of-all-sizes/</link>
       <description>Apple today announced Apple Business, a new all-in-one platform that allows companies to manage devices and reach more customers.</description>
