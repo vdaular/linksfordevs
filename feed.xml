@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The (n) War of the Decade</title>
+      <link>https://idiallo.com/blog/the-n-war-of-the-decade?src=feed</link>
+      <description>This is a blog where I talk mostly about programming in the workplace. These past few years the subject has often been AI, because it affects everything. From the hiring process to the very code we ty</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://idiallo.com/blog/the-n-war-of-the-decade?src=feed</guid>
+      <pubDate>Tue, 24 Mar 2026 09:01:55 GMT</pubDate>
+    </item>
+    <item>
       <title>A Ramsey-style Problem on Hypergraphs</title>
       <link>https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs</link>
       <description>Construct hypergraphs as large as possible that do not have a certain easy-to-check, difficult-to-find property.</description>
