@@ -7,6 +7,29 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Supply Chain Attack in litellm 1.82.8 on PyPI</title>
+      <link>https://futuresearch.ai/blog/litellm-pypi-supply-chain-attack/</link>
+      <description>litellm version 1.82.8 on PyPI contains a malicious .pth file that harvests SSH keys, cloud credentials, and secrets on every Python startup, then attempts lateral movement across Kubernetes clusters.</description>
+      <author> (Callum McMahon)</author>
+      <category>encryption</category>
+      <category>containers</category>
+      <category>cloud</category>
+      <category>python</category>
+      <category>nodejs</category>
+      <guid>https://futuresearch.ai/blog/litellm-pypi-supply-chain-attack/</guid>
+      <pubDate>Tue, 24 Mar 2026 22:02:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Is anybody else bored of talking about AI?</title>
+      <link>https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/</link>
+      <description>Is anybody else bored of talking about AI?</description>
+      <category>ai</category>
+      <category>javascript</category>
+      <category>sql</category>
+      <guid>https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/</guid>
+      <pubDate>Tue, 24 Mar 2026 22:02:21 GMT</pubDate>
+    </item>
+    <item>
       <title>A Simple .NET CLI Web Server | no dogma blog</title>
       <link>https://nodogmablog.bryanhogan.net/2026/03/a-simple-net-cli-web-server/</link>
       <description>I got a little tired of running `python -m http.server` every time I wanted to serve some files, so I wrote a simple .NET CLI web server.</description>
@@ -376,13 +399,6 @@ A bit of debugging While there are still some rough edges, there have been tons 
       <category>ai</category>
       <guid>https://peter.czanik.hu/posts/new-toy-freebsd-on-the-hp-z2-mini-revisited/</guid>
       <pubDate>Tue, 24 Mar 2026 00:02:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>US and TotalEnergies reach 'nearly $1 billion' deal to end offshore wind projects</title>
-      <link>https://www.lemonde.fr/en/international/article/2026/03/23/us-and-totalenergies-reach-nearly-1-billion-deal-to-end-offshore-wind-projects_6751739_4.html</link>
-      <description>The US and the French company signed an agreement to end TotalEnergies' offshore US wind farm projects and redirect those funds towards fossil fuel production.</description>
-      <guid>https://www.lemonde.fr/en/international/article/2026/03/23/us-and-totalenergies-reach-nearly-1-billion-deal-to-end-offshore-wind-projects_6751739_4.html</guid>
-      <pubDate>Mon, 23 Mar 2026 22:02:16 GMT</pubDate>
     </item>
   </channel>
 </rss>
