@@ -1,5 +1,13 @@
 [
   {
+    "Title": "A Ramsey-style Problem on Hypergraphs",
+    "Url": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
+    "Timestamp": "2026-03-24T07:02:09",
+    "Domain": "epoch.ai",
+    "Description": "Construct hypergraphs as large as possible that do not have a certain easy-to-check, difficult-to-find property.",
+    "Confidence": 0.98380053
+  },
+  {
     "Title": "Claude Code Cheat Sheet",
     "Url": "https://cc.storyfox.cz/",
     "Timestamp": "2026-03-24T06:02:15",
@@ -278,21 +286,5 @@
     "Domain": "rz01.org",
     "Description": "For various reasons, I have decided to move as many services and subscriptions as possible from non-EU countries to the EU or to switch to European service providers. The reasons for this are the current global political situation and improved data protection. I don’t want to go into the first point any further for various reasons, but the second point should be immediately obvious, since the EU currently has the most user-friendly laws when it comes to data protection. Below, I will list both the old and new service providers; this is not an advertisement, but simply the result of my research, which was aimed at achieving the same or better quality at affordable prices.",
     "Confidence": 0.98846835
-  },
-  {
-    "Title": "We are Changing our Developer Productivity Experiment Design",
-    "Url": "https://metr.org/blog/2026-02-24-uplift-update/",
-    "Timestamp": "2026-03-23T07:02:14",
-    "Domain": "metr.org",
-    "Description": "METR previously published a paper which found the use of AI tools caused a 20% slowdown in completing tasks among experienced open-source developers, using data from February to June 2025.",
-    "Confidence": 0.9078145
-  },
-  {
-    "Title": "Let's see Paul Allen's SIMD CSV parser",
-    "Url": "https://chunkofcoal.com/posts/simd-csv/",
-    "Timestamp": "2026-03-23T07:02:10",
-    "Domain": "chunkofcoal.com",
-    "Description": "https://github.com/friendlymatthew",
-    "Confidence": 0.9903551
   }
 ]

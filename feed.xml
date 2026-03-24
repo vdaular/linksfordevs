@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>A Ramsey-style Problem on Hypergraphs</title>
+      <link>https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs</link>
+      <description>Construct hypergraphs as large as possible that do not have a certain easy-to-check, difficult-to-find property.</description>
+      <category>ai</category>
+      <category>python</category>
+      <guid>https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs</guid>
+      <pubDate>Tue, 24 Mar 2026 07:02:09 GMT</pubDate>
+    </item>
+    <item>
       <title>Claude Code Cheat Sheet</title>
       <link>https://cc.storyfox.cz/</link>
       <description>CtrlC Cancel input/generation</description>
@@ -338,24 +347,6 @@ A bit of debugging While there are still some rough edges, there have been tons 
       <category>youtube</category>
       <guid>https://rz01.org/eu-migration/</guid>
       <pubDate>Mon, 23 Mar 2026 13:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>We are Changing our Developer Productivity Experiment Design</title>
-      <link>https://metr.org/blog/2026-02-24-uplift-update/</link>
-      <description>METR previously published a paper which found the use of AI tools caused a 20% slowdown in completing tasks among experienced open-source developers, using data from February to June 2025.</description>
-      <category>ai</category>
-      <guid>https://metr.org/blog/2026-02-24-uplift-update/</guid>
-      <pubDate>Mon, 23 Mar 2026 07:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Let's see Paul Allen's SIMD CSV parser</title>
-      <link>https://chunkofcoal.com/posts/simd-csv/</link>
-      <description>https://github.com/friendlymatthew</description>
-      <category>rust</category>
-      <category>apple</category>
-      <category>sql</category>
-      <guid>https://chunkofcoal.com/posts/simd-csv/</guid>
-      <pubDate>Mon, 23 Mar 2026 07:02:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
