@@ -286,13 +286,5 @@
     "Domain": "www.theregister.com",
     "Description": ": Slowdowns, outages, and Copilot problems afflict code shack",
     "Confidence": 0.8501818
-  },
-  {
-    "Title": "rz01.org",
-    "Url": "https://rz01.org/eu-migration/",
-    "Timestamp": "2026-03-23T13:02:14",
-    "Domain": "rz01.org",
-    "Description": "For various reasons, I have decided to move as many services and subscriptions as possible from non-EU countries to the EU or to switch to European service providers. The reasons for this are the current global political situation and improved data protection. I don’t want to go into the first point any further for various reasons, but the second point should be immediately obvious, since the EU currently has the most user-friendly laws when it comes to data protection. Below, I will list both the old and new service providers; this is not an advertisement, but simply the result of my research, which was aimed at achieving the same or better quality at affordable prices.",
-    "Confidence": 0.98846835
   }
 ]

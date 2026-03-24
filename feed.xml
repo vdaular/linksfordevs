@@ -346,16 +346,5 @@ A bit of debugging While there are still some rough edges, there have been tons 
       <guid>https://www.theregister.com/2026/02/10/github_outages/</guid>
       <pubDate>Mon, 23 Mar 2026 16:01:54 GMT</pubDate>
     </item>
-    <item>
-      <title>rz01.org</title>
-      <link>https://rz01.org/eu-migration/</link>
-      <description>For various reasons, I have decided to move as many services and subscriptions as possible from non-EU countries to the EU or to switch to European service providers. The reasons for this are the current global political situation and improved data protection. I don’t want to go into the first point any further for various reasons, but the second point should be immediately obvious, since the EU currently has the most user-friendly laws when it comes to data protection. Below, I will list both the old and new service providers; this is not an advertisement, but simply the result of my research, which was aimed at achieving the same or better quality at affordable prices.</description>
-      <category>android</category>
-      <category>git</category>
-      <category>linux</category>
-      <category>youtube</category>
-      <guid>https://rz01.org/eu-migration/</guid>
-      <pubDate>Mon, 23 Mar 2026 13:02:14 GMT</pubDate>
-    </item>
   </channel>
 </rss>
