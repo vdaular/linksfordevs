@@ -7,6 +7,267 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>My DIY FPGA board can run Quake II</title>
+      <link>https://blog.mikhe.ch/quake2-on-fpga/</link>
+      <description>kind of a blog</description>
+      <category>linux</category>
+      <guid>https://blog.mikhe.ch/quake2-on-fpga/</guid>
+      <pubDate>Tue, 24 Mar 2026 00:04:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I Got a Dear ImGui App Approved on the Mac App Store</title>
+      <link>https://marchildmann.com/blog/imgui-mac-app-store/</link>
+      <description>A technical deep-dive into shipping a Dear ImGui / C++ desktop app on the Mac App Store. Code signing, static linking, sandboxing, and what Apple's review process actually checks.</description>
+      <author> (Marc Hildmann)</author>
+      <category>sql</category>
+      <category>apple</category>
+      <category>cloud</category>
+      <category>javascript</category>
+      <category>vscode</category>
+      <guid>https://marchildmann.com/blog/imgui-mac-app-store/</guid>
+      <pubDate>Tue, 24 Mar 2026 00:04:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>LLMs can’t reason and never will</title>
+      <link>https://pablomarino.com/research_blog/2026/03/23/research5.html</link>
+      <description>4 arguments and my prediction for the future</description>
+      <category>ai</category>
+      <guid>https://pablomarino.com/research_blog/2026/03/23/research5.html</guid>
+      <pubDate>Tue, 24 Mar 2026 00:04:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>The machine didn't take your craft. You gave it up.</title>
+      <link>https://www.davidabram.dev/musings/the-machine-didnt-take-your-craft/</link>
+      <description>The machine didn't take your craft. You gave it up. by David Abram</description>
+      <guid>https://www.davidabram.dev/musings/the-machine-didnt-take-your-craft/</guid>
+      <pubDate>Tue, 24 Mar 2026 00:03:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Anatomy of an Agent Loop | Steve Kinney</title>
+      <link>https://stevekinney.com/writing/agent-loops</link>
+      <description>Every major AI agent runs the same core loop. The 6-line version is easy. The production-hardened version—with context compaction, loop detection, cost budgets, and graceful termination—is where things get interesting.</description>
+      <category>git</category>
+      <category>javascript</category>
+      <category>python</category>
+      <category>typescript</category>
+      <category>nodejs</category>
+      <guid>https://stevekinney.com/writing/agent-loops</guid>
+      <pubDate>Tue, 24 Mar 2026 00:03:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Building the Good Web</title>
+      <link>https://brennan.day/building-the-good-web/</link>
+      <description>What does it actually mean to build a better web, and what do we owe each other in doing so? A response to the 32-bit Café thread about trust, onboarding, and the distance between knowing something is wrong and doing something about it.</description>
+      <author> (Brennan Kenneth Brown)</author>
+      <guid>https://brennan.day/building-the-good-web/</guid>
+      <pubDate>Tue, 24 Mar 2026 00:03:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vibecoders can't build for longevity</title>
+      <link>https://blog.d11r.eu/theory-building/</link>
+      <description>_-_-_-_-_-_-_-</description>
+      <category>ai</category>
+      <guid>https://blog.d11r.eu/theory-building/</guid>
+      <pubDate>Tue, 24 Mar 2026 00:03:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>My Sage Barista espresso machine is now smart</title>
+      <link>https://www.kopiro.me/press/sage-barista-via-zigbee/index.html</link>
+      <description>The goal is simple: having my Sage Barista already warm when I wake up.</description>
+      <guid>https://www.kopiro.me/press/sage-barista-via-zigbee/index.html</guid>
+      <pubDate>Tue, 24 Mar 2026 00:03:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>crib: Just Enough Devcontainers</title>
+      <link>https://fabiorehm.com/blog/2026/03/20/crib-just-enough-devcontainers/</link>
+      <description>After building dev environment tools on and off for many years, I scratched the same itch again, this time on top of the devcontainer spec.</description>
+      <category>ai</category>
+      <category>containers</category>
+      <category>git</category>
+      <category>javascript</category>
+      <category>nodejs</category>
+      <guid>https://fabiorehm.com/blog/2026/03/20/crib-just-enough-devcontainers/</guid>
+      <pubDate>Tue, 24 Mar 2026 00:03:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Unlocking 25 Gigabit/s on 10 GbE Direct Attach Copper</title>
+      <link>https://kohlschuetter.github.io/blog/posts/2026/03/22/unlock25/</link>
+      <description>A tip that can save you big money when upgrading to 25 Gig Ethernet</description>
+      <category>conference</category>
+      <category>linux</category>
+      <category>ai</category>
+      <guid>https://kohlschuetter.github.io/blog/posts/2026/03/22/unlock25/</guid>
+      <pubDate>Tue, 24 Mar 2026 00:03:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>davidbau.com Does Computer Science Still Exist?</title>
+      <link>https://davidbau.com/archives/2026/03/20/does_computer_science_still_exist.html</link>
+      <description>I have always seen the computer as a tool that gives us new ways to think.</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <category>javascript</category>
+      <guid>https://davidbau.com/archives/2026/03/20/does_computer_science_still_exist.html</guid>
+      <pubDate>Tue, 24 Mar 2026 00:03:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Agentic Coding Data Dump</title>
+      <link>https://www.sam-brink.com/posts/ai</link>
+      <description>Agentic Coding Data Dump</description>
+      <category>git</category>
+      <category>javascript</category>
+      <category>cloud</category>
+      <category>web</category>
+      <category>ai</category>
+      <guid>https://www.sam-brink.com/posts/ai</guid>
+      <pubDate>Tue, 24 Mar 2026 00:03:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Is Argon2 actually better than Bcrypt?</title>
+      <link>https://pilcrowonpaper.com/blog/14</link>
+      <description>Pilcrow's personal website.</description>
+      <guid>https://pilcrowonpaper.com/blog/14</guid>
+      <pubDate>Tue, 24 Mar 2026 00:03:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Django Custom Managers Are Silently Leaking Data</title>
+      <link>https://johnnymetz.com/posts/django-custom-managers-data-leak/</link>
+      <description>Django custom managers are a common way to exclude rows by default, such as inactive or soft-deleted rows. However, they don’t run everywhere you’d expect, which leads to unintended data exposure. This post covers where that happens and how to fix it.
+The Setup Let’s model stores and products with a soft-deletable relationship:
+class Store(models.Model): name = models.CharField(max_length=255) class Product(models.Model): name = models.CharField(max_length=255) class StoreProductManager(models.Manager): def get_queryset(self): return super().get_queryset().filter(active=True) class StoreProduct(models.Model): store = models.ForeignKey(Store, on_delete=models.CASCADE) product = models.ForeignKey(Product, on_delete=models.CASCADE) active = models.BooleanField(default=True) created_at = models.DateTimeField(auto_now_add=True) objects = StoreProductManager() # default: active only all_objects = models.Manager() # escape hatch: everything The custom manager is declared first, making it the default manager. That feels like it should protect us everywhere, but it doesn’t.</description>
+      <category>sql</category>
+      <category>python</category>
+      <guid>https://johnnymetz.com/posts/django-custom-managers-data-leak/</guid>
+      <pubDate>Tue, 24 Mar 2026 00:03:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Things Will Take Longer Than You Think They Will - Don't Break Prod</title>
+      <link>https://dontbreakprod.com/posts/things-will-take-longer-than-you-think-they-will</link>
+      <description>Don't Break Prod provides bite-sized pieces of career advice for software engineers.</description>
+      <guid>https://dontbreakprod.com/posts/things-will-take-longer-than-you-think-they-will</guid>
+      <pubDate>Tue, 24 Mar 2026 00:03:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wait it out</title>
+      <link>https://bell.bz/wait-it-out/</link>
+      <description>You know what I’m talking about.
+</description>
+      <category>web</category>
+      <guid>https://bell.bz/wait-it-out/</guid>
+      <pubDate>Tue, 24 Mar 2026 00:03:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>TLA+ mental models</title>
+      <link>http://muratbuffalo.blogspot.com/2026/03/tla-mental-models.html</link>
+      <description>In the age of LLMs, syntax is no longer the bottleneck for writing, reading, or learning TLA+. People are even getting value by generating T...</description>
+      <category>encryption</category>
+      <category>nodejs</category>
+      <category>sql</category>
+      <category>ai</category>
+      <category>cloud</category>
+      <guid>http://muratbuffalo.blogspot.com/2026/03/tla-mental-models.html</guid>
+      <pubDate>Tue, 24 Mar 2026 00:03:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Marc Andreessen is wrong about introspection</title>
+      <link>https://www.joanwestenberg.com/marc-andreessen-is-wrong-about-introspection/</link>
+      <description>This newsletter is free to read, and it’ll stay that way. But if you want more - extra posts each month, access to the community, and a direct line to ask me things - paid subscriptions are $2.50/month. A lot of people have told me it’s</description>
+      <guid>https://www.joanwestenberg.com/marc-andreessen-is-wrong-about-introspection/</guid>
+      <pubDate>Tue, 24 Mar 2026 00:03:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Semi-retirement, or, really, changing my relationship with the BSDs</title>
+      <link>https://briancallahan.net/blog/20260322.html</link>
+      <description>academic, developer, with an eye towards a brighter techno-social life</description>
+      <guid>https://briancallahan.net/blog/20260322.html</guid>
+      <pubDate>Tue, 24 Mar 2026 00:03:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kamal, Rails deployments, and Rega turntables</title>
+      <link>https://marianposaceanu.com/articles/kamal-rails-deployments-and-rega-turntables</link>
+      <description>Lately I've started to put back into a working state my turntable. It's been disconnected from my main audio chain for about five years. The TT is a Rega RP3 with a bog-standard Rega Carbon...</description>
+      <category>ruby</category>
+      <category>containers</category>
+      <category>cloud</category>
+      <category>web</category>
+      <category>git</category>
+      <guid>https://marianposaceanu.com/articles/kamal-rails-deployments-and-rega-turntables</guid>
+      <pubDate>Tue, 24 Mar 2026 00:02:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Making a Language</title>
+      <link>https://thunderseethe.dev/series/making-a-language/</link>
+      <description>This is a series that teaches you how to make a statically-typed functional programming language.
+It was motivated by a gap between compilers as taught and compilers as seen in production.
+Production compilers are deeply concerned with being interactive, accomodating IDE usage and incremental compilation.
+In trying to learn how these work, I encounterd a dearth of material.
+We implement a query-based compiler and a language server atop that, which you can see in the
+playground
+
+.</description>
+      <category>web</category>
+      <guid>https://thunderseethe.dev/series/making-a-language/</guid>
+      <pubDate>Tue, 24 Mar 2026 00:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I’m Productive with Claude Code</title>
+      <link>https://neilkakkar.com/productive-with-claude-code.html</link>
+      <description>It’s been about 6 weeks since I joined Tano, and this is what my commit history looks like:</description>
+      <author> (https://neilkakkar.com/about/)</author>
+      <category>git</category>
+      <category>gaming</category>
+      <category>ai</category>
+      <guid>https://neilkakkar.com/productive-with-claude-code.html</guid>
+      <pubDate>Tue, 24 Mar 2026 00:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Priesthood of System Design</title>
+      <link>https://pooyam.dev/llms-system-design</link>
+      <description>People say LLMs can code but can't do system design. I disagree. System design is more pattern-matching than people admit — and if you give an LLM enough context, it can outdesign 99% of engineers.</description>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://pooyam.dev/llms-system-design</guid>
+      <pubDate>Tue, 24 Mar 2026 00:02:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>The LLM Voice Problem</title>
+      <link>https://tomyandell.dev/blog/llm-voice</link>
+      <description>Why AI-assisted writing sounds the same and what to do about it</description>
+      <category>conference</category>
+      <category>ai</category>
+      <guid>https://tomyandell.dev/blog/llm-voice</guid>
+      <pubDate>Tue, 24 Mar 2026 00:02:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Automated materials design | Alan Yahya</title>
+      <link>https://alanyahya.com/writing/automated-materials-design</link>
+      <description>Automated materials design</description>
+      <category>sql</category>
+      <category>ai</category>
+      <guid>https://alanyahya.com/writing/automated-materials-design</guid>
+      <pubDate>Tue, 24 Mar 2026 00:02:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Codex with GPT-5.4 vs Claude Code with Opus 4.6 — Why I Now Use Both</title>
+      <link>https://chandlernguyen.com/blog/2026/03/13/codex-gpt-5-4-vs-claude-code-opus-4-6-dual-wielding-ai-coding-tools/</link>
+      <description>After using Claude Code with Opus 4.6 daily for almost a year, I spent a week with Codex and GPT-5.4. The verdict: neither tool wins outright. The combination — cross-model review, complementary strengths, operational resilience — is better than either alone.</description>
+      <author> (Chandler Nguyen)</author>
+      <category>ai</category>
+      <category>vscode</category>
+      <category>nodejs</category>
+      <guid>https://chandlernguyen.com/blog/2026/03/13/codex-gpt-5-4-vs-claude-code-opus-4-6-dual-wielding-ai-coding-tools/</guid>
+      <pubDate>Tue, 24 Mar 2026 00:02:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>My new toy: FreeBSD on the HP Z2 mini revisited</title>
+      <link>https://peter.czanik.hu/posts/new-toy-freebsd-on-the-hp-z2-mini-revisited/</link>
+      <description>Last week, I wrote about my initial FreeBSD experiences on my new toy, an AI workstation from HP. FreeBSD runs lightning fast on it, but the desktop was somewhat problematic. Well, I made lots of improvements this week!
+A bit of debugging While there are still some rough edges, there have been tons of improvements since last week. I do not have plans to use FreeBSD on the desktop in the long term, but still, I just could not believe that the FreeBSD GUI is this problematic on this device.</description>
+      <category>linux</category>
+      <category>ai</category>
+      <guid>https://peter.czanik.hu/posts/new-toy-freebsd-on-the-hp-z2-mini-revisited/</guid>
+      <pubDate>Tue, 24 Mar 2026 00:02:32 GMT</pubDate>
+    </item>
+    <item>
       <title>US and TotalEnergies reach 'nearly $1 billion' deal to end offshore wind projects</title>
       <link>https://www.lemonde.fr/en/international/article/2026/03/23/us-and-totalenergies-reach-nearly-1-billion-deal-to-end-offshore-wind-projects_6751739_4.html</link>
       <description>The US and the French company signed an agreement to end TotalEnergies' offshore US wind farm projects and redirect those funds towards fossil fuel production.</description>
@@ -246,14 +507,6 @@ might be alright with. At a minimum wouldn't mind seeing pop up in code.</descri
       <category>linux</category>
       <guid>https://blog.mikhe.ch/quake2-on-fpga/part4.html</guid>
       <pubDate>Mon, 23 Mar 2026 01:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Java Is Fast. Your Code Might Not Be. | Jonathan Vogel</title>
-      <link>https://jvogel.me/posts/2026/java-is-fast-your-code-might-not-be/</link>
-      <description>Fixing common Java anti-patterns took an app from 1,198ms to 239ms. Eight patterns that compile fine and pass code review but silently drain CPU and balloon heap, with benchmarks and code fixes for each</description>
-      <category>git</category>
-      <guid>https://jvogel.me/posts/2026/java-is-fast-your-code-might-not-be/</guid>
-      <pubDate>Mon, 23 Mar 2026 00:02:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
