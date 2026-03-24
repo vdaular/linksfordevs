@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Disruption with some GitHub services",
+    "Url": "https://www.githubstatus.com/incidents/kp06czybl7dw",
+    "Timestamp": "2026-03-24T23:02:06",
+    "Domain": "www.githubstatus.com",
+    "Description": "GitHub's Status Page - Disruption with some GitHub services."
+  },
+  {
     "Title": "Supply Chain Attack in litellm 1.82.8 on PyPI",
     "Url": "https://futuresearch.ai/blog/litellm-pypi-supply-chain-attack/",
     "Timestamp": "2026-03-24T22:02:26",
