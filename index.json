@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Autoresearch on an old research idea | Blog | Yogesh Kumar",
+    "Url": "https://ykumar.me/blog/eclip-autoresearch/",
+    "Timestamp": "2026-03-24T01:01:56",
+    "Domain": "ykumar.me",
+    "Description": "Yogesh Kumar's personal website",
+    "Confidence": 0.91681063
+  },
+  {
     "Title": "My DIY FPGA board can run Quake II",
     "Url": "https://blog.mikhe.ch/quake2-on-fpga/",
     "Timestamp": "2026-03-24T00:04:10",
@@ -294,133 +302,5 @@
     "Domain": "grapheneos.social",
     "Description": "GrapheneOS will remain usable by anyone around the world without requiring personal information, identification or an account. GrapheneOS and our services will remain available internationally. If GrapheneOS devices can't be sold in a region due to their regulations, so be it.",
     "Confidence": 0.8838106
-  },
-  {
-    "Title": "Coding as a Game of Probabilities",
-    "Url": "https://robertmaple.co.uk/coding-as-a-game-of-probabilities/",
-    "Timestamp": "2026-03-23T01:03:12",
-    "Domain": "robertmaple.co.uk",
-    "Description": "Thinking about coding with AI as a process of navigating a tree of probabilistic outcomes.",
-    "Confidence": 0.99248576
-  },
-  {
-    "Title": "Why Email Spam Looks Better Than Usual These Days\n    ",
-    "Url": "https://tedium.co/2026/02/25/vibe-coded-email-spam/",
-    "Timestamp": "2026-03-23T01:03:09",
-    "Domain": "tedium.co",
-    "Description": "The problem with making coding easier for more people is that it makes spam more conventionally attractive. Which is bad.\n    ",
-    "Confidence": 0.99311835
-  },
-  {
-    "Title": "I Was Excited to See Someone Else Build a /do Router",
-    "Url": "https://vexjoy.com/posts/i-was-excited-to-see-someone-else-build-a-do-router/",
-    "Timestamp": "2026-03-23T01:03:05",
-    "Domain": "vexjoy.com",
-    "Description": "Nine months of building in public with limited traction. Then someone posted a system with the same architecture and I felt something I wasn’t expecting.",
-    "Confidence": 0.9885488
-  },
-  {
-    "Title": "The Tokenizer and the Brain — Yap.Town",
-    "Url": "https://yap.town/blog/unexpected-application-of-ml-theory-to-language-learning/",
-    "Timestamp": "2026-03-23T01:03:02",
-    "Domain": "yap.town",
-    "Description": "Applying the Unigram tokenization algorithm to language learning to surprising benefit",
-    "Confidence": 0.98095626
-  },
-  {
-    "Title": "Anne Labs — Building Trusted AI Agents",
-    "Url": "https://anne.lat/blog/kv-cache-compress",
-    "Timestamp": "2026-03-23T01:02:58",
-    "Domain": "anne.lat",
-    "Description": "Secure infrastructure for enterprise AI agents — orchestration, control, and observability for production workflows.",
-    "Confidence": 0.99349844
-  },
-  {
-    "Title": "Writer's Block meet OpenClaw",
-    "Url": "https://foxish.me/posts/writers-block-meet-openclaw/",
-    "Timestamp": "2026-03-23T01:02:54",
-    "Domain": "foxish.me",
-    "Description": "Writer’s block was my biggest hurdle. Ideas pile up in Todoist and voice memos, but the gap between thought and publish felt impossibly wide.\nThat’s changed with OpenClaw. I can record a voice message on my phone, and it appears as a published preview URL in seconds. For the first time, I actually feel optimistic about writing regularly.\nThe Setup Hardware: Chromebook at home running OpenClaw via Crostini. Always on, never touched.",
-    "Confidence": 0.9506427
-  },
-  {
-    "Title": "How to Not Get Hacked Through File Uploads",
-    "Url": "https://www.eliranturgeman.com/2026/03/14/uploads-attack-surface/",
-    "Timestamp": "2026-03-23T01:02:51",
-    "Domain": "www.eliranturgeman.com",
-    "Description": "How attackers exploit file uploads through parser vulnerabilities, stored XSS, path traversal, and zip bombs, with practical defenses and code examples for each.",
-    "Confidence": 0.98761505
-  },
-  {
-    "Title": "The biggest theft in human history occurred in broad daylight. - Lucian’s Labyrinth",
-    "Url": "https://labyrinth.pika.page/posts/the-biggest-theft-in-human-history-occurred-in-broad-daylight",
-    "Timestamp": "2026-03-23T01:02:42",
-    "Domain": "labyrinth.pika.page",
-    "Description": "In complex societies like ours, theft typically follows a formal process: investigation, apprehension, prosecution, punishment (sometimes) and compensation (sometimes) for the victims. I like to invite you on a brief...",
-    "Confidence": 0.97263783
-  },
-  {
-    "Title": "The Tale of My Retrocomputing Infrastructure",
-    "Url": "https://plbrault.com/blog-posts/the-tale-of-my-retrocomputing-infrastructure/",
-    "Timestamp": "2026-03-23T01:02:38",
-    "Domain": "plbrault.com",
-    "Description": "My Mastodon bio reads as follows: Computer science teacher and former software developer. Free software, self-hosting and home automation…",
-    "Confidence": 0.98472214
-  },
-  {
-    "Title": "An effect notation based on with-clauses and blocks",
-    "Url": "https://blog.yoshuawuyts.com/a-with-based-effect-notation/",
-    "Timestamp": "2026-03-23T01:02:35",
-    "Domain": "blog.yoshuawuyts.com",
-    "Description": "A bad habit of mine is that I’ll write 10.000 or 20.000 words on a topic, and\nthen never publish that. A lot of my longer-form writing never sees the light of\nday because it gets stuck in editing purgatory. Editing small pieces is easy and\nquick, editing long pieces is not. I’ve been wanting to write more about effect\nnotations for a while now and have been noodling on something I hope people\nmight be alright with. At a minimum wouldn't mind seeing pop up in code.",
-    "Confidence": 0.99464256
-  },
-  {
-    "Title": "Stop Building Traceability in Jira — RTMify Blog",
-    "Url": "https://rtmify.io/blog/stop_building_traceability_in_jira/",
-    "Timestamp": "2026-03-23T01:02:31",
-    "Domain": "rtmify.io",
-    "Description": "Jira is a task tracker, not a traceability tool. The engineering practice that actually satisfies your auditor takes thirty seconds and costs nothing.",
-    "Confidence": 0.978681
-  },
-  {
-    "Title": "You Are Not Your Job",
-    "Url": "https://jry.io/writing/you-are-not-your-job/",
-    "Timestamp": "2026-03-23T01:02:28",
-    "Domain": "jry.io",
-    "Description": "Mar 22, 2026",
-    "Confidence": 0.9176374
-  },
-  {
-    "Title": "E-bike for the mind",
-    "Url": "https://www.djmurphy.net/blog/e-bike-for-the-mind/",
-    "Timestamp": "2026-03-23T01:02:24",
-    "Domain": "www.djmurphy.net",
-    "Description": "A case for using AI to train, not just to go faster.",
-    "Confidence": 0.9017557
-  },
-  {
-    "Title": "PC Gamer Recommends RSS Readers in a 37MB Article That Just Keeps Downloading — Stuart Breckenridge",
-    "Url": "https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/",
-    "Timestamp": "2026-03-23T01:02:20",
-    "Domain": "stuartbreckenridge.net",
-    "Description": "No sense of irony.",
-    "Confidence": 0.8863057
-  },
-  {
-    "Title": "Apply less, but better.",
-    "Url": "https://www.adriankrebs.ch/blog/apply-less-but-better/",
-    "Timestamp": "2026-03-23T01:02:17",
-    "Domain": "www.adriankrebs.ch",
-    "Description": "How to stand out among a flood of generic (AI-generated) job applications",
-    "Confidence": 0.9420145
-  },
-  {
-    "Title": "My DIY FPGA board can run Quake II (part 4)",
-    "Url": "https://blog.mikhe.ch/quake2-on-fpga/part4.html",
-    "Timestamp": "2026-03-23T01:02:14",
-    "Domain": "blog.mikhe.ch",
-    "Description": "kind of a blog",
-    "Confidence": 0.97262377
   }
 ]

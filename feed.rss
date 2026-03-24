@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Autoresearch on an old research idea | Blog | Yogesh Kumar</title>
+      <link>https://ykumar.me/blog/eclip-autoresearch/</link>
+      <description>Yogesh Kumar's personal website</description>
+      <category>ai</category>
+      <category>python</category>
+      <category>git</category>
+      <guid>https://ykumar.me/blog/eclip-autoresearch/</guid>
+      <pubDate>Tue, 24 Mar 2026 01:01:56 GMT</pubDate>
+    </item>
+    <item>
       <title>My DIY FPGA board can run Quake II</title>
       <link>https://blog.mikhe.ch/quake2-on-fpga/</link>
       <description>kind of a blog</description>
@@ -355,158 +365,6 @@ A bit of debugging While there are still some rough edges, there have been tons 
       <category>encryption</category>
       <guid>https://grapheneos.social/@GrapheneOS/116261301913660830</guid>
       <pubDate>Mon, 23 Mar 2026 03:02:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Coding as a Game of Probabilities</title>
-      <link>https://robertmaple.co.uk/coding-as-a-game-of-probabilities/</link>
-      <description>Thinking about coding with AI as a process of navigating a tree of probabilistic outcomes.</description>
-      <category>ai</category>
-      <category>gaming</category>
-      <guid>https://robertmaple.co.uk/coding-as-a-game-of-probabilities/</guid>
-      <pubDate>Mon, 23 Mar 2026 01:03:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why Email Spam Looks Better Than Usual These Days
-    </title>
-      <link>https://tedium.co/2026/02/25/vibe-coded-email-spam/</link>
-      <description>The problem with making coding easier for more people is that it makes spam more conventionally attractive. Which is bad.
-    </description>
-      <category>ai</category>
-      <category>linux</category>
-      <category>gaming</category>
-      <guid>https://tedium.co/2026/02/25/vibe-coded-email-spam/</guid>
-      <pubDate>Mon, 23 Mar 2026 01:03:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>I Was Excited to See Someone Else Build a /do Router</title>
-      <link>https://vexjoy.com/posts/i-was-excited-to-see-someone-else-build-a-do-router/</link>
-      <description>Nine months of building in public with limited traction. Then someone posted a system with the same architecture and I felt something I wasn’t expecting.</description>
-      <category>ai</category>
-      <guid>https://vexjoy.com/posts/i-was-excited-to-see-someone-else-build-a-do-router/</guid>
-      <pubDate>Mon, 23 Mar 2026 01:03:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Tokenizer and the Brain — Yap.Town</title>
-      <link>https://yap.town/blog/unexpected-application-of-ml-theory-to-language-learning/</link>
-      <description>Applying the Unigram tokenization algorithm to language learning to surprising benefit</description>
-      <category>ai</category>
-      <category>rust</category>
-      <guid>https://yap.town/blog/unexpected-application-of-ml-theory-to-language-learning/</guid>
-      <pubDate>Mon, 23 Mar 2026 01:03:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anne Labs — Building Trusted AI Agents</title>
-      <link>https://anne.lat/blog/kv-cache-compress</link>
-      <description>Secure infrastructure for enterprise AI agents — orchestration, control, and observability for production workflows.</description>
-      <category>ai</category>
-      <guid>https://anne.lat/blog/kv-cache-compress</guid>
-      <pubDate>Mon, 23 Mar 2026 01:02:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Writer's Block meet OpenClaw</title>
-      <link>https://foxish.me/posts/writers-block-meet-openclaw/</link>
-      <description>Writer’s block was my biggest hurdle. Ideas pile up in Todoist and voice memos, but the gap between thought and publish felt impossibly wide.
-That’s changed with OpenClaw. I can record a voice message on my phone, and it appears as a published preview URL in seconds. For the first time, I actually feel optimistic about writing regularly.
-The Setup Hardware: Chromebook at home running OpenClaw via Crostini. Always on, never touched.</description>
-      <category>apple</category>
-      <category>git</category>
-      <guid>https://foxish.me/posts/writers-block-meet-openclaw/</guid>
-      <pubDate>Mon, 23 Mar 2026 01:02:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>How to Not Get Hacked Through File Uploads</title>
-      <link>https://www.eliranturgeman.com/2026/03/14/uploads-attack-surface/</link>
-      <description>How attackers exploit file uploads through parser vulnerabilities, stored XSS, path traversal, and zip bombs, with practical defenses and code examples for each.</description>
-      <author> (Eliran Turgeman)</author>
-      <category>nodejs</category>
-      <category>ruby</category>
-      <category>javascript</category>
-      <category>web</category>
-      <category>python</category>
-      <guid>https://www.eliranturgeman.com/2026/03/14/uploads-attack-surface/</guid>
-      <pubDate>Mon, 23 Mar 2026 01:02:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>The biggest theft in human history occurred in broad daylight. - Lucian’s Labyrinth</title>
-      <link>https://labyrinth.pika.page/posts/the-biggest-theft-in-human-history-occurred-in-broad-daylight</link>
-      <description>In complex societies like ours, theft typically follows a formal process: investigation, apprehension, prosecution, punishment (sometimes) and compensation (sometimes) for the victims. I like to invite you on a brief...</description>
-      <category>ai</category>
-      <guid>https://labyrinth.pika.page/posts/the-biggest-theft-in-human-history-occurred-in-broad-daylight</guid>
-      <pubDate>Mon, 23 Mar 2026 01:02:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Tale of My Retrocomputing Infrastructure</title>
-      <link>https://plbrault.com/blog-posts/the-tale-of-my-retrocomputing-infrastructure/</link>
-      <description>My Mastodon bio reads as follows: Computer science teacher and former software developer. Free software, self-hosting and home automation…</description>
-      <category>gaming</category>
-      <category>apple</category>
-      <category>linux</category>
-      <guid>https://plbrault.com/blog-posts/the-tale-of-my-retrocomputing-infrastructure/</guid>
-      <pubDate>Mon, 23 Mar 2026 01:02:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>An effect notation based on with-clauses and blocks</title>
-      <link>https://blog.yoshuawuyts.com/a-with-based-effect-notation/</link>
-      <description>A bad habit of mine is that I’ll write 10.000 or 20.000 words on a topic, and
-then never publish that. A lot of my longer-form writing never sees the light of
-day because it gets stuck in editing purgatory. Editing small pieces is easy and
-quick, editing long pieces is not. I’ve been wanting to write more about effect
-notations for a while now and have been noodling on something I hope people
-might be alright with. At a minimum wouldn't mind seeing pop up in code.</description>
-      <category>rust</category>
-      <category>python</category>
-      <guid>https://blog.yoshuawuyts.com/a-with-based-effect-notation/</guid>
-      <pubDate>Mon, 23 Mar 2026 01:02:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stop Building Traceability in Jira — RTMify Blog</title>
-      <link>https://rtmify.io/blog/stop_building_traceability_in_jira/</link>
-      <description>Jira is a task tracker, not a traceability tool. The engineering practice that actually satisfies your auditor takes thirty seconds and costs nothing.</description>
-      <category>git</category>
-      <category>encryption</category>
-      <category>python</category>
-      <guid>https://rtmify.io/blog/stop_building_traceability_in_jira/</guid>
-      <pubDate>Mon, 23 Mar 2026 01:02:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>You Are Not Your Job</title>
-      <link>https://jry.io/writing/you-are-not-your-job/</link>
-      <description>Mar 22, 2026</description>
-      <category>ai</category>
-      <guid>https://jry.io/writing/you-are-not-your-job/</guid>
-      <pubDate>Mon, 23 Mar 2026 01:02:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>E-bike for the mind</title>
-      <link>https://www.djmurphy.net/blog/e-bike-for-the-mind/</link>
-      <description>A case for using AI to train, not just to go faster.</description>
-      <category>ai</category>
-      <guid>https://www.djmurphy.net/blog/e-bike-for-the-mind/</guid>
-      <pubDate>Mon, 23 Mar 2026 01:02:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>PC Gamer Recommends RSS Readers in a 37MB Article That Just Keeps Downloading — Stuart Breckenridge</title>
-      <link>https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/</link>
-      <description>No sense of irony.</description>
-      <guid>https://stuartbreckenridge.net/2026-03-19-pc-gamer-recommends-rss-readers-in-a-37mb-article/</guid>
-      <pubDate>Mon, 23 Mar 2026 01:02:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apply less, but better.</title>
-      <link>https://www.adriankrebs.ch/blog/apply-less-but-better/</link>
-      <description>How to stand out among a flood of generic (AI-generated) job applications</description>
-      <category>ai</category>
-      <guid>https://www.adriankrebs.ch/blog/apply-less-but-better/</guid>
-      <pubDate>Mon, 23 Mar 2026 01:02:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>My DIY FPGA board can run Quake II (part 4)</title>
-      <link>https://blog.mikhe.ch/quake2-on-fpga/part4.html</link>
-      <description>kind of a blog</description>
-      <category>ai</category>
-      <category>linux</category>
-      <guid>https://blog.mikhe.ch/quake2-on-fpga/part4.html</guid>
-      <pubDate>Mon, 23 Mar 2026 01:02:14 GMT</pubDate>
     </item>
   </channel>
 </rss>
