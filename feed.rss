@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>So where are all the AI apps? – Answer.AI</title>
+      <link>https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html</link>
+      <description>Practical AI R&amp;D</description>
+      <category>ai</category>
+      <category>python</category>
+      <guid>https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html</guid>
+      <pubDate>Tue, 24 Mar 2026 18:02:14 GMT</pubDate>
+    </item>
+    <item>
       <title>Using FireWire on a Raspberry Pi</title>
       <link>https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/</link>
       <description>After learning Apple killed off FireWire (IEEE 1394) support in macOS 26 Tahoe, I started looking at alternatives for old FireWire equipment like hard drives, DV cameras, and A/V gear.
