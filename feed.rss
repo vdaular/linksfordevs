@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Using FireWire on a Raspberry Pi</title>
+      <link>https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/</link>
+      <description>After learning Apple killed off FireWire (IEEE 1394) support in macOS 26 Tahoe, I started looking at alternatives for old FireWire equipment like hard drives, DV cameras, and A/V gear.
+I own an old Canon GL1 camera, with a 'DV' port. I could plug that into an old Mac (like the dual G4 MDD above) with FireWire—or even a modern Mac running macOS &lt; 26, with some dongles—and transfer digital video footage between the camera and an application like Final Cut Pro.</description>
+      <category>apple</category>
+      <category>linux</category>
+      <guid>https://www.jeffgeerling.com/blog/2026/firewire-on-a-raspberry-pi/</guid>
+      <pubDate>Tue, 24 Mar 2026 17:02:24 GMT</pubDate>
+    </item>
+    <item>
       <title>Microsoft's "Fix" for Windows 11: Flowers After the Beating</title>
       <link>https://www.sambent.com/microsofts-plan-to-fix-windows-11-is-gaslighting/</link>
       <description>Microsoft spent four years stuffing Windows 11 with ads, forced Copilot integrations, and bloatware, now they want applause for promising to remove it.</description>
