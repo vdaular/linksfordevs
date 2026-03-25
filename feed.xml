@@ -7,6 +7,23 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>I wanted to build vertical SaaS for pest control. I took a technician job instead.</title>
+      <link>https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead</link>
+      <description>Not a shadowing day or research interview - a real job.</description>
+      <category>ai</category>
+      <guid>https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead</guid>
+      <pubDate>Wed, 25 Mar 2026 06:02:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>The junior developer pipeline is broken, and nobody has a plan to fix it - ThinkPol</title>
+      <link>https://thinkpol.ca/2026/03/24/the-junior-developer-pipeline-is-broken-and-nobody-has-a-plan-to-fix-it/</link>
+      <description>By Rohana Rezel Schools don’t create senior software engineers. Scars do. Every senior engineer you’ve ever relied on was once mass-applying to entry-level jobs, writing bad code, and learning the hard way why you don’t store passwords in plaintext. The grizzled veterans are grizzled because they have spent decades fighting in the trenches against inherited</description>
+      <category>ai</category>
+      <category>vscode</category>
+      <guid>https://thinkpol.ca/2026/03/24/the-junior-developer-pipeline-is-broken-and-nobody-has-a-plan-to-fix-it/</guid>
+      <pubDate>Wed, 25 Mar 2026 06:02:14 GMT</pubDate>
+    </item>
+    <item>
       <title>Video.js v10 Beta: Hello, World (again) | Blog | Video.js | Open Source Video Player</title>
       <link>https://videojs.org/blog/videojs-v10-beta-hello-world-again</link>
       <description>Video.js v10 is a ground-up rewrite combining four open source players into one modern framework — 88% smaller default bundles, first-class React and TypeScript support, composable architecture, and beautiful new skins designed by Plyr's creator.</description>
@@ -404,24 +421,6 @@ I own an old Canon GL1 camera, with a 'DV' port. I could plug that into an old M
       <category>python</category>
       <guid>https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs</guid>
       <pubDate>Tue, 24 Mar 2026 07:02:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude Code Cheat Sheet</title>
-      <link>https://cc.storyfox.cz/</link>
-      <description>CtrlC Cancel input/generation</description>
-      <category>javascript</category>
-      <category>git</category>
-      <category>ai</category>
-      <guid>https://cc.storyfox.cz/</guid>
-      <pubDate>Tue, 24 Mar 2026 06:02:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>FCC Updates Covered List to Include Foreign-Made Consumer Routers</title>
-      <link>https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers</link>
-      <description>Update Follows Determination by Executive Branch Agencies that Consumer-Grade Routers Produced in Foreign Countries Threaten National Security</description>
-      <category>ai</category>
-      <guid>https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers</guid>
-      <pubDate>Tue, 24 Mar 2026 06:02:10 GMT</pubDate>
     </item>
   </channel>
 </rss>

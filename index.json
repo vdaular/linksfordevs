@@ -1,5 +1,21 @@
 [
   {
+    "Title": "I wanted to build vertical SaaS for pest control. I took a technician job instead.",
+    "Url": "https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead",
+    "Timestamp": "2026-03-25T06:02:19",
+    "Domain": "www.onhand.pro",
+    "Description": "Not a shadowing day or research interview - a real job.",
+    "Confidence": 0.74233305
+  },
+  {
+    "Title": "The junior developer pipeline is broken, and nobody has a plan to fix it - ThinkPol",
+    "Url": "https://thinkpol.ca/2026/03/24/the-junior-developer-pipeline-is-broken-and-nobody-has-a-plan-to-fix-it/",
+    "Timestamp": "2026-03-25T06:02:14",
+    "Domain": "thinkpol.ca",
+    "Description": "By Rohana Rezel Schools don’t create senior software engineers. Scars do. Every senior engineer you’ve ever relied on was once mass-applying to entry-level jobs, writing bad code, and learning the hard way why you don’t store passwords in plaintext. The grizzled veterans are grizzled because they have spent decades fighting in the trenches against inherited",
+    "Confidence": 0.86600286
+  },
+  {
     "Title": "Video.js v10 Beta: Hello, World (again) | Blog | Video.js | Open Source Video Player",
     "Url": "https://videojs.org/blog/videojs-v10-beta-hello-world-again",
     "Timestamp": "2026-03-25T04:02:12",
@@ -318,21 +334,5 @@
     "Domain": "epoch.ai",
     "Description": "Construct hypergraphs as large as possible that do not have a certain easy-to-check, difficult-to-find property.",
     "Confidence": 0.98380053
-  },
-  {
-    "Title": "Claude Code Cheat Sheet",
-    "Url": "https://cc.storyfox.cz/",
-    "Timestamp": "2026-03-24T06:02:15",
-    "Domain": "cc.storyfox.cz",
-    "Description": "CtrlC Cancel input/generation",
-    "Confidence": 0.99889845
-  },
-  {
-    "Title": "FCC Updates Covered List to Include Foreign-Made Consumer Routers",
-    "Url": "https://www.fcc.gov/document/fcc-updates-covered-list-include-foreign-made-consumer-routers",
-    "Timestamp": "2026-03-24T06:02:10",
-    "Domain": "www.fcc.gov",
-    "Description": "Update Follows Determination by Executive Branch Agencies that Consumer-Grade Routers Produced in Foreign Countries Threaten National Security",
-    "Confidence": 0.91930056
   }
 ]
