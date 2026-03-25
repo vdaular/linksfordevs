@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Ensu - Ente's Local LLM app",
+    "Url": "https://ente.com/blog/ensu/",
+    "Timestamp": "2026-03-25T18:02:26",
+    "Domain": "ente.com",
+    "Description": "Introducing Ensu, our first step toward a private, personal LLM app that runs on your device and grows with you over time.",
+    "Confidence": 0.98382115
+  },
+  {
     "Title": "Apple Just Lost Me • AndreGarzia.com",
     "Url": "https://andregarzia.com/2026/03/apple-just-lost-me.html",
     "Timestamp": "2026-03-25T16:02:22",
@@ -318,13 +326,5 @@
     "Domain": "www.apple.com",
     "Description": "Apple today announced Apple Business, a new all-in-one platform that allows companies to manage devices and reach more customers.",
     "Confidence": 0.96300626
-  },
-  {
-    "Title": "So where are all the AI apps? – Answer.AI",
-    "Url": "https://www.answer.ai/posts/2026-03-12-so-where-are-all-the-ai-apps.html",
-    "Timestamp": "2026-03-24T18:02:14",
-    "Domain": "www.answer.ai",
-    "Description": "Practical AI R&D",
-    "Confidence": 0.99453557
   }
 ]
