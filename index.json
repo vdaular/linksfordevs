@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Fight Chat Control - Protect Digital Privacy in the EU",
+    "Url": "https://fightchatcontrol.eu/?foo=bar",
+    "Timestamp": "2026-03-25T22:02:05",
+    "Domain": "fightchatcontrol.eu",
+    "Description": "Learn about the EU Chat Control proposal and contact your representatives to protect digital privacy and encryption.",
+    "Confidence": 0.7803725
+  },
+  {
     "Title": "Thoughts on slowing the fuck down",
     "Url": "https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/",
     "Timestamp": "2026-03-25T19:02:32",
@@ -294,21 +302,5 @@
     "Domain": "www.githubstatus.com",
     "Description": "GitHub's Status Page - Disruption with some GitHub services.",
     "Confidence": 0.89510834
-  },
-  {
-    "Title": "Supply Chain Attack in litellm 1.82.8 on PyPI",
-    "Url": "https://futuresearch.ai/blog/litellm-pypi-supply-chain-attack/",
-    "Timestamp": "2026-03-24T22:02:26",
-    "Domain": "futuresearch.ai",
-    "Description": "litellm version 1.82.8 on PyPI contains a malicious .pth file that harvests SSH keys, cloud credentials, and secrets on every Python startup, then attempts lateral movement across Kubernetes clusters.",
-    "Confidence": 0.97741246
-  },
-  {
-    "Title": "Is anybody else bored of talking about AI?",
-    "Url": "https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/",
-    "Timestamp": "2026-03-24T22:02:21",
-    "Domain": "blog.jakesaunders.dev",
-    "Description": "Is anybody else bored of talking about AI?",
-    "Confidence": 0.967621
   }
 ]

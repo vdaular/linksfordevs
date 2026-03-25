@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Fight Chat Control - Protect Digital Privacy in the EU</title>
+      <link>https://fightchatcontrol.eu/?foo=bar</link>
+      <description>Learn about the EU Chat Control proposal and contact your representatives to protect digital privacy and encryption.</description>
+      <guid>https://fightchatcontrol.eu/?foo=bar</guid>
+      <pubDate>Wed, 25 Mar 2026 22:02:05 GMT</pubDate>
+    </item>
+    <item>
       <title>Thoughts on slowing the fuck down</title>
       <link>https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/</link>
       <description>Thoughts on slowing the fuck down</description>
@@ -365,29 +372,6 @@ Using MTE for Finding Bugs (E)MTE is not just valuable in a security context.</d
       <description>GitHub's Status Page - Disruption with some GitHub services.</description>
       <guid>https://www.githubstatus.com/incidents/kp06czybl7dw</guid>
       <pubDate>Tue, 24 Mar 2026 23:02:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Supply Chain Attack in litellm 1.82.8 on PyPI</title>
-      <link>https://futuresearch.ai/blog/litellm-pypi-supply-chain-attack/</link>
-      <description>litellm version 1.82.8 on PyPI contains a malicious .pth file that harvests SSH keys, cloud credentials, and secrets on every Python startup, then attempts lateral movement across Kubernetes clusters.</description>
-      <author> (Callum McMahon)</author>
-      <category>encryption</category>
-      <category>containers</category>
-      <category>cloud</category>
-      <category>python</category>
-      <category>nodejs</category>
-      <guid>https://futuresearch.ai/blog/litellm-pypi-supply-chain-attack/</guid>
-      <pubDate>Tue, 24 Mar 2026 22:02:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Is anybody else bored of talking about AI?</title>
-      <link>https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/</link>
-      <description>Is anybody else bored of talking about AI?</description>
-      <category>ai</category>
-      <category>javascript</category>
-      <category>sql</category>
-      <guid>https://blog.jakesaunders.dev/is-anybody-else-bored-of-talking-about-ai/</guid>
-      <pubDate>Tue, 24 Mar 2026 22:02:21 GMT</pubDate>
     </item>
   </channel>
 </rss>
