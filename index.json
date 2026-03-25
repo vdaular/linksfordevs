@@ -310,21 +310,5 @@
     "Domain": "blog.jakesaunders.dev",
     "Description": "Is anybody else bored of talking about AI?",
     "Confidence": 0.967621
-  },
-  {
-    "Title": "A Simple .NET CLI Web Server | no dogma blog",
-    "Url": "https://nodogmablog.bryanhogan.net/2026/03/a-simple-net-cli-web-server/",
-    "Timestamp": "2026-03-24T21:02:29",
-    "Domain": "nodogmablog.bryanhogan.net",
-    "Description": "I got a little tired of running `python -m http.server` every time I wanted to serve some files, so I wrote a simple .NET CLI web server.",
-    "Confidence": 0.9995172
-  },
-  {
-    "Title": "Wine 11 rewrites how Linux runs Windows games at the kernel level, and the speed gains are massive",
-    "Url": "https://www.xda-developers.com/wine-11-rewrites-linux-runs-windows-games-speed-gains/",
-    "Timestamp": "2026-03-24T21:02:25",
-    "Domain": "www.xda-developers.com",
-    "Description": "Wine 11 is the biggest jump for Linux gaming in years.",
-    "Confidence": 0.98131245
   }
 ]
