@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Video.js v10 Beta: Hello, World (again) | Blog | Video.js | Open Source Video Player",
+    "Url": "https://videojs.org/blog/videojs-v10-beta-hello-world-again",
+    "Timestamp": "2026-03-25T04:02:12",
+    "Domain": "videojs.org",
+    "Description": "Video.js v10 is a ground-up rewrite combining four open source players into one modern framework — 88% smaller default bundles, first-class React and TypeScript support, composable architecture, and beautiful new skins designed by Plyr's creator.",
+    "Confidence": 0.9938192
+  },
+  {
     "Title": "Building a blog with Elixir and Phoenix | jola.dev",
     "Url": "https://jola.dev/posts/building-a-blog-with-elixir-and-phoenix",
     "Timestamp": "2026-03-25T00:04:42",

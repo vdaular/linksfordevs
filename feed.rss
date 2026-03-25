@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Video.js v10 Beta: Hello, World (again) | Blog | Video.js | Open Source Video Player</title>
+      <link>https://videojs.org/blog/videojs-v10-beta-hello-world-again</link>
+      <description>Video.js v10 is a ground-up rewrite combining four open source players into one modern framework — 88% smaller default bundles, first-class React and TypeScript support, composable architecture, and beautiful new skins designed by Plyr's creator.</description>
+      <category>javascript</category>
+      <category>cloud</category>
+      <category>ai</category>
+      <category>git</category>
+      <category>web</category>
+      <guid>https://videojs.org/blog/videojs-v10-beta-hello-world-again</guid>
+      <pubDate>Wed, 25 Mar 2026 04:02:12 GMT</pubDate>
+    </item>
+    <item>
       <title>Building a blog with Elixir and Phoenix | jola.dev</title>
       <link>https://jola.dev/posts/building-a-blog-with-elixir-and-phoenix</link>
       <description>Setting up a website using Elixir and Phoenix, leaning on NimblePublisher for the blog posts.</description>
