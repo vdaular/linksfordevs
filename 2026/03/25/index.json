@@ -1,0 +1,198 @@
+[
+  {
+    "Title": "Building a blog with Elixir and Phoenix | jola.dev",
+    "Url": "https://jola.dev/posts/building-a-blog-with-elixir-and-phoenix",
+    "Timestamp": "2026-03-25T00:04:42",
+    "Domain": "jola.dev",
+    "Description": "Setting up a website using Elixir and Phoenix, leaning on NimblePublisher for the blog posts."
+  },
+  {
+    "Title": "My First LLM Experiment | Scott Larson",
+    "Url": "https://www.scottrlarson.com/publications/publication-my-first-llm-experiment/",
+    "Timestamp": "2026-03-25T00:04:38",
+    "Domain": "www.scottrlarson.com",
+    "Description": ""
+  },
+  {
+    "Title": "SWE-bench will hit 90% this year. - Fabraix Research",
+    "Url": "https://fabraix.com/blog/swe-bench-90-percent",
+    "Timestamp": "2026-03-25T00:04:35",
+    "Domain": "fabraix.com",
+    "Description": "Six models are within 1.3 points on SWE-bench Verified. Binary benchmarks are saturating — what will replace them?"
+  },
+  {
+    "Title": "VishalRs · Phoenix Framework",
+    "Url": "https://vishal.rs/essay/how-to-play-flight-simulator-in-vr-on-an-ec2-cloud-gaming-instance",
+    "Timestamp": "2026-03-25T00:04:31",
+    "Domain": "vishal.rs",
+    "Description": "Not so long ago, I started playing Microsoft’s \nFlight Simulator 2020 and Flight Simulator 2024. I’ve \nplayed them using NVidia’s GeForce Now service as well \nas Shadow PC. Both services are excellent and I highly\nrecommend them!"
+  },
+  {
+    "Title": "We're not vibe engineering",
+    "Url": "https://jonathannen.com/not-vibe-engineering/",
+    "Timestamp": "2026-03-25T00:04:28",
+    "Domain": "jonathannen.com",
+    "Description": "Vibe coding is the headline. Engineering a new SDLC is the actual work."
+  },
+  {
+    "Title": "We Were About to Buy an Automation Platform. We Already Had One.",
+    "Url": "https://barazany.dev/blog/we-already-had-the-automation-platform",
+    "Timestamp": "2026-03-25T00:04:25",
+    "Domain": "barazany.dev",
+    "Description": "We spent weeks in governance spirals over n8n and Workato. The answer was already deployed — it just needed one more feature to click into place."
+  },
+  {
+    "Title": "It is time to redefine what a senior engineer is",
+    "Url": "https://cientifico.net/it-is-time-to-redefine-what-a-senior-engineer-is/",
+    "Timestamp": "2026-03-25T00:04:21",
+    "Domain": "cientifico.net",
+    "Description": "If your job is taking a well-defined spec and turning it into code, that workflow has a name now: a prompt. Here's what a senior engineer actually is in 2026."
+  },
+  {
+    "Title": "Can I hear a difference between MP3s and uncompressed audio?",
+    "Url": "https://82mhz.net/posts/2026/03/can-i-hear-a-difference-between-mp3s-and-uncompressed-audio/",
+    "Timestamp": "2026-03-25T00:04:16",
+    "Domain": "82mhz.net",
+    "Description": "Music streaming services often advertise their product by highlighting that they have a (more expensive of course) option for uncompressed or Studio Quality audio, because it supposedly sounds much better than compressed MP3 files. Uncompressed just sounds better, it's clearer, has more dynamic range, more depth, better high end and so on, is how the story goes. Frankly, I think this is mostly nonsense. MP3s at high bitrates can be considered transparent (more on this below), which means they sound indistinguishable from the original uncompressed sound source. At lower bitrates, sure, they sound worse. A 128kbit/s stereo MP3 file that you downloaded from Napster in 1999 will definitely sound worse than the uncompressed original recording that it was created from. But modern MP3 encoders are much better than those from the past, and at a bitrate of 320kbit/s they deliver audio quality that in my opinion very few people will be able to tell apart from the uncompressed original."
+  },
+  {
+    "Title": "The Kaizen of Context | carlsz.dev",
+    "Url": "https://carlsz.dev/posts/test-driven-design-kaizen-of-context",
+    "Timestamp": "2026-03-25T00:04:10",
+    "Domain": "carlsz.dev",
+    "Description": "carlsz.dev — Personal Blog"
+  },
+  {
+    "Title": "Announcing Arm AGI CPU: The silicon foundation for the agentic AI cloud era",
+    "Url": "https://newsroom.arm.com/blog/introducing-arm-agi-cpu",
+    "Timestamp": "2026-03-25T00:04:06",
+    "Domain": "newsroom.arm.com",
+    "Description": "Arm introduces the Arm AGI CPU to power agentic AI infrastructure with rack-scale performance, efficiency and scalable compute for next-generation data centers."
+  },
+  {
+    "Title": "Why Everyone’s Picking Up a PSP Again in 2026",
+    "Url": "https://gardinerbryant.com/psp-in-2026/",
+    "Timestamp": "2026-03-25T00:04:01",
+    "Domain": "gardinerbryant.com",
+    "Description": "Over the past few months, I've spotted something a little odd and unexpected happening to Sony's old PlayStation Portable. There's been no corporate push, no announcement of the truly portable Sony handheld we used to hope for (sorry, Portal). Instead, through something far less predictable, considering it's 2026, people are"
+  },
+  {
+    "Title": "The Displacement of Cognitive Labor and What Comes After",
+    "Url": "https://sahajgarg.github.io/blog/cognitive-labor/",
+    "Timestamp": "2026-03-25T00:03:55",
+    "Domain": "sahajgarg.github.io",
+    "Description": "I. The Threshold Has Been Crossed"
+  },
+  {
+    "Title": "Simple Made Inevitable: The Economics of Language Choice in the LLM Era",
+    "Url": "https://felixbarbalet.com/simple-made-inevitable-the-economics-of-language-choice-in-the-llm-era/",
+    "Timestamp": "2026-03-25T00:03:52",
+    "Domain": "felixbarbalet.com",
+    "Description": "Two years ago, I wrote about managing twenty microservices at Qantas with a small team. The problem was keeping services in sync, coordinating changes across system boundaries, fighting the entropy of a codebase that grew faster than our ability to reason about it.\n\nMany years before my time, someone had"
+  },
+  {
+    "Title": "why i stopped using fancy dev tools and became more productive",
+    "Url": "https://alexandmanu.com/blog/why-i-stopped-using-fancy-dev-tools/",
+    "Timestamp": "2026-03-25T00:03:48",
+    "Domain": "alexandmanu.com",
+    "Description": "sometimes less is more"
+  },
+  {
+    "Title": "The Myth of the MV pattern: Why SwiftUI developers just reinvented MVC",
+    "Url": "https://matteomanferdini.com/swiftui-mv-pattern/",
+    "Timestamp": "2026-03-25T00:03:45",
+    "Domain": "matteomanferdini.com",
+    "Description": "Since the introduction of SwiftUI, the MV pattern has been discussed in online forums about SwiftUI architecture. Its proponents sell it as a new pattern that aligns with how SwiftUI is intended to be used, while patterns like MVVM are allegedly at odds with the framework. In this article, I will show how the MV ... Read more"
+  },
+  {
+    "Title": "The Last Quiet Thing",
+    "Url": "https://www.terrygodier.com/the-last-quiet-thing",
+    "Timestamp": "2026-03-25T00:03:41",
+    "Domain": "www.terrygodier.com",
+    "Description": "Your possessions came alive. Now they won't stop talking."
+  },
+  {
+    "Title": "How I started with repairs",
+    "Url": "https://posts.joedmin.cz/posts/how-i-started-with-repairs/",
+    "Timestamp": "2026-03-25T00:03:38",
+    "Domain": "posts.joedmin.cz",
+    "Description": "About how I got into repairing small electronics."
+  },
+  {
+    "Title": "My Pragmatic Way to Use Labels in Password Managers",
+    "Url": "https://martin.sh/my-pragmatic-way-to-use-labels-in-password-managers/",
+    "Timestamp": "2026-03-25T00:03:33",
+    "Domain": "martin.sh",
+    "Description": "About 10 years ago, I started using a labeling system for my logins, and it has proven really useful. My goal with this post is to briefly introduce it and give a few example scenarios for why you might want to use it."
+  },
+  {
+    "Title": "Vibe Coding: Programming for the Rest of Us?",
+    "Url": "https://numericcitizen.me/vibe-coding-programming-for-the-rest-of-us/",
+    "Timestamp": "2026-03-25T00:03:27",
+    "Domain": "numericcitizen.me",
+    "Description": "Vibe coding might prove to be programming for the rest of us."
+  },
+  {
+    "Title": "Addressing global removal race in Wayland – Vlad Zahorodnii's Blog",
+    "Url": "https://blog.vladzahorodnii.com/2026/03/24/addressing-global-removal-race-in-wayland/",
+    "Timestamp": "2026-03-25T00:03:23",
+    "Domain": "blog.vladzahorodnii.com",
+    "Description": "Global objects are one of the core abstractions in Wayland. They are used to announce supported protocols or announce semi-transient objects, for example available outputs. The compositor can add and remove global objects on the fly. For example, an output global object can be created when a new monitor becomes available, and be removed when the corresponding monitor gets disconnected."
+  },
+  {
+    "Title": "Bomfather",
+    "Url": "https://bomfather.dev/blog/sandboxing-isnt-the-solution/",
+    "Timestamp": "2026-03-25T00:03:18",
+    "Domain": "bomfather.dev",
+    "Description": "Before diving into this, I want to say that sandboxing is VERY useful! But it isn’t the solution to everything."
+  },
+  {
+    "Title": "Interviewing in the age of the LLM - Screening",
+    "Url": "https://thomshutt.com/2026/03/24/interviewing-in-the-age-of-the-llm/",
+    "Timestamp": "2026-03-25T00:03:14",
+    "Domain": "thomshutt.com",
+    "Description": "Writing and notes by Thom Shutt."
+  },
+  {
+    "Title": "My split keyboard journey",
+    "Url": "https://simondalvai.org/blog/split-keyboard-journey/",
+    "Timestamp": "2026-03-25T00:03:11",
+    "Domain": "simondalvai.org",
+    "Description": "My journey from conventional keyboards to split keyboards."
+  },
+  {
+    "Title": "Enabling MTE for the LLDB Test Suite",
+    "Url": "https://jonasdevlieghere.com/post/lldb-mte-test-suite/",
+    "Timestamp": "2026-03-25T00:03:06",
+    "Domain": "jonasdevlieghere.com",
+    "Description": "Enhanced Memory Tagging Extension (EMTE) is a hardware-based security technology to protect against memory corruption vulnerabilities. Memory allocations are tagged with a secret key. When memory is accessed, the hardware validates the tag, and if it doesn’t match, stops the process. EMTE is the foundation of Apple’s Memory Integrity Enforcement (MIE). It’s available on A19 and M5 processors or later.\nUsing MTE for Finding Bugs (E)MTE is not just valuable in a security context."
+  },
+  {
+    "Title": "The Best Engineer You Can't Hire",
+    "Url": "https://a9s.dev/blog/the-best-engineer-you-cant-hire",
+    "Timestamp": "2026-03-25T00:03:03",
+    "Domain": "a9s.dev",
+    "Description": "A senior engineer with cutting-edge AI tooling ships a production site in a day. That person is impossible to hire. So we built a service instead."
+  },
+  {
+    "Title": "energy aware performance tuning for modern times · Erthalion's blog",
+    "Url": "https://erthalion.info/2026/03/12/energy-performance/",
+    "Timestamp": "2026-03-25T00:02:59",
+    "Domain": "erthalion.info",
+    "Description": "12 Mar 2026"
+  },
+  {
+    "Title": "charles leifer | Slopification and Its Discontents",
+    "Url": "https://charlesleifer.com/blog/slopification-and-its-discontents/",
+    "Timestamp": "2026-03-25T00:02:52",
+    "Domain": "charlesleifer.com",
+    "Description": "March 23, 2026 21:33\n      /\n      \n        ai\n      \n        python\n      \n      /\n      0 comments"
+  },
+  {
+    "Title": "T-shirt Driven Development",
+    "Url": "https://seongminpark.com/t-shirt-driven-development/",
+    "Timestamp": "2026-03-25T00:02:48",
+    "Domain": "seongminpark.com",
+    "Description": "Dress less ship more."
+  }
+]

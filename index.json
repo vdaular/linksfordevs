@@ -1,5 +1,229 @@
 [
   {
+    "Title": "Building a blog with Elixir and Phoenix | jola.dev",
+    "Url": "https://jola.dev/posts/building-a-blog-with-elixir-and-phoenix",
+    "Timestamp": "2026-03-25T00:04:42",
+    "Domain": "jola.dev",
+    "Description": "Setting up a website using Elixir and Phoenix, leaning on NimblePublisher for the blog posts.",
+    "Confidence": 0.9943684
+  },
+  {
+    "Title": "My First LLM Experiment | Scott Larson",
+    "Url": "https://www.scottrlarson.com/publications/publication-my-first-llm-experiment/",
+    "Timestamp": "2026-03-25T00:04:38",
+    "Domain": "www.scottrlarson.com",
+    "Description": "",
+    "Confidence": 0.90839386
+  },
+  {
+    "Title": "SWE-bench will hit 90% this year. - Fabraix Research",
+    "Url": "https://fabraix.com/blog/swe-bench-90-percent",
+    "Timestamp": "2026-03-25T00:04:35",
+    "Domain": "fabraix.com",
+    "Description": "Six models are within 1.3 points on SWE-bench Verified. Binary benchmarks are saturating — what will replace them?",
+    "Confidence": 0.95596236
+  },
+  {
+    "Title": "VishalRs · Phoenix Framework",
+    "Url": "https://vishal.rs/essay/how-to-play-flight-simulator-in-vr-on-an-ec2-cloud-gaming-instance",
+    "Timestamp": "2026-03-25T00:04:31",
+    "Domain": "vishal.rs",
+    "Description": "Not so long ago, I started playing Microsoft’s \nFlight Simulator 2020 and Flight Simulator 2024. I’ve \nplayed them using NVidia’s GeForce Now service as well \nas Shadow PC. Both services are excellent and I highly\nrecommend them!",
+    "Confidence": 0.9965568
+  },
+  {
+    "Title": "We're not vibe engineering",
+    "Url": "https://jonathannen.com/not-vibe-engineering/",
+    "Timestamp": "2026-03-25T00:04:28",
+    "Domain": "jonathannen.com",
+    "Description": "Vibe coding is the headline. Engineering a new SDLC is the actual work.",
+    "Confidence": 0.95020926
+  },
+  {
+    "Title": "We Were About to Buy an Automation Platform. We Already Had One.",
+    "Url": "https://barazany.dev/blog/we-already-had-the-automation-platform",
+    "Timestamp": "2026-03-25T00:04:25",
+    "Domain": "barazany.dev",
+    "Description": "We spent weeks in governance spirals over n8n and Workato. The answer was already deployed — it just needed one more feature to click into place.",
+    "Confidence": 0.98741186
+  },
+  {
+    "Title": "It is time to redefine what a senior engineer is",
+    "Url": "https://cientifico.net/it-is-time-to-redefine-what-a-senior-engineer-is/",
+    "Timestamp": "2026-03-25T00:04:21",
+    "Domain": "cientifico.net",
+    "Description": "If your job is taking a well-defined spec and turning it into code, that workflow has a name now: a prompt. Here's what a senior engineer actually is in 2026.",
+    "Confidence": 0.9735418
+  },
+  {
+    "Title": "Can I hear a difference between MP3s and uncompressed audio?",
+    "Url": "https://82mhz.net/posts/2026/03/can-i-hear-a-difference-between-mp3s-and-uncompressed-audio/",
+    "Timestamp": "2026-03-25T00:04:16",
+    "Domain": "82mhz.net",
+    "Description": "Music streaming services often advertise their product by highlighting that they have a (more expensive of course) option for uncompressed or Studio Quality audio, because it supposedly sounds much better than compressed MP3 files. Uncompressed just sounds better, it's clearer, has more dynamic range, more depth, better high end and so on, is how the story goes. Frankly, I think this is mostly nonsense. MP3s at high bitrates can be considered transparent (more on this below), which means they sound indistinguishable from the original uncompressed sound source. At lower bitrates, sure, they sound worse. A 128kbit/s stereo MP3 file that you downloaded from Napster in 1999 will definitely sound worse than the uncompressed original recording that it was created from. But modern MP3 encoders are much better than those from the past, and at a bitrate of 320kbit/s they deliver audio quality that in my opinion very few people will be able to tell apart from the uncompressed original.",
+    "Confidence": 0.99078876
+  },
+  {
+    "Title": "The Kaizen of Context | carlsz.dev",
+    "Url": "https://carlsz.dev/posts/test-driven-design-kaizen-of-context",
+    "Timestamp": "2026-03-25T00:04:10",
+    "Domain": "carlsz.dev",
+    "Description": "carlsz.dev — Personal Blog",
+    "Confidence": 0.9868318
+  },
+  {
+    "Title": "Announcing Arm AGI CPU: The silicon foundation for the agentic AI cloud era",
+    "Url": "https://newsroom.arm.com/blog/introducing-arm-agi-cpu",
+    "Timestamp": "2026-03-25T00:04:06",
+    "Domain": "newsroom.arm.com",
+    "Description": "Arm introduces the Arm AGI CPU to power agentic AI infrastructure with rack-scale performance, efficiency and scalable compute for next-generation data centers.",
+    "Confidence": 0.9528038
+  },
+  {
+    "Title": "Why Everyone’s Picking Up a PSP Again in 2026",
+    "Url": "https://gardinerbryant.com/psp-in-2026/",
+    "Timestamp": "2026-03-25T00:04:01",
+    "Domain": "gardinerbryant.com",
+    "Description": "Over the past few months, I've spotted something a little odd and unexpected happening to Sony's old PlayStation Portable. There's been no corporate push, no announcement of the truly portable Sony handheld we used to hope for (sorry, Portal). Instead, through something far less predictable, considering it's 2026, people are",
+    "Confidence": 0.9868909
+  },
+  {
+    "Title": "The Displacement of Cognitive Labor and What Comes After",
+    "Url": "https://sahajgarg.github.io/blog/cognitive-labor/",
+    "Timestamp": "2026-03-25T00:03:55",
+    "Domain": "sahajgarg.github.io",
+    "Description": "I. The Threshold Has Been Crossed",
+    "Confidence": 0.9701434
+  },
+  {
+    "Title": "Simple Made Inevitable: The Economics of Language Choice in the LLM Era",
+    "Url": "https://felixbarbalet.com/simple-made-inevitable-the-economics-of-language-choice-in-the-llm-era/",
+    "Timestamp": "2026-03-25T00:03:52",
+    "Domain": "felixbarbalet.com",
+    "Description": "Two years ago, I wrote about managing twenty microservices at Qantas with a small team. The problem was keeping services in sync, coordinating changes across system boundaries, fighting the entropy of a codebase that grew faster than our ability to reason about it.\n\nMany years before my time, someone had",
+    "Confidence": 0.97673476
+  },
+  {
+    "Title": "why i stopped using fancy dev tools and became more productive",
+    "Url": "https://alexandmanu.com/blog/why-i-stopped-using-fancy-dev-tools/",
+    "Timestamp": "2026-03-25T00:03:48",
+    "Domain": "alexandmanu.com",
+    "Description": "sometimes less is more",
+    "Confidence": 0.986346
+  },
+  {
+    "Title": "The Myth of the MV pattern: Why SwiftUI developers just reinvented MVC",
+    "Url": "https://matteomanferdini.com/swiftui-mv-pattern/",
+    "Timestamp": "2026-03-25T00:03:45",
+    "Domain": "matteomanferdini.com",
+    "Description": "Since the introduction of SwiftUI, the MV pattern has been discussed in online forums about SwiftUI architecture. Its proponents sell it as a new pattern that aligns with how SwiftUI is intended to be used, while patterns like MVVM are allegedly at odds with the framework. In this article, I will show how the MV ... Read more",
+    "Confidence": 0.9800062
+  },
+  {
+    "Title": "The Last Quiet Thing",
+    "Url": "https://www.terrygodier.com/the-last-quiet-thing",
+    "Timestamp": "2026-03-25T00:03:41",
+    "Domain": "www.terrygodier.com",
+    "Description": "Your possessions came alive. Now they won't stop talking.",
+    "Confidence": 0.9776785
+  },
+  {
+    "Title": "How I started with repairs",
+    "Url": "https://posts.joedmin.cz/posts/how-i-started-with-repairs/",
+    "Timestamp": "2026-03-25T00:03:38",
+    "Domain": "posts.joedmin.cz",
+    "Description": "About how I got into repairing small electronics.",
+    "Confidence": 0.9399171
+  },
+  {
+    "Title": "My Pragmatic Way to Use Labels in Password Managers",
+    "Url": "https://martin.sh/my-pragmatic-way-to-use-labels-in-password-managers/",
+    "Timestamp": "2026-03-25T00:03:33",
+    "Domain": "martin.sh",
+    "Description": "About 10 years ago, I started using a labeling system for my logins, and it has proven really useful. My goal with this post is to briefly introduce it and give a few example scenarios for why you might want to use it.",
+    "Confidence": 0.99362725
+  },
+  {
+    "Title": "Vibe Coding: Programming for the Rest of Us?",
+    "Url": "https://numericcitizen.me/vibe-coding-programming-for-the-rest-of-us/",
+    "Timestamp": "2026-03-25T00:03:27",
+    "Domain": "numericcitizen.me",
+    "Description": "Vibe coding might prove to be programming for the rest of us.",
+    "Confidence": 0.9940433
+  },
+  {
+    "Title": "Addressing global removal race in Wayland – Vlad Zahorodnii's Blog",
+    "Url": "https://blog.vladzahorodnii.com/2026/03/24/addressing-global-removal-race-in-wayland/",
+    "Timestamp": "2026-03-25T00:03:23",
+    "Domain": "blog.vladzahorodnii.com",
+    "Description": "Global objects are one of the core abstractions in Wayland. They are used to announce supported protocols or announce semi-transient objects, for example available outputs. The compositor can add and remove global objects on the fly. For example, an output global object can be created when a new monitor becomes available, and be removed when the corresponding monitor gets disconnected.",
+    "Confidence": 0.97864914
+  },
+  {
+    "Title": "Bomfather",
+    "Url": "https://bomfather.dev/blog/sandboxing-isnt-the-solution/",
+    "Timestamp": "2026-03-25T00:03:18",
+    "Domain": "bomfather.dev",
+    "Description": "Before diving into this, I want to say that sandboxing is VERY useful! But it isn’t the solution to everything.",
+    "Confidence": 0.9943832
+  },
+  {
+    "Title": "Interviewing in the age of the LLM - Screening",
+    "Url": "https://thomshutt.com/2026/03/24/interviewing-in-the-age-of-the-llm/",
+    "Timestamp": "2026-03-25T00:03:14",
+    "Domain": "thomshutt.com",
+    "Description": "Writing and notes by Thom Shutt.",
+    "Confidence": 0.98383725
+  },
+  {
+    "Title": "My split keyboard journey",
+    "Url": "https://simondalvai.org/blog/split-keyboard-journey/",
+    "Timestamp": "2026-03-25T00:03:11",
+    "Domain": "simondalvai.org",
+    "Description": "My journey from conventional keyboards to split keyboards.",
+    "Confidence": 0.9688325
+  },
+  {
+    "Title": "Enabling MTE for the LLDB Test Suite",
+    "Url": "https://jonasdevlieghere.com/post/lldb-mte-test-suite/",
+    "Timestamp": "2026-03-25T00:03:06",
+    "Domain": "jonasdevlieghere.com",
+    "Description": "Enhanced Memory Tagging Extension (EMTE) is a hardware-based security technology to protect against memory corruption vulnerabilities. Memory allocations are tagged with a secret key. When memory is accessed, the hardware validates the tag, and if it doesn’t match, stops the process. EMTE is the foundation of Apple’s Memory Integrity Enforcement (MIE). It’s available on A19 and M5 processors or later.\nUsing MTE for Finding Bugs (E)MTE is not just valuable in a security context.",
+    "Confidence": 0.9878148
+  },
+  {
+    "Title": "The Best Engineer You Can't Hire",
+    "Url": "https://a9s.dev/blog/the-best-engineer-you-cant-hire",
+    "Timestamp": "2026-03-25T00:03:03",
+    "Domain": "a9s.dev",
+    "Description": "A senior engineer with cutting-edge AI tooling ships a production site in a day. That person is impossible to hire. So we built a service instead.",
+    "Confidence": 0.9004226
+  },
+  {
+    "Title": "energy aware performance tuning for modern times · Erthalion's blog",
+    "Url": "https://erthalion.info/2026/03/12/energy-performance/",
+    "Timestamp": "2026-03-25T00:02:59",
+    "Domain": "erthalion.info",
+    "Description": "12 Mar 2026",
+    "Confidence": 0.96279985
+  },
+  {
+    "Title": "charles leifer | Slopification and Its Discontents",
+    "Url": "https://charlesleifer.com/blog/slopification-and-its-discontents/",
+    "Timestamp": "2026-03-25T00:02:52",
+    "Domain": "charlesleifer.com",
+    "Description": "March 23, 2026 21:33\n      /\n      \n        ai\n      \n        python\n      \n      /\n      0 comments",
+    "Confidence": 0.95854706
+  },
+  {
+    "Title": "T-shirt Driven Development",
+    "Url": "https://seongminpark.com/t-shirt-driven-development/",
+    "Timestamp": "2026-03-25T00:02:48",
+    "Domain": "seongminpark.com",
+    "Description": "Dress less ship more.",
+    "Confidence": 0.90459555
+  },
+  {
     "Title": "Disruption with some GitHub services",
     "Url": "https://www.githubstatus.com/incidents/kp06czybl7dw",
     "Timestamp": "2026-03-24T23:02:06",
@@ -110,221 +334,5 @@
     "Domain": "ykumar.me",
     "Description": "Yogesh Kumar's personal website",
     "Confidence": 0.91681063
-  },
-  {
-    "Title": "My DIY FPGA board can run Quake II",
-    "Url": "https://blog.mikhe.ch/quake2-on-fpga/",
-    "Timestamp": "2026-03-24T00:04:10",
-    "Domain": "blog.mikhe.ch",
-    "Description": "kind of a blog",
-    "Confidence": 0.98759997
-  },
-  {
-    "Title": "How I Got a Dear ImGui App Approved on the Mac App Store",
-    "Url": "https://marchildmann.com/blog/imgui-mac-app-store/",
-    "Timestamp": "2026-03-24T00:04:06",
-    "Domain": "marchildmann.com",
-    "Description": "A technical deep-dive into shipping a Dear ImGui / C++ desktop app on the Mac App Store. Code signing, static linking, sandboxing, and what Apple's review process actually checks.",
-    "Confidence": 0.9977839
-  },
-  {
-    "Title": "LLMs can’t reason and never will",
-    "Url": "https://pablomarino.com/research_blog/2026/03/23/research5.html",
-    "Timestamp": "2026-03-24T00:04:02",
-    "Domain": "pablomarino.com",
-    "Description": "4 arguments and my prediction for the future",
-    "Confidence": 0.97926813
-  },
-  {
-    "Title": "The machine didn't take your craft. You gave it up.",
-    "Url": "https://www.davidabram.dev/musings/the-machine-didnt-take-your-craft/",
-    "Timestamp": "2026-03-24T00:03:58",
-    "Domain": "www.davidabram.dev",
-    "Description": "The machine didn't take your craft. You gave it up. by David Abram",
-    "Confidence": 0.9383086
-  },
-  {
-    "Title": "The Anatomy of an Agent Loop | Steve Kinney",
-    "Url": "https://stevekinney.com/writing/agent-loops",
-    "Timestamp": "2026-03-24T00:03:54",
-    "Domain": "stevekinney.com",
-    "Description": "Every major AI agent runs the same core loop. The 6-line version is easy. The production-hardened version—with context compaction, loop detection, cost budgets, and graceful termination—is where things get interesting.",
-    "Confidence": 0.9886954
-  },
-  {
-    "Title": "Building the Good Web",
-    "Url": "https://brennan.day/building-the-good-web/",
-    "Timestamp": "2026-03-24T00:03:51",
-    "Domain": "brennan.day",
-    "Description": "What does it actually mean to build a better web, and what do we owe each other in doing so? A response to the 32-bit Café thread about trust, onboarding, and the distance between knowing something is wrong and doing something about it.",
-    "Confidence": 0.98488146
-  },
-  {
-    "Title": "Vibecoders can't build for longevity",
-    "Url": "https://blog.d11r.eu/theory-building/",
-    "Timestamp": "2026-03-24T00:03:47",
-    "Domain": "blog.d11r.eu",
-    "Description": "_-_-_-_-_-_-_-",
-    "Confidence": 0.9928752
-  },
-  {
-    "Title": "My Sage Barista espresso machine is now smart",
-    "Url": "https://www.kopiro.me/press/sage-barista-via-zigbee/index.html",
-    "Timestamp": "2026-03-24T00:03:43",
-    "Domain": "www.kopiro.me",
-    "Description": "The goal is simple: having my Sage Barista already warm when I wake up.",
-    "Confidence": 0.97272015
-  },
-  {
-    "Title": "crib: Just Enough Devcontainers",
-    "Url": "https://fabiorehm.com/blog/2026/03/20/crib-just-enough-devcontainers/",
-    "Timestamp": "2026-03-24T00:03:39",
-    "Domain": "fabiorehm.com",
-    "Description": "After building dev environment tools on and off for many years, I scratched the same itch again, this time on top of the devcontainer spec.",
-    "Confidence": 0.9852923
-  },
-  {
-    "Title": "Unlocking 25 Gigabit/s on 10 GbE Direct Attach Copper",
-    "Url": "https://kohlschuetter.github.io/blog/posts/2026/03/22/unlock25/",
-    "Timestamp": "2026-03-24T00:03:35",
-    "Domain": "kohlschuetter.github.io",
-    "Description": "A tip that can save you big money when upgrading to 25 Gig Ethernet",
-    "Confidence": 0.98561394
-  },
-  {
-    "Title": "davidbau.com Does Computer Science Still Exist?",
-    "Url": "https://davidbau.com/archives/2026/03/20/does_computer_science_still_exist.html",
-    "Timestamp": "2026-03-24T00:03:31",
-    "Domain": "davidbau.com",
-    "Description": "I have always seen the computer as a tool that gives us new ways to think.",
-    "Confidence": 0.95117694
-  },
-  {
-    "Title": "Agentic Coding Data Dump",
-    "Url": "https://www.sam-brink.com/posts/ai",
-    "Timestamp": "2026-03-24T00:03:28",
-    "Domain": "www.sam-brink.com",
-    "Description": "Agentic Coding Data Dump",
-    "Confidence": 0.9888201
-  },
-  {
-    "Title": "Is Argon2 actually better than Bcrypt?",
-    "Url": "https://pilcrowonpaper.com/blog/14",
-    "Timestamp": "2026-03-24T00:03:24",
-    "Domain": "pilcrowonpaper.com",
-    "Description": "Pilcrow's personal website.",
-    "Confidence": 0.99497586
-  },
-  {
-    "Title": "Django Custom Managers Are Silently Leaking Data",
-    "Url": "https://johnnymetz.com/posts/django-custom-managers-data-leak/",
-    "Timestamp": "2026-03-24T00:03:21",
-    "Domain": "johnnymetz.com",
-    "Description": "Django custom managers are a common way to exclude rows by default, such as inactive or soft-deleted rows. However, they don’t run everywhere you’d expect, which leads to unintended data exposure. This post covers where that happens and how to fix it.\nThe Setup Let’s model stores and products with a soft-deletable relationship:\nclass Store(models.Model): name = models.CharField(max_length=255) class Product(models.Model): name = models.CharField(max_length=255) class StoreProductManager(models.Manager): def get_queryset(self): return super().get_queryset().filter(active=True) class StoreProduct(models.Model): store = models.ForeignKey(Store, on_delete=models.CASCADE) product = models.ForeignKey(Product, on_delete=models.CASCADE) active = models.BooleanField(default=True) created_at = models.DateTimeField(auto_now_add=True) objects = StoreProductManager() # default: active only all_objects = models.Manager() # escape hatch: everything The custom manager is declared first, making it the default manager. That feels like it should protect us everywhere, but it doesn’t.",
-    "Confidence": 0.997927
-  },
-  {
-    "Title": "Things Will Take Longer Than You Think They Will - Don't Break Prod",
-    "Url": "https://dontbreakprod.com/posts/things-will-take-longer-than-you-think-they-will",
-    "Timestamp": "2026-03-24T00:03:18",
-    "Domain": "dontbreakprod.com",
-    "Description": "Don't Break Prod provides bite-sized pieces of career advice for software engineers.",
-    "Confidence": 0.8395674
-  },
-  {
-    "Title": "Wait it out",
-    "Url": "https://bell.bz/wait-it-out/",
-    "Timestamp": "2026-03-24T00:03:15",
-    "Domain": "bell.bz",
-    "Description": "You know what I’m talking about.\n",
-    "Confidence": 0.94213504
-  },
-  {
-    "Title": "TLA+ mental models",
-    "Url": "http://muratbuffalo.blogspot.com/2026/03/tla-mental-models.html",
-    "Timestamp": "2026-03-24T00:03:11",
-    "Domain": "muratbuffalo.blogspot.com",
-    "Description": "In the age of LLMs, syntax is no longer the bottleneck for writing, reading, or learning TLA+. People are even getting value by generating T...",
-    "Confidence": 0.98981595
-  },
-  {
-    "Title": "Marc Andreessen is wrong about introspection",
-    "Url": "https://www.joanwestenberg.com/marc-andreessen-is-wrong-about-introspection/",
-    "Timestamp": "2026-03-24T00:03:06",
-    "Domain": "www.joanwestenberg.com",
-    "Description": "This newsletter is free to read, and it’ll stay that way. But if you want more - extra posts each month, access to the community, and a direct line to ask me things - paid subscriptions are $2.50/month. A lot of people have told me it’s",
-    "Confidence": 0.5974067
-  },
-  {
-    "Title": "Semi-retirement, or, really, changing my relationship with the BSDs",
-    "Url": "https://briancallahan.net/blog/20260322.html",
-    "Timestamp": "2026-03-24T00:03:02",
-    "Domain": "briancallahan.net",
-    "Description": "academic, developer, with an eye towards a brighter techno-social life",
-    "Confidence": 0.98613906
-  },
-  {
-    "Title": "Kamal, Rails deployments, and Rega turntables",
-    "Url": "https://marianposaceanu.com/articles/kamal-rails-deployments-and-rega-turntables",
-    "Timestamp": "2026-03-24T00:02:58",
-    "Domain": "marianposaceanu.com",
-    "Description": "Lately I've started to put back into a working state my turntable. It's been disconnected from my main audio chain for about five years. The TT is a Rega RP3 with a bog-standard Rega Carbon...",
-    "Confidence": 0.9901263
-  },
-  {
-    "Title": "Making a Language",
-    "Url": "https://thunderseethe.dev/series/making-a-language/",
-    "Timestamp": "2026-03-24T00:02:54",
-    "Domain": "thunderseethe.dev",
-    "Description": "This is a series that teaches you how to make a statically-typed functional programming language.\nIt was motivated by a gap between compilers as taught and compilers as seen in production.\nProduction compilers are deeply concerned with being interactive, accomodating IDE usage and incremental compilation.\nIn trying to learn how these work, I encounterd a dearth of material.\nWe implement a query-based compiler and a language server atop that, which you can see in the\nplayground\n\n.",
-    "Confidence": 0.9971841
-  },
-  {
-    "Title": "How I’m Productive with Claude Code",
-    "Url": "https://neilkakkar.com/productive-with-claude-code.html",
-    "Timestamp": "2026-03-24T00:02:51",
-    "Domain": "neilkakkar.com",
-    "Description": "It’s been about 6 weeks since I joined Tano, and this is what my commit history looks like:",
-    "Confidence": 0.9737228
-  },
-  {
-    "Title": "The Priesthood of System Design",
-    "Url": "https://pooyam.dev/llms-system-design",
-    "Timestamp": "2026-03-24T00:02:47",
-    "Domain": "pooyam.dev",
-    "Description": "People say LLMs can code but can't do system design. I disagree. System design is more pattern-matching than people admit — and if you give an LLM enough context, it can outdesign 99% of engineers.",
-    "Confidence": 0.9722271
-  },
-  {
-    "Title": "The LLM Voice Problem",
-    "Url": "https://tomyandell.dev/blog/llm-voice",
-    "Timestamp": "2026-03-24T00:02:43",
-    "Domain": "tomyandell.dev",
-    "Description": "Why AI-assisted writing sounds the same and what to do about it",
-    "Confidence": 0.9377621
-  },
-  {
-    "Title": "Automated materials design | Alan Yahya",
-    "Url": "https://alanyahya.com/writing/automated-materials-design",
-    "Timestamp": "2026-03-24T00:02:40",
-    "Domain": "alanyahya.com",
-    "Description": "Automated materials design",
-    "Confidence": 0.9956077
-  },
-  {
-    "Title": "Codex with GPT-5.4 vs Claude Code with Opus 4.6 — Why I Now Use Both",
-    "Url": "https://chandlernguyen.com/blog/2026/03/13/codex-gpt-5-4-vs-claude-code-opus-4-6-dual-wielding-ai-coding-tools/",
-    "Timestamp": "2026-03-24T00:02:35",
-    "Domain": "chandlernguyen.com",
-    "Description": "After using Claude Code with Opus 4.6 daily for almost a year, I spent a week with Codex and GPT-5.4. The verdict: neither tool wins outright. The combination — cross-model review, complementary strengths, operational resilience — is better than either alone.",
-    "Confidence": 0.9844025
-  },
-  {
-    "Title": "My new toy: FreeBSD on the HP Z2 mini revisited",
-    "Url": "https://peter.czanik.hu/posts/new-toy-freebsd-on-the-hp-z2-mini-revisited/",
-    "Timestamp": "2026-03-24T00:02:32",
-    "Domain": "peter.czanik.hu",
-    "Description": "Last week, I wrote about my initial FreeBSD experiences on my new toy, an AI workstation from HP. FreeBSD runs lightning fast on it, but the desktop was somewhat problematic. Well, I made lots of improvements this week!\nA bit of debugging While there are still some rough edges, there have been tons of improvements since last week. I do not have plans to use FreeBSD on the desktop in the long term, but still, I just could not believe that the FreeBSD GUI is this problematic on this device.",
-    "Confidence": 0.8942454
   }
 ]

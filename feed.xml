@@ -7,6 +7,281 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Building a blog with Elixir and Phoenix | jola.dev</title>
+      <link>https://jola.dev/posts/building-a-blog-with-elixir-and-phoenix</link>
+      <description>Setting up a website using Elixir and Phoenix, leaning on NimblePublisher for the blog posts.</description>
+      <author> (https://jola.dev/about)</author>
+      <category>nodejs</category>
+      <category>containers</category>
+      <category>git</category>
+      <category>web</category>
+      <category>javascript</category>
+      <guid>https://jola.dev/posts/building-a-blog-with-elixir-and-phoenix</guid>
+      <pubDate>Wed, 25 Mar 2026 00:04:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>My First LLM Experiment | Scott Larson</title>
+      <link>https://www.scottrlarson.com/publications/publication-my-first-llm-experiment/</link>
+      <description></description>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://www.scottrlarson.com/publications/publication-my-first-llm-experiment/</guid>
+      <pubDate>Wed, 25 Mar 2026 00:04:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>SWE-bench will hit 90% this year. - Fabraix Research</title>
+      <link>https://fabraix.com/blog/swe-bench-90-percent</link>
+      <description>Six models are within 1.3 points on SWE-bench Verified. Binary benchmarks are saturating — what will replace them?</description>
+      <category>ai</category>
+      <guid>https://fabraix.com/blog/swe-bench-90-percent</guid>
+      <pubDate>Wed, 25 Mar 2026 00:04:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>VishalRs · Phoenix Framework</title>
+      <link>https://vishal.rs/essay/how-to-play-flight-simulator-in-vr-on-an-ec2-cloud-gaming-instance</link>
+      <description>Not so long ago, I started playing Microsoft’s 
+Flight Simulator 2020 and Flight Simulator 2024. I’ve 
+played them using NVidia’s GeForce Now service as well 
+as Shadow PC. Both services are excellent and I highly
+recommend them!</description>
+      <category>gaming</category>
+      <category>cloud</category>
+      <category>apple</category>
+      <category>linux</category>
+      <guid>https://vishal.rs/essay/how-to-play-flight-simulator-in-vr-on-an-ec2-cloud-gaming-instance</guid>
+      <pubDate>Wed, 25 Mar 2026 00:04:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>We're not vibe engineering</title>
+      <link>https://jonathannen.com/not-vibe-engineering/</link>
+      <description>Vibe coding is the headline. Engineering a new SDLC is the actual work.</description>
+      <category>ai</category>
+      <guid>https://jonathannen.com/not-vibe-engineering/</guid>
+      <pubDate>Wed, 25 Mar 2026 00:04:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>We Were About to Buy an Automation Platform. We Already Had One.</title>
+      <link>https://barazany.dev/blog/we-already-had-the-automation-platform</link>
+      <description>We spent weeks in governance spirals over n8n and Workato. The answer was already deployed — it just needed one more feature to click into place.</description>
+      <author> (Jonathan Barazany)</author>
+      <category>ai</category>
+      <guid>https://barazany.dev/blog/we-already-had-the-automation-platform</guid>
+      <pubDate>Wed, 25 Mar 2026 00:04:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>It is time to redefine what a senior engineer is</title>
+      <link>https://cientifico.net/it-is-time-to-redefine-what-a-senior-engineer-is/</link>
+      <description>If your job is taking a well-defined spec and turning it into code, that workflow has a name now: a prompt. Here's what a senior engineer actually is in 2026.</description>
+      <category>ai</category>
+      <category>web</category>
+      <category>sql</category>
+      <guid>https://cientifico.net/it-is-time-to-redefine-what-a-senior-engineer-is/</guid>
+      <pubDate>Wed, 25 Mar 2026 00:04:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Can I hear a difference between MP3s and uncompressed audio?</title>
+      <link>https://82mhz.net/posts/2026/03/can-i-hear-a-difference-between-mp3s-and-uncompressed-audio/</link>
+      <description>Music streaming services often advertise their product by highlighting that they have a (more expensive of course) option for uncompressed or Studio Quality audio, because it supposedly sounds much better than compressed MP3 files. Uncompressed just sounds better, it's clearer, has more dynamic range, more depth, better high end and so on, is how the story goes. Frankly, I think this is mostly nonsense. MP3s at high bitrates can be considered transparent (more on this below), which means they sound indistinguishable from the original uncompressed sound source. At lower bitrates, sure, they sound worse. A 128kbit/s stereo MP3 file that you downloaded from Napster in 1999 will definitely sound worse than the uncompressed original recording that it was created from. But modern MP3 encoders are much better than those from the past, and at a bitrate of 320kbit/s they deliver audio quality that in my opinion very few people will be able to tell apart from the uncompressed original.</description>
+      <guid>https://82mhz.net/posts/2026/03/can-i-hear-a-difference-between-mp3s-and-uncompressed-audio/</guid>
+      <pubDate>Wed, 25 Mar 2026 00:04:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Kaizen of Context | carlsz.dev</title>
+      <link>https://carlsz.dev/posts/test-driven-design-kaizen-of-context</link>
+      <description>carlsz.dev — Personal Blog</description>
+      <category>android</category>
+      <category>ai</category>
+      <guid>https://carlsz.dev/posts/test-driven-design-kaizen-of-context</guid>
+      <pubDate>Wed, 25 Mar 2026 00:04:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Announcing Arm AGI CPU: The silicon foundation for the agentic AI cloud era</title>
+      <link>https://newsroom.arm.com/blog/introducing-arm-agi-cpu</link>
+      <description>Arm introduces the Arm AGI CPU to power agentic AI infrastructure with rack-scale performance, efficiency and scalable compute for next-generation data centers.</description>
+      <category>ai</category>
+      <category>cloud</category>
+      <category>web</category>
+      <category>nodejs</category>
+      <guid>https://newsroom.arm.com/blog/introducing-arm-agi-cpu</guid>
+      <pubDate>Wed, 25 Mar 2026 00:04:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why Everyone’s Picking Up a PSP Again in 2026</title>
+      <link>https://gardinerbryant.com/psp-in-2026/</link>
+      <description>Over the past few months, I've spotted something a little odd and unexpected happening to Sony's old PlayStation Portable. There's been no corporate push, no announcement of the truly portable Sony handheld we used to hope for (sorry, Portal). Instead, through something far less predictable, considering it's 2026, people are</description>
+      <category>gaming</category>
+      <guid>https://gardinerbryant.com/psp-in-2026/</guid>
+      <pubDate>Wed, 25 Mar 2026 00:04:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Displacement of Cognitive Labor and What Comes After</title>
+      <link>https://sahajgarg.github.io/blog/cognitive-labor/</link>
+      <description>I. The Threshold Has Been Crossed</description>
+      <author> (Sahaj Garg)</author>
+      <category>encryption</category>
+      <category>ai</category>
+      <category>android</category>
+      <guid>https://sahajgarg.github.io/blog/cognitive-labor/</guid>
+      <pubDate>Wed, 25 Mar 2026 00:03:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Simple Made Inevitable: The Economics of Language Choice in the LLM Era</title>
+      <link>https://felixbarbalet.com/simple-made-inevitable-the-economics-of-language-choice-in-the-llm-era/</link>
+      <description>Two years ago, I wrote about managing twenty microservices at Qantas with a small team. The problem was keeping services in sync, coordinating changes across system boundaries, fighting the entropy of a codebase that grew faster than our ability to reason about it.
+
+Many years before my time, someone had</description>
+      <category>python</category>
+      <category>typescript</category>
+      <category>javascript</category>
+      <category>rust</category>
+      <category>git</category>
+      <guid>https://felixbarbalet.com/simple-made-inevitable-the-economics-of-language-choice-in-the-llm-era/</guid>
+      <pubDate>Wed, 25 Mar 2026 00:03:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>why i stopped using fancy dev tools and became more productive</title>
+      <link>https://alexandmanu.com/blog/why-i-stopped-using-fancy-dev-tools/</link>
+      <description>sometimes less is more</description>
+      <category>vscode</category>
+      <category>git</category>
+      <guid>https://alexandmanu.com/blog/why-i-stopped-using-fancy-dev-tools/</guid>
+      <pubDate>Wed, 25 Mar 2026 00:03:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Myth of the MV pattern: Why SwiftUI developers just reinvented MVC</title>
+      <link>https://matteomanferdini.com/swiftui-mv-pattern/</link>
+      <description>Since the introduction of SwiftUI, the MV pattern has been discussed in online forums about SwiftUI architecture. Its proponents sell it as a new pattern that aligns with how SwiftUI is intended to be used, while patterns like MVVM are allegedly at odds with the framework. In this article, I will show how the MV ... Read more</description>
+      <category>apple</category>
+      <guid>https://matteomanferdini.com/swiftui-mv-pattern/</guid>
+      <pubDate>Wed, 25 Mar 2026 00:03:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Last Quiet Thing</title>
+      <link>https://www.terrygodier.com/the-last-quiet-thing</link>
+      <description>Your possessions came alive. Now they won't stop talking.</description>
+      <author> (Terry Godier)</author>
+      <guid>https://www.terrygodier.com/the-last-quiet-thing</guid>
+      <pubDate>Wed, 25 Mar 2026 00:03:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I started with repairs</title>
+      <link>https://posts.joedmin.cz/posts/how-i-started-with-repairs/</link>
+      <description>About how I got into repairing small electronics.</description>
+      <category>android</category>
+      <category>aspnet</category>
+      <category>linux</category>
+      <guid>https://posts.joedmin.cz/posts/how-i-started-with-repairs/</guid>
+      <pubDate>Wed, 25 Mar 2026 00:03:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>My Pragmatic Way to Use Labels in Password Managers</title>
+      <link>https://martin.sh/my-pragmatic-way-to-use-labels-in-password-managers/</link>
+      <description>About 10 years ago, I started using a labeling system for my logins, and it has proven really useful. My goal with this post is to briefly introduce it and give a few example scenarios for why you might want to use it.</description>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://martin.sh/my-pragmatic-way-to-use-labels-in-password-managers/</guid>
+      <pubDate>Wed, 25 Mar 2026 00:03:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vibe Coding: Programming for the Rest of Us?</title>
+      <link>https://numericcitizen.me/vibe-coding-programming-for-the-rest-of-us/</link>
+      <description>Vibe coding might prove to be programming for the rest of us.</description>
+      <category>apple</category>
+      <category>git</category>
+      <category>ai</category>
+      <guid>https://numericcitizen.me/vibe-coding-programming-for-the-rest-of-us/</guid>
+      <pubDate>Wed, 25 Mar 2026 00:03:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Addressing global removal race in Wayland – Vlad Zahorodnii's Blog</title>
+      <link>https://blog.vladzahorodnii.com/2026/03/24/addressing-global-removal-race-in-wayland/</link>
+      <description>Global objects are one of the core abstractions in Wayland. They are used to announce supported protocols or announce semi-transient objects, for example available outputs. The compositor can add and remove global objects on the fly. For example, an output global object can be created when a new monitor becomes available, and be removed when the corresponding monitor gets disconnected.</description>
+      <category>git</category>
+      <category>linux</category>
+      <guid>https://blog.vladzahorodnii.com/2026/03/24/addressing-global-removal-race-in-wayland/</guid>
+      <pubDate>Wed, 25 Mar 2026 00:03:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bomfather</title>
+      <link>https://bomfather.dev/blog/sandboxing-isnt-the-solution/</link>
+      <description>Before diving into this, I want to say that sandboxing is VERY useful! But it isn’t the solution to everything.</description>
+      <guid>https://bomfather.dev/blog/sandboxing-isnt-the-solution/</guid>
+      <pubDate>Wed, 25 Mar 2026 00:03:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Interviewing in the age of the LLM - Screening</title>
+      <link>https://thomshutt.com/2026/03/24/interviewing-in-the-age-of-the-llm/</link>
+      <description>Writing and notes by Thom Shutt.</description>
+      <category>gaming</category>
+      <category>ai</category>
+      <guid>https://thomshutt.com/2026/03/24/interviewing-in-the-age-of-the-llm/</guid>
+      <pubDate>Wed, 25 Mar 2026 00:03:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>My split keyboard journey</title>
+      <link>https://simondalvai.org/blog/split-keyboard-journey/</link>
+      <description>My journey from conventional keyboards to split keyboards.</description>
+      <category>git</category>
+      <guid>https://simondalvai.org/blog/split-keyboard-journey/</guid>
+      <pubDate>Wed, 25 Mar 2026 00:03:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Enabling MTE for the LLDB Test Suite</title>
+      <link>https://jonasdevlieghere.com/post/lldb-mte-test-suite/</link>
+      <description>Enhanced Memory Tagging Extension (EMTE) is a hardware-based security technology to protect against memory corruption vulnerabilities. Memory allocations are tagged with a secret key. When memory is accessed, the hardware validates the tag, and if it doesn’t match, stops the process. EMTE is the foundation of Apple’s Memory Integrity Enforcement (MIE). It’s available on A19 and M5 processors or later.
+Using MTE for Finding Bugs (E)MTE is not just valuable in a security context.</description>
+      <category>python</category>
+      <guid>https://jonasdevlieghere.com/post/lldb-mte-test-suite/</guid>
+      <pubDate>Wed, 25 Mar 2026 00:03:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Best Engineer You Can't Hire</title>
+      <link>https://a9s.dev/blog/the-best-engineer-you-cant-hire</link>
+      <description>A senior engineer with cutting-edge AI tooling ships a production site in a day. That person is impossible to hire. So we built a service instead.</description>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://a9s.dev/blog/the-best-engineer-you-cant-hire</guid>
+      <pubDate>Wed, 25 Mar 2026 00:03:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>energy aware performance tuning for modern times · Erthalion's blog</title>
+      <link>https://erthalion.info/2026/03/12/energy-performance/</link>
+      <description>12 Mar 2026</description>
+      <category>ai</category>
+      <category>linux</category>
+      <category>cloud</category>
+      <guid>https://erthalion.info/2026/03/12/energy-performance/</guid>
+      <pubDate>Wed, 25 Mar 2026 00:02:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>charles leifer | Slopification and Its Discontents</title>
+      <link>https://charlesleifer.com/blog/slopification-and-its-discontents/</link>
+      <description>March 23, 2026 21:33
+      /
+      
+        ai
+      
+        python
+      
+      /
+      0 comments</description>
+      <category>ai</category>
+      <category>sql</category>
+      <category>python</category>
+      <category>vscode</category>
+      <category>rust</category>
+      <guid>https://charlesleifer.com/blog/slopification-and-its-discontents/</guid>
+      <pubDate>Wed, 25 Mar 2026 00:02:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>T-shirt Driven Development</title>
+      <link>https://seongminpark.com/t-shirt-driven-development/</link>
+      <description>Dress less ship more.</description>
+      <category>ai</category>
+      <guid>https://seongminpark.com/t-shirt-driven-development/</guid>
+      <pubDate>Wed, 25 Mar 2026 00:02:48 GMT</pubDate>
+    </item>
+    <item>
       <title>Disruption with some GitHub services</title>
       <link>https://www.githubstatus.com/incidents/kp06czybl7dw</link>
       <description>GitHub's Status Page - Disruption with some GitHub services.</description>
@@ -145,267 +420,6 @@ I own an old Canon GL1 camera, with a 'DV' port. I could plug that into an old M
       <category>git</category>
       <guid>https://ykumar.me/blog/eclip-autoresearch/</guid>
       <pubDate>Tue, 24 Mar 2026 01:01:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>My DIY FPGA board can run Quake II</title>
-      <link>https://blog.mikhe.ch/quake2-on-fpga/</link>
-      <description>kind of a blog</description>
-      <category>linux</category>
-      <guid>https://blog.mikhe.ch/quake2-on-fpga/</guid>
-      <pubDate>Tue, 24 Mar 2026 00:04:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>How I Got a Dear ImGui App Approved on the Mac App Store</title>
-      <link>https://marchildmann.com/blog/imgui-mac-app-store/</link>
-      <description>A technical deep-dive into shipping a Dear ImGui / C++ desktop app on the Mac App Store. Code signing, static linking, sandboxing, and what Apple's review process actually checks.</description>
-      <author> (Marc Hildmann)</author>
-      <category>sql</category>
-      <category>apple</category>
-      <category>cloud</category>
-      <category>javascript</category>
-      <category>vscode</category>
-      <guid>https://marchildmann.com/blog/imgui-mac-app-store/</guid>
-      <pubDate>Tue, 24 Mar 2026 00:04:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>LLMs can’t reason and never will</title>
-      <link>https://pablomarino.com/research_blog/2026/03/23/research5.html</link>
-      <description>4 arguments and my prediction for the future</description>
-      <category>ai</category>
-      <guid>https://pablomarino.com/research_blog/2026/03/23/research5.html</guid>
-      <pubDate>Tue, 24 Mar 2026 00:04:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>The machine didn't take your craft. You gave it up.</title>
-      <link>https://www.davidabram.dev/musings/the-machine-didnt-take-your-craft/</link>
-      <description>The machine didn't take your craft. You gave it up. by David Abram</description>
-      <guid>https://www.davidabram.dev/musings/the-machine-didnt-take-your-craft/</guid>
-      <pubDate>Tue, 24 Mar 2026 00:03:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Anatomy of an Agent Loop | Steve Kinney</title>
-      <link>https://stevekinney.com/writing/agent-loops</link>
-      <description>Every major AI agent runs the same core loop. The 6-line version is easy. The production-hardened version—with context compaction, loop detection, cost budgets, and graceful termination—is where things get interesting.</description>
-      <category>git</category>
-      <category>javascript</category>
-      <category>python</category>
-      <category>typescript</category>
-      <category>nodejs</category>
-      <guid>https://stevekinney.com/writing/agent-loops</guid>
-      <pubDate>Tue, 24 Mar 2026 00:03:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Building the Good Web</title>
-      <link>https://brennan.day/building-the-good-web/</link>
-      <description>What does it actually mean to build a better web, and what do we owe each other in doing so? A response to the 32-bit Café thread about trust, onboarding, and the distance between knowing something is wrong and doing something about it.</description>
-      <author> (Brennan Kenneth Brown)</author>
-      <guid>https://brennan.day/building-the-good-web/</guid>
-      <pubDate>Tue, 24 Mar 2026 00:03:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vibecoders can't build for longevity</title>
-      <link>https://blog.d11r.eu/theory-building/</link>
-      <description>_-_-_-_-_-_-_-</description>
-      <category>ai</category>
-      <guid>https://blog.d11r.eu/theory-building/</guid>
-      <pubDate>Tue, 24 Mar 2026 00:03:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>My Sage Barista espresso machine is now smart</title>
-      <link>https://www.kopiro.me/press/sage-barista-via-zigbee/index.html</link>
-      <description>The goal is simple: having my Sage Barista already warm when I wake up.</description>
-      <guid>https://www.kopiro.me/press/sage-barista-via-zigbee/index.html</guid>
-      <pubDate>Tue, 24 Mar 2026 00:03:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>crib: Just Enough Devcontainers</title>
-      <link>https://fabiorehm.com/blog/2026/03/20/crib-just-enough-devcontainers/</link>
-      <description>After building dev environment tools on and off for many years, I scratched the same itch again, this time on top of the devcontainer spec.</description>
-      <category>ai</category>
-      <category>containers</category>
-      <category>git</category>
-      <category>javascript</category>
-      <category>nodejs</category>
-      <guid>https://fabiorehm.com/blog/2026/03/20/crib-just-enough-devcontainers/</guid>
-      <pubDate>Tue, 24 Mar 2026 00:03:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Unlocking 25 Gigabit/s on 10 GbE Direct Attach Copper</title>
-      <link>https://kohlschuetter.github.io/blog/posts/2026/03/22/unlock25/</link>
-      <description>A tip that can save you big money when upgrading to 25 Gig Ethernet</description>
-      <category>conference</category>
-      <category>linux</category>
-      <category>ai</category>
-      <guid>https://kohlschuetter.github.io/blog/posts/2026/03/22/unlock25/</guid>
-      <pubDate>Tue, 24 Mar 2026 00:03:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>davidbau.com Does Computer Science Still Exist?</title>
-      <link>https://davidbau.com/archives/2026/03/20/does_computer_science_still_exist.html</link>
-      <description>I have always seen the computer as a tool that gives us new ways to think.</description>
-      <category>ai</category>
-      <category>gaming</category>
-      <category>javascript</category>
-      <guid>https://davidbau.com/archives/2026/03/20/does_computer_science_still_exist.html</guid>
-      <pubDate>Tue, 24 Mar 2026 00:03:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Agentic Coding Data Dump</title>
-      <link>https://www.sam-brink.com/posts/ai</link>
-      <description>Agentic Coding Data Dump</description>
-      <category>git</category>
-      <category>javascript</category>
-      <category>cloud</category>
-      <category>web</category>
-      <category>ai</category>
-      <guid>https://www.sam-brink.com/posts/ai</guid>
-      <pubDate>Tue, 24 Mar 2026 00:03:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Is Argon2 actually better than Bcrypt?</title>
-      <link>https://pilcrowonpaper.com/blog/14</link>
-      <description>Pilcrow's personal website.</description>
-      <guid>https://pilcrowonpaper.com/blog/14</guid>
-      <pubDate>Tue, 24 Mar 2026 00:03:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Django Custom Managers Are Silently Leaking Data</title>
-      <link>https://johnnymetz.com/posts/django-custom-managers-data-leak/</link>
-      <description>Django custom managers are a common way to exclude rows by default, such as inactive or soft-deleted rows. However, they don’t run everywhere you’d expect, which leads to unintended data exposure. This post covers where that happens and how to fix it.
-The Setup Let’s model stores and products with a soft-deletable relationship:
-class Store(models.Model): name = models.CharField(max_length=255) class Product(models.Model): name = models.CharField(max_length=255) class StoreProductManager(models.Manager): def get_queryset(self): return super().get_queryset().filter(active=True) class StoreProduct(models.Model): store = models.ForeignKey(Store, on_delete=models.CASCADE) product = models.ForeignKey(Product, on_delete=models.CASCADE) active = models.BooleanField(default=True) created_at = models.DateTimeField(auto_now_add=True) objects = StoreProductManager() # default: active only all_objects = models.Manager() # escape hatch: everything The custom manager is declared first, making it the default manager. That feels like it should protect us everywhere, but it doesn’t.</description>
-      <category>sql</category>
-      <category>python</category>
-      <guid>https://johnnymetz.com/posts/django-custom-managers-data-leak/</guid>
-      <pubDate>Tue, 24 Mar 2026 00:03:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Things Will Take Longer Than You Think They Will - Don't Break Prod</title>
-      <link>https://dontbreakprod.com/posts/things-will-take-longer-than-you-think-they-will</link>
-      <description>Don't Break Prod provides bite-sized pieces of career advice for software engineers.</description>
-      <guid>https://dontbreakprod.com/posts/things-will-take-longer-than-you-think-they-will</guid>
-      <pubDate>Tue, 24 Mar 2026 00:03:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wait it out</title>
-      <link>https://bell.bz/wait-it-out/</link>
-      <description>You know what I’m talking about.
-</description>
-      <category>web</category>
-      <guid>https://bell.bz/wait-it-out/</guid>
-      <pubDate>Tue, 24 Mar 2026 00:03:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>TLA+ mental models</title>
-      <link>http://muratbuffalo.blogspot.com/2026/03/tla-mental-models.html</link>
-      <description>In the age of LLMs, syntax is no longer the bottleneck for writing, reading, or learning TLA+. People are even getting value by generating T...</description>
-      <category>encryption</category>
-      <category>nodejs</category>
-      <category>sql</category>
-      <category>ai</category>
-      <category>cloud</category>
-      <guid>http://muratbuffalo.blogspot.com/2026/03/tla-mental-models.html</guid>
-      <pubDate>Tue, 24 Mar 2026 00:03:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Marc Andreessen is wrong about introspection</title>
-      <link>https://www.joanwestenberg.com/marc-andreessen-is-wrong-about-introspection/</link>
-      <description>This newsletter is free to read, and it’ll stay that way. But if you want more - extra posts each month, access to the community, and a direct line to ask me things - paid subscriptions are $2.50/month. A lot of people have told me it’s</description>
-      <guid>https://www.joanwestenberg.com/marc-andreessen-is-wrong-about-introspection/</guid>
-      <pubDate>Tue, 24 Mar 2026 00:03:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Semi-retirement, or, really, changing my relationship with the BSDs</title>
-      <link>https://briancallahan.net/blog/20260322.html</link>
-      <description>academic, developer, with an eye towards a brighter techno-social life</description>
-      <guid>https://briancallahan.net/blog/20260322.html</guid>
-      <pubDate>Tue, 24 Mar 2026 00:03:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Kamal, Rails deployments, and Rega turntables</title>
-      <link>https://marianposaceanu.com/articles/kamal-rails-deployments-and-rega-turntables</link>
-      <description>Lately I've started to put back into a working state my turntable. It's been disconnected from my main audio chain for about five years. The TT is a Rega RP3 with a bog-standard Rega Carbon...</description>
-      <category>ruby</category>
-      <category>containers</category>
-      <category>cloud</category>
-      <category>web</category>
-      <category>git</category>
-      <guid>https://marianposaceanu.com/articles/kamal-rails-deployments-and-rega-turntables</guid>
-      <pubDate>Tue, 24 Mar 2026 00:02:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Making a Language</title>
-      <link>https://thunderseethe.dev/series/making-a-language/</link>
-      <description>This is a series that teaches you how to make a statically-typed functional programming language.
-It was motivated by a gap between compilers as taught and compilers as seen in production.
-Production compilers are deeply concerned with being interactive, accomodating IDE usage and incremental compilation.
-In trying to learn how these work, I encounterd a dearth of material.
-We implement a query-based compiler and a language server atop that, which you can see in the
-playground
-
-.</description>
-      <category>web</category>
-      <guid>https://thunderseethe.dev/series/making-a-language/</guid>
-      <pubDate>Tue, 24 Mar 2026 00:02:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>How I’m Productive with Claude Code</title>
-      <link>https://neilkakkar.com/productive-with-claude-code.html</link>
-      <description>It’s been about 6 weeks since I joined Tano, and this is what my commit history looks like:</description>
-      <author> (https://neilkakkar.com/about/)</author>
-      <category>git</category>
-      <category>gaming</category>
-      <category>ai</category>
-      <guid>https://neilkakkar.com/productive-with-claude-code.html</guid>
-      <pubDate>Tue, 24 Mar 2026 00:02:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Priesthood of System Design</title>
-      <link>https://pooyam.dev/llms-system-design</link>
-      <description>People say LLMs can code but can't do system design. I disagree. System design is more pattern-matching than people admit — and if you give an LLM enough context, it can outdesign 99% of engineers.</description>
-      <category>ai</category>
-      <category>sql</category>
-      <guid>https://pooyam.dev/llms-system-design</guid>
-      <pubDate>Tue, 24 Mar 2026 00:02:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>The LLM Voice Problem</title>
-      <link>https://tomyandell.dev/blog/llm-voice</link>
-      <description>Why AI-assisted writing sounds the same and what to do about it</description>
-      <category>conference</category>
-      <category>ai</category>
-      <guid>https://tomyandell.dev/blog/llm-voice</guid>
-      <pubDate>Tue, 24 Mar 2026 00:02:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Automated materials design | Alan Yahya</title>
-      <link>https://alanyahya.com/writing/automated-materials-design</link>
-      <description>Automated materials design</description>
-      <category>sql</category>
-      <category>ai</category>
-      <guid>https://alanyahya.com/writing/automated-materials-design</guid>
-      <pubDate>Tue, 24 Mar 2026 00:02:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Codex with GPT-5.4 vs Claude Code with Opus 4.6 — Why I Now Use Both</title>
-      <link>https://chandlernguyen.com/blog/2026/03/13/codex-gpt-5-4-vs-claude-code-opus-4-6-dual-wielding-ai-coding-tools/</link>
-      <description>After using Claude Code with Opus 4.6 daily for almost a year, I spent a week with Codex and GPT-5.4. The verdict: neither tool wins outright. The combination — cross-model review, complementary strengths, operational resilience — is better than either alone.</description>
-      <author> (Chandler Nguyen)</author>
-      <category>ai</category>
-      <category>vscode</category>
-      <category>nodejs</category>
-      <guid>https://chandlernguyen.com/blog/2026/03/13/codex-gpt-5-4-vs-claude-code-opus-4-6-dual-wielding-ai-coding-tools/</guid>
-      <pubDate>Tue, 24 Mar 2026 00:02:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>My new toy: FreeBSD on the HP Z2 mini revisited</title>
-      <link>https://peter.czanik.hu/posts/new-toy-freebsd-on-the-hp-z2-mini-revisited/</link>
-      <description>Last week, I wrote about my initial FreeBSD experiences on my new toy, an AI workstation from HP. FreeBSD runs lightning fast on it, but the desktop was somewhat problematic. Well, I made lots of improvements this week!
-A bit of debugging While there are still some rough edges, there have been tons of improvements since last week. I do not have plans to use FreeBSD on the desktop in the long term, but still, I just could not believe that the FreeBSD GUI is this problematic on this device.</description>
-      <category>linux</category>
-      <category>ai</category>
-      <guid>https://peter.czanik.hu/posts/new-toy-freebsd-on-the-hp-z2-mini-revisited/</guid>
-      <pubDate>Tue, 24 Mar 2026 00:02:32 GMT</pubDate>
     </item>
   </channel>
 </rss>
