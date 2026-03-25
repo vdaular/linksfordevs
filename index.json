@@ -294,13 +294,5 @@
     "Domain": "seongminpark.com",
     "Description": "Dress less ship more.",
     "Confidence": 0.90459555
-  },
-  {
-    "Title": "Disruption with some GitHub services",
-    "Url": "https://www.githubstatus.com/incidents/kp06czybl7dw",
-    "Timestamp": "2026-03-24T23:02:06",
-    "Domain": "www.githubstatus.com",
-    "Description": "GitHub's Status Page - Disruption with some GitHub services.",
-    "Confidence": 0.89510834
   }
 ]
