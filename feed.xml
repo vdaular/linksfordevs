@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Flighty Airports Meltdown Map</title>
+      <link>https://flighty.com/airports</link>
+      <description>Search any airport for real-time delays, weather, arrivals, departures, and performance insights powered by Flighty.</description>
+      <guid>https://flighty.com/airports</guid>
+      <pubDate>Wed, 25 Mar 2026 07:01:58 GMT</pubDate>
+    </item>
+    <item>
       <title>I wanted to build vertical SaaS for pest control. I took a technician job instead.</title>
       <link>https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead</link>
       <description>Not a shadowing day or research interview - a real job.</description>
@@ -412,15 +419,6 @@ I own an old Canon GL1 camera, with a 'DV' port. I could plug that into an old M
       <category>gaming</category>
       <guid>https://idiallo.com/blog/the-n-war-of-the-decade?src=feed</guid>
       <pubDate>Tue, 24 Mar 2026 09:01:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>A Ramsey-style Problem on Hypergraphs</title>
-      <link>https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs</link>
-      <description>Construct hypergraphs as large as possible that do not have a certain easy-to-check, difficult-to-find property.</description>
-      <category>ai</category>
-      <category>python</category>
-      <guid>https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs</guid>
-      <pubDate>Tue, 24 Mar 2026 07:02:09 GMT</pubDate>
     </item>
   </channel>
 </rss>

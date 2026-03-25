@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Flighty Airports Meltdown Map",
+    "Url": "https://flighty.com/airports",
+    "Timestamp": "2026-03-25T07:01:58",
+    "Domain": "flighty.com",
+    "Description": "Search any airport for real-time delays, weather, arrivals, departures, and performance insights powered by Flighty.",
+    "Confidence": 0.8024127
+  },
+  {
     "Title": "I wanted to build vertical SaaS for pest control. I took a technician job instead.",
     "Url": "https://www.onhand.pro/p/i-wanted-to-build-vertical-saas-for-pest-control-i-took-a-technician-job-instead",
     "Timestamp": "2026-03-25T06:02:19",
@@ -326,13 +334,5 @@
     "Domain": "idiallo.com",
     "Description": "This is a blog where I talk mostly about programming in the workplace. These past few years the subject has often been AI, because it affects everything. From the hiring process to the very code we ty",
     "Confidence": 0.5411224
-  },
-  {
-    "Title": "A Ramsey-style Problem on Hypergraphs",
-    "Url": "https://epoch.ai/frontiermath/open-problems/ramsey-hypergraphs",
-    "Timestamp": "2026-03-24T07:02:09",
-    "Domain": "epoch.ai",
-    "Description": "Construct hypergraphs as large as possible that do not have a certain easy-to-check, difficult-to-find property.",
-    "Confidence": 0.98380053
   }
 ]
