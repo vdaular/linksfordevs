@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Thoughts on slowing the fuck down</title>
+      <link>https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/</link>
+      <description>Thoughts on slowing the fuck down</description>
+      <category>cloud</category>
+      <category>ai</category>
+      <guid>https://mariozechner.at/posts/2026-03-25-thoughts-on-slowing-the-fuck-down/</guid>
+      <pubDate>Wed, 25 Mar 2026 19:02:32 GMT</pubDate>
+    </item>
+    <item>
       <title>Ensu - Ente's Local LLM app</title>
       <link>https://ente.com/blog/ensu/</link>
       <description>Introducing Ensu, our first step toward a private, personal LLM app that runs on your device and grows with you over time.</description>
