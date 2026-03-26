@@ -7,6 +7,25 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Running Tesla Model 3's Computer on My Desk Using Parts From Crashed Cars</title>
+      <link>https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/</link>
+      <description>David Schütz's bug bounty writeups</description>
+      <category>apple</category>
+      <category>git</category>
+      <guid>https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/</guid>
+      <pubDate>Thu, 26 Mar 2026 01:02:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple randomly closes bug reports unless you “verify” the bug remains unfixed</title>
+      <link>https://lapcatsoftware.com/articles/2026/3/11.html</link>
+      <description>Why do I file bug reports with Apple Feedback Assistant? I plead insanity. Or perhaps addiction. I seesaw between phases of abstinence and falling off the wagon. I’ve even tried organizing a public boycott of Feedback Assistant, with a list of demands to improve the experience for users, but the boycott never caught on with other developers. Regardless, an incentive still exists to file bug reports, because Apple actually fixes some of my bugs. My main complaint about the bug reporting process is not the unfixed bugs but rather the disrespect for bug reports and the people who file them. Apple intentionally wastes our time with no regrets, as if our time had no value, as if we had some kind of duty to serve Apple.</description>
+      <category>apple</category>
+      <category>conference</category>
+      <category>web</category>
+      <guid>https://lapcatsoftware.com/articles/2026/3/11.html</guid>
+      <pubDate>Thu, 26 Mar 2026 01:02:14 GMT</pubDate>
+    </item>
+    <item>
       <title>Poking Around ChatGPT's Sandbox</title>
       <link>https://mkarots.github.io/blog/chatgpt-sandbox-exploration/</link>
       <description>An exploration of what ChatGPT's code execution environment can and can't do — filesystem access, process introspection, networking, and the curious 'prove it' prompting pattern.</description>

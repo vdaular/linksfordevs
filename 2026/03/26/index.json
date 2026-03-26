@@ -1,5 +1,19 @@
 [
   {
+    "Title": "Running Tesla Model 3's Computer on My Desk Using Parts From Crashed Cars",
+    "Url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
+    "Timestamp": "2026-03-26T01:02:18",
+    "Domain": "bugs.xdavidhu.me",
+    "Description": "David Schütz's bug bounty writeups"
+  },
+  {
+    "Title": "Apple randomly closes bug reports unless you “verify” the bug remains unfixed",
+    "Url": "https://lapcatsoftware.com/articles/2026/3/11.html",
+    "Timestamp": "2026-03-26T01:02:14",
+    "Domain": "lapcatsoftware.com",
+    "Description": "Why do I file bug reports with Apple Feedback Assistant? I plead insanity. Or perhaps addiction. I seesaw between phases of abstinence and falling off the wagon. I’ve even tried organizing a public boycott of Feedback Assistant, with a list of demands to improve the experience for users, but the boycott never caught on with other developers. Regardless, an incentive still exists to file bug reports, because Apple actually fixes some of my bugs. My main complaint about the bug reporting process is not the unfixed bugs but rather the disrespect for bug reports and the people who file them. Apple intentionally wastes our time with no regrets, as if our time had no value, as if we had some kind of duty to serve Apple."
+  },
+  {
     "Title": "Poking Around ChatGPT's Sandbox",
     "Url": "https://mkarots.github.io/blog/chatgpt-sandbox-exploration/",
     "Timestamp": "2026-03-26T00:03:41",
