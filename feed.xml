@@ -292,12 +292,5 @@ This is a post-mortem of what happened and what I learned.</description>
       <guid>https://appsec.space/posts/email-lockout/</guid>
       <pubDate>Thu, 26 Mar 2026 00:02:28 GMT</pubDate>
     </item>
-    <item>
-      <title>Fight Chat Control - Protect Digital Privacy in the EU</title>
-      <link>https://fightchatcontrol.eu/?foo=bar</link>
-      <description>Learn about the EU Chat Control proposal and contact your representatives to protect digital privacy and encryption.</description>
-      <guid>https://fightchatcontrol.eu/?foo=bar</guid>
-      <pubDate>Wed, 25 Mar 2026 22:02:05 GMT</pubDate>
-    </item>
   </channel>
 </rss>
