@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Centimeter Wavelengths",
+    "Url": "https://xkcd.com/3224/",
+    "Timestamp": "2026-03-26T04:02:15",
+    "Domain": "xkcd.com",
+    "Description": "",
+    "Confidence": 0.98151064
+  },
+  {
     "Title": "ARC-AGI-3",
     "Url": "https://arcprize.org/arc-agi/3",
     "Timestamp": "2026-03-26T02:02:05",
@@ -254,13 +262,5 @@
     "Domain": "thinkpol.ca",
     "Description": "By Rohana Rezel Schools don’t create senior software engineers. Scars do. Every senior engineer you’ve ever relied on was once mass-applying to entry-level jobs, writing bad code, and learning the hard way why you don’t store passwords in plaintext. The grizzled veterans are grizzled because they have spent decades fighting in the trenches against inherited",
     "Confidence": 0.86600286
-  },
-  {
-    "Title": "Video.js v10 Beta: Hello, World (again) | Blog | Video.js | Open Source Video Player",
-    "Url": "https://videojs.org/blog/videojs-v10-beta-hello-world-again",
-    "Timestamp": "2026-03-25T04:02:12",
-    "Domain": "videojs.org",
-    "Description": "Video.js v10 is a ground-up rewrite combining four open source players into one modern framework — 88% smaller default bundles, first-class React and TypeScript support, composable architecture, and beautiful new skins designed by Plyr's creator.",
-    "Confidence": 0.9938192
   }
 ]

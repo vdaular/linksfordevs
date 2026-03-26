@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Centimeter Wavelengths</title>
+      <link>https://xkcd.com/3224/</link>
+      <description></description>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3224/</guid>
+      <pubDate>Thu, 26 Mar 2026 04:02:15 GMT</pubDate>
+    </item>
+    <item>
       <title>ARC-AGI-3</title>
       <link>https://arcprize.org/arc-agi/3</link>
       <description>ARC-AGI-3 is the first interactive reasoning benchmark for AI agents—play as humans and build agents that learn in novel environments.</description>
@@ -302,18 +310,6 @@ This is a post-mortem of what happened and what I learned.</description>
       <category>vscode</category>
       <guid>https://thinkpol.ca/2026/03/24/the-junior-developer-pipeline-is-broken-and-nobody-has-a-plan-to-fix-it/</guid>
       <pubDate>Wed, 25 Mar 2026 06:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Video.js v10 Beta: Hello, World (again) | Blog | Video.js | Open Source Video Player</title>
-      <link>https://videojs.org/blog/videojs-v10-beta-hello-world-again</link>
-      <description>Video.js v10 is a ground-up rewrite combining four open source players into one modern framework — 88% smaller default bundles, first-class React and TypeScript support, composable architecture, and beautiful new skins designed by Plyr's creator.</description>
-      <category>javascript</category>
-      <category>cloud</category>
-      <category>ai</category>
-      <category>git</category>
-      <category>web</category>
-      <guid>https://videojs.org/blog/videojs-v10-beta-hello-world-again</guid>
-      <pubDate>Wed, 25 Mar 2026 04:02:12 GMT</pubDate>
     </item>
   </channel>
 </rss>
