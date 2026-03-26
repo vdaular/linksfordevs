@@ -299,14 +299,5 @@ This is a post-mortem of what happened and what I learned.</description>
       <guid>https://andregarzia.com/2026/03/apple-just-lost-me.html</guid>
       <pubDate>Wed, 25 Mar 2026 16:02:22 GMT</pubDate>
     </item>
-    <item>
-      <title>TurboQuant: Redefining AI efficiency with extreme compression</title>
-      <link>https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/</link>
-      <description>Vectors are the fundamental way AI models understand and process information. Small vectors describe simple attributes, such as a point in a graph, while “high-dimensional” vectors capture complex information such as the features of an image, the meaning of a word, or the properties of a dataset. High-dimensional vectors are incredibly powerful, but they also consume vast amounts of memory, leading to bottlenecks in the key-value cache, a high-speed "digital cheat sheet" that stores frequently used information under simple labels so a computer can retrieve it instantly without having to search through a slow, massive database.</description>
-      <category>ai</category>
-      <category>sql</category>
-      <guid>https://research.google/blog/turboquant-redefining-ai-efficiency-with-extreme-compression/</guid>
-      <pubDate>Wed, 25 Mar 2026 14:02:16 GMT</pubDate>
-    </item>
   </channel>
 </rss>
