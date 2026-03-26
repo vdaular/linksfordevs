@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Engineers do get promoted for writing simple code</title>
+      <link>https://www.seangoedecke.com/simple-work-gets-rewarded/</link>
+      <description>It’s a popular joke among software engineers that writing overcomplicated, unmaintainable code is a pathway to job security. After all, if you’re the only person who can work on a system, they can’t fire you. There’s a related take that “nobody gets promoted for simplicity”: in other words, engineers who deliver overcomplicated crap will be promoted, because their work looks more impressive to non-technical managers.</description>
+      <guid>https://www.seangoedecke.com/simple-work-gets-rewarded/</guid>
+      <pubDate>Thu, 26 Mar 2026 10:02:28 GMT</pubDate>
+    </item>
+    <item>
       <title>FreeCAD Version 1.1 Released</title>
       <link>https://blog.freecad.org/2026/03/25/freecad-version-1-1-released/</link>
       <description>After an enormous amount of work and dedication from FreeCAD contributors we are delighted to announce that FreeCAD Version 1.1 is now released and available for download. There are significant amo…</description>
