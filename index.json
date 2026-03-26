@@ -238,13 +238,5 @@
     "Domain": "research.google",
     "Description": "Vectors are the fundamental way AI models understand and process information. Small vectors describe simple attributes, such as a point in a graph, while “high-dimensional” vectors capture complex information such as the features of an image, the meaning of a word, or the properties of a dataset. High-dimensional vectors are incredibly powerful, but they also consume vast amounts of memory, leading to bottlenecks in the key-value cache, a high-speed \"digital cheat sheet\" that stores frequently used information under simple labels so a computer can retrieve it instantly without having to search through a slow, massive database.",
     "Confidence": 0.9832108
-  },
-  {
-    "Title": "Flighty Airports Meltdown Map",
-    "Url": "https://flighty.com/airports",
-    "Timestamp": "2026-03-25T07:01:58",
-    "Domain": "flighty.com",
-    "Description": "Search any airport for real-time delays, weather, arrivals, departures, and performance insights powered by Flighty.",
-    "Confidence": 0.8024127
   }
 ]
