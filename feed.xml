@@ -7,6 +7,19 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Tuta (@tuta.com)</title>
+      <link>https://bsky.app/profile/tuta.com/post/3mhxkfowv322c</link>
+      <description>You did it! 🥳
+
+European Parliament just decided that Chat Control 1.0 must stop.
+
+This means on April 6, 2026, Gmail, LinkedIn, Microsoft and other Big Techs must stop scanning your private messages in the EU. #PrivacyWins 💪
+
+[contains quote post or other embedded content]</description>
+      <guid>https://bsky.app/profile/tuta.com/post/3mhxkfowv322c</guid>
+      <pubDate>Thu, 26 Mar 2026 15:02:23 GMT</pubDate>
+    </item>
+    <item>
       <title>Engineers do get promoted for writing simple code</title>
       <link>https://www.seangoedecke.com/simple-work-gets-rewarded/</link>
       <description>It’s a popular joke among software engineers that writing overcomplicated, unmaintainable code is a pathway to job security. After all, if you’re the only person who can work on a system, they can’t fire you. There’s a related take that “nobody gets promoted for simplicity”: in other words, engineers who deliver overcomplicated crap will be promoted, because their work looks more impressive to non-technical managers.</description>
