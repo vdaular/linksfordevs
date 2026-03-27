@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Compromised telnyx on PyPI: WAV Steganography and Credential Theft",
+    "Url": "https://safedep.io/malicious-telnyx-pypi-compromise/",
+    "Timestamp": "2026-03-27T20:02:32",
+    "Domain": "safedep.io",
+    "Description": "Analysis of malicious telnyx 4.87.1 and 4.87.2 on PyPI — a package with over 1 million monthly downloads: injected code uses WAV audio steganography to deliver payloads that steal credentials and establish persistence. Attributed to TeamPCP."
+  },
+  {
     "Title": "Microsoft insiders push to end mandatory Microsoft Accounts on Windows 11",
     "Url": "https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup",
     "Timestamp": "2026-03-27T19:02:10",
