@@ -1,5 +1,19 @@
 [
   {
+    "Title": "jsongrep is faster than {jq, jmespath, jsonpath-rust, jql}",
+    "Url": "https://micahkepe.com/blog/jsongrep/",
+    "Timestamp": "2026-03-27T15:02:13",
+    "Domain": "micahkepe.com",
+    "Description": "An introduction to the jsongrep tool, a technical explanation of its DFA-based search engine, and performance results against popular JSON query tools."
+  },
+  {
+    "Title": "Bring back MiniDV with this Raspberry Pi FireWire HAT",
+    "Url": "https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/",
+    "Timestamp": "2026-03-27T15:02:09",
+    "Domain": "www.jeffgeerling.com",
+    "Description": "In my last post, I showed you to use FireWire on a Raspberry Pi with a PCI Express IEEE 1394 adapter. Now I'll show you how I'm using a new FireWire HAT and a PiSugar3 Plus battery to make a portable MRU, or 'Memory Recording Unit', to replace tape in older FireWire/i.Link/DV cameras.\nThe alternative is an old used MRU like Sony's HVR-MRC1, which runs around $300 on eBay1."
+  },
+  {
     "Title": "Hold on to Your Hardware",
     "Url": "https://xn--gckvb8fzb.com/hold-on-to-your-hardware/",
     "Timestamp": "2026-03-27T14:03:07",

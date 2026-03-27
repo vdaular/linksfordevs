@@ -1,5 +1,21 @@
 [
   {
+    "Title": "jsongrep is faster than {jq, jmespath, jsonpath-rust, jql}",
+    "Url": "https://micahkepe.com/blog/jsongrep/",
+    "Timestamp": "2026-03-27T15:02:13",
+    "Domain": "micahkepe.com",
+    "Description": "An introduction to the jsongrep tool, a technical explanation of its DFA-based search engine, and performance results against popular JSON query tools.",
+    "Confidence": 0.98613364
+  },
+  {
+    "Title": "Bring back MiniDV with this Raspberry Pi FireWire HAT",
+    "Url": "https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/",
+    "Timestamp": "2026-03-27T15:02:09",
+    "Domain": "www.jeffgeerling.com",
+    "Description": "In my last post, I showed you to use FireWire on a Raspberry Pi with a PCI Express IEEE 1394 adapter. Now I'll show you how I'm using a new FireWire HAT and a PiSugar3 Plus battery to make a portable MRU, or 'Memory Recording Unit', to replace tape in older FireWire/i.Link/DV cameras.\nThe alternative is an old used MRU like Sony's HVR-MRC1, which runs around $300 on eBay1.",
+    "Confidence": 0.9464563
+  },
+  {
     "Title": "Hold on to Your Hardware",
     "Url": "https://xn--gckvb8fzb.com/hold-on-to-your-hardware/",
     "Timestamp": "2026-03-27T14:03:07",
@@ -246,13 +262,5 @@
     "Domain": "unterwaditzer.net",
     "Description": "2025-09-06",
     "Confidence": 0.99157757
-  },
-  {
-    "Title": "Tuta (@tuta.com)",
-    "Url": "https://bsky.app/profile/tuta.com/post/3mhxkfowv322c",
-    "Timestamp": "2026-03-26T15:02:23",
-    "Domain": "bsky.app",
-    "Description": "You did it! 🥳\n\nEuropean Parliament just decided that Chat Control 1.0 must stop.\n\nThis means on April 6, 2026, Gmail, LinkedIn, Microsoft and other Big Techs must stop scanning your private messages in the EU. #PrivacyWins 💪\n\n[contains quote post or other embedded content]",
-    "Confidence": 0.96895385
   }
 ]

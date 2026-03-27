@@ -7,6 +7,28 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>jsongrep is faster than {jq, jmespath, jsonpath-rust, jql}</title>
+      <link>https://micahkepe.com/blog/jsongrep/</link>
+      <description>An introduction to the jsongrep tool, a technical explanation of its DFA-based search engine, and performance results against popular JSON query tools.</description>
+      <category>cloud</category>
+      <category>rust</category>
+      <category>javascript</category>
+      <category>nodejs</category>
+      <guid>https://micahkepe.com/blog/jsongrep/</guid>
+      <pubDate>Fri, 27 Mar 2026 15:02:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bring back MiniDV with this Raspberry Pi FireWire HAT</title>
+      <link>https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/</link>
+      <description>In my last post, I showed you to use FireWire on a Raspberry Pi with a PCI Express IEEE 1394 adapter. Now I'll show you how I'm using a new FireWire HAT and a PiSugar3 Plus battery to make a portable MRU, or 'Memory Recording Unit', to replace tape in older FireWire/i.Link/DV cameras.
+The alternative is an old used MRU like Sony's HVR-MRC1, which runs around $300 on eBay1.</description>
+      <category>linux</category>
+      <category>apple</category>
+      <category>youtube</category>
+      <guid>https://www.jeffgeerling.com/blog/2026/minidv-with-raspberry-pi-firewire-hat/</guid>
+      <pubDate>Fri, 27 Mar 2026 15:02:09 GMT</pubDate>
+    </item>
+    <item>
       <title>Hold on to Your Hardware</title>
       <link>https://xn--gckvb8fzb.com/hold-on-to-your-hardware/</link>
       <description>A warning about rising prices, vanishing consumer choice, and a future where
@@ -296,19 +318,6 @@ drift toward data centers and away from people.</description>
       <category>git</category>
       <guid>https://unterwaditzer.net/2025/codeberg.html</guid>
       <pubDate>Thu, 26 Mar 2026 17:02:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tuta (@tuta.com)</title>
-      <link>https://bsky.app/profile/tuta.com/post/3mhxkfowv322c</link>
-      <description>You did it! 🥳
-
-European Parliament just decided that Chat Control 1.0 must stop.
-
-This means on April 6, 2026, Gmail, LinkedIn, Microsoft and other Big Techs must stop scanning your private messages in the EU. #PrivacyWins 💪
-
-[contains quote post or other embedded content]</description>
-      <guid>https://bsky.app/profile/tuta.com/post/3mhxkfowv322c</guid>
-      <pubDate>Thu, 26 Mar 2026 15:02:23 GMT</pubDate>
     </item>
   </channel>
 </rss>
