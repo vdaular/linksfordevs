@@ -238,13 +238,5 @@
     "Domain": "blog.freecad.org",
     "Description": "After an enormous amount of work and dedication from FreeCAD contributors we are delighted to announce that FreeCAD Version 1.1 is now released and available for download. There are significant amo…",
     "Confidence": 0.75448287
-  },
-  {
-    "Title": "False claims in a widely-cited paper. No corrections. No consequences. Welcome to the Business School.",
-    "Url": "https://statmodeling.stat.columbia.edu/2026/03/24/false-claims-in-a-published-no-corrections-no-consequences-welcome-to-the-business-school/",
-    "Timestamp": "2026-03-26T08:02:12",
-    "Domain": "statmodeling.stat.columbia.edu",
-    "Description": "A couple months ago we had a post, This paper in Management Science has been cited more than 6,000 times. Wall Street executives, top government officials, and even a former U.S. Vice President have all referenced it. It’s fatally flawed, and the scholarly community refuses to do anything about it. which was about, ummm, a fatally flawed but very influential paper in Management Science.",
-    "Confidence": 0.72475374
   }
 ]
