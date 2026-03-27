@@ -230,13 +230,5 @@
     "Domain": "bsky.app",
     "Description": "You did it! 🥳\n\nEuropean Parliament just decided that Chat Control 1.0 must stop.\n\nThis means on April 6, 2026, Gmail, LinkedIn, Microsoft and other Big Techs must stop scanning your private messages in the EU. #PrivacyWins 💪\n\n[contains quote post or other embedded content]",
     "Confidence": 0.96895385
-  },
-  {
-    "Title": "Engineers do get promoted for writing simple code",
-    "Url": "https://www.seangoedecke.com/simple-work-gets-rewarded/",
-    "Timestamp": "2026-03-26T10:02:28",
-    "Domain": "www.seangoedecke.com",
-    "Description": "It’s a popular joke among software engineers that writing overcomplicated, unmaintainable code is a pathway to job security. After all, if you’re the only person who can work on a system, they can’t fire you. There’s a related take that “nobody gets promoted for simplicity”: in other words, engineers who deliver overcomplicated crap will be promoted, because their work looks more impressive to non-technical managers.",
-    "Confidence": 0.995234
   }
 ]
