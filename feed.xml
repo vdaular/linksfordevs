@@ -296,22 +296,5 @@ This means on April 6, 2026, Gmail, LinkedIn, Microsoft and other Big Techs must
       <guid>https://xkcd.com/3224/</guid>
       <pubDate>Thu, 26 Mar 2026 04:02:15 GMT</pubDate>
     </item>
-    <item>
-      <title>ARC-AGI-3</title>
-      <link>https://arcprize.org/arc-agi/3</link>
-      <description>ARC-AGI-3 is the first interactive reasoning benchmark for AI agents—play as humans and build agents that learn in novel environments.</description>
-      <category>ai</category>
-      <category>gaming</category>
-      <guid>https://arcprize.org/arc-agi/3</guid>
-      <pubDate>Thu, 26 Mar 2026 02:02:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fast .NET CLI Downloader | no dogma blog</title>
-      <link>https://nodogmablog.bryanhogan.net/2026/03/fast-net-cli-downloader/</link>
-      <description>I often download large files like Linux distros, these can take a while, so I wrote a fast downloader that splits the file into multiple parts and downloads them in parallel.</description>
-      <category>dotnet</category>
-      <guid>https://nodogmablog.bryanhogan.net/2026/03/fast-net-cli-downloader/</guid>
-      <pubDate>Thu, 26 Mar 2026 02:02:01 GMT</pubDate>
-    </item>
   </channel>
 </rss>
