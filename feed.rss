@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>How I Drowned a Bureaucrat before dinner., Sightless Scribbles</title>
+      <link>https://sightlessscribbles.com/posts/the-paperwork-flood/</link>
+      <description>A fabulously gay blind author.</description>
+      <guid>https://sightlessscribbles.com/posts/the-paperwork-flood/</guid>
+      <pubDate>Fri, 27 Mar 2026 16:02:15 GMT</pubDate>
+    </item>
+    <item>
       <title>jsongrep is faster than {jq, jmespath, jsonpath-rust, jql}</title>
       <link>https://micahkepe.com/blog/jsongrep/</link>
       <description>An introduction to the jsongrep tool, a technical explanation of its DFA-based search engine, and performance results against popular JSON query tools.</description>
