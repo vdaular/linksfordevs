@@ -1,5 +1,181 @@
 [
   {
+    "Title": "The End : Focal Curve",
+    "Url": "https://www.focalcurve.com/journal/the-end/",
+    "Timestamp": "2026-03-27T01:03:40",
+    "Domain": "www.focalcurve.com",
+    "Description": "I’m done with work.",
+    "Confidence": 0.95486534
+  },
+  {
+    "Title": "An embedding compression experiment for vector search",
+    "Url": "https://corvi.careers/blog/vector-search-embedding-compression/",
+    "Timestamp": "2026-03-27T01:03:37",
+    "Domain": "corvi.careers",
+    "Description": "An experiment in vector search storage reduction and embedding compression, comparing dimensionality reduction, fp16, and quantization without breaking search quality.",
+    "Confidence": 0.9847421
+  },
+  {
+    "Title": "How much precision can you squeeze out of a table?",
+    "Url": "https://www.johndcook.com/blog/2026/03/26/table-precision/",
+    "Timestamp": "2026-03-27T01:03:33",
+    "Domain": "www.johndcook.com",
+    "Description": "When you interpolate a function from a table of values, higher order interpolation may reduce pure interpolation error while increasing numerical error.",
+    "Confidence": 0.98593134
+  },
+  {
+    "Title": "Every Venture Is Either a Commodity or a Brand",
+    "Url": "https://mvrckhckr.com/articles/every-venture-is-either-a-commodity-or-a-brand",
+    "Timestamp": "2026-03-27T01:03:28",
+    "Domain": "mvrckhckr.com",
+    "Description": "Every venture is either a commodity or a brand, and AI is forcing the question. It dissolved the building difficulty that let founders pretend they were brands.",
+    "Confidence": 0.92459196
+  },
+  {
+    "Title": "From error-handling to structured concurrency",
+    "Url": "https://blog.nelhage.com/post/concurrent-error-handling/",
+    "Timestamp": "2026-03-27T01:03:24",
+    "Domain": "blog.nelhage.com",
+    "Description": "How should errors propagate in concurrent programs? We start from that question, work step by step, and end up reinventing structured concurrency. Some reflections on why this matters as much during development as in production.",
+    "Confidence": 0.9874172
+  },
+  {
+    "Title": "It Depends",
+    "Url": "https://idiallo.com/blog/it-depends-experts-never-give-straight-answers",
+    "Timestamp": "2026-03-27T01:03:21",
+    "Domain": "idiallo.com",
+    "Description": "That's the answer I would always get from the lead developer on my team, many years ago. I wanted clear, concise answers from someone with experience, yet he never said \"Yes\" or \"No.\" It was always \"I",
+    "Confidence": 0.8627413
+  },
+  {
+    "Title": "How I Use Claude Code to Build Features",
+    "Url": "https://helderberto.com/posts/how-i-use-claude-code-to-build-features",
+    "Timestamp": "2026-03-27T01:03:14",
+    "Domain": "helderberto.com",
+    "Description": "My current workflow for building features with Claude Code: plan mode, a living SPEC.md, TDD, and how to resume sessions without losing context",
+    "Confidence": 0.9874777
+  },
+  {
+    "Title": "Yes, Learning to Code Is Still Valuable",
+    "Url": "https://adventures.nodeland.dev/archive/yes-learning-to-code-is-still-valuable/",
+    "Timestamp": "2026-03-27T01:03:11",
+    "Domain": "adventures.nodeland.dev",
+    "Description": "Every few weeks, someone shares a bold opinion: \"Don't bother learning to code, AI will do it all.\" I've seen this from VCs, influencers, and people who have...",
+    "Confidence": 0.98532355
+  },
+  {
+    "Title": "Your Framework Doesn't Matter",
+    "Url": "https://cemrehancavdar.com/2026/02/19/your-framework-may-not-matter/",
+    "Timestamp": "2026-03-27T01:03:05",
+    "Domain": "cemrehancavdar.com",
+    "Description": "I instrumented a FastAPI app and measured where time actually goes. Network is 69-83% of what users experience. Framework overhead is 0.2-0.8%. Your framework choice doesn't matter as much as you think.",
+    "Confidence": 0.98359483
+  },
+  {
+    "Title": "The Unreasonable Effectiveness of Linear Search (evanjones.ca)",
+    "Url": "https://evan-jones.appspot.com/linear-search.html",
+    "Timestamp": "2026-03-27T01:03:02",
+    "Domain": "evan-jones.appspot.com",
+    "Description": "Thanks to programming interviews, we have memorized that a binary search performs O(log n) comparisons, while a linear search performs O(n), so a binary search is going to be faster. Unfortunately, this ignores the constant factors. Linear search is the same or slightly faster for arrays of less than about 100 integers, since it is simpler than a binary search. This ignores the cost of sorting the array, so the advantage could be slightly larger for real programs. My conclusion is that if you only have a tiny number of elements (say less than ~30), it probably doesn't really matter what data structure you use, and an old fashioned array is a good choice due to simplicity and memory efficiency. For larger data sets the algorithmic advantages are huge and you need to choose carefully.",
+    "Confidence": 0.9606486
+  },
+  {
+    "Title": "Reliable unreliability | David Gasquez",
+    "Url": "https://davidgasquez.com/reliable-unreliability",
+    "Timestamp": "2026-03-27T01:02:58",
+    "Domain": "davidgasquez.com",
+    "Description": "David Gasquez personal website",
+    "Confidence": 0.99426943
+  },
+  {
+    "Title": "Good code by bad robots",
+    "Url": "https://froehlich.network/bad-robots/",
+    "Timestamp": "2026-03-27T01:02:56",
+    "Domain": "froehlich.network",
+    "Description": "A practical, opinionated guide to getting useful code out of AI tools without losing your standards, your sanity, or your job.",
+    "Confidence": 0.9925978
+  },
+  {
+    "Title": "You've Got a Professional Kitchen and Unlimited Prep Cooks. Are You Going to Make Something?",
+    "Url": "https://milkcrunch.com/scaling-to-infinite/",
+    "Timestamp": "2026-03-27T01:02:51",
+    "Domain": "milkcrunch.com",
+    "Description": "AI gave everyone a professional kitchen. The bottleneck was never the prep work.",
+    "Confidence": 0.9592487
+  },
+  {
+    "Title": "I Trained a Chess Model on Just $14",
+    "Url": "https://mostlime.pages.dev/blog/i-trained-a-chess-engine-on-14-dollars/",
+    "Timestamp": "2026-03-27T01:02:48",
+    "Domain": "mostlime.pages.dev",
+    "Description": "I recently created my own hybrid-transformer model trained specifically to plan implicitly rather than explicitly, called the Liquid Chess Model.",
+    "Confidence": 0.98420525
+  },
+  {
+    "Title": "Using Quarto to Write a Book",
+    "Url": "https://kieranhealy.org/blog/archives/2026/03/09/using-quarto-to-write-a-book/",
+    "Timestamp": "2026-03-27T01:02:45",
+    "Domain": "kieranhealy.org",
+    "Description": "I’ve spent the last couple of months revising my Data Visualization book for a second edition that, ideally, will appear some time in the next twelve months. As with the first edition, I’ve posted a complete draft of the book at its website. The production process hasn’t started yet, so it’s not ready to pre-order or anything, but the site has a one-question form you can fill out that asks for your email address if you’d like to be notified with one (and only one) email when it’s available. A lot has changed since the first edition, reflecting changes both in R and ggplot specifically, and in the world of coding generally. I may end up highlighting some of those new elements in other posts. But here, I want to focus on some nerdy details involved in getting the book to its final draft. I’ll discuss Quarto, the publishing system I used, its many advantages, and its current limits with respect to the demands I made of it.",
+    "Confidence": 0.98322904
+  },
+  {
+    "Title": "How I Avoid Burnout — A Long-Term Anti-Burnout Plan",
+    "Url": "https://bacist.com/avoid-burnout/",
+    "Timestamp": "2026-03-27T01:02:41",
+    "Domain": "bacist.com",
+    "Description": "An honest look at how I structure work, learning, and rest to avoid burnout. A long-term anti-burnout system built for sustainable development work.",
+    "Confidence": 0.99652654
+  },
+  {
+    "Title": "We need to talk about Elixir ‣ Gustavo Veloso | My Thoughts",
+    "Url": "https://blog.gjmveloso.dev/posts/2026/03/25/we-need-to-talk-about-elixir/",
+    "Timestamp": "2026-03-27T01:02:37",
+    "Domain": "blog.gjmveloso.dev",
+    "Description": "gjmveloso's personal blog. The opinions expressed here are my own and do not necessarily represent those of current or past employers.",
+    "Confidence": 0.98058265
+  },
+  {
+    "Title": "I built a whiteboard, accidentally - Ümit Demir",
+    "Url": "https://umitde.com/blog/i-built-a-whiteboard-accidentally",
+    "Timestamp": "2026-03-27T01:02:33",
+    "Domain": "umitde.com",
+    "Description": "A year-long side project that started as a Go backend and somehow became a full whiteboard app",
+    "Confidence": 0.97602564
+  },
+  {
+    "Title": "What’s the biggest business you could run alone?",
+    "Url": "https://orischwartz.com/posts/whats-the-biggest-business-you-could-run-alone.html",
+    "Timestamp": "2026-03-27T01:02:30",
+    "Domain": "orischwartz.com",
+    "Description": "March 26, 2026",
+    "Confidence": 0.9896426
+  },
+  {
+    "Title": "⚙️ My Fujifilm X100VI Setup",
+    "Url": "https://jamesbaker.uk/my-fujifilm-x100vi-setup/",
+    "Timestamp": "2026-03-27T01:02:27",
+    "Domain": "jamesbaker.uk",
+    "Description": "Some recipes and a button layout.",
+    "Confidence": 0.9667863
+  },
+  {
+    "Title": "Infinite Jest Extraction",
+    "Url": "https://mattlakeman.org/2026/03/26/infinite-jest-extraction/",
+    "Timestamp": "2026-03-27T01:02:21",
+    "Domain": "mattlakeman.org",
+    "Description": "I read David Foster Wallace’s Infinite Jest via audiobook, which at the default speed, takes over 52.5 hours. On paper, the book is usually over 1,100 pages, including its 388 endnotes. I’ve writte…",
+    "Confidence": 0.8891682
+  },
+  {
+    "Title": "Notes on hosting Headscale DERP nodes",
+    "Url": "https://www.janhouse.lv/blog/network/self-hosting-tailscale-derp-headscale",
+    "Timestamp": "2026-03-27T01:02:17",
+    "Domain": "www.janhouse.lv",
+    "Description": "Self-hosting DERP relay nodes for your Headscale Tailnet? Learn how to use SNI pass-through to share port 443 with other services, set up with Docker Compose, and lock down access so only your own Tailnet nodes can use it.",
+    "Confidence": 0.9927207
+  },
+  {
     "Title": "How we get radicalized in America",
     "Url": "https://idiallo.com/byte-size/how-to-get-radicalized-in-america?src=feed",
     "Timestamp": "2026-03-27T00:02:06",
@@ -86,21 +262,5 @@
     "Domain": "nodogmablog.bryanhogan.net",
     "Description": "I often download large files like Linux distros, these can take a while, so I wrote a fast downloader that splits the file into multiple parts and downloads them in parallel.",
     "Confidence": 0.9971951
-  },
-  {
-    "Title": "Running Tesla Model 3's Computer on My Desk Using Parts From Crashed Cars",
-    "Url": "https://bugs.xdavidhu.me/tesla/2026/03/23/running-tesla-model-3s-computer-on-my-desk-using-parts-from-crashed-cars/",
-    "Timestamp": "2026-03-26T01:02:18",
-    "Domain": "bugs.xdavidhu.me",
-    "Description": "David Schütz's bug bounty writeups",
-    "Confidence": 0.94624233
-  },
-  {
-    "Title": "Apple randomly closes bug reports unless you “verify” the bug remains unfixed",
-    "Url": "https://lapcatsoftware.com/articles/2026/3/11.html",
-    "Timestamp": "2026-03-26T01:02:14",
-    "Domain": "lapcatsoftware.com",
-    "Description": "Why do I file bug reports with Apple Feedback Assistant? I plead insanity. Or perhaps addiction. I seesaw between phases of abstinence and falling off the wagon. I’ve even tried organizing a public boycott of Feedback Assistant, with a list of demands to improve the experience for users, but the boycott never caught on with other developers. Regardless, an incentive still exists to file bug reports, because Apple actually fixes some of my bugs. My main complaint about the bug reporting process is not the unfixed bugs but rather the disrespect for bug reports and the people who file them. Apple intentionally wastes our time with no regrets, as if our time had no value, as if we had some kind of duty to serve Apple.",
-    "Confidence": 0.9542037
   }
 ]
