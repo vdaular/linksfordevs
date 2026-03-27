@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Shell Tricks That Actually Make Life Easier (And Save Your Sanity)</title>
+      <link>https://blog.hofstede.it/shell-tricks-that-actually-make-life-easier-and-save-your-sanity/</link>
+      <description>Watch someone backspace 40 characters instead of pressing CTRL+W, and you’ll understand why this list exists. A collection of shell tricks-grouped by what works everywhere and what’s Bash/Zsh-speci...</description>
+      <category>apple</category>
+      <guid>https://blog.hofstede.it/shell-tricks-that-actually-make-life-easier-and-save-your-sanity/</guid>
+      <pubDate>Fri, 27 Mar 2026 09:02:03 GMT</pubDate>
+    </item>
+    <item>
       <title>Apple discontinues the Mac Pro with no plans for future hardware - 9to5Mac</title>
       <link>https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/</link>
       <description>It’s the end of an era: Apple has confirmed to 9to5Mac that the Mac Pro is being discontinued. It has...</description>
@@ -281,13 +289,6 @@ This means on April 6, 2026, Gmail, LinkedIn, Microsoft and other Big Techs must
       <description>It’s a popular joke among software engineers that writing overcomplicated, unmaintainable code is a pathway to job security. After all, if you’re the only person who can work on a system, they can’t fire you. There’s a related take that “nobody gets promoted for simplicity”: in other words, engineers who deliver overcomplicated crap will be promoted, because their work looks more impressive to non-technical managers.</description>
       <guid>https://www.seangoedecke.com/simple-work-gets-rewarded/</guid>
       <pubDate>Thu, 26 Mar 2026 10:02:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>FreeCAD Version 1.1 Released</title>
-      <link>https://blog.freecad.org/2026/03/25/freecad-version-1-1-released/</link>
-      <description>After an enormous amount of work and dedication from FreeCAD contributors we are delighted to announce that FreeCAD Version 1.1 is now released and available for download. There are significant amo…</description>
-      <guid>https://blog.freecad.org/2026/03/25/freecad-version-1-1-released/</guid>
-      <pubDate>Thu, 26 Mar 2026 09:02:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
