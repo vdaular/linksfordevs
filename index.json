@@ -278,13 +278,5 @@
     "Domain": "idiallo.com",
     "Description": "The moment you get sick, the american insurance industry gets into gear to see how they can deny you care. While healthcare industry tries to make money.",
     "Confidence": 0.8684378
-  },
-  {
-    "Title": "My minute-by-minute response to the LiteLLM malware attack",
-    "Url": "https://futuresearch.ai/blog/litellm-attack-transcript/",
-    "Timestamp": "2026-03-26T23:02:08",
-    "Domain": "futuresearch.ai",
-    "Description": "The full Claude Code transcript from discovering and responding to the litellm 1.82.8 PyPI supply chain attack on March 24, 2026 — from mysterious process explosions to malware identification to public disclosure.",
-    "Confidence": 0.9823073
   }
 ]

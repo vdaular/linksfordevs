@@ -329,18 +329,5 @@ drift toward data centers and away from people.</description>
       <guid>https://idiallo.com/byte-size/how-to-get-radicalized-in-america?src=feed</guid>
       <pubDate>Fri, 27 Mar 2026 00:02:06 GMT</pubDate>
     </item>
-    <item>
-      <title>My minute-by-minute response to the LiteLLM malware attack</title>
-      <link>https://futuresearch.ai/blog/litellm-attack-transcript/</link>
-      <description>The full Claude Code transcript from discovering and responding to the litellm 1.82.8 PyPI supply chain attack on March 24, 2026 — from mysterious process explosions to malware identification to public disclosure.</description>
-      <author> (Callum McMahon)</author>
-      <category>nodejs</category>
-      <category>encryption</category>
-      <category>python</category>
-      <category>containers</category>
-      <category>apple</category>
-      <guid>https://futuresearch.ai/blog/litellm-attack-transcript/</guid>
-      <pubDate>Thu, 26 Mar 2026 23:02:08 GMT</pubDate>
-    </item>
   </channel>
 </rss>
