@@ -1,5 +1,13 @@
 [
   {
+    "Title": "How I Built an Open-World Engine for the N64",
+    "Url": "https://youtube.com/watch?v=lXxmIw9axWw",
+    "Timestamp": "2026-03-28T19:02:06",
+    "Domain": "youtube.com",
+    "Description": "I built a custom open-world engine for the N64. In this video, I break down how I achieved a seamless, massive world with zero loading screens on N64 hardware. \n\nYou can download it here\nhttps://github.com/lambertjamesd/n64brew2025/releases\n\nHere is the team that helped me work on this. \n\nPyroxene: https://x.com/pyrox3ne\nCaitlin G Cooke: https://cgcooke.itch.io/\nterzdesign\nKælin: https://betadynast.bandcamp.com/\n\n\nI will be using these same techniques in my ongoing project. If you want to support this work and follow the development journey, you can find me on \n\nPatreon: patreon.com/JamesLambert",
+    "Confidence": 0.9583359
+  },
+  {
     "Title": "AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip",
     "Url": "https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/",
     "Timestamp": "2026-03-28T18:02:12",
@@ -222,13 +230,5 @@
     "Domain": "safedep.io",
     "Description": "Analysis of malicious telnyx 4.87.1 and 4.87.2 on PyPI — a package with over 1 million monthly downloads: injected code uses WAV audio steganography to deliver payloads that steal credentials and establish persistence. Attributed to TeamPCP.",
     "Confidence": 0.9970514
-  },
-  {
-    "Title": "Microsoft insiders push to end mandatory Microsoft Accounts on Windows 11",
-    "Url": "https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup",
-    "Timestamp": "2026-03-27T19:02:10",
-    "Domain": "www.windowscentral.com",
-    "Description": "Microsoft's big sweeping set of changes coming soon to Windows 11 don't address its controversial Microsoft account requirements, but that might soon change.",
-    "Confidence": 0.9712111
   }
 ]
