@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>National Grid: Live</title>
+      <link>https://grid.iamkate.com/</link>
+      <description>Shows the live status of Great Britain’s electric power transmission network</description>
+      <category>sql</category>
+      <guid>https://grid.iamkate.com/</guid>
+      <pubDate>Sat, 28 Mar 2026 16:02:17 GMT</pubDate>
+    </item>
+    <item>
       <title>GitHub - EnriqueLop/legalize-es: Spanish legislation as a Git repo — every law is a Markdown file, every reform a commit. 8,600+ laws.</title>
       <link>https://github.com/EnriqueLop/legalize-es</link>
       <description>Spanish legislation as a Git repo — every law is a Markdown file, every reform a commit. 8,600+ laws. - EnriqueLop/legalize-es</description>
@@ -261,13 +269,6 @@
       <category>ai</category>
       <guid>https://www.windowscentral.com/microsoft/windows-11/people-inside-microsoft-are-fighting-to-drop-windows-11s-mandatory-microsoft-account-requirements-during-setup</guid>
       <pubDate>Fri, 27 Mar 2026 19:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>How I Drowned a Bureaucrat before dinner., Sightless Scribbles</title>
-      <link>https://sightlessscribbles.com/posts/the-paperwork-flood/</link>
-      <description>A fabulously gay blind author.</description>
-      <guid>https://sightlessscribbles.com/posts/the-paperwork-flood/</guid>
-      <pubDate>Fri, 27 Mar 2026 16:02:15 GMT</pubDate>
     </item>
   </channel>
 </rss>
