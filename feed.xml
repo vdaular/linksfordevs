@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Sycophantic behavior in AI affects us all, say researchers</title>
+      <link>https://www.theregister.com/2026/03/27/sycophantic_ai_risks/</link>
+      <description>: Sycophantic bots coach users into selfish, antisocial behavior, say researchers, and they love it</description>
+      <category>ai</category>
+      <guid>https://www.theregister.com/2026/03/27/sycophantic_ai_risks/</guid>
+      <pubDate>Sat, 28 Mar 2026 22:02:05 GMT</pubDate>
+    </item>
+    <item>
       <title>I Decompiled the White House's New App</title>
       <link>https://blog.thereallo.dev/blog/decompiling-the-white-house-app</link>
       <description>The official White House Android app has a cookie/paywall bypass injector, tracks your GPS every 4.5 minutes, and loads JavaScript from some guy's GitHub Pages.</description>
@@ -305,14 +313,6 @@ Patreon: patreon.com/JamesLambert</description>
       <category>sql</category>
       <guid>https://www.vaines.org/posts/2026-03-24-the-comforting-lie-of-sha-pinning/</guid>
       <pubDate>Sat, 28 Mar 2026 00:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Satellite Pollution</title>
-      <link>https://xkcd.com/3225/</link>
-      <description></description>
-      <category>javascript</category>
-      <guid>https://xkcd.com/3225/</guid>
-      <pubDate>Fri, 27 Mar 2026 22:02:22 GMT</pubDate>
     </item>
   </channel>
 </rss>
