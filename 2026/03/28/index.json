@@ -1,5 +1,26 @@
 [
   {
+    "Title": "Cancer",
+    "Url": "https://sytse.com/cancer/",
+    "Timestamp": "2026-03-28T20:02:17",
+    "Domain": "sytse.com",
+    "Description": "I’ve taken agency in the treatment of my bone cancer (osteosarcoma in the T5 vertebrae of the upper spine). After I’ve ran out of standard of care treatment options and there were no trials available…"
+  },
+  {
+    "Title": "CERN Uses Tiny AI Models Burned into Silicon for Real-Time LHC Data Filtering",
+    "Url": "https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering",
+    "Timestamp": "2026-03-28T20:02:12",
+    "Domain": "theopenreader.org",
+    "Description": "CERN has developed ultra-small AI models embedded directly into custom chips to filter massive data streams from the Large Hadron Collider in real time, addressing the enormous data challenge of the world’s most powerful particle accelerator."
+  },
+  {
+    "Title": "GitHub - J-x-Z/cocoa-way: Native macOS Wayland Compositor written in Rust using Smithay. Experience seamless Linux app streaming on macOS without XQuartz.",
+    "Url": "https://github.com/J-x-Z/cocoa-way",
+    "Timestamp": "2026-03-28T20:02:07",
+    "Domain": "github.com",
+    "Description": "Native macOS Wayland Compositor written in Rust using Smithay. Experience seamless Linux app streaming on macOS without XQuartz. - J-x-Z/cocoa-way"
+  },
+  {
     "Title": "How I Built an Open-World Engine for the N64",
     "Url": "https://youtube.com/watch?v=lXxmIw9axWw",
     "Timestamp": "2026-03-28T19:02:06",
