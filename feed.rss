@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>I Decompiled the White House's New App</title>
+      <link>https://blog.thereallo.dev/blog/decompiling-the-white-house-app</link>
+      <description>The official White House Android app has a cookie/paywall bypass injector, tracks your GPS every 4.5 minutes, and loads JavaScript from some guy's GitHub Pages.</description>
+      <category>cloud</category>
+      <category>android</category>
+      <category>javascript</category>
+      <category>web</category>
+      <category>youtube</category>
+      <guid>https://blog.thereallo.dev/blog/decompiling-the-white-house-app</guid>
+      <pubDate>Sat, 28 Mar 2026 21:02:28 GMT</pubDate>
+    </item>
+    <item>
       <title>Cancer</title>
       <link>https://sytse.com/cancer/</link>
       <description>I’ve taken agency in the treatment of my bone cancer (osteosarcoma in the T5 vertebrae of the upper spine). After I’ve ran out of standard of care treatment options and there were no trials available…</description>
@@ -301,14 +313,6 @@ Patreon: patreon.com/JamesLambert</description>
       <category>javascript</category>
       <guid>https://xkcd.com/3225/</guid>
       <pubDate>Fri, 27 Mar 2026 22:02:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Japan now has a special desk for people who work at home with a pet cat[Photos]</title>
-      <link>https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/</link>
-      <description>The Neko House Desk understands who’s really in charge of your home, and helps you convince them to let you have some space too.</description>
-      <author> (https://soranews24.com/author/casey-baseel/)</author>
-      <guid>https://soranews24.com/2026/03/27/japan-now-has-a-special-desk-for-people-who-work-at-home-with-a-pet-catphotos/</guid>
-      <pubDate>Fri, 27 Mar 2026 21:02:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
