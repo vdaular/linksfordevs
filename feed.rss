@@ -283,14 +283,5 @@ drift toward data centers and away from people.</description>
       <guid>https://idiallo.com/blog/sharing-a-name?src=feed</guid>
       <pubDate>Fri, 27 Mar 2026 12:02:12 GMT</pubDate>
     </item>
-    <item>
-      <title>building a digital doorman</title>
-      <link>https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/</link>
-      <description>A lightweight AI agent that answers questions about my work by reading actual code. Architecture, security, and model selection decisions.</description>
-      <category>ai</category>
-      <category>javascript</category>
-      <guid>https://georgelarson.me/writing/2026-03-23-nullclaw-doorman/</guid>
-      <pubDate>Fri, 27 Mar 2026 11:02:13 GMT</pubDate>
-    </item>
   </channel>
 </rss>
