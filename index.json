@@ -238,13 +238,5 @@
     "Domain": "blog.hofstede.it",
     "Description": "Watch someone backspace 40 characters instead of pressing CTRL+W, and you’ll understand why this list exists. A collection of shell tricks-grouped by what works everywhere and what’s Bash/Zsh-speci...",
     "Confidence": 0.9704313
-  },
-  {
-    "Title": "Apple discontinues the Mac Pro with no plans for future hardware - 9to5Mac",
-    "Url": "https://9to5mac.com/2026/03/26/apple-discontinues-the-mac-pro/",
-    "Timestamp": "2026-03-27T07:02:10",
-    "Domain": "9to5mac.com",
-    "Description": "It’s the end of an era: Apple has confirmed to 9to5Mac that the Mac Pro is being discontinued. It has...",
-    "Confidence": 0.87609714
   }
 ]
