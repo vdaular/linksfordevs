@@ -1,5 +1,12 @@
 [
   {
+    "Title": "GitHub Actions Is Slowly Killing Your Engineering Team - Ian Duncan",
+    "Url": "https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team",
+    "Timestamp": "2026-03-28T06:02:08",
+    "Domain": "www.iankduncan.com",
+    "Description": "Why GitHub Actions is the Internet Explorer of CI, and why Buildkite offers a better path forward for teams that care about developer experience."
+  },
+  {
     "Title": "Working on products people hate",
     "Url": "https://www.seangoedecke.com/working-on-products-people-hate/",
     "Timestamp": "2026-03-28T02:02:03",
