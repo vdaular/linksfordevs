@@ -7,6 +7,164 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>FaceTime with My 19-Year-Old Self</title>
+      <link>https://www.davidtran.me/facetime-with-my-19-year-old-self/</link>
+      <description>I have a tool that can write code in any language, build almost any app I can imagine, and it costs next to nothing. This would have been wishes 1, 2, and 3 for my 19-year-old self. So why do I feel a growing sense of dissatisfaction and frustration about it all? I imagined talking to him to find out.</description>
+      <author> (David Tran)</author>
+      <category>apple</category>
+      <category>ai</category>
+      <category>gaming</category>
+      <category>javascript</category>
+      <category>python</category>
+      <guid>https://www.davidtran.me/facetime-with-my-19-year-old-self/</guid>
+      <pubDate>Sat, 28 Mar 2026 00:03:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I work without a mouse</title>
+      <link>https://plo.fyi/blog/working-without-a-mouse/</link>
+      <description></description>
+      <category>git</category>
+      <category>ai</category>
+      <guid>https://plo.fyi/blog/working-without-a-mouse/</guid>
+      <pubDate>Sat, 28 Mar 2026 00:03:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>“Good Taste” Is Just Experience</title>
+      <link>https://terriblesoftware.org/2026/03/27/good-taste-is-just-experience/</link>
+      <description>What people call “good taste” is really just experience earned through reps. Stop making it sound innate.</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://terriblesoftware.org/2026/03/27/good-taste-is-just-experience/</guid>
+      <pubDate>Sat, 28 Mar 2026 00:03:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why I Think Software Development Will Be Automated by 2030</title>
+      <link>https://blog.vtemian.com/talk/why-i-think-software-development-will-be-automated-by-2030/</link>
+      <description>My PRO argument from a live debate in Timisoara, fact-checked with verified references.</description>
+      <category>ai</category>
+      <category>sql</category>
+      <category>python</category>
+      <guid>https://blog.vtemian.com/talk/why-i-think-software-development-will-be-automated-by-2030/</guid>
+      <pubDate>Sat, 28 Mar 2026 00:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>LLMs Are Ruining My Craft - Brian Carpio</title>
+      <link>https://www.briancarpio.com/blog/llms-are-ruining-my-craft</link>
+      <description>Inspired by Alex Tatiyants</description>
+      <category>nodejs</category>
+      <category>ai</category>
+      <category>git</category>
+      <category>python</category>
+      <category>javascript</category>
+      <guid>https://www.briancarpio.com/blog/llms-are-ruining-my-craft</guid>
+      <pubDate>Sat, 28 Mar 2026 00:02:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Open Source Gave Me Everything Until I Had Nothing Left to Give</title>
+      <link>https://kennethreitz.org/essays/2026-03-18-open_source_gave_me_everything_until_i_had_nothing_left_to_give</link>
+      <description>I thought I was having a spiritual awakening. I was having a psychiatric emergency. I was at a tech conference in Sweden when it started. I hadn't slept in...</description>
+      <guid>https://kennethreitz.org/essays/2026-03-18-open_source_gave_me_everything_until_i_had_nothing_left_to_give</guid>
+      <pubDate>Sat, 28 Mar 2026 00:02:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>My heuristics are wrong. What now?</title>
+      <link>https://brooker.co.za/blog/2026/03/20/ic-leadership.html</link>
+      <description>More words. More meaning?</description>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://brooker.co.za/blog/2026/03/20/ic-leadership.html</guid>
+      <pubDate>Sat, 28 Mar 2026 00:02:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I vibe-code 10+ web services from anywhere</title>
+      <link>https://www.blynt.com/blog/vibe-coding-from-everywhere/</link>
+      <description>How I use tried and trusted Linux/Unix tools to do software development from anywhere</description>
+      <author> (Fredrik Berglund)</author>
+      <category>conference</category>
+      <category>linux</category>
+      <category>android</category>
+      <category>git</category>
+      <category>javascript</category>
+      <guid>https://www.blynt.com/blog/vibe-coding-from-everywhere/</guid>
+      <pubDate>Sat, 28 Mar 2026 00:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Point and Shoot Testing</title>
+      <link>https://thoughtfractal.pages.dev/point-and-shoot-testing/</link>
+      <description>It's an often brought up tool within testing circles. In fact, Playwright themselves advertise the tool with the headline "Playwright enables reliable end-to-end testing for modern web apps". And for a lot of people that get to the point of stability within their web app, I'm sure having end-to-end testing may be useful. In my case, I find myself often iterating on my web app's designs until I get to the place I like them, so a UI test seems like it would be counterintuitive. However, with the age of end-to-end testing frameworks comes the ability to rapidly snapshot the state of your application. And this ability requires no tests or complex state machines to execute on. It's just like the classic camera saying, just "Point and Shoot!". However, with this ability comes an almost unbelievable productivity boost when working on web apps targeting multiple screen sizes. Especially in the age of agents. You might be wondering, what do agents have to do with this? Well, in truth, not so much, because many of these benefits extend to manual programming too. So let's get to it then, what are the benefits? Well, as soon as you make any UI change, you have the ability to run a 2s script and instantly know which UI scenarios changed, across many different screen sizes, instantly. No longer is there the requirement to fumble with browser dev tools to shrink the screen. No longer is there the need to have a phone and tablet to test your changes with. It's now a simple command run, and instantly changes across every single screen size and scenario you care about are shown. This is especially handy when these pictures are put into CI because you can get an easy indicator of which UI scenarios did and didn't change, which before having this seemed like a nice benefit, but after having used this for several design changes, is a lifechanger. Ultimately, you just can't go wrong with more visibility into your app.</description>
+      <guid>https://thoughtfractal.pages.dev/point-and-shoot-testing/</guid>
+      <pubDate>Sat, 28 Mar 2026 00:02:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>The State of Immutable Linux</title>
+      <link>https://justingarrison.com/blog/state-of-immutable-linux/</link>
+      <description>Lies, damn lies, and read only filesystems</description>
+      <category>cloud</category>
+      <category>linux</category>
+      <category>containers</category>
+      <category>android</category>
+      <category>git</category>
+      <guid>https://justingarrison.com/blog/state-of-immutable-linux/</guid>
+      <pubDate>Sat, 28 Mar 2026 00:02:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>dein.fr - Charles-Axel Dein</title>
+      <link>https://www.dein.fr/posts/2026-03-17-when-a-manager-should-step-in</link>
+      <description>Charles-Axel Dein's personal website.</description>
+      <category>vscode</category>
+      <guid>https://www.dein.fr/posts/2026-03-17-when-a-manager-should-step-in</guid>
+      <pubDate>Sat, 28 Mar 2026 00:02:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Hidden Contract in Every API Call</title>
+      <link>https://shenli.dev/2026/03/26/hidden-contract-in-every-api-call.html</link>
+      <description>Web apps are distributed systems. The client’s observed world state should be an explicit input to every API call.</description>
+      <category>nodejs</category>
+      <category>git</category>
+      <guid>https://shenli.dev/2026/03/26/hidden-contract-in-every-api-call.html</guid>
+      <pubDate>Sat, 28 Mar 2026 00:02:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Incus vs. Kubernetes: Why Simplicity Wins - Pieter Bakker</title>
+      <link>https://pieterbakker.com/incus-vs-kubernetes-simplicity/</link>
+      <description>Incus vs. Kubernetes: Why simplicity wins for cost, ops, and cloud freedom. Discover a pragmatic path beyond microservices complexity.</description>
+      <category>linux</category>
+      <category>nodejs</category>
+      <category>cloud</category>
+      <category>containers</category>
+      <category>gaming</category>
+      <guid>https://pieterbakker.com/incus-vs-kubernetes-simplicity/</guid>
+      <pubDate>Sat, 28 Mar 2026 00:02:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>on supply chain attacks | ozair.dev</title>
+      <link>https://ozair.dev/b/on-supply-chain-attacks/</link>
+      <description>supply chain attack: a way to execute malicious code on many computers by sneaking in the bad code into a highly used open source library.</description>
+      <category>nodejs</category>
+      <category>git</category>
+      <guid>https://ozair.dev/b/on-supply-chain-attacks/</guid>
+      <pubDate>Sat, 28 Mar 2026 00:02:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Don't Wait for Claude — Jay McCarthy</title>
+      <link>https://jeapostrophe.github.io/tech/jc-workflow/</link>
+      <description>You give Claude a task. It takes seven minutes. What do you do?</description>
+      <category>ai</category>
+      <guid>https://jeapostrophe.github.io/tech/jc-workflow/</guid>
+      <pubDate>Sat, 28 Mar 2026 00:02:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Comforting Lie Of SHA Pinning</title>
+      <link>https://www.vaines.org/posts/2026-03-24-the-comforting-lie-of-sha-pinning/</link>
+      <description>In March 2026, Trivy became the latest reminder that software supply chains are, at best, loosely held together with convention and trust.</description>
+      <category>nodejs</category>
+      <category>git</category>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://www.vaines.org/posts/2026-03-24-the-comforting-lie-of-sha-pinning/</guid>
+      <pubDate>Sat, 28 Mar 2026 00:02:14 GMT</pubDate>
+    </item>
+    <item>
       <title>Satellite Pollution</title>
       <link>https://xkcd.com/3225/</link>
       <description></description>
@@ -321,13 +479,6 @@ drift toward data centers and away from people.</description>
       <category>encryption</category>
       <guid>https://www.janhouse.lv/blog/network/self-hosting-tailscale-derp-headscale</guid>
       <pubDate>Fri, 27 Mar 2026 01:02:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>How we get radicalized in America</title>
-      <link>https://idiallo.com/byte-size/how-to-get-radicalized-in-america?src=feed</link>
-      <description>The moment you get sick, the american insurance industry gets into gear to see how they can deny you care. While healthcare industry tries to make money.</description>
-      <guid>https://idiallo.com/byte-size/how-to-get-radicalized-in-america?src=feed</guid>
-      <pubDate>Fri, 27 Mar 2026 00:02:06 GMT</pubDate>
     </item>
   </channel>
 </rss>

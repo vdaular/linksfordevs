@@ -1,5 +1,133 @@
 [
   {
+    "Title": "FaceTime with My 19-Year-Old Self",
+    "Url": "https://www.davidtran.me/facetime-with-my-19-year-old-self/",
+    "Timestamp": "2026-03-28T00:03:12",
+    "Domain": "www.davidtran.me",
+    "Description": "I have a tool that can write code in any language, build almost any app I can imagine, and it costs next to nothing. This would have been wishes 1, 2, and 3 for my 19-year-old self. So why do I feel a growing sense of dissatisfaction and frustration about it all? I imagined talking to him to find out.",
+    "Confidence": 0.96532947
+  },
+  {
+    "Title": "How I work without a mouse",
+    "Url": "https://plo.fyi/blog/working-without-a-mouse/",
+    "Timestamp": "2026-03-28T00:03:08",
+    "Domain": "plo.fyi",
+    "Description": "",
+    "Confidence": 0.95580107
+  },
+  {
+    "Title": "“Good Taste” Is Just Experience",
+    "Url": "https://terriblesoftware.org/2026/03/27/good-taste-is-just-experience/",
+    "Timestamp": "2026-03-28T00:03:03",
+    "Domain": "terriblesoftware.org",
+    "Description": "What people call “good taste” is really just experience earned through reps. Stop making it sound innate.",
+    "Confidence": 0.9788868
+  },
+  {
+    "Title": "Why I Think Software Development Will Be Automated by 2030",
+    "Url": "https://blog.vtemian.com/talk/why-i-think-software-development-will-be-automated-by-2030/",
+    "Timestamp": "2026-03-28T00:03:00",
+    "Domain": "blog.vtemian.com",
+    "Description": "My PRO argument from a live debate in Timisoara, fact-checked with verified references.",
+    "Confidence": 0.98950183
+  },
+  {
+    "Title": "LLMs Are Ruining My Craft - Brian Carpio",
+    "Url": "https://www.briancarpio.com/blog/llms-are-ruining-my-craft",
+    "Timestamp": "2026-03-28T00:02:57",
+    "Domain": "www.briancarpio.com",
+    "Description": "Inspired by Alex Tatiyants",
+    "Confidence": 0.9447616
+  },
+  {
+    "Title": "Open Source Gave Me Everything Until I Had Nothing Left to Give",
+    "Url": "https://kennethreitz.org/essays/2026-03-18-open_source_gave_me_everything_until_i_had_nothing_left_to_give",
+    "Timestamp": "2026-03-28T00:02:53",
+    "Domain": "kennethreitz.org",
+    "Description": "I thought I was having a spiritual awakening. I was having a psychiatric emergency. I was at a tech conference in Sweden when it started. I hadn't slept in...",
+    "Confidence": 0.9871335
+  },
+  {
+    "Title": "My heuristics are wrong. What now?",
+    "Url": "https://brooker.co.za/blog/2026/03/20/ic-leadership.html",
+    "Timestamp": "2026-03-28T00:02:50",
+    "Domain": "brooker.co.za",
+    "Description": "More words. More meaning?",
+    "Confidence": 0.98864853
+  },
+  {
+    "Title": "How I vibe-code 10+ web services from anywhere",
+    "Url": "https://www.blynt.com/blog/vibe-coding-from-everywhere/",
+    "Timestamp": "2026-03-28T00:02:46",
+    "Domain": "www.blynt.com",
+    "Description": "How I use tried and trusted Linux/Unix tools to do software development from anywhere",
+    "Confidence": 0.9985227
+  },
+  {
+    "Title": "Point and Shoot Testing",
+    "Url": "https://thoughtfractal.pages.dev/point-and-shoot-testing/",
+    "Timestamp": "2026-03-28T00:02:42",
+    "Domain": "thoughtfractal.pages.dev",
+    "Description": "It's an often brought up tool within testing circles. In fact, Playwright themselves advertise the tool with the headline \"Playwright enables reliable end-to-end testing for modern web apps\". And for a lot of people that get to the point of stability within their web app, I'm sure having end-to-end testing may be useful. In my case, I find myself often iterating on my web app's designs until I get to the place I like them, so a UI test seems like it would be counterintuitive. However, with the age of end-to-end testing frameworks comes the ability to rapidly snapshot the state of your application. And this ability requires no tests or complex state machines to execute on. It's just like the classic camera saying, just \"Point and Shoot!\". However, with this ability comes an almost unbelievable productivity boost when working on web apps targeting multiple screen sizes. Especially in the age of agents. You might be wondering, what do agents have to do with this? Well, in truth, not so much, because many of these benefits extend to manual programming too. So let's get to it then, what are the benefits? Well, as soon as you make any UI change, you have the ability to run a 2s script and instantly know which UI scenarios changed, across many different screen sizes, instantly. No longer is there the requirement to fumble with browser dev tools to shrink the screen. No longer is there the need to have a phone and tablet to test your changes with. It's now a simple command run, and instantly changes across every single screen size and scenario you care about are shown. This is especially handy when these pictures are put into CI because you can get an easy indicator of which UI scenarios did and didn't change, which before having this seemed like a nice benefit, but after having used this for several design changes, is a lifechanger. Ultimately, you just can't go wrong with more visibility into your app.",
+    "Confidence": 0.98553133
+  },
+  {
+    "Title": "The State of Immutable Linux",
+    "Url": "https://justingarrison.com/blog/state-of-immutable-linux/",
+    "Timestamp": "2026-03-28T00:02:40",
+    "Domain": "justingarrison.com",
+    "Description": "Lies, damn lies, and read only filesystems",
+    "Confidence": 0.9932146
+  },
+  {
+    "Title": "dein.fr - Charles-Axel Dein",
+    "Url": "https://www.dein.fr/posts/2026-03-17-when-a-manager-should-step-in",
+    "Timestamp": "2026-03-28T00:02:36",
+    "Domain": "www.dein.fr",
+    "Description": "Charles-Axel Dein's personal website.",
+    "Confidence": 0.9562939
+  },
+  {
+    "Title": "The Hidden Contract in Every API Call",
+    "Url": "https://shenli.dev/2026/03/26/hidden-contract-in-every-api-call.html",
+    "Timestamp": "2026-03-28T00:02:33",
+    "Domain": "shenli.dev",
+    "Description": "Web apps are distributed systems. The client’s observed world state should be an explicit input to every API call.",
+    "Confidence": 0.9592926
+  },
+  {
+    "Title": "Incus vs. Kubernetes: Why Simplicity Wins - Pieter Bakker",
+    "Url": "https://pieterbakker.com/incus-vs-kubernetes-simplicity/",
+    "Timestamp": "2026-03-28T00:02:29",
+    "Domain": "pieterbakker.com",
+    "Description": "Incus vs. Kubernetes: Why simplicity wins for cost, ops, and cloud freedom. Discover a pragmatic path beyond microservices complexity.",
+    "Confidence": 0.98842335
+  },
+  {
+    "Title": "on supply chain attacks | ozair.dev",
+    "Url": "https://ozair.dev/b/on-supply-chain-attacks/",
+    "Timestamp": "2026-03-28T00:02:20",
+    "Domain": "ozair.dev",
+    "Description": "supply chain attack: a way to execute malicious code on many computers by sneaking in the bad code into a highly used open source library.",
+    "Confidence": 0.93061656
+  },
+  {
+    "Title": "Don't Wait for Claude — Jay McCarthy",
+    "Url": "https://jeapostrophe.github.io/tech/jc-workflow/",
+    "Timestamp": "2026-03-28T00:02:17",
+    "Domain": "jeapostrophe.github.io",
+    "Description": "You give Claude a task. It takes seven minutes. What do you do?",
+    "Confidence": 0.99152935
+  },
+  {
+    "Title": "The Comforting Lie Of SHA Pinning",
+    "Url": "https://www.vaines.org/posts/2026-03-24-the-comforting-lie-of-sha-pinning/",
+    "Timestamp": "2026-03-28T00:02:14",
+    "Domain": "www.vaines.org",
+    "Description": "In March 2026, Trivy became the latest reminder that software supply chains are, at best, loosely held together with convention and trust.",
+    "Confidence": 0.9682576
+  },
+  {
     "Title": "Satellite Pollution",
     "Url": "https://xkcd.com/3225/",
     "Timestamp": "2026-03-27T22:02:22",
@@ -270,13 +398,5 @@
     "Domain": "www.janhouse.lv",
     "Description": "Self-hosting DERP relay nodes for your Headscale Tailnet? Learn how to use SNI pass-through to share port 443 with other services, set up with Docker Compose, and lock down access so only your own Tailnet nodes can use it.",
     "Confidence": 0.9927207
-  },
-  {
-    "Title": "How we get radicalized in America",
-    "Url": "https://idiallo.com/byte-size/how-to-get-radicalized-in-america?src=feed",
-    "Timestamp": "2026-03-27T00:02:06",
-    "Domain": "idiallo.com",
-    "Description": "The moment you get sick, the american insurance industry gets into gear to see how they can deny you care. While healthcare industry tries to make money.",
-    "Confidence": 0.8684378
   }
 ]
