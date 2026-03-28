@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>easy containment for AI agents</title>
+      <link>https://jai.scs.stanford.edu/</link>
+      <description>Super-lightweight Linux sandbox for AI agents</description>
+      <category>ai</category>
+      <category>linux</category>
+      <guid>https://jai.scs.stanford.edu/</guid>
+      <pubDate>Sat, 28 Mar 2026 08:02:07 GMT</pubDate>
+    </item>
+    <item>
       <title>GitHub Actions Is Slowly Killing Your Engineering Team - Ian Duncan</title>
       <link>https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team</link>
       <description>Why GitHub Actions is the Internet Explorer of CI, and why Buildkite offers a better path forward for teams that care about developer experience.</description>
