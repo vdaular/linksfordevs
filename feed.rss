@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>IISExpress Port Conflicts - How to Resolve Them | Pure Krome</title>
+      <link>https://www.world-domination.com.au/posts/2026/iisexpress-port-conflicts/</link>
+      <description>How to resolve IISExpress port conflicts in ASP.NET development in 2026 and the age of .NET Core, Docker, and WSL.</description>
+      <category>aspnet</category>
+      <category>containers</category>
+      <guid>https://www.world-domination.com.au/posts/2026/iisexpress-port-conflicts/</guid>
+      <pubDate>Sat, 28 Mar 2026 12:02:35 GMT</pubDate>
+    </item>
+    <item>
       <title>easy containment for AI agents</title>
       <link>https://jai.scs.stanford.edu/</link>
       <description>Super-lightweight Linux sandbox for AI agents</description>
@@ -275,13 +284,6 @@ drift toward data centers and away from people.</description>
       <category>gaming</category>
       <guid>https://xn--gckvb8fzb.com/hold-on-to-your-hardware/</guid>
       <pubDate>Fri, 27 Mar 2026 14:03:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sharing a Name</title>
-      <link>https://idiallo.com/blog/sharing-a-name?src=feed</link>
-      <description>My bank card never arrived. I called the bank and, after being redirected through several departments, was assured that it had been mailed. Then we argued a bit about what "7 to 10 business days" mean</description>
-      <guid>https://idiallo.com/blog/sharing-a-name?src=feed</guid>
-      <pubDate>Fri, 27 Mar 2026 12:02:12 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,13 @@
 [
   {
+    "Title": "IISExpress Port Conflicts - How to Resolve Them | Pure Krome",
+    "Url": "https://www.world-domination.com.au/posts/2026/iisexpress-port-conflicts/",
+    "Timestamp": "2026-03-28T12:02:35",
+    "Domain": "www.world-domination.com.au",
+    "Description": "How to resolve IISExpress port conflicts in ASP.NET development in 2026 and the age of .NET Core, Docker, and WSL.",
+    "Confidence": 0.9895723
+  },
+  {
     "Title": "easy containment for AI agents",
     "Url": "https://jai.scs.stanford.edu/",
     "Timestamp": "2026-03-28T08:02:07",
@@ -222,13 +230,5 @@
     "Domain": "xn--gckvb8fzb.com",
     "Description": "A warning about rising prices, vanishing consumer choice, and a future where\nowning a computer may matter more than ever as hardware, power, and control\ndrift toward data centers and away from people.",
     "Confidence": 0.82910955
-  },
-  {
-    "Title": "Sharing a Name",
-    "Url": "https://idiallo.com/blog/sharing-a-name?src=feed",
-    "Timestamp": "2026-03-27T12:02:12",
-    "Domain": "idiallo.com",
-    "Description": "My bank card never arrived. I called the bank and, after being redirected through several departments, was assured that it had been mailed. Then we argued a bit about what \"7 to 10 business days\" mean",
-    "Confidence": 0.82951105
   }
 ]
