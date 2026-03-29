@@ -7,6 +7,147 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Two wheels, a few tradeoffs, and gas prices</title>
+      <link>https://blog.raed.dev/posts/motocycle/</link>
+      <description>Motorcycles burn half the fuel, take up a third of the space, and will absolutely kill you if you're not careful. I ride one anyway.</description>
+      <guid>https://blog.raed.dev/posts/motocycle/</guid>
+      <pubDate>Sun, 29 Mar 2026 23:03:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>The only sane way to use Linux</title>
+      <link>https://amit.prasad.me/blog/sane-nix</link>
+      <description>In which I argue that Nix is the only sane way to work with Linux-based machines, especially today.</description>
+      <category>sql</category>
+      <category>nodejs</category>
+      <category>vscode</category>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://amit.prasad.me/blog/sane-nix</guid>
+      <pubDate>Sun, 29 Mar 2026 23:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dashboards Are Already Dead | Josh Symonds</title>
+      <link>https://joshsymonds.com/blog/dashboards-are-already-dead/</link>
+      <description>Personal site of Josh Symonds - software engineer, consultant, and creator</description>
+      <category>gaming</category>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://joshsymonds.com/blog/dashboards-are-already-dead/</guid>
+      <pubDate>Sun, 29 Mar 2026 23:02:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>yolo linux is a corporate nightmare</title>
+      <link>https://alexandmanu.com/blog/yolo-linux-is-a-corporate-nightmare/</link>
+      <description>the "distro" that removes everything that makes linux, linux</description>
+      <category>linux</category>
+      <category>ai</category>
+      <guid>https://alexandmanu.com/blog/yolo-linux-is-a-corporate-nightmare/</guid>
+      <pubDate>Sun, 29 Mar 2026 23:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intuiting Pratt parsing</title>
+      <link>https://louis.co.nz/2026/03/26/pratt-parsing.html</link>
+      <description>You already know that a + b * c + d is calculated as a + (b * c) + d. But how do you encode that knowledge precisely enough for a machine to act on it?</description>
+      <category>nodejs</category>
+      <guid>https://louis.co.nz/2026/03/26/pratt-parsing.html</guid>
+      <pubDate>Sun, 29 Mar 2026 23:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Three LLM Agents for My Knowledge Garden</title>
+      <link>https://www.joshbeckman.org/blog/practicing/three-agents-for-a-knowledge-garden</link>
+      <description>I built three AI agents that tend my knowledge garden in different ways: one walks in front, one walks behind, and one walks beside me.</description>
+      <author> (https://www.joshbeckman.org/about/)</author>
+      <category>conference</category>
+      <category>ai</category>
+      <guid>https://www.joshbeckman.org/blog/practicing/three-agents-for-a-knowledge-garden</guid>
+      <pubDate>Sun, 29 Mar 2026 23:02:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Making HNSW actually work with WHERE clauses — Christopher Grainger</title>
+      <link>https://cigrainger.com/blog/duckdb-hnsw-acorn/</link>
+      <description>Transparent filtered vector search in DuckDB, or: why post-filtering is broken and what to do about it.</description>
+      <category>sql</category>
+      <category>nodejs</category>
+      <category>vscode</category>
+      <guid>https://cigrainger.com/blog/duckdb-hnsw-acorn/</guid>
+      <pubDate>Sun, 29 Mar 2026 23:02:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>How flat is your name?</title>
+      <link>https://matthewc.dev/musings/baby-names/</link>
+      <description>Finding the flattest baby names</description>
+      <category>gaming</category>
+      <guid>https://matthewc.dev/musings/baby-names/</guid>
+      <pubDate>Sun, 29 Mar 2026 23:02:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>What temperature are you coding at? | Chris Loy</title>
+      <link>https://chrisloy.dev/post/2026/03/29/what-temperature-are-you-coding-at</link>
+      <description>When it comes to using AI to write code, I have been thinking a lot about porridge. Allow me to explain.</description>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://chrisloy.dev/post/2026/03/29/what-temperature-are-you-coding-at</guid>
+      <pubDate>Sun, 29 Mar 2026 23:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>My Mediocrity Has Been Automated</title>
+      <link>https://overengineer.it.com/posts/robbed-of-mediocrity/</link>
+      <description>AI Stole My Mediocrity</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://overengineer.it.com/posts/robbed-of-mediocrity/</guid>
+      <pubDate>Sun, 29 Mar 2026 23:02:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I survive red eyes</title>
+      <link>https://kiranrao.ca/2026/03/29/redeye.html</link>
+      <description>This is my guide to surviving overnight flights in economy.Do you fly business? Great, you already have a better chance of sleeping. There may still be ...</description>
+      <category>web</category>
+      <guid>https://kiranrao.ca/2026/03/29/redeye.html</guid>
+      <pubDate>Sun, 29 Mar 2026 23:02:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why Claude Code Won (for now) | Alexis Gallagher</title>
+      <link>https://alexisgallagher.com/posts/2026/why-claude-code-won/</link>
+      <description>2025 was the year of vibecoding and AI agents. But the most improbable part of the year was the discovery that Claude Code, an old-school, text-based, command-line app was the ideal form factor for futuristic agentic workflows. Why did it happen this way? Here's my explanation."</description>
+      <category>ai</category>
+      <category>python</category>
+      <category>apple</category>
+      <category>linux</category>
+      <guid>https://alexisgallagher.com/posts/2026/why-claude-code-won/</guid>
+      <pubDate>Sun, 29 Mar 2026 23:02:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Release Nvim 0.12.0 · neovim/neovim</title>
+      <link>https://github.com/neovim/neovim/releases/tag/v0.12.0</link>
+      <description>NVIM v0.12.0
+Build type: Release
+LuaJIT 2.1.1774638290
+
+Release notes
+
+Changelog (fixes + features)
+News (:help news in Nvim)
+
+Install
+Windows
+Zip
+
+Download nvim-win64.zip (or nvim-win-arm64.zip fo...</description>
+      <category>linux</category>
+      <guid>https://github.com/neovim/neovim/releases/tag/v0.12.0</guid>
+      <pubDate>Sun, 29 Mar 2026 23:02:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>A month of OpEx quick wins</title>
+      <link>https://www.jmduke.com/posts/opex-quick-wins.html</link>
+      <description>I spent the past few weeks chasing quick OpEx wins for sport, having felt a nagging sensation that the orchards of our org were a little too-laden with low-h...</description>
+      <category>git</category>
+      <category>web</category>
+      <guid>https://www.jmduke.com/posts/opex-quick-wins.html</guid>
+      <pubDate>Sun, 29 Mar 2026 23:02:15 GMT</pubDate>
+    </item>
+    <item>
       <title>GitHub - austin-weeks/miasma: Trap AI web scrapers in an endless poison pit.</title>
       <link>https://github.com/austin-weeks/miasma</link>
       <description>Trap AI web scrapers in an endless poison pit. Contribute to austin-weeks/miasma development by creating an account on GitHub.</description>

@@ -1,5 +1,103 @@
 [
   {
+    "Title": "Two wheels, a few tradeoffs, and gas prices",
+    "Url": "https://blog.raed.dev/posts/motocycle/",
+    "Timestamp": "2026-03-29T23:03:04",
+    "Domain": "blog.raed.dev",
+    "Description": "Motorcycles burn half the fuel, take up a third of the space, and will absolutely kill you if you're not careful. I ride one anyway."
+  },
+  {
+    "Title": "The only sane way to use Linux",
+    "Url": "https://amit.prasad.me/blog/sane-nix",
+    "Timestamp": "2026-03-29T23:03:01",
+    "Domain": "amit.prasad.me",
+    "Description": "In which I argue that Nix is the only sane way to work with Linux-based machines, especially today."
+  },
+  {
+    "Title": "Dashboards Are Already Dead | Josh Symonds",
+    "Url": "https://joshsymonds.com/blog/dashboards-are-already-dead/",
+    "Timestamp": "2026-03-29T23:02:58",
+    "Domain": "joshsymonds.com",
+    "Description": "Personal site of Josh Symonds - software engineer, consultant, and creator"
+  },
+  {
+    "Title": "yolo linux is a corporate nightmare",
+    "Url": "https://alexandmanu.com/blog/yolo-linux-is-a-corporate-nightmare/",
+    "Timestamp": "2026-03-29T23:02:54",
+    "Domain": "alexandmanu.com",
+    "Description": "the \"distro\" that removes everything that makes linux, linux"
+  },
+  {
+    "Title": "Intuiting Pratt parsing",
+    "Url": "https://louis.co.nz/2026/03/26/pratt-parsing.html",
+    "Timestamp": "2026-03-29T23:02:51",
+    "Domain": "louis.co.nz",
+    "Description": "You already know that a + b * c + d is calculated as a + (b * c) + d. But how do you encode that knowledge precisely enough for a machine to act on it?"
+  },
+  {
+    "Title": "Three LLM Agents for My Knowledge Garden",
+    "Url": "https://www.joshbeckman.org/blog/practicing/three-agents-for-a-knowledge-garden",
+    "Timestamp": "2026-03-29T23:02:47",
+    "Domain": "www.joshbeckman.org",
+    "Description": "I built three AI agents that tend my knowledge garden in different ways: one walks in front, one walks behind, and one walks beside me."
+  },
+  {
+    "Title": "Making HNSW actually work with WHERE clauses — Christopher Grainger",
+    "Url": "https://cigrainger.com/blog/duckdb-hnsw-acorn/",
+    "Timestamp": "2026-03-29T23:02:41",
+    "Domain": "cigrainger.com",
+    "Description": "Transparent filtered vector search in DuckDB, or: why post-filtering is broken and what to do about it."
+  },
+  {
+    "Title": "How flat is your name?",
+    "Url": "https://matthewc.dev/musings/baby-names/",
+    "Timestamp": "2026-03-29T23:02:38",
+    "Domain": "matthewc.dev",
+    "Description": "Finding the flattest baby names"
+  },
+  {
+    "Title": "What temperature are you coding at? | Chris Loy",
+    "Url": "https://chrisloy.dev/post/2026/03/29/what-temperature-are-you-coding-at",
+    "Timestamp": "2026-03-29T23:02:34",
+    "Domain": "chrisloy.dev",
+    "Description": "When it comes to using AI to write code, I have been thinking a lot about porridge. Allow me to explain."
+  },
+  {
+    "Title": "My Mediocrity Has Been Automated",
+    "Url": "https://overengineer.it.com/posts/robbed-of-mediocrity/",
+    "Timestamp": "2026-03-29T23:02:31",
+    "Domain": "overengineer.it.com",
+    "Description": "AI Stole My Mediocrity"
+  },
+  {
+    "Title": "How I survive red eyes",
+    "Url": "https://kiranrao.ca/2026/03/29/redeye.html",
+    "Timestamp": "2026-03-29T23:02:28",
+    "Domain": "kiranrao.ca",
+    "Description": "This is my guide to surviving overnight flights in economy.Do you fly business? Great, you already have a better chance of sleeping. There may still be ..."
+  },
+  {
+    "Title": "Why Claude Code Won (for now) | Alexis Gallagher",
+    "Url": "https://alexisgallagher.com/posts/2026/why-claude-code-won/",
+    "Timestamp": "2026-03-29T23:02:24",
+    "Domain": "alexisgallagher.com",
+    "Description": "2025 was the year of vibecoding and AI agents. But the most improbable part of the year was the discovery that Claude Code, an old-school, text-based, command-line app was the ideal form factor for futuristic agentic workflows. Why did it happen this way? Here's my explanation.\""
+  },
+  {
+    "Title": "Release Nvim 0.12.0 · neovim/neovim",
+    "Url": "https://github.com/neovim/neovim/releases/tag/v0.12.0",
+    "Timestamp": "2026-03-29T23:02:20",
+    "Domain": "github.com",
+    "Description": "NVIM v0.12.0\nBuild type: Release\nLuaJIT 2.1.1774638290\n\nRelease notes\n\nChangelog (fixes + features)\nNews (:help news in Nvim)\n\nInstall\nWindows\nZip\n\nDownload nvim-win64.zip (or nvim-win-arm64.zip fo..."
+  },
+  {
+    "Title": "A month of OpEx quick wins",
+    "Url": "https://www.jmduke.com/posts/opex-quick-wins.html",
+    "Timestamp": "2026-03-29T23:02:15",
+    "Domain": "www.jmduke.com",
+    "Description": "I spent the past few weeks chasing quick OpEx wins for sport, having felt a nagging sensation that the orchards of our org were a little too-laden with low-h..."
+  },
+  {
     "Title": "GitHub - austin-weeks/miasma: Trap AI web scrapers in an endless poison pit.",
     "Url": "https://github.com/austin-weeks/miasma",
     "Timestamp": "2026-03-29T22:02:06",
