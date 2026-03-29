@@ -1,5 +1,13 @@
 [
   {
+    "Title": "How I accidentally made the fastest C# CSV parser",
+    "Url": "https://bepis.io/blog/turbo-csv-parser/",
+    "Timestamp": "2026-03-29T01:02:02",
+    "Domain": "bepis.io",
+    "Description": "(with certain files under certain conditions)",
+    "Confidence": 0.9966637
+  },
+  {
     "Title": "Mockup 147 — The Editorial Engine",
     "Url": "https://chenglou.me/pretext/editorial-engine/",
     "Timestamp": "2026-03-29T00:02:50",
@@ -206,13 +214,5 @@
     "Domain": "www.seangoedecke.com",
     "Description": "I’ve worked on a lot of unpopular products.",
     "Confidence": 0.992058
-  },
-  {
-    "Title": "Make MacOS 26 consistently bad (unironically)",
-    "Url": "https://lr0.org/blog/p/macos/",
-    "Timestamp": "2026-03-28T01:02:00",
-    "Domain": "lr0.org",
-    "Description": "Alongside the various bugs you get, one of the issues of upgrading to MacOS 26 is that it has one of the most notorious inconsistency issues in windows corners. I'm not sure what exactly pushes product designers to like the excessive roundness11. One of the ugliest roundness examples I've ever seen is the current one in the YouTube UI design. I believe that UI design is the most influential field ever since designers just try to follow whatever big companies do (in fact I see this a lot in my work, when two designers are having an argument, one of them would resolve it to, let's see how apple draw that button), which means that we are probably going to see this ugly effect elsewhere very soon.",
-    "Confidence": 0.9971581
   }
 ]
