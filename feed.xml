@@ -177,34 +177,5 @@
       <guid>https://blog.thereallo.dev/blog/decompiling-the-white-house-app</guid>
       <pubDate>Sat, 28 Mar 2026 21:02:28 GMT</pubDate>
     </item>
-    <item>
-      <title>Cancer</title>
-      <link>https://sytse.com/cancer/</link>
-      <description>I’ve taken agency in the treatment of my bone cancer (osteosarcoma in the T5 vertebrae of the upper spine). After I’ve ran out of standard of care treatment options and there were no trials available…</description>
-      <category>ai</category>
-      <guid>https://sytse.com/cancer/</guid>
-      <pubDate>Sat, 28 Mar 2026 20:02:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>CERN Uses Tiny AI Models Burned into Silicon for Real-Time LHC Data Filtering</title>
-      <link>https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering</link>
-      <description>CERN has developed ultra-small AI models embedded directly into custom chips to filter massive data streams from the Large Hadron Collider in real time, addressing the enormous data challenge of the world’s most powerful particle accelerator.</description>
-      <category>ai</category>
-      <category>youtube</category>
-      <category>web</category>
-      <guid>https://theopenreader.org/Journalism:CERN_Uses_Tiny_AI_Models_Burned_into_Silicon_for_Real-Time_LHC_Data_Filtering</guid>
-      <pubDate>Sat, 28 Mar 2026 20:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - J-x-Z/cocoa-way: Native macOS Wayland Compositor written in Rust using Smithay. Experience seamless Linux app streaming on macOS without XQuartz.</title>
-      <link>https://github.com/J-x-Z/cocoa-way</link>
-      <description>Native macOS Wayland Compositor written in Rust using Smithay. Experience seamless Linux app streaming on macOS without XQuartz. - J-x-Z/cocoa-way</description>
-      <category>rust</category>
-      <category>git</category>
-      <category>linux</category>
-      <category>android</category>
-      <guid>https://github.com/J-x-Z/cocoa-way</guid>
-      <pubDate>Sat, 28 Mar 2026 20:02:07 GMT</pubDate>
-    </item>
   </channel>
 </rss>
