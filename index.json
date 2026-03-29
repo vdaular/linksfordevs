@@ -174,13 +174,5 @@
     "Domain": "youtube.com",
     "Description": "I built a custom open-world engine for the N64. In this video, I break down how I achieved a seamless, massive world with zero loading screens on N64 hardware. \n\nYou can download it here\nhttps://github.com/lambertjamesd/n64brew2025/releases\n\nHere is the team that helped me work on this. \n\nPyroxene: https://x.com/pyrox3ne\nCaitlin G Cooke: https://cgcooke.itch.io/\nterzdesign\nKælin: https://betadynast.bandcamp.com/\n\n\nI will be using these same techniques in my ongoing project. If you want to support this work and follow the development journey, you can find me on \n\nPatreon: patreon.com/JamesLambert",
     "Confidence": 0.9583359
-  },
-  {
-    "Title": "AMD's Ryzen 9 9950X3D2 Dual Edition crams 208MB of cache into a single chip",
-    "Url": "https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/",
-    "Timestamp": "2026-03-28T18:02:12",
-    "Domain": "arstechnica.com",
-    "Description": "Both of the chip's CPU dies will include 64MB of extra cache stacked beneath.",
-    "Confidence": 0.7696291
   }
 ]
