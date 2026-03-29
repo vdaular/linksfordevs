@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Nitrile and latex gloves may cause overestimation of microplastics, U-M study reveals</title>
+      <link>https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/</link>
+      <description>Nitrile and latex gloves that scientists wear while they are measuring microplastics may lead to a potential overestimation of the tiny pollutants, according to a University of Michigan study.</description>
+      <guid>https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/</guid>
+      <pubDate>Sun, 29 Mar 2026 15:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>CSS is DOOMed!</title>
       <link>https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/</link>
       <description>Every wall, floor, barrel, and imp is a div — DOOM rendered entirely in CSS. Using 3D transforms, CSS math functions, @property, clip-path, anchor positioning, and SVG filters to build a fully playable 3D first-person shooter in the browser without Canvas or WebGL.</description>
@@ -228,14 +235,6 @@ Patreon: patreon.com/JamesLambert</description>
       <category>sql</category>
       <guid>https://grid.iamkate.com/</guid>
       <pubDate>Sat, 28 Mar 2026 16:02:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - EnriqueLop/legalize-es: Spanish legislation as a Git repo — every law is a Markdown file, every reform a commit. 8,600+ laws.</title>
-      <link>https://github.com/EnriqueLop/legalize-es</link>
-      <description>Spanish legislation as a Git repo — every law is a Markdown file, every reform a commit. 8,600+ laws. - EnriqueLop/legalize-es</description>
-      <category>git</category>
-      <guid>https://github.com/EnriqueLop/legalize-es</guid>
-      <pubDate>Sat, 28 Mar 2026 15:02:12 GMT</pubDate>
     </item>
   </channel>
 </rss>
