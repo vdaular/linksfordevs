@@ -255,14 +255,5 @@ Patreon: patreon.com/JamesLambert</description>
       <guid>https://www.world-domination.com.au/posts/2026/iisexpress-port-conflicts/</guid>
       <pubDate>Sat, 28 Mar 2026 12:02:35 GMT</pubDate>
     </item>
-    <item>
-      <title>easy containment for AI agents</title>
-      <link>https://jai.scs.stanford.edu/</link>
-      <description>Super-lightweight Linux sandbox for AI agents</description>
-      <category>ai</category>
-      <category>linux</category>
-      <guid>https://jai.scs.stanford.edu/</guid>
-      <pubDate>Sat, 28 Mar 2026 08:02:07 GMT</pubDate>
-    </item>
   </channel>
 </rss>

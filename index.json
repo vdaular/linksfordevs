@@ -198,13 +198,5 @@
     "Domain": "www.world-domination.com.au",
     "Description": "How to resolve IISExpress port conflicts in ASP.NET development in 2026 and the age of .NET Core, Docker, and WSL.",
     "Confidence": 0.9895723
-  },
-  {
-    "Title": "easy containment for AI agents",
-    "Url": "https://jai.scs.stanford.edu/",
-    "Timestamp": "2026-03-28T08:02:07",
-    "Domain": "jai.scs.stanford.edu",
-    "Description": "Super-lightweight Linux sandbox for AI agents",
-    "Confidence": 0.96217316
   }
 ]
