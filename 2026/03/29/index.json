@@ -1,0 +1,86 @@
+[
+  {
+    "Title": "Mockup 147 — The Editorial Engine",
+    "Url": "https://chenglou.me/pretext/editorial-engine/",
+    "Timestamp": "2026-03-29T00:02:50",
+    "Domain": "chenglou.me",
+    "Description": "Editorial pretext demo: animated orbs, live multi-column text flow, and zero DOM measurements."
+  },
+  {
+    "Title": "I Beat the Benchmark and Still Failed",
+    "Url": "https://www.tarc.blog/essays/beating_the_benchmark.html",
+    "Timestamp": "2026-03-29T00:02:47",
+    "Domain": "www.tarc.blog",
+    "Description": "I recently learned a harsh lesson about building startups. You can build a product that beats your competitors in both quality and addictiveness, and still fail miserably if you don't know how to distribute it."
+  },
+  {
+    "Title": "When All You Can Do Is All or Nothing, Do Nothing – CSS Wizardry",
+    "Url": "https://csswizardry.com/2026/03/when-all-you-can-do-is-all-or-nothing-do-nothing/",
+    "Timestamp": "2026-03-29T00:02:44",
+    "Domain": "csswizardry.com",
+    "Description": "If your design system can only apply `loading=lazy` or `fetchpriority=high` blindly, it may be safer not to apply them at all."
+  },
+  {
+    "Title": "I accidentally spammed a year of calendar invites",
+    "Url": "https://mattfarrugia.com/posts/i-accidentally-spammed-a-year-of-calendar-invites",
+    "Timestamp": "2026-03-29T00:02:41",
+    "Domain": "mattfarrugia.com",
+    "Description": "A calendar sync went sideways, people across my past and future started getting meeting invites from me again, and I spent the afternoon replacing the whole setup with a safer read-only tool."
+  },
+  {
+    "Title": "Building an E2E Encrypted Chat Application with LanceDB and libsodium",
+    "Url": "https://www.justinrmiller.com/building-an-e2e-encrypted-chat-application-with-lancedb-and-libsodium/",
+    "Timestamp": "2026-03-29T00:02:37",
+    "Domain": "www.justinrmiller.com",
+    "Description": "Justin Miller's Blog"
+  },
+  {
+    "Title": "How I Built a Public RAG App for Chicago Budget Documents",
+    "Url": "https://www.devinthakker.com/blog/chicago-budget-rag",
+    "Timestamp": "2026-03-29T00:02:34",
+    "Domain": "www.devinthakker.com",
+    "Description": "A practical build log of creating a public-facing RAG app over large municipal budget PDFs, with source citations, embedded document viewing, quality tuning, and production deployment."
+  },
+  {
+    "Title": "How the (Em)ighty Have Fallen—",
+    "Url": "https://dhruvahuja.me/posts/emighty-have-fallen/",
+    "Timestamp": "2026-03-29T00:02:31",
+    "Domain": "dhruvahuja.me",
+    "Description": "A journey of the em dash, my obsession with it growing up, my deep appreciation, and the modern constraints upon its usage."
+  },
+  {
+    "Title": "Your Data Never Dies",
+    "Url": "https://www.mjeggleton.com/blog/your-data-never-dies",
+    "Timestamp": "2026-03-29T00:02:28",
+    "Domain": "www.mjeggleton.com",
+    "Description": "The purpose fades. Your data doesn't."
+  },
+  {
+    "Title": "Everyone is building a software factory - exe.dev blog",
+    "Url": "https://blog.exe.dev/bones-of-the-software-factory",
+    "Timestamp": "2026-03-29T00:02:24",
+    "Domain": "blog.exe.dev",
+    "Description": "Is exe.dev the compute primitive you've been waiting for?"
+  },
+  {
+    "Title": "Tell the Model What to Do, Not What to Avoid",
+    "Url": "https://vexjoy.com/posts/positive-framing-agents-skills/",
+    "Timestamp": "2026-03-29T00:02:21",
+    "Domain": "vexjoy.com",
+    "Description": "Blind A/B tests on Go code generation showed positive framing in agent instructions consistently outperforms prohibition language. I built a linter to enforce it."
+  },
+  {
+    "Title": "The Revenge of the Data Scientist – Hamel’s Blog - Hamel Husain",
+    "Url": "https://hamel.dev/blog/posts/revenge/",
+    "Timestamp": "2026-03-29T00:02:18",
+    "Domain": "hamel.dev",
+    "Description": "Is Data Science in decline?"
+  },
+  {
+    "Title": "The Porsche Diffusion",
+    "Url": "https://blog.est.im/2026/stdin-09",
+    "Timestamp": "2026-03-29T00:02:14",
+    "Domain": "blog.est.im",
+    "Description": "The Porsche Diffusion"
+  }
+]

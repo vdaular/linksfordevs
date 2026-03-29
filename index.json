@@ -1,5 +1,101 @@
 [
   {
+    "Title": "Mockup 147 — The Editorial Engine",
+    "Url": "https://chenglou.me/pretext/editorial-engine/",
+    "Timestamp": "2026-03-29T00:02:50",
+    "Domain": "chenglou.me",
+    "Description": "Editorial pretext demo: animated orbs, live multi-column text flow, and zero DOM measurements.",
+    "Confidence": 0.95275635
+  },
+  {
+    "Title": "I Beat the Benchmark and Still Failed",
+    "Url": "https://www.tarc.blog/essays/beating_the_benchmark.html",
+    "Timestamp": "2026-03-29T00:02:47",
+    "Domain": "www.tarc.blog",
+    "Description": "I recently learned a harsh lesson about building startups. You can build a product that beats your competitors in both quality and addictiveness, and still fail miserably if you don't know how to distribute it.",
+    "Confidence": 0.9756983
+  },
+  {
+    "Title": "When All You Can Do Is All or Nothing, Do Nothing – CSS Wizardry",
+    "Url": "https://csswizardry.com/2026/03/when-all-you-can-do-is-all-or-nothing-do-nothing/",
+    "Timestamp": "2026-03-29T00:02:44",
+    "Domain": "csswizardry.com",
+    "Description": "If your design system can only apply `loading=lazy` or `fetchpriority=high` blindly, it may be safer not to apply them at all.",
+    "Confidence": 0.97411865
+  },
+  {
+    "Title": "I accidentally spammed a year of calendar invites",
+    "Url": "https://mattfarrugia.com/posts/i-accidentally-spammed-a-year-of-calendar-invites",
+    "Timestamp": "2026-03-29T00:02:41",
+    "Domain": "mattfarrugia.com",
+    "Description": "A calendar sync went sideways, people across my past and future started getting meeting invites from me again, and I spent the afternoon replacing the whole setup with a safer read-only tool.",
+    "Confidence": 0.9613157
+  },
+  {
+    "Title": "Building an E2E Encrypted Chat Application with LanceDB and libsodium",
+    "Url": "https://www.justinrmiller.com/building-an-e2e-encrypted-chat-application-with-lancedb-and-libsodium/",
+    "Timestamp": "2026-03-29T00:02:37",
+    "Domain": "www.justinrmiller.com",
+    "Description": "Justin Miller's Blog",
+    "Confidence": 0.9962541
+  },
+  {
+    "Title": "How I Built a Public RAG App for Chicago Budget Documents",
+    "Url": "https://www.devinthakker.com/blog/chicago-budget-rag",
+    "Timestamp": "2026-03-29T00:02:34",
+    "Domain": "www.devinthakker.com",
+    "Description": "A practical build log of creating a public-facing RAG app over large municipal budget PDFs, with source citations, embedded document viewing, quality tuning, and production deployment.",
+    "Confidence": 0.9567318
+  },
+  {
+    "Title": "How the (Em)ighty Have Fallen—",
+    "Url": "https://dhruvahuja.me/posts/emighty-have-fallen/",
+    "Timestamp": "2026-03-29T00:02:31",
+    "Domain": "dhruvahuja.me",
+    "Description": "A journey of the em dash, my obsession with it growing up, my deep appreciation, and the modern constraints upon its usage.",
+    "Confidence": 0.8640911
+  },
+  {
+    "Title": "Your Data Never Dies",
+    "Url": "https://www.mjeggleton.com/blog/your-data-never-dies",
+    "Timestamp": "2026-03-29T00:02:28",
+    "Domain": "www.mjeggleton.com",
+    "Description": "The purpose fades. Your data doesn't.",
+    "Confidence": 0.95685256
+  },
+  {
+    "Title": "Everyone is building a software factory - exe.dev blog",
+    "Url": "https://blog.exe.dev/bones-of-the-software-factory",
+    "Timestamp": "2026-03-29T00:02:24",
+    "Domain": "blog.exe.dev",
+    "Description": "Is exe.dev the compute primitive you've been waiting for?",
+    "Confidence": 0.98881865
+  },
+  {
+    "Title": "Tell the Model What to Do, Not What to Avoid",
+    "Url": "https://vexjoy.com/posts/positive-framing-agents-skills/",
+    "Timestamp": "2026-03-29T00:02:21",
+    "Domain": "vexjoy.com",
+    "Description": "Blind A/B tests on Go code generation showed positive framing in agent instructions consistently outperforms prohibition language. I built a linter to enforce it.",
+    "Confidence": 0.82051677
+  },
+  {
+    "Title": "The Revenge of the Data Scientist – Hamel’s Blog - Hamel Husain",
+    "Url": "https://hamel.dev/blog/posts/revenge/",
+    "Timestamp": "2026-03-29T00:02:18",
+    "Domain": "hamel.dev",
+    "Description": "Is Data Science in decline?",
+    "Confidence": 0.9675637
+  },
+  {
+    "Title": "The Porsche Diffusion",
+    "Url": "https://blog.est.im/2026/stdin-09",
+    "Timestamp": "2026-03-29T00:02:14",
+    "Domain": "blog.est.im",
+    "Description": "The Porsche Diffusion",
+    "Confidence": 0.981919
+  },
+  {
     "Title": "Sycophantic behavior in AI affects us all, say researchers",
     "Url": "https://www.theregister.com/2026/03/27/sycophantic_ai_risks/",
     "Timestamp": "2026-03-28T22:02:05",
@@ -118,133 +214,5 @@
     "Domain": "lr0.org",
     "Description": "Alongside the various bugs you get, one of the issues of upgrading to MacOS 26 is that it has one of the most notorious inconsistency issues in windows corners. I'm not sure what exactly pushes product designers to like the excessive roundness11. One of the ugliest roundness examples I've ever seen is the current one in the YouTube UI design. I believe that UI design is the most influential field ever since designers just try to follow whatever big companies do (in fact I see this a lot in my work, when two designers are having an argument, one of them would resolve it to, let's see how apple draw that button), which means that we are probably going to see this ugly effect elsewhere very soon.",
     "Confidence": 0.9971581
-  },
-  {
-    "Title": "FaceTime with My 19-Year-Old Self",
-    "Url": "https://www.davidtran.me/facetime-with-my-19-year-old-self/",
-    "Timestamp": "2026-03-28T00:03:12",
-    "Domain": "www.davidtran.me",
-    "Description": "I have a tool that can write code in any language, build almost any app I can imagine, and it costs next to nothing. This would have been wishes 1, 2, and 3 for my 19-year-old self. So why do I feel a growing sense of dissatisfaction and frustration about it all? I imagined talking to him to find out.",
-    "Confidence": 0.96532947
-  },
-  {
-    "Title": "How I work without a mouse",
-    "Url": "https://plo.fyi/blog/working-without-a-mouse/",
-    "Timestamp": "2026-03-28T00:03:08",
-    "Domain": "plo.fyi",
-    "Description": "",
-    "Confidence": 0.95580107
-  },
-  {
-    "Title": "“Good Taste” Is Just Experience",
-    "Url": "https://terriblesoftware.org/2026/03/27/good-taste-is-just-experience/",
-    "Timestamp": "2026-03-28T00:03:03",
-    "Domain": "terriblesoftware.org",
-    "Description": "What people call “good taste” is really just experience earned through reps. Stop making it sound innate.",
-    "Confidence": 0.9788868
-  },
-  {
-    "Title": "Why I Think Software Development Will Be Automated by 2030",
-    "Url": "https://blog.vtemian.com/talk/why-i-think-software-development-will-be-automated-by-2030/",
-    "Timestamp": "2026-03-28T00:03:00",
-    "Domain": "blog.vtemian.com",
-    "Description": "My PRO argument from a live debate in Timisoara, fact-checked with verified references.",
-    "Confidence": 0.98950183
-  },
-  {
-    "Title": "LLMs Are Ruining My Craft - Brian Carpio",
-    "Url": "https://www.briancarpio.com/blog/llms-are-ruining-my-craft",
-    "Timestamp": "2026-03-28T00:02:57",
-    "Domain": "www.briancarpio.com",
-    "Description": "Inspired by Alex Tatiyants",
-    "Confidence": 0.9447616
-  },
-  {
-    "Title": "Open Source Gave Me Everything Until I Had Nothing Left to Give",
-    "Url": "https://kennethreitz.org/essays/2026-03-18-open_source_gave_me_everything_until_i_had_nothing_left_to_give",
-    "Timestamp": "2026-03-28T00:02:53",
-    "Domain": "kennethreitz.org",
-    "Description": "I thought I was having a spiritual awakening. I was having a psychiatric emergency. I was at a tech conference in Sweden when it started. I hadn't slept in...",
-    "Confidence": 0.9871335
-  },
-  {
-    "Title": "My heuristics are wrong. What now?",
-    "Url": "https://brooker.co.za/blog/2026/03/20/ic-leadership.html",
-    "Timestamp": "2026-03-28T00:02:50",
-    "Domain": "brooker.co.za",
-    "Description": "More words. More meaning?",
-    "Confidence": 0.98864853
-  },
-  {
-    "Title": "How I vibe-code 10+ web services from anywhere",
-    "Url": "https://www.blynt.com/blog/vibe-coding-from-everywhere/",
-    "Timestamp": "2026-03-28T00:02:46",
-    "Domain": "www.blynt.com",
-    "Description": "How I use tried and trusted Linux/Unix tools to do software development from anywhere",
-    "Confidence": 0.9985227
-  },
-  {
-    "Title": "Point and Shoot Testing",
-    "Url": "https://thoughtfractal.pages.dev/point-and-shoot-testing/",
-    "Timestamp": "2026-03-28T00:02:42",
-    "Domain": "thoughtfractal.pages.dev",
-    "Description": "It's an often brought up tool within testing circles. In fact, Playwright themselves advertise the tool with the headline \"Playwright enables reliable end-to-end testing for modern web apps\". And for a lot of people that get to the point of stability within their web app, I'm sure having end-to-end testing may be useful. In my case, I find myself often iterating on my web app's designs until I get to the place I like them, so a UI test seems like it would be counterintuitive. However, with the age of end-to-end testing frameworks comes the ability to rapidly snapshot the state of your application. And this ability requires no tests or complex state machines to execute on. It's just like the classic camera saying, just \"Point and Shoot!\". However, with this ability comes an almost unbelievable productivity boost when working on web apps targeting multiple screen sizes. Especially in the age of agents. You might be wondering, what do agents have to do with this? Well, in truth, not so much, because many of these benefits extend to manual programming too. So let's get to it then, what are the benefits? Well, as soon as you make any UI change, you have the ability to run a 2s script and instantly know which UI scenarios changed, across many different screen sizes, instantly. No longer is there the requirement to fumble with browser dev tools to shrink the screen. No longer is there the need to have a phone and tablet to test your changes with. It's now a simple command run, and instantly changes across every single screen size and scenario you care about are shown. This is especially handy when these pictures are put into CI because you can get an easy indicator of which UI scenarios did and didn't change, which before having this seemed like a nice benefit, but after having used this for several design changes, is a lifechanger. Ultimately, you just can't go wrong with more visibility into your app.",
-    "Confidence": 0.98553133
-  },
-  {
-    "Title": "The State of Immutable Linux",
-    "Url": "https://justingarrison.com/blog/state-of-immutable-linux/",
-    "Timestamp": "2026-03-28T00:02:40",
-    "Domain": "justingarrison.com",
-    "Description": "Lies, damn lies, and read only filesystems",
-    "Confidence": 0.9932146
-  },
-  {
-    "Title": "dein.fr - Charles-Axel Dein",
-    "Url": "https://www.dein.fr/posts/2026-03-17-when-a-manager-should-step-in",
-    "Timestamp": "2026-03-28T00:02:36",
-    "Domain": "www.dein.fr",
-    "Description": "Charles-Axel Dein's personal website.",
-    "Confidence": 0.9562939
-  },
-  {
-    "Title": "The Hidden Contract in Every API Call",
-    "Url": "https://shenli.dev/2026/03/26/hidden-contract-in-every-api-call.html",
-    "Timestamp": "2026-03-28T00:02:33",
-    "Domain": "shenli.dev",
-    "Description": "Web apps are distributed systems. The client’s observed world state should be an explicit input to every API call.",
-    "Confidence": 0.9592926
-  },
-  {
-    "Title": "Incus vs. Kubernetes: Why Simplicity Wins - Pieter Bakker",
-    "Url": "https://pieterbakker.com/incus-vs-kubernetes-simplicity/",
-    "Timestamp": "2026-03-28T00:02:29",
-    "Domain": "pieterbakker.com",
-    "Description": "Incus vs. Kubernetes: Why simplicity wins for cost, ops, and cloud freedom. Discover a pragmatic path beyond microservices complexity.",
-    "Confidence": 0.98842335
-  },
-  {
-    "Title": "on supply chain attacks | ozair.dev",
-    "Url": "https://ozair.dev/b/on-supply-chain-attacks/",
-    "Timestamp": "2026-03-28T00:02:20",
-    "Domain": "ozair.dev",
-    "Description": "supply chain attack: a way to execute malicious code on many computers by sneaking in the bad code into a highly used open source library.",
-    "Confidence": 0.93061656
-  },
-  {
-    "Title": "Don't Wait for Claude — Jay McCarthy",
-    "Url": "https://jeapostrophe.github.io/tech/jc-workflow/",
-    "Timestamp": "2026-03-28T00:02:17",
-    "Domain": "jeapostrophe.github.io",
-    "Description": "You give Claude a task. It takes seven minutes. What do you do?",
-    "Confidence": 0.99152935
-  },
-  {
-    "Title": "The Comforting Lie Of SHA Pinning",
-    "Url": "https://www.vaines.org/posts/2026-03-24-the-comforting-lie-of-sha-pinning/",
-    "Timestamp": "2026-03-28T00:02:14",
-    "Domain": "www.vaines.org",
-    "Description": "In March 2026, Trivy became the latest reminder that software supply chains are, at best, loosely held together with convention and trust.",
-    "Confidence": 0.9682576
   }
 ]
