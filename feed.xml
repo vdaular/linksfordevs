@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>A 1977 Time Capsule, Voyager 1 runs on 69 KB of memory and an 8-track tape recorder</title>
+      <link>https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/</link>
+      <description>Right now, more than 15 billion miles from Earth, a 48-year-old spacecraft is hurtling through interstellar space at 38,000 miles per hour.</description>
+      <guid>https://techfixated.com/a-1977-time-capsule-voyager-1-runs-on-69-kb-of-memory-and-an-8-track-tape-recorder-4/</guid>
+      <pubDate>Sun, 29 Mar 2026 21:02:17 GMT</pubDate>
+    </item>
+    <item>
       <title>Say No to Palantir in Europe</title>
       <link>https://action.wemove.eu/sign/2026-03-palantir-petition-EN</link>
       <description>A powerful US spy-tech company run by billionaires is linked to genocide in Gaza, helps ICE separate families, and fuels Trump’s war with Iran. And now it’s quietly expanding across Europe gaining access to our data, our hospitals, and our police systems.It’s time to expose it and stop its expansion.</description>
@@ -164,18 +171,6 @@
       <category>ai</category>
       <guid>https://www.theregister.com/2026/03/27/sycophantic_ai_risks/</guid>
       <pubDate>Sat, 28 Mar 2026 22:02:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>I Decompiled the White House's New App</title>
-      <link>https://blog.thereallo.dev/blog/decompiling-the-white-house-app</link>
-      <description>The official White House Android app has a cookie/paywall bypass injector, tracks your GPS every 4.5 minutes, and loads JavaScript from some guy's GitHub Pages.</description>
-      <category>cloud</category>
-      <category>android</category>
-      <category>javascript</category>
-      <category>web</category>
-      <category>youtube</category>
-      <guid>https://blog.thereallo.dev/blog/decompiling-the-white-house-app</guid>
-      <pubDate>Sat, 28 Mar 2026 21:02:28 GMT</pubDate>
     </item>
   </channel>
 </rss>
