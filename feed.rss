@@ -228,13 +228,5 @@ Patreon: patreon.com/JamesLambert</description>
       <guid>https://arstechnica.com/gadgets/2026/03/amds-ryzen-9-9950x3d2-dual-edition-crams-208mb-of-cache-into-a-single-chip/</guid>
       <pubDate>Sat, 28 Mar 2026 18:02:12 GMT</pubDate>
     </item>
-    <item>
-      <title>National Grid: Live</title>
-      <link>https://grid.iamkate.com/</link>
-      <description>Shows the live status of Great Britain’s electric power transmission network</description>
-      <category>sql</category>
-      <guid>https://grid.iamkate.com/</guid>
-      <pubDate>Sat, 28 Mar 2026 16:02:17 GMT</pubDate>
-    </item>
   </channel>
 </rss>

@@ -174,13 +174,5 @@
     "Domain": "arstechnica.com",
     "Description": "Both of the chip's CPU dies will include 64MB of extra cache stacked beneath.",
     "Confidence": 0.7696291
-  },
-  {
-    "Title": "National Grid: Live",
-    "Url": "https://grid.iamkate.com/",
-    "Timestamp": "2026-03-28T16:02:17",
-    "Domain": "grid.iamkate.com",
-    "Description": "Shows the live status of Great Britain’s electric power transmission network",
-    "Confidence": 0.7120739
   }
 ]
