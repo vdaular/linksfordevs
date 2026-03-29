@@ -246,14 +246,5 @@ Patreon: patreon.com/JamesLambert</description>
       <guid>https://youtube.com/watch?v=8HaegXz_jfo</guid>
       <pubDate>Sat, 28 Mar 2026 13:02:00 GMT</pubDate>
     </item>
-    <item>
-      <title>IISExpress Port Conflicts - How to Resolve Them | Pure Krome</title>
-      <link>https://www.world-domination.com.au/posts/2026/iisexpress-port-conflicts/</link>
-      <description>How to resolve IISExpress port conflicts in ASP.NET development in 2026 and the age of .NET Core, Docker, and WSL.</description>
-      <category>aspnet</category>
-      <category>containers</category>
-      <guid>https://www.world-domination.com.au/posts/2026/iisexpress-port-conflicts/</guid>
-      <pubDate>Sat, 28 Mar 2026 12:02:35 GMT</pubDate>
-    </item>
   </channel>
 </rss>
