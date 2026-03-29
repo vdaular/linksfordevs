@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>CSS is DOOMed!</title>
+      <link>https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/</link>
+      <description>Every wall, floor, barrel, and imp is a div — DOOM rendered entirely in CSS. Using 3D transforms, CSS math functions, @property, clip-path, anchor positioning, and SVG filters to build a fully playable 3D first-person shooter in the browser without Canvas or WebGL.</description>
+      <category>web</category>
+      <category>javascript</category>
+      <category>gaming</category>
+      <category>cloud</category>
+      <guid>https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/</guid>
+      <pubDate>Sun, 29 Mar 2026 06:02:13 GMT</pubDate>
+    </item>
+    <item>
       <title>How I accidentally made the fastest C# CSV parser</title>
       <link>https://bepis.io/blog/turbo-csv-parser/</link>
       <description>(with certain files under certain conditions)</description>
@@ -252,18 +263,6 @@ Patreon: patreon.com/JamesLambert</description>
       <category>linux</category>
       <guid>https://jai.scs.stanford.edu/</guid>
       <pubDate>Sat, 28 Mar 2026 08:02:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub Actions Is Slowly Killing Your Engineering Team - Ian Duncan</title>
-      <link>https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team</link>
-      <description>Why GitHub Actions is the Internet Explorer of CI, and why Buildkite offers a better path forward for teams that care about developer experience.</description>
-      <category>containers</category>
-      <category>nodejs</category>
-      <category>git</category>
-      <category>cloud</category>
-      <category>linux</category>
-      <guid>https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team</guid>
-      <pubDate>Sat, 28 Mar 2026 06:02:08 GMT</pubDate>
     </item>
   </channel>
 </rss>

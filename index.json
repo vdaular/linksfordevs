@@ -1,5 +1,13 @@
 [
   {
+    "Title": "CSS is DOOMed!",
+    "Url": "https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/",
+    "Timestamp": "2026-03-29T06:02:13",
+    "Domain": "nielsleenheer.com",
+    "Description": "Every wall, floor, barrel, and imp is a div — DOOM rendered entirely in CSS. Using 3D transforms, CSS math functions, @property, clip-path, anchor positioning, and SVG filters to build a fully playable 3D first-person shooter in the browser without Canvas or WebGL.",
+    "Confidence": 0.9922986
+  },
+  {
     "Title": "How I accidentally made the fastest C# CSV parser",
     "Url": "https://bepis.io/blog/turbo-csv-parser/",
     "Timestamp": "2026-03-29T01:02:02",
@@ -198,13 +206,5 @@
     "Domain": "jai.scs.stanford.edu",
     "Description": "Super-lightweight Linux sandbox for AI agents",
     "Confidence": 0.96217316
-  },
-  {
-    "Title": "GitHub Actions Is Slowly Killing Your Engineering Team - Ian Duncan",
-    "Url": "https://www.iankduncan.com/engineering/2026-02-05-github-actions-killing-your-team",
-    "Timestamp": "2026-03-28T06:02:08",
-    "Domain": "www.iankduncan.com",
-    "Description": "Why GitHub Actions is the Internet Explorer of CI, and why Buildkite offers a better path forward for teams that care about developer experience.",
-    "Confidence": 0.9802607
   }
 ]
