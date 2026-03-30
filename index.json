@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Fedware: 13 Government Apps That Spy Harder Than the Apps They Ban",
+    "Url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
+    "Timestamp": "2026-03-30T22:02:04",
+    "Domain": "www.sambent.com",
+    "Description": "The White House app ships with a sanctioned Chinese tracking SDK, the FBI app serves ads, and FEMA wants 28 permissions to show you weather alerts.",
+    "Confidence": 0.613048
+  },
+  {
+    "Title": "Home Solar",
+    "Url": "https://xkcd.com/3226/",
+    "Timestamp": "2026-03-30T22:02:00",
+    "Domain": "xkcd.com",
+    "Description": "",
+    "Confidence": 0.98151064
+  },
+  {
     "Title": "Bird brains",
     "Url": "https://www.dhanishsemar.com/writing/bird-brains",
     "Timestamp": "2026-03-30T20:02:07",
@@ -190,13 +206,5 @@
     "Domain": "www.jmduke.com",
     "Description": "I spent the past few weeks chasing quick OpEx wins for sport, having felt a nagging sensation that the orchards of our org were a little too-laden with low-h...",
     "Confidence": 0.91399074
-  },
-  {
-    "Title": "GitHub - austin-weeks/miasma: Trap AI web scrapers in an endless poison pit.",
-    "Url": "https://github.com/austin-weeks/miasma",
-    "Timestamp": "2026-03-29T22:02:06",
-    "Domain": "github.com",
-    "Description": "Trap AI web scrapers in an endless poison pit. Contribute to austin-weeks/miasma development by creating an account on GitHub.",
-    "Confidence": 0.9960026
   }
 ]

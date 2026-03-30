@@ -7,6 +7,25 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Fedware: 13 Government Apps That Spy Harder Than the Apps They Ban</title>
+      <link>https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/</link>
+      <description>The White House app ships with a sanctioned Chinese tracking SDK, the FBI app serves ads, and FEMA wants 28 permissions to show you weather alerts.</description>
+      <author> (https://www.facebook.com/TheOfficialSamBent/)</author>
+      <category>git</category>
+      <category>android</category>
+      <category>ai</category>
+      <guid>https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/</guid>
+      <pubDate>Mon, 30 Mar 2026 22:02:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Home Solar</title>
+      <link>https://xkcd.com/3226/</link>
+      <description></description>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3226/</guid>
+      <pubDate>Mon, 30 Mar 2026 22:02:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Bird brains</title>
       <link>https://www.dhanishsemar.com/writing/bird-brains</link>
       <description>A kea parrot in New Zealand learned to drag traffic cones onto a highway so cars would stop and humans would feed it. That sent me down a rabbit hole on how we actually measure bird intelligence.</description>
@@ -243,14 +262,6 @@ Download nvim-win64.zip (or nvim-win-arm64.zip fo...</description>
       <category>web</category>
       <guid>https://www.jmduke.com/posts/opex-quick-wins.html</guid>
       <pubDate>Sun, 29 Mar 2026 23:02:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - austin-weeks/miasma: Trap AI web scrapers in an endless poison pit.</title>
-      <link>https://github.com/austin-weeks/miasma</link>
-      <description>Trap AI web scrapers in an endless poison pit. Contribute to austin-weeks/miasma development by creating an account on GitHub.</description>
-      <category>ai</category>
-      <guid>https://github.com/austin-weeks/miasma</guid>
-      <pubDate>Sun, 29 Mar 2026 22:02:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
