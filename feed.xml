@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Bird brains</title>
+      <link>https://www.dhanishsemar.com/writing/bird-brains</link>
+      <description>A kea parrot in New Zealand learned to drag traffic cones onto a highway so cars would stop and humans would feed it. That sent me down a rabbit hole on how we actually measure bird intelligence.</description>
+      <category>ai</category>
+      <guid>https://www.dhanishsemar.com/writing/bird-brains</guid>
+      <pubDate>Mon, 30 Mar 2026 20:02:07 GMT</pubDate>
+    </item>
+    <item>
       <title>Microsoft Copilot is now injecting ads into pull requests on GitHub</title>
       <link>https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/</link>
       <description>It was inevitable. After three years in the ad-free 
