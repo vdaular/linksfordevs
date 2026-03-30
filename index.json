@@ -1,5 +1,13 @@
 [
   {
+    "Title": "The Cognitive Dark Forest",
+    "Url": "https://ryelang.org/blog/posts/cognitive-dark-forest/",
+    "Timestamp": "2026-03-30T02:02:10",
+    "Domain": "ryelang.org",
+    "Description": "The open web with AIs is turning into a dark forest.",
+    "Confidence": 0.98167354
+  },
+  {
     "Title": "ChatGPT Won't Let You Type Until Cloudflare Reads Your React State. I Decrypted the Program That Does It.",
     "Url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
     "Timestamp": "2026-03-30T00:01:55",

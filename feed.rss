@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The Cognitive Dark Forest</title>
+      <link>https://ryelang.org/blog/posts/cognitive-dark-forest/</link>
+      <description>The open web with AIs is turning into a dark forest.</description>
+      <category>linux</category>
+      <category>gaming</category>
+      <category>ai</category>
+      <category>nodejs</category>
+      <guid>https://ryelang.org/blog/posts/cognitive-dark-forest/</guid>
+      <pubDate>Mon, 30 Mar 2026 02:02:10 GMT</pubDate>
+    </item>
+    <item>
       <title>ChatGPT Won't Let You Type Until Cloudflare Reads Your React State. I Decrypted the Program That Does It.</title>
       <link>https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/</link>
       <description>Every ChatGPT message triggers a Cloudflare Turnstile program that runs silently in your browser. I decrypted 377 of these programs from network traffic and found something that goes beyond standard browser fingerprinting.
