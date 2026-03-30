@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The Curious Case of Retro Demo Scene Graphics</title>
+      <link>https://www.datagubbe.se/aipixels/</link>
+      <description>On copying, tracing, converting and prompting.</description>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://www.datagubbe.se/aipixels/</guid>
+      <pubDate>Mon, 30 Mar 2026 14:02:02 GMT</pubDate>
+    </item>
+    <item>
       <title>How Do We Get Developers to Read the Docs</title>
       <link>https://idiallo.com/blog/how-do-we-get-developers-to-read-the-docs?src=feed</link>
       <description>When I reviewed this PR, I had tears in my eyes. We had done it. We had finally created the perfect API. To top it off, the senior developer who worked on it had written documentation to match. No sto</description>
