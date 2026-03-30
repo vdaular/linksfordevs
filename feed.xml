@@ -7,6 +7,19 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Microsoft Copilot is now injecting ads into pull requests on GitHub</title>
+      <link>https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/</link>
+      <description>It was inevitable. After three years in the ad-free 
+"honeymoon" phase, ads are slowly creeping into generative AI products, including Copilot.</description>
+      <category>visualstudio</category>
+      <category>ai</category>
+      <category>vscode</category>
+      <category>web</category>
+      <category>git</category>
+      <guid>https://www.neowin.net/news/microsoft-copilot-is-now-injecting-ads-into-pull-requests-on-github-gitlab/</guid>
+      <pubDate>Mon, 30 Mar 2026 18:02:10 GMT</pubDate>
+    </item>
+    <item>
       <title>How to turn anything into a router</title>
       <link>https://nbailey.ca/post/router/</link>
       <description>I don’t like to cover “current events” very much, but the American government just revealed a truly bewildering policy effectively banning import of new consumer router models. This is ridiculous for many reasons, but if this does indeed come to pass it may be beneficial to learn how to “homebrew” a router.
