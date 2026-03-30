@@ -158,13 +158,5 @@
     "Domain": "nielsleenheer.com",
     "Description": "Every wall, floor, barrel, and imp is a div — DOOM rendered entirely in CSS. Using 3D transforms, CSS math functions, @property, clip-path, anchor positioning, and SVG filters to build a fully playable 3D first-person shooter in the browser without Canvas or WebGL.",
     "Confidence": 0.9922986
-  },
-  {
-    "Title": "How I accidentally made the fastest C# CSV parser",
-    "Url": "https://bepis.io/blog/turbo-csv-parser/",
-    "Timestamp": "2026-03-29T01:02:02",
-    "Domain": "bepis.io",
-    "Description": "(with certain files under certain conditions)",
-    "Confidence": 0.9966637
   }
 ]

@@ -202,12 +202,5 @@ Download nvim-win64.zip (or nvim-win-arm64.zip fo...</description>
       <guid>https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/</guid>
       <pubDate>Sun, 29 Mar 2026 06:02:13 GMT</pubDate>
     </item>
-    <item>
-      <title>How I accidentally made the fastest C# CSV parser</title>
-      <link>https://bepis.io/blog/turbo-csv-parser/</link>
-      <description>(with certain files under certain conditions)</description>
-      <guid>https://bepis.io/blog/turbo-csv-parser/</guid>
-      <pubDate>Sun, 29 Mar 2026 01:02:02 GMT</pubDate>
-    </item>
   </channel>
 </rss>
