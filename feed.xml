@@ -202,16 +202,5 @@ Download nvim-win64.zip (or nvim-win-arm64.zip fo...</description>
       <guid>https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/</guid>
       <pubDate>Sun, 29 Mar 2026 15:02:08 GMT</pubDate>
     </item>
-    <item>
-      <title>CSS is DOOMed!</title>
-      <link>https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/</link>
-      <description>Every wall, floor, barrel, and imp is a div — DOOM rendered entirely in CSS. Using 3D transforms, CSS math functions, @property, clip-path, anchor positioning, and SVG filters to build a fully playable 3D first-person shooter in the browser without Canvas or WebGL.</description>
-      <category>web</category>
-      <category>javascript</category>
-      <category>gaming</category>
-      <category>cloud</category>
-      <guid>https://nielsleenheer.com/articles/2026/css-is-doomed-rendering-doom-in-3d-with-css/</guid>
-      <pubDate>Sun, 29 Mar 2026 06:02:13 GMT</pubDate>
-    </item>
   </channel>
 </rss>
