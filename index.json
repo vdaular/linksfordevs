@@ -1,5 +1,13 @@
 [
   {
+    "Title": "How the AI bubble bursts",
+    "Url": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/",
+    "Timestamp": "2026-03-30T15:01:58",
+    "Domain": "martinvol.pe",
+    "Description": "The catalysts for a crash are already laid out, and it can happen sooner than most expect. AI is here to stay. If used right, chances are it will make us all more productive. That, on the other hand, does not mean it will be a good investment. Big tech doesn’t need to win, just outspend Magnificent 7 companies are increasing capex to their biggest ever to differentiate their tech from each other and the big AI labs, but the key realization is that they don’t have to spend it to win. It’s a defensive move for them, if they commit $50B, OpenAI and Anthropic need to go raise $100B each to stay competitive, which makes them reliant on investors’ money. As the numbers get bigger, the amount of funds that can write checks of the size required to fill such amounts gets smaller. And many of them are now getting bombed in the Gulf. This is the reason there’s a push for IPOs, it’s because it’s the only option left to keep the funding coming. Taking this into account, Google is extremely well positioned to weather the storm. When they announce capex expenditure, they don’t spend it overnight. They can simply deploy month by month until their competitors struggle to raise and get forced to capitulate. At that point they can just ramp down the spending and declare victory in a cornered market. They don’t need capex, they just need to make it very clear for everyone that nobody can outspend them. It is hard to picture as numbers get so big, but Alphabet (Google’s parent) is ten times more valuable than the biggest military company 1. This also has a great implication for the Mag 7, especially Google: their capex will be a lot smaller in practice than projected, and as investors hate to see high capex in tech, the market will probably reward that if it materializes. As of March 2026, Alphabet’s market cap is ~$2T while Lockheed Martin’s is ~$120B. ↩",
+    "Confidence": 0.86715716
+  },
+  {
     "Title": "The Curious Case of Retro Demo Scene Graphics",
     "Url": "https://www.datagubbe.se/aipixels/",
     "Timestamp": "2026-03-30T14:02:02",
@@ -182,13 +190,5 @@
     "Domain": "action.wemove.eu",
     "Description": "A powerful US spy-tech company run by billionaires is linked to genocide in Gaza, helps ICE separate families, and fuels Trump’s war with Iran. And now it’s quietly expanding across Europe gaining access to our data, our hospitals, and our police systems.It’s time to expose it and stop its expansion.",
     "Confidence": 0.9479017
-  },
-  {
-    "Title": "Nitrile and latex gloves may cause overestimation of microplastics, U-M study reveals",
-    "Url": "https://news.umich.edu/nitrile-and-latex-gloves-may-cause-overestimation-of-microplastics-u-m-study-reveals/",
-    "Timestamp": "2026-03-29T15:02:08",
-    "Domain": "news.umich.edu",
-    "Description": "Nitrile and latex gloves that scientists wear while they are measuring microplastics may lead to a potential overestimation of the tiny pollutants, according to a University of Michigan study.",
-    "Confidence": 0.53783005
   }
 ]
