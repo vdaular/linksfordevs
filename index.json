@@ -246,13 +246,5 @@
     "Domain": "nbailey.ca",
     "Description": "I don’t like to cover “current events” very much, but the American government just revealed a truly bewildering policy effectively banning import of new consumer router models. This is ridiculous for many reasons, but if this does indeed come to pass it may be beneficial to learn how to “homebrew” a router.\nFortunately, you can make a router out of basically anything resembling a computer.\nI’ve used a linux powered mini-pc as my own router for many years, and have posted a few times before about how to make linux routers and firewalls in that time.",
     "Confidence": 0.996019
-  },
-  {
-    "Title": "How the AI bubble bursts",
-    "Url": "https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/",
-    "Timestamp": "2026-03-30T15:01:58",
-    "Domain": "martinvol.pe",
-    "Description": "The catalysts for a crash are already laid out, and it can happen sooner than most expect. AI is here to stay. If used right, chances are it will make us all more productive. That, on the other hand, does not mean it will be a good investment. Big tech doesn’t need to win, just outspend Magnificent 7 companies are increasing capex to their biggest ever to differentiate their tech from each other and the big AI labs, but the key realization is that they don’t have to spend it to win. It’s a defensive move for them, if they commit $50B, OpenAI and Anthropic need to go raise $100B each to stay competitive, which makes them reliant on investors’ money. As the numbers get bigger, the amount of funds that can write checks of the size required to fill such amounts gets smaller. And many of them are now getting bombed in the Gulf. This is the reason there’s a push for IPOs, it’s because it’s the only option left to keep the funding coming. Taking this into account, Google is extremely well positioned to weather the storm. When they announce capex expenditure, they don’t spend it overnight. They can simply deploy month by month until their competitors struggle to raise and get forced to capitulate. At that point they can just ramp down the spending and declare victory in a cornered market. They don’t need capex, they just need to make it very clear for everyone that nobody can outspend them. It is hard to picture as numbers get so big, but Alphabet (Google’s parent) is ten times more valuable than the biggest military company 1. This also has a great implication for the Mag 7, especially Google: their capex will be a lot smaller in practice than projected, and as investors hate to see high capex in tech, the market will probably reward that if it materializes. As of March 2026, Alphabet’s market cap is ~$2T while Lockheed Martin’s is ~$120B. ↩",
-    "Confidence": 0.86715716
   }
 ]
