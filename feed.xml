@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Prediction: The Shopify CEO's Pull Request Will Never Be Merged Nor Closed</title>
+      <link>https://joshmoody.org/blog/shopify-ceo-autoresearch-pr/</link>
+      <description>The CEO of Shopify used an AI tool called autoresearch to optimize Liquid parsing speed. The code quality is poor and no one will ever merge it.</description>
+      <category>ai</category>
+      <guid>https://joshmoody.org/blog/shopify-ceo-autoresearch-pr/</guid>
+      <pubDate>Tue, 31 Mar 2026 14:02:24 GMT</pubDate>
+    </item>
+    <item>
       <title>axios Compromised: npm Supply Chain Attack via Dependency Injection</title>
       <link>https://safedep.io/axios-npm-supply-chain-compromise/</link>
       <description>axios 1.14.1 was published to npm via a compromised maintainer account, injecting a trojanized dependency that executes a multi-platform reverse shell on install. No source code changes in axios itself, just a new entry in package.json.</description>
@@ -303,15 +311,6 @@ I’ve used a linux powered mini-pc as my own router for many years, and have po
       <category>apple</category>
       <guid>https://martinvol.pe/blog/2026/03/30/how-the-ai-bubble-bursts/</guid>
       <pubDate>Mon, 30 Mar 2026 15:01:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Curious Case of Retro Demo Scene Graphics</title>
-      <link>https://www.datagubbe.se/aipixels/</link>
-      <description>On copying, tracing, converting and prompting.</description>
-      <category>ai</category>
-      <category>git</category>
-      <guid>https://www.datagubbe.se/aipixels/</guid>
-      <pubDate>Mon, 30 Mar 2026 14:02:02 GMT</pubDate>
     </item>
   </channel>
 </rss>

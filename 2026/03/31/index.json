@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Prediction: The Shopify CEO's Pull Request Will Never Be Merged Nor Closed",
+    "Url": "https://joshmoody.org/blog/shopify-ceo-autoresearch-pr/",
+    "Timestamp": "2026-03-31T14:02:24",
+    "Domain": "joshmoody.org",
+    "Description": "The CEO of Shopify used an AI tool called autoresearch to optimize Liquid parsing speed. The code quality is poor and no one will ever merge it."
+  },
+  {
     "Title": "axios Compromised: npm Supply Chain Attack via Dependency Injection",
     "Url": "https://safedep.io/axios-npm-supply-chain-compromise/",
     "Timestamp": "2026-03-31T11:02:07",
