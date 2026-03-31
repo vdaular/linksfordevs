@@ -86,13 +86,5 @@
     "Domain": "ryelang.org",
     "Description": "The open web with AIs is turning into a dark forest.",
     "Confidence": 0.98167354
-  },
-  {
-    "Title": "ChatGPT Won't Let You Type Until Cloudflare Reads Your React State. I Decrypted the Program That Does It.",
-    "Url": "https://www.buchodi.com/chatgpt-wont-let-you-type-until-cloudflare-reads-your-react-state-i-decrypted-the-program-that-does-it/",
-    "Timestamp": "2026-03-30T00:01:55",
-    "Domain": "www.buchodi.com",
-    "Description": "Every ChatGPT message triggers a Cloudflare Turnstile program that runs silently in your browser. I decrypted 377 of these programs from network traffic and found something that goes beyond standard browser fingerprinting.\n\nThe program checks 55 properties spanning three layers: your browser (GPU, screen, fonts), the Cloudflare network (your city,",
-    "Confidence": 0.98300445
   }
 ]
