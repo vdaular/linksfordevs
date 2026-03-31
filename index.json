@@ -254,13 +254,5 @@
     "Domain": "www.datagubbe.se",
     "Description": "On copying, tracing, converting and prompting.",
     "Confidence": 0.8748627
-  },
-  {
-    "Title": "How Do We Get Developers to Read the Docs",
-    "Url": "https://idiallo.com/blog/how-do-we-get-developers-to-read-the-docs?src=feed",
-    "Timestamp": "2026-03-30T12:02:10",
-    "Domain": "idiallo.com",
-    "Description": "When I reviewed this PR, I had tears in my eyes. We had done it. We had finally created the perfect API. To top it off, the senior developer who worked on it had written documentation to match. No sto",
-    "Confidence": 0.993781
   }
 ]
