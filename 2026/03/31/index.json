@@ -1,5 +1,12 @@
 [
   {
+    "Title": ".NET CLI Shebangs and Argument Parsing | no dogma blog",
+    "Url": "https://nodogmablog.bryanhogan.net/2026/03/net-cli-shebangs-and-argument-parsing/",
+    "Timestamp": "2026-03-31T17:01:34",
+    "Domain": "nodogmablog.bryanhogan.net",
+    "Description": "Trying to pass something like -v or -h to a .NET CLI application that uses the shebang style of `dotnet run app.cs` can cause issues because `dotnet run` itself has options that conflict with the application's arguments. Here's how to work around that."
+  },
+  {
     "Title": "Prediction: The Shopify CEO's Pull Request Will Never Be Merged Nor Closed",
     "Url": "https://joshmoody.org/blog/shopify-ceo-autoresearch-pr/",
     "Timestamp": "2026-03-31T14:02:24",
