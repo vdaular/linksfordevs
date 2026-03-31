@@ -282,14 +282,5 @@ I’ve used a linux powered mini-pc as my own router for many years, and have po
       <guid>https://idiallo.com/blog/how-do-we-get-developers-to-read-the-docs?src=feed</guid>
       <pubDate>Mon, 30 Mar 2026 12:02:10 GMT</pubDate>
     </item>
-    <item>
-      <title>New Apple Silicon M4 &amp; M5 HiDPI Limitation on 4K External Displays</title>
-      <link>https://smcleod.net/2026/03/new-apple-silicon-m4-m5-hidpi-limitation-on-4k-external-displays/</link>
-      <description>A regression in external display support on Apple Silicon M4/M5 generation chips prevents full HiDPI modes on 4K monitors, limiting users to either blurry non-HiDPI or reduced workspace HiDPI.</description>
-      <category>apple</category>
-      <category>vscode</category>
-      <guid>https://smcleod.net/2026/03/new-apple-silicon-m4-m5-hidpi-limitation-on-4k-external-displays/</guid>
-      <pubDate>Mon, 30 Mar 2026 09:01:59 GMT</pubDate>
-    </item>
   </channel>
 </rss>
