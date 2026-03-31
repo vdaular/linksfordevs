@@ -230,21 +230,5 @@
     "Domain": "ktoya.me",
     "Description": "Using Claude to analyse 3 years of my daily lime bike commute in London",
     "Confidence": 0.947249
-  },
-  {
-    "Title": "Fedware: 13 Government Apps That Spy Harder Than the Apps They Ban",
-    "Url": "https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/",
-    "Timestamp": "2026-03-30T22:02:04",
-    "Domain": "www.sambent.com",
-    "Description": "The White House app ships with a sanctioned Chinese tracking SDK, the FBI app serves ads, and FEMA wants 28 permissions to show you weather alerts.",
-    "Confidence": 0.613048
-  },
-  {
-    "Title": "Home Solar",
-    "Url": "https://xkcd.com/3226/",
-    "Timestamp": "2026-03-30T22:02:00",
-    "Domain": "xkcd.com",
-    "Description": "",
-    "Confidence": 0.98151064
   }
 ]

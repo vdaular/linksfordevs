@@ -282,24 +282,5 @@ MODEL=...</description>
       <guid>https://ktoya.me/lime-data-company/</guid>
       <pubDate>Tue, 31 Mar 2026 01:02:17 GMT</pubDate>
     </item>
-    <item>
-      <title>Fedware: 13 Government Apps That Spy Harder Than the Apps They Ban</title>
-      <link>https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/</link>
-      <description>The White House app ships with a sanctioned Chinese tracking SDK, the FBI app serves ads, and FEMA wants 28 permissions to show you weather alerts.</description>
-      <author> (https://www.facebook.com/TheOfficialSamBent/)</author>
-      <category>git</category>
-      <category>android</category>
-      <category>ai</category>
-      <guid>https://www.sambent.com/the-white-house-app-has-huawei-spyware-and-an-ice-tip-line/</guid>
-      <pubDate>Mon, 30 Mar 2026 22:02:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Home Solar</title>
-      <link>https://xkcd.com/3226/</link>
-      <description></description>
-      <category>javascript</category>
-      <guid>https://xkcd.com/3226/</guid>
-      <pubDate>Mon, 30 Mar 2026 22:02:00 GMT</pubDate>
-    </item>
   </channel>
 </rss>
