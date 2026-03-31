@@ -1,5 +1,19 @@
 [
   {
+    "Title": "Copilot - Terms of Use",
+    "Url": "https://www.microsoft.com/en-us/microsoft-copilot/for-individuals/termsofuse",
+    "Timestamp": "2026-03-31T19:02:20",
+    "Domain": "www.microsoft.com",
+    "Description": ""
+  },
+  {
+    "Title": "Supply Chain Attack on Axios Pulls Malicious Dependency from...",
+    "Url": "https://socket.dev/blog/axios-npm-package-compromised",
+    "Timestamp": "2026-03-31T19:02:16",
+    "Domain": "socket.dev",
+    "Description": "A supply chain attack on Axios introduced a malicious dependency, plain-crypto-js@4.2.1, published minutes earlier and absent from the project’s GitHu..."
+  },
+  {
     "Title": ".NET CLI Shebangs and Argument Parsing | no dogma blog",
     "Url": "https://nodogmablog.bryanhogan.net/2026/03/net-cli-shebangs-and-argument-parsing/",
     "Timestamp": "2026-03-31T17:01:34",
