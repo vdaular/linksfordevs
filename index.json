@@ -246,13 +246,5 @@
     "Domain": "xkcd.com",
     "Description": "",
     "Confidence": 0.98151064
-  },
-  {
-    "Title": "Bird brains",
-    "Url": "https://www.dhanishsemar.com/writing/bird-brains",
-    "Timestamp": "2026-03-30T20:02:07",
-    "Domain": "www.dhanishsemar.com",
-    "Description": "A kea parrot in New Zealand learned to drag traffic cones onto a highway so cars would stop and humans would feed it. That sent me down a rabbit hole on how we actually measure bird intelligence.",
-    "Confidence": 0.84963435
   }
 ]
