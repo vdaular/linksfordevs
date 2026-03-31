@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Ollama is now powered by MLX on Apple Silicon in preview · Ollama Blog",
+    "Url": "https://ollama.com/blog/mlx",
+    "Timestamp": "2026-03-31T10:02:23",
+    "Domain": "ollama.com",
+    "Description": "Today, we're previewing the fastest way to run Ollama on Apple silicon, powered by MLX, Apple's machine learning framework.",
+    "Confidence": 0.9593323
+  },
+  {
+    "Title": "Android developer verification: Rolling out to all developers on Play Console and Android Developer Console",
+    "Url": "https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html",
+    "Timestamp": "2026-03-31T10:02:19",
+    "Domain": "android-developers.googleblog.com",
+    "Description": "News and insights on the Android platform, developer tools, and events.",
+    "Confidence": 0.9937541
+  },
+  {
     "Title": "Artemis II Is Not Safe to Fly (Idle Words)",
     "Url": "https://idlewords.com/2026/03/artemis_ii_is_not_safe_to_fly.htm",
     "Timestamp": "2026-03-31T08:02:15",
