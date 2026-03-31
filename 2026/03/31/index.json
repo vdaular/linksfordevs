@@ -1,5 +1,19 @@
 [
   {
+    "Title": "Turning a MacBook into a Touchscreen with $1 of Hardware",
+    "Url": "https://anishathalye.com/macbook-touchscreen/",
+    "Timestamp": "2026-03-31T06:02:06",
+    "Domain": "anishathalye.com",
+    "Description": "We turned a MacBook into a touchscreen using only $1 of hardware and a little bit of computer vision."
+  },
+  {
+    "Title": "axios Compromised on npm - Malicious Versions Drop Remote Access Trojan - StepSecurity",
+    "Url": "https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan",
+    "Timestamp": "2026-03-31T06:02:01",
+    "Domain": "www.stepsecurity.io",
+    "Description": "Hijacked maintainer account used to publish poisoned axios releases including 1.14.1 and 0.30.4. The attacker injected a hidden dependency that drops a cross platform RAT. We are actively investigating and will update this post with a full technical analysis."
+  },
+  {
     "Title": "Notes on going solo: celebrating 6 years of Studio Self",
     "Url": "https://www.joanwestenberg.com/notes-on-going-solo-celebrating-6-years-of-studio-self/",
     "Timestamp": "2026-03-31T01:03:21",

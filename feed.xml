@@ -7,6 +7,25 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Turning a MacBook into a Touchscreen with $1 of Hardware</title>
+      <link>https://anishathalye.com/macbook-touchscreen/</link>
+      <description>We turned a MacBook into a touchscreen using only $1 of hardware and a little bit of computer vision.</description>
+      <guid>https://anishathalye.com/macbook-touchscreen/</guid>
+      <pubDate>Tue, 31 Mar 2026 06:02:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>axios Compromised on npm - Malicious Versions Drop Remote Access Trojan - StepSecurity</title>
+      <link>https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan</link>
+      <description>Hijacked maintainer account used to publish poisoned axios releases including 1.14.1 and 0.30.4. The attacker injected a hidden dependency that drops a cross platform RAT. We are actively investigating and will update this post with a full technical analysis.</description>
+      <category>nodejs</category>
+      <category>conference</category>
+      <category>linux</category>
+      <category>git</category>
+      <category>encryption</category>
+      <guid>https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan</guid>
+      <pubDate>Tue, 31 Mar 2026 06:02:01 GMT</pubDate>
+    </item>
+    <item>
       <title>Notes on going solo: celebrating 6 years of Studio Self</title>
       <link>https://www.joanwestenberg.com/notes-on-going-solo-celebrating-6-years-of-studio-self/</link>
       <description>Since roughly // broadly 2020, I’ve been running a solo-powered minor empire. I have no employees, and my only office is my home office, filled as it is with cat hair and various comic books. My business is: me, a laptop, a set of AI tools that scale the parts</description>
