@@ -1,5 +1,21 @@
 [
   {
+    "Title": "axios Compromised: npm Supply Chain Attack via Dependency Injection",
+    "Url": "https://safedep.io/axios-npm-supply-chain-compromise/",
+    "Timestamp": "2026-03-31T11:02:07",
+    "Domain": "safedep.io",
+    "Description": "axios 1.14.1 was published to npm via a compromised maintainer account, injecting a trojanized dependency that executes a multi-platform reverse shell on install. No source code changes in axios itself, just a new entry in package.json.",
+    "Confidence": 0.99292314
+  },
+  {
+    "Title": "GitHub backs down, kills Copilot PR ‘tips’ after backlash",
+    "Url": "https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/",
+    "Timestamp": "2026-03-31T11:02:03",
+    "Domain": "www.theregister.com",
+    "Description": "Updated: Letting Copilot alter others' PRs was the wrong judgment call, says product manager",
+    "Confidence": 0.6441166
+  },
+  {
     "Title": "Ollama is now powered by MLX on Apple Silicon in preview · Ollama Blog",
     "Url": "https://ollama.com/blog/mlx",
     "Timestamp": "2026-03-31T10:02:23",

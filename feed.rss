@@ -7,6 +7,27 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>axios Compromised: npm Supply Chain Attack via Dependency Injection</title>
+      <link>https://safedep.io/axios-npm-supply-chain-compromise/</link>
+      <description>axios 1.14.1 was published to npm via a compromised maintainer account, injecting a trojanized dependency that executes a multi-platform reverse shell on install. No source code changes in axios itself, just a new entry in package.json.</description>
+      <category>nodejs</category>
+      <category>encryption</category>
+      <category>linux</category>
+      <category>git</category>
+      <category>python</category>
+      <guid>https://safedep.io/axios-npm-supply-chain-compromise/</guid>
+      <pubDate>Tue, 31 Mar 2026 11:02:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub backs down, kills Copilot PR ‘tips’ after backlash</title>
+      <link>https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/</link>
+      <description>Updated: Letting Copilot alter others' PRs was the wrong judgment call, says product manager</description>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/</guid>
+      <pubDate>Tue, 31 Mar 2026 11:02:03 GMT</pubDate>
+    </item>
+    <item>
       <title>Ollama is now powered by MLX on Apple Silicon in preview · Ollama Blog</title>
       <link>https://ollama.com/blog/mlx</link>
       <description>Today, we're previewing the fastest way to run Ollama on Apple silicon, powered by MLX, Apple's machine learning framework.</description>
