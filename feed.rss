@@ -422,24 +422,5 @@ to come to terms with it.</description>
       <guid>https://github.com/drona23/claude-token-efficient</guid>
       <pubDate>Tue, 31 Mar 2026 08:02:11 GMT</pubDate>
     </item>
-    <item>
-      <title>Turning a MacBook into a Touchscreen with $1 of Hardware</title>
-      <link>https://anishathalye.com/macbook-touchscreen/</link>
-      <description>We turned a MacBook into a touchscreen using only $1 of hardware and a little bit of computer vision.</description>
-      <guid>https://anishathalye.com/macbook-touchscreen/</guid>
-      <pubDate>Tue, 31 Mar 2026 06:02:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>axios Compromised on npm - Malicious Versions Drop Remote Access Trojan - StepSecurity</title>
-      <link>https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan</link>
-      <description>Hijacked maintainer account used to publish poisoned axios releases including 1.14.1 and 0.30.4. The attacker injected a hidden dependency that drops a cross platform RAT. We are actively investigating and will update this post with a full technical analysis.</description>
-      <category>nodejs</category>
-      <category>conference</category>
-      <category>linux</category>
-      <category>git</category>
-      <category>encryption</category>
-      <guid>https://www.stepsecurity.io/blog/axios-compromised-on-npm-malicious-versions-drop-remote-access-trojan</guid>
-      <pubDate>Tue, 31 Mar 2026 06:02:01 GMT</pubDate>
-    </item>
   </channel>
 </rss>
