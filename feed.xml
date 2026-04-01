@@ -7,6 +7,23 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Why It Sucks To Be Born as a Software Engineer</title>
+      <link>https://youtube.com/watch?v=oZeEtk9teb4</link>
+      <description>Happy April.
+
+Don't forget to comment, like and subscribe :)
+
+Social Media:
+Follow me on GitHub: https://github.com/Elfocrash
+Follow me on Twitter: https://twitter.com/nickchapsas
+Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas</description>
+      <author> (Nick Chapsas)</author>
+      <category>youtube</category>
+      <category>git</category>
+      <guid>https://youtube.com/watch?v=oZeEtk9teb4</guid>
+      <pubDate>Wed, 01 Apr 2026 11:01:57 GMT</pubDate>
+    </item>
+    <item>
       <title>PrismML — Concentrating intelligence</title>
       <link>https://prismml.com/</link>
       <description>Large models can't fit on smartphones. Datacenters can't sustain them. PrismML is building ultra dense intelligence to solve both.</description>
@@ -389,27 +406,6 @@ to come to terms with it.</description>
       <category>ai</category>
       <guid>https://joshmoody.org/blog/shopify-ceo-autoresearch-pr/</guid>
       <pubDate>Tue, 31 Mar 2026 14:02:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>axios Compromised: npm Supply Chain Attack via Dependency Injection</title>
-      <link>https://safedep.io/axios-npm-supply-chain-compromise/</link>
-      <description>axios 1.14.1 was published to npm via a compromised maintainer account, injecting a trojanized dependency that executes a multi-platform reverse shell on install. No source code changes in axios itself, just a new entry in package.json.</description>
-      <category>nodejs</category>
-      <category>encryption</category>
-      <category>linux</category>
-      <category>git</category>
-      <category>python</category>
-      <guid>https://safedep.io/axios-npm-supply-chain-compromise/</guid>
-      <pubDate>Tue, 31 Mar 2026 11:02:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub backs down, kills Copilot PR ‘tips’ after backlash</title>
-      <link>https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/</link>
-      <description>Updated: Letting Copilot alter others' PRs was the wrong judgment call, says product manager</description>
-      <category>ai</category>
-      <category>git</category>
-      <guid>https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/</guid>
-      <pubDate>Tue, 31 Mar 2026 11:02:03 GMT</pubDate>
     </item>
   </channel>
 </rss>

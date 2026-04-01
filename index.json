@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Why It Sucks To Be Born as a Software Engineer",
+    "Url": "https://youtube.com/watch?v=oZeEtk9teb4",
+    "Timestamp": "2026-04-01T11:01:57",
+    "Domain": "youtube.com",
+    "Description": "Happy April.\n\nDon't forget to comment, like and subscribe :)\n\nSocial Media:\nFollow me on GitHub: https://github.com/Elfocrash\nFollow me on Twitter: https://twitter.com/nickchapsas\nConnect on LinkedIn: https://www.linkedin.com/in/nick-chapsas",
+    "Confidence": 0.9919573
+  },
+  {
     "Title": "PrismML — Concentrating intelligence",
     "Url": "https://prismml.com/",
     "Timestamp": "2026-04-01T10:02:26",
@@ -318,21 +326,5 @@
     "Domain": "joshmoody.org",
     "Description": "The CEO of Shopify used an AI tool called autoresearch to optimize Liquid parsing speed. The code quality is poor and no one will ever merge it.",
     "Confidence": 0.8026622
-  },
-  {
-    "Title": "axios Compromised: npm Supply Chain Attack via Dependency Injection",
-    "Url": "https://safedep.io/axios-npm-supply-chain-compromise/",
-    "Timestamp": "2026-03-31T11:02:07",
-    "Domain": "safedep.io",
-    "Description": "axios 1.14.1 was published to npm via a compromised maintainer account, injecting a trojanized dependency that executes a multi-platform reverse shell on install. No source code changes in axios itself, just a new entry in package.json.",
-    "Confidence": 0.99292314
-  },
-  {
-    "Title": "GitHub backs down, kills Copilot PR ‘tips’ after backlash",
-    "Url": "https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/",
-    "Timestamp": "2026-03-31T11:02:03",
-    "Domain": "www.theregister.com",
-    "Description": "Updated: Letting Copilot alter others' PRs was the wrong judgment call, says product manager",
-    "Confidence": 0.6441166
   }
 ]
