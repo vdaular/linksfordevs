@@ -7,6 +7,319 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Monitor Claude Code Usage With Grafana</title>
+      <link>https://braw.dev/blog/2026-03-28-monitor-claude-usage-with-grafana/</link>
+      <description>
+    
+      Use Grafana Cloud and OpenTelemetry to observe your Claude token usage.
+    
+  </description>
+      <category>ai</category>
+      <category>containers</category>
+      <category>javascript</category>
+      <guid>https://braw.dev/blog/2026-03-28-monitor-claude-usage-with-grafana/</guid>
+      <pubDate>Wed, 01 Apr 2026 00:04:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>DNS is Simple. DNS is Hard.</title>
+      <link>https://www.wespiser.com/posts/2026-03-29-dns-simple-dns-hard.html</link>
+      <description>DNS looks like configuration, but behaves like a global control plane with weak consistency and hidden state</description>
+      <category>containers</category>
+      <category>cloud</category>
+      <category>sql</category>
+      <guid>https://www.wespiser.com/posts/2026-03-29-dns-simple-dns-hard.html</guid>
+      <pubDate>Wed, 01 Apr 2026 00:04:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>The blurred line between overengineering and anticipating change</title>
+      <link>https://iamgio.eu/2026-03-28-overengineering/</link>
+      <description>Check out Giorgio Garofalo's blog post</description>
+      <category>vscode</category>
+      <guid>https://iamgio.eu/2026-03-28-overengineering/</guid>
+      <pubDate>Wed, 01 Apr 2026 00:04:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Trouble with Fusion: Nuclear Fusion Will Not Give Us Infinite Power</title>
+      <link>https://joarvarndt.se/fusion</link>
+      <description>Fusion will not be built for a long time. There is an astounding and
+impressive amount of work being done, much of it useful, but none of
+it is even in the same league as a commercial power plant, not to
+mention ballparks. As mentioned above, only a single facility has ever
+reached a net-positive amount of energy production. Saying that you
+will soon be building power plants is like keeping a campfire lit in
+the rain using a flamethrower and then saying you are going to build a
+coal power plant using your patented 24/7-flamethrower-method.</description>
+      <guid>https://joarvarndt.se/fusion</guid>
+      <pubDate>Wed, 01 Apr 2026 00:04:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Package Upgrades Feel Like Russian Roulette</title>
+      <link>https://ziva.sh/blogs/npm-supply-chain-roulette</link>
+      <description>Axios just got compromised. 83M weekly downloads. A RAT on every machine. Here's what shipping desktop software taught us about npm supply chain risk.</description>
+      <category>nodejs</category>
+      <guid>https://ziva.sh/blogs/npm-supply-chain-roulette</guid>
+      <pubDate>Wed, 01 Apr 2026 00:04:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Craft is Untouchable - Christopher Butler</title>
+      <link>https://www.chrbutler.com/craft-is-untouchable</link>
+      <description>AI doesn't threaten craft—the temptation to skip iteration does.</description>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://www.chrbutler.com/craft-is-untouchable</guid>
+      <pubDate>Wed, 01 Apr 2026 00:03:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Will everything become an API?</title>
+      <link>https://benbrowning.me/writing/2026-will-everything-become-an-api/</link>
+      <description>How do you value a business when the specter of a new model looms over EBITDA multiples and forward ARR?</description>
+      <category>ai</category>
+      <guid>https://benbrowning.me/writing/2026-will-everything-become-an-api/</guid>
+      <pubDate>Wed, 01 Apr 2026 00:03:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>your hex editor should color-code bytes</title>
+      <link>https://simonomi.dev/blog/color-code-your-bytes/</link>
+      <description>alice pellerin • 2026-03-31</description>
+      <author> (https://simonomi.dev)</author>
+      <guid>https://simonomi.dev/blog/color-code-your-bytes/</guid>
+      <pubDate>Wed, 01 Apr 2026 00:03:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Building Multi-Tenant SaaS with Rails 8, Caddy, and Kamal</title>
+      <link>https://mooktakim.com/blog/building-saas-with-rails-and-kamal/</link>
+      <description>A production guide to building multi-tenant SaaS with Rails 8 — subdomain routing, custom domains, and automatic SSL with Caddy's on-demand TLS.</description>
+      <author> (Mooktakim Ahmed)</author>
+      <category>ruby</category>
+      <category>conference</category>
+      <guid>https://mooktakim.com/blog/building-saas-with-rails-and-kamal/</guid>
+      <pubDate>Wed, 01 Apr 2026 00:03:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Introducing Positron Flux</title>
+      <link>https://sklivvz.com/posts/introducing-positron-flux</link>
+      <description>Positron Flux is a new a delivery excellence workbench</description>
+      <category>git</category>
+      <guid>https://sklivvz.com/posts/introducing-positron-flux</guid>
+      <pubDate>Wed, 01 Apr 2026 00:03:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>My letter to my reps regarding California’s age verification law</title>
+      <link>http://chrisfun.xyz/letter</link>
+      <description>My name’s Chris Taylor. I’m a software engineer and a constituent in your district. I grew up in California and got a computer engineering degree from UCSB (the one by the beach). I’ve worked on defense robotics, drones, and other high-stakes industrial systems (trains, forklift trucks), with experience in cybersecurity and AI.</description>
+      <category>linux</category>
+      <category>ai</category>
+      <guid>http://chrisfun.xyz/letter</guid>
+      <pubDate>Wed, 01 Apr 2026 00:03:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Liquid Glass updates in 26.4</title>
+      <link>https://anderegg.ca/2026/03/29/liquid-glass-updates-in-264</link>
+      <description>Apple recently updated all their OSs to 26.4, and there were plenty of Liquid Glass updates. Most of them for the better! Here are some of the changes that stood out to me, as well as a bit more grumbling about Liquid Glass in general (sorry).</description>
+      <category>apple</category>
+      <guid>https://anderegg.ca/2026/03/29/liquid-glass-updates-in-264</guid>
+      <pubDate>Wed, 01 Apr 2026 00:03:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Code and Cake - Your job isn't programming</title>
+      <link>https://codeandcake.dev/posts/2025-12-12-your-job-isnt-programming</link>
+      <description>We’ve been doing software development wrong. When trying to improve a poor codebase, the solutions we often reach to are generic and technical. Move the frontend to React. Split the backend into microservices. Rewrite everything in Rust. Some of these approaches can have real benefits in the right situation, but none of them are going to solve the core problems with bad codebases.</description>
+      <category>rust</category>
+      <guid>https://codeandcake.dev/posts/2025-12-12-your-job-isnt-programming</guid>
+      <pubDate>Wed, 01 Apr 2026 00:03:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Every table should be a spreadsheet</title>
+      <link>https://www.saj.ad/2026/table</link>
+      <description>Building spreadsheet-style superpowers for native HTML tables.</description>
+      <category>web</category>
+      <category>nodejs</category>
+      <guid>https://www.saj.ad/2026/table</guid>
+      <pubDate>Wed, 01 Apr 2026 00:03:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Your Engineers Aren't Lazy, Your Codebase Is Punishing Them</title>
+      <link>https://piechowski.io/post/codebase-drag-audit/</link>
+      <description>A two-minute interactive audit to score whether technical debt is dragging your engineering team. Five signals that separate people problems from code problems.</description>
+      <author> (Ally Piechowski)</author>
+      <category>encryption</category>
+      <category>git</category>
+      <guid>https://piechowski.io/post/codebase-drag-audit/</guid>
+      <pubDate>Wed, 01 Apr 2026 00:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>A Dot a Day Keeps the Clutter Away — Scott Lawson</title>
+      <link>https://scottlawsonbc.com/post/dot-system</link>
+      <description>The simplest organization system I've tried is a sheet of colored dot stickers. It's also the best.</description>
+      <category>nodejs</category>
+      <guid>https://scottlawsonbc.com/post/dot-system</guid>
+      <pubDate>Wed, 01 Apr 2026 00:03:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why I Like Real Estate</title>
+      <link>https://www.sohum.com/why-i-like-real-estate/</link>
+      <description>January 2023 I’m often asked why I like real estate better than any other asset class like equities, bonds, crypto, startup shares etc. Beyond that I think the returns are better, every time I’m asked…</description>
+      <guid>https://www.sohum.com/why-i-like-real-estate/</guid>
+      <pubDate>Wed, 01 Apr 2026 00:03:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>An effect notation based on with-clauses and blocks</title>
+      <link>https://blog.yoshuawuyts.com/a-with-based-effect-notation</link>
+      <description>A bad habit of mine is that I’ll write 10.000 or 20.000 words on a topic, and
+then never publish that. A lot of my longer-form writing never sees the light of
+day because it gets stuck in editing purgatory. Editing small pieces is easy and
+quick, editing long pieces is not. I’ve been wanting to write more about effect
+notations for a while now and have been noodling on something I hope people
+might be alright with. At a minimum wouldn't mind seeing pop up in code.</description>
+      <category>rust</category>
+      <category>python</category>
+      <guid>https://blog.yoshuawuyts.com/a-with-based-effect-notation</guid>
+      <pubDate>Wed, 01 Apr 2026 00:03:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>The World's First Bullshit</title>
+      <link>https://www.joanwestenberg.com/the-worlds-first-bullshit/</link>
+      <description>I opened Twitter this morning and three different startups were announcing "the world's first" something. An AI CMO, an autonomous AI marketer, and a design agent "with taste," which is a phrase that made me close my laptop for about ten minutes.
+
+None of them are the world's first anything.</description>
+      <category>apple</category>
+      <category>ai</category>
+      <guid>https://www.joanwestenberg.com/the-worlds-first-bullshit/</guid>
+      <pubDate>Wed, 01 Apr 2026 00:03:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Minimum Release Age is an Underrated Supply Chain Defense | Dani Akash</title>
+      <link>https://daniakash.com/blog/simplest-supply-chain-defense</link>
+      <description>A 7-day package delay would have blocked installs in most short-lived malicious publish attacks from the last 8 years</description>
+      <category>nodejs</category>
+      <category>rust</category>
+      <category>javascript</category>
+      <category>ruby</category>
+      <category>python</category>
+      <guid>https://daniakash.com/blog/simplest-supply-chain-defense</guid>
+      <pubDate>Wed, 01 Apr 2026 00:03:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>I Read Claude Code's Leaked Source. Here's What's Inside.</title>
+      <link>https://www.saadnaveed.com/writing/claude-code-source-leak</link>
+      <description>380K lines of TypeScript leaked via source maps. Undercover mode, autonomous agents, and a Tamagotchi.</description>
+      <author> (Saad Naveed)</author>
+      <category>nodejs</category>
+      <category>typescript</category>
+      <category>ai</category>
+      <category>vscode</category>
+      <category>javascript</category>
+      <guid>https://www.saadnaveed.com/writing/claude-code-source-leak</guid>
+      <pubDate>Wed, 01 Apr 2026 00:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Joy of Barely Understanding Foreign Media</title>
+      <link>https://saint-angels.github.io/essays/comprehensible_input/</link>
+      <description>sinking my teeth into</description>
+      <category>gaming</category>
+      <guid>https://saint-angels.github.io/essays/comprehensible_input/</guid>
+      <pubDate>Wed, 01 Apr 2026 00:02:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Time to Start Treating Dev Machines as Untrusted - Work &amp; Life Notes</title>
+      <link>https://worklifenotes.com/2026/03/31/time-to-start-treating-dev-machines-as-untrusted/</link>
+      <description>Shai-Hulud, Shai-Hulud 2.0, Trivy, LiteLLM, and now Axios, and many smaller compromises bring us to the realization that existing supply chains are highly</description>
+      <category>nodejs</category>
+      <category>git</category>
+      <guid>https://worklifenotes.com/2026/03/31/time-to-start-treating-dev-machines-as-untrusted/</guid>
+      <pubDate>Wed, 01 Apr 2026 00:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>7 Configuration Changes That Turn a Multi-homed Host into a Switch/Router – blog</title>
+      <link>https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/</link>
+      <description>This was written on March 1, 2026</description>
+      <category>conference</category>
+      <category>linux</category>
+      <category>ai</category>
+      <category>apple</category>
+      <category>encryption</category>
+      <guid>https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/</guid>
+      <pubDate>Wed, 01 Apr 2026 00:02:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>I Read the Leaked Claude Code Source — Here’s What I Found</title>
+      <link>https://victorantos.com/posts/i-read-the-leaked-claude-code-source-heres-what-i-found/</link>
+      <description>Today, the source code for Claude Code — Anthropic’s AI-powered CLI tool — leaked online. Naturally, I did what any curious developer would do.</description>
+      <category>typescript</category>
+      <category>cloud</category>
+      <category>ai</category>
+      <category>git</category>
+      <category>nodejs</category>
+      <guid>https://victorantos.com/posts/i-read-the-leaked-claude-code-source-heres-what-i-found/</guid>
+      <pubDate>Wed, 01 Apr 2026 00:02:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Human.json</title>
+      <link>https://nedbatchelder.com/blog/202603/humanjson</link>
+      <description>human.json is an interesting idea, but comes with the usual semantic web problems.</description>
+      <category>javascript</category>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://nedbatchelder.com/blog/202603/humanjson</guid>
+      <pubDate>Wed, 01 Apr 2026 00:02:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>When to Use an Agent</title>
+      <link>https://elijahpotter.dev/articles/when-to-use-an-agent</link>
+      <description>There are times where it is prudent to use an AI agent (like Codex) aggressively. There are other times where they should be avoided like the plague. The question of into which bucket a particular endeavor falls is difficult to answer.</description>
+      <category>rust</category>
+      <category>ai</category>
+      <guid>https://elijahpotter.dev/articles/when-to-use-an-agent</guid>
+      <pubDate>Wed, 01 Apr 2026 00:02:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Thought Factory</title>
+      <link>https://brained.dev/thought-factory.html</link>
+      <description>Software factories are not abstract enough.</description>
+      <category>ai</category>
+      <category>encryption</category>
+      <category>conference</category>
+      <guid>https://brained.dev/thought-factory.html</guid>
+      <pubDate>Wed, 01 Apr 2026 00:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tracing Goroutines in Realtime with eBPF — Ozan Sazak</title>
+      <link>https://sazak.io/articles/tracing-goroutines-in-realtime-with-ebpf-2026-03-31</link>
+      <description>Built a Go runtime tracer called xgotop to trace and visualize goroutine lifecycles and memory allocations in realtime, and won eBPF Summit '25 Hackathon with it!</description>
+      <category>linux</category>
+      <guid>https://sazak.io/articles/tracing-goroutines-in-realtime-with-ebpf-2026-03-31</guid>
+      <pubDate>Wed, 01 Apr 2026 00:02:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>When an ALB Can Replace Nginx (and When It Can't) — yaw</title>
+      <link>https://yaw.sh/blog/when-alb-replaces-nginx/</link>
+      <description>An AWS ALB handles routing, SSL, health checks, and redirects natively. Here's when you can drop Nginx entirely.</description>
+      <author> (Yaw Labs)</author>
+      <category>cloud</category>
+      <category>encryption</category>
+      <category>git</category>
+      <guid>https://yaw.sh/blog/when-alb-replaces-nginx/</guid>
+      <pubDate>Wed, 01 Apr 2026 00:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>SITUATIONAL AWARENESS: THE DECADE AHEAD</title>
+      <link>https://chenglou.me/pretext/dynamic-layout/</link>
+      <description>Everything laid out in JS. Resize horizontally and vertically, then click the logos.</description>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://chenglou.me/pretext/dynamic-layout/</guid>
+      <pubDate>Wed, 01 Apr 2026 00:02:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>The man and the elevator · Jose Antunes</title>
+      <link>https://joseantunes.tech/life/2026/03/22/the-elevator.html</link>
+      <description>This is a post about “vibe coding”/”agentic engineering”, and my mental journey
+to come to terms with it.</description>
+      <category>ai</category>
+      <guid>https://joseantunes.tech/life/2026/03/22/the-elevator.html</guid>
+      <pubDate>Wed, 01 Apr 2026 00:02:18 GMT</pubDate>
+    </item>
+    <item>
       <title>OkCupid gave 3 million dating-app photos to facial recognition firm, FTC says</title>
       <link>https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/</link>
       <description>OkCupid and Match settle with Trump FTC, don't have to pay any financial penalty.</description>

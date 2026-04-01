@@ -1,5 +1,261 @@
 [
   {
+    "Title": "Monitor Claude Code Usage With Grafana",
+    "Url": "https://braw.dev/blog/2026-03-28-monitor-claude-usage-with-grafana/",
+    "Timestamp": "2026-04-01T00:04:14",
+    "Domain": "braw.dev",
+    "Description": "\n    \n      Use Grafana Cloud and OpenTelemetry to observe your Claude token usage.\n    \n  ",
+    "Confidence": 0.9974413
+  },
+  {
+    "Title": "DNS is Simple. DNS is Hard.",
+    "Url": "https://www.wespiser.com/posts/2026-03-29-dns-simple-dns-hard.html",
+    "Timestamp": "2026-04-01T00:04:11",
+    "Domain": "www.wespiser.com",
+    "Description": "DNS looks like configuration, but behaves like a global control plane with weak consistency and hidden state",
+    "Confidence": 0.96918344
+  },
+  {
+    "Title": "The blurred line between overengineering and anticipating change",
+    "Url": "https://iamgio.eu/2026-03-28-overengineering/",
+    "Timestamp": "2026-04-01T00:04:08",
+    "Domain": "iamgio.eu",
+    "Description": "Check out Giorgio Garofalo's blog post",
+    "Confidence": 0.9985445
+  },
+  {
+    "Title": "The Trouble with Fusion: Nuclear Fusion Will Not Give Us Infinite Power",
+    "Url": "https://joarvarndt.se/fusion",
+    "Timestamp": "2026-04-01T00:04:04",
+    "Domain": "joarvarndt.se",
+    "Description": "Fusion will not be built for a long time. There is an astounding and\nimpressive amount of work being done, much of it useful, but none of\nit is even in the same league as a commercial power plant, not to\nmention ballparks. As mentioned above, only a single facility has ever\nreached a net-positive amount of energy production. Saying that you\nwill soon be building power plants is like keeping a campfire lit in\nthe rain using a flamethrower and then saying you are going to build a\ncoal power plant using your patented 24/7-flamethrower-method.",
+    "Confidence": 0.9098761
+  },
+  {
+    "Title": "Package Upgrades Feel Like Russian Roulette",
+    "Url": "https://ziva.sh/blogs/npm-supply-chain-roulette",
+    "Timestamp": "2026-04-01T00:04:00",
+    "Domain": "ziva.sh",
+    "Description": "Axios just got compromised. 83M weekly downloads. A RAT on every machine. Here's what shipping desktop software taught us about npm supply chain risk.",
+    "Confidence": 0.993699
+  },
+  {
+    "Title": "Craft is Untouchable - Christopher Butler",
+    "Url": "https://www.chrbutler.com/craft-is-untouchable",
+    "Timestamp": "2026-04-01T00:03:57",
+    "Domain": "www.chrbutler.com",
+    "Description": "AI doesn't threaten craft—the temptation to skip iteration does.",
+    "Confidence": 0.9775107
+  },
+  {
+    "Title": "Will everything become an API?",
+    "Url": "https://benbrowning.me/writing/2026-will-everything-become-an-api/",
+    "Timestamp": "2026-04-01T00:03:53",
+    "Domain": "benbrowning.me",
+    "Description": "How do you value a business when the specter of a new model looms over EBITDA multiples and forward ARR?",
+    "Confidence": 0.99185747
+  },
+  {
+    "Title": "your hex editor should color-code bytes",
+    "Url": "https://simonomi.dev/blog/color-code-your-bytes/",
+    "Timestamp": "2026-04-01T00:03:50",
+    "Domain": "simonomi.dev",
+    "Description": "alice pellerin • 2026-03-31",
+    "Confidence": 0.96743506
+  },
+  {
+    "Title": "Building Multi-Tenant SaaS with Rails 8, Caddy, and Kamal",
+    "Url": "https://mooktakim.com/blog/building-saas-with-rails-and-kamal/",
+    "Timestamp": "2026-04-01T00:03:47",
+    "Domain": "mooktakim.com",
+    "Description": "A production guide to building multi-tenant SaaS with Rails 8 — subdomain routing, custom domains, and automatic SSL with Caddy's on-demand TLS.",
+    "Confidence": 0.99659604
+  },
+  {
+    "Title": "Introducing Positron Flux",
+    "Url": "https://sklivvz.com/posts/introducing-positron-flux",
+    "Timestamp": "2026-04-01T00:03:44",
+    "Domain": "sklivvz.com",
+    "Description": "Positron Flux is a new a delivery excellence workbench",
+    "Confidence": 0.9853662
+  },
+  {
+    "Title": "My letter to my reps regarding California’s age verification law",
+    "Url": "http://chrisfun.xyz/letter",
+    "Timestamp": "2026-04-01T00:03:39",
+    "Domain": "chrisfun.xyz",
+    "Description": "My name’s Chris Taylor. I’m a software engineer and a constituent in your district. I grew up in California and got a computer engineering degree from UCSB (the one by the beach). I’ve worked on defense robotics, drones, and other high-stakes industrial systems (trains, forklift trucks), with experience in cybersecurity and AI.",
+    "Confidence": 0.9320182
+  },
+  {
+    "Title": "Liquid Glass updates in 26.4",
+    "Url": "https://anderegg.ca/2026/03/29/liquid-glass-updates-in-264",
+    "Timestamp": "2026-04-01T00:03:36",
+    "Domain": "anderegg.ca",
+    "Description": "Apple recently updated all their OSs to 26.4, and there were plenty of Liquid Glass updates. Most of them for the better! Here are some of the changes that stood out to me, as well as a bit more grumbling about Liquid Glass in general (sorry).",
+    "Confidence": 0.99033934
+  },
+  {
+    "Title": "Code and Cake - Your job isn't programming",
+    "Url": "https://codeandcake.dev/posts/2025-12-12-your-job-isnt-programming",
+    "Timestamp": "2026-04-01T00:03:32",
+    "Domain": "codeandcake.dev",
+    "Description": "We’ve been doing software development wrong. When trying to improve a poor codebase, the solutions we often reach to are generic and technical. Move the frontend to React. Split the backend into microservices. Rewrite everything in Rust. Some of these approaches can have real benefits in the right situation, but none of them are going to solve the core problems with bad codebases.",
+    "Confidence": 0.99814045
+  },
+  {
+    "Title": "Every table should be a spreadsheet",
+    "Url": "https://www.saj.ad/2026/table",
+    "Timestamp": "2026-04-01T00:03:28",
+    "Domain": "www.saj.ad",
+    "Description": "Building spreadsheet-style superpowers for native HTML tables.",
+    "Confidence": 0.99098146
+  },
+  {
+    "Title": "Your Engineers Aren't Lazy, Your Codebase Is Punishing Them",
+    "Url": "https://piechowski.io/post/codebase-drag-audit/",
+    "Timestamp": "2026-04-01T00:03:25",
+    "Domain": "piechowski.io",
+    "Description": "A two-minute interactive audit to score whether technical debt is dragging your engineering team. Five signals that separate people problems from code problems.",
+    "Confidence": 0.9743823
+  },
+  {
+    "Title": "A Dot a Day Keeps the Clutter Away — Scott Lawson",
+    "Url": "https://scottlawsonbc.com/post/dot-system",
+    "Timestamp": "2026-04-01T00:03:21",
+    "Domain": "scottlawsonbc.com",
+    "Description": "The simplest organization system I've tried is a sheet of colored dot stickers. It's also the best.",
+    "Confidence": 0.98295057
+  },
+  {
+    "Title": "Why I Like Real Estate",
+    "Url": "https://www.sohum.com/why-i-like-real-estate/",
+    "Timestamp": "2026-04-01T00:03:18",
+    "Domain": "www.sohum.com",
+    "Description": "January 2023 I’m often asked why I like real estate better than any other asset class like equities, bonds, crypto, startup shares etc. Beyond that I think the returns are better, every time I’m asked…",
+    "Confidence": 0.97494644
+  },
+  {
+    "Title": "An effect notation based on with-clauses and blocks",
+    "Url": "https://blog.yoshuawuyts.com/a-with-based-effect-notation",
+    "Timestamp": "2026-04-01T00:03:10",
+    "Domain": "blog.yoshuawuyts.com",
+    "Description": "A bad habit of mine is that I’ll write 10.000 or 20.000 words on a topic, and\nthen never publish that. A lot of my longer-form writing never sees the light of\nday because it gets stuck in editing purgatory. Editing small pieces is easy and\nquick, editing long pieces is not. I’ve been wanting to write more about effect\nnotations for a while now and have been noodling on something I hope people\nmight be alright with. At a minimum wouldn't mind seeing pop up in code.",
+    "Confidence": 0.99465865
+  },
+  {
+    "Title": "The World's First Bullshit",
+    "Url": "https://www.joanwestenberg.com/the-worlds-first-bullshit/",
+    "Timestamp": "2026-04-01T00:03:07",
+    "Domain": "www.joanwestenberg.com",
+    "Description": "I opened Twitter this morning and three different startups were announcing \"the world's first\" something. An AI CMO, an autonomous AI marketer, and a design agent \"with taste,\" which is a phrase that made me close my laptop for about ten minutes.\n\nNone of them are the world's first anything.",
+    "Confidence": 0.6282154
+  },
+  {
+    "Title": "Minimum Release Age is an Underrated Supply Chain Defense | Dani Akash",
+    "Url": "https://daniakash.com/blog/simplest-supply-chain-defense",
+    "Timestamp": "2026-04-01T00:03:03",
+    "Domain": "daniakash.com",
+    "Description": "A 7-day package delay would have blocked installs in most short-lived malicious publish attacks from the last 8 years",
+    "Confidence": 0.9918667
+  },
+  {
+    "Title": "I Read Claude Code's Leaked Source. Here's What's Inside.",
+    "Url": "https://www.saadnaveed.com/writing/claude-code-source-leak",
+    "Timestamp": "2026-04-01T00:03:00",
+    "Domain": "www.saadnaveed.com",
+    "Description": "380K lines of TypeScript leaked via source maps. Undercover mode, autonomous agents, and a Tamagotchi.",
+    "Confidence": 0.9672431
+  },
+  {
+    "Title": "The Joy of Barely Understanding Foreign Media",
+    "Url": "https://saint-angels.github.io/essays/comprehensible_input/",
+    "Timestamp": "2026-04-01T00:02:57",
+    "Domain": "saint-angels.github.io",
+    "Description": "sinking my teeth into",
+    "Confidence": 0.9123926
+  },
+  {
+    "Title": "Time to Start Treating Dev Machines as Untrusted - Work & Life Notes",
+    "Url": "https://worklifenotes.com/2026/03/31/time-to-start-treating-dev-machines-as-untrusted/",
+    "Timestamp": "2026-04-01T00:02:54",
+    "Domain": "worklifenotes.com",
+    "Description": "Shai-Hulud, Shai-Hulud 2.0, Trivy, LiteLLM, and now Axios, and many smaller compromises bring us to the realization that existing supply chains are highly",
+    "Confidence": 0.9987744
+  },
+  {
+    "Title": "7 Configuration Changes That Turn a Multi-homed Host into a Switch/Router – blog",
+    "Url": "https://patrickmccanna.net/7-configuration-changes-that-turn-a-multi-homed-host-into-a-switch-router/",
+    "Timestamp": "2026-04-01T00:02:48",
+    "Domain": "patrickmccanna.net",
+    "Description": "This was written on March 1, 2026",
+    "Confidence": 0.99363256
+  },
+  {
+    "Title": "I Read the Leaked Claude Code Source — Here’s What I Found",
+    "Url": "https://victorantos.com/posts/i-read-the-leaked-claude-code-source-heres-what-i-found/",
+    "Timestamp": "2026-04-01T00:02:45",
+    "Domain": "victorantos.com",
+    "Description": "Today, the source code for Claude Code — Anthropic’s AI-powered CLI tool — leaked online. Naturally, I did what any curious developer would do.",
+    "Confidence": 0.9858978
+  },
+  {
+    "Title": "Human.json",
+    "Url": "https://nedbatchelder.com/blog/202603/humanjson",
+    "Timestamp": "2026-04-01T00:02:42",
+    "Domain": "nedbatchelder.com",
+    "Description": "human.json is an interesting idea, but comes with the usual semantic web problems.",
+    "Confidence": 0.96183664
+  },
+  {
+    "Title": "When to Use an Agent",
+    "Url": "https://elijahpotter.dev/articles/when-to-use-an-agent",
+    "Timestamp": "2026-04-01T00:02:38",
+    "Domain": "elijahpotter.dev",
+    "Description": "There are times where it is prudent to use an AI agent (like Codex) aggressively. There are other times where they should be avoided like the plague. The question of into which bucket a particular endeavor falls is difficult to answer.",
+    "Confidence": 0.9892334
+  },
+  {
+    "Title": "The Thought Factory",
+    "Url": "https://brained.dev/thought-factory.html",
+    "Timestamp": "2026-04-01T00:02:34",
+    "Domain": "brained.dev",
+    "Description": "Software factories are not abstract enough.",
+    "Confidence": 0.9859674
+  },
+  {
+    "Title": "Tracing Goroutines in Realtime with eBPF — Ozan Sazak",
+    "Url": "https://sazak.io/articles/tracing-goroutines-in-realtime-with-ebpf-2026-03-31",
+    "Timestamp": "2026-04-01T00:02:31",
+    "Domain": "sazak.io",
+    "Description": "Built a Go runtime tracer called xgotop to trace and visualize goroutine lifecycles and memory allocations in realtime, and won eBPF Summit '25 Hackathon with it!",
+    "Confidence": 0.9945518
+  },
+  {
+    "Title": "When an ALB Can Replace Nginx (and When It Can't) — yaw",
+    "Url": "https://yaw.sh/blog/when-alb-replaces-nginx/",
+    "Timestamp": "2026-04-01T00:02:27",
+    "Domain": "yaw.sh",
+    "Description": "An AWS ALB handles routing, SSL, health checks, and redirects natively. Here's when you can drop Nginx entirely.",
+    "Confidence": 0.9813943
+  },
+  {
+    "Title": "SITUATIONAL AWARENESS: THE DECADE AHEAD",
+    "Url": "https://chenglou.me/pretext/dynamic-layout/",
+    "Timestamp": "2026-04-01T00:02:21",
+    "Domain": "chenglou.me",
+    "Description": "Everything laid out in JS. Resize horizontally and vertically, then click the logos.",
+    "Confidence": 0.91541797
+  },
+  {
+    "Title": "The man and the elevator · Jose Antunes",
+    "Url": "https://joseantunes.tech/life/2026/03/22/the-elevator.html",
+    "Timestamp": "2026-04-01T00:02:18",
+    "Domain": "joseantunes.tech",
+    "Description": "This is a post about “vibe coding”/”agentic engineering”, and my mental journey\nto come to terms with it.",
+    "Confidence": 0.98905146
+  },
+  {
     "Title": "OkCupid gave 3 million dating-app photos to facial recognition firm, FTC says",
     "Url": "https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/",
     "Timestamp": "2026-03-31T23:02:10",
