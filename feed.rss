@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Introducing EmDash — the spiritual successor to WordPress that solves plugin security</title>
+      <link>https://blog.cloudflare.com/emdash-wordpress/</link>
+      <description>Today we are launching the beta of EmDash, a full-stack serverless JavaScript CMS built on Astro 6.0. It combines the features of a traditional CMS with modern security, running plugins in sandboxed Worker isolates.</description>
+      <category>nodejs</category>
+      <category>typescript</category>
+      <category>javascript</category>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://blog.cloudflare.com/emdash-wordpress/</guid>
+      <pubDate>Wed, 01 Apr 2026 20:02:24 GMT</pubDate>
+    </item>
+    <item>
       <title>I quit. The clankers won.</title>
       <link>https://dbushell.com/2026/04/01/i-quit-the-clankers-won/</link>
       <description>The one where I pack up my bags</description>
