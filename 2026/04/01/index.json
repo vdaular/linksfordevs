@@ -1,5 +1,12 @@
 [
   {
+    "Title": "DRAM pricing is killing the hobbyist SBC market",
+    "Url": "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/",
+    "Timestamp": "2026-04-01T22:02:06",
+    "Domain": "www.jeffgeerling.com",
+    "Description": "Today Raspberry Pi announced more price increases for all Pis with LPDDR4 RAM, alongside a 'right-sized' 3GB RAM Pi 4 for $83.75.\nThe price increases bring the 16GB Pi 5 up to $299.99.\nDespite today's date, this is not a joke.\nI published a video going over the state of the hobbyist 'high end SBC' market (4/8/16 GB models in the current generation), which I'll embed below:\nBut if you'd like the tl;dr:"
+  },
+  {
     "Title": "Creation",
     "Url": "https://xkcd.com/3227/",
     "Timestamp": "2026-04-01T21:02:11",
