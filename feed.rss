@@ -408,13 +408,5 @@ to come to terms with it.</description>
       <guid>https://nodogmablog.bryanhogan.net/2026/03/net-cli-shebangs-and-argument-parsing/</guid>
       <pubDate>Tue, 31 Mar 2026 17:01:34 GMT</pubDate>
     </item>
-    <item>
-      <title>Prediction: The Shopify CEO's Pull Request Will Never Be Merged Nor Closed</title>
-      <link>https://joshmoody.org/blog/shopify-ceo-autoresearch-pr/</link>
-      <description>The CEO of Shopify used an AI tool called autoresearch to optimize Liquid parsing speed. The code quality is poor and no one will ever merge it.</description>
-      <category>ai</category>
-      <guid>https://joshmoody.org/blog/shopify-ceo-autoresearch-pr/</guid>
-      <pubDate>Tue, 31 Mar 2026 14:02:24 GMT</pubDate>
-    </item>
   </channel>
 </rss>
