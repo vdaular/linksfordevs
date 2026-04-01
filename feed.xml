@@ -7,6 +7,174 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>13th Year of Blogging</title>
+      <link>https://idiallo.com/byte-size/blogging-year-13?src=feed</link>
+      <description>I've been blogging for 13 years. So much has changed, yet everything is the same. The only thing AI cannot replicate is longevity. Plant your seeds right now.</description>
+      <category>ai</category>
+      <guid>https://idiallo.com/byte-size/blogging-year-13?src=feed</guid>
+      <pubDate>Wed, 01 Apr 2026 23:03:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Improving my focus by giving up my big monitor</title>
+      <link>https://ounapuu.ee/posts/2026/04/01/focus/</link>
+      <description>Thoughts on an experiment that I've been running for about a month.</description>
+      <category>gaming</category>
+      <category>youtube</category>
+      <guid>https://ounapuu.ee/posts/2026/04/01/focus/</guid>
+      <pubDate>Wed, 01 Apr 2026 23:03:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Software Engineering Is Becoming Civil Engineering</title>
+      <link>https://christophermeiklejohn.com/ai/engineering/2026/04/01/software-engineering-is-becoming-civil-engineering.html</link>
+      <description>I gave a guest lecture on AI in Michael Hilton’s Foundations of Software Engineering course (CMU 17-313) today. One of my favorite things about lecturing is the conversations that happen afterward, the ones that go in directions nobody planned.</description>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://christophermeiklejohn.com/ai/engineering/2026/04/01/software-engineering-is-becoming-civil-engineering.html</guid>
+      <pubDate>Wed, 01 Apr 2026 23:03:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Optimizing for understanding</title>
+      <link>https://blog.br11k.dev/2026-04-01-optimizing-for-understanding</link>
+      <description>When code review is the biggest bottleneck, you need to optimize for understanding.</description>
+      <category>ruby</category>
+      <category>rust</category>
+      <category>git</category>
+      <category>nodejs</category>
+      <category>gaming</category>
+      <guid>https://blog.br11k.dev/2026-04-01-optimizing-for-understanding</guid>
+      <pubDate>Wed, 01 Apr 2026 23:03:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Translating non-trivial codebases with Claude</title>
+      <link>https://blog.danieljanus.pl/2026/03/26/claude-nlp/</link>
+      <description>In my last post, I stated:</description>
+      <category>ai</category>
+      <category>encryption</category>
+      <category>sql</category>
+      <category>javascript</category>
+      <guid>https://blog.danieljanus.pl/2026/03/26/claude-nlp/</guid>
+      <pubDate>Wed, 01 Apr 2026 23:03:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Signals, the push-pull based algorithm — Willy Brauner</title>
+      <link>https://willybrauner.com/journal/signal-the-push-pull-based-algorithm</link>
+      <description>We have been using Signals in production for years via several modern front-end frameworks like Solid, Vue, and others, but few of us are able to explain how they work internally. I wanted to dig into it, especially diving deep into the push-pull based algorithm, the core mechanism behind their reactivity.</description>
+      <category>nodejs</category>
+      <category>javascript</category>
+      <category>vscode</category>
+      <guid>https://willybrauner.com/journal/signal-the-push-pull-based-algorithm</guid>
+      <pubDate>Wed, 01 Apr 2026 23:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kasava - The Agentic Platform for Product Engineers</title>
+      <link>https://www.kasava.dev/blog/why-pms-are-built-for-ai</link>
+      <description>Kasava is the AI-native platform purpose-built for product development. Plan, build, and ship with AI-powered chat, call analysis, and plan generation.</description>
+      <category>ai</category>
+      <category>vscode</category>
+      <guid>https://www.kasava.dev/blog/why-pms-are-built-for-ai</guid>
+      <pubDate>Wed, 01 Apr 2026 23:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why You (Probably) Don't Need Static Typing in Rails</title>
+      <link>https://www.tbds.fr/en/blog/why-you-dont-need-static-typing-in-rails</link>
+      <description>Static typing in Ruby sounds appealing — but good naming conventions get you 80% of the benefits with none of the overhead. No gems, no annotations, no build step.</description>
+      <author> (Philippe Durix)</author>
+      <category>ruby</category>
+      <category>typescript</category>
+      <category>javascript</category>
+      <category>gaming</category>
+      <guid>https://www.tbds.fr/en/blog/why-you-dont-need-static-typing-in-rails</guid>
+      <pubDate>Wed, 01 Apr 2026 23:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Paste clipboard images into Claude Code over SSH</title>
+      <link>https://alexanderzeitler.com/articles/paste-clipboard-images-into-claude-code-over-ssh/</link>
+      <description>Claude Code can read images, but not when you're connected over SSH. claude-ssh-image-skill bridges that gap with a local daemon, a Go client, and an SSH reverse tunnel.</description>
+      <category>ai</category>
+      <category>javascript</category>
+      <category>linux</category>
+      <category>git</category>
+      <guid>https://alexanderzeitler.com/articles/paste-clipboard-images-into-claude-code-over-ssh/</guid>
+      <pubDate>Wed, 01 Apr 2026 23:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reading leaked Claude Code source code</title>
+      <link>https://lr0.org/blog/p/claude-code-source/</link>
+      <description>Interesting findings from reading 132,000 lines of TypeScript that power Claude Code. The post uses the repo at https://github.com/chatgptprojects/claude-code to reference code, note that it might go down by the time you are reading this.</description>
+      <category>ai</category>
+      <category>typescript</category>
+      <category>javascript</category>
+      <category>containers</category>
+      <category>git</category>
+      <guid>https://lr0.org/blog/p/claude-code-source/</guid>
+      <pubDate>Wed, 01 Apr 2026 23:02:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Struggle is What We Crave</title>
+      <link>https://dommagnifi.co/2026-04-01-the-struggle-is-what-we-crave/</link>
+      <description>On the death of web dev communities, the callouses that made us better, and why eliminating struggle might be the worst thing we've ever built.</description>
+      <category>web</category>
+      <category>ai</category>
+      <category>gaming</category>
+      <category>cloud</category>
+      <guid>https://dommagnifi.co/2026-04-01-the-struggle-is-what-we-crave/</guid>
+      <pubDate>Wed, 01 Apr 2026 23:02:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Speed Is Only Useful If You're Going in the Right Direction — Matthew Boston</title>
+      <link>https://matthewboston.com/blog/speed-is-only-useful-if-youre-going-in-the-right-direction/</link>
+      <description>Velocity is a vector — it has magnitude and direction. AI tools make it trivially easy to build the wrong thing fast. The bottleneck was never typing speed; it was always understanding.</description>
+      <author> (Matthew Boston)</author>
+      <category>ai</category>
+      <guid>https://matthewboston.com/blog/speed-is-only-useful-if-youre-going-in-the-right-direction/</guid>
+      <pubDate>Wed, 01 Apr 2026 23:02:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why Are There So Many Dead Posts on Hacker News | Kruno Golubić</title>
+      <link>https://kgolubic.com/posts/why-are-there-so-many-dead-posts-on-hacker-news/</link>
+      <description>Some platforms are silently banned on Hacker News. Your posts go dead and you never know. If this matters to you, here's what you can do about it.</description>
+      <guid>https://kgolubic.com/posts/why-are-there-so-many-dead-posts-on-hacker-news/</guid>
+      <pubDate>Wed, 01 Apr 2026 23:02:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Birthday Slideshow | Joe IQ</title>
+      <link>https://joeiq.com/blog/birthday-slideshow/</link>
+      <description>Throwing a birthday party for yourself is the perfect way to get your favorite people in one room. And while guests have a great time during the party, the joy doesn’t stop when it’s over: they’re still raving about your slideshow days later. What slideshow? I can explain…</description>
+      <category>python</category>
+      <guid>https://joeiq.com/blog/birthday-slideshow/</guid>
+      <pubDate>Wed, 01 Apr 2026 23:02:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Agent Frameworks Are Getting Squeezed</title>
+      <link>https://www.tonykipkemboi.com/blog/agent-frameworks-getting-squeezed</link>
+      <description>AI labs are building down into orchestration. Automation platforms are building up into reasoning. Agent frameworks are caught in a compression event from both sides.</description>
+      <category>conference</category>
+      <category>ai</category>
+      <category>git</category>
+      <category>cloud</category>
+      <guid>https://www.tonykipkemboi.com/blog/agent-frameworks-getting-squeezed</guid>
+      <pubDate>Wed, 01 Apr 2026 23:02:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>I Am a Cross-Cutting Concern — Scott Lawson</title>
+      <link>https://scottlawsonbc.com/post/monorepo</link>
+      <description>Everything I've built in the last decade lives in one repo. Not because the projects are related, but because I am.</description>
+      <category>git</category>
+      <category>ai</category>
+      <category>containers</category>
+      <category>gaming</category>
+      <category>python</category>
+      <guid>https://scottlawsonbc.com/post/monorepo</guid>
+      <pubDate>Wed, 01 Apr 2026 23:02:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Very small engines</title>
+      <link>https://scottlocklin.wordpress.com/2026/03/25/very-small-engines/</link>
+      <description>One of the interesting things to contemplate is the scale of the internal combustion engine. It’s a very human scale device; pistons the size of fists, Valves about as wide as knuckles. It&amp;#8…</description>
+      <guid>https://scottlocklin.wordpress.com/2026/03/25/very-small-engines/</guid>
+      <pubDate>Wed, 01 Apr 2026 23:02:18 GMT</pubDate>
+    </item>
+    <item>
       <title>DRAM pricing is killing the hobbyist SBC market</title>
       <link>https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/</link>
       <description>Today Raspberry Pi announced more price increases for all Pis with LPDDR4 RAM, alongside a 'right-sized' 3GB RAM Pi 4 for $83.75.
@@ -417,14 +585,6 @@ to come to terms with it.</description>
       <category>ai</category>
       <guid>https://joseantunes.tech/life/2026/03/22/the-elevator.html</guid>
       <pubDate>Wed, 01 Apr 2026 00:02:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>OkCupid gave 3 million dating-app photos to facial recognition firm, FTC says</title>
-      <link>https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/</link>
-      <description>OkCupid and Match settle with Trump FTC, don't have to pay any financial penalty.</description>
-      <category>ai</category>
-      <guid>https://arstechnica.com/tech-policy/2026/03/okcupid-match-pay-no-fine-for-sharing-user-photos-with-facial-recognition-firm/</guid>
-      <pubDate>Tue, 31 Mar 2026 23:02:10 GMT</pubDate>
     </item>
   </channel>
 </rss>

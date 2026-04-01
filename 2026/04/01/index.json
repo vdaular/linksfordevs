@@ -1,5 +1,124 @@
 [
   {
+    "Title": "13th Year of Blogging",
+    "Url": "https://idiallo.com/byte-size/blogging-year-13?src=feed",
+    "Timestamp": "2026-04-01T23:03:23",
+    "Domain": "idiallo.com",
+    "Description": "I've been blogging for 13 years. So much has changed, yet everything is the same. The only thing AI cannot replicate is longevity. Plant your seeds right now."
+  },
+  {
+    "Title": "Improving my focus by giving up my big monitor",
+    "Url": "https://ounapuu.ee/posts/2026/04/01/focus/",
+    "Timestamp": "2026-04-01T23:03:20",
+    "Domain": "ounapuu.ee",
+    "Description": "Thoughts on an experiment that I've been running for about a month."
+  },
+  {
+    "Title": "Software Engineering Is Becoming Civil Engineering",
+    "Url": "https://christophermeiklejohn.com/ai/engineering/2026/04/01/software-engineering-is-becoming-civil-engineering.html",
+    "Timestamp": "2026-04-01T23:03:14",
+    "Domain": "christophermeiklejohn.com",
+    "Description": "I gave a guest lecture on AI in Michael Hilton’s Foundations of Software Engineering course (CMU 17-313) today. One of my favorite things about lecturing is the conversations that happen afterward, the ones that go in directions nobody planned."
+  },
+  {
+    "Title": "Optimizing for understanding",
+    "Url": "https://blog.br11k.dev/2026-04-01-optimizing-for-understanding",
+    "Timestamp": "2026-04-01T23:03:08",
+    "Domain": "blog.br11k.dev",
+    "Description": "When code review is the biggest bottleneck, you need to optimize for understanding."
+  },
+  {
+    "Title": "Translating non-trivial codebases with Claude",
+    "Url": "https://blog.danieljanus.pl/2026/03/26/claude-nlp/",
+    "Timestamp": "2026-04-01T23:03:04",
+    "Domain": "blog.danieljanus.pl",
+    "Description": "In my last post, I stated:"
+  },
+  {
+    "Title": "Signals, the push-pull based algorithm — Willy Brauner",
+    "Url": "https://willybrauner.com/journal/signal-the-push-pull-based-algorithm",
+    "Timestamp": "2026-04-01T23:03:00",
+    "Domain": "willybrauner.com",
+    "Description": "We have been using Signals in production for years via several modern front-end frameworks like Solid, Vue, and others, but few of us are able to explain how they work internally. I wanted to dig into it, especially diving deep into the push-pull based algorithm, the core mechanism behind their reactivity."
+  },
+  {
+    "Title": "Kasava - The Agentic Platform for Product Engineers",
+    "Url": "https://www.kasava.dev/blog/why-pms-are-built-for-ai",
+    "Timestamp": "2026-04-01T23:02:54",
+    "Domain": "www.kasava.dev",
+    "Description": "Kasava is the AI-native platform purpose-built for product development. Plan, build, and ship with AI-powered chat, call analysis, and plan generation."
+  },
+  {
+    "Title": "Why You (Probably) Don't Need Static Typing in Rails",
+    "Url": "https://www.tbds.fr/en/blog/why-you-dont-need-static-typing-in-rails",
+    "Timestamp": "2026-04-01T23:02:51",
+    "Domain": "www.tbds.fr",
+    "Description": "Static typing in Ruby sounds appealing — but good naming conventions get you 80% of the benefits with none of the overhead. No gems, no annotations, no build step."
+  },
+  {
+    "Title": "Paste clipboard images into Claude Code over SSH",
+    "Url": "https://alexanderzeitler.com/articles/paste-clipboard-images-into-claude-code-over-ssh/",
+    "Timestamp": "2026-04-01T23:02:46",
+    "Domain": "alexanderzeitler.com",
+    "Description": "Claude Code can read images, but not when you're connected over SSH. claude-ssh-image-skill bridges that gap with a local daemon, a Go client, and an SSH reverse tunnel."
+  },
+  {
+    "Title": "Reading leaked Claude Code source code",
+    "Url": "https://lr0.org/blog/p/claude-code-source/",
+    "Timestamp": "2026-04-01T23:02:41",
+    "Domain": "lr0.org",
+    "Description": "Interesting findings from reading 132,000 lines of TypeScript that power Claude Code. The post uses the repo at https://github.com/chatgptprojects/claude-code to reference code, note that it might go down by the time you are reading this."
+  },
+  {
+    "Title": "The Struggle is What We Crave",
+    "Url": "https://dommagnifi.co/2026-04-01-the-struggle-is-what-we-crave/",
+    "Timestamp": "2026-04-01T23:02:38",
+    "Domain": "dommagnifi.co",
+    "Description": "On the death of web dev communities, the callouses that made us better, and why eliminating struggle might be the worst thing we've ever built."
+  },
+  {
+    "Title": "Speed Is Only Useful If You're Going in the Right Direction — Matthew Boston",
+    "Url": "https://matthewboston.com/blog/speed-is-only-useful-if-youre-going-in-the-right-direction/",
+    "Timestamp": "2026-04-01T23:02:35",
+    "Domain": "matthewboston.com",
+    "Description": "Velocity is a vector — it has magnitude and direction. AI tools make it trivially easy to build the wrong thing fast. The bottleneck was never typing speed; it was always understanding."
+  },
+  {
+    "Title": "Why Are There So Many Dead Posts on Hacker News | Kruno Golubić",
+    "Url": "https://kgolubic.com/posts/why-are-there-so-many-dead-posts-on-hacker-news/",
+    "Timestamp": "2026-04-01T23:02:32",
+    "Domain": "kgolubic.com",
+    "Description": "Some platforms are silently banned on Hacker News. Your posts go dead and you never know. If this matters to you, here's what you can do about it."
+  },
+  {
+    "Title": "Birthday Slideshow | Joe IQ",
+    "Url": "https://joeiq.com/blog/birthday-slideshow/",
+    "Timestamp": "2026-04-01T23:02:29",
+    "Domain": "joeiq.com",
+    "Description": "Throwing a birthday party for yourself is the perfect way to get your favorite people in one room. And while guests have a great time during the party, the joy doesn’t stop when it’s over: they’re still raving about your slideshow days later. What slideshow? I can explain…"
+  },
+  {
+    "Title": "Agent Frameworks Are Getting Squeezed",
+    "Url": "https://www.tonykipkemboi.com/blog/agent-frameworks-getting-squeezed",
+    "Timestamp": "2026-04-01T23:02:25",
+    "Domain": "www.tonykipkemboi.com",
+    "Description": "AI labs are building down into orchestration. Automation platforms are building up into reasoning. Agent frameworks are caught in a compression event from both sides."
+  },
+  {
+    "Title": "I Am a Cross-Cutting Concern — Scott Lawson",
+    "Url": "https://scottlawsonbc.com/post/monorepo",
+    "Timestamp": "2026-04-01T23:02:22",
+    "Domain": "scottlawsonbc.com",
+    "Description": "Everything I've built in the last decade lives in one repo. Not because the projects are related, but because I am."
+  },
+  {
+    "Title": "Very small engines",
+    "Url": "https://scottlocklin.wordpress.com/2026/03/25/very-small-engines/",
+    "Timestamp": "2026-04-01T23:02:18",
+    "Domain": "scottlocklin.wordpress.com",
+    "Description": "One of the interesting things to contemplate is the scale of the internal combustion engine. It’s a very human scale device; pistons the size of fists, Valves about as wide as knuckles. It&#8…"
+  },
+  {
     "Title": "DRAM pricing is killing the hobbyist SBC market",
     "Url": "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/",
     "Timestamp": "2026-04-01T22:02:06",
