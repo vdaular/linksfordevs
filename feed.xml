@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>PrismML — Concentrating intelligence</title>
+      <link>https://prismml.com/</link>
+      <description>Large models can't fit on smartphones. Datacenters can't sustain them. PrismML is building ultra dense intelligence to solve both.</description>
+      <category>apple</category>
+      <category>ai</category>
+      <guid>https://prismml.com/</guid>
+      <pubDate>Wed, 01 Apr 2026 10:02:26 GMT</pubDate>
+    </item>
+    <item>
       <title>Claude Code Unpacked</title>
       <link>https://ccunpacked.dev/</link>
       <description>What actually happens when you type a message into Claude Code? The agent loop, 40+ tools, multi-agent orchestration, and unreleased features, mapped from source.</description>
@@ -401,24 +410,6 @@ to come to terms with it.</description>
       <category>git</category>
       <guid>https://www.theregister.com/2026/03/30/github_copilot_ads_pull_requests/</guid>
       <pubDate>Tue, 31 Mar 2026 11:02:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ollama is now powered by MLX on Apple Silicon in preview · Ollama Blog</title>
-      <link>https://ollama.com/blog/mlx</link>
-      <description>Today, we're previewing the fastest way to run Ollama on Apple silicon, powered by MLX, Apple's machine learning framework.</description>
-      <category>ai</category>
-      <category>apple</category>
-      <guid>https://ollama.com/blog/mlx</guid>
-      <pubDate>Tue, 31 Mar 2026 10:02:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Android developer verification: Rolling out to all developers on Play Console and Android Developer Console</title>
-      <link>https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html</link>
-      <description>News and insights on the Android platform, developer tools, and events.</description>
-      <category>android</category>
-      <category>web</category>
-      <guid>https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html</guid>
-      <pubDate>Tue, 31 Mar 2026 10:02:19 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,13 @@
 [
   {
+    "Title": "PrismML — Concentrating intelligence",
+    "Url": "https://prismml.com/",
+    "Timestamp": "2026-04-01T10:02:26",
+    "Domain": "prismml.com",
+    "Description": "Large models can't fit on smartphones. Datacenters can't sustain them. PrismML is building ultra dense intelligence to solve both.",
+    "Confidence": 0.76883703
+  },
+  {
     "Title": "Claude Code Unpacked",
     "Url": "https://ccunpacked.dev/",
     "Timestamp": "2026-04-01T09:02:22",
@@ -326,21 +334,5 @@
     "Domain": "www.theregister.com",
     "Description": "Updated: Letting Copilot alter others' PRs was the wrong judgment call, says product manager",
     "Confidence": 0.6441166
-  },
-  {
-    "Title": "Ollama is now powered by MLX on Apple Silicon in preview · Ollama Blog",
-    "Url": "https://ollama.com/blog/mlx",
-    "Timestamp": "2026-03-31T10:02:23",
-    "Domain": "ollama.com",
-    "Description": "Today, we're previewing the fastest way to run Ollama on Apple silicon, powered by MLX, Apple's machine learning framework.",
-    "Confidence": 0.9593323
-  },
-  {
-    "Title": "Android developer verification: Rolling out to all developers on Play Console and Android Developer Console",
-    "Url": "https://android-developers.googleblog.com/2026/03/android-developer-verification-rolling-out-to-all-developers.html",
-    "Timestamp": "2026-03-31T10:02:19",
-    "Domain": "android-developers.googleblog.com",
-    "Description": "News and insights on the Android platform, developer tools, and events.",
-    "Confidence": 0.9937541
   }
 ]
