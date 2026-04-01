@@ -326,13 +326,5 @@
     "Domain": "socket.dev",
     "Description": "A supply chain attack on Axios introduced a malicious dependency, plain-crypto-js@4.2.1, published minutes earlier and absent from the project’s GitHu...",
     "Confidence": 0.97954655
-  },
-  {
-    "Title": ".NET CLI Shebangs and Argument Parsing | no dogma blog",
-    "Url": "https://nodogmablog.bryanhogan.net/2026/03/net-cli-shebangs-and-argument-parsing/",
-    "Timestamp": "2026-03-31T17:01:34",
-    "Domain": "nodogmablog.bryanhogan.net",
-    "Description": "Trying to pass something like -v or -h to a .NET CLI application that uses the shebang style of `dotnet run app.cs` can cause issues because `dotnet run` itself has options that conflict with the application's arguments. Here's how to work around that.",
-    "Confidence": 0.9921122
   }
 ]
