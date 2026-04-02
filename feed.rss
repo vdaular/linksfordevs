@@ -264,22 +264,5 @@ Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas</description>
       <guid>https://prismml.com/</guid>
       <pubDate>Wed, 01 Apr 2026 10:02:26 GMT</pubDate>
     </item>
-    <item>
-      <title>Claude Code Unpacked</title>
-      <link>https://ccunpacked.dev/</link>
-      <description>What actually happens when you type a message into Claude Code? The agent loop, 40+ tools, multi-agent orchestration, and unreleased features, mapped from source.</description>
-      <category>ai</category>
-      <guid>https://ccunpacked.dev/</guid>
-      <pubDate>Wed, 01 Apr 2026 09:02:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Joins are NOT Expensive! - Raw Reading</title>
-      <link>https://www.database-doctor.com/posts/joins-are-not-expensive</link>
-      <description>Joins are NOT Expensive! - Raw ReadingWhen talking about Data Lakes and how people access them - we must address some of the misconceptions that made them popular in the first place.</description>
-      <category>sql</category>
-      <category>vscode</category>
-      <guid>https://www.database-doctor.com/posts/joins-are-not-expensive</guid>
-      <pubDate>Wed, 01 Apr 2026 09:02:19 GMT</pubDate>
-    </item>
   </channel>
 </rss>
