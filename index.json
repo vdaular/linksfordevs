@@ -1,5 +1,13 @@
 [
   {
+    "Title": "The reputation of troubled YC startup Delve has gotten even worse | TechCrunch",
+    "Url": "https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/",
+    "Timestamp": "2026-04-02T22:01:55",
+    "Domain": "techcrunch.com",
+    "Description": "Delve faces new allegations that it violated the open source license of its customer, Sim.ai, by taking the customers's tool and passing it off as its own.",
+    "Confidence": 0.5973725
+  },
+  {
     "Title": "Artemis II will use laser beams to live-stream 4K moon footage at 260 Mbps — one giant step beyond the S-band radio comms of the Apollo era",
     "Url": "https://www.tomshardware.com/networking/artemis-ii-will-use-laser-beams-to-live-stream-4k-moon-footage-one-giant-step-beyond-the-s-band-radio-comms-of-the-apollo-era",
     "Timestamp": "2026-04-02T21:02:17",
@@ -198,13 +206,5 @@
     "Domain": "scottlocklin.wordpress.com",
     "Description": "One of the interesting things to contemplate is the scale of the internal combustion engine. It’s a very human scale device; pistons the size of fists, Valves about as wide as knuckles. It&#8…",
     "Confidence": 0.90381944
-  },
-  {
-    "Title": "DRAM pricing is killing the hobbyist SBC market",
-    "Url": "https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/",
-    "Timestamp": "2026-04-01T22:02:06",
-    "Domain": "www.jeffgeerling.com",
-    "Description": "Today Raspberry Pi announced more price increases for all Pis with LPDDR4 RAM, alongside a 'right-sized' 3GB RAM Pi 4 for $83.75.\nThe price increases bring the 16GB Pi 5 up to $299.99.\nDespite today's date, this is not a joke.\nI published a video going over the state of the hobbyist 'high end SBC' market (4/8/16 GB models in the current generation), which I'll embed below:\nBut if you'd like the tl;dr:",
-    "Confidence": 0.629779
   }
 ]

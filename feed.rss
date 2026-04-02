@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The reputation of troubled YC startup Delve has gotten even worse | TechCrunch</title>
+      <link>https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/</link>
+      <description>Delve faces new allegations that it violated the open source license of its customer, Sim.ai, by taking the customers's tool and passing it off as its own.</description>
+      <category>ai</category>
+      <guid>https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/</guid>
+      <pubDate>Thu, 02 Apr 2026 22:01:55 GMT</pubDate>
+    </item>
+    <item>
       <title>Artemis II will use laser beams to live-stream 4K moon footage at 260 Mbps — one giant step beyond the S-band radio comms of the Apollo era</title>
       <link>https://www.tomshardware.com/networking/artemis-ii-will-use-laser-beams-to-live-stream-4k-moon-footage-one-giant-step-beyond-the-s-band-radio-comms-of-the-apollo-era</link>
       <description>NASA's O2O system can handle 260 Mbps transfers and will give us the first glimpses of the far side of the moon.</description>
@@ -290,17 +298,6 @@ https://www.youtube.com/channel/UCs6KfncB4OV6Vug4o_bzijg/join
       <description>One of the interesting things to contemplate is the scale of the internal combustion engine. It’s a very human scale device; pistons the size of fists, Valves about as wide as knuckles. It&amp;#8…</description>
       <guid>https://scottlocklin.wordpress.com/2026/03/25/very-small-engines/</guid>
       <pubDate>Wed, 01 Apr 2026 23:02:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>DRAM pricing is killing the hobbyist SBC market</title>
-      <link>https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/</link>
-      <description>Today Raspberry Pi announced more price increases for all Pis with LPDDR4 RAM, alongside a 'right-sized' 3GB RAM Pi 4 for $83.75.
-The price increases bring the 16GB Pi 5 up to $299.99.
-Despite today's date, this is not a joke.
-I published a video going over the state of the hobbyist 'high end SBC' market (4/8/16 GB models in the current generation), which I'll embed below:
-But if you'd like the tl;dr:</description>
-      <guid>https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/</guid>
-      <pubDate>Wed, 01 Apr 2026 22:02:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
