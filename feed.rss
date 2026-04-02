@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Local AI for Text, Images, and Speech</title>
+      <link>https://lemonade-server.ai/</link>
+      <description>Open source. Private. Ready in minutes on any PC.</description>
+      <category>cloud</category>
+      <category>ai</category>
+      <category>linux</category>
+      <category>javascript</category>
+      <guid>https://lemonade-server.ai/</guid>
+      <pubDate>Thu, 02 Apr 2026 17:02:04 GMT</pubDate>
+    </item>
+    <item>
       <title>LinkedIn Is Illegally Searching Your Computer</title>
       <link>https://browsergate.eu/</link>
       <description>Microsoft is running one of the largest corporate espionage operations in modern history. Every time any of LinkedIn’s one billion users visits linkedin.com, hidden code searches their computer for installed software, collects the results, and transmits them to LinkedIn’s servers and to third-party companies including an American-Israeli cybersecurity firm.
