@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Qwen3.6-Plus: Towards Real World Agents",
+    "Url": "https://qwen.ai/blog?id=qwen3.6",
+    "Timestamp": "2026-04-02T19:02:10",
+    "Domain": "qwen.ai",
+    "Description": "QWEN CHAT DISCORD\nFollowing the release of the Qwen3.5 series in February, we are thrilled to announce the official launch of Qwen3.6-Plus. Available immediately via our API, this release represents a massive capability upgrade over its predecessor. Most notably, we have drastically enhanced the model’s agentic coding capabilities. From frontend web development to complex, repository-level problem solving, Qwen3.6-Plus sets a new state-of-the-art standard. Furthermore, Qwen3.6-Plus perceives the world with greater accuracy and sharper multimodal reasoning.",
+    "Confidence": 0.97640646
+  },
+  {
     "Title": "Breaking News: Axios Hacked, Anthropic Leaked!",
     "Url": "https://youtube.com/watch?v=W79cCY0T_as",
     "Timestamp": "2026-04-02T18:02:07",
