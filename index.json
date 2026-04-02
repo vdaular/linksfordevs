@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Artemis II will use laser beams to live-stream 4K moon footage at 260 Mbps — one giant step beyond the S-band radio comms of the Apollo era",
+    "Url": "https://www.tomshardware.com/networking/artemis-ii-will-use-laser-beams-to-live-stream-4k-moon-footage-one-giant-step-beyond-the-s-band-radio-comms-of-the-apollo-era",
+    "Timestamp": "2026-04-02T21:02:17",
+    "Domain": "www.tomshardware.com",
+    "Description": "NASA's O2O system can handle 260 Mbps transfers and will give us the first glimpses of the far side of the moon.",
+    "Confidence": 0.63030523
+  },
+  {
     "Title": "Qwen3.6-Plus: Towards Real World Agents",
     "Url": "https://qwen.ai/blog?id=qwen3.6",
     "Timestamp": "2026-04-02T19:02:10",
@@ -198,21 +206,5 @@
     "Domain": "www.jeffgeerling.com",
     "Description": "Today Raspberry Pi announced more price increases for all Pis with LPDDR4 RAM, alongside a 'right-sized' 3GB RAM Pi 4 for $83.75.\nThe price increases bring the 16GB Pi 5 up to $299.99.\nDespite today's date, this is not a joke.\nI published a video going over the state of the hobbyist 'high end SBC' market (4/8/16 GB models in the current generation), which I'll embed below:\nBut if you'd like the tl;dr:",
     "Confidence": 0.629779
-  },
-  {
-    "Title": "Creation",
-    "Url": "https://xkcd.com/3227/",
-    "Timestamp": "2026-04-01T21:02:11",
-    "Domain": "xkcd.com",
-    "Description": "",
-    "Confidence": 0.98151064
-  },
-  {
-    "Title": "NASA’s Artemis II Crew Launches to the Moon (Official Broadcast)",
-    "Url": "https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-launches-to-the-moon-official-broadcast/",
-    "Timestamp": "2026-04-01T21:02:08",
-    "Domain": "plus.nasa.gov",
-    "Description": "Artemis II is NASA’s first crewed mission under the Artemis program and will launch from the agency’s Kennedy Space Center in Florida. It will send NASA",
-    "Confidence": 0.9447768
   }
 ]

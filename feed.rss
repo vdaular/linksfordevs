@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Artemis II will use laser beams to live-stream 4K moon footage at 260 Mbps — one giant step beyond the S-band radio comms of the Apollo era</title>
+      <link>https://www.tomshardware.com/networking/artemis-ii-will-use-laser-beams-to-live-stream-4k-moon-footage-one-giant-step-beyond-the-s-band-radio-comms-of-the-apollo-era</link>
+      <description>NASA's O2O system can handle 260 Mbps transfers and will give us the first glimpses of the far side of the moon.</description>
+      <author> (https://www.tomshardware.com/author/mark-tyson)</author>
+      <guid>https://www.tomshardware.com/networking/artemis-ii-will-use-laser-beams-to-live-stream-4k-moon-footage-one-giant-step-beyond-the-s-band-radio-comms-of-the-apollo-era</guid>
+      <pubDate>Thu, 02 Apr 2026 21:02:17 GMT</pubDate>
+    </item>
+    <item>
       <title>Qwen3.6-Plus: Towards Real World Agents</title>
       <link>https://qwen.ai/blog?id=qwen3.6</link>
       <description>QWEN CHAT DISCORD
@@ -293,21 +301,6 @@ I published a video going over the state of the hobbyist 'high end SBC' market (
 But if you'd like the tl;dr:</description>
       <guid>https://www.jeffgeerling.com/blog/2026/dram-pricing-is-killing-the-hobbyist-sbc-market/</guid>
       <pubDate>Wed, 01 Apr 2026 22:02:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Creation</title>
-      <link>https://xkcd.com/3227/</link>
-      <description></description>
-      <category>javascript</category>
-      <guid>https://xkcd.com/3227/</guid>
-      <pubDate>Wed, 01 Apr 2026 21:02:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>NASA’s Artemis II Crew Launches to the Moon (Official Broadcast)</title>
-      <link>https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-launches-to-the-moon-official-broadcast/</link>
-      <description>Artemis II is NASA’s first crewed mission under the Artemis program and will launch from the agency’s Kennedy Space Center in Florida. It will send NASA</description>
-      <guid>https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-launches-to-the-moon-official-broadcast/</guid>
-      <pubDate>Wed, 01 Apr 2026 21:02:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
