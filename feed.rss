@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>LinkedIn Is Illegally Searching Your Computer</title>
+      <link>https://browsergate.eu/</link>
+      <description>Microsoft is running one of the largest corporate espionage operations in modern history. Every time any of LinkedIn’s one billion users visits linkedin.com, hidden code searches their computer for installed software, collects the results, and transmits them to LinkedIn’s servers and to third-party companies including an American-Israeli cybersecurity firm.
+The user is never asked. Never told. LinkedIn’s privacy policy does not mention it.
+Because LinkedIn knows each user’s real name, employer, and job title, it is not searching anonymous visitors. It is searching identified people at identified companies. Millions of companies. Every day. All over the world.</description>
+      <category>encryption</category>
+      <guid>https://browsergate.eu/</guid>
+      <pubDate>Thu, 02 Apr 2026 15:02:15 GMT</pubDate>
+    </item>
+    <item>
       <title>Google Is Closing Android. 37 Orgs Are Fighting Back.</title>
       <link>https://youtube.com/watch?v=5MZfGq5F1NU</link>
       <description>Almost 40 organizations, including Techlore, published an open letter to Google opposing Android Developer Verification, a program that would require all developers to register with Google before distributing apps on Android starting September 2026. Before explaining why we signed, I need to address something: the widely-circulated narrative that Google already backed down from this. They didn't, and that misunderstanding may be the most dangerous part of the story right now.
@@ -265,15 +275,6 @@ But if you'd like the tl;dr:</description>
       <category>git</category>
       <guid>https://blog.cloudflare.com/emdash-wordpress/</guid>
       <pubDate>Wed, 01 Apr 2026 20:02:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>I quit. The clankers won.</title>
-      <link>https://dbushell.com/2026/04/01/i-quit-the-clankers-won/</link>
-      <description>The one where I pack up my bags</description>
-      <category>ai</category>
-      <category>gaming</category>
-      <guid>https://dbushell.com/2026/04/01/i-quit-the-clankers-won/</guid>
-      <pubDate>Wed, 01 Apr 2026 15:02:14 GMT</pubDate>
     </item>
   </channel>
 </rss>
