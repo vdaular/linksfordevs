@@ -182,13 +182,5 @@
     "Domain": "dbushell.com",
     "Description": "The one where I pack up my bags",
     "Confidence": 0.83169854
-  },
-  {
-    "Title": "What is Copilot exactly?",
-    "Url": "https://idiallo.com/blog/what-is-copilot-exactly?src=feed",
-    "Timestamp": "2026-04-01T12:02:12",
-    "Domain": "idiallo.com",
-    "Description": "A coworker of mine told me that he uses Microsoft Copilot frequently. In fact, he said \"I don't know how I did my work without it.\" That came as a surprise to me. I can't stand Copilot. This is a very",
-    "Confidence": 0.9770481
   }
 ]
