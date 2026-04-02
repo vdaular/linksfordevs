@@ -7,6 +7,27 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Breaking News: Axios Hacked, Anthropic Leaked!</title>
+      <link>https://youtube.com/watch?v=W79cCY0T_as</link>
+      <description>Tech News for Smart People - The whole week in seven minutes!  That's like a minute per day... but can you absorb it all that fast?  Find out!
+
+Check out full episodes on the ShopTalk Channel!
+https://youtu.be/5Cu3FutvlJg</description>
+      <author> (Dave's Garage)</author>
+      <category>ai</category>
+      <category>youtube</category>
+      <guid>https://youtube.com/watch?v=W79cCY0T_as</guid>
+      <pubDate>Thu, 02 Apr 2026 18:02:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gemma 4</title>
+      <link>https://deepmind.google/models/gemma/gemma-4/</link>
+      <description>Our most intelligent open models, built from Gemini 3 research.</description>
+      <category>ai</category>
+      <guid>https://deepmind.google/models/gemma/gemma-4/</guid>
+      <pubDate>Thu, 02 Apr 2026 18:02:06 GMT</pubDate>
+    </item>
+    <item>
       <title>Local AI for Text, Images, and Speech</title>
       <link>https://lemonade-server.ai/</link>
       <description>Open source. Private. Ready in minutes on any PC.</description>

@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Breaking News: Axios Hacked, Anthropic Leaked!",
+    "Url": "https://youtube.com/watch?v=W79cCY0T_as",
+    "Timestamp": "2026-04-02T18:02:07",
+    "Domain": "youtube.com",
+    "Description": "Tech News for Smart People - The whole week in seven minutes!  That's like a minute per day... but can you absorb it all that fast?  Find out!\n\nCheck out full episodes on the ShopTalk Channel!\nhttps://youtu.be/5Cu3FutvlJg",
+    "Confidence": 0.98152035
+  },
+  {
+    "Title": "Gemma 4",
+    "Url": "https://deepmind.google/models/gemma/gemma-4/",
+    "Timestamp": "2026-04-02T18:02:06",
+    "Domain": "deepmind.google",
+    "Description": "Our most intelligent open models, built from Gemini 3 research.",
+    "Confidence": 0.97186244
+  },
+  {
     "Title": "Local AI for Text, Images, and Speech",
     "Url": "https://lemonade-server.ai/",
     "Timestamp": "2026-04-02T17:02:04",
