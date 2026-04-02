@@ -309,17 +309,5 @@ But if you'd like the tl;dr:</description>
       <guid>https://plus.nasa.gov/scheduled-video/nasas-artemis-ii-crew-launches-to-the-moon-official-broadcast/</guid>
       <pubDate>Wed, 01 Apr 2026 21:02:08 GMT</pubDate>
     </item>
-    <item>
-      <title>Introducing EmDash — the spiritual successor to WordPress that solves plugin security</title>
-      <link>https://blog.cloudflare.com/emdash-wordpress/</link>
-      <description>Today we are launching the beta of EmDash, a full-stack serverless JavaScript CMS built on Astro 6.0. It combines the features of a traditional CMS with modern security, running plugins in sandboxed Worker isolates.</description>
-      <category>nodejs</category>
-      <category>typescript</category>
-      <category>javascript</category>
-      <category>ai</category>
-      <category>git</category>
-      <guid>https://blog.cloudflare.com/emdash-wordpress/</guid>
-      <pubDate>Wed, 01 Apr 2026 20:02:24 GMT</pubDate>
-    </item>
   </channel>
 </rss>
