@@ -254,13 +254,5 @@
     "Domain": "deepmind.google",
     "Description": "Our most intelligent open models, built from Gemini 3 research.",
     "Confidence": 0.97186244
-  },
-  {
-    "Title": "Local AI for Text, Images, and Speech",
-    "Url": "https://lemonade-server.ai/",
-    "Timestamp": "2026-04-02T17:02:04",
-    "Domain": "lemonade-server.ai",
-    "Description": "Open source. Private. Ready in minutes on any PC.",
-    "Confidence": 0.9917954
   }
 ]

@@ -320,16 +320,5 @@ https://youtu.be/5Cu3FutvlJg</description>
       <guid>https://deepmind.google/models/gemma/gemma-4/</guid>
       <pubDate>Thu, 02 Apr 2026 18:02:06 GMT</pubDate>
     </item>
-    <item>
-      <title>Local AI for Text, Images, and Speech</title>
-      <link>https://lemonade-server.ai/</link>
-      <description>Open source. Private. Ready in minutes on any PC.</description>
-      <category>cloud</category>
-      <category>ai</category>
-      <category>linux</category>
-      <category>javascript</category>
-      <guid>https://lemonade-server.ai/</guid>
-      <pubDate>Thu, 02 Apr 2026 17:02:04 GMT</pubDate>
-    </item>
   </channel>
 </rss>
