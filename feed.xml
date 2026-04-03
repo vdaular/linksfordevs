@@ -7,6 +7,36 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Meet the new Cursor · Cursor</title>
+      <link>https://cursor.com/blog/cursor-3</link>
+      <description>Cursor 3 is a unified workspace for building software with agents.</description>
+      <category>ai</category>
+      <category>vscode</category>
+      <guid>https://cursor.com/blog/cursor-3</guid>
+      <pubDate>Fri, 03 Apr 2026 00:02:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stack Overflow</title>
+      <link>https://beta.stackoverflow.com/</link>
+      <description>Stack Overflow | The World’s Largest Online Community for Developers</description>
+      <category>android</category>
+      <category>python</category>
+      <category>nodejs</category>
+      <category>visualstudio</category>
+      <category>web</category>
+      <guid>https://beta.stackoverflow.com/</guid>
+      <pubDate>Fri, 03 Apr 2026 00:01:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>How notch traversal works on MacBooks</title>
+      <link>https://tailscale.com/blog/macos-notch-escape</link>
+      <description>Tailscale now has a full windowed UI. Before that, our app had to learn how to tell you it was hidden by The Notch.</description>
+      <category>apple</category>
+      <category>git</category>
+      <guid>https://tailscale.com/blog/macos-notch-escape</guid>
+      <pubDate>Fri, 03 Apr 2026 00:01:54 GMT</pubDate>
+    </item>
+    <item>
       <title>niki grayson (@nikigrayson.com)</title>
       <link>https://bsky.app/profile/nikigrayson.com/post/3miik2wzosk25</link>
       <description>right now the astronauts are calling houston because the computer on the spaceship is running two instances of microsoft outlook and they can't figure out why. nasa is about to remote into the computer</description>

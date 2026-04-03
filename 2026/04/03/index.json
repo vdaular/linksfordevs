@@ -1,0 +1,23 @@
+[
+  {
+    "Title": "Meet the new Cursor · Cursor",
+    "Url": "https://cursor.com/blog/cursor-3",
+    "Timestamp": "2026-04-03T00:02:03",
+    "Domain": "cursor.com",
+    "Description": "Cursor 3 is a unified workspace for building software with agents."
+  },
+  {
+    "Title": "Stack Overflow",
+    "Url": "https://beta.stackoverflow.com/",
+    "Timestamp": "2026-04-03T00:01:59",
+    "Domain": "beta.stackoverflow.com",
+    "Description": "Stack Overflow | The World’s Largest Online Community for Developers"
+  },
+  {
+    "Title": "How notch traversal works on MacBooks",
+    "Url": "https://tailscale.com/blog/macos-notch-escape",
+    "Timestamp": "2026-04-03T00:01:54",
+    "Domain": "tailscale.com",
+    "Description": "Tailscale now has a full windowed UI. Before that, our app had to learn how to tell you it was hidden by The Notch."
+  }
+]
