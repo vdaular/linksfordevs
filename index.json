@@ -1,5 +1,21 @@
 [
   {
+    "Title": "iNaturalist",
+    "Url": "https://www.inaturalist.org/",
+    "Timestamp": "2026-04-03T22:02:36",
+    "Domain": "www.inaturalist.org",
+    "Description": "iNaturalist is a social network for naturalists! Record your observations of plants and animals,\nshare them with friends and researchers, and learn about the natural world.\n",
+    "Confidence": 0.95476246
+  },
+  {
+    "Title": "blog | nworbmot:tombrown",
+    "Url": "https://nworbmot.org/blog/solar-battery-world.html",
+    "Timestamp": "2026-04-03T22:02:31",
+    "Domain": "nworbmot.org",
+    "Description": "First Posted: 2026.02.09, Last Revised: 2026.03.30, Author: Tom Brown",
+    "Confidence": 0.96394885
+  },
+  {
     "Title": "NHS staff refusing to use FDP over Palantir ethical concerns",
     "Url": "https://www.freevacy.com/news/financial-times/nhs-staff-refusing-to-use-fdp-over-palantir-ethical-concerns/7272",
     "Timestamp": "2026-04-03T18:02:16",
@@ -222,13 +238,5 @@
     "Domain": "bsky.app",
     "Description": "right now the astronauts are calling houston because the computer on the spaceship is running two instances of microsoft outlook and they can't figure out why. nasa is about to remote into the computer",
     "Confidence": 0.97124374
-  },
-  {
-    "Title": "The reputation of troubled YC startup Delve has gotten even worse | TechCrunch",
-    "Url": "https://techcrunch.com/2026/04/01/the-reputation-of-troubled-yc-startup-delve-has-gotten-even-worse/",
-    "Timestamp": "2026-04-02T22:01:55",
-    "Domain": "techcrunch.com",
-    "Description": "Delve faces new allegations that it violated the open source license of its customer, Sim.ai, by taking the customers's tool and passing it off as its own.",
-    "Confidence": 0.5973725
   }
 ]
