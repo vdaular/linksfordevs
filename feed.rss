@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>NHS staff refusing to use FDP over Palantir ethical concerns</title>
+      <link>https://www.freevacy.com/news/financial-times/nhs-staff-refusing-to-use-fdp-over-palantir-ethical-concerns/7272</link>
+      <description>A growing number of NHS staff are reportedly refusing to work on the&amp;nbsp;Federated Data Platform (FDP)&amp;nbsp;due to ethical concerns with its US-based provider, Palantir. The US technology company was...</description>
+      <category>youtube</category>
+      <category>web</category>
+      <guid>https://www.freevacy.com/news/financial-times/nhs-staff-refusing-to-use-fdp-over-palantir-ethical-concerns/7272</guid>
+      <pubDate>Fri, 03 Apr 2026 18:02:16 GMT</pubDate>
+    </item>
+    <item>
       <title>Build your own Dial-up ISP with a Raspberry Pi</title>
       <link>https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/</link>
       <description>Last year my aunt let me add her original Tangerine iBook G3 clamshell to my collection of old Macs1.
@@ -298,27 +307,6 @@ Following the release of the Qwen3.5 series in February, we are thrilled to anno
       <category>web</category>
       <guid>https://qwen.ai/blog?id=qwen3.6</guid>
       <pubDate>Thu, 02 Apr 2026 19:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Breaking News: Axios Hacked, Anthropic Leaked!</title>
-      <link>https://youtube.com/watch?v=W79cCY0T_as</link>
-      <description>Tech News for Smart People - The whole week in seven minutes!  That's like a minute per day... but can you absorb it all that fast?  Find out!
-
-Check out full episodes on the ShopTalk Channel!
-https://youtu.be/5Cu3FutvlJg</description>
-      <author> (Dave's Garage)</author>
-      <category>ai</category>
-      <category>youtube</category>
-      <guid>https://youtube.com/watch?v=W79cCY0T_as</guid>
-      <pubDate>Thu, 02 Apr 2026 18:02:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gemma 4</title>
-      <link>https://deepmind.google/models/gemma/gemma-4/</link>
-      <description>Our most intelligent open models, built from Gemini 3 research.</description>
-      <category>ai</category>
-      <guid>https://deepmind.google/models/gemma/gemma-4/</guid>
-      <pubDate>Thu, 02 Apr 2026 18:02:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
