@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>How Microsoft Vaporized a Trillion Dollars</title>
+      <link>https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion</link>
+      <description>Inside the complacency and decisions that eroded trust in Azure—from a former Azure Core engineer.</description>
+      <category>cloud</category>
+      <category>nodejs</category>
+      <category>linux</category>
+      <category>rust</category>
+      <category>containers</category>
+      <guid>https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion</guid>
+      <pubDate>Fri, 03 Apr 2026 02:02:12 GMT</pubDate>
+    </item>
+    <item>
       <title>It's getting hard to justify app stores</title>
       <link>https://codemade.net/blog/appstores-are-in-trouble/</link>
       <description>The app store model is broken, and it's only going to get worse with AI.</description>
