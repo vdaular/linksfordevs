@@ -230,13 +230,5 @@
     "Domain": "techcrunch.com",
     "Description": "Delve faces new allegations that it violated the open source license of its customer, Sim.ai, by taking the customers's tool and passing it off as its own.",
     "Confidence": 0.5973725
-  },
-  {
-    "Title": "Artemis II will use laser beams to live-stream 4K moon footage at 260 Mbps — one giant step beyond the S-band radio comms of the Apollo era",
-    "Url": "https://www.tomshardware.com/networking/artemis-ii-will-use-laser-beams-to-live-stream-4k-moon-footage-one-giant-step-beyond-the-s-band-radio-comms-of-the-apollo-era",
-    "Timestamp": "2026-04-02T21:02:17",
-    "Domain": "www.tomshardware.com",
-    "Description": "NASA's O2O system can handle 260 Mbps transfers and will give us the first glimpses of the far side of the moon.",
-    "Confidence": 0.63030523
   }
 ]
