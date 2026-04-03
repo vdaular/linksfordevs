@@ -238,13 +238,5 @@
     "Domain": "www.tomshardware.com",
     "Description": "NASA's O2O system can handle 260 Mbps transfers and will give us the first glimpses of the far side of the moon.",
     "Confidence": 0.63030523
-  },
-  {
-    "Title": "Qwen3.6-Plus: Towards Real World Agents",
-    "Url": "https://qwen.ai/blog?id=qwen3.6",
-    "Timestamp": "2026-04-02T19:02:10",
-    "Domain": "qwen.ai",
-    "Description": "QWEN CHAT DISCORD\nFollowing the release of the Qwen3.5 series in February, we are thrilled to announce the official launch of Qwen3.6-Plus. Available immediately via our API, this release represents a massive capability upgrade over its predecessor. Most notably, we have drastically enhanced the model’s agentic coding capabilities. From frontend web development to complex, repository-level problem solving, Qwen3.6-Plus sets a new state-of-the-art standard. Furthermore, Qwen3.6-Plus perceives the world with greater accuracy and sharper multimodal reasoning.",
-    "Confidence": 0.97640646
   }
 ]
