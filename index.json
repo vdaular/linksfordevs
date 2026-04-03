@@ -1,5 +1,133 @@
 [
   {
+    "Title": "It's getting hard to justify app stores",
+    "Url": "https://codemade.net/blog/appstores-are-in-trouble/",
+    "Timestamp": "2026-04-03T01:03:11",
+    "Domain": "codemade.net",
+    "Description": "The app store model is broken, and it's only going to get worse with AI.",
+    "Confidence": 0.9797716
+  },
+  {
+    "Title": "Why Lean? — Leonardo de Moura",
+    "Url": "https://leodemoura.github.io/blog/2026-4-2-why-lean/",
+    "Timestamp": "2026-04-03T01:03:07",
+    "Domain": "leodemoura.github.io",
+    "Description": "Leonardo de Moura — Creator of Lean and Z3",
+    "Confidence": 0.9951143
+  },
+  {
+    "Title": "Every dependency you add is a supply chain attack waiting to happen",
+    "Url": "https://benhoyt.com/writings/dependencies/",
+    "Timestamp": "2026-04-03T01:03:04",
+    "Domain": "benhoyt.com",
+    "Description": "Dependencies are a huge supply chain security risk; the more of them you have, and the more often you update, the bigger the attack surface.",
+    "Confidence": 0.97281384
+  },
+  {
+    "Title": "Top 10 Features in Mise You're Not Using",
+    "Url": "https://jdx.dev/posts/2026-03-02-10-mise-features/",
+    "Timestamp": "2026-04-03T01:03:01",
+    "Domain": "jdx.dev",
+    "Description": "Jeff Dickey's personal website",
+    "Confidence": 0.99719405
+  },
+  {
+    "Title": "Your Signups Are Lying to You",
+    "Url": "https://mvrckhckr.com/articles/your-signups-are-lying-to-you",
+    "Timestamp": "2026-04-03T01:02:58",
+    "Domain": "mvrckhckr.com",
+    "Description": "Zero conversions from 100 signups? Before fixing the funnel, ask why those people signed up. One question separates a product problem from a positioning one.",
+    "Confidence": 0.97624516
+  },
+  {
+    "Title": "Understanding Typography: Key Principles for Better Design",
+    "Url": "https://adamadam.blog/2026/04/01/my-notes-from-buttericks-practical-typography/",
+    "Timestamp": "2026-04-03T01:02:54",
+    "Domain": "adamadam.blog",
+    "Description": "Explore the principles of typography and its theatrical parallels in this insightful reflection on Butterick’s Practical Typography.",
+    "Confidence": 0.97725457
+  },
+  {
+    "Title": "On commit messages",
+    "Url": "https://agateau.com/2026/on-commit-messages/",
+    "Timestamp": "2026-04-03T01:02:51",
+    "Domain": "agateau.com",
+    "Description": "Source: XKCD #1296",
+    "Confidence": 0.9835443
+  },
+  {
+    "Title": "Is Claude Code 5x Cheaper Than Cursor?",
+    "Url": "https://www.ashu.co/claude-code-vs-cursor-pricing/",
+    "Timestamp": "2026-04-03T01:02:47",
+    "Domain": "www.ashu.co",
+    "Description": "I ran 12 side-by-side experiments. At the same $200/month, Claude Code delivered roughly 5x more agent-hours. Here's the data, methods, and nuances.",
+    "Confidence": 0.98649824
+  },
+  {
+    "Title": "vtables aren’t slow (usually)",
+    "Url": "https://louis.co.nz/2026/01/24/vtable-overhead.html",
+    "Timestamp": "2026-04-03T01:02:43",
+    "Domain": "louis.co.nz",
+    "Description": "A common critique of object-oriented programming - and modern programming more broadly - is its poor “mechanical sympathy”: code structured and executed without consideration for what executes it. Whether this matters to you is its own discussion, but understanding the critique and when it applies is worthwhile. One place to start is with polymorphism.",
+    "Confidence": 0.9954928
+  },
+  {
+    "Title": " Your BookStackApp project was assigned as a project for my Software Architecture course ·  Danb Blog",
+    "Url": "https://danb.me/blog/your-project-was-assigned/",
+    "Timestamp": "2026-04-03T01:02:40",
+    "Domain": "danb.me",
+    "Description": "Below is an email I received in December 2024, but this is just one example of various encounters\nI’ve had where students have been led to contribute to the project by their tutor.\nI don’t mind spending time to help assisting contributions from those that have a genuine interest in the project,\nas that can help foster a longer term contributor relationship which is healthy for the project overall,\nbut these contributions are often done with the core intent of passing course requirements.",
+    "Confidence": 0.95996046
+  },
+  {
+    "Title": "The Great Convergence",
+    "Url": "https://nicholascharriere.com/blog/the-great-convergence/#fn1?utm_source=hnblogs.substack.com",
+    "Timestamp": "2026-04-03T01:02:35",
+    "Domain": "nicholascharriere.com",
+    "Description": "Over the last year, a strange thing has happened in tech: very different companies have started moving towards the same product shape, and it feels like everyone is building the same thing.",
+    "Confidence": 0.99594265
+  },
+  {
+    "Title": "VCR and Crystal balls in claude's Leak",
+    "Url": "https://blog.mzfr.me/posts/2026-04-01-cc-vcr-cpu/",
+    "Timestamp": "2026-04-03T01:02:32",
+    "Domain": "blog.mzfr.me",
+    "Description": "After seeing the tweet from @Fried_rice and reading about the source leak of claude code I got curious. I moved to pi quite a while ago and since then have enjoyed the minimal and highly extensible setup it offers. But seeing the leak got me curious, what are the things in there that I could probably port as extensions in pi.\nNow while just going from one link to another I came across claw-code and claude-code they were supposed to be rewrites of claude code mostly to prevent DMCA take down. But the interesting thing has been their readmes. They cover the Buddy companion pet (a Tamagotchi with gacha mechanics), the Dream system (background memory consolidation), KAIROS (always-on assistant mode), ULTRAPLAN (30-minute remote Opus planning sessions), coordinator mode, agent swarms, Penguin Mode (the internal name for fast mode), and the fact that “Tengu” is the project codename.",
+    "Confidence": 0.9766495
+  },
+  {
+    "Title": "What Deserves an ERROR Log?",
+    "Url": "https://www.nishantjani.com/blog/accurate-error-logs/",
+    "Timestamp": "2026-04-03T01:02:23",
+    "Domain": "www.nishantjani.com",
+    "Description": "Reduce noise by adopting a clear mental model for what actually deserves an ERROR log.",
+    "Confidence": 0.99442387
+  },
+  {
+    "Title": "Software never had a soul",
+    "Url": "https://www.jmduke.com/posts/software-never-had-a-soul.html",
+    "Timestamp": "2026-04-03T01:02:19",
+    "Domain": "www.jmduke.com",
+    "Description": "Ryo Lu recently wrote: > The web was the same. Personal sites were genuinely personal. Blogs felt like letters. Forums had regulars. You knew who made what....",
+    "Confidence": 0.9639939
+  },
+  {
+    "Title": "Responding to the article by Fabisevich",
+    "Url": "https://kykvit.com/blog/opinions/On_value_of_code/",
+    "Timestamp": "2026-04-03T01:02:16",
+    "Domain": "kykvit.com",
+    "Description": "An impossible to ignore trend has formed around software development and \"code quality\": worse is better. Reading The Claude Code Leak pushed me to write down my thoughts on this topic.",
+    "Confidence": 0.9795931
+  },
+  {
+    "Title": "Skill Ratings and Matchmaking, Part 1",
+    "Url": "https://kalifi.org/2026/02/skill-ratings.html",
+    "Timestamp": "2026-04-03T01:02:11",
+    "Domain": "kalifi.org",
+    "Description": "A web log",
+    "Confidence": 0.9940942
+  },
+  {
     "Title": "Meet the new Cursor · Cursor",
     "Url": "https://cursor.com/blog/cursor-3",
     "Timestamp": "2026-04-03T00:02:03",
@@ -94,13 +222,5 @@
     "Domain": "youtube.com",
     "Description": "Almost 40 organizations, including Techlore, published an open letter to Google opposing Android Developer Verification, a program that would require all developers to register with Google before distributing apps on Android starting September 2026. Before explaining why we signed, I need to address something: the widely-circulated narrative that Google already backed down from this. They didn't, and that misunderstanding may be the most dangerous part of the story right now.\n\n⚡ Sponsored by Kotlin by JetBrains - The language helping power Signal, Mullvad VPN, F-Droid, and more. Start building cross-platform services today: https://links.techlore.tech/kotlin \n\n📱 RESOURCES IN VIDEO\n• Read the letter: https://keepandroidopen.org/open-letter/\n• Get Active & learn More: https://keepandroidopen.org/\n• Petition: https://www.change.org/p/stop-google-from-limiting-apk-file-usage\n• F-Droid Blog: https://f-droid.org/en/2026/02/24/open-letter-opposing-developer-verification.html\n\n🔎 RELATED VIDEOS\nhttps://www.youtube.com/watch?v=ZXULhqK-TtQ\nhttps://www.youtube.com/watch?v=wRvqdLsnsKY\nhttps://youtu.be/ZnYSwX45ODA\n\n🧡 SUPPORT TECHLORE\nSupport our mission to defend digital rights for everyone:\nhttps://www.youtube.com/channel/UCs6KfncB4OV6Vug4o_bzijg/join\n• All Our Support Methods: https://techlore.tech/support/\n\n🔐 MORE FROM TECHLORE\n• Homepage & Newsletter: https://techlore.tech\n• Our Course, Go Incognito: https://techlore.tech/go-incognito-course/\n• Privacy Tools: https://privacytools.techlore.tech/\n• VPN Comparison Chart: https://vpn.techlore.tech/\n\n⏱️ TIMESTAMPS\n00:00 - 37 Organizations Sign Open Letter\n00:36 - What Is Android Developer Verification?\n01:36 - Google \"Backed Down\"? The Truth\n03:48 - Why Techlore Signed\n05:02 - Our Sponsor: Kotlin by JetBrains\n06:34 - Common Questions & Misconceptions\n07:50 - What You Can Do Right Now\n09:54 - My final thoughts & positions\n#google #android #techlore",
     "Confidence": 0.9913201
-  },
-  {
-    "Title": "LIVE: Artemis II Launch Day Updates - NASA",
-    "Url": "https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/",
-    "Timestamp": "2026-04-02T01:01:53",
-    "Domain": "www.nasa.gov",
-    "Description": "Live updates for launch of NASA's Artemis II test flight will be published on this page. NASA’s launch broadcast coverage is airing",
-    "Confidence": 0.91354597
   }
 ]

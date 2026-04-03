@@ -1,5 +1,117 @@
 [
   {
+    "Title": "It's getting hard to justify app stores",
+    "Url": "https://codemade.net/blog/appstores-are-in-trouble/",
+    "Timestamp": "2026-04-03T01:03:11",
+    "Domain": "codemade.net",
+    "Description": "The app store model is broken, and it's only going to get worse with AI."
+  },
+  {
+    "Title": "Why Lean? — Leonardo de Moura",
+    "Url": "https://leodemoura.github.io/blog/2026-4-2-why-lean/",
+    "Timestamp": "2026-04-03T01:03:07",
+    "Domain": "leodemoura.github.io",
+    "Description": "Leonardo de Moura — Creator of Lean and Z3"
+  },
+  {
+    "Title": "Every dependency you add is a supply chain attack waiting to happen",
+    "Url": "https://benhoyt.com/writings/dependencies/",
+    "Timestamp": "2026-04-03T01:03:04",
+    "Domain": "benhoyt.com",
+    "Description": "Dependencies are a huge supply chain security risk; the more of them you have, and the more often you update, the bigger the attack surface."
+  },
+  {
+    "Title": "Top 10 Features in Mise You're Not Using",
+    "Url": "https://jdx.dev/posts/2026-03-02-10-mise-features/",
+    "Timestamp": "2026-04-03T01:03:01",
+    "Domain": "jdx.dev",
+    "Description": "Jeff Dickey's personal website"
+  },
+  {
+    "Title": "Your Signups Are Lying to You",
+    "Url": "https://mvrckhckr.com/articles/your-signups-are-lying-to-you",
+    "Timestamp": "2026-04-03T01:02:58",
+    "Domain": "mvrckhckr.com",
+    "Description": "Zero conversions from 100 signups? Before fixing the funnel, ask why those people signed up. One question separates a product problem from a positioning one."
+  },
+  {
+    "Title": "Understanding Typography: Key Principles for Better Design",
+    "Url": "https://adamadam.blog/2026/04/01/my-notes-from-buttericks-practical-typography/",
+    "Timestamp": "2026-04-03T01:02:54",
+    "Domain": "adamadam.blog",
+    "Description": "Explore the principles of typography and its theatrical parallels in this insightful reflection on Butterick’s Practical Typography."
+  },
+  {
+    "Title": "On commit messages",
+    "Url": "https://agateau.com/2026/on-commit-messages/",
+    "Timestamp": "2026-04-03T01:02:51",
+    "Domain": "agateau.com",
+    "Description": "Source: XKCD #1296"
+  },
+  {
+    "Title": "Is Claude Code 5x Cheaper Than Cursor?",
+    "Url": "https://www.ashu.co/claude-code-vs-cursor-pricing/",
+    "Timestamp": "2026-04-03T01:02:47",
+    "Domain": "www.ashu.co",
+    "Description": "I ran 12 side-by-side experiments. At the same $200/month, Claude Code delivered roughly 5x more agent-hours. Here's the data, methods, and nuances."
+  },
+  {
+    "Title": "vtables aren’t slow (usually)",
+    "Url": "https://louis.co.nz/2026/01/24/vtable-overhead.html",
+    "Timestamp": "2026-04-03T01:02:43",
+    "Domain": "louis.co.nz",
+    "Description": "A common critique of object-oriented programming - and modern programming more broadly - is its poor “mechanical sympathy”: code structured and executed without consideration for what executes it. Whether this matters to you is its own discussion, but understanding the critique and when it applies is worthwhile. One place to start is with polymorphism."
+  },
+  {
+    "Title": " Your BookStackApp project was assigned as a project for my Software Architecture course ·  Danb Blog",
+    "Url": "https://danb.me/blog/your-project-was-assigned/",
+    "Timestamp": "2026-04-03T01:02:40",
+    "Domain": "danb.me",
+    "Description": "Below is an email I received in December 2024, but this is just one example of various encounters\nI’ve had where students have been led to contribute to the project by their tutor.\nI don’t mind spending time to help assisting contributions from those that have a genuine interest in the project,\nas that can help foster a longer term contributor relationship which is healthy for the project overall,\nbut these contributions are often done with the core intent of passing course requirements."
+  },
+  {
+    "Title": "The Great Convergence",
+    "Url": "https://nicholascharriere.com/blog/the-great-convergence/#fn1?utm_source=hnblogs.substack.com",
+    "Timestamp": "2026-04-03T01:02:35",
+    "Domain": "nicholascharriere.com",
+    "Description": "Over the last year, a strange thing has happened in tech: very different companies have started moving towards the same product shape, and it feels like everyone is building the same thing."
+  },
+  {
+    "Title": "VCR and Crystal balls in claude's Leak",
+    "Url": "https://blog.mzfr.me/posts/2026-04-01-cc-vcr-cpu/",
+    "Timestamp": "2026-04-03T01:02:32",
+    "Domain": "blog.mzfr.me",
+    "Description": "After seeing the tweet from @Fried_rice and reading about the source leak of claude code I got curious. I moved to pi quite a while ago and since then have enjoyed the minimal and highly extensible setup it offers. But seeing the leak got me curious, what are the things in there that I could probably port as extensions in pi.\nNow while just going from one link to another I came across claw-code and claude-code they were supposed to be rewrites of claude code mostly to prevent DMCA take down. But the interesting thing has been their readmes. They cover the Buddy companion pet (a Tamagotchi with gacha mechanics), the Dream system (background memory consolidation), KAIROS (always-on assistant mode), ULTRAPLAN (30-minute remote Opus planning sessions), coordinator mode, agent swarms, Penguin Mode (the internal name for fast mode), and the fact that “Tengu” is the project codename."
+  },
+  {
+    "Title": "What Deserves an ERROR Log?",
+    "Url": "https://www.nishantjani.com/blog/accurate-error-logs/",
+    "Timestamp": "2026-04-03T01:02:23",
+    "Domain": "www.nishantjani.com",
+    "Description": "Reduce noise by adopting a clear mental model for what actually deserves an ERROR log."
+  },
+  {
+    "Title": "Software never had a soul",
+    "Url": "https://www.jmduke.com/posts/software-never-had-a-soul.html",
+    "Timestamp": "2026-04-03T01:02:19",
+    "Domain": "www.jmduke.com",
+    "Description": "Ryo Lu recently wrote: > The web was the same. Personal sites were genuinely personal. Blogs felt like letters. Forums had regulars. You knew who made what...."
+  },
+  {
+    "Title": "Responding to the article by Fabisevich",
+    "Url": "https://kykvit.com/blog/opinions/On_value_of_code/",
+    "Timestamp": "2026-04-03T01:02:16",
+    "Domain": "kykvit.com",
+    "Description": "An impossible to ignore trend has formed around software development and \"code quality\": worse is better. Reading The Claude Code Leak pushed me to write down my thoughts on this topic."
+  },
+  {
+    "Title": "Skill Ratings and Matchmaking, Part 1",
+    "Url": "https://kalifi.org/2026/02/skill-ratings.html",
+    "Timestamp": "2026-04-03T01:02:11",
+    "Domain": "kalifi.org",
+    "Description": "A web log"
+  },
+  {
     "Title": "Meet the new Cursor · Cursor",
     "Url": "https://cursor.com/blog/cursor-3",
     "Timestamp": "2026-04-03T00:02:03",

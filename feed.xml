@@ -7,6 +7,161 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>It's getting hard to justify app stores</title>
+      <link>https://codemade.net/blog/appstores-are-in-trouble/</link>
+      <description>The app store model is broken, and it's only going to get worse with AI.</description>
+      <category>android</category>
+      <category>ai</category>
+      <guid>https://codemade.net/blog/appstores-are-in-trouble/</guid>
+      <pubDate>Fri, 03 Apr 2026 01:03:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why Lean? — Leonardo de Moura</title>
+      <link>https://leodemoura.github.io/blog/2026-4-2-why-lean/</link>
+      <description>Leonardo de Moura — Creator of Lean and Z3</description>
+      <category>rust</category>
+      <category>encryption</category>
+      <category>ai</category>
+      <guid>https://leodemoura.github.io/blog/2026-4-2-why-lean/</guid>
+      <pubDate>Fri, 03 Apr 2026 01:03:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Every dependency you add is a supply chain attack waiting to happen</title>
+      <link>https://benhoyt.com/writings/dependencies/</link>
+      <description>Dependencies are a huge supply chain security risk; the more of them you have, and the more often you update, the bigger the attack surface.</description>
+      <guid>https://benhoyt.com/writings/dependencies/</guid>
+      <pubDate>Fri, 03 Apr 2026 01:03:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Top 10 Features in Mise You're Not Using</title>
+      <link>https://jdx.dev/posts/2026-03-02-10-mise-features/</link>
+      <description>Jeff Dickey's personal website</description>
+      <category>cloud</category>
+      <category>containers</category>
+      <category>nodejs</category>
+      <category>git</category>
+      <category>javascript</category>
+      <guid>https://jdx.dev/posts/2026-03-02-10-mise-features/</guid>
+      <pubDate>Fri, 03 Apr 2026 01:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Your Signups Are Lying to You</title>
+      <link>https://mvrckhckr.com/articles/your-signups-are-lying-to-you</link>
+      <description>Zero conversions from 100 signups? Before fixing the funnel, ask why those people signed up. One question separates a product problem from a positioning one.</description>
+      <category>sql</category>
+      <guid>https://mvrckhckr.com/articles/your-signups-are-lying-to-you</guid>
+      <pubDate>Fri, 03 Apr 2026 01:02:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Understanding Typography: Key Principles for Better Design</title>
+      <link>https://adamadam.blog/2026/04/01/my-notes-from-buttericks-practical-typography/</link>
+      <description>Explore the principles of typography and its theatrical parallels in this insightful reflection on Butterick’s Practical Typography.</description>
+      <category>ai</category>
+      <category>apple</category>
+      <category>web</category>
+      <guid>https://adamadam.blog/2026/04/01/my-notes-from-buttericks-practical-typography/</guid>
+      <pubDate>Fri, 03 Apr 2026 01:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>On commit messages</title>
+      <link>https://agateau.com/2026/on-commit-messages/</link>
+      <description>Source: XKCD #1296</description>
+      <category>git</category>
+      <category>ai</category>
+      <category>vscode</category>
+      <guid>https://agateau.com/2026/on-commit-messages/</guid>
+      <pubDate>Fri, 03 Apr 2026 01:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Is Claude Code 5x Cheaper Than Cursor?</title>
+      <link>https://www.ashu.co/claude-code-vs-cursor-pricing/</link>
+      <description>I ran 12 side-by-side experiments. At the same $200/month, Claude Code delivered roughly 5x more agent-hours. Here's the data, methods, and nuances.</description>
+      <category>ai</category>
+      <category>vscode</category>
+      <category>javascript</category>
+      <category>git</category>
+      <guid>https://www.ashu.co/claude-code-vs-cursor-pricing/</guid>
+      <pubDate>Fri, 03 Apr 2026 01:02:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>vtables aren’t slow (usually)</title>
+      <link>https://louis.co.nz/2026/01/24/vtable-overhead.html</link>
+      <description>A common critique of object-oriented programming - and modern programming more broadly - is its poor “mechanical sympathy”: code structured and executed without consideration for what executes it. Whether this matters to you is its own discussion, but understanding the critique and when it applies is worthwhile. One place to start is with polymorphism.</description>
+      <guid>https://louis.co.nz/2026/01/24/vtable-overhead.html</guid>
+      <pubDate>Fri, 03 Apr 2026 01:02:43 GMT</pubDate>
+    </item>
+    <item>
+      <title> Your BookStackApp project was assigned as a project for my Software Architecture course ·  Danb Blog</title>
+      <link>https://danb.me/blog/your-project-was-assigned/</link>
+      <description>Below is an email I received in December 2024, but this is just one example of various encounters
+I’ve had where students have been led to contribute to the project by their tutor.
+I don’t mind spending time to help assisting contributions from those that have a genuine interest in the project,
+as that can help foster a longer term contributor relationship which is healthy for the project overall,
+but these contributions are often done with the core intent of passing course requirements.</description>
+      <guid>https://danb.me/blog/your-project-was-assigned/</guid>
+      <pubDate>Fri, 03 Apr 2026 01:02:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Great Convergence</title>
+      <link>https://nicholascharriere.com/blog/the-great-convergence/#fn1?utm_source=hnblogs.substack.com</link>
+      <description>Over the last year, a strange thing has happened in tech: very different companies have started moving towards the same product shape, and it feels like everyone is building the same thing.</description>
+      <category>cloud</category>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://nicholascharriere.com/blog/the-great-convergence/#fn1?utm_source=hnblogs.substack.com</guid>
+      <pubDate>Fri, 03 Apr 2026 01:02:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>VCR and Crystal balls in claude's Leak</title>
+      <link>https://blog.mzfr.me/posts/2026-04-01-cc-vcr-cpu/</link>
+      <description>After seeing the tweet from @Fried_rice and reading about the source leak of claude code I got curious. I moved to pi quite a while ago and since then have enjoyed the minimal and highly extensible setup it offers. But seeing the leak got me curious, what are the things in there that I could probably port as extensions in pi.
+Now while just going from one link to another I came across claw-code and claude-code they were supposed to be rewrites of claude code mostly to prevent DMCA take down. But the interesting thing has been their readmes. They cover the Buddy companion pet (a Tamagotchi with gacha mechanics), the Dream system (background memory consolidation), KAIROS (always-on assistant mode), ULTRAPLAN (30-minute remote Opus planning sessions), coordinator mode, agent swarms, Penguin Mode (the internal name for fast mode), and the fact that “Tengu” is the project codename.</description>
+      <category>ai</category>
+      <category>containers</category>
+      <category>git</category>
+      <category>ruby</category>
+      <category>nodejs</category>
+      <guid>https://blog.mzfr.me/posts/2026-04-01-cc-vcr-cpu/</guid>
+      <pubDate>Fri, 03 Apr 2026 01:02:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>What Deserves an ERROR Log?</title>
+      <link>https://www.nishantjani.com/blog/accurate-error-logs/</link>
+      <description>Reduce noise by adopting a clear mental model for what actually deserves an ERROR log.</description>
+      <category>sql</category>
+      <category>javascript</category>
+      <guid>https://www.nishantjani.com/blog/accurate-error-logs/</guid>
+      <pubDate>Fri, 03 Apr 2026 01:02:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Software never had a soul</title>
+      <link>https://www.jmduke.com/posts/software-never-had-a-soul.html</link>
+      <description>Ryo Lu recently wrote: &gt; The web was the same. Personal sites were genuinely personal. Blogs felt like letters. Forums had regulars. You knew who made what....</description>
+      <category>gaming</category>
+      <category>web</category>
+      <guid>https://www.jmduke.com/posts/software-never-had-a-soul.html</guid>
+      <pubDate>Fri, 03 Apr 2026 01:02:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Responding to the article by Fabisevich</title>
+      <link>https://kykvit.com/blog/opinions/On_value_of_code/</link>
+      <description>An impossible to ignore trend has formed around software development and "code quality": worse is better. Reading The Claude Code Leak pushed me to write down my thoughts on this topic.</description>
+      <category>ai</category>
+      <category>nodejs</category>
+      <guid>https://kykvit.com/blog/opinions/On_value_of_code/</guid>
+      <pubDate>Fri, 03 Apr 2026 01:02:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Skill Ratings and Matchmaking, Part 1</title>
+      <link>https://kalifi.org/2026/02/skill-ratings.html</link>
+      <description>A web log</description>
+      <category>gaming</category>
+      <category>conference</category>
+      <category>ai</category>
+      <guid>https://kalifi.org/2026/02/skill-ratings.html</guid>
+      <pubDate>Fri, 03 Apr 2026 01:02:11 GMT</pubDate>
+    </item>
+    <item>
       <title>Meet the new Cursor · Cursor</title>
       <link>https://cursor.com/blog/cursor-3</link>
       <description>Cursor 3 is a unified workspace for building software with agents.</description>
@@ -161,14 +316,6 @@ https://www.youtube.com/channel/UCs6KfncB4OV6Vug4o_bzijg/join
       <category>web</category>
       <guid>https://youtube.com/watch?v=5MZfGq5F1NU</guid>
       <pubDate>Thu, 02 Apr 2026 13:02:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>LIVE: Artemis II Launch Day Updates - NASA</title>
-      <link>https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/</link>
-      <description>Live updates for launch of NASA's Artemis II test flight will be published on this page. NASA’s launch broadcast coverage is airing</description>
-      <category>youtube</category>
-      <guid>https://www.nasa.gov/blogs/missions/2026/04/01/live-artemis-ii-launch-day-updates/</guid>
-      <pubDate>Thu, 02 Apr 2026 01:01:53 GMT</pubDate>
     </item>
   </channel>
 </rss>
