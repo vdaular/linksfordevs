@@ -7,6 +7,24 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Zipbombs are not as effective as they used to be</title>
+      <link>https://idiallo.com/blog/zip-bombs-are-not-as-effective-as-they-used-to-be?src=feed</link>
+      <description>Last year, I wrote about my server setup and how I use zipbombs to mitigate attacks from rogue bots. It was an effective method that help my blog survive for 10 years. I usually hesitate to write thes</description>
+      <category>gaming</category>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://idiallo.com/blog/zip-bombs-are-not-as-effective-as-they-used-to-be?src=feed</guid>
+      <pubDate>Fri, 03 Apr 2026 12:02:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Day Counter</title>
+      <link>https://xkcd.com/3228/</link>
+      <description></description>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3228/</guid>
+      <pubDate>Fri, 03 Apr 2026 12:02:16 GMT</pubDate>
+    </item>
+    <item>
       <title>Programming (with AI agents) as theory building</title>
       <link>https://www.seangoedecke.com/programming-with-ai-agents-as-theory-building/</link>
       <description>Back in 1985, computer scientist Peter Naur wrote “Programming as Theory Building”. According to Naur - and I agree with him - the core output of software engineers is not the program itself, but the theory of how the program works. In other words, the knowledge inside the engineer’s mind is the primary artifact of engineering work, and the actual software is merely a by-product of that.</description>

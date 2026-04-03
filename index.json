@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Zipbombs are not as effective as they used to be",
+    "Url": "https://idiallo.com/blog/zip-bombs-are-not-as-effective-as-they-used-to-be?src=feed",
+    "Timestamp": "2026-04-03T12:02:21",
+    "Domain": "idiallo.com",
+    "Description": "Last year, I wrote about my server setup and how I use zipbombs to mitigate attacks from rogue bots. It was an effective method that help my blog survive for 10 years. I usually hesitate to write thes",
+    "Confidence": 0.97911495
+  },
+  {
+    "Title": "Day Counter",
+    "Url": "https://xkcd.com/3228/",
+    "Timestamp": "2026-04-03T12:02:16",
+    "Domain": "xkcd.com",
+    "Description": "",
+    "Confidence": 0.98151064
+  },
+  {
     "Title": "Programming (with AI agents) as theory building",
     "Url": "https://www.seangoedecke.com/programming-with-ai-agents-as-theory-building/",
     "Timestamp": "2026-04-03T10:02:16",
