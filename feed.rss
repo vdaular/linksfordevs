@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Oracle Files Thousands of H-1B Visa Petitions Amid Mass Layoffs - Austin Today</title>
+      <link>https://nationaltoday.com/us/tx/austin/news/2026/04/03/oracle-files-thousands-of-h-1b-visa-petitions-amid-mass-layoffs/</link>
+      <description>Oracle, the software company headquartered in Austin, Texas, has filed thousands of petitions for H-1B visas in the past two fiscal years, even as it lays off thousands of American workers as part of a broader organizational shift. Federal data shows Oracle filed for 2,690 H-1B visas in fiscal year 2025 and 436 so far in fiscal year 2026, totaling over 3,100 visa requests.</description>
+      <guid>https://nationaltoday.com/us/tx/austin/news/2026/04/03/oracle-files-thousands-of-h-1b-visa-petitions-amid-mass-layoffs/</guid>
+      <pubDate>Fri, 03 Apr 2026 23:02:19 GMT</pubDate>
+    </item>
+    <item>
       <title>iNaturalist</title>
       <link>https://www.inaturalist.org/</link>
       <description>iNaturalist is a social network for naturalists! Record your observations of plants and animals,
@@ -286,15 +293,6 @@ Now while just going from one link to another I came across claw-code and claude
       <category>git</category>
       <guid>https://tailscale.com/blog/macos-notch-escape</guid>
       <pubDate>Fri, 03 Apr 2026 00:01:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>niki grayson (@nikigrayson.com)</title>
-      <link>https://bsky.app/profile/nikigrayson.com/post/3miik2wzosk25</link>
-      <description>right now the astronauts are calling houston because the computer on the spaceship is running two instances of microsoft outlook and they can't figure out why. nasa is about to remote into the computer</description>
-      <category>vscode</category>
-      <category>git</category>
-      <guid>https://bsky.app/profile/nikigrayson.com/post/3miik2wzosk25</guid>
-      <pubDate>Thu, 02 Apr 2026 23:02:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
