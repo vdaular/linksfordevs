@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Build your own Dial-up ISP with a Raspberry Pi",
+    "Url": "https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/",
+    "Timestamp": "2026-04-03T15:02:00",
+    "Domain": "www.jeffgeerling.com",
+    "Description": "Last year my aunt let me add her original Tangerine iBook G3 clamshell to my collection of old Macs1.\nIt came with an AirPort card—a $99 add-on Apple made that ushered in the Wi-Fi era. The iBook G3 was the first consumer laptop with built-in Wi-Fi antennas, and by far the cheapest way to get a computer onto an 802.11 wireless network."
+  },
+  {
     "Title": "apfel - Free AI on Your Mac",
     "Url": "https://apfel.franzai.com/",
     "Timestamp": "2026-04-03T14:02:04",

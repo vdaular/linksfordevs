@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Build your own Dial-up ISP with a Raspberry Pi</title>
+      <link>https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/</link>
+      <description>Last year my aunt let me add her original Tangerine iBook G3 clamshell to my collection of old Macs1.
+It came with an AirPort card—a $99 add-on Apple made that ushered in the Wi-Fi era. The iBook G3 was the first consumer laptop with built-in Wi-Fi antennas, and by far the cheapest way to get a computer onto an 802.11 wireless network.</description>
+      <category>conference</category>
+      <category>ai</category>
+      <category>linux</category>
+      <category>web</category>
+      <guid>https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/</guid>
+      <pubDate>Fri, 03 Apr 2026 15:02:00 GMT</pubDate>
+    </item>
+    <item>
       <title>apfel - Free AI on Your Mac</title>
       <link>https://apfel.franzai.com/</link>
       <description>Use Apple's built-in AI from the terminal. No API keys, no cloud, no subscriptions. The LLM is already on your Mac.</description>
@@ -318,16 +330,6 @@ https://youtu.be/5Cu3FutvlJg</description>
       <category>javascript</category>
       <guid>https://lemonade-server.ai/</guid>
       <pubDate>Thu, 02 Apr 2026 17:02:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>LinkedIn Is Illegally Searching Your Computer</title>
-      <link>https://browsergate.eu/</link>
-      <description>Microsoft is running one of the largest corporate espionage operations in modern history. Every time any of LinkedIn’s one billion users visits linkedin.com, hidden code searches their computer for installed software, collects the results, and transmits them to LinkedIn’s servers and to third-party companies including an American-Israeli cybersecurity firm.
-The user is never asked. Never told. LinkedIn’s privacy policy does not mention it.
-Because LinkedIn knows each user’s real name, employer, and job title, it is not searching anonymous visitors. It is searching identified people at identified companies. Millions of companies. Every day. All over the world.</description>
-      <category>encryption</category>
-      <guid>https://browsergate.eu/</guid>
-      <pubDate>Thu, 02 Apr 2026 15:02:15 GMT</pubDate>
     </item>
   </channel>
 </rss>
