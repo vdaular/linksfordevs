@@ -1,0 +1,100 @@
+[
+  {
+    "Title": "Something Is Happening",
+    "Url": "https://rng.md/posts/something-is-happening/",
+    "Timestamp": "2026-04-04T00:03:31",
+    "Domain": "rng.md",
+    "Description": "Building things sparks joy. Everyone I talk to is shaking with excitement. I'm not sure where this goes, but it sure is fun."
+  },
+  {
+    "Title": "Are web apps really slower than native?",
+    "Url": "https://atfzl.com/are-web-apps-really-slower-than-native/",
+    "Timestamp": "2026-04-04T00:03:28",
+    "Domain": "atfzl.com",
+    "Description": "TL;DR\n\nWeb apps aren't slower than native apps. The web platform makes the performant path harder to reach than it should be. Native platforms bake perform..."
+  },
+  {
+    "Title": "Don't let Claude Code read your secrets: why you need to set up sandboxing today",
+    "Url": "https://ahmet.ee/your-claude-code-setup-is-probably-not-as-safe-as-you-think/",
+    "Timestamp": "2026-04-04T00:03:25",
+    "Domain": "ahmet.ee",
+    "Description": "Claude Code is powerful. It reads your files, runs commands, and edits your codebase. But its default setup doesn't stop it from reading your secrets. Deny rules won't help in bypass mode. Native sandboxing will."
+  },
+  {
+    "Title": "LLM coding is the wrong layer of abstraction",
+    "Url": "https://bbuyukliev.blogspot.com/2026/04/llm-coding-is-wrong-layer-of-abstraction.html",
+    "Timestamp": "2026-04-04T00:03:22",
+    "Domain": "bbuyukliev.blogspot.com",
+    "Description": "Conventional wisdom tells you that LLMs are good at automating the generation of boring, repetitive boilerplate code. I can agree, but why d..."
+  },
+  {
+    "Title": "Django Table, Filter and Export With Htmx | Fundor333",
+    "Url": "https://fundor333.com/post/2026/django-table-filter-export-with-htmx/",
+    "Timestamp": "2026-04-04T00:03:14",
+    "Domain": "fundor333.com",
+    "Description": "A little code fragment for show how to use in the same project Htmx, Django-table2 e Django-filters"
+  },
+  {
+    "Title": "Closing the Loop – Alexander Feldman's Blog",
+    "Url": "https://llama.gs/blog/index.php/2026/04/02/from-dsl-to-fpga-closing-the-loop/",
+    "Timestamp": "2026-04-04T00:03:09",
+    "Domain": "llama.gs",
+    "Description": "This quarter, 4,500 CEOs told PwC their AI investments produced nothing. Separately, someone used AI to rewrite SQLite in Rust — 2,000 times slower. I have a cunning plan: what if we used computers to do actual computing?"
+  },
+  {
+    "Title": "It was nice while it lasted",
+    "Url": "https://jacksthoughts.bearblog.dev/it-was-nice-while-it-lasted/",
+    "Timestamp": "2026-04-04T00:03:05",
+    "Domain": "jacksthoughts.bearblog.dev",
+    "Description": "I got into software engineering because I was always fascinated by getting computers to do stuff. It's been a dream to earn a living doing something I would ..."
+  },
+  {
+    "Title": "How the Claude Mythos leak happened",
+    "Url": "https://iter.ca/post/claude-cms/",
+    "Timestamp": "2026-04-04T00:03:02",
+    "Domain": "iter.ca",
+    "Description": "how????!?"
+  },
+  {
+    "Title": "Running out of Disk Space in Production",
+    "Url": "https://alt-romes.github.io/posts/2026-04-01-running-out-of-disk-space-on-launch.html",
+    "Timestamp": "2026-04-04T00:02:57",
+    "Domain": "alt-romes.github.io",
+    "Description": "A tale about misconfiguring nginx, from adventures in production"
+  },
+  {
+    "Title": "Thoughts on the SaaSpocalypse",
+    "Url": "https://www.davidbatey.com/blog/thoughts-on-the-saaspocalypse",
+    "Timestamp": "2026-04-04T00:02:54",
+    "Domain": "www.davidbatey.com",
+    "Description": "The multi dimensional threats of AI to SaaS businesses."
+  },
+  {
+    "Title": "The Vibecoders Are Coming For Us",
+    "Url": "https://coz.is/posts/vibecoders_are_coming_for_us.html",
+    "Timestamp": "2026-04-04T00:02:50",
+    "Domain": "coz.is",
+    "Description": "Oh man, the past few months were crazy. I went from extremely exhilarated to complete tragedy (in case you're living under a rock, I'm referring to AI coding)"
+  },
+  {
+    "Title": "How I Built an SMS Gateway with a $20 Android Phone",
+    "Url": "https://jonno.nz/posts/built-an-sms-gateway-with-a-20-dollar-android-phone/",
+    "Timestamp": "2026-04-04T00:02:47",
+    "Domain": "jonno.nz",
+    "Description": "Turn any Android phone into a programmable SMS gateway for your SaaS — no per-message fees, no carrier contracts, no vendor lock-in."
+  },
+  {
+    "Title": "Thomas Gazagnaire :: A CSS Engine in OCaml",
+    "Url": "https://gazagnaire.org/blog/2026-04-02-cascade.html",
+    "Timestamp": "2026-04-04T00:02:42",
+    "Domain": "gazagnaire.org",
+    "Description": "A typed CSS parser covering Level 3 through 5, a structural diff tool, and an optimiser. With a live browser demo via js_of_ocaml."
+  },
+  {
+    "Title": "A Case for Procrastination",
+    "Url": "https://elijahpotter.dev/articles/a-case-for-procrastination",
+    "Timestamp": "2026-04-04T00:02:36",
+    "Domain": "elijahpotter.dev",
+    "Description": "Or: why doing things at the last minute actually saves time. I talk about the importance of shockingly fast iteration cycles and lean manufacturing."
+  }
+]
