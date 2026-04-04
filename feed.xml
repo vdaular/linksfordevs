@@ -7,6 +7,23 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Embarrassingly Simple Self-Distillation Improves Code Generation</title>
+      <link>https://arxiv.org/abs/2604.01193</link>
+      <description>Can a large language model (LLM) improve at code generation using only its own raw outputs, without a verifier, a teacher model, or reinforcement learning? We answer in the affirmative with simple self-distillation (SSD): sample solutions from the model with certain temperature and truncation configurations, then fine-tune on those samples with standard supervised fine-tuning. SSD improves Qwen3-30B-Instruct from 42.4% to 55.3% pass@1 on LiveCodeBench v6, with gains concentrating on harder problems, and it generalizes across Qwen and Llama models at 4B, 8B, and 30B scale, including both instruct and thinking variants. To understand why such a simple method can work, we trace these gains to a precision-exploration conflict in LLM decoding and show that SSD reshapes token distributions in a context-dependent way, suppressing distractor tails where precision matters while preserving useful diversity where exploration matters. Taken together, SSD offers a complementary post-training direction for improving LLM code generation.</description>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://arxiv.org/abs/2604.01193</guid>
+      <pubDate>Sat, 04 Apr 2026 15:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>How To Write Unmaintainable Code</title>
+      <link>https://www.doc.ic.ac.uk/~susan/475/unmain.html</link>
+      <description>How To Write Unmaintainable Code in Java</description>
+      <category>git</category>
+      <guid>https://www.doc.ic.ac.uk/~susan/475/unmain.html</guid>
+      <pubDate>Sat, 04 Apr 2026 15:02:30 GMT</pubDate>
+    </item>
+    <item>
       <title>NVD - CVE-2026-33579</title>
       <link>https://nvd.nist.gov/vuln/detail/CVE-2026-33579</link>
       <description>OpenClaw before 2026.3.28 contains a privilege escalation vulnerability in the /pair approve command path that fails to forward caller scopes into the core approval check. A caller with pairing privileges but without admin privileges can approve pending device requests asking for broader scopes including admin access by exploiting the missing scope validation in extensions/device-pair/index.ts and src/infra/device-pairing.ts.</description>
@@ -180,18 +197,6 @@ share them with friends and researchers, and learn about the natural world.
       <category>web</category>
       <guid>https://www.freevacy.com/news/financial-times/nhs-staff-refusing-to-use-fdp-over-palantir-ethical-concerns/7272</guid>
       <pubDate>Fri, 03 Apr 2026 18:02:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Build your own Dial-up ISP with a Raspberry Pi</title>
-      <link>https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/</link>
-      <description>Last year my aunt let me add her original Tangerine iBook G3 clamshell to my collection of old Macs1.
-It came with an AirPort card—a $99 add-on Apple made that ushered in the Wi-Fi era. The iBook G3 was the first consumer laptop with built-in Wi-Fi antennas, and by far the cheapest way to get a computer onto an 802.11 wireless network.</description>
-      <category>conference</category>
-      <category>ai</category>
-      <category>linux</category>
-      <category>web</category>
-      <guid>https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/</guid>
-      <pubDate>Fri, 03 Apr 2026 15:02:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

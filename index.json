@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Embarrassingly Simple Self-Distillation Improves Code Generation",
+    "Url": "https://arxiv.org/abs/2604.01193",
+    "Timestamp": "2026-04-04T15:02:34",
+    "Domain": "arxiv.org",
+    "Description": "Can a large language model (LLM) improve at code generation using only its own raw outputs, without a verifier, a teacher model, or reinforcement learning? We answer in the affirmative with simple self-distillation (SSD): sample solutions from the model with certain temperature and truncation configurations, then fine-tune on those samples with standard supervised fine-tuning. SSD improves Qwen3-30B-Instruct from 42.4% to 55.3% pass@1 on LiveCodeBench v6, with gains concentrating on harder problems, and it generalizes across Qwen and Llama models at 4B, 8B, and 30B scale, including both instruct and thinking variants. To understand why such a simple method can work, we trace these gains to a precision-exploration conflict in LLM decoding and show that SSD reshapes token distributions in a context-dependent way, suppressing distractor tails where precision matters while preserving useful diversity where exploration matters. Taken together, SSD offers a complementary post-training direction for improving LLM code generation.",
+    "Confidence": 0.98860186
+  },
+  {
+    "Title": "How To Write Unmaintainable Code",
+    "Url": "https://www.doc.ic.ac.uk/~susan/475/unmain.html",
+    "Timestamp": "2026-04-04T15:02:30",
+    "Domain": "www.doc.ic.ac.uk",
+    "Description": "How To Write Unmaintainable Code in Java",
+    "Confidence": 0.98101234
+  },
+  {
     "Title": "NVD - CVE-2026-33579",
     "Url": "https://nvd.nist.gov/vuln/detail/CVE-2026-33579",
     "Timestamp": "2026-04-04T03:02:14",
@@ -150,13 +166,5 @@
     "Domain": "www.freevacy.com",
     "Description": "A growing number of NHS staff are reportedly refusing to work on the&nbsp;Federated Data Platform (FDP)&nbsp;due to ethical concerns with its US-based provider, Palantir. The US technology company was...",
     "Confidence": 0.8114143
-  },
-  {
-    "Title": "Build your own Dial-up ISP with a Raspberry Pi",
-    "Url": "https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/",
-    "Timestamp": "2026-04-03T15:02:00",
-    "Domain": "www.jeffgeerling.com",
-    "Description": "Last year my aunt let me add her original Tangerine iBook G3 clamshell to my collection of old Macs1.\nIt came with an AirPort card—a $99 add-on Apple made that ushered in the Wi-Fi era. The iBook G3 was the first consumer laptop with built-in Wi-Fi antennas, and by far the cheapest way to get a computer onto an 802.11 wireless network.",
-    "Confidence": 0.9782345
   }
 ]
