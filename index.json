@@ -150,21 +150,5 @@
     "Domain": "nationaltoday.com",
     "Description": "Oracle, the software company headquartered in Austin, Texas, has filed thousands of petitions for H-1B visas in the past two fiscal years, even as it lays off thousands of American workers as part of a broader organizational shift. Federal data shows Oracle filed for 2,690 H-1B visas in fiscal year 2025 and 436 so far in fiscal year 2026, totaling over 3,100 visa requests.",
     "Confidence": 0.5177466
-  },
-  {
-    "Title": "iNaturalist",
-    "Url": "https://www.inaturalist.org/",
-    "Timestamp": "2026-04-03T22:02:36",
-    "Domain": "www.inaturalist.org",
-    "Description": "iNaturalist is a social network for naturalists! Record your observations of plants and animals,\nshare them with friends and researchers, and learn about the natural world.\n",
-    "Confidence": 0.95476246
-  },
-  {
-    "Title": "blog | nworbmot:tombrown",
-    "Url": "https://nworbmot.org/blog/solar-battery-world.html",
-    "Timestamp": "2026-04-03T22:02:31",
-    "Domain": "nworbmot.org",
-    "Description": "First Posted: 2026.02.09, Last Revised: 2026.03.30, Author: Tom Brown",
-    "Confidence": 0.96394885
   }
 ]
