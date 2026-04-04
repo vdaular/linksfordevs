@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>How many products does Microsoft have named ‘Copilot’? I mapped every one</title>
+      <link>https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html</link>
+      <description>A few weeks ago, I tried to explain to someone what Microsoft Copilot is. I couldn’t… because the name ‘Copilot’ now refers to at least 75 different things.</description>
+      <category>web</category>
+      <guid>https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html</guid>
+      <pubDate>Sat, 04 Apr 2026 23:02:03 GMT</pubDate>
+    </item>
+    <item>
       <title>Mvidia</title>
       <link>https://jaso1024.com/mvidia/</link>
       <description>2.1</description>
@@ -171,13 +179,6 @@ Web apps aren't slower than native apps. The web platform makes the performant p
       <category>typescript</category>
       <guid>https://elijahpotter.dev/articles/a-case-for-procrastination</guid>
       <pubDate>Sat, 04 Apr 2026 00:02:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Oracle Files Thousands of H-1B Visa Petitions Amid Mass Layoffs - Austin Today</title>
-      <link>https://nationaltoday.com/us/tx/austin/news/2026/04/03/oracle-files-thousands-of-h-1b-visa-petitions-amid-mass-layoffs/</link>
-      <description>Oracle, the software company headquartered in Austin, Texas, has filed thousands of petitions for H-1B visas in the past two fiscal years, even as it lays off thousands of American workers as part of a broader organizational shift. Federal data shows Oracle filed for 2,690 H-1B visas in fiscal year 2025 and 436 so far in fiscal year 2026, totaling over 3,100 visa requests.</description>
-      <guid>https://nationaltoday.com/us/tx/austin/news/2026/04/03/oracle-files-thousands-of-h-1b-visa-petitions-amid-mass-layoffs/</guid>
-      <pubDate>Fri, 03 Apr 2026 23:02:19 GMT</pubDate>
     </item>
   </channel>
 </rss>
