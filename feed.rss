@@ -230,14 +230,5 @@ It came with an AirPort card—a $99 add-on Apple made that ushered in the Wi-Fi
       <guid>https://xkcd.com/3228/</guid>
       <pubDate>Fri, 03 Apr 2026 12:02:16 GMT</pubDate>
     </item>
-    <item>
-      <title>Programming (with AI agents) as theory building</title>
-      <link>https://www.seangoedecke.com/programming-with-ai-agents-as-theory-building/</link>
-      <description>Back in 1985, computer scientist Peter Naur wrote “Programming as Theory Building”. According to Naur - and I agree with him - the core output of software engineers is not the program itself, but the theory of how the program works. In other words, the knowledge inside the engineer’s mind is the primary artifact of engineering work, and the actual software is merely a by-product of that.</description>
-      <category>ai</category>
-      <category>linux</category>
-      <guid>https://www.seangoedecke.com/programming-with-ai-agents-as-theory-building/</guid>
-      <pubDate>Fri, 03 Apr 2026 10:02:16 GMT</pubDate>
-    </item>
   </channel>
 </rss>
