@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>NVD - CVE-2026-33579</title>
+      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-33579</link>
+      <description>OpenClaw before 2026.3.28 contains a privilege escalation vulnerability in the /pair approve command path that fails to forward caller scopes into the core approval check. A caller with pairing privileges but without admin privileges can approve pending device requests asking for broader scopes including admin access by exploiting the missing scope validation in extensions/device-pair/index.ts and src/infra/device-pairing.ts.</description>
+      <guid>https://nvd.nist.gov/vuln/detail/CVE-2026-33579</guid>
+      <pubDate>Sat, 04 Apr 2026 03:02:14 GMT</pubDate>
+    </item>
+    <item>
       <title>Something Is Happening</title>
       <link>https://rng.md/posts/something-is-happening/</link>
       <description>Building things sparks joy. Everyone I talk to is shaking with excitement. I'm not sure where this goes, but it sure is fun.</description>
