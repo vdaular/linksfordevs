@@ -193,17 +193,5 @@ It came with an AirPort card—a $99 add-on Apple made that ushered in the Wi-Fi
       <guid>https://www.jeffgeerling.com/blog/2026/build-your-own-dial-up-isp-with-a-raspberry-pi/</guid>
       <pubDate>Fri, 03 Apr 2026 15:02:00 GMT</pubDate>
     </item>
-    <item>
-      <title>apfel - Free AI on Your Mac</title>
-      <link>https://apfel.franzai.com/</link>
-      <description>Use Apple's built-in AI from the terminal. No API keys, no cloud, no subscriptions. The LLM is already on your Mac.</description>
-      <category>apple</category>
-      <category>cloud</category>
-      <category>git</category>
-      <category>javascript</category>
-      <category>ai</category>
-      <guid>https://apfel.franzai.com/</guid>
-      <pubDate>Fri, 03 Apr 2026 14:02:04 GMT</pubDate>
-    </item>
   </channel>
 </rss>
