@@ -158,13 +158,5 @@
     "Domain": "nworbmot.org",
     "Description": "First Posted: 2026.02.09, Last Revised: 2026.03.30, Author: Tom Brown",
     "Confidence": 0.96394885
-  },
-  {
-    "Title": "NHS staff refusing to use FDP over Palantir ethical concerns",
-    "Url": "https://www.freevacy.com/news/financial-times/nhs-staff-refusing-to-use-fdp-over-palantir-ethical-concerns/7272",
-    "Timestamp": "2026-04-03T18:02:16",
-    "Domain": "www.freevacy.com",
-    "Description": "A growing number of NHS staff are reportedly refusing to work on the&nbsp;Federated Data Platform (FDP)&nbsp;due to ethical concerns with its US-based provider, Palantir. The US technology company was...",
-    "Confidence": 0.8114143
   }
 ]
