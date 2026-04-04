@@ -190,13 +190,5 @@
     "Domain": "www.seangoedecke.com",
     "Description": "Back in 1985, computer scientist Peter Naur wrote “Programming as Theory Building”. According to Naur - and I agree with him - the core output of software engineers is not the program itself, but the theory of how the program works. In other words, the knowledge inside the engineer’s mind is the primary artifact of engineering work, and the actual software is merely a by-product of that.",
     "Confidence": 0.9959753
-  },
-  {
-    "Title": "How Microsoft Vaporized a Trillion Dollars",
-    "Url": "https://isolveproblems.substack.com/p/how-microsoft-vaporized-a-trillion",
-    "Timestamp": "2026-04-03T02:02:12",
-    "Domain": "isolveproblems.substack.com",
-    "Description": "Inside the complacency and decisions that eroded trust in Azure—from a former Azure Core engineer.",
-    "Confidence": 0.8156016
   }
 ]
