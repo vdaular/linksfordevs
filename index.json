@@ -166,13 +166,5 @@
     "Domain": "apfel.franzai.com",
     "Description": "Use Apple's built-in AI from the terminal. No API keys, no cloud, no subscriptions. The LLM is already on your Mac.",
     "Confidence": 0.99876875
-  },
-  {
-    "Title": "European Alternatives to US Products & Software | Only EU",
-    "Url": "https://only-eu.eu/en/",
-    "Timestamp": "2026-04-03T13:02:05",
-    "Domain": "only-eu.eu",
-    "Description": "Find European alternatives for software, daily products, and tech. Stricter environmental standards, fair working conditions, and data sovereignty – Made in Europe.",
-    "Confidence": 0.60875463
   }
 ]
