@@ -7,6 +7,207 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Leaving Middle East Till Things Cool</title>
+      <link>https://rozumem.xyz/posts/13</link>
+      <description>In early March, due to the unexpected war in the ME, I was contemplating my next move. Should I stay or leave? Flights were still taking off from Dubai, albeit at a limited frequency. Enterprising car rental companies were offering package deals to wealthy expats where they'd drive you to Oman and get you on a plane to wherever (Oman was more open so there were more flights to more places).</description>
+      <author> (rozumem)</author>
+      <category>ai</category>
+      <guid>https://rozumem.xyz/posts/13</guid>
+      <pubDate>Sun, 05 Apr 2026 23:03:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Framework? I sure hope it does</title>
+      <link>https://blog.valknight.xyz/framebroken.html</link>
+      <description>the good, the bad, and the very ugly of the framework laptop</description>
+      <category>linux</category>
+      <category>gaming</category>
+      <guid>https://blog.valknight.xyz/framebroken.html</guid>
+      <pubDate>Sun, 05 Apr 2026 23:03:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Impossible Bracket – Josh Pearlson</title>
+      <link>https://joshpearlson.com/articles/posts/impossible-bracket/impossible-bracket.html</link>
+      <description>The odds of a perfect March Madness bracket are 1 in 9.2 quintillion. Warren Buffett bet a billion dollars on it, and he was never worried about paying out.</description>
+      <category>encryption</category>
+      <category>gaming</category>
+      <category>cloud</category>
+      <guid>https://joshpearlson.com/articles/posts/impossible-bracket/impossible-bracket.html</guid>
+      <pubDate>Sun, 05 Apr 2026 23:03:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google AI Edge Gallery-app - App Store</title>
+      <link>https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337</link>
+      <description>Download Google AI Edge Gallery van Google in de App Store. Bekijk schermafbeeldingen, beoordelingen en recensies, gebruikerstips en meer apps zoals Google AI…</description>
+      <category>apple</category>
+      <category>ai</category>
+      <category>android</category>
+      <category>gaming</category>
+      <guid>https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337</guid>
+      <pubDate>Sun, 05 Apr 2026 23:03:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>I give up on neovim</title>
+      <link>https://bittich.be/posts/give-up-on-neovim/</link>
+      <description>Note:
+English is not my first language. The text below was written by me and corrected by an AI. I then corrected the AI’s corrected text, so there are probably still some wording errors
+In 2022, I made a New Year’s resolution to switch from Chrome to Firefox, and from VS Code to Neovim.
+My goal was to reduce my dependence on GAFAM tools, and it turned out to be a good decision considering this.</description>
+      <category>typescript</category>
+      <category>ruby</category>
+      <category>git</category>
+      <category>rust</category>
+      <category>android</category>
+      <guid>https://bittich.be/posts/give-up-on-neovim/</guid>
+      <pubDate>Sun, 05 Apr 2026 23:03:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to Get Better at Guitar</title>
+      <link>https://www.jakeworth.com/posts/how-to-get-better-at-guitar/</link>
+      <description>Years ago I watched a video where guitar teacher Justin Sandercoe explained a way to get better at guitar. It has changed my playing, and it might change yours, too.</description>
+      <category>ai</category>
+      <guid>https://www.jakeworth.com/posts/how-to-get-better-at-guitar/</guid>
+      <pubDate>Sun, 05 Apr 2026 23:03:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Codification Treadmill</title>
+      <link>https://www.dhanishsemar.com/writing/the-codification-treadmill</link>
+      <description>The person who replaces you probably won't be AI. It'll be someone from the next department over who learned to use it.</description>
+      <category>ai</category>
+      <guid>https://www.dhanishsemar.com/writing/the-codification-treadmill</guid>
+      <pubDate>Sun, 05 Apr 2026 23:03:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Good APIs Age Slowly</title>
+      <link>https://yusufaytas.com/good-apis-age-slowly/</link>
+      <description>Good APIs do not win on first impression. They survive change. This post looks at why stable APIs expose less, assume less, and age better over time.</description>
+      <author> (https://www.facebook.com/yusufaytas)</author>
+      <guid>https://yusufaytas.com/good-apis-age-slowly/</guid>
+      <pubDate>Sun, 05 Apr 2026 23:03:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Have you considered being more lucky?</title>
+      <link>http://dmitri.im/blog/have-you-considered-being-more-lucky/</link>
+      <description>Three tips on how to be more lucky.</description>
+      <category>ai</category>
+      <guid>http://dmitri.im/blog/have-you-considered-being-more-lucky/</guid>
+      <pubDate>Sun, 05 Apr 2026 23:03:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Is All Software Converging</title>
+      <link>https://jry.io/writing/is-all-software-converging/</link>
+      <description>Apr  5, 2026</description>
+      <category>rust</category>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://jry.io/writing/is-all-software-converging/</guid>
+      <pubDate>Sun, 05 Apr 2026 23:03:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fine-tuning Whisper to my speech: 27% to 6.5% WER</title>
+      <link>https://vivekkairi.com/fine-tuning-whisper-for-atypical-speech-pattern/</link>
+      <description>How I fine-tuned Whisper to recognize my atypical speech, dropping WER from 27% to 6.5% by freezing the decoder and only training the encoder.</description>
+      <category>ai</category>
+      <category>cloud</category>
+      <guid>https://vivekkairi.com/fine-tuning-whisper-for-atypical-speech-pattern/</guid>
+      <pubDate>Sun, 05 Apr 2026 23:03:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Don't Yell at Your LLM</title>
+      <link>https://marvin.beckers.dev/blog/dont-yell-at-your-llm/</link>
+      <description>LLMs don't have feelings, but they have a dataset based on human interaction. It's probably not a great idea to behave in a way that produced negative results in the dataset.</description>
+      <category>ai</category>
+      <category>sql</category>
+      <category>gaming</category>
+      <guid>https://marvin.beckers.dev/blog/dont-yell-at-your-llm/</guid>
+      <pubDate>Sun, 05 Apr 2026 23:03:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Anatomy of SMS Delivery: Routing and Carrier Flow</title>
+      <link>https://blog.bridgexapi.io/the-anatomy-of-sms-delivery-from-request-to-carrier</link>
+      <description>Most SMS APIs hide routing. This guide explains how SMS delivery really works, from API request to pricing, execution, tracking and carrier outcome</description>
+      <author> (https://blog.bridgexapi.io/@bridgexapi)</author>
+      <category>python</category>
+      <guid>https://blog.bridgexapi.io/the-anatomy-of-sms-delivery-from-request-to-carrier</guid>
+      <pubDate>Sun, 05 Apr 2026 23:02:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>How Claude Code Builds a System Prompt</title>
+      <link>https://www.dbreunig.com/2026/04/04/how-claude-code-builds-a-system-prompt.html</link>
+      <description>Context engineering in action.</description>
+      <category>ai</category>
+      <category>git</category>
+      <category>vscode</category>
+      <guid>https://www.dbreunig.com/2026/04/04/how-claude-code-builds-a-system-prompt.html</guid>
+      <pubDate>Sun, 05 Apr 2026 23:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>In Defense of Comments</title>
+      <link>https://www.nklswbr.com/blog/comments</link>
+      <description>Comments are the most interesting part of the internet.</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <category>sql</category>
+      <category>youtube</category>
+      <guid>https://www.nklswbr.com/blog/comments</guid>
+      <pubDate>Sun, 05 Apr 2026 23:02:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Domain-Driven Design: Lean Aggregates</title>
+      <link>https://deniskyashif.com/2026/04/04/domain-driven-design-lean-aggregates/</link>
+      <description>Design aggregates around true consistency boundaries, not around all related data, to keep domain logic clear and write paths performant as the system grows.</description>
+      <category>conference</category>
+      <guid>https://deniskyashif.com/2026/04/04/domain-driven-design-lean-aggregates/</guid>
+      <pubDate>Sun, 05 Apr 2026 23:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bazel is not scary anymore</title>
+      <link>https://stanislav.blog/bazel-is-not-scary-anymore/</link>
+      <description>LLMs have eliminated Bazel's biggest adoption barrier — the steep learning curve. They're fluent in Starlark, can generate BUILD files, and make getting started surprisingly easy.</description>
+      <category>ai</category>
+      <category>rust</category>
+      <category>typescript</category>
+      <category>python</category>
+      <guid>https://stanislav.blog/bazel-is-not-scary-anymore/</guid>
+      <pubDate>Sun, 05 Apr 2026 23:02:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>The browser is eating itself</title>
+      <link>https://fhoehl.com/future-browser</link>
+      <description>What is a web browser in a post-HTML and post-document era?
+</description>
+      <category>javascript</category>
+      <category>web</category>
+      <category>gaming</category>
+      <category>ai</category>
+      <category>rust</category>
+      <guid>https://fhoehl.com/future-browser</guid>
+      <pubDate>Sun, 05 Apr 2026 23:02:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Code freezes</title>
+      <link>https://jensrantil.github.io/posts/code-freeze/</link>
+      <description>Code freezes can undermine the very thing they are meant to protect.</description>
+      <category>sql</category>
+      <category>vscode</category>
+      <guid>https://jensrantil.github.io/posts/code-freeze/</guid>
+      <pubDate>Sun, 05 Apr 2026 23:02:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>My university uses prompt injection to catch cheaters</title>
+      <link>https://varun.ch/til/prompt-injection-catch-cheaters/</link>
+      <description>Web developer and cybersecurity researcher</description>
+      <guid>https://varun.ch/til/prompt-injection-catch-cheaters/</guid>
+      <pubDate>Sun, 05 Apr 2026 23:02:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Everything I hate about the Mac</title>
+      <link>https://blog.d11r.eu/mac/</link>
+      <description>_-_-_-_-_-_-_-</description>
+      <category>apple</category>
+      <guid>https://blog.d11r.eu/mac/</guid>
+      <pubDate>Sun, 05 Apr 2026 23:02:26 GMT</pubDate>
+    </item>
+    <item>
       <title>ILLEGAL 3D Rendering Techniques (N64)</title>
       <link>https://youtube.com/watch?v=xIUkoUEMf_g</link>
       <description>Upgrade Your Workspace with FlexiSpot! Enter my exclusive code 'KAZE50' and save an extra $50 on the C7 Max chair! Shop through Flexispot C7 Max：https://bit.ly/4cYtnPr -us https://bit.ly/4dCNMd4 -ca
@@ -216,14 +417,6 @@ I wondered this myself and thought that it was quite a natural way for the indus
       <category>apple</category>
       <guid>https://tn1ck.com/blog/abuse-hdr-images-for-marketing</guid>
       <pubDate>Sun, 05 Apr 2026 00:02:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>How many products does Microsoft have named ‘Copilot’? I mapped every one</title>
-      <link>https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html</link>
-      <description>A few weeks ago, I tried to explain to someone what Microsoft Copilot is. I couldn’t… because the name ‘Copilot’ now refers to at least 75 different things.</description>
-      <category>web</category>
-      <guid>https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html</guid>
-      <pubDate>Sat, 04 Apr 2026 23:02:03 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,152 @@
 [
   {
+    "Title": "Leaving Middle East Till Things Cool",
+    "Url": "https://rozumem.xyz/posts/13",
+    "Timestamp": "2026-04-05T23:03:49",
+    "Domain": "rozumem.xyz",
+    "Description": "In early March, due to the unexpected war in the ME, I was contemplating my next move. Should I stay or leave? Flights were still taking off from Dubai, albeit at a limited frequency. Enterprising car rental companies were offering package deals to wealthy expats where they'd drive you to Oman and get you on a plane to wherever (Oman was more open so there were more flights to more places)."
+  },
+  {
+    "Title": "Framework? I sure hope it does",
+    "Url": "https://blog.valknight.xyz/framebroken.html",
+    "Timestamp": "2026-04-05T23:03:45",
+    "Domain": "blog.valknight.xyz",
+    "Description": "the good, the bad, and the very ugly of the framework laptop"
+  },
+  {
+    "Title": "The Impossible Bracket – Josh Pearlson",
+    "Url": "https://joshpearlson.com/articles/posts/impossible-bracket/impossible-bracket.html",
+    "Timestamp": "2026-04-05T23:03:41",
+    "Domain": "joshpearlson.com",
+    "Description": "The odds of a perfect March Madness bracket are 1 in 9.2 quintillion. Warren Buffett bet a billion dollars on it, and he was never worried about paying out."
+  },
+  {
+    "Title": "Google AI Edge Gallery-app - App Store",
+    "Url": "https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337",
+    "Timestamp": "2026-04-05T23:03:37",
+    "Domain": "apps.apple.com",
+    "Description": "Download Google AI Edge Gallery van Google in de App Store. Bekijk schermafbeeldingen, beoordelingen en recensies, gebruikerstips en meer apps zoals Google AI…"
+  },
+  {
+    "Title": "I give up on neovim",
+    "Url": "https://bittich.be/posts/give-up-on-neovim/",
+    "Timestamp": "2026-04-05T23:03:33",
+    "Domain": "bittich.be",
+    "Description": "Note:\nEnglish is not my first language. The text below was written by me and corrected by an AI. I then corrected the AI’s corrected text, so there are probably still some wording errors\nIn 2022, I made a New Year’s resolution to switch from Chrome to Firefox, and from VS Code to Neovim.\nMy goal was to reduce my dependence on GAFAM tools, and it turned out to be a good decision considering this."
+  },
+  {
+    "Title": "How to Get Better at Guitar",
+    "Url": "https://www.jakeworth.com/posts/how-to-get-better-at-guitar/",
+    "Timestamp": "2026-04-05T23:03:28",
+    "Domain": "www.jakeworth.com",
+    "Description": "Years ago I watched a video where guitar teacher Justin Sandercoe explained a way to get better at guitar. It has changed my playing, and it might change yours, too."
+  },
+  {
+    "Title": "The Codification Treadmill",
+    "Url": "https://www.dhanishsemar.com/writing/the-codification-treadmill",
+    "Timestamp": "2026-04-05T23:03:24",
+    "Domain": "www.dhanishsemar.com",
+    "Description": "The person who replaces you probably won't be AI. It'll be someone from the next department over who learned to use it."
+  },
+  {
+    "Title": "Good APIs Age Slowly",
+    "Url": "https://yusufaytas.com/good-apis-age-slowly/",
+    "Timestamp": "2026-04-05T23:03:21",
+    "Domain": "yusufaytas.com",
+    "Description": "Good APIs do not win on first impression. They survive change. This post looks at why stable APIs expose less, assume less, and age better over time."
+  },
+  {
+    "Title": "Have you considered being more lucky?",
+    "Url": "http://dmitri.im/blog/have-you-considered-being-more-lucky/",
+    "Timestamp": "2026-04-05T23:03:17",
+    "Domain": "dmitri.im",
+    "Description": "Three tips on how to be more lucky."
+  },
+  {
+    "Title": "Is All Software Converging",
+    "Url": "https://jry.io/writing/is-all-software-converging/",
+    "Timestamp": "2026-04-05T23:03:13",
+    "Domain": "jry.io",
+    "Description": "Apr  5, 2026"
+  },
+  {
+    "Title": "Fine-tuning Whisper to my speech: 27% to 6.5% WER",
+    "Url": "https://vivekkairi.com/fine-tuning-whisper-for-atypical-speech-pattern/",
+    "Timestamp": "2026-04-05T23:03:10",
+    "Domain": "vivekkairi.com",
+    "Description": "How I fine-tuned Whisper to recognize my atypical speech, dropping WER from 27% to 6.5% by freezing the decoder and only training the encoder."
+  },
+  {
+    "Title": "Don't Yell at Your LLM",
+    "Url": "https://marvin.beckers.dev/blog/dont-yell-at-your-llm/",
+    "Timestamp": "2026-04-05T23:03:06",
+    "Domain": "marvin.beckers.dev",
+    "Description": "LLMs don't have feelings, but they have a dataset based on human interaction. It's probably not a great idea to behave in a way that produced negative results in the dataset."
+  },
+  {
+    "Title": "The Anatomy of SMS Delivery: Routing and Carrier Flow",
+    "Url": "https://blog.bridgexapi.io/the-anatomy-of-sms-delivery-from-request-to-carrier",
+    "Timestamp": "2026-04-05T23:02:59",
+    "Domain": "blog.bridgexapi.io",
+    "Description": "Most SMS APIs hide routing. This guide explains how SMS delivery really works, from API request to pricing, execution, tracking and carrier outcome"
+  },
+  {
+    "Title": "How Claude Code Builds a System Prompt",
+    "Url": "https://www.dbreunig.com/2026/04/04/how-claude-code-builds-a-system-prompt.html",
+    "Timestamp": "2026-04-05T23:02:54",
+    "Domain": "www.dbreunig.com",
+    "Description": "Context engineering in action."
+  },
+  {
+    "Title": "In Defense of Comments",
+    "Url": "https://www.nklswbr.com/blog/comments",
+    "Timestamp": "2026-04-05T23:02:50",
+    "Domain": "www.nklswbr.com",
+    "Description": "Comments are the most interesting part of the internet."
+  },
+  {
+    "Title": "Domain-Driven Design: Lean Aggregates",
+    "Url": "https://deniskyashif.com/2026/04/04/domain-driven-design-lean-aggregates/",
+    "Timestamp": "2026-04-05T23:02:44",
+    "Domain": "deniskyashif.com",
+    "Description": "Design aggregates around true consistency boundaries, not around all related data, to keep domain logic clear and write paths performant as the system grows."
+  },
+  {
+    "Title": "Bazel is not scary anymore",
+    "Url": "https://stanislav.blog/bazel-is-not-scary-anymore/",
+    "Timestamp": "2026-04-05T23:02:40",
+    "Domain": "stanislav.blog",
+    "Description": "LLMs have eliminated Bazel's biggest adoption barrier — the steep learning curve. They're fluent in Starlark, can generate BUILD files, and make getting started surprisingly easy."
+  },
+  {
+    "Title": "The browser is eating itself",
+    "Url": "https://fhoehl.com/future-browser",
+    "Timestamp": "2026-04-05T23:02:37",
+    "Domain": "fhoehl.com",
+    "Description": "What is a web browser in a post-HTML and post-document era?\n"
+  },
+  {
+    "Title": "Code freezes",
+    "Url": "https://jensrantil.github.io/posts/code-freeze/",
+    "Timestamp": "2026-04-05T23:02:33",
+    "Domain": "jensrantil.github.io",
+    "Description": "Code freezes can undermine the very thing they are meant to protect."
+  },
+  {
+    "Title": "My university uses prompt injection to catch cheaters",
+    "Url": "https://varun.ch/til/prompt-injection-catch-cheaters/",
+    "Timestamp": "2026-04-05T23:02:30",
+    "Domain": "varun.ch",
+    "Description": "Web developer and cybersecurity researcher"
+  },
+  {
+    "Title": "Everything I hate about the Mac",
+    "Url": "https://blog.d11r.eu/mac/",
+    "Timestamp": "2026-04-05T23:02:26",
+    "Domain": "blog.d11r.eu",
+    "Description": "_-_-_-_-_-_-_-"
+  },
+  {
     "Title": "ILLEGAL 3D Rendering Techniques (N64)",
     "Url": "https://youtube.com/watch?v=xIUkoUEMf_g",
     "Timestamp": "2026-04-05T22:02:06",
