@@ -1,5 +1,117 @@
 [
   {
+    "Title": "Know why you don't like OOP",
+    "Url": "https://zylinski.se/posts/know-why-you-dont-like-oop/",
+    "Timestamp": "2026-04-05T00:03:06",
+    "Domain": "zylinski.se",
+    "Description": "Programmers tend to fight about why Object-Oriented Programming (OOP) is good or bad.\nAmong the anti-OOP crowd, I often see junior programmers hate on OOP and “rebroadcast” what they’ve heard experienced programmers say. But when challenged to explain why OOP is bad, they have a hard time explaining it. It’s usually because they haven’t really experienced those things first hand.\nI’d like to take a positive spin on this and say: Just write your code in a way that makes sense to you.",
+    "Confidence": 0.995973
+  },
+  {
+    "Title": "Detecting Defects in Software Systems",
+    "Url": "https://lasse.hels.dk/detecting-defects-in-software-systems/",
+    "Timestamp": "2026-04-05T00:03:02",
+    "Domain": "lasse.hels.dk",
+    "Description": "Throughout my time working with complex distributed systems, I have learned that consistently detecting systemic issues is surprisingly difficult and a bit of an art. The canonical way to do this is to set up alerts that notify an engineer when something is wrong. I have personally written many terrible alerts and regret having subjected myself and colleagues to the pain of such useless alerts.\nCore Tenets My opinions on alerting revolve around three tenets.",
+    "Confidence": 0.9782733
+  },
+  {
+    "Title": "An introduction to Turing machines and computation",
+    "Url": "https://max-amb.github.io/blog/an_introduction_to_turing_machines_and_computation/",
+    "Timestamp": "2026-04-05T00:02:59",
+    "Domain": "max-amb.github.io",
+    "Description": "Contents Introduction Should you read this? The Turing machine The intuitive approach A mathematical approach Languages Words/Strings Languages from words Distinguishing Turing machines with respect to a language A recogniser A decider Distinguishing languages A first result Proof of Turing-recognisability A second, more exciting result Proof of non-decidability A discussion of the proof The halting problem? (and conclusion) Introduction This blog aims to provide a short (but slightly longer than intended), and potentially useful, introduction to Turing machines. Turing machines are so fundamental to Computer Science and the study of computability (i.e. can this thing be computed? In finite time?), that an understanding of the key elements and results can only further one’s appreciation for the field.",
+    "Confidence": 0.99049723
+  },
+  {
+    "Title": "Towards Autonomous Protocol Proofs",
+    "Url": "https://will62794.github.io/formal-methods/2026/04/03/autonomous-protocol-proofs.html",
+    "Timestamp": "2026-04-05T00:02:54",
+    "Domain": "will62794.github.io",
+    "Description": "Writing formal proofs for distributed protocols is tedious and usually not worth the effort for real-world systems. In general, you have to come up with an inductive invariant which is already a very difficult task. At least a few separate PhD theses were entirely devoted to automating this task in the past few years, and they still usually don’t scale beyond protocols of a moderate size. After coming up with an inductive invariant, you then also need to prove that invariant is actually inductive, which on its own can be another difficult task. In most cases, even automating this checking step is undecidable.",
+    "Confidence": 0.9950636
+  },
+  {
+    "Title": "Are we building IDEs for engineers anymore?",
+    "Url": "https://shub.club/writings/2026/april/who-are-these-ides-for/",
+    "Timestamp": "2026-04-05T00:02:51",
+    "Domain": "shub.club",
+    "Description": "IDE or ADE, or money printer",
+    "Confidence": 0.95916414
+  },
+  {
+    "Title": "Automation Without Intention Is Just Faster Chaos",
+    "Url": "https://markhuang.ai/blog/automation-without-intention-is-just-faster-chaos",
+    "Timestamp": "2026-04-05T00:02:47",
+    "Domain": "markhuang.ai",
+    "Description": "Three failed pipeline architectures, a lesson about backpressure, and the UAT gate that finally made multi-AI vibe coding work. An experience-sharing post about what broke, what survived, and why knowing what you want matters more than the tools you use.",
+    "Confidence": 0.98372906
+  },
+  {
+    "Title": "Just because it's work shaped doesn't make it productive",
+    "Url": "https://nishtahir.com/just-because-its-work-shaped-doesnt-make-it-productive/",
+    "Timestamp": "2026-04-05T00:02:43",
+    "Domain": "nishtahir.com",
+    "Description": "AI Assisted/Agentic programming are pretty common place at this point. The growing sentiment seems to be that if you can't find some sort of benefit in your workflow, it's more of a skill issue than a problem with the tools. Whether you believe this to be true is really",
+    "Confidence": 0.9676389
+  },
+  {
+    "Title": "blazelight.dev",
+    "Url": "https://blazelight.dev/blog/ms2160.mdx",
+    "Timestamp": "2026-04-05T00:02:39",
+    "Domain": "blazelight.dev",
+    "Description": "I do things on the computer.",
+    "Confidence": 0.9917375
+  },
+  {
+    "Title": "Three months of agentic coding",
+    "Url": "https://meertens.dev/blog/three-months-of-agentic-coding/index.html",
+    "Timestamp": "2026-04-05T00:02:34",
+    "Domain": "meertens.dev",
+    "Description": "Last month I wrote my experience with AI-generated coding on this blog(two months as a vibe coder). I got a lot of positive feedback, so I created another chart for my work up till this months and wrote down the thoughts I had this month.",
+    "Confidence": 0.9903805
+  },
+  {
+    "Title": "How to Evaluate Claude Skill Output Quality for Prompt-to-SQL Scenarios",
+    "Url": "https://dekart.xyz/blog/how-to-evaluate-claude-skill-output-quality-for-prompt-to-sql-scenarios/",
+    "Timestamp": "2026-04-05T00:02:30",
+    "Domain": "dekart.xyz",
+    "Description": "Implementing the Agent Skills eval spec for a prompt-to-SQL Skill: same-session grading, domain-knowledge assertions, and the eval runner architecture.",
+    "Confidence": 0.99066406
+  },
+  {
+    "Title": "A diary of an agentic retro-gamer - Part 1",
+    "Url": "https://keanw.com/2026/03/a-diary-of-an-agentic-retro-gamer-part-1.html",
+    "Timestamp": "2026-04-05T00:02:27",
+    "Domain": "keanw.com",
+    "Description": "This is the first part of a guest series by Patrick Nadeau, a member of the Research Engineering team based in Canada. I mentioned it in this recent post. Patrick is a great writer and a very experienced developer who gives a personal, nuanced perspective on his explorations of using agentic coding tools to solve a really interesting programming challenge.",
+    "Confidence": 0.8026471
+  },
+  {
+    "Title": "Why domain specific LLMs won’t exist: an intuition",
+    "Url": "https://simianwords.bearblog.dev/why-domain-specific-llms-wont-exist-an-intuition/",
+    "Timestamp": "2026-04-05T00:02:23",
+    "Domain": "simianwords.bearblog.dev",
+    "Description": "Why not have different models for different capabilities? \n\nI wondered this myself and thought that it was quite a natural way for the industry to progress...",
+    "Confidence": 0.98679703
+  },
+  {
+    "Title": "With the right cache, multiple 800K Opus sessions are still affordable",
+    "Url": "https://matrix.dev/blog-2026-04-04",
+    "Timestamp": "2026-04-05T00:02:20",
+    "Domain": "matrix.dev",
+    "Description": "One developer, team-quality code — powered by multi-agent AI",
+    "Confidence": 0.954513
+  },
+  {
+    "Title": "(Ab)use HDR images for marketing",
+    "Url": "https://tn1ck.com/blog/abuse-hdr-images-for-marketing",
+    "Timestamp": "2026-04-05T00:02:16",
+    "Domain": "tn1ck.com",
+    "Description": "How HDR images can make logos and highlights appear unnaturally bright, and how to create them yourself.",
+    "Confidence": 0.9828752
+  },
+  {
     "Title": "How many products does Microsoft have named ‘Copilot’? I mapped every one",
     "Url": "https://teybannerman.com/strategy/2026/03/31/how-many-microsoft-copilot-are-there.html",
     "Timestamp": "2026-04-04T23:02:03",
@@ -38,117 +150,5 @@
     "Domain": "nvd.nist.gov",
     "Description": "OpenClaw before 2026.3.28 contains a privilege escalation vulnerability in the /pair approve command path that fails to forward caller scopes into the core approval check. A caller with pairing privileges but without admin privileges can approve pending device requests asking for broader scopes including admin access by exploiting the missing scope validation in extensions/device-pair/index.ts and src/infra/device-pairing.ts.",
     "Confidence": 0.95010936
-  },
-  {
-    "Title": "Something Is Happening",
-    "Url": "https://rng.md/posts/something-is-happening/",
-    "Timestamp": "2026-04-04T00:03:31",
-    "Domain": "rng.md",
-    "Description": "Building things sparks joy. Everyone I talk to is shaking with excitement. I'm not sure where this goes, but it sure is fun.",
-    "Confidence": 0.9667349
-  },
-  {
-    "Title": "Are web apps really slower than native?",
-    "Url": "https://atfzl.com/are-web-apps-really-slower-than-native/",
-    "Timestamp": "2026-04-04T00:03:28",
-    "Domain": "atfzl.com",
-    "Description": "TL;DR\n\nWeb apps aren't slower than native apps. The web platform makes the performant path harder to reach than it should be. Native platforms bake perform...",
-    "Confidence": 0.9879556
-  },
-  {
-    "Title": "Don't let Claude Code read your secrets: why you need to set up sandboxing today",
-    "Url": "https://ahmet.ee/your-claude-code-setup-is-probably-not-as-safe-as-you-think/",
-    "Timestamp": "2026-04-04T00:03:25",
-    "Domain": "ahmet.ee",
-    "Description": "Claude Code is powerful. It reads your files, runs commands, and edits your codebase. But its default setup doesn't stop it from reading your secrets. Deny rules won't help in bypass mode. Native sandboxing will.",
-    "Confidence": 0.98755133
-  },
-  {
-    "Title": "LLM coding is the wrong layer of abstraction",
-    "Url": "https://bbuyukliev.blogspot.com/2026/04/llm-coding-is-wrong-layer-of-abstraction.html",
-    "Timestamp": "2026-04-04T00:03:22",
-    "Domain": "bbuyukliev.blogspot.com",
-    "Description": "Conventional wisdom tells you that LLMs are good at automating the generation of boring, repetitive boilerplate code. I can agree, but why d...",
-    "Confidence": 0.978814
-  },
-  {
-    "Title": "Django Table, Filter and Export With Htmx | Fundor333",
-    "Url": "https://fundor333.com/post/2026/django-table-filter-export-with-htmx/",
-    "Timestamp": "2026-04-04T00:03:14",
-    "Domain": "fundor333.com",
-    "Description": "A little code fragment for show how to use in the same project Htmx, Django-table2 e Django-filters",
-    "Confidence": 0.9972688
-  },
-  {
-    "Title": "Closing the Loop – Alexander Feldman's Blog",
-    "Url": "https://llama.gs/blog/index.php/2026/04/02/from-dsl-to-fpga-closing-the-loop/",
-    "Timestamp": "2026-04-04T00:03:09",
-    "Domain": "llama.gs",
-    "Description": "This quarter, 4,500 CEOs told PwC their AI investments produced nothing. Separately, someone used AI to rewrite SQLite in Rust — 2,000 times slower. I have a cunning plan: what if we used computers to do actual computing?",
-    "Confidence": 0.9639877
-  },
-  {
-    "Title": "It was nice while it lasted",
-    "Url": "https://jacksthoughts.bearblog.dev/it-was-nice-while-it-lasted/",
-    "Timestamp": "2026-04-04T00:03:05",
-    "Domain": "jacksthoughts.bearblog.dev",
-    "Description": "I got into software engineering because I was always fascinated by getting computers to do stuff. It's been a dream to earn a living doing something I would ...",
-    "Confidence": 0.93294525
-  },
-  {
-    "Title": "How the Claude Mythos leak happened",
-    "Url": "https://iter.ca/post/claude-cms/",
-    "Timestamp": "2026-04-04T00:03:02",
-    "Domain": "iter.ca",
-    "Description": "how????!?",
-    "Confidence": 0.9744071
-  },
-  {
-    "Title": "Running out of Disk Space in Production",
-    "Url": "https://alt-romes.github.io/posts/2026-04-01-running-out-of-disk-space-on-launch.html",
-    "Timestamp": "2026-04-04T00:02:57",
-    "Domain": "alt-romes.github.io",
-    "Description": "A tale about misconfiguring nginx, from adventures in production",
-    "Confidence": 0.98993886
-  },
-  {
-    "Title": "Thoughts on the SaaSpocalypse",
-    "Url": "https://www.davidbatey.com/blog/thoughts-on-the-saaspocalypse",
-    "Timestamp": "2026-04-04T00:02:54",
-    "Domain": "www.davidbatey.com",
-    "Description": "The multi dimensional threats of AI to SaaS businesses.",
-    "Confidence": 0.978672
-  },
-  {
-    "Title": "The Vibecoders Are Coming For Us",
-    "Url": "https://coz.is/posts/vibecoders_are_coming_for_us.html",
-    "Timestamp": "2026-04-04T00:02:50",
-    "Domain": "coz.is",
-    "Description": "Oh man, the past few months were crazy. I went from extremely exhilarated to complete tragedy (in case you're living under a rock, I'm referring to AI coding)",
-    "Confidence": 0.98944014
-  },
-  {
-    "Title": "How I Built an SMS Gateway with a $20 Android Phone",
-    "Url": "https://jonno.nz/posts/built-an-sms-gateway-with-a-20-dollar-android-phone/",
-    "Timestamp": "2026-04-04T00:02:47",
-    "Domain": "jonno.nz",
-    "Description": "Turn any Android phone into a programmable SMS gateway for your SaaS — no per-message fees, no carrier contracts, no vendor lock-in.",
-    "Confidence": 0.9970526
-  },
-  {
-    "Title": "Thomas Gazagnaire :: A CSS Engine in OCaml",
-    "Url": "https://gazagnaire.org/blog/2026-04-02-cascade.html",
-    "Timestamp": "2026-04-04T00:02:42",
-    "Domain": "gazagnaire.org",
-    "Description": "A typed CSS parser covering Level 3 through 5, a structural diff tool, and an optimiser. With a live browser demo via js_of_ocaml.",
-    "Confidence": 0.9923997
-  },
-  {
-    "Title": "A Case for Procrastination",
-    "Url": "https://elijahpotter.dev/articles/a-case-for-procrastination",
-    "Timestamp": "2026-04-04T00:02:36",
-    "Domain": "elijahpotter.dev",
-    "Description": "Or: why doing things at the last minute actually saves time. I talk about the importance of shockingly fast iteration cycles and lean manufacturing.",
-    "Confidence": 0.99062943
   }
 ]
