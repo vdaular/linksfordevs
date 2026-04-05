@@ -162,12 +162,5 @@ I wondered this myself and thought that it was quite a natural way for the indus
       <guid>https://www.doc.ic.ac.uk/~susan/475/unmain.html</guid>
       <pubDate>Sat, 04 Apr 2026 15:02:30 GMT</pubDate>
     </item>
-    <item>
-      <title>NVD - CVE-2026-33579</title>
-      <link>https://nvd.nist.gov/vuln/detail/CVE-2026-33579</link>
-      <description>OpenClaw before 2026.3.28 contains a privilege escalation vulnerability in the /pair approve command path that fails to forward caller scopes into the core approval check. A caller with pairing privileges but without admin privileges can approve pending device requests asking for broader scopes including admin access by exploiting the missing scope validation in extensions/device-pair/index.ts and src/infra/device-pairing.ts.</description>
-      <guid>https://nvd.nist.gov/vuln/detail/CVE-2026-33579</guid>
-      <pubDate>Sat, 04 Apr 2026 03:02:14 GMT</pubDate>
-    </item>
   </channel>
 </rss>
