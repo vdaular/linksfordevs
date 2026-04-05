@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The machines are fine. I'm worried about us.</title>
+      <link>https://ergosphere.blog/posts/the-machines-are-fine/</link>
+      <description>On AI agents, grunt work, and the part of science that isn't replaceable.</description>
+      <category>ai</category>
+      <category>python</category>
+      <guid>https://ergosphere.blog/posts/the-machines-are-fine/</guid>
+      <pubDate>Sun, 05 Apr 2026 14:02:12 GMT</pubDate>
+    </item>
+    <item>
       <title>Mobile Device Vulnerability Management Concept</title>
       <link>https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/</link>
       <description>The Wallet Unit provides for authentication means which can be bound to multiple identification means, such as the PID, via a public/private key pair, see cryptography.</description>
