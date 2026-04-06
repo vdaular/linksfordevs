@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The Battle for Wesnoth</title>
+      <link>https://www.wesnoth.org/</link>
+      <description>The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. It features both singleplayer and online/hotseat multiplayer combat.</description>
+      <category>gaming</category>
+      <guid>https://www.wesnoth.org/</guid>
+      <pubDate>Mon, 06 Apr 2026 21:02:20 GMT</pubDate>
+    </item>
+    <item>
       <title>No, I Won't Download Your App. The Web Version is A-OK.</title>
       <link>https://www.0xsid.com/blog/wont-download-your-app</link>
       <description>As someone who prefers using services via their websites, I’ve gotten terribly jaded lately. Almost everyone wants me, and by extension, you, to use their darn apps to consume content and off their web versions.</description>
