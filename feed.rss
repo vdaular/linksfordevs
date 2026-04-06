@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>GitHub - arman-bd/guppylm: A ~9M parameter LLM that talks like a small fish.</title>
+      <link>https://github.com/arman-bd/guppylm</link>
+      <description>A ~9M parameter LLM that talks like a small fish. Contribute to arman-bd/guppylm development by creating an account on GitHub.</description>
+      <category>python</category>
+      <guid>https://github.com/arman-bd/guppylm</guid>
+      <pubDate>Mon, 06 Apr 2026 07:02:10 GMT</pubDate>
+    </item>
+    <item>
       <title>Microsoft Hasn’t Had a Coherent GUI Strategy Since Petzold</title>
       <link>https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/</link>
       <description>A few years ago I was in a meeting with developers and someone asked a simple question: “What’s the right framework for a new Windows desktop app?” Dead silence. One person sugges…</description>
