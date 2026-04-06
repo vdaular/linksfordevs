@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Microsoft Hasn’t Had a Coherent GUI Strategy Since Petzold</title>
+      <link>https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/</link>
+      <description>A few years ago I was in a meeting with developers and someone asked a simple question: “What’s the right framework for a new Windows desktop app?” Dead silence. One person sugges…</description>
+      <category>dotnet</category>
+      <category>nodejs</category>
+      <category>visualstudio</category>
+      <category>apple</category>
+      <category>gaming</category>
+      <guid>https://www.jsnover.com/blog/2026/03/13/microsoft-hasnt-had-a-coherent-gui-strategy-since-petzold/</guid>
+      <pubDate>Mon, 06 Apr 2026 04:02:03 GMT</pubDate>
+    </item>
+    <item>
       <title>The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't</title>
       <link>https://sschueller.github.io/posts/the-free-market-lie/</link>
       <description>The Free Market Lie: Why Switzerland Has 25 Gbit Internet and America Doesn't</description>
