@@ -309,18 +309,5 @@ MERCH: https://kazen64.dashery.com/</description>
       <guid>https://zencapital.substack.com/p/sad-story-of-my-google-workspace</guid>
       <pubDate>Sun, 05 Apr 2026 19:02:06 GMT</pubDate>
     </item>
-    <item>
-      <title>Eight years of wanting, three months of building with AI</title>
-      <link>https://lalitm.com/post/building-syntaqlite-ai/</link>
-      <description>For eight years, I’ve wanted a high-quality set of devtools for working with SQLite. Given how important SQLite is to the industry1, I’ve long been puzzled that no one has invested in building a really good developer experience for it2.
-A couple of weeks ago, after ~250 hours of effort over three months3 on evenings, weekends, and vacation days, I finally released syntaqlite (GitHub), fulfilling this long-held wish. And I believe the main reason this happened was because of AI coding agents4.
-Of course, there’s no shortage of posts claiming that AI one-shot their project or pushing back and declaring that AI is all slop. I’m going to take a very different approach and, instead, systematically break down my experience building syntaqlite with AI, both where it helped and where it was detrimental.
-I’ll do this while contextualizing the project and my background so you can independently assess how generalizable this experience was. And whenever I make a claim, I’ll try to back it up with evidence from my project journal, coding transcripts, or commit history5.</description>
-      <category>sql</category>
-      <category>ai</category>
-      <category>python</category>
-      <guid>https://lalitm.com/post/building-syntaqlite-ai/</guid>
-      <pubDate>Sun, 05 Apr 2026 18:02:12 GMT</pubDate>
-    </item>
   </channel>
 </rss>
