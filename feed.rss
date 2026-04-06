@@ -7,6 +7,217 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Vibe Analysis</title>
+      <link>https://newsletter.dancohen.org/archive/vibe-analysis/</link>
+      <description>Despite its unserious name, vibe coding shows promise for elements of serious scholarly work</description>
+      <category>ai</category>
+      <category>sql</category>
+      <category>python</category>
+      <guid>https://newsletter.dancohen.org/archive/vibe-analysis/</guid>
+      <pubDate>Mon, 06 Apr 2026 23:04:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Code generation that just works</title>
+      <link>https://maryrosecook.com/blog/post/code-generation-that-just-works</link>
+      <description>About nine months ago, my son said he wanted to make a video game. He said it was called Exploding Kitties. We made it together on my computer. He described ...</description>
+      <category>gaming</category>
+      <guid>https://maryrosecook.com/blog/post/code-generation-that-just-works</guid>
+      <pubDate>Mon, 06 Apr 2026 23:03:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Building More Resilient Local-First Software with atproto | jakelazaroff.com</title>
+      <link>https://jakelazaroff.com/words/building-more-resilient-local-first-software-with-atproto/</link>
+      <description>atproto has the potential to become a rock-solid replacement for the most fragile part of any local-first app: the sync server.</description>
+      <category>cloud</category>
+      <category>javascript</category>
+      <category>git</category>
+      <category>nodejs</category>
+      <guid>https://jakelazaroff.com/words/building-more-resilient-local-first-software-with-atproto/</guid>
+      <pubDate>Mon, 06 Apr 2026 23:03:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Alan Kay's Answers on Quora</title>
+      <link>https://kennethfriedman.org/more/alan-kay-answers/</link>
+      <description>I first met Bill at the famous Steve Jobs visit to Parc to see the Smalltalk system, its GUI, etc. (I might have run into him earlier). After a stint at Atari, Steve Jobs hired me in 1984 as an Apple Fellow (Butler and I had been made Fellows towards the end of our stay at Xerox). Bill had been made an Apple Fellow for his many contributions, especially to the Lisa and Macintosh projects. He was very talented and creative, etc. and our relationship could be characterized as “brotherly”.</description>
+      <category>ai</category>
+      <guid>https://kennethfriedman.org/more/alan-kay-answers/</guid>
+      <pubDate>Mon, 06 Apr 2026 23:03:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Disposable Tools Manifesto</title>
+      <link>https://blog.vtemian.com/post/disposable-tools-manifesto/</link>
+      <description>I built 20+ tools in 6 months and made zero revenue. Here's what I learned about why SaaS is dying and what's replacing it.</description>
+      <category>nodejs</category>
+      <category>cloud</category>
+      <category>containers</category>
+      <category>ai</category>
+      <category>vscode</category>
+      <guid>https://blog.vtemian.com/post/disposable-tools-manifesto/</guid>
+      <pubDate>Mon, 06 Apr 2026 23:03:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>It has never been about code</title>
+      <link>https://www.ufried.com/blog/never_been_about_code/</link>
+      <description>AI asking fundamental questions</description>
+      <category>ai</category>
+      <guid>https://www.ufried.com/blog/never_been_about_code/</guid>
+      <pubDate>Mon, 06 Apr 2026 23:03:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>All GANS No Brakes</title>
+      <link>https://mayberay.bearblog.dev/all-gans-no-brakes/</link>
+      <description>This is part 8 and the last entry of my series. In the previous post Generating Human Faces with Variational Autoencoders, we took a deep dive into Variation...</description>
+      <category>ai</category>
+      <category>conference</category>
+      <category>vscode</category>
+      <guid>https://mayberay.bearblog.dev/all-gans-no-brakes/</guid>
+      <pubDate>Mon, 06 Apr 2026 23:03:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Outcome over Process</title>
+      <link>https://elijahpotter.dev/articles/outcome-over-process</link>
+      <description>I don't feel that these performative actions have resulted in any real productivity gains. I realize now, that this is because I was focusing on the wrong thing.</description>
+      <guid>https://elijahpotter.dev/articles/outcome-over-process</guid>
+      <pubDate>Mon, 06 Apr 2026 23:03:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Building a DIY OpenClaw</title>
+      <link>https://ben.page/claude-mac</link>
+      <description>Two months ago, I bought a Mac Mini and spent the weekend furiously building a small clone of OpenClaw so I could text with Claude over iMessage.</description>
+      <category>ai</category>
+      <category>apple</category>
+      <category>javascript</category>
+      <guid>https://ben.page/claude-mac</guid>
+      <pubDate>Mon, 06 Apr 2026 23:03:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>A Cryptography Engineer’s Perspective on Quantum Computing Timelines</title>
+      <link>https://words.filippo.io/crqc-timeline/</link>
+      <description>The risk that cryptographically-relevant quantum computers materialize within the next few years is now high enough to be dispositive, unfortunately.</description>
+      <category>encryption</category>
+      <guid>https://words.filippo.io/crqc-timeline/</guid>
+      <pubDate>Mon, 06 Apr 2026 23:03:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Systems Engineering an agent thanks to the world of Golang  · Blog - MattBits </title>
+      <link>https://blog.mattsbit.co.uk/2026/04/06/systems-engineering-an-agent-thanks-to-the-world-of-golang/</link>
+      <description></description>
+      <category>containers</category>
+      <category>nodejs</category>
+      <category>ai</category>
+      <guid>https://blog.mattsbit.co.uk/2026/04/06/systems-engineering-an-agent-thanks-to-the-world-of-golang/</guid>
+      <pubDate>Mon, 06 Apr 2026 23:03:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>What Running a Multi-Agent Software Project Actually Looks Like</title>
+      <link>https://www.yella.dev/blog/run-multi-agent-software-project/</link>
+      <description>Personal site of Naren Yellavula — Staff Cloud Security Engineer, writer, and builder.</description>
+      <category>cloud</category>
+      <category>git</category>
+      <category>sql</category>
+      <category>ai</category>
+      <guid>https://www.yella.dev/blog/run-multi-agent-software-project/</guid>
+      <pubDate>Mon, 06 Apr 2026 23:02:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Give Your Agents Jobs, Not Processes</title>
+      <link>https://geoffstearns.com/blog/give-your-agents-jobs-not-processes/</link>
+      <description>When building AI agents, starting small by hardcoding today's process constrains a system that can reason about goals into a brittle script. Define the job, not the steps.</description>
+      <author> (Geoff Stearns)</author>
+      <category>ai</category>
+      <guid>https://geoffstearns.com/blog/give-your-agents-jobs-not-processes/</guid>
+      <pubDate>Mon, 06 Apr 2026 23:02:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Agentic Design Patterns in Production</title>
+      <link>https://jigarkdoshi.bearblog.dev/agentic-design-patterns-in-production/</link>
+      <description>front-cover-portrait
+Origin Story
+
+This project started as a sequel.
+
+Late last year I published Agentic Patterns in OpenAI's Codex — a project that too...</description>
+      <category>ai</category>
+      <category>cloud</category>
+      <category>typescript</category>
+      <category>nodejs</category>
+      <category>rust</category>
+      <guid>https://jigarkdoshi.bearblog.dev/agentic-design-patterns-in-production/</guid>
+      <pubDate>Mon, 06 Apr 2026 23:02:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Your File System Is Already a Graph Database</title>
+      <link>https://rumproarious.com/2026/04/04/your-file-system-is-already-a-graph-database/</link>
+      <description>Karpathy recently posted about using LLMs to build personal knowledge bases — collecting raw sources into a directory, having an LLM &amp;ldquo;compile&amp;rdquo; them into a wiki of interlinked markdown …</description>
+      <category>sql</category>
+      <category>ai</category>
+      <guid>https://rumproarious.com/2026/04/04/your-file-system-is-already-a-graph-database/</guid>
+      <pubDate>Mon, 06 Apr 2026 23:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Self-hosting from scratch</title>
+      <link>https://wwj.dev/posts/self-hosting-from-scratch/</link>
+      <description>A series about my self-hosting journey. From clicking through Synology GUIs to running a fully config-driven homelab on a Raspberry Pi. This post outlines the arc and links to each part.</description>
+      <author> (William Johnston)</author>
+      <category>containers</category>
+      <category>git</category>
+      <guid>https://wwj.dev/posts/self-hosting-from-scratch/</guid>
+      <pubDate>Mon, 06 Apr 2026 23:02:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Building a Custom Claude Code Statusline to Track Worktrees and Usage</title>
+      <link>https://www.dandoescode.com/blog/claude-code-custom-statusline</link>
+      <description>When vibe coding across multiple git worktrees, losing track of which branch you're on is a real problem. Here's how I built a minimal Claude Code statusline that shows exactly what I need — and nothing more.</description>
+      <author> (Daniel Mackay)</author>
+      <category>git</category>
+      <category>javascript</category>
+      <category>vscode</category>
+      <category>linux</category>
+      <category>ai</category>
+      <guid>https://www.dandoescode.com/blog/claude-code-custom-statusline</guid>
+      <pubDate>Mon, 06 Apr 2026 23:02:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Python: introducing profiling-explorer - Adam Johnson</title>
+      <link>https://adamj.eu/tech/2026/04/03/python-introducing-profiling-explorer/</link>
+      <description>I’ve made another package! Like icu4py, which I made in February, it was sponsored by my client Rippling. And like tprof, which I made in January, it’s a profiling tool!</description>
+      <category>python</category>
+      <guid>https://adamj.eu/tech/2026/04/03/python-introducing-profiling-explorer/</guid>
+      <pubDate>Mon, 06 Apr 2026 23:02:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Where is it like to be a language model?</title>
+      <link>https://www.robinsloan.com/winter-garden/where-is-it-like/</link>
+      <description>And is it good to be one?</description>
+      <category>conference</category>
+      <category>cloud</category>
+      <category>ruby</category>
+      <category>ai</category>
+      <guid>https://www.robinsloan.com/winter-garden/where-is-it-like/</guid>
+      <pubDate>Mon, 06 Apr 2026 23:02:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why your NEW computer is SLOWER than your OLD computer!  By a Retired Microsoft Engineer.</title>
+      <link>https://youtube.com/watch?v=t992ul_IKtc</link>
+      <description>Dave explains why your new computer feels slower today than your old one did back then, and what can be done about it!
+
+Get the shirt!  https://amzn.to/4dtdiS9</description>
+      <author> (Dave's Garage)</author>
+      <category>youtube</category>
+      <guid>https://youtube.com/watch?v=t992ul_IKtc</guid>
+      <pubDate>Mon, 06 Apr 2026 23:02:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why the Smart Model Reviewer Pattern Is Backwards</title>
+      <link>https://cloudpresser.com/writing/smart-model-reviewer-is-backwards</link>
+      <description>Most AI pipelines have generation and verification backwards. Smart models should generate. Cheap models should verify. The industry is putting its best capability in the wrong place — and it's creating a quality ceiling, not just a cost problem.</description>
+      <author> (Luiz Ozorio)</author>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://cloudpresser.com/writing/smart-model-reviewer-is-backwards</guid>
+      <pubDate>Mon, 06 Apr 2026 23:02:28 GMT</pubDate>
+    </item>
+    <item>
       <title>Grammar</title>
       <link>https://xkcd.com/3229/</link>
       <description></description>
@@ -102,207 +313,6 @@
       <category>youtube</category>
       <guid>https://youtube.com/watch?v=NKXT-kCKrZw</guid>
       <pubDate>Mon, 06 Apr 2026 00:02:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Leaving Middle East Till Things Cool</title>
-      <link>https://rozumem.xyz/posts/13</link>
-      <description>In early March, due to the unexpected war in the ME, I was contemplating my next move. Should I stay or leave? Flights were still taking off from Dubai, albeit at a limited frequency. Enterprising car rental companies were offering package deals to wealthy expats where they'd drive you to Oman and get you on a plane to wherever (Oman was more open so there were more flights to more places).</description>
-      <author> (rozumem)</author>
-      <category>ai</category>
-      <guid>https://rozumem.xyz/posts/13</guid>
-      <pubDate>Sun, 05 Apr 2026 23:03:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Framework? I sure hope it does</title>
-      <link>https://blog.valknight.xyz/framebroken.html</link>
-      <description>the good, the bad, and the very ugly of the framework laptop</description>
-      <category>linux</category>
-      <category>gaming</category>
-      <guid>https://blog.valknight.xyz/framebroken.html</guid>
-      <pubDate>Sun, 05 Apr 2026 23:03:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Impossible Bracket – Josh Pearlson</title>
-      <link>https://joshpearlson.com/articles/posts/impossible-bracket/impossible-bracket.html</link>
-      <description>The odds of a perfect March Madness bracket are 1 in 9.2 quintillion. Warren Buffett bet a billion dollars on it, and he was never worried about paying out.</description>
-      <category>encryption</category>
-      <category>gaming</category>
-      <category>cloud</category>
-      <guid>https://joshpearlson.com/articles/posts/impossible-bracket/impossible-bracket.html</guid>
-      <pubDate>Sun, 05 Apr 2026 23:03:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google AI Edge Gallery-app - App Store</title>
-      <link>https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337</link>
-      <description>Download Google AI Edge Gallery van Google in de App Store. Bekijk schermafbeeldingen, beoordelingen en recensies, gebruikerstips en meer apps zoals Google AI…</description>
-      <category>apple</category>
-      <category>ai</category>
-      <category>android</category>
-      <category>gaming</category>
-      <guid>https://apps.apple.com/nl/app/google-ai-edge-gallery/id6749645337</guid>
-      <pubDate>Sun, 05 Apr 2026 23:03:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>I give up on neovim</title>
-      <link>https://bittich.be/posts/give-up-on-neovim/</link>
-      <description>Note:
-English is not my first language. The text below was written by me and corrected by an AI. I then corrected the AI’s corrected text, so there are probably still some wording errors
-In 2022, I made a New Year’s resolution to switch from Chrome to Firefox, and from VS Code to Neovim.
-My goal was to reduce my dependence on GAFAM tools, and it turned out to be a good decision considering this.</description>
-      <category>typescript</category>
-      <category>ruby</category>
-      <category>git</category>
-      <category>rust</category>
-      <category>android</category>
-      <guid>https://bittich.be/posts/give-up-on-neovim/</guid>
-      <pubDate>Sun, 05 Apr 2026 23:03:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>How to Get Better at Guitar</title>
-      <link>https://www.jakeworth.com/posts/how-to-get-better-at-guitar/</link>
-      <description>Years ago I watched a video where guitar teacher Justin Sandercoe explained a way to get better at guitar. It has changed my playing, and it might change yours, too.</description>
-      <category>ai</category>
-      <guid>https://www.jakeworth.com/posts/how-to-get-better-at-guitar/</guid>
-      <pubDate>Sun, 05 Apr 2026 23:03:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Codification Treadmill</title>
-      <link>https://www.dhanishsemar.com/writing/the-codification-treadmill</link>
-      <description>The person who replaces you probably won't be AI. It'll be someone from the next department over who learned to use it.</description>
-      <category>ai</category>
-      <guid>https://www.dhanishsemar.com/writing/the-codification-treadmill</guid>
-      <pubDate>Sun, 05 Apr 2026 23:03:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Good APIs Age Slowly</title>
-      <link>https://yusufaytas.com/good-apis-age-slowly/</link>
-      <description>Good APIs do not win on first impression. They survive change. This post looks at why stable APIs expose less, assume less, and age better over time.</description>
-      <author> (https://www.facebook.com/yusufaytas)</author>
-      <guid>https://yusufaytas.com/good-apis-age-slowly/</guid>
-      <pubDate>Sun, 05 Apr 2026 23:03:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Have you considered being more lucky?</title>
-      <link>http://dmitri.im/blog/have-you-considered-being-more-lucky/</link>
-      <description>Three tips on how to be more lucky.</description>
-      <category>ai</category>
-      <guid>http://dmitri.im/blog/have-you-considered-being-more-lucky/</guid>
-      <pubDate>Sun, 05 Apr 2026 23:03:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Is All Software Converging</title>
-      <link>https://jry.io/writing/is-all-software-converging/</link>
-      <description>Apr  5, 2026</description>
-      <category>rust</category>
-      <category>ai</category>
-      <category>sql</category>
-      <guid>https://jry.io/writing/is-all-software-converging/</guid>
-      <pubDate>Sun, 05 Apr 2026 23:03:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fine-tuning Whisper to my speech: 27% to 6.5% WER</title>
-      <link>https://vivekkairi.com/fine-tuning-whisper-for-atypical-speech-pattern/</link>
-      <description>How I fine-tuned Whisper to recognize my atypical speech, dropping WER from 27% to 6.5% by freezing the decoder and only training the encoder.</description>
-      <category>ai</category>
-      <category>cloud</category>
-      <guid>https://vivekkairi.com/fine-tuning-whisper-for-atypical-speech-pattern/</guid>
-      <pubDate>Sun, 05 Apr 2026 23:03:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Don't Yell at Your LLM</title>
-      <link>https://marvin.beckers.dev/blog/dont-yell-at-your-llm/</link>
-      <description>LLMs don't have feelings, but they have a dataset based on human interaction. It's probably not a great idea to behave in a way that produced negative results in the dataset.</description>
-      <category>ai</category>
-      <category>sql</category>
-      <category>gaming</category>
-      <guid>https://marvin.beckers.dev/blog/dont-yell-at-your-llm/</guid>
-      <pubDate>Sun, 05 Apr 2026 23:03:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Anatomy of SMS Delivery: Routing and Carrier Flow</title>
-      <link>https://blog.bridgexapi.io/the-anatomy-of-sms-delivery-from-request-to-carrier</link>
-      <description>Most SMS APIs hide routing. This guide explains how SMS delivery really works, from API request to pricing, execution, tracking and carrier outcome</description>
-      <author> (https://blog.bridgexapi.io/@bridgexapi)</author>
-      <category>python</category>
-      <guid>https://blog.bridgexapi.io/the-anatomy-of-sms-delivery-from-request-to-carrier</guid>
-      <pubDate>Sun, 05 Apr 2026 23:02:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>How Claude Code Builds a System Prompt</title>
-      <link>https://www.dbreunig.com/2026/04/04/how-claude-code-builds-a-system-prompt.html</link>
-      <description>Context engineering in action.</description>
-      <category>ai</category>
-      <category>git</category>
-      <category>vscode</category>
-      <guid>https://www.dbreunig.com/2026/04/04/how-claude-code-builds-a-system-prompt.html</guid>
-      <pubDate>Sun, 05 Apr 2026 23:02:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>In Defense of Comments</title>
-      <link>https://www.nklswbr.com/blog/comments</link>
-      <description>Comments are the most interesting part of the internet.</description>
-      <category>ai</category>
-      <category>gaming</category>
-      <category>sql</category>
-      <category>youtube</category>
-      <guid>https://www.nklswbr.com/blog/comments</guid>
-      <pubDate>Sun, 05 Apr 2026 23:02:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Domain-Driven Design: Lean Aggregates</title>
-      <link>https://deniskyashif.com/2026/04/04/domain-driven-design-lean-aggregates/</link>
-      <description>Design aggregates around true consistency boundaries, not around all related data, to keep domain logic clear and write paths performant as the system grows.</description>
-      <category>conference</category>
-      <guid>https://deniskyashif.com/2026/04/04/domain-driven-design-lean-aggregates/</guid>
-      <pubDate>Sun, 05 Apr 2026 23:02:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bazel is not scary anymore</title>
-      <link>https://stanislav.blog/bazel-is-not-scary-anymore/</link>
-      <description>LLMs have eliminated Bazel's biggest adoption barrier — the steep learning curve. They're fluent in Starlark, can generate BUILD files, and make getting started surprisingly easy.</description>
-      <category>ai</category>
-      <category>rust</category>
-      <category>typescript</category>
-      <category>python</category>
-      <guid>https://stanislav.blog/bazel-is-not-scary-anymore/</guid>
-      <pubDate>Sun, 05 Apr 2026 23:02:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>The browser is eating itself</title>
-      <link>https://fhoehl.com/future-browser</link>
-      <description>What is a web browser in a post-HTML and post-document era?
-</description>
-      <category>javascript</category>
-      <category>web</category>
-      <category>gaming</category>
-      <category>ai</category>
-      <category>rust</category>
-      <guid>https://fhoehl.com/future-browser</guid>
-      <pubDate>Sun, 05 Apr 2026 23:02:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Code freezes</title>
-      <link>https://jensrantil.github.io/posts/code-freeze/</link>
-      <description>Code freezes can undermine the very thing they are meant to protect.</description>
-      <category>sql</category>
-      <category>vscode</category>
-      <guid>https://jensrantil.github.io/posts/code-freeze/</guid>
-      <pubDate>Sun, 05 Apr 2026 23:02:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>My university uses prompt injection to catch cheaters</title>
-      <link>https://varun.ch/til/prompt-injection-catch-cheaters/</link>
-      <description>Web developer and cybersecurity researcher</description>
-      <guid>https://varun.ch/til/prompt-injection-catch-cheaters/</guid>
-      <pubDate>Sun, 05 Apr 2026 23:02:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Everything I hate about the Mac</title>
-      <link>https://blog.d11r.eu/mac/</link>
-      <description>_-_-_-_-_-_-_-</description>
-      <category>apple</category>
-      <guid>https://blog.d11r.eu/mac/</guid>
-      <pubDate>Sun, 05 Apr 2026 23:02:26 GMT</pubDate>
     </item>
   </channel>
 </rss>
