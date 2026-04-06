@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Surveillance Findings: Age Verification as Mass Surveillance Infrastructure</title>
+      <link>https://tboteproject.com/surveillancefindings/</link>
+      <description>OSINT investigation documenting how age verification laws across three countries funnel citizen biometric data through a 269-check surveillance pipeline with government reporting capabilities.</description>
+      <category>android</category>
+      <category>conference</category>
+      <category>javascript</category>
+      <category>ai</category>
+      <category>cloud</category>
+      <guid>https://tboteproject.com/surveillancefindings/</guid>
+      <pubDate>Mon, 06 Apr 2026 14:02:11 GMT</pubDate>
+    </item>
+    <item>
       <title>AI Did It in 12 Minutes. It Took Me 10 Hours to Fix It</title>
       <link>https://idiallo.com/blog/it-took-me-10-hours-to-fix-ai-code?src=feed</link>
       <description>I've been working on personal projects since the 2000s. One thing I've always been adamant about is understanding the code I write. Even when Stack Overflow came along, I was that annoying guy who tol</description>
@@ -314,15 +326,6 @@ I’ll do this while contextualizing the project and my background so you can in
       <category>git</category>
       <guid>https://github.com/JuliusBrussee/caveman</guid>
       <pubDate>Sun, 05 Apr 2026 15:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>The machines are fine. I'm worried about us.</title>
-      <link>https://ergosphere.blog/posts/the-machines-are-fine/</link>
-      <description>On AI agents, grunt work, and the part of science that isn't replaceable.</description>
-      <category>ai</category>
-      <category>python</category>
-      <guid>https://ergosphere.blog/posts/the-machines-are-fine/</guid>
-      <pubDate>Sun, 05 Apr 2026 14:02:12 GMT</pubDate>
     </item>
   </channel>
 </rss>
