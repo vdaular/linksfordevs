@@ -1,5 +1,13 @@
 [
   {
+    "Title": "No, I Won't Download Your App. The Web Version is A-OK.",
+    "Url": "https://www.0xsid.com/blog/wont-download-your-app",
+    "Timestamp": "2026-04-06T17:02:16",
+    "Domain": "www.0xsid.com",
+    "Description": "As someone who prefers using services via their websites, I’ve gotten terribly jaded lately. Almost everyone wants me, and by extension, you, to use their darn apps to consume content and off their web versions.",
+    "Confidence": 0.9621285
+  },
+  {
     "Title": "Surveillance Findings: Age Verification as Mass Surveillance Infrastructure",
     "Url": "https://tboteproject.com/surveillancefindings/",
     "Timestamp": "2026-04-06T14:02:11",
@@ -246,13 +254,5 @@
     "Domain": "lalitm.com",
     "Description": "For eight years, I’ve wanted a high-quality set of devtools for working with SQLite. Given how important SQLite is to the industry1, I’ve long been puzzled that no one has invested in building a really good developer experience for it2.\nA couple of weeks ago, after ~250 hours of effort over three months3 on evenings, weekends, and vacation days, I finally released syntaqlite (GitHub), fulfilling this long-held wish. And I believe the main reason this happened was because of AI coding agents4.\nOf course, there’s no shortage of posts claiming that AI one-shot their project or pushing back and declaring that AI is all slop. I’m going to take a very different approach and, instead, systematically break down my experience building syntaqlite with AI, both where it helped and where it was detrimental.\nI’ll do this while contextualizing the project and my background so you can independently assess how generalizable this experience was. And whenever I make a claim, I’ll try to back it up with evidence from my project journal, coding transcripts, or commit history5.",
     "Confidence": 0.9749454
-  },
-  {
-    "Title": "Someone at BrowserStack is Leaking Users' Email Address",
-    "Url": "https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/",
-    "Timestamp": "2026-04-05T17:02:09",
-    "Domain": "shkspr.mobi",
-    "Description": "Like all good nerds, I generate a unique email address for every service I sign up to. This has several advantages - it allows me to see if a message is legitimately from a service, if a service is hacked the hackers can't go credential stuffing, and I instantly know who leaked my address.  A few weeks ago I signed up for BrowserStack as I wanted to join their Open Source programme. I had a few…",
-    "Confidence": 0.9705358
   }
 ]

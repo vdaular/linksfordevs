@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>No, I Won't Download Your App. The Web Version is A-OK.</title>
+      <link>https://www.0xsid.com/blog/wont-download-your-app</link>
+      <description>As someone who prefers using services via their websites, I’ve gotten terribly jaded lately. Almost everyone wants me, and by extension, you, to use their darn apps to consume content and off their web versions.</description>
+      <category>gaming</category>
+      <category>cloud</category>
+      <category>apple</category>
+      <category>git</category>
+      <category>javascript</category>
+      <guid>https://www.0xsid.com/blog/wont-download-your-app</guid>
+      <pubDate>Mon, 06 Apr 2026 17:02:16 GMT</pubDate>
+    </item>
+    <item>
       <title>Surveillance Findings: Age Verification as Mass Surveillance Infrastructure</title>
       <link>https://tboteproject.com/surveillancefindings/</link>
       <description>OSINT investigation documenting how age verification laws across three countries funnel citizen biometric data through a 269-check surveillance pipeline with government reporting capabilities.</description>
@@ -309,14 +321,6 @@ I’ll do this while contextualizing the project and my background so you can in
       <category>python</category>
       <guid>https://lalitm.com/post/building-syntaqlite-ai/</guid>
       <pubDate>Sun, 05 Apr 2026 18:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Someone at BrowserStack is Leaking Users' Email Address</title>
-      <link>https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/</link>
-      <description>Like all good nerds, I generate a unique email address for every service I sign up to. This has several advantages - it allows me to see if a message is legitimately from a service, if a service is hacked the hackers can't go credential stuffing, and I instantly know who leaked my address.  A few weeks ago I signed up for BrowserStack as I wanted to join their Open Source programme. I had a few…</description>
-      <category>ai</category>
-      <guid>https://shkspr.mobi/blog/2026/04/someone-at-browserstack-is-leaking-users-email-address/</guid>
-      <pubDate>Sun, 05 Apr 2026 17:02:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
