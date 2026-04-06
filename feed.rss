@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>ABS  (Anti-Lock Brakes) - How They Work and Why You Care!</title>
+      <link>https://youtube.com/watch?v=NKXT-kCKrZw</link>
+      <description>From the history of early ABS systems to the latest complex vehicle stability controls, Dave takes you on a journey from 1970 to the present, covering how and why ABS brakes work.</description>
+      <author> (Dave's Garage)</author>
+      <category>youtube</category>
+      <guid>https://youtube.com/watch?v=NKXT-kCKrZw</guid>
+      <pubDate>Mon, 06 Apr 2026 00:02:11 GMT</pubDate>
+    </item>
+    <item>
       <title>Leaving Middle East Till Things Cool</title>
       <link>https://rozumem.xyz/posts/13</link>
       <description>In early March, due to the unexpected war in the ME, I was contemplating my next move. Should I stay or leave? Flights were still taking off from Dubai, albeit at a limited frequency. Enterprising car rental companies were offering package deals to wealthy expats where they'd drive you to Oman and get you on a plane to wherever (Oman was more open so there were more flights to more places).</description>
@@ -293,130 +302,6 @@ I’ll do this while contextualizing the project and my background so you can in
       <description>I have these Sunday evenings where I find myself sitting alone at the kitchen table, thinking about my life and how I got here. Usually, these sessions end with an inspiring idea that makes me want to</description>
       <guid>https://idiallo.com/blog/its-not-that-deep?src=feed</guid>
       <pubDate>Sun, 05 Apr 2026 08:02:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Know why you don't like OOP</title>
-      <link>https://zylinski.se/posts/know-why-you-dont-like-oop/</link>
-      <description>Programmers tend to fight about why Object-Oriented Programming (OOP) is good or bad.
-Among the anti-OOP crowd, I often see junior programmers hate on OOP and “rebroadcast” what they’ve heard experienced programmers say. But when challenged to explain why OOP is bad, they have a hard time explaining it. It’s usually because they haven’t really experienced those things first hand.
-I’d like to take a positive spin on this and say: Just write your code in a way that makes sense to you.</description>
-      <guid>https://zylinski.se/posts/know-why-you-dont-like-oop/</guid>
-      <pubDate>Sun, 05 Apr 2026 00:03:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Detecting Defects in Software Systems</title>
-      <link>https://lasse.hels.dk/detecting-defects-in-software-systems/</link>
-      <description>Throughout my time working with complex distributed systems, I have learned that consistently detecting systemic issues is surprisingly difficult and a bit of an art. The canonical way to do this is to set up alerts that notify an engineer when something is wrong. I have personally written many terrible alerts and regret having subjected myself and colleagues to the pain of such useless alerts.
-Core Tenets My opinions on alerting revolve around three tenets.</description>
-      <category>sql</category>
-      <category>nodejs</category>
-      <guid>https://lasse.hels.dk/detecting-defects-in-software-systems/</guid>
-      <pubDate>Sun, 05 Apr 2026 00:03:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>An introduction to Turing machines and computation</title>
-      <link>https://max-amb.github.io/blog/an_introduction_to_turing_machines_and_computation/</link>
-      <description>Contents Introduction Should you read this? The Turing machine The intuitive approach A mathematical approach Languages Words/Strings Languages from words Distinguishing Turing machines with respect to a language A recogniser A decider Distinguishing languages A first result Proof of Turing-recognisability A second, more exciting result Proof of non-decidability A discussion of the proof The halting problem? (and conclusion) Introduction This blog aims to provide a short (but slightly longer than intended), and potentially useful, introduction to Turing machines. Turing machines are so fundamental to Computer Science and the study of computability (i.e. can this thing be computed? In finite time?), that an understanding of the key elements and results can only further one’s appreciation for the field.</description>
-      <guid>https://max-amb.github.io/blog/an_introduction_to_turing_machines_and_computation/</guid>
-      <pubDate>Sun, 05 Apr 2026 00:02:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Towards Autonomous Protocol Proofs</title>
-      <link>https://will62794.github.io/formal-methods/2026/04/03/autonomous-protocol-proofs.html</link>
-      <description>Writing formal proofs for distributed protocols is tedious and usually not worth the effort for real-world systems. In general, you have to come up with an inductive invariant which is already a very difficult task. At least a few separate PhD theses were entirely devoted to automating this task in the past few years, and they still usually don’t scale beyond protocols of a moderate size. After coming up with an inductive invariant, you then also need to prove that invariant is actually inductive, which on its own can be another difficult task. In most cases, even automating this checking step is undecidable.</description>
-      <category>ai</category>
-      <guid>https://will62794.github.io/formal-methods/2026/04/03/autonomous-protocol-proofs.html</guid>
-      <pubDate>Sun, 05 Apr 2026 00:02:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Are we building IDEs for engineers anymore?</title>
-      <link>https://shub.club/writings/2026/april/who-are-these-ides-for/</link>
-      <description>IDE or ADE, or money printer</description>
-      <category>ai</category>
-      <guid>https://shub.club/writings/2026/april/who-are-these-ides-for/</guid>
-      <pubDate>Sun, 05 Apr 2026 00:02:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Automation Without Intention Is Just Faster Chaos</title>
-      <link>https://markhuang.ai/blog/automation-without-intention-is-just-faster-chaos</link>
-      <description>Three failed pipeline architectures, a lesson about backpressure, and the UAT gate that finally made multi-AI vibe coding work. An experience-sharing post about what broke, what survived, and why knowing what you want matters more than the tools you use.</description>
-      <author> (Mark Huang)</author>
-      <category>ai</category>
-      <guid>https://markhuang.ai/blog/automation-without-intention-is-just-faster-chaos</guid>
-      <pubDate>Sun, 05 Apr 2026 00:02:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Just because it's work shaped doesn't make it productive</title>
-      <link>https://nishtahir.com/just-because-its-work-shaped-doesnt-make-it-productive/</link>
-      <description>AI Assisted/Agentic programming are pretty common place at this point. The growing sentiment seems to be that if you can't find some sort of benefit in your workflow, it's more of a skill issue than a problem with the tools. Whether you believe this to be true is really</description>
-      <category>ai</category>
-      <guid>https://nishtahir.com/just-because-its-work-shaped-doesnt-make-it-productive/</guid>
-      <pubDate>Sun, 05 Apr 2026 00:02:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>blazelight.dev</title>
-      <link>https://blazelight.dev/blog/ms2160.mdx</link>
-      <description>I do things on the computer.</description>
-      <category>rust</category>
-      <guid>https://blazelight.dev/blog/ms2160.mdx</guid>
-      <pubDate>Sun, 05 Apr 2026 00:02:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Three months of agentic coding</title>
-      <link>https://meertens.dev/blog/three-months-of-agentic-coding/index.html</link>
-      <description>Last month I wrote my experience with AI-generated coding on this blog(two months as a vibe coder). I got a lot of positive feedback, so I created another chart for my work up till this months and wrote down the thoughts I had this month.</description>
-      <category>ai</category>
-      <guid>https://meertens.dev/blog/three-months-of-agentic-coding/index.html</guid>
-      <pubDate>Sun, 05 Apr 2026 00:02:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>How to Evaluate Claude Skill Output Quality for Prompt-to-SQL Scenarios</title>
-      <link>https://dekart.xyz/blog/how-to-evaluate-claude-skill-output-quality-for-prompt-to-sql-scenarios/</link>
-      <description>Implementing the Agent Skills eval spec for a prompt-to-SQL Skill: same-session grading, domain-knowledge assertions, and the eval runner architecture.</description>
-      <category>ai</category>
-      <category>sql</category>
-      <category>javascript</category>
-      <category>encryption</category>
-      <category>python</category>
-      <guid>https://dekart.xyz/blog/how-to-evaluate-claude-skill-output-quality-for-prompt-to-sql-scenarios/</guid>
-      <pubDate>Sun, 05 Apr 2026 00:02:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>A diary of an agentic retro-gamer - Part 1</title>
-      <link>https://keanw.com/2026/03/a-diary-of-an-agentic-retro-gamer-part-1.html</link>
-      <description>This is the first part of a guest series by Patrick Nadeau, a member of the Research Engineering team based in Canada. I mentioned it in this recent post. Patrick is a great writer and a very experienced developer who gives a personal, nuanced perspective on his explorations of using agentic coding tools to solve a really interesting programming challenge.</description>
-      <category>ai</category>
-      <category>gaming</category>
-      <category>git</category>
-      <guid>https://keanw.com/2026/03/a-diary-of-an-agentic-retro-gamer-part-1.html</guid>
-      <pubDate>Sun, 05 Apr 2026 00:02:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why domain specific LLMs won’t exist: an intuition</title>
-      <link>https://simianwords.bearblog.dev/why-domain-specific-llms-wont-exist-an-intuition/</link>
-      <description>Why not have different models for different capabilities? 
-
-I wondered this myself and thought that it was quite a natural way for the industry to progress...</description>
-      <category>ai</category>
-      <guid>https://simianwords.bearblog.dev/why-domain-specific-llms-wont-exist-an-intuition/</guid>
-      <pubDate>Sun, 05 Apr 2026 00:02:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>With the right cache, multiple 800K Opus sessions are still affordable</title>
-      <link>https://matrix.dev/blog-2026-04-04</link>
-      <description>One developer, team-quality code — powered by multi-agent AI</description>
-      <category>encryption</category>
-      <category>ai</category>
-      <guid>https://matrix.dev/blog-2026-04-04</guid>
-      <pubDate>Sun, 05 Apr 2026 00:02:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>(Ab)use HDR images for marketing</title>
-      <link>https://tn1ck.com/blog/abuse-hdr-images-for-marketing</link>
-      <description>How HDR images can make logos and highlights appear unnaturally bright, and how to create them yourself.</description>
-      <category>apple</category>
-      <guid>https://tn1ck.com/blog/abuse-hdr-images-for-marketing</guid>
-      <pubDate>Sun, 05 Apr 2026 00:02:16 GMT</pubDate>
     </item>
   </channel>
 </rss>
