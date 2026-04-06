@@ -246,13 +246,5 @@
     "Domain": "ergosphere.blog",
     "Description": "On AI agents, grunt work, and the part of science that isn't replaceable.",
     "Confidence": 0.9682088
-  },
-  {
-    "Title": "Mobile Device Vulnerability Management Concept",
-    "Url": "https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/",
-    "Timestamp": "2026-04-05T10:02:23",
-    "Domain": "bmi.usercontent.opencode.de",
-    "Description": "The Wallet Unit provides for authentication means which can be bound to multiple identification means, such as the PID, via a public/private key pair, see cryptography.",
-    "Confidence": 0.980195
   }
 ]

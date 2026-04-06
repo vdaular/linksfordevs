@@ -304,15 +304,5 @@ I’ll do this while contextualizing the project and my background so you can in
       <guid>https://ergosphere.blog/posts/the-machines-are-fine/</guid>
       <pubDate>Sun, 05 Apr 2026 14:02:12 GMT</pubDate>
     </item>
-    <item>
-      <title>Mobile Device Vulnerability Management Concept</title>
-      <link>https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/</link>
-      <description>The Wallet Unit provides for authentication means which can be bound to multiple identification means, such as the PID, via a public/private key pair, see cryptography.</description>
-      <category>android</category>
-      <category>apple</category>
-      <category>encryption</category>
-      <guid>https://bmi.usercontent.opencode.de/eudi-wallet/wallet-development-documentation-public/latest/architecture-concept/06-mobile-devices/02-mdvm/</guid>
-      <pubDate>Sun, 05 Apr 2026 10:02:23 GMT</pubDate>
-    </item>
   </channel>
 </rss>
