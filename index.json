@@ -254,21 +254,5 @@
     "Domain": "bmi.usercontent.opencode.de",
     "Description": "The Wallet Unit provides for authentication means which can be bound to multiple identification means, such as the PID, via a public/private key pair, see cryptography.",
     "Confidence": 0.980195
-  },
-  {
-    "Title": "AWS Engineer Reports PostgreSQL Performance Halved By Linux 7.0, But A Fix May Not Be Easy",
-    "Url": "https://www.phoronix.com/news/Linux-7.0-AWS-PostgreSQL-Drop",
-    "Timestamp": "2026-04-05T08:02:11",
-    "Domain": "www.phoronix.com",
-    "Description": "An Amazon/AWS engineer raised the alarms on Friday over the current Linux 7.0 development kernel leading to the throughput for the PostgreSQL database server being around half that of prior kernel versions",
-    "Confidence": 0.9333952
-  },
-  {
-    "Title": "It's not that deep",
-    "Url": "https://idiallo.com/blog/its-not-that-deep?src=feed",
-    "Timestamp": "2026-04-05T08:02:07",
-    "Domain": "idiallo.com",
-    "Description": "I have these Sunday evenings where I find myself sitting alone at the kitchen table, thinking about my life and how I got here. Usually, these sessions end with an inspiring idea that makes me want to",
-    "Confidence": 0.9855534
   }
 ]
