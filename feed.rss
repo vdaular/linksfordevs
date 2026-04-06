@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Advanced Search for YouTube - Playlists.at</title>
+      <link>https://playlists.at/youtube/search/</link>
+      <description>Advanced search for YouTube videos with filters for duration, date, title, and more.</description>
+      <category>youtube</category>
+      <guid>https://playlists.at/youtube/search/</guid>
+      <pubDate>Mon, 06 Apr 2026 12:02:25 GMT</pubDate>
+    </item>
+    <item>
       <title>GitHub - arman-bd/guppylm: A ~9M parameter LLM that talks like a small fish.</title>
       <link>https://github.com/arman-bd/guppylm</link>
       <description>A ~9M parameter LLM that talks like a small fish. Contribute to arman-bd/guppylm development by creating an account on GitHub.</description>
