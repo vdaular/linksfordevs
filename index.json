@@ -254,13 +254,5 @@
     "Domain": "shkspr.mobi",
     "Description": "Like all good nerds, I generate a unique email address for every service I sign up to. This has several advantages - it allows me to see if a message is legitimately from a service, if a service is hacked the hackers can't go credential stuffing, and I instantly know who leaked my address.  A few weeks ago I signed up for BrowserStack as I wanted to join their Open Source programme. I had a few…",
     "Confidence": 0.9705358
-  },
-  {
-    "Title": "GitHub - JuliusBrussee/caveman: 🪨 why use many token when few token do trick — Claude Code skill that cuts 75% of tokens by talking like caveman",
-    "Url": "https://github.com/JuliusBrussee/caveman",
-    "Timestamp": "2026-04-05T15:02:12",
-    "Domain": "github.com",
-    "Description": "🪨 why use many token when few token do trick — Claude Code skill that cuts 75% of tokens by talking like caveman - JuliusBrussee/caveman",
-    "Confidence": 0.9166974
   }
 ]
