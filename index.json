@@ -222,13 +222,5 @@
     "Domain": "www.0xsid.com",
     "Description": "As someone who prefers using services via their websites, I’ve gotten terribly jaded lately. Almost everyone wants me, and by extension, you, to use their darn apps to consume content and off their web versions.",
     "Confidence": 0.9621285
-  },
-  {
-    "Title": "Surveillance Findings: Age Verification as Mass Surveillance Infrastructure",
-    "Url": "https://tboteproject.com/surveillancefindings/",
-    "Timestamp": "2026-04-06T14:02:11",
-    "Domain": "tboteproject.com",
-    "Description": "OSINT investigation documenting how age verification laws across three countries funnel citizen biometric data through a 269-check surveillance pipeline with government reporting capabilities.",
-    "Confidence": 0.98521686
   }
 ]
