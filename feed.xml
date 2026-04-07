@@ -340,13 +340,5 @@ Get the shirt!  https://amzn.to/4dtdiS9</description>
       <guid>https://xkcd.com/3229/</guid>
       <pubDate>Mon, 06 Apr 2026 22:02:13 GMT</pubDate>
     </item>
-    <item>
-      <title>The Battle for Wesnoth</title>
-      <link>https://www.wesnoth.org/</link>
-      <description>The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. It features both singleplayer and online/hotseat multiplayer combat.</description>
-      <category>gaming</category>
-      <guid>https://www.wesnoth.org/</guid>
-      <pubDate>Mon, 06 Apr 2026 21:02:20 GMT</pubDate>
-    </item>
   </channel>
 </rss>

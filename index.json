@@ -246,13 +246,5 @@
     "Domain": "xkcd.com",
     "Description": "",
     "Confidence": 0.98151064
-  },
-  {
-    "Title": "The Battle for Wesnoth",
-    "Url": "https://www.wesnoth.org/",
-    "Timestamp": "2026-04-06T21:02:20",
-    "Domain": "www.wesnoth.org",
-    "Description": "The Battle for Wesnoth is an open source, turn-based strategy game with a high fantasy theme. It features both singleplayer and online/hotseat multiplayer combat.",
-    "Confidence": 0.684074
   }
 ]
