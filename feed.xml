@@ -294,13 +294,5 @@ Get the shirt!  https://amzn.to/4dtdiS9</description>
       <guid>https://playlists.at/youtube/search/</guid>
       <pubDate>Mon, 06 Apr 2026 12:02:25 GMT</pubDate>
     </item>
-    <item>
-      <title>GitHub - arman-bd/guppylm: A ~9M parameter LLM that talks like a small fish.</title>
-      <link>https://github.com/arman-bd/guppylm</link>
-      <description>A ~9M parameter LLM that talks like a small fish. Contribute to arman-bd/guppylm development by creating an account on GitHub.</description>
-      <category>python</category>
-      <guid>https://github.com/arman-bd/guppylm</guid>
-      <pubDate>Mon, 06 Apr 2026 07:02:10 GMT</pubDate>
-    </item>
   </channel>
 </rss>
