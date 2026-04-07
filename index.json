@@ -1,5 +1,189 @@
 [
   {
+    "Title": "Building slogbox",
+    "Url": "https://alexrios.me/blog/slogbox-devlog/",
+    "Timestamp": "2026-04-07T23:05:15",
+    "Domain": "alexrios.me",
+    "Description": "A design journal for slogbox, a zero-dependency slog.Handler that keeps recent logs in a ring buffer",
+    "Confidence": 0.98854756
+  },
+  {
+    "Title": "Making of words.zip",
+    "Url": "https://luke.zip/posts/making-of-words/",
+    "Timestamp": "2026-04-07T23:05:11",
+    "Domain": "luke.zip",
+    "Description": "How infinite is it really?",
+    "Confidence": 0.979927
+  },
+  {
+    "Title": "Multi-agentic Software Development is a Distributed Systems Problem (AGI can't save you from it)",
+    "Url": "https://kirancodes.me/posts/log-distributed-llms.html",
+    "Timestamp": "2026-04-07T23:05:07",
+    "Domain": "kirancodes.me",
+    "Description": "Recently, I've been thinking a lot about scaffolding and languages for\nmanaging systems of LLMs coordinating with each other — new\nprogramming languages might be the ideal solution for this area.",
+    "Confidence": 0.9808362
+  },
+  {
+    "Title": "The Hard Problems Nobody Has Solved - Log - nibzard",
+    "Url": "https://www.nibzard.com/hard-problems",
+    "Timestamp": "2026-04-07T23:05:03",
+    "Domain": "www.nibzard.com",
+    "Description": "Four unsolved problems blocking the agentic future: correctness, architecture drift, context scaling, and judgment.",
+    "Confidence": 0.9935008
+  },
+  {
+    "Title": "When Small Parquet Files Become a Big Problem (and How I Ended Up Writing a Compactor in PyArrow)",
+    "Url": "https://www.datobra.com/when-small-parquet-files-become-a-big-problem-and-how-i-ended-up-writing-a-compactor-in-pyarrow/",
+    "Timestamp": "2026-04-07T23:04:40",
+    "Domain": "www.datobra.com",
+    "Description": "Learn how to compact small Parquet files using PyArrow with and without batching. A hands-on guide based on real NYC taxi data and a demo notebook.",
+    "Confidence": 0.9900418
+  },
+  {
+    "Title": "Two Years of Valkey",
+    "Url": "https://redmonk.com/sogrady/2026/04/06/valkey-at-two/",
+    "Timestamp": "2026-04-07T23:04:34",
+    "Domain": "redmonk.com",
+    "Description": "Two years ago last month, a group of former contributors to the Redis project announced their intention to collaborate instead on a competitive fork. Triggered by the decision to shift Redis away from the permissive open source BSD license to source available alternatives – the Redis Source Available License (RSALv2) and Server Side Public License",
+    "Confidence": 0.98331183
+  },
+  {
+    "Title": "The Life of a Claude Code Query",
+    "Url": "https://jadidbourbaki.github.io/blog/claude-code-architecture/",
+    "Timestamp": "2026-04-07T23:04:30",
+    "Domain": "jadidbourbaki.github.io",
+    "Description": "Production agentic systems are systems engineering artifacts. Classical OS patterns, including cache hierarchies, demand paging, process forking, and syscall interposition, re-emerge in AI agent design.",
+    "Confidence": 0.9816906
+  },
+  {
+    "Title": "Ignore soft skills at your peril",
+    "Url": "https://togetherlondon.com/insights/ignore-soft-skills-at-your-peril",
+    "Timestamp": "2026-04-07T23:04:27",
+    "Domain": "togetherlondon.com",
+    "Description": "Concentrating on your strengths makes you easy to manipulate.",
+    "Confidence": 0.9837057
+  },
+  {
+    "Title": "The soul of an old machine",
+    "Url": "https://skalski.dev/the-soul-of-an-old-machine/",
+    "Timestamp": "2026-04-07T23:04:21",
+    "Domain": "skalski.dev",
+    "Description": "Michal Skalski's personal page",
+    "Confidence": 0.841185
+  },
+  {
+    "Title": "Vibe Coding Tools are a BattleMech · Alex Meub",
+    "Url": "https://alexmeub.com/vibe-coding-tools-are-a-battlemech/",
+    "Timestamp": "2026-04-07T23:04:12",
+    "Domain": "alexmeub.com",
+    "Description": "Using modern AI coding tools feels like jumping into the cockpit of a BattleMech.",
+    "Confidence": 0.9847706
+  },
+  {
+    "Title": "Engineering Is Moving Up the Stack",
+    "Url": "https://sanderknape.com/2026/04/engineering-moving-up-the-stack/",
+    "Timestamp": "2026-04-07T23:04:08",
+    "Domain": "sanderknape.com",
+    "Description": "The debate about AI and software development is stuck on the wrong question.\nMost discussions ask whether AI writes good enough code, whether it matches human craftsmanship, whether it introduces bugs, whether developers can trust it. Reasonable questions. Increasingly beside the point.\nThe shift that matters more isn’t about code quality. It’s about where engineering effort is required at all.\nAI is moving engineering up the stack, from writing code to designing systems to managing the lifecycle of software in production. The work doesn’t disappear. It shifts upward, toward broader and more structural concerns.",
+    "Confidence": 0.98966765
+  },
+  {
+    "Title": "knoxnotes",
+    "Url": "https://knxnts.xyz/blog-4.6.26.html",
+    "Timestamp": "2026-04-07T23:04:04",
+    "Domain": "knxnts.xyz",
+    "Description": "4.6.26 - I Sent This Blog From My Email App",
+    "Confidence": 0.9664653
+  },
+  {
+    "Title": "Code is an afterthought",
+    "Url": "https://blog.ignaciobrasca.com/systems/2026/03/01/code-is-an-afterthought.html",
+    "Timestamp": "2026-04-07T23:04:00",
+    "Domain": "blog.ignaciobrasca.com",
+    "Description": "Currently working in the finance industry to humanize tools and make them more accessible to individuals. As a child, I enjoyed coding and creating games as a hobby.",
+    "Confidence": 0.9390829
+  },
+  {
+    "Title": "NanoClaw's Architecture is a Masterclass in Doing Less",
+    "Url": "https://jonno.nz/posts/nanoclaw-architecture-masterclass-in-doing-less/",
+    "Timestamp": "2026-04-07T23:03:55",
+    "Domain": "jonno.nz",
+    "Description": "I pulled apart NanoClaw's 8,000-line codebase and found six architectural patterns that most SaaS teams should steal — credential proxies, container isola…",
+    "Confidence": 0.99205005
+  },
+  {
+    "Title": "For The Love of Internet",
+    "Url": "https://ankshilp.in/posts/for-the-love-of-internet/",
+    "Timestamp": "2026-04-07T23:03:50",
+    "Domain": "ankshilp.in",
+    "Description": "Two decades ago, when Indian ISPs had adequate IPv4 addresses, they were allocating free public IPs. I remember how exciting it was to host my own website from home and be able to access it from anywhere. Gaming was seamless with public IP. Peer to peer apps just worked. But as Internet users grew ISPs decided to deploy NAT. No more public IPs, no more free hosting. And it’s been like that for two decades now.",
+    "Confidence": 0.9443305
+  },
+  {
+    "Title": "A Case for Mars (Dave Jarvis)",
+    "Url": "https://dave.autonoma.ca/blog/2026/04/06/case-for-mars/",
+    "Timestamp": "2026-04-07T23:03:47",
+    "Domain": "dave.autonoma.ca",
+    "Description": "Software development blog",
+    "Confidence": 0.8671655
+  },
+  {
+    "Title": "Don't get used to Skills, they'll (mostly) be gone in a year.",
+    "Url": "https://armanckeser.com/writing/skills-in-a-year",
+    "Timestamp": "2026-04-07T23:03:42",
+    "Domain": "armanckeser.com",
+    "Description": "Why Skills don't pass first principles",
+    "Confidence": 0.9703188
+  },
+  {
+    "Title": "The issues with issue trackers",
+    "Url": "https://bzg.fr/en/notes/the-issue-with-issue-trackers/",
+    "Timestamp": "2026-04-07T23:03:14",
+    "Domain": "bzg.fr",
+    "Description": "\"I'd love to see that more unified.\" -- Linus Torvalds In this interview about Git, Linus Torvalds is asked what areas of the tool still need to evolve. He answ...",
+    "Confidence": 0.9966452
+  },
+  {
+    "Title": "My now immaculate knowledge graph of life",
+    "Url": "https://harper.blog/2026/03/11/2026-immaculate-knowledge-graph/",
+    "Timestamp": "2026-04-07T23:03:05",
+    "Domain": "harper.blog",
+    "Description": "Turning meeting transcripts into an Obsidian knowledge graph. Using Granola, a small Rust CLI, and a Claude skill, I extracted people and concepts from ~600 meetings and let the graph build itself. The result: a surprisingly dense map of relationships, ideas, and patterns hiding in everyday conversations.",
+    "Confidence": 0.9759914
+  },
+  {
+    "Title": "What is a property?",
+    "Url": "https://alperenkeles.com/posts/what-is-a-property/",
+    "Timestamp": "2026-04-07T23:03:02",
+    "Domain": "alperenkeles.com",
+    "Description": "Posted on 2026-04-05\n                    \n\n                    \n\n                    :: \n  \n  \n  \n  8 min read\n\n\n                    \n                    \n                             :: Tags:\n                            \n                                    testing",
+    "Confidence": 0.9984814
+  },
+  {
+    "Title": "Claude Is Not Your Architect. Stop Letting It Pretend.",
+    "Url": "https://www.hollandtech.net/claude-is-not-your-architect/",
+    "Timestamp": "2026-04-07T23:02:51",
+    "Domain": "www.hollandtech.net",
+    "Description": "Somewhere between 'ask Claude for a quick opinion' and 'Claude is writing our Jira tickets,' we lost the plot. AI agents are brilliant implementers. They're also confidently wrong about every decision that matters. And when it all falls over, they won't be the ones carrying the bag.",
+    "Confidence": 0.98097813
+  },
+  {
+    "Title": "The UI of Agentic SaaS",
+    "Url": "https://akashyap.ai/the-ui-of-agentic-saas/",
+    "Timestamp": "2026-04-07T23:02:47",
+    "Domain": "akashyap.ai",
+    "Description": "Bruges\n\nThis essay came together while I was thinking through interfaces, value, and surfaces in Bruges.\n\nIf you haven't read my previous essay, read it ...",
+    "Confidence": 0.97182375
+  },
+  {
+    "Title": "If you don't write it, I don't read it",
+    "Url": "https://josem.co/if-you-dont-write-it-i-dont-read-it/",
+    "Timestamp": "2026-04-07T23:02:43",
+    "Domain": "josem.co",
+    "Description": "Writing is sometimes repetitive, hard, and boring, but if you don't spend the time writing something, expect the same from your readers when they encounter your text.",
+    "Confidence": 0.8820162
+  },
+  {
     "Title": "GLM-5.1: Towards Long-Horizon Tasks",
     "Url": "https://z.ai/blog/glm-5.1",
     "Timestamp": "2026-04-07T20:02:42",
@@ -70,173 +254,5 @@
     "Domain": "www.osnews.com",
     "Description": "Home > Clown car > Adobe secretly modifies your hosts file for the stupidest reason",
     "Confidence": 0.9857704
-  },
-  {
-    "Title": "Vibe Analysis",
-    "Url": "https://newsletter.dancohen.org/archive/vibe-analysis/",
-    "Timestamp": "2026-04-06T23:04:03",
-    "Domain": "newsletter.dancohen.org",
-    "Description": "Despite its unserious name, vibe coding shows promise for elements of serious scholarly work",
-    "Confidence": 0.9644929
-  },
-  {
-    "Title": "Code generation that just works",
-    "Url": "https://maryrosecook.com/blog/post/code-generation-that-just-works",
-    "Timestamp": "2026-04-06T23:03:54",
-    "Domain": "maryrosecook.com",
-    "Description": "About nine months ago, my son said he wanted to make a video game. He said it was called Exploding Kitties. We made it together on my computer. He described ...",
-    "Confidence": 0.992171
-  },
-  {
-    "Title": "Building More Resilient Local-First Software with atproto | jakelazaroff.com",
-    "Url": "https://jakelazaroff.com/words/building-more-resilient-local-first-software-with-atproto/",
-    "Timestamp": "2026-04-06T23:03:51",
-    "Domain": "jakelazaroff.com",
-    "Description": "atproto has the potential to become a rock-solid replacement for the most fragile part of any local-first app: the sync server.",
-    "Confidence": 0.99876285
-  },
-  {
-    "Title": "Alan Kay's Answers on Quora",
-    "Url": "https://kennethfriedman.org/more/alan-kay-answers/",
-    "Timestamp": "2026-04-06T23:03:35",
-    "Domain": "kennethfriedman.org",
-    "Description": "I first met Bill at the famous Steve Jobs visit to Parc to see the Smalltalk system, its GUI, etc. (I might have run into him earlier). After a stint at Atari, Steve Jobs hired me in 1984 as an Apple Fellow (Butler and I had been made Fellows towards the end of our stay at Xerox). Bill had been made an Apple Fellow for his many contributions, especially to the Lisa and Macintosh projects. He was very talented and creative, etc. and our relationship could be characterized as “brotherly”.",
-    "Confidence": 0.9636331
-  },
-  {
-    "Title": "The Disposable Tools Manifesto",
-    "Url": "https://blog.vtemian.com/post/disposable-tools-manifesto/",
-    "Timestamp": "2026-04-06T23:03:30",
-    "Domain": "blog.vtemian.com",
-    "Description": "I built 20+ tools in 6 months and made zero revenue. Here's what I learned about why SaaS is dying and what's replacing it.",
-    "Confidence": 0.9969227
-  },
-  {
-    "Title": "It has never been about code",
-    "Url": "https://www.ufried.com/blog/never_been_about_code/",
-    "Timestamp": "2026-04-06T23:03:26",
-    "Domain": "www.ufried.com",
-    "Description": "AI asking fundamental questions",
-    "Confidence": 0.9846949
-  },
-  {
-    "Title": "All GANS No Brakes",
-    "Url": "https://mayberay.bearblog.dev/all-gans-no-brakes/",
-    "Timestamp": "2026-04-06T23:03:22",
-    "Domain": "mayberay.bearblog.dev",
-    "Description": "This is part 8 and the last entry of my series. In the previous post Generating Human Faces with Variational Autoencoders, we took a deep dive into Variation...",
-    "Confidence": 0.98648775
-  },
-  {
-    "Title": "Outcome over Process",
-    "Url": "https://elijahpotter.dev/articles/outcome-over-process",
-    "Timestamp": "2026-04-06T23:03:19",
-    "Domain": "elijahpotter.dev",
-    "Description": "I don't feel that these performative actions have resulted in any real productivity gains. I realize now, that this is because I was focusing on the wrong thing.",
-    "Confidence": 0.98419726
-  },
-  {
-    "Title": "Building a DIY OpenClaw",
-    "Url": "https://ben.page/claude-mac",
-    "Timestamp": "2026-04-06T23:03:11",
-    "Domain": "ben.page",
-    "Description": "Two months ago, I bought a Mac Mini and spent the weekend furiously building a small clone of OpenClaw so I could text with Claude over iMessage.",
-    "Confidence": 0.87354815
-  },
-  {
-    "Title": "A Cryptography Engineer’s Perspective on Quantum Computing Timelines",
-    "Url": "https://words.filippo.io/crqc-timeline/",
-    "Timestamp": "2026-04-06T23:03:07",
-    "Domain": "words.filippo.io",
-    "Description": "The risk that cryptographically-relevant quantum computers materialize within the next few years is now high enough to be dispositive, unfortunately.",
-    "Confidence": 0.971438
-  },
-  {
-    "Title": "Systems Engineering an agent thanks to the world of Golang  · Blog - MattBits ",
-    "Url": "https://blog.mattsbit.co.uk/2026/04/06/systems-engineering-an-agent-thanks-to-the-world-of-golang/",
-    "Timestamp": "2026-04-06T23:03:04",
-    "Domain": "blog.mattsbit.co.uk",
-    "Description": "",
-    "Confidence": 0.99102616
-  },
-  {
-    "Title": "What Running a Multi-Agent Software Project Actually Looks Like",
-    "Url": "https://www.yella.dev/blog/run-multi-agent-software-project/",
-    "Timestamp": "2026-04-06T23:02:57",
-    "Domain": "www.yella.dev",
-    "Description": "Personal site of Naren Yellavula — Staff Cloud Security Engineer, writer, and builder.",
-    "Confidence": 0.98924273
-  },
-  {
-    "Title": "Give Your Agents Jobs, Not Processes",
-    "Url": "https://geoffstearns.com/blog/give-your-agents-jobs-not-processes/",
-    "Timestamp": "2026-04-06T23:02:53",
-    "Domain": "geoffstearns.com",
-    "Description": "When building AI agents, starting small by hardcoding today's process constrains a system that can reason about goals into a brittle script. Define the job, not the steps.",
-    "Confidence": 0.99159306
-  },
-  {
-    "Title": "Agentic Design Patterns in Production",
-    "Url": "https://jigarkdoshi.bearblog.dev/agentic-design-patterns-in-production/",
-    "Timestamp": "2026-04-06T23:02:50",
-    "Domain": "jigarkdoshi.bearblog.dev",
-    "Description": "front-cover-portrait\nOrigin Story\n\nThis project started as a sequel.\n\nLate last year I published Agentic Patterns in OpenAI's Codex — a project that too...",
-    "Confidence": 0.986453
-  },
-  {
-    "Title": "Your File System Is Already a Graph Database",
-    "Url": "https://rumproarious.com/2026/04/04/your-file-system-is-already-a-graph-database/",
-    "Timestamp": "2026-04-06T23:02:46",
-    "Domain": "rumproarious.com",
-    "Description": "Karpathy recently posted about using LLMs to build personal knowledge bases — collecting raw sources into a directory, having an LLM &ldquo;compile&rdquo; them into a wiki of interlinked markdown …",
-    "Confidence": 0.98647887
-  },
-  {
-    "Title": "Self-hosting from scratch",
-    "Url": "https://wwj.dev/posts/self-hosting-from-scratch/",
-    "Timestamp": "2026-04-06T23:02:43",
-    "Domain": "wwj.dev",
-    "Description": "A series about my self-hosting journey. From clicking through Synology GUIs to running a fully config-driven homelab on a Raspberry Pi. This post outlines the arc and links to each part.",
-    "Confidence": 0.9230677
-  },
-  {
-    "Title": "Building a Custom Claude Code Statusline to Track Worktrees and Usage",
-    "Url": "https://www.dandoescode.com/blog/claude-code-custom-statusline",
-    "Timestamp": "2026-04-06T23:02:40",
-    "Domain": "www.dandoescode.com",
-    "Description": "When vibe coding across multiple git worktrees, losing track of which branch you're on is a real problem. Here's how I built a minimal Claude Code statusline that shows exactly what I need — and nothing more.",
-    "Confidence": 0.98262215
-  },
-  {
-    "Title": "Python: introducing profiling-explorer - Adam Johnson",
-    "Url": "https://adamj.eu/tech/2026/04/03/python-introducing-profiling-explorer/",
-    "Timestamp": "2026-04-06T23:02:36",
-    "Domain": "adamj.eu",
-    "Description": "I’ve made another package! Like icu4py, which I made in February, it was sponsored by my client Rippling. And like tprof, which I made in January, it’s a profiling tool!",
-    "Confidence": 0.992709
-  },
-  {
-    "Title": "Where is it like to be a language model?",
-    "Url": "https://www.robinsloan.com/winter-garden/where-is-it-like/",
-    "Timestamp": "2026-04-06T23:02:33",
-    "Domain": "www.robinsloan.com",
-    "Description": "And is it good to be one?",
-    "Confidence": 0.9345971
-  },
-  {
-    "Title": "Why your NEW computer is SLOWER than your OLD computer!  By a Retired Microsoft Engineer.",
-    "Url": "https://youtube.com/watch?v=t992ul_IKtc",
-    "Timestamp": "2026-04-06T23:02:30",
-    "Domain": "youtube.com",
-    "Description": "Dave explains why your new computer feels slower today than your old one did back then, and what can be done about it!\n\nGet the shirt!  https://amzn.to/4dtdiS9",
-    "Confidence": 0.93389255
-  },
-  {
-    "Title": "Why the Smart Model Reviewer Pattern Is Backwards",
-    "Url": "https://cloudpresser.com/writing/smart-model-reviewer-is-backwards",
-    "Timestamp": "2026-04-06T23:02:28",
-    "Domain": "cloudpresser.com",
-    "Description": "Most AI pipelines have generation and verification backwards. Smart models should generate. Cheap models should verify. The industry is putting its best capability in the wrong place — and it's creating a quality ceiling, not just a cost problem.",
-    "Confidence": 0.9969835
   }
 ]

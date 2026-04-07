@@ -1,5 +1,166 @@
 [
   {
+    "Title": "Building slogbox",
+    "Url": "https://alexrios.me/blog/slogbox-devlog/",
+    "Timestamp": "2026-04-07T23:05:15",
+    "Domain": "alexrios.me",
+    "Description": "A design journal for slogbox, a zero-dependency slog.Handler that keeps recent logs in a ring buffer"
+  },
+  {
+    "Title": "Making of words.zip",
+    "Url": "https://luke.zip/posts/making-of-words/",
+    "Timestamp": "2026-04-07T23:05:11",
+    "Domain": "luke.zip",
+    "Description": "How infinite is it really?"
+  },
+  {
+    "Title": "Multi-agentic Software Development is a Distributed Systems Problem (AGI can't save you from it)",
+    "Url": "https://kirancodes.me/posts/log-distributed-llms.html",
+    "Timestamp": "2026-04-07T23:05:07",
+    "Domain": "kirancodes.me",
+    "Description": "Recently, I've been thinking a lot about scaffolding and languages for\nmanaging systems of LLMs coordinating with each other — new\nprogramming languages might be the ideal solution for this area."
+  },
+  {
+    "Title": "The Hard Problems Nobody Has Solved - Log - nibzard",
+    "Url": "https://www.nibzard.com/hard-problems",
+    "Timestamp": "2026-04-07T23:05:03",
+    "Domain": "www.nibzard.com",
+    "Description": "Four unsolved problems blocking the agentic future: correctness, architecture drift, context scaling, and judgment."
+  },
+  {
+    "Title": "When Small Parquet Files Become a Big Problem (and How I Ended Up Writing a Compactor in PyArrow)",
+    "Url": "https://www.datobra.com/when-small-parquet-files-become-a-big-problem-and-how-i-ended-up-writing-a-compactor-in-pyarrow/",
+    "Timestamp": "2026-04-07T23:04:40",
+    "Domain": "www.datobra.com",
+    "Description": "Learn how to compact small Parquet files using PyArrow with and without batching. A hands-on guide based on real NYC taxi data and a demo notebook."
+  },
+  {
+    "Title": "Two Years of Valkey",
+    "Url": "https://redmonk.com/sogrady/2026/04/06/valkey-at-two/",
+    "Timestamp": "2026-04-07T23:04:34",
+    "Domain": "redmonk.com",
+    "Description": "Two years ago last month, a group of former contributors to the Redis project announced their intention to collaborate instead on a competitive fork. Triggered by the decision to shift Redis away from the permissive open source BSD license to source available alternatives – the Redis Source Available License (RSALv2) and Server Side Public License"
+  },
+  {
+    "Title": "The Life of a Claude Code Query",
+    "Url": "https://jadidbourbaki.github.io/blog/claude-code-architecture/",
+    "Timestamp": "2026-04-07T23:04:30",
+    "Domain": "jadidbourbaki.github.io",
+    "Description": "Production agentic systems are systems engineering artifacts. Classical OS patterns, including cache hierarchies, demand paging, process forking, and syscall interposition, re-emerge in AI agent design."
+  },
+  {
+    "Title": "Ignore soft skills at your peril",
+    "Url": "https://togetherlondon.com/insights/ignore-soft-skills-at-your-peril",
+    "Timestamp": "2026-04-07T23:04:27",
+    "Domain": "togetherlondon.com",
+    "Description": "Concentrating on your strengths makes you easy to manipulate."
+  },
+  {
+    "Title": "The soul of an old machine",
+    "Url": "https://skalski.dev/the-soul-of-an-old-machine/",
+    "Timestamp": "2026-04-07T23:04:21",
+    "Domain": "skalski.dev",
+    "Description": "Michal Skalski's personal page"
+  },
+  {
+    "Title": "Vibe Coding Tools are a BattleMech · Alex Meub",
+    "Url": "https://alexmeub.com/vibe-coding-tools-are-a-battlemech/",
+    "Timestamp": "2026-04-07T23:04:12",
+    "Domain": "alexmeub.com",
+    "Description": "Using modern AI coding tools feels like jumping into the cockpit of a BattleMech."
+  },
+  {
+    "Title": "Engineering Is Moving Up the Stack",
+    "Url": "https://sanderknape.com/2026/04/engineering-moving-up-the-stack/",
+    "Timestamp": "2026-04-07T23:04:08",
+    "Domain": "sanderknape.com",
+    "Description": "The debate about AI and software development is stuck on the wrong question.\nMost discussions ask whether AI writes good enough code, whether it matches human craftsmanship, whether it introduces bugs, whether developers can trust it. Reasonable questions. Increasingly beside the point.\nThe shift that matters more isn’t about code quality. It’s about where engineering effort is required at all.\nAI is moving engineering up the stack, from writing code to designing systems to managing the lifecycle of software in production. The work doesn’t disappear. It shifts upward, toward broader and more structural concerns."
+  },
+  {
+    "Title": "knoxnotes",
+    "Url": "https://knxnts.xyz/blog-4.6.26.html",
+    "Timestamp": "2026-04-07T23:04:04",
+    "Domain": "knxnts.xyz",
+    "Description": "4.6.26 - I Sent This Blog From My Email App"
+  },
+  {
+    "Title": "Code is an afterthought",
+    "Url": "https://blog.ignaciobrasca.com/systems/2026/03/01/code-is-an-afterthought.html",
+    "Timestamp": "2026-04-07T23:04:00",
+    "Domain": "blog.ignaciobrasca.com",
+    "Description": "Currently working in the finance industry to humanize tools and make them more accessible to individuals. As a child, I enjoyed coding and creating games as a hobby."
+  },
+  {
+    "Title": "NanoClaw's Architecture is a Masterclass in Doing Less",
+    "Url": "https://jonno.nz/posts/nanoclaw-architecture-masterclass-in-doing-less/",
+    "Timestamp": "2026-04-07T23:03:55",
+    "Domain": "jonno.nz",
+    "Description": "I pulled apart NanoClaw's 8,000-line codebase and found six architectural patterns that most SaaS teams should steal — credential proxies, container isola…"
+  },
+  {
+    "Title": "For The Love of Internet",
+    "Url": "https://ankshilp.in/posts/for-the-love-of-internet/",
+    "Timestamp": "2026-04-07T23:03:50",
+    "Domain": "ankshilp.in",
+    "Description": "Two decades ago, when Indian ISPs had adequate IPv4 addresses, they were allocating free public IPs. I remember how exciting it was to host my own website from home and be able to access it from anywhere. Gaming was seamless with public IP. Peer to peer apps just worked. But as Internet users grew ISPs decided to deploy NAT. No more public IPs, no more free hosting. And it’s been like that for two decades now."
+  },
+  {
+    "Title": "A Case for Mars (Dave Jarvis)",
+    "Url": "https://dave.autonoma.ca/blog/2026/04/06/case-for-mars/",
+    "Timestamp": "2026-04-07T23:03:47",
+    "Domain": "dave.autonoma.ca",
+    "Description": "Software development blog"
+  },
+  {
+    "Title": "Don't get used to Skills, they'll (mostly) be gone in a year.",
+    "Url": "https://armanckeser.com/writing/skills-in-a-year",
+    "Timestamp": "2026-04-07T23:03:42",
+    "Domain": "armanckeser.com",
+    "Description": "Why Skills don't pass first principles"
+  },
+  {
+    "Title": "The issues with issue trackers",
+    "Url": "https://bzg.fr/en/notes/the-issue-with-issue-trackers/",
+    "Timestamp": "2026-04-07T23:03:14",
+    "Domain": "bzg.fr",
+    "Description": "\"I'd love to see that more unified.\" -- Linus Torvalds In this interview about Git, Linus Torvalds is asked what areas of the tool still need to evolve. He answ..."
+  },
+  {
+    "Title": "My now immaculate knowledge graph of life",
+    "Url": "https://harper.blog/2026/03/11/2026-immaculate-knowledge-graph/",
+    "Timestamp": "2026-04-07T23:03:05",
+    "Domain": "harper.blog",
+    "Description": "Turning meeting transcripts into an Obsidian knowledge graph. Using Granola, a small Rust CLI, and a Claude skill, I extracted people and concepts from ~600 meetings and let the graph build itself. The result: a surprisingly dense map of relationships, ideas, and patterns hiding in everyday conversations."
+  },
+  {
+    "Title": "What is a property?",
+    "Url": "https://alperenkeles.com/posts/what-is-a-property/",
+    "Timestamp": "2026-04-07T23:03:02",
+    "Domain": "alperenkeles.com",
+    "Description": "Posted on 2026-04-05\n                    \n\n                    \n\n                    :: \n  \n  \n  \n  8 min read\n\n\n                    \n                    \n                             :: Tags:\n                            \n                                    testing"
+  },
+  {
+    "Title": "Claude Is Not Your Architect. Stop Letting It Pretend.",
+    "Url": "https://www.hollandtech.net/claude-is-not-your-architect/",
+    "Timestamp": "2026-04-07T23:02:51",
+    "Domain": "www.hollandtech.net",
+    "Description": "Somewhere between 'ask Claude for a quick opinion' and 'Claude is writing our Jira tickets,' we lost the plot. AI agents are brilliant implementers. They're also confidently wrong about every decision that matters. And when it all falls over, they won't be the ones carrying the bag."
+  },
+  {
+    "Title": "The UI of Agentic SaaS",
+    "Url": "https://akashyap.ai/the-ui-of-agentic-saas/",
+    "Timestamp": "2026-04-07T23:02:47",
+    "Domain": "akashyap.ai",
+    "Description": "Bruges\n\nThis essay came together while I was thinking through interfaces, value, and surfaces in Bruges.\n\nIf you haven't read my previous essay, read it ..."
+  },
+  {
+    "Title": "If you don't write it, I don't read it",
+    "Url": "https://josem.co/if-you-dont-write-it-i-dont-read-it/",
+    "Timestamp": "2026-04-07T23:02:43",
+    "Domain": "josem.co",
+    "Description": "Writing is sometimes repetitive, hard, and boring, but if you don't spend the time writing something, expect the same from your readers when they encounter your text."
+  },
+  {
     "Title": "GLM-5.1: Towards Long-Horizon Tasks",
     "Url": "https://z.ai/blog/glm-5.1",
     "Timestamp": "2026-04-07T20:02:42",
