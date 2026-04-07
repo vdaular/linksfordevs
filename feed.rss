@@ -7,6 +7,52 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>What Everyone Missed About Emdash, Cloudflare's Wordpress Alternative</title>
+      <link>https://youtube.com/watch?v=hgOJH9bp75k</link>
+      <description>Cloudflare just dropped EmDash, their AI-native, open-source WordPress alternative, and you might have missed the most important part.
+
+It's not the Astro-powered theming. It's not the AI-native CMS features. It's Dynamic Workers, the isolated runtime that completely rethinks how plugins work. Instead of giving plugins access to your entire site (database, theme, media), EmDash runs each plugin in a sandboxed V8 isolate with only the permissions you explicitly grant. And the implications for AI-generated code are massive.
+
+Links &amp; Resources
+EmDash Blog Post - https://blog.cloudflare.com/emdash-wordpress/
+Dynamic Workers Documentation - https://developers.cloudflare.com/dynamic-workers/
+Craig Dennis - Building Secure Apps with Dynamic Workers - https://www.youtube.com/watch?v=Z9-wwXaoA68
+
+**Newsletter**
+Newsletter 🗞 - https://www.jamesqquick.com/newsletter
+Follow me on Twitter 🐦 - https://www.twitter.com/jamesqquick
+
+Timestamps / Chapters
+
+0:00 Intro — The feature everyone overlooked
+0:37 What is M Dash?
+1:38 Powered by Astro
+2:49 AI-native CMS features
+3:56 WordPress plugin security problem
+4:57 How Dynamic Workers fix it
+6:28 V8 isolates &amp; sub-5ms startup
+7:40 AI code mode &amp; vibe coding
+8:52 Craig Dennis's Dynamic Workers demo
+9:57 Final thoughts &amp; what's next</description>
+      <author> (James Q Quick)</author>
+      <category>ai</category>
+      <category>youtube</category>
+      <category>sql</category>
+      <guid>https://youtube.com/watch?v=hgOJH9bp75k</guid>
+      <pubDate>Tue, 07 Apr 2026 16:02:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>JUXT Blog: A bug on the dark side of the Moon</title>
+      <link>https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/</link>
+      <description>How a specification found what fifty-seven years of scrutiny missed.</description>
+      <author> (Henry Garner)</author>
+      <category>ai</category>
+      <category>rust</category>
+      <category>python</category>
+      <guid>https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/</guid>
+      <pubDate>Tue, 07 Apr 2026 16:02:19 GMT</pubDate>
+    </item>
+    <item>
       <title>Are We Idiocracy Yet?</title>
       <link>https://idiocracy.wtf/</link>
       <description>Tracking how close reality is to Mike Judge's Idiocracy. It's got electrolytes.</description>
