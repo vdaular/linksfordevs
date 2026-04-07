@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Dropping Cloudflare for bunny.net | jola.dev</title>
+      <link>https://jola.dev/posts/dropping-cloudflare</link>
+      <description>Dropping Cloudflare and migrating to bunny.net, starting out with my blog.</description>
+      <author> (https://jola.dev/about)</author>
+      <category>git</category>
+      <category>web</category>
+      <category>javascript</category>
+      <guid>https://jola.dev/posts/dropping-cloudflare</guid>
+      <pubDate>Tue, 07 Apr 2026 17:02:33 GMT</pubDate>
+    </item>
+    <item>
       <title>What Everyone Missed About Emdash, Cloudflare's Wordpress Alternative</title>
       <link>https://youtube.com/watch?v=hgOJH9bp75k</link>
       <description>Cloudflare just dropped EmDash, their AI-native, open-source WordPress alternative, and you might have missed the most important part.
@@ -312,18 +323,6 @@ Get the shirt!  https://amzn.to/4dtdiS9</description>
       <category>gaming</category>
       <guid>https://www.wesnoth.org/</guid>
       <pubDate>Mon, 06 Apr 2026 21:02:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>No, I Won't Download Your App. The Web Version is A-OK.</title>
-      <link>https://www.0xsid.com/blog/wont-download-your-app</link>
-      <description>As someone who prefers using services via their websites, I’ve gotten terribly jaded lately. Almost everyone wants me, and by extension, you, to use their darn apps to consume content and off their web versions.</description>
-      <category>gaming</category>
-      <category>cloud</category>
-      <category>apple</category>
-      <category>git</category>
-      <category>javascript</category>
-      <guid>https://www.0xsid.com/blog/wont-download-your-app</guid>
-      <pubDate>Mon, 06 Apr 2026 17:02:16 GMT</pubDate>
     </item>
   </channel>
 </rss>
