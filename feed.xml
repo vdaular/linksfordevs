@@ -7,6 +7,30 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>GLM-5.1: Towards Long-Horizon Tasks</title>
+      <link>https://z.ai/blog/glm-5.1</link>
+      <description>GLM-5.1 is our next-generation flagship model for agentic engineering, with significantly stronger coding capabilities than its predecessor. It achieves state-of-the-art performance on SWE-Bench Pro and leads GLM-5 by a wide margin on NL2Repo (repo generation) and Terminal-Bench 2.0 (real-world terminal tasks).</description>
+      <category>ai</category>
+      <category>linux</category>
+      <category>rust</category>
+      <category>containers</category>
+      <category>sql</category>
+      <guid>https://z.ai/blog/glm-5.1</guid>
+      <pubDate>Tue, 07 Apr 2026 20:02:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Project Glasswing: Securing critical software for the AI era</title>
+      <link>https://www.anthropic.com/glasswing</link>
+      <description>A new initiative to secure the world’s most critical software and give defenders a durable advantage in the coming AI-driven era of cybersecurity.</description>
+      <category>ai</category>
+      <category>linux</category>
+      <category>encryption</category>
+      <category>gaming</category>
+      <category>cloud</category>
+      <guid>https://www.anthropic.com/glasswing</guid>
+      <pubDate>Tue, 07 Apr 2026 20:02:37 GMT</pubDate>
+    </item>
+    <item>
       <title>Dropping Cloudflare for bunny.net | jola.dev</title>
       <link>https://jola.dev/posts/dropping-cloudflare</link>
       <description>Dropping Cloudflare and migrating to bunny.net, starting out with my blog.</description>

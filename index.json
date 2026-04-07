@@ -1,5 +1,21 @@
 [
   {
+    "Title": "GLM-5.1: Towards Long-Horizon Tasks",
+    "Url": "https://z.ai/blog/glm-5.1",
+    "Timestamp": "2026-04-07T20:02:42",
+    "Domain": "z.ai",
+    "Description": "GLM-5.1 is our next-generation flagship model for agentic engineering, with significantly stronger coding capabilities than its predecessor. It achieves state-of-the-art performance on SWE-Bench Pro and leads GLM-5 by a wide margin on NL2Repo (repo generation) and Terminal-Bench 2.0 (real-world terminal tasks).",
+    "Confidence": 0.98503256
+  },
+  {
+    "Title": "Project Glasswing: Securing critical software for the AI era",
+    "Url": "https://www.anthropic.com/glasswing",
+    "Timestamp": "2026-04-07T20:02:37",
+    "Domain": "www.anthropic.com",
+    "Description": "A new initiative to secure the world’s most critical software and give defenders a durable advantage in the coming AI-driven era of cybersecurity.",
+    "Confidence": 0.9452206
+  },
+  {
     "Title": "Dropping Cloudflare for bunny.net | jola.dev",
     "Url": "https://jola.dev/posts/dropping-cloudflare",
     "Timestamp": "2026-04-07T17:02:33",
