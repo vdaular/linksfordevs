@@ -238,13 +238,5 @@
     "Domain": "cloudpresser.com",
     "Description": "Most AI pipelines have generation and verification backwards. Smart models should generate. Cheap models should verify. The industry is putting its best capability in the wrong place — and it's creating a quality ceiling, not just a cost problem.",
     "Confidence": 0.9969835
-  },
-  {
-    "Title": "Grammar",
-    "Url": "https://xkcd.com/3229/",
-    "Timestamp": "2026-04-06T22:02:13",
-    "Domain": "xkcd.com",
-    "Description": "",
-    "Confidence": 0.98151064
   }
 ]
