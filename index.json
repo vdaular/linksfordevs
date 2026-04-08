@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Claude Mythos Preview",
+    "Url": "https://red.anthropic.com/2026/mythos-preview/",
+    "Timestamp": "2026-04-08T02:02:14",
+    "Domain": "red.anthropic.com",
+    "Description": "April 7, 2026",
+    "Confidence": 0.9806748
+  },
+  {
     "Title": "Building slogbox",
     "Url": "https://alexrios.me/blog/slogbox-devlog/",
     "Timestamp": "2026-04-07T23:05:15",

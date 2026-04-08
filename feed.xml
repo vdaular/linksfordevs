@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Claude Mythos Preview</title>
+      <link>https://red.anthropic.com/2026/mythos-preview/</link>
+      <description>April 7, 2026</description>
+      <category>ai</category>
+      <category>cloud</category>
+      <guid>https://red.anthropic.com/2026/mythos-preview/</guid>
+      <pubDate>Wed, 08 Apr 2026 02:02:14 GMT</pubDate>
+    </item>
+    <item>
       <title>Building slogbox</title>
       <link>https://alexrios.me/blog/slogbox-devlog/</link>
       <description>A design journal for slogbox, a zero-dependency slog.Handler that keeps recent logs in a ring buffer</description>
