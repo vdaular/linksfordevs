@@ -1,5 +1,109 @@
 [
   {
+    "Title": "The journey to a datacenter in a box",
+    "Url": "https://merqur.io/2026/04/08/the-journey-to-a-datacenter-in-a-box/",
+    "Timestamp": "2026-04-08T22:03:09",
+    "Domain": "merqur.io",
+    "Description": "It all started with silence. The hum of my old, decapitalized laptop, the one running my entire homelab and personal services, was gone. It had died. And the timing couldn’t have been worse. My personal services were down, my internal tools were offline, and I simply didn’t have the bandwidth to drop everything and spend a weekend performing a forensic recovery.",
+    "Confidence": 0.99217993
+  },
+  {
+    "Title": "The Building Block Economy",
+    "Url": "https://mitchellh.com/writing/building-block-economy",
+    "Timestamp": "2026-04-08T22:03:05",
+    "Domain": "mitchellh.com",
+    "Description": "The most effective way to build software and get massive adoption is no\nlonger high quality mainline apps but via building blocks that enable and\nencourage others to build quantity over quality.1",
+    "Confidence": 0.98445344
+  },
+  {
+    "Title": "Do not forget how you got here",
+    "Url": "https://wanderdust.github.io/newsletter/posts/045_dont_forget_what_youve_done/",
+    "Timestamp": "2026-04-08T22:03:02",
+    "Domain": "wanderdust.github.io",
+    "Description": "This is a note to myself\nDon’t forget how you got here.\nDuring the whole of school you were essentially self taught. You did not pay any attention in class, yet you still managed to get through 13 years of school.\nYou organised a rally trip from Madrid to Ulan Bator. You did this in a seat 127 that fell to pieces. No one believed it was possible, specially since the car would not even start 3 days before the trip was to start.",
+    "Confidence": 0.8943473
+  },
+  {
+    "Title": "The sad state of smart homes",
+    "Url": "https://cruftbox.com/2026/04/08/the-sad-state-of-smart-homes/",
+    "Timestamp": "2026-04-08T22:02:56",
+    "Domain": "cruftbox.com",
+    "Description": "\"A camel is a horse designed by committee.\" - Sir Alec Issigonis  I am enamored by the idea of the smart home. Devices working to make life a little easier.  Over the last few years, I've been adding smart home devices to our home, mainly for simple purposes like turning the porch lights or Chri",
+    "Confidence": 0.9940746
+  },
+  {
+    "Title": "LambdaLemon",
+    "Url": "https://lambdalemon.gay/posts/string-types",
+    "Timestamp": "2026-04-08T22:02:51",
+    "Domain": "lambdalemon.gay",
+    "Description": "Now with 100% more gay!",
+    "Confidence": 0.9941425
+  },
+  {
+    "Title": "Why Claude Mythos is not AGI",
+    "Url": "https://lucrbvi.bearblog.dev/claude-mythos-is-not-agi/",
+    "Timestamp": "2026-04-08T22:02:48",
+    "Domain": "lucrbvi.bearblog.dev",
+    "Description": "Claude Mythos Preview is not AGI.",
+    "Confidence": 0.9542551
+  },
+  {
+    "Title": "Why I still build apps for myself",
+    "Url": "https://blog.kulman.sk/why-i-still-build-ios-apps/",
+    "Timestamp": "2026-04-08T22:02:44",
+    "Domain": "blog.kulman.sk",
+    "Description": "Why I still build small iOS apps for myself, even in an App Store where discovery is weak and indie development often feels irrational.",
+    "Confidence": 0.97604156
+  },
+  {
+    "Title": "Verifying human authorship with human.json",
+    "Url": "https://joelchrono.xyz/blog/implementing-human-json/",
+    "Timestamp": "2026-04-08T22:02:40",
+    "Domain": "joelchrono.xyz",
+    "Description": "Vouching for other people's websites with this brand new protocol that I thought would be fun to implement!",
+    "Confidence": 0.99306744
+  },
+  {
+    "Title": "Full Text Search with IndexedDB",
+    "Url": "https://blog.jmp.chat/b/2026-full-text-search-indexeddb",
+    "Timestamp": "2026-04-08T22:02:36",
+    "Domain": "blog.jmp.chat",
+    "Description": "While working on Borogove there has been a desire to have full-text search of locally-stored chat message history. For web-based apps the main storage engine in use is IndexedDB, which is a rather low-level system and certainly doesn’t have easy facilities for this kind of operation. So what’s the simplest, performant way to implement a full-text search on IndexedDB?",
+    "Confidence": 0.9961738
+  },
+  {
+    "Title": "I Tested Meta Muse Spark Against 4 Frontier Models",
+    "Url": "https://www.riteshkhanna.com/blog/muse-spark-arena",
+    "Timestamp": "2026-04-08T22:02:31",
+    "Domain": "www.riteshkhanna.com",
+    "Description": "Three tests, five models, zero retries. Meta crushed vision and analysis but face-planted on code. ChatGPT wrote the worst code and produced the best output. Meta wins overall — barely.",
+    "Confidence": 0.92444724
+  },
+  {
+    "Title": "Mindfulness, Programming, and the Mistake I Made",
+    "Url": "https://yonatanmedan.github.io/blog/mindfulness-programming-and-the-mistake-i-made/",
+    "Timestamp": "2026-04-08T22:02:27",
+    "Domain": "yonatanmedan.github.io",
+    "Description": "I tried to bring mindfulness into programming and thought I was failing. Measuring my attention revealed the real issue — I was using the wrong model for what mindfulness should feel like while coding.",
+    "Confidence": 0.947781
+  },
+  {
+    "Title": "Self-host your homelab tunnels on bunny.net",
+    "Url": "https://alec.is/posts/cloudflare-tunnels-on-bunny-net/",
+    "Timestamp": "2026-04-08T22:02:24",
+    "Domain": "alec.is",
+    "Description": "Principal software engineer with deep experience in full-stack TypeScript, custom web browsers and real-time, media-focused systems.",
+    "Confidence": 0.9948442
+  },
+  {
+    "Title": "Claude Is Dead",
+    "Url": "https://www.javiertordable.com/claude-is-dead/",
+    "Timestamp": "2026-04-08T22:02:20",
+    "Domain": "www.javiertordable.com",
+    "Description": "In 1882 Nietzsche claimed that the dominant paradigm in Western society at the time, the existence of the Christian God and the guidelines for morality stemming from Christian tradition can no longer be justified. And went to shock the world (or at least the 7 people that used to read him at the time) and claimed that God is dead. So let me paraphrase him and try to be as flippant and outrageous as I can, and claim that the first modern god of the AI era is dead.\n\n",
+    "Confidence": 0.6361919
+  },
+  {
     "Title": "Overton",
     "Url": "https://xkcd.com/3230/",
     "Timestamp": "2026-04-08T19:02:09",
