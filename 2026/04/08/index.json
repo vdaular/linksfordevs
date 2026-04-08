@@ -1,5 +1,12 @@
 [
   {
+    "Title": "The Git Commands I Run Before Reading Any Code",
+    "Url": "https://piechowski.io/post/git-commands-before-reading-code/",
+    "Timestamp": "2026-04-08T12:02:13",
+    "Domain": "piechowski.io",
+    "Description": "Five git commands that tell you where a codebase hurts before you open a single file. Churn hotspots, bus factor, bug clusters, and crisis patterns."
+  },
+  {
     "Title": "VeraCrypt / Forums / General Discussion: Project Update",
     "Url": "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/",
     "Timestamp": "2026-04-08T11:02:28",
