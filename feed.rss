@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>VeraCrypt / Forums / General Discussion: Project Update</title>
+      <link>https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/</link>
+      <description></description>
+      <category>encryption</category>
+      <category>linux</category>
+      <guid>https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/</guid>
+      <pubDate>Wed, 08 Apr 2026 11:02:28 GMT</pubDate>
+    </item>
+    <item>
       <title>S3 Files and the changing face of S3</title>
       <link>https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html</link>
       <description>Andy Warfield writes about the hard-won lessons dealing with data friction that lead to S3 Files</description>
@@ -351,15 +360,6 @@ Timestamps / Chapters
       <category>ai</category>
       <guid>https://idiocracy.wtf/</guid>
       <pubDate>Tue, 07 Apr 2026 12:02:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute</title>
-      <link>https://www.anthropic.com/news/google-broadcom-partnership-compute</link>
-      <description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
-      <category>cloud</category>
-      <category>ai</category>
-      <guid>https://www.anthropic.com/news/google-broadcom-partnership-compute</guid>
-      <pubDate>Tue, 07 Apr 2026 11:02:28 GMT</pubDate>
     </item>
   </channel>
 </rss>

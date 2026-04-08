@@ -1,5 +1,13 @@
 [
   {
+    "Title": "VeraCrypt / Forums / General Discussion: Project Update",
+    "Url": "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/",
+    "Timestamp": "2026-04-08T11:02:28",
+    "Domain": "sourceforge.net",
+    "Description": "",
+    "Confidence": 0.95858616
+  },
+  {
     "Title": "S3 Files and the changing face of S3",
     "Url": "https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html",
     "Timestamp": "2026-04-08T06:02:25",
@@ -246,13 +254,5 @@
     "Domain": "idiocracy.wtf",
     "Description": "Tracking how close reality is to Mike Judge's Idiocracy. It's got electrolytes.",
     "Confidence": 0.9354455
-  },
-  {
-    "Title": "Anthropic expands partnership with Google and Broadcom for multiple gigawatts of next-generation compute",
-    "Url": "https://www.anthropic.com/news/google-broadcom-partnership-compute",
-    "Timestamp": "2026-04-07T11:02:28",
-    "Domain": "www.anthropic.com",
-    "Description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-    "Confidence": 0.6336578
   }
 ]
