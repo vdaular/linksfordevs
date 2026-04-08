@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Škoda DuoBell: A bicycle bell that outsmarts even smart headphones - Škoda Storyboard",
+    "Url": "https://www.skoda-storyboard.com/en/skoda-world/skoda-duobell-a-bicycle-bell-that-outsmarts-even-smart-headphones/",
+    "Timestamp": "2026-04-08T16:02:34",
+    "Domain": "www.skoda-storyboard.com",
+    "Description": "Pedestrians wearing headphones are exposed to an increased risk of accidents. In an effort to reduce collisions with cyclists, Škoda Auto, in collaboration with scientists, introduces an innovative bicycle bell whose sound can penetrate even active noise cancellation systems. In doing so, it helps prevent injuries to both pedestrians and cyclists.",
+    "Confidence": 0.50254965
+  },
+  {
+    "Title": "I've sold out",
+    "Url": "https://mariozechner.at/posts/2026-04-08-ive-sold-out/",
+    "Timestamp": "2026-04-08T16:02:29",
+    "Domain": "mariozechner.at",
+    "Description": "I've sold out",
+    "Confidence": 0.96211857
+  },
+  {
     "Title": "Revision 2026 - Compo - PC Demo",
     "Url": "https://youtube.com/watch?v=Lw4W9V57SKs&t=5716s",
     "Timestamp": "2026-04-08T15:02:05",
@@ -246,21 +262,5 @@
     "Domain": "jola.dev",
     "Description": "Dropping Cloudflare and migrating to bunny.net, starting out with my blog.",
     "Confidence": 0.9951117
-  },
-  {
-    "Title": "What Everyone Missed About Emdash, Cloudflare's Wordpress Alternative",
-    "Url": "https://youtube.com/watch?v=hgOJH9bp75k",
-    "Timestamp": "2026-04-07T16:02:28",
-    "Domain": "youtube.com",
-    "Description": "Cloudflare just dropped EmDash, their AI-native, open-source WordPress alternative, and you might have missed the most important part.\n\nIt's not the Astro-powered theming. It's not the AI-native CMS features. It's Dynamic Workers, the isolated runtime that completely rethinks how plugins work. Instead of giving plugins access to your entire site (database, theme, media), EmDash runs each plugin in a sandboxed V8 isolate with only the permissions you explicitly grant. And the implications for AI-generated code are massive.\n\nLinks & Resources\nEmDash Blog Post - https://blog.cloudflare.com/emdash-wordpress/\nDynamic Workers Documentation - https://developers.cloudflare.com/dynamic-workers/\nCraig Dennis - Building Secure Apps with Dynamic Workers - https://www.youtube.com/watch?v=Z9-wwXaoA68\n\n**Newsletter**\nNewsletter 🗞 - https://www.jamesqquick.com/newsletter\nFollow me on Twitter 🐦 - https://www.twitter.com/jamesqquick\n\nTimestamps / Chapters\n\n0:00 Intro — The feature everyone overlooked\n0:37 What is M Dash?\n1:38 Powered by Astro\n2:49 AI-native CMS features\n3:56 WordPress plugin security problem\n4:57 How Dynamic Workers fix it\n6:28 V8 isolates & sub-5ms startup\n7:40 AI code mode & vibe coding\n8:52 Craig Dennis's Dynamic Workers demo\n9:57 Final thoughts & what's next",
-    "Confidence": 0.9901767
-  },
-  {
-    "Title": "JUXT Blog: A bug on the dark side of the Moon",
-    "Url": "https://www.juxt.pro/blog/a-bug-on-the-dark-side-of-the-moon/",
-    "Timestamp": "2026-04-07T16:02:19",
-    "Domain": "www.juxt.pro",
-    "Description": "How a specification found what fifty-seven years of scrutiny missed.",
-    "Confidence": 0.9442767
   }
 ]
