@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Porting Mac OS X to the Nintendo Wii</title>
+      <link>https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html</link>
+      <description>Mac OS X 10.0 (Cheetah) running natively on the Nintendo Wii</description>
+      <category>apple</category>
+      <category>nodejs</category>
+      <category>git</category>
+      <category>linux</category>
+      <guid>https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html</guid>
+      <pubDate>Wed, 08 Apr 2026 18:02:15 GMT</pubDate>
+    </item>
+    <item>
       <title>Škoda DuoBell: A bicycle bell that outsmarts even smart headphones - Škoda Storyboard</title>
       <link>https://www.skoda-storyboard.com/en/skoda-world/skoda-duobell-a-bicycle-bell-that-outsmarts-even-smart-headphones/</link>
       <description>Pedestrians wearing headphones are exposed to an increased risk of accidents. In an effort to reduce collisions with cyclists, Škoda Auto, in collaboration with scientists, introduces an innovative bicycle bell whose sound can penetrate even active noise cancellation systems. In doing so, it helps prevent injuries to both pedestrians and cyclists.</description>
