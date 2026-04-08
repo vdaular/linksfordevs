@@ -7,6 +7,44 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Revision 2026 - Compo - PC Demo</title>
+      <link>https://youtube.com/watch?v=Lw4W9V57SKs&amp;t=5716s</link>
+      <description>00:00:00 Intro
+00:00:59 The Revenge of Amiga by Reality
+00:07:22 Noctivagant by Copernicium
+00:11:04 SQUAPHEREEN by ERNIE
+00:13:22 Make πrogress not propaganda by [IAOTAI] CyReVolt
+00:14:40 Hello Potato by 🥔
+00:16:01 WaVeZzZ by lfo / TEAM VyRaL ^ Hokuto Force ^ RESiStANCE
+00:17:12 REKINDLED by BrainWave
+00:23:09 Korean Fish Demo by Royal Belgian Beer Squadron feat. Limp Ninja
+00:26:59 trainn by Laso
+00:27:54 trans rights are animal rights by Freja
+00:29:33 IIX Bounces by mergeconflict
+00:33:18 damocles by stargaze
+00:36:50 Black Valley Flair by Skuggemannen &amp; susencrusen
+00:38:17 The ENTZ by PlayPsyCo &amp; DESiRE
+00:42:46 Tranceistor by Schranzvergleich
+00:46:48 Voxelarium by Spectrals
+00:51:21 Automata et Saltatio by Jumalauta
+00:55:46 Love = Verb (Teaser) by Guideline
+00:56:49 shaderland - swizzle's journey by canmom
+00:59:39 On Demand by Suspend
+01:03:20 ABOMINATION by MFX
+01:08:21 HEART OF GLASS by GRAY MARCHERS &amp; BYTERAPERS
+01:14:41 Cerberus by Cocoon - Excess
+01:22:50 Serpentin de Moire by Rebels and Calodox ( + guests)
+01:26:08 Golden Egg by Gaspode
+01:29:44 Every Beat Counts by Still
+01:35:16 Razor1911
+
+With commentary by our friends from SceneSat. https://scenesat.com/</description>
+      <author> (Revision Demoparty)</author>
+      <category>youtube</category>
+      <guid>https://youtube.com/watch?v=Lw4W9V57SKs&amp;t=5716s</guid>
+      <pubDate>Wed, 08 Apr 2026 15:02:05 GMT</pubDate>
+    </item>
+    <item>
       <title>The Git Commands I Run Before Reading Any Code</title>
       <link>https://piechowski.io/post/git-commands-before-reading-code/</link>
       <description>Five git commands that tell you where a codebase hurts before you open a single file. Churn hotspots, bus factor, bug clusters, and crisis patterns.</description>
