@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>S3 Files and the changing face of S3</title>
+      <link>https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html</link>
+      <description>Andy Warfield writes about the hard-won lessons dealing with data friction that lead to S3 Files</description>
+      <category>cloud</category>
+      <category>ai</category>
+      <category>javascript</category>
+      <category>git</category>
+      <category>python</category>
+      <guid>https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html</guid>
+      <pubDate>Wed, 08 Apr 2026 06:02:25 GMT</pubDate>
+    </item>
+    <item>
       <title>Claude Mythos Preview</title>
       <link>https://red.anthropic.com/2026/mythos-preview/</link>
       <description>April 7, 2026</description>

@@ -1,5 +1,13 @@
 [
   {
+    "Title": "S3 Files and the changing face of S3",
+    "Url": "https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html",
+    "Timestamp": "2026-04-08T06:02:25",
+    "Domain": "www.allthingsdistributed.com",
+    "Description": "Andy Warfield writes about the hard-won lessons dealing with data friction that lead to S3 Files",
+    "Confidence": 0.9796826
+  },
+  {
     "Title": "Claude Mythos Preview",
     "Url": "https://red.anthropic.com/2026/mythos-preview/",
     "Timestamp": "2026-04-08T02:02:14",
