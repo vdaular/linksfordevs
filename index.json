@@ -246,21 +246,5 @@
     "Domain": "www.anthropic.com",
     "Description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
     "Confidence": 0.6336578
-  },
-  {
-    "Title": "GitHub - matthartman/ghost-pepper: Hold-to-talk speech-to-text for macOS. 100% local, powered by WhisperKit and local LLM cleanup. Hold Control to record, release to transcribe and paste.",
-    "Url": "https://github.com/matthartman/ghost-pepper",
-    "Timestamp": "2026-04-07T03:02:26",
-    "Domain": "github.com",
-    "Description": "Hold-to-talk speech-to-text for macOS. 100% local, powered by WhisperKit and local LLM cleanup. Hold Control to record, release to transcribe and paste. - matthartman/ghost-pepper",
-    "Confidence": 0.98426205
-  },
-  {
-    "Title": "Adobe secretly modifies your hosts file for the stupidest reason – OSnews",
-    "Url": "https://www.osnews.com/story/144737/adobe-secretly-modifies-your-hosts-file-for-the-stupidest-reason/",
-    "Timestamp": "2026-04-07T03:02:21",
-    "Domain": "www.osnews.com",
-    "Description": "Home > Clown car > Adobe secretly modifies your hosts file for the stupidest reason",
-    "Confidence": 0.9857704
   }
 ]
