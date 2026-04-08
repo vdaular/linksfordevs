@@ -254,13 +254,5 @@
     "Domain": "www.anthropic.com",
     "Description": "A new initiative to secure the world’s most critical software and give defenders a durable advantage in the coming AI-driven era of cybersecurity.",
     "Confidence": 0.9452206
-  },
-  {
-    "Title": "Dropping Cloudflare for bunny.net | jola.dev",
-    "Url": "https://jola.dev/posts/dropping-cloudflare",
-    "Timestamp": "2026-04-07T17:02:33",
-    "Domain": "jola.dev",
-    "Description": "Dropping Cloudflare and migrating to bunny.net, starting out with my blog.",
-    "Confidence": 0.9951117
   }
 ]
