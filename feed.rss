@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Open source security at Astral</title>
+      <link>https://astral.sh/blog/open-source-security-at-astral</link>
+      <description>Insights and guidance from our engineering team on how Astral secures its tools.</description>
+      <category>python</category>
+      <category>rust</category>
+      <category>containers</category>
+      <category>nodejs</category>
+      <category>git</category>
+      <guid>https://astral.sh/blog/open-source-security-at-astral</guid>
+      <pubDate>Thu, 09 Apr 2026 14:02:25 GMT</pubDate>
+    </item>
+    <item>
       <title>John Deere to Pay $99 Million in Monumental Right-to-Repair Settlement</title>
       <link>https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement</link>
       <description>The ag manufacturing giant will also make digital diagnostic, maintenance, and repair tools available to third parties for 10 years.</description>
