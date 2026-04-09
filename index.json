@@ -198,13 +198,5 @@
     "Domain": "xkcd.com",
     "Description": "",
     "Confidence": 0.98151064
-  },
-  {
-    "Title": "Porting Mac OS X to the Nintendo Wii",
-    "Url": "https://bryankeller.github.io/2026/04/08/porting-mac-os-x-nintendo-wii.html",
-    "Timestamp": "2026-04-08T18:02:15",
-    "Domain": "bryankeller.github.io",
-    "Description": "Mac OS X 10.0 (Cheetah) running natively on the Nintendo Wii",
-    "Confidence": 0.99127024
   }
 ]
