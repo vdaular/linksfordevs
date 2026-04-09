@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Kalman Filter Explained Through Examples</title>
+      <link>https://kalmanfilter.net/</link>
+      <description>Easy and intuitive Kalman Filter tutorial</description>
+      <category>encryption</category>
+      <category>python</category>
+      <guid>https://kalmanfilter.net/</guid>
+      <pubDate>Thu, 09 Apr 2026 03:02:21 GMT</pubDate>
+    </item>
+    <item>
       <title>Is Hormuz Open Yet?</title>
       <link>https://www.ishormuzopenyet.com/</link>
       <description>Live status of the Strait of Hormuz</description>
