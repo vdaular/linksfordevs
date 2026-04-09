@@ -7,6 +7,24 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>John Deere to Pay $99 Million in Monumental Right-to-Repair Settlement</title>
+      <link>https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement</link>
+      <description>The ag manufacturing giant will also make digital diagnostic, maintenance, and repair tools available to third parties for 10 years.</description>
+      <guid>https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement</guid>
+      <pubDate>Thu, 09 Apr 2026 06:02:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>USB for Software Developers | WerWolv</title>
+      <link>https://werwolv.net/posts/usb_for_sw_devs/</link>
+      <description>A basic introduction to USB for people that don't need to know what happens on the wire
+</description>
+      <category>git</category>
+      <category>android</category>
+      <category>linux</category>
+      <guid>https://werwolv.net/posts/usb_for_sw_devs/</guid>
+      <pubDate>Thu, 09 Apr 2026 06:02:04 GMT</pubDate>
+    </item>
+    <item>
       <title>How Pizza Tycoon simulated traffic on a 25 MHz CPU — Pizza Legacy Blog</title>
       <link>https://pizzalegacy.nl/blog/traffic-system.html</link>
       <description>Reverse engineering the traffic system from Pizza Tycoon (1994): how the original devs drove dozens of cars through a city with almost no CPU budget.</description>
@@ -272,18 +290,6 @@ With commentary by our friends from SceneSat. https://scenesat.com/</description
       <category>linux</category>
       <guid>https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/</guid>
       <pubDate>Wed, 08 Apr 2026 11:02:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>S3 Files and the changing face of S3</title>
-      <link>https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html</link>
-      <description>Andy Warfield writes about the hard-won lessons dealing with data friction that lead to S3 Files</description>
-      <category>cloud</category>
-      <category>ai</category>
-      <category>javascript</category>
-      <category>git</category>
-      <category>python</category>
-      <guid>https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html</guid>
-      <pubDate>Wed, 08 Apr 2026 06:02:25 GMT</pubDate>
     </item>
   </channel>
 </rss>

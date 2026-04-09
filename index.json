@@ -1,5 +1,21 @@
 [
   {
+    "Title": "John Deere to Pay $99 Million in Monumental Right-to-Repair Settlement",
+    "Url": "https://www.thedrive.com/news/john-deere-to-pay-99-million-in-monumental-right-to-repair-settlement",
+    "Timestamp": "2026-04-09T06:02:08",
+    "Domain": "www.thedrive.com",
+    "Description": "The ag manufacturing giant will also make digital diagnostic, maintenance, and repair tools available to third parties for 10 years.",
+    "Confidence": 0.6453429
+  },
+  {
+    "Title": "USB for Software Developers | WerWolv",
+    "Url": "https://werwolv.net/posts/usb_for_sw_devs/",
+    "Timestamp": "2026-04-09T06:02:04",
+    "Domain": "werwolv.net",
+    "Description": "A basic introduction to USB for people that don't need to know what happens on the wire\n",
+    "Confidence": 0.9970746
+  },
+  {
     "Title": "How Pizza Tycoon simulated traffic on a 25 MHz CPU — Pizza Legacy Blog",
     "Url": "https://pizzalegacy.nl/blog/traffic-system.html",
     "Timestamp": "2026-04-09T05:02:23",
@@ -206,13 +222,5 @@
     "Domain": "sourceforge.net",
     "Description": "",
     "Confidence": 0.95858616
-  },
-  {
-    "Title": "S3 Files and the changing face of S3",
-    "Url": "https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html",
-    "Timestamp": "2026-04-08T06:02:25",
-    "Domain": "www.allthingsdistributed.com",
-    "Description": "Andy Warfield writes about the hard-won lessons dealing with data friction that lead to S3 Files",
-    "Confidence": 0.9796826
   }
 ]
