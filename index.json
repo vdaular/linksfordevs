@@ -1,5 +1,141 @@
 [
   {
+    "Title": "The Token-Burn Trap: Silicon Valley's AI Metric Is a Competitive Liability",
+    "Url": "https://simdecisions.com/blog/token-burn-trap",
+    "Timestamp": "2026-04-09T22:03:40",
+    "Domain": "simdecisions.com",
+    "Description": "Token spend is not a productivity metric. It's an effort metric. And effort is not outcome.",
+    "Confidence": 0.9888687
+  },
+  {
+    "Title": "The Old Internet is Still Here",
+    "Url": "https://tylergaw.com/blog/the-old-internet-is-still-here/",
+    "Timestamp": "2026-04-09T22:03:36",
+    "Domain": "tylergaw.com",
+    "Description": "The “old” Internet isn’t gone, our expectations have changed.",
+    "Confidence": 0.94513154
+  },
+  {
+    "Title": "What To Do With Your Extra Tokens",
+    "Url": "https://www.johnbhiggins.com/writing/extra-tokens",
+    "Timestamp": "2026-04-09T22:03:30",
+    "Domain": "www.johnbhiggins.com",
+    "Description": "Surplus AI coding tokens are wasted capacity. Use them for targeted code reviews, UI audits, product analysis, and marketing - with copy-paste prompts for each.",
+    "Confidence": 0.99214447
+  },
+  {
+    "Title": "Giving LLMs a Formal Reasoning Engine for Code Analysis",
+    "Url": "https://yogthos.net/posts/2026-04-08-neurosymbolic-mcp.html",
+    "Timestamp": "2026-04-09T22:03:26",
+    "Domain": "yogthos.net",
+    "Description": "Dmitri's blog about programming, Clojure, and software development",
+    "Confidence": 0.99471545
+  },
+  {
+    "Title": "Code Is Cheap Now, And That Changes Everything | Pere Villega",
+    "Url": "https://perevillega.com/posts/2026-03-16-code-is-cheap-now/",
+    "Timestamp": "2026-04-09T22:03:23",
+    "Domain": "perevillega.com",
+    "Description": "AI coding agents have made code production nearly free. Drawing on insights from Kent Beck, Paul Ford, and Simon Willison, this post argues that the value has shifted from writing code to defining systems — contracts, invariants, SLAs, and verification.",
+    "Confidence": 0.98788285
+  },
+  {
+    "Title": "Do Science in Bed",
+    "Url": "https://monsharen.github.io/Peer/",
+    "Timestamp": "2026-04-09T22:03:11",
+    "Domain": "monsharen.github.io",
+    "Description": "On April 8, 2026, I had a conversation with Claude (Anthropic) that went from a loose intuition about dark matter to a testable astrophysics prediction in peer-reviewable form, in one sitting. From my phone.",
+    "Confidence": 0.9455261
+  },
+  {
+    "Title": "An homage to doing – kbrecordzz",
+    "Url": "http://kbrecordzz.com/2026/04/an-homage-to-doing/",
+    "Timestamp": "2026-04-09T22:03:08",
+    "Domain": "kbrecordzz.com",
+    "Description": "The deadliest thing of all isn't to do bad things, it's to do nothing at all. If you do wrong you can always learn from it and redirect yourself, but if you do nothing you won't ever get to that point. In this reality, you can either do things or not do things, and it's 100% up to you. And if you want to make it easier for yourself to do things, it seems to come down to two things:\n\n- Doing what you intrinsically enjoy\n\n- Having a greater purpose",
+    "Confidence": 0.97915983
+  },
+  {
+    "Title": "Code is not abstracted away - Ahmet Hüseyin Dok",
+    "Url": "https://ahmethuseyindok.com/blog/code-is-not-abstracted-away",
+    "Timestamp": "2026-04-09T22:03:03",
+    "Domain": "ahmethuseyindok.com",
+    "Description": "and why you should still read the code",
+    "Confidence": 0.99856436
+  },
+  {
+    "Title": "What Are You Trying to Say?",
+    "Url": "https://idiallo.com/blog/what-are-you-trying-to-say?src=feed",
+    "Timestamp": "2026-04-09T22:02:56",
+    "Domain": "idiallo.com",
+    "Description": "Sometimes, I find myself talking while my audience has a puzzled look on their face. It doesn't matter how much I prepared my speech, the message is just not getting through. But then they ask: What a",
+    "Confidence": 0.95753187
+  },
+  {
+    "Title": "Anatomy of a change",
+    "Url": "https://sibervepunk.com/anatomy-of-a-change/",
+    "Timestamp": "2026-04-09T22:02:53",
+    "Domain": "sibervepunk.com",
+    "Description": "Exactly a year ago today, I changed something about myself that had been part of my life for ten years.\n\nWhat that \"thing\" is won’t be mentioned here, so a...",
+    "Confidence": 0.96416205
+  },
+  {
+    "Title": "Stabilizing Benchmarks",
+    "Url": "https://vondra.me/posts/stabilizing-benchmarks/",
+    "Timestamp": "2026-04-09T22:02:49",
+    "Domain": "vondra.me",
+    "Description": "Ways to stabilize benchmark results, to reduce noise.",
+    "Confidence": 0.98153764
+  },
+  {
+    "Title": "Pipeline Architecture System Design",
+    "Url": "https://dvcoolarun.com/2026/04/09/Pipeline-architecture-system-design.html",
+    "Timestamp": "2026-04-09T22:02:46",
+    "Domain": "dvcoolarun.com",
+    "Description": "🧵 Most People Overcomplicate This System Design Question",
+    "Confidence": 0.9895405
+  },
+  {
+    "Title": "The Slow Startup Movement | Wisdom | Tarikh Korula",
+    "Url": "https://tarikhkorula.com/wisdom/the-slow-startup-movement",
+    "Timestamp": "2026-04-09T22:02:43",
+    "Domain": "tarikhkorula.com",
+    "Description": "What if, instead of speeding everything up, AI let us build intentional businesses?\n\n\n\n\nWe're all so busy arguing about whether AI will replace programmers, kill creative jobs, or consolidate power into fewer and fewer companies. I think there might be a quieter possibility nobody's talking about, one far more radical and less dystopian than any of those arguments.\n\nI had a conversation with a former client, and fantastic CTO who, after some initial skepticism, has fully drunk the AI Koolaid. We",
+    "Confidence": 0.90872586
+  },
+  {
+    "Title": "Clean code in the age of coding agents",
+    "Url": "https://www.yanist.com/clean-code-in-the-age-of-coding-agents/",
+    "Timestamp": "2026-04-09T22:02:39",
+    "Domain": "www.yanist.com",
+    "Description": "Keeping code clean helps both humans and agents. Coding agents are limited by context, and poorly organized code means they consume more tokens and perform worse. Here are some practical steps to keep your code clean for both humans and agents.",
+    "Confidence": 0.99505156
+  },
+  {
+    "Title": "The Patterns That Agents Miss",
+    "Url": "https://www.leap-labs.com/blog/the-patterns-that-agents-miss",
+    "Timestamp": "2026-04-09T22:02:36",
+    "Domain": "www.leap-labs.com",
+    "Description": "We built a synthetic clinical dataset with known ground-truth patterns and fed it to 18 automated data analysis tools. Most of them confidently reported incorrect results.",
+    "Confidence": 0.87858945
+  },
+  {
+    "Title": "The Scroll Manifesto",
+    "Url": "https://www.andreinc.net/2026/04/09/the-scroll-manifesto/",
+    "Timestamp": "2026-04-09T22:02:32",
+    "Domain": "www.andreinc.net",
+    "Description": "Scroll inside the stage with the mouse wheel or with your finger. It is only a machine, but it already understands the gesture. Have fun!\n    \n    \n        \n            \n                \n                \n                \n                \n                    \n                        \n                        \n                        \n                        \n                    \n                \n            \n            \n        \n        \n            \n                \n                    Posted by\n                    \n                \n                \n            \n            \n            \n                like\n                comments\n                share\n            \n            \n                \n                    comments\n                    close\n                \n                \n            \n            \n                \n                    share\n                    close\n                \n                Thank you for sharing. Your unpaid growth work has been successfully appreciated.\n            \n            Swipe for the next officially blessed distraction.\n            \n                dopamine levels\n                \n                    \n                \n            \n            \n                \n                    \n                    \n                    \n                    \n                \n                \n                    \n                    \n                    \n                \n                Moloch The Brain is unhappy.\n            \n        \n    \n    \n       Wait, don't scroll further than this. Come back!",
+    "Confidence": 0.85002524
+  },
+  {
+    "Title": "My Friend Circles",
+    "Url": "https://ruky.me/my-friend-circles/",
+    "Timestamp": "2026-04-09T22:02:28",
+    "Domain": "ruky.me",
+    "Description": "I was clearing my desktop recently when I came across a graphic I made couple of years ago to describe people in my life to another friend. How I interpret different people in my life. Looking back at it couple of years later I found it interesting, looking back at the people who came and went in my life.",
+    "Confidence": 0.9242171
+  },
+  {
     "Title": "How NASA Built Artemis II’s Fault-Tolerant Computer – Communications of the ACM",
     "Url": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
     "Timestamp": "2026-04-09T21:02:12",
@@ -102,109 +238,5 @@
     "Domain": "ai.meta.com",
     "Description": "Today, we’re excited to introduce Muse Spark, the first in the Muse family of models developed by Meta Superintelligence Labs. Muse Spark is a natively multimodal reasoning model with support for tool-use, visual chain of thought, and multi-agent orchestration.",
     "Confidence": 0.9731709
-  },
-  {
-    "Title": "The journey to a datacenter in a box",
-    "Url": "https://merqur.io/2026/04/08/the-journey-to-a-datacenter-in-a-box/",
-    "Timestamp": "2026-04-08T22:03:09",
-    "Domain": "merqur.io",
-    "Description": "It all started with silence. The hum of my old, decapitalized laptop, the one running my entire homelab and personal services, was gone. It had died. And the timing couldn’t have been worse. My personal services were down, my internal tools were offline, and I simply didn’t have the bandwidth to drop everything and spend a weekend performing a forensic recovery.",
-    "Confidence": 0.99217993
-  },
-  {
-    "Title": "The Building Block Economy",
-    "Url": "https://mitchellh.com/writing/building-block-economy",
-    "Timestamp": "2026-04-08T22:03:05",
-    "Domain": "mitchellh.com",
-    "Description": "The most effective way to build software and get massive adoption is no\nlonger high quality mainline apps but via building blocks that enable and\nencourage others to build quantity over quality.1",
-    "Confidence": 0.98445344
-  },
-  {
-    "Title": "Do not forget how you got here",
-    "Url": "https://wanderdust.github.io/newsletter/posts/045_dont_forget_what_youve_done/",
-    "Timestamp": "2026-04-08T22:03:02",
-    "Domain": "wanderdust.github.io",
-    "Description": "This is a note to myself\nDon’t forget how you got here.\nDuring the whole of school you were essentially self taught. You did not pay any attention in class, yet you still managed to get through 13 years of school.\nYou organised a rally trip from Madrid to Ulan Bator. You did this in a seat 127 that fell to pieces. No one believed it was possible, specially since the car would not even start 3 days before the trip was to start.",
-    "Confidence": 0.8943473
-  },
-  {
-    "Title": "The sad state of smart homes",
-    "Url": "https://cruftbox.com/2026/04/08/the-sad-state-of-smart-homes/",
-    "Timestamp": "2026-04-08T22:02:56",
-    "Domain": "cruftbox.com",
-    "Description": "\"A camel is a horse designed by committee.\" - Sir Alec Issigonis  I am enamored by the idea of the smart home. Devices working to make life a little easier.  Over the last few years, I've been adding smart home devices to our home, mainly for simple purposes like turning the porch lights or Chri",
-    "Confidence": 0.9940746
-  },
-  {
-    "Title": "LambdaLemon",
-    "Url": "https://lambdalemon.gay/posts/string-types",
-    "Timestamp": "2026-04-08T22:02:51",
-    "Domain": "lambdalemon.gay",
-    "Description": "Now with 100% more gay!",
-    "Confidence": 0.9941425
-  },
-  {
-    "Title": "Why Claude Mythos is not AGI",
-    "Url": "https://lucrbvi.bearblog.dev/claude-mythos-is-not-agi/",
-    "Timestamp": "2026-04-08T22:02:48",
-    "Domain": "lucrbvi.bearblog.dev",
-    "Description": "Claude Mythos Preview is not AGI.",
-    "Confidence": 0.9542551
-  },
-  {
-    "Title": "Why I still build apps for myself",
-    "Url": "https://blog.kulman.sk/why-i-still-build-ios-apps/",
-    "Timestamp": "2026-04-08T22:02:44",
-    "Domain": "blog.kulman.sk",
-    "Description": "Why I still build small iOS apps for myself, even in an App Store where discovery is weak and indie development often feels irrational.",
-    "Confidence": 0.97604156
-  },
-  {
-    "Title": "Verifying human authorship with human.json",
-    "Url": "https://joelchrono.xyz/blog/implementing-human-json/",
-    "Timestamp": "2026-04-08T22:02:40",
-    "Domain": "joelchrono.xyz",
-    "Description": "Vouching for other people's websites with this brand new protocol that I thought would be fun to implement!",
-    "Confidence": 0.99306744
-  },
-  {
-    "Title": "Full Text Search with IndexedDB",
-    "Url": "https://blog.jmp.chat/b/2026-full-text-search-indexeddb",
-    "Timestamp": "2026-04-08T22:02:36",
-    "Domain": "blog.jmp.chat",
-    "Description": "While working on Borogove there has been a desire to have full-text search of locally-stored chat message history. For web-based apps the main storage engine in use is IndexedDB, which is a rather low-level system and certainly doesn’t have easy facilities for this kind of operation. So what’s the simplest, performant way to implement a full-text search on IndexedDB?",
-    "Confidence": 0.9961738
-  },
-  {
-    "Title": "I Tested Meta Muse Spark Against 4 Frontier Models",
-    "Url": "https://www.riteshkhanna.com/blog/muse-spark-arena",
-    "Timestamp": "2026-04-08T22:02:31",
-    "Domain": "www.riteshkhanna.com",
-    "Description": "Three tests, five models, zero retries. Meta crushed vision and analysis but face-planted on code. ChatGPT wrote the worst code and produced the best output. Meta wins overall — barely.",
-    "Confidence": 0.92444724
-  },
-  {
-    "Title": "Mindfulness, Programming, and the Mistake I Made",
-    "Url": "https://yonatanmedan.github.io/blog/mindfulness-programming-and-the-mistake-i-made/",
-    "Timestamp": "2026-04-08T22:02:27",
-    "Domain": "yonatanmedan.github.io",
-    "Description": "I tried to bring mindfulness into programming and thought I was failing. Measuring my attention revealed the real issue — I was using the wrong model for what mindfulness should feel like while coding.",
-    "Confidence": 0.947781
-  },
-  {
-    "Title": "Self-host your homelab tunnels on bunny.net",
-    "Url": "https://alec.is/posts/cloudflare-tunnels-on-bunny-net/",
-    "Timestamp": "2026-04-08T22:02:24",
-    "Domain": "alec.is",
-    "Description": "Principal software engineer with deep experience in full-stack TypeScript, custom web browsers and real-time, media-focused systems.",
-    "Confidence": 0.9948442
-  },
-  {
-    "Title": "Claude Is Dead",
-    "Url": "https://www.javiertordable.com/claude-is-dead/",
-    "Timestamp": "2026-04-08T22:02:20",
-    "Domain": "www.javiertordable.com",
-    "Description": "In 1882 Nietzsche claimed that the dominant paradigm in Western society at the time, the existence of the Christian God and the guidelines for morality stemming from Christian tradition can no longer be justified. And went to shock the world (or at least the 7 people that used to read him at the time) and claimed that God is dead. So let me paraphrase him and try to be as flippant and outrageous as I can, and claim that the first modern god of the AI era is dead.\n\n",
-    "Confidence": 0.6361919
   }
 ]

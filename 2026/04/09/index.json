@@ -1,5 +1,124 @@
 [
   {
+    "Title": "The Token-Burn Trap: Silicon Valley's AI Metric Is a Competitive Liability",
+    "Url": "https://simdecisions.com/blog/token-burn-trap",
+    "Timestamp": "2026-04-09T22:03:40",
+    "Domain": "simdecisions.com",
+    "Description": "Token spend is not a productivity metric. It's an effort metric. And effort is not outcome."
+  },
+  {
+    "Title": "The Old Internet is Still Here",
+    "Url": "https://tylergaw.com/blog/the-old-internet-is-still-here/",
+    "Timestamp": "2026-04-09T22:03:36",
+    "Domain": "tylergaw.com",
+    "Description": "The “old” Internet isn’t gone, our expectations have changed."
+  },
+  {
+    "Title": "What To Do With Your Extra Tokens",
+    "Url": "https://www.johnbhiggins.com/writing/extra-tokens",
+    "Timestamp": "2026-04-09T22:03:30",
+    "Domain": "www.johnbhiggins.com",
+    "Description": "Surplus AI coding tokens are wasted capacity. Use them for targeted code reviews, UI audits, product analysis, and marketing - with copy-paste prompts for each."
+  },
+  {
+    "Title": "Giving LLMs a Formal Reasoning Engine for Code Analysis",
+    "Url": "https://yogthos.net/posts/2026-04-08-neurosymbolic-mcp.html",
+    "Timestamp": "2026-04-09T22:03:26",
+    "Domain": "yogthos.net",
+    "Description": "Dmitri's blog about programming, Clojure, and software development"
+  },
+  {
+    "Title": "Code Is Cheap Now, And That Changes Everything | Pere Villega",
+    "Url": "https://perevillega.com/posts/2026-03-16-code-is-cheap-now/",
+    "Timestamp": "2026-04-09T22:03:23",
+    "Domain": "perevillega.com",
+    "Description": "AI coding agents have made code production nearly free. Drawing on insights from Kent Beck, Paul Ford, and Simon Willison, this post argues that the value has shifted from writing code to defining systems — contracts, invariants, SLAs, and verification."
+  },
+  {
+    "Title": "Do Science in Bed",
+    "Url": "https://monsharen.github.io/Peer/",
+    "Timestamp": "2026-04-09T22:03:11",
+    "Domain": "monsharen.github.io",
+    "Description": "On April 8, 2026, I had a conversation with Claude (Anthropic) that went from a loose intuition about dark matter to a testable astrophysics prediction in peer-reviewable form, in one sitting. From my phone."
+  },
+  {
+    "Title": "An homage to doing – kbrecordzz",
+    "Url": "http://kbrecordzz.com/2026/04/an-homage-to-doing/",
+    "Timestamp": "2026-04-09T22:03:08",
+    "Domain": "kbrecordzz.com",
+    "Description": "The deadliest thing of all isn't to do bad things, it's to do nothing at all. If you do wrong you can always learn from it and redirect yourself, but if you do nothing you won't ever get to that point. In this reality, you can either do things or not do things, and it's 100% up to you. And if you want to make it easier for yourself to do things, it seems to come down to two things:\n\n- Doing what you intrinsically enjoy\n\n- Having a greater purpose"
+  },
+  {
+    "Title": "Code is not abstracted away - Ahmet Hüseyin Dok",
+    "Url": "https://ahmethuseyindok.com/blog/code-is-not-abstracted-away",
+    "Timestamp": "2026-04-09T22:03:03",
+    "Domain": "ahmethuseyindok.com",
+    "Description": "and why you should still read the code"
+  },
+  {
+    "Title": "What Are You Trying to Say?",
+    "Url": "https://idiallo.com/blog/what-are-you-trying-to-say?src=feed",
+    "Timestamp": "2026-04-09T22:02:56",
+    "Domain": "idiallo.com",
+    "Description": "Sometimes, I find myself talking while my audience has a puzzled look on their face. It doesn't matter how much I prepared my speech, the message is just not getting through. But then they ask: What a"
+  },
+  {
+    "Title": "Anatomy of a change",
+    "Url": "https://sibervepunk.com/anatomy-of-a-change/",
+    "Timestamp": "2026-04-09T22:02:53",
+    "Domain": "sibervepunk.com",
+    "Description": "Exactly a year ago today, I changed something about myself that had been part of my life for ten years.\n\nWhat that \"thing\" is won’t be mentioned here, so a..."
+  },
+  {
+    "Title": "Stabilizing Benchmarks",
+    "Url": "https://vondra.me/posts/stabilizing-benchmarks/",
+    "Timestamp": "2026-04-09T22:02:49",
+    "Domain": "vondra.me",
+    "Description": "Ways to stabilize benchmark results, to reduce noise."
+  },
+  {
+    "Title": "Pipeline Architecture System Design",
+    "Url": "https://dvcoolarun.com/2026/04/09/Pipeline-architecture-system-design.html",
+    "Timestamp": "2026-04-09T22:02:46",
+    "Domain": "dvcoolarun.com",
+    "Description": "🧵 Most People Overcomplicate This System Design Question"
+  },
+  {
+    "Title": "The Slow Startup Movement | Wisdom | Tarikh Korula",
+    "Url": "https://tarikhkorula.com/wisdom/the-slow-startup-movement",
+    "Timestamp": "2026-04-09T22:02:43",
+    "Domain": "tarikhkorula.com",
+    "Description": "What if, instead of speeding everything up, AI let us build intentional businesses?\n\n\n\n\nWe're all so busy arguing about whether AI will replace programmers, kill creative jobs, or consolidate power into fewer and fewer companies. I think there might be a quieter possibility nobody's talking about, one far more radical and less dystopian than any of those arguments.\n\nI had a conversation with a former client, and fantastic CTO who, after some initial skepticism, has fully drunk the AI Koolaid. We"
+  },
+  {
+    "Title": "Clean code in the age of coding agents",
+    "Url": "https://www.yanist.com/clean-code-in-the-age-of-coding-agents/",
+    "Timestamp": "2026-04-09T22:02:39",
+    "Domain": "www.yanist.com",
+    "Description": "Keeping code clean helps both humans and agents. Coding agents are limited by context, and poorly organized code means they consume more tokens and perform worse. Here are some practical steps to keep your code clean for both humans and agents."
+  },
+  {
+    "Title": "The Patterns That Agents Miss",
+    "Url": "https://www.leap-labs.com/blog/the-patterns-that-agents-miss",
+    "Timestamp": "2026-04-09T22:02:36",
+    "Domain": "www.leap-labs.com",
+    "Description": "We built a synthetic clinical dataset with known ground-truth patterns and fed it to 18 automated data analysis tools. Most of them confidently reported incorrect results."
+  },
+  {
+    "Title": "The Scroll Manifesto",
+    "Url": "https://www.andreinc.net/2026/04/09/the-scroll-manifesto/",
+    "Timestamp": "2026-04-09T22:02:32",
+    "Domain": "www.andreinc.net",
+    "Description": "Scroll inside the stage with the mouse wheel or with your finger. It is only a machine, but it already understands the gesture. Have fun!\n    \n    \n        \n            \n                \n                \n                \n                \n                    \n                        \n                        \n                        \n                        \n                    \n                \n            \n            \n        \n        \n            \n                \n                    Posted by\n                    \n                \n                \n            \n            \n            \n                like\n                comments\n                share\n            \n            \n                \n                    comments\n                    close\n                \n                \n            \n            \n                \n                    share\n                    close\n                \n                Thank you for sharing. Your unpaid growth work has been successfully appreciated.\n            \n            Swipe for the next officially blessed distraction.\n            \n                dopamine levels\n                \n                    \n                \n            \n            \n                \n                    \n                    \n                    \n                    \n                \n                \n                    \n                    \n                    \n                \n                Moloch The Brain is unhappy.\n            \n        \n    \n    \n       Wait, don't scroll further than this. Come back!"
+  },
+  {
+    "Title": "My Friend Circles",
+    "Url": "https://ruky.me/my-friend-circles/",
+    "Timestamp": "2026-04-09T22:02:28",
+    "Domain": "ruky.me",
+    "Description": "I was clearing my desktop recently when I came across a graphic I made couple of years ago to describe people in my life to another friend. How I interpret different people in my life. Looking back at it couple of years later I found it interesting, looking back at the people who came and went in my life."
+  },
+  {
     "Title": "How NASA Built Artemis II’s Fault-Tolerant Computer – Communications of the ACM",
     "Url": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
     "Timestamp": "2026-04-09T21:02:12",

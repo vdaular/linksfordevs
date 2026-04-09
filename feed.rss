@@ -7,6 +7,243 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The Token-Burn Trap: Silicon Valley's AI Metric Is a Competitive Liability</title>
+      <link>https://simdecisions.com/blog/token-burn-trap</link>
+      <description>Token spend is not a productivity metric. It's an effort metric. And effort is not outcome.</description>
+      <category>cloud</category>
+      <category>ai</category>
+      <guid>https://simdecisions.com/blog/token-burn-trap</guid>
+      <pubDate>Thu, 09 Apr 2026 22:03:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Old Internet is Still Here</title>
+      <link>https://tylergaw.com/blog/the-old-internet-is-still-here/</link>
+      <description>The “old” Internet isn’t gone, our expectations have changed.</description>
+      <guid>https://tylergaw.com/blog/the-old-internet-is-still-here/</guid>
+      <pubDate>Thu, 09 Apr 2026 22:03:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>What To Do With Your Extra Tokens</title>
+      <link>https://www.johnbhiggins.com/writing/extra-tokens</link>
+      <description>Surplus AI coding tokens are wasted capacity. Use them for targeted code reviews, UI audits, product analysis, and marketing - with copy-paste prompts for each.</description>
+      <author> (John Higgins)</author>
+      <category>encryption</category>
+      <category>ai</category>
+      <category>sql</category>
+      <category>vscode</category>
+      <category>web</category>
+      <guid>https://www.johnbhiggins.com/writing/extra-tokens</guid>
+      <pubDate>Thu, 09 Apr 2026 22:03:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Giving LLMs a Formal Reasoning Engine for Code Analysis</title>
+      <link>https://yogthos.net/posts/2026-04-08-neurosymbolic-mcp.html</link>
+      <description>Dmitri's blog about programming, Clojure, and software development</description>
+      <category>nodejs</category>
+      <category>ai</category>
+      <category>typescript</category>
+      <category>sql</category>
+      <category>javascript</category>
+      <guid>https://yogthos.net/posts/2026-04-08-neurosymbolic-mcp.html</guid>
+      <pubDate>Thu, 09 Apr 2026 22:03:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Code Is Cheap Now, And That Changes Everything | Pere Villega</title>
+      <link>https://perevillega.com/posts/2026-03-16-code-is-cheap-now/</link>
+      <description>AI coding agents have made code production nearly free. Drawing on insights from Kent Beck, Paul Ford, and Simon Willison, this post argues that the value has shifted from writing code to defining systems — contracts, invariants, SLAs, and verification.</description>
+      <category>typescript</category>
+      <category>rust</category>
+      <category>ai</category>
+      <guid>https://perevillega.com/posts/2026-03-16-code-is-cheap-now/</guid>
+      <pubDate>Thu, 09 Apr 2026 22:03:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Do Science in Bed</title>
+      <link>https://monsharen.github.io/Peer/</link>
+      <description>On April 8, 2026, I had a conversation with Claude (Anthropic) that went from a loose intuition about dark matter to a testable astrophysics prediction in peer-reviewable form, in one sitting. From my phone.</description>
+      <category>ai</category>
+      <category>git</category>
+      <category>python</category>
+      <category>sql</category>
+      <guid>https://monsharen.github.io/Peer/</guid>
+      <pubDate>Thu, 09 Apr 2026 22:03:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>An homage to doing – kbrecordzz</title>
+      <link>http://kbrecordzz.com/2026/04/an-homage-to-doing/</link>
+      <description>The deadliest thing of all isn't to do bad things, it's to do nothing at all. If you do wrong you can always learn from it and redirect yourself, but if you do nothing you won't ever get to that point. In this reality, you can either do things or not do things, and it's 100% up to you. And if you want to make it easier for yourself to do things, it seems to come down to two things:
+
+- Doing what you intrinsically enjoy
+
+- Having a greater purpose</description>
+      <guid>http://kbrecordzz.com/2026/04/an-homage-to-doing/</guid>
+      <pubDate>Thu, 09 Apr 2026 22:03:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Code is not abstracted away - Ahmet Hüseyin Dok</title>
+      <link>https://ahmethuseyindok.com/blog/code-is-not-abstracted-away</link>
+      <description>and why you should still read the code</description>
+      <category>nodejs</category>
+      <category>javascript</category>
+      <category>ai</category>
+      <guid>https://ahmethuseyindok.com/blog/code-is-not-abstracted-away</guid>
+      <pubDate>Thu, 09 Apr 2026 22:03:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>What Are You Trying to Say?</title>
+      <link>https://idiallo.com/blog/what-are-you-trying-to-say?src=feed</link>
+      <description>Sometimes, I find myself talking while my audience has a puzzled look on their face. It doesn't matter how much I prepared my speech, the message is just not getting through. But then they ask: What a</description>
+      <guid>https://idiallo.com/blog/what-are-you-trying-to-say?src=feed</guid>
+      <pubDate>Thu, 09 Apr 2026 22:02:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anatomy of a change</title>
+      <link>https://sibervepunk.com/anatomy-of-a-change/</link>
+      <description>Exactly a year ago today, I changed something about myself that had been part of my life for ten years.
+
+What that "thing" is won’t be mentioned here, so a...</description>
+      <category>rust</category>
+      <guid>https://sibervepunk.com/anatomy-of-a-change/</guid>
+      <pubDate>Thu, 09 Apr 2026 22:02:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stabilizing Benchmarks</title>
+      <link>https://vondra.me/posts/stabilizing-benchmarks/</link>
+      <description>Ways to stabilize benchmark results, to reduce noise.</description>
+      <category>linux</category>
+      <guid>https://vondra.me/posts/stabilizing-benchmarks/</guid>
+      <pubDate>Thu, 09 Apr 2026 22:02:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pipeline Architecture System Design</title>
+      <link>https://dvcoolarun.com/2026/04/09/Pipeline-architecture-system-design.html</link>
+      <description>🧵 Most People Overcomplicate This System Design Question</description>
+      <category>vscode</category>
+      <category>cloud</category>
+      <category>ai</category>
+      <guid>https://dvcoolarun.com/2026/04/09/Pipeline-architecture-system-design.html</guid>
+      <pubDate>Thu, 09 Apr 2026 22:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Slow Startup Movement | Wisdom | Tarikh Korula</title>
+      <link>https://tarikhkorula.com/wisdom/the-slow-startup-movement</link>
+      <description>What if, instead of speeding everything up, AI let us build intentional businesses?
+
+
+
+
+We're all so busy arguing about whether AI will replace programmers, kill creative jobs, or consolidate power into fewer and fewer companies. I think there might be a quieter possibility nobody's talking about, one far more radical and less dystopian than any of those arguments.
+
+I had a conversation with a former client, and fantastic CTO who, after some initial skepticism, has fully drunk the AI Koolaid. We</description>
+      <author> (Tarikh Korula)</author>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://tarikhkorula.com/wisdom/the-slow-startup-movement</guid>
+      <pubDate>Thu, 09 Apr 2026 22:02:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Clean code in the age of coding agents</title>
+      <link>https://www.yanist.com/clean-code-in-the-age-of-coding-agents/</link>
+      <description>Keeping code clean helps both humans and agents. Coding agents are limited by context, and poorly organized code means they consume more tokens and perform worse. Here are some practical steps to keep your code clean for both humans and agents.</description>
+      <guid>https://www.yanist.com/clean-code-in-the-age-of-coding-agents/</guid>
+      <pubDate>Thu, 09 Apr 2026 22:02:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Patterns That Agents Miss</title>
+      <link>https://www.leap-labs.com/blog/the-patterns-that-agents-miss</link>
+      <description>We built a synthetic clinical dataset with known ground-truth patterns and fed it to 18 automated data analysis tools. Most of them confidently reported incorrect results.</description>
+      <category>vscode</category>
+      <category>ai</category>
+      <guid>https://www.leap-labs.com/blog/the-patterns-that-agents-miss</guid>
+      <pubDate>Thu, 09 Apr 2026 22:02:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Scroll Manifesto</title>
+      <link>https://www.andreinc.net/2026/04/09/the-scroll-manifesto/</link>
+      <description>Scroll inside the stage with the mouse wheel or with your finger. It is only a machine, but it already understands the gesture. Have fun!
+    
+    
+        
+            
+                
+                
+                
+                
+                    
+                        
+                        
+                        
+                        
+                    
+                
+            
+            
+        
+        
+            
+                
+                    Posted by
+                    
+                
+                
+            
+            
+            
+                like
+                comments
+                share
+            
+            
+                
+                    comments
+                    close
+                
+                
+            
+            
+                
+                    share
+                    close
+                
+                Thank you for sharing. Your unpaid growth work has been successfully appreciated.
+            
+            Swipe for the next officially blessed distraction.
+            
+                dopamine levels
+                
+                    
+                
+            
+            
+                
+                    
+                    
+                    
+                    
+                
+                
+                    
+                    
+                    
+                
+                Moloch The Brain is unhappy.
+            
+        
+    
+    
+       Wait, don't scroll further than this. Come back!</description>
+      <category>ai</category>
+      <guid>https://www.andreinc.net/2026/04/09/the-scroll-manifesto/</guid>
+      <pubDate>Thu, 09 Apr 2026 22:02:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>My Friend Circles</title>
+      <link>https://ruky.me/my-friend-circles/</link>
+      <description>I was clearing my desktop recently when I came across a graphic I made couple of years ago to describe people in my life to another friend. How I interpret different people in my life. Looking back at it couple of years later I found it interesting, looking back at the people who came and went in my life.</description>
+      <guid>https://ruky.me/my-friend-circles/</guid>
+      <pubDate>Thu, 09 Apr 2026 22:02:28 GMT</pubDate>
+    </item>
+    <item>
       <title>How NASA Built Artemis II’s Fault-Tolerant Computer – Communications of the ACM</title>
       <link>https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/</link>
       <description>The computer system aboard the current Artemis II lunar space mission is from a different world that the one from the Apollo era. Apollo astronauts navigated to the lunar surface using a computer with a 1-MHz processor and roughly 4 kilobytes of erasable memory, supported by a larger store of fixed “rope” memory. While it was a marvel of 1960s engineering, the Apollo Guidance Computer’s functional scope was focused and not in the control loop for every system. Critical environmental and power controls were managed through manual or electromechanical means, such as switches and relays.</description>
@@ -117,132 +354,6 @@
       <category>ai</category>
       <guid>https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1</guid>
       <pubDate>Thu, 09 Apr 2026 01:02:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>The journey to a datacenter in a box</title>
-      <link>https://merqur.io/2026/04/08/the-journey-to-a-datacenter-in-a-box/</link>
-      <description>It all started with silence. The hum of my old, decapitalized laptop, the one running my entire homelab and personal services, was gone. It had died. And the timing couldn’t have been worse. My personal services were down, my internal tools were offline, and I simply didn’t have the bandwidth to drop everything and spend a weekend performing a forensic recovery.</description>
-      <category>containers</category>
-      <category>nodejs</category>
-      <category>sql</category>
-      <category>linux</category>
-      <guid>https://merqur.io/2026/04/08/the-journey-to-a-datacenter-in-a-box/</guid>
-      <pubDate>Wed, 08 Apr 2026 22:03:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Building Block Economy</title>
-      <link>https://mitchellh.com/writing/building-block-economy</link>
-      <description>The most effective way to build software and get massive adoption is no
-longer high quality mainline apps but via building blocks that enable and
-encourage others to build quantity over quality.1</description>
-      <category>ai</category>
-      <category>javascript</category>
-      <category>linux</category>
-      <guid>https://mitchellh.com/writing/building-block-economy</guid>
-      <pubDate>Wed, 08 Apr 2026 22:03:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Do not forget how you got here</title>
-      <link>https://wanderdust.github.io/newsletter/posts/045_dont_forget_what_youve_done/</link>
-      <description>This is a note to myself
-Don’t forget how you got here.
-During the whole of school you were essentially self taught. You did not pay any attention in class, yet you still managed to get through 13 years of school.
-You organised a rally trip from Madrid to Ulan Bator. You did this in a seat 127 that fell to pieces. No one believed it was possible, specially since the car would not even start 3 days before the trip was to start.</description>
-      <category>python</category>
-      <category>javascript</category>
-      <category>ai</category>
-      <category>web</category>
-      <guid>https://wanderdust.github.io/newsletter/posts/045_dont_forget_what_youve_done/</guid>
-      <pubDate>Wed, 08 Apr 2026 22:03:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>The sad state of smart homes</title>
-      <link>https://cruftbox.com/2026/04/08/the-sad-state-of-smart-homes/</link>
-      <description>"A camel is a horse designed by committee." - Sir Alec Issigonis  I am enamored by the idea of the smart home. Devices working to make life a little easier.  Over the last few years, I've been adding smart home devices to our home, mainly for simple purposes like turning the porch lights or Chri</description>
-      <category>containers</category>
-      <category>ai</category>
-      <guid>https://cruftbox.com/2026/04/08/the-sad-state-of-smart-homes/</guid>
-      <pubDate>Wed, 08 Apr 2026 22:02:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>LambdaLemon</title>
-      <link>https://lambdalemon.gay/posts/string-types</link>
-      <description>Now with 100% more gay!</description>
-      <category>rust</category>
-      <category>linux</category>
-      <guid>https://lambdalemon.gay/posts/string-types</guid>
-      <pubDate>Wed, 08 Apr 2026 22:02:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why Claude Mythos is not AGI</title>
-      <link>https://lucrbvi.bearblog.dev/claude-mythos-is-not-agi/</link>
-      <description>Claude Mythos Preview is not AGI.</description>
-      <category>ai</category>
-      <guid>https://lucrbvi.bearblog.dev/claude-mythos-is-not-agi/</guid>
-      <pubDate>Wed, 08 Apr 2026 22:02:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why I still build apps for myself</title>
-      <link>https://blog.kulman.sk/why-i-still-build-ios-apps/</link>
-      <description>Why I still build small iOS apps for myself, even in an App Store where discovery is weak and indie development often feels irrational.</description>
-      <category>apple</category>
-      <guid>https://blog.kulman.sk/why-i-still-build-ios-apps/</guid>
-      <pubDate>Wed, 08 Apr 2026 22:02:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Verifying human authorship with human.json</title>
-      <link>https://joelchrono.xyz/blog/implementing-human-json/</link>
-      <description>Vouching for other people's websites with this brand new protocol that I thought would be fun to implement!</description>
-      <category>javascript</category>
-      <category>web</category>
-      <guid>https://joelchrono.xyz/blog/implementing-human-json/</guid>
-      <pubDate>Wed, 08 Apr 2026 22:02:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Full Text Search with IndexedDB</title>
-      <link>https://blog.jmp.chat/b/2026-full-text-search-indexeddb</link>
-      <description>While working on Borogove there has been a desire to have full-text search of locally-stored chat message history. For web-based apps the main storage engine in use is IndexedDB, which is a rather low-level system and certainly doesn’t have easy facilities for this kind of operation. So what’s the simplest, performant way to implement a full-text search on IndexedDB?</description>
-      <category>sql</category>
-      <guid>https://blog.jmp.chat/b/2026-full-text-search-indexeddb</guid>
-      <pubDate>Wed, 08 Apr 2026 22:02:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>I Tested Meta Muse Spark Against 4 Frontier Models</title>
-      <link>https://www.riteshkhanna.com/blog/muse-spark-arena</link>
-      <description>Three tests, five models, zero retries. Meta crushed vision and analysis but face-planted on code. ChatGPT wrote the worst code and produced the best output. Meta wins overall — barely.</description>
-      <category>ai</category>
-      <category>javascript</category>
-      <category>vscode</category>
-      <guid>https://www.riteshkhanna.com/blog/muse-spark-arena</guid>
-      <pubDate>Wed, 08 Apr 2026 22:02:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mindfulness, Programming, and the Mistake I Made</title>
-      <link>https://yonatanmedan.github.io/blog/mindfulness-programming-and-the-mistake-i-made/</link>
-      <description>I tried to bring mindfulness into programming and thought I was failing. Measuring my attention revealed the real issue — I was using the wrong model for what mindfulness should feel like while coding.</description>
-      <category>gaming</category>
-      <guid>https://yonatanmedan.github.io/blog/mindfulness-programming-and-the-mistake-i-made/</guid>
-      <pubDate>Wed, 08 Apr 2026 22:02:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Self-host your homelab tunnels on bunny.net</title>
-      <link>https://alec.is/posts/cloudflare-tunnels-on-bunny-net/</link>
-      <description>Principal software engineer with deep experience in full-stack TypeScript, custom web browsers and real-time, media-focused systems.</description>
-      <category>containers</category>
-      <category>linux</category>
-      <category>sql</category>
-      <guid>https://alec.is/posts/cloudflare-tunnels-on-bunny-net/</guid>
-      <pubDate>Wed, 08 Apr 2026 22:02:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude Is Dead</title>
-      <link>https://www.javiertordable.com/claude-is-dead/</link>
-      <description>In 1882 Nietzsche claimed that the dominant paradigm in Western society at the time, the existence of the Christian God and the guidelines for morality stemming from Christian tradition can no longer be justified. And went to shock the world (or at least the 7 people that used to read him at the time) and claimed that God is dead. So let me paraphrase him and try to be as flippant and outrageous as I can, and claim that the first modern god of the AI era is dead.
-
-</description>
-      <category>ai</category>
-      <guid>https://www.javiertordable.com/claude-is-dead/</guid>
-      <pubDate>Wed, 08 Apr 2026 22:02:20 GMT</pubDate>
     </item>
   </channel>
 </rss>
