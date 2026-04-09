@@ -1,5 +1,21 @@
 [
   {
+    "Title": "I’ve been waiting over a month for Anthropic support to respond to my billing issue",
+    "Url": "https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/",
+    "Timestamp": "2026-04-09T01:02:11",
+    "Domain": "nickvecchioni.github.io",
+    "Description": "In early March, I noticed approximately $180 in unexpected charges to my Anthropic account. I’m a Claude Max subscriber, and between March 3-5, I received 16 separate “Extra Usage” invoices ranging from $10-$13 each, all in quick succession of one another. However, I wasn’t using Claude. I was away from my laptop entirely and was out sailing with my parents back home in San Diego.",
+    "Confidence": 0.968362
+  },
+  {
+    "Title": "Introducing Muse Spark: Scaling Towards Personal Superintelligence",
+    "Url": "https://ai.meta.com/blog/introducing-muse-spark-msl/?_fb_noscript=1",
+    "Timestamp": "2026-04-09T01:02:08",
+    "Domain": "ai.meta.com",
+    "Description": "Today, we’re excited to introduce Muse Spark, the first in the Muse family of models developed by Meta Superintelligence Labs. Muse Spark is a natively multimodal reasoning model with support for tool-use, visual chain of thought, and multi-agent orchestration.",
+    "Confidence": 0.9731709
+  },
+  {
     "Title": "The journey to a datacenter in a box",
     "Url": "https://merqur.io/2026/04/08/the-journey-to-a-datacenter-in-a-box/",
     "Timestamp": "2026-04-08T22:03:09",
