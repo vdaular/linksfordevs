@@ -273,14 +273,5 @@ With commentary by our friends from SceneSat. https://scenesat.com/</description
       <guid>https://youtube.com/watch?v=Lw4W9V57SKs&amp;t=5716s</guid>
       <pubDate>Wed, 08 Apr 2026 15:02:05 GMT</pubDate>
     </item>
-    <item>
-      <title>The Git Commands I Run Before Reading Any Code</title>
-      <link>https://piechowski.io/post/git-commands-before-reading-code/</link>
-      <description>Five git commands that tell you where a codebase hurts before you open a single file. Churn hotspots, bus factor, bug clusters, and crisis patterns.</description>
-      <author> (Ally Piechowski)</author>
-      <category>git</category>
-      <guid>https://piechowski.io/post/git-commands-before-reading-code/</guid>
-      <pubDate>Wed, 08 Apr 2026 12:02:13 GMT</pubDate>
-    </item>
   </channel>
 </rss>
