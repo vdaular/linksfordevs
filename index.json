@@ -214,13 +214,5 @@
     "Domain": "piechowski.io",
     "Description": "Five git commands that tell you where a codebase hurts before you open a single file. Churn hotspots, bus factor, bug clusters, and crisis patterns.",
     "Confidence": 0.98631394
-  },
-  {
-    "Title": "VeraCrypt / Forums / General Discussion: Project Update",
-    "Url": "https://sourceforge.net/p/veracrypt/discussion/general/thread/9620d7a4b3/",
-    "Timestamp": "2026-04-08T11:02:28",
-    "Domain": "sourceforge.net",
-    "Description": "",
-    "Confidence": 0.95858616
   }
 ]
