@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Little Snitch for Linux</title>
+      <link>https://obdev.at/products/littlesnitch-linux/index.html</link>
+      <description>Discover powerful applications such as Little Snitch Mini, Little Snitch, LaunchBar and Micro Snitch.</description>
+      <category>linux</category>
+      <guid>https://obdev.at/products/littlesnitch-linux/index.html</guid>
+      <pubDate>Thu, 09 Apr 2026 04:02:23 GMT</pubDate>
+    </item>
+    <item>
       <title>Kalman Filter Explained Through Examples</title>
       <link>https://kalmanfilter.net/</link>
       <description>Easy and intuitive Kalman Filter tutorial</description>
