@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Is Hormuz Open Yet?</title>
+      <link>https://www.ishormuzopenyet.com/</link>
+      <description>Live status of the Strait of Hormuz</description>
+      <guid>https://www.ishormuzopenyet.com/</guid>
+      <pubDate>Thu, 09 Apr 2026 02:02:01 GMT</pubDate>
+    </item>
+    <item>
       <title>I’ve been waiting over a month for Anthropic support to respond to my billing issue</title>
       <link>https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/</link>
       <description>In early March, I noticed approximately $180 in unexpected charges to my Anthropic account. I’m a Claude Max subscriber, and between March 3-5, I received 16 separate “Extra Usage” invoices ranging from $10-$13 each, all in quick succession of one another. However, I wasn’t using Claude. I was away from my laptop entirely and was out sailing with my parents back home in San Diego.</description>
@@ -252,15 +259,6 @@ With commentary by our friends from SceneSat. https://scenesat.com/</description
       <category>python</category>
       <guid>https://www.allthingsdistributed.com/2026/04/s3-files-and-the-changing-face-of-s3.html</guid>
       <pubDate>Wed, 08 Apr 2026 06:02:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude Mythos Preview</title>
-      <link>https://red.anthropic.com/2026/mythos-preview/</link>
-      <description>April 7, 2026</description>
-      <category>ai</category>
-      <category>cloud</category>
-      <guid>https://red.anthropic.com/2026/mythos-preview/</guid>
-      <pubDate>Wed, 08 Apr 2026 02:02:14 GMT</pubDate>
     </item>
   </channel>
 </rss>

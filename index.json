@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Is Hormuz Open Yet?",
+    "Url": "https://www.ishormuzopenyet.com/",
+    "Timestamp": "2026-04-09T02:02:01",
+    "Domain": "www.ishormuzopenyet.com",
+    "Description": "Live status of the Strait of Hormuz",
+    "Confidence": 0.81654173
+  },
+  {
     "Title": "I’ve been waiting over a month for Anthropic support to respond to my billing issue",
     "Url": "https://nickvecchioni.github.io/thoughts/2026/04/08/anthropic-support-doesnt-exist/",
     "Timestamp": "2026-04-09T01:02:11",
@@ -182,13 +190,5 @@
     "Domain": "www.allthingsdistributed.com",
     "Description": "Andy Warfield writes about the hard-won lessons dealing with data friction that lead to S3 Files",
     "Confidence": 0.9796826
-  },
-  {
-    "Title": "Claude Mythos Preview",
-    "Url": "https://red.anthropic.com/2026/mythos-preview/",
-    "Timestamp": "2026-04-08T02:02:14",
-    "Domain": "red.anthropic.com",
-    "Description": "April 7, 2026",
-    "Confidence": 0.9806748
   }
 ]
