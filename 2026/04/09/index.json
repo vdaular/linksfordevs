@@ -1,5 +1,12 @@
 [
   {
+    "Title": "How Pizza Tycoon simulated traffic on a 25 MHz CPU — Pizza Legacy Blog",
+    "Url": "https://pizzalegacy.nl/blog/traffic-system.html",
+    "Timestamp": "2026-04-09T05:02:23",
+    "Domain": "pizzalegacy.nl",
+    "Description": "Reverse engineering the traffic system from Pizza Tycoon (1994): how the original devs drove dozens of cars through a city with almost no CPU budget."
+  },
+  {
     "Title": "Little Snitch for Linux",
     "Url": "https://obdev.at/products/littlesnitch-linux/index.html",
     "Timestamp": "2026-04-09T04:02:23",
