@@ -1,5 +1,13 @@
 [
   {
+    "Title": "How NASA Built Artemis II’s Fault-Tolerant Computer – Communications of the ACM",
+    "Url": "https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/",
+    "Timestamp": "2026-04-09T21:02:12",
+    "Domain": "cacm.acm.org",
+    "Description": "The computer system aboard the current Artemis II lunar space mission is from a different world that the one from the Apollo era. Apollo astronauts navigated to the lunar surface using a computer with a 1-MHz processor and roughly 4 kilobytes of erasable memory, supported by a larger store of fixed “rope” memory. While it was a marvel of 1960s engineering, the Apollo Guidance Computer’s functional scope was focused and not in the control loop for every system. Critical environmental and power controls were managed through manual or electromechanical means, such as switches and relays.",
+    "Confidence": 0.6977118
+  },
+  {
     "Title": "EFF is Leaving X",
     "Url": "https://www.eff.org/deeplinks/2026/04/eff-leaving-x",
     "Timestamp": "2026-04-09T19:02:06",

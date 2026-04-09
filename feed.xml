@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>How NASA Built Artemis II’s Fault-Tolerant Computer – Communications of the ACM</title>
+      <link>https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/</link>
+      <description>The computer system aboard the current Artemis II lunar space mission is from a different world that the one from the Apollo era. Apollo astronauts navigated to the lunar surface using a computer with a 1-MHz processor and roughly 4 kilobytes of erasable memory, supported by a larger store of fixed “rope” memory. While it was a marvel of 1960s engineering, the Apollo Guidance Computer’s functional scope was focused and not in the control loop for every system. Critical environmental and power controls were managed through manual or electromechanical means, such as switches and relays.</description>
+      <guid>https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/</guid>
+      <pubDate>Thu, 09 Apr 2026 21:02:12 GMT</pubDate>
+    </item>
+    <item>
       <title>EFF is Leaving X</title>
       <link>https://www.eff.org/deeplinks/2026/04/eff-leaving-x</link>
       <description>After almost twenty years on the platform, EFF is logging off of X. This isn’t a decision we made lightly, but it might be overdue.</description>
