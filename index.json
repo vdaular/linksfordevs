@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Microsoft suspends dev accounts for high-profile open source projects",
+    "Url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/",
+    "Timestamp": "2026-04-10T14:02:02",
+    "Domain": "www.bleepingcomputer.com",
+    "Description": "Microsoft has suspended developer accounts used to maintain multiple high-profile open-source projects without proper notification and no way to quickly reinstate them, effectively blocking them from publishing new software builds and security patches for Windows users.",
+    "Confidence": 0.77003616
+  },
+  {
     "Title": "Why the Original Task Manager Was Under 80K and Insanely Fast – By Its Creator",
     "Url": "https://youtube.com/watch?v=OyN4LGyPwxc",
     "Timestamp": "2026-04-10T13:02:13",
@@ -214,13 +222,5 @@
     "Domain": "dwyer.co.za",
     "Description": "Claude sometimes sends messages to itself and then thinks those messages come from the user. This is categorically distinct from hallucinations or missing permissions.",
     "Confidence": 0.70762414
-  },
-  {
-    "Title": "Open source security at Astral",
-    "Url": "https://astral.sh/blog/open-source-security-at-astral",
-    "Timestamp": "2026-04-09T14:02:25",
-    "Domain": "astral.sh",
-    "Description": "Insights and guidance from our engineering team on how Astral secures its tools.",
-    "Confidence": 0.9962712
   }
 ]
