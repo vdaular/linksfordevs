@@ -1,5 +1,12 @@
 [
   {
+    "Title": "FBI used iPhone notification data to retrieve deleted Signal messages - 9to5Mac",
+    "Url": "https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/",
+    "Timestamp": "2026-04-10T15:02:15",
+    "Domain": "9to5mac.com",
+    "Description": "The FBI was able to recover deleted Signal messages from an iPhone by extracting data stored in the device’s notification database."
+  },
+  {
     "Title": "Microsoft suspends dev accounts for high-profile open source projects",
     "Url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/",
     "Timestamp": "2026-04-10T14:02:02",

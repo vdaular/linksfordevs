@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>FBI used iPhone notification data to retrieve deleted Signal messages - 9to5Mac</title>
+      <link>https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/</link>
+      <description>The FBI was able to recover deleted Signal messages from an iPhone by extracting data stored in the device’s notification database.</description>
+      <category>apple</category>
+      <category>sql</category>
+      <guid>https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/</guid>
+      <pubDate>Fri, 10 Apr 2026 15:02:15 GMT</pubDate>
+    </item>
+    <item>
       <title>Microsoft suspends dev accounts for high-profile open source projects</title>
       <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/</link>
       <description>Microsoft has suspended developer accounts used to maintain multiple high-profile open-source projects without proper notification and no way to quickly reinstate them, effectively blocking them from publishing new software builds and security patches for Windows users.</description>
@@ -324,24 +333,6 @@ I had a conversation with a former client, and fantastic CTO who, after some ini
       <category>youtube</category>
       <guid>https://www.eff.org/deeplinks/2026/04/eff-leaving-x</guid>
       <pubDate>Thu, 09 Apr 2026 19:02:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>
-      Help Keep Thunderbird Alive!</title>
-      <link>https://updates.thunderbird.net/en-US/thunderbird/140.0/apr26-1e/donate/</link>
-      <description>
-      Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!</description>
-      <guid>https://updates.thunderbird.net/en-US/thunderbird/140.0/apr26-1e/donate/</guid>
-      <pubDate>Thu, 09 Apr 2026 15:02:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude mixes up who said what, and that's not OK</title>
-      <link>https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html</link>
-      <description>Claude sometimes sends messages to itself and then thinks those messages come from the user. This is categorically distinct from hallucinations or missing permissions.</description>
-      <category>ai</category>
-      <category>web</category>
-      <guid>https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html</guid>
-      <pubDate>Thu, 09 Apr 2026 15:02:14 GMT</pubDate>
     </item>
   </channel>
 </rss>

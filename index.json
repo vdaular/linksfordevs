@@ -1,5 +1,13 @@
 [
   {
+    "Title": "FBI used iPhone notification data to retrieve deleted Signal messages - 9to5Mac",
+    "Url": "https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/",
+    "Timestamp": "2026-04-10T15:02:15",
+    "Domain": "9to5mac.com",
+    "Description": "The FBI was able to recover deleted Signal messages from an iPhone by extracting data stored in the device’s notification database.",
+    "Confidence": 0.825703
+  },
+  {
     "Title": "Microsoft suspends dev accounts for high-profile open source projects",
     "Url": "https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/",
     "Timestamp": "2026-04-10T14:02:02",
@@ -206,21 +214,5 @@
     "Domain": "www.eff.org",
     "Description": "After almost twenty years on the platform, EFF is logging off of X. This isn’t a decision we made lightly, but it might be overdue.",
     "Confidence": 0.8979382
-  },
-  {
-    "Title": "\n      Help Keep Thunderbird Alive!",
-    "Url": "https://updates.thunderbird.net/en-US/thunderbird/140.0/apr26-1e/donate/",
-    "Timestamp": "2026-04-09T15:02:24",
-    "Domain": "updates.thunderbird.net",
-    "Description": "\n      Thunderbird is a free email application that’s easy to set up and customize - and it’s loaded with great features!",
-    "Confidence": 0.9956457
-  },
-  {
-    "Title": "Claude mixes up who said what, and that's not OK",
-    "Url": "https://dwyer.co.za/static/claude-mixes-up-who-said-what-and-thats-not-ok.html",
-    "Timestamp": "2026-04-09T15:02:14",
-    "Domain": "dwyer.co.za",
-    "Description": "Claude sometimes sends messages to itself and then thinks those messages come from the user. This is categorically distinct from hallucinations or missing permissions.",
-    "Confidence": 0.70762414
   }
 ]
