@@ -214,13 +214,5 @@
     "Domain": "werwolv.net",
     "Description": "A basic introduction to USB for people that don't need to know what happens on the wire\n",
     "Confidence": 0.9970746
-  },
-  {
-    "Title": "How Pizza Tycoon simulated traffic on a 25 MHz CPU — Pizza Legacy Blog",
-    "Url": "https://pizzalegacy.nl/blog/traffic-system.html",
-    "Timestamp": "2026-04-09T05:02:23",
-    "Domain": "pizzalegacy.nl",
-    "Description": "Reverse engineering the traffic system from Pizza Tycoon (1994): how the original devs drove dozens of cars through a city with almost no CPU budget.",
-    "Confidence": 0.97194284
   }
 ]

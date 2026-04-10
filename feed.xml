@@ -335,13 +335,5 @@ I had a conversation with a former client, and fantastic CTO who, after some ini
       <guid>https://werwolv.net/posts/usb_for_sw_devs/</guid>
       <pubDate>Thu, 09 Apr 2026 06:02:04 GMT</pubDate>
     </item>
-    <item>
-      <title>How Pizza Tycoon simulated traffic on a 25 MHz CPU — Pizza Legacy Blog</title>
-      <link>https://pizzalegacy.nl/blog/traffic-system.html</link>
-      <description>Reverse engineering the traffic system from Pizza Tycoon (1994): how the original devs drove dozens of cars through a city with almost no CPU budget.</description>
-      <category>gaming</category>
-      <guid>https://pizzalegacy.nl/blog/traffic-system.html</guid>
-      <pubDate>Thu, 09 Apr 2026 05:02:23 GMT</pubDate>
-    </item>
   </channel>
 </rss>
