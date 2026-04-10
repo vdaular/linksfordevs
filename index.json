@@ -222,13 +222,5 @@
     "Domain": "obdev.at",
     "Description": "Discover powerful applications such as Little Snitch Mini, Little Snitch, LaunchBar and Micro Snitch.",
     "Confidence": 0.98861814
-  },
-  {
-    "Title": "Kalman Filter Explained Through Examples",
-    "Url": "https://kalmanfilter.net/",
-    "Timestamp": "2026-04-09T03:02:21",
-    "Domain": "kalmanfilter.net",
-    "Description": "Easy and intuitive Kalman Filter tutorial",
-    "Confidence": 0.98413956
   }
 ]

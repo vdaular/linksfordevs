@@ -343,14 +343,5 @@ I had a conversation with a former client, and fantastic CTO who, after some ini
       <guid>https://obdev.at/products/littlesnitch-linux/index.html</guid>
       <pubDate>Thu, 09 Apr 2026 04:02:23 GMT</pubDate>
     </item>
-    <item>
-      <title>Kalman Filter Explained Through Examples</title>
-      <link>https://kalmanfilter.net/</link>
-      <description>Easy and intuitive Kalman Filter tutorial</description>
-      <category>encryption</category>
-      <category>python</category>
-      <guid>https://kalmanfilter.net/</guid>
-      <pubDate>Thu, 09 Apr 2026 03:02:21 GMT</pubDate>
-    </item>
   </channel>
 </rss>
