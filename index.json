@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Lzon.ca. A personal blog, by a programmer and IT expert.",
+    "Url": "https://lzon.ca/posts/other/microsoft-user-abuse/",
+    "Timestamp": "2026-04-10T04:02:10",
+    "Domain": "lzon.ca",
+    "Description": "A personal blog, by a programmer and IT expert. Essays, Articles, Guides, and Recipes. As well as Code, Quotes, and Links.",
+    "Confidence": 0.9782987
+  },
+  {
     "Title": "The Vercel Plugin on Claude Code wants to read all your prompts!",
     "Url": "https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry",
     "Timestamp": "2026-04-10T00:02:08",
@@ -214,13 +222,5 @@
     "Domain": "pizzalegacy.nl",
     "Description": "Reverse engineering the traffic system from Pizza Tycoon (1994): how the original devs drove dozens of cars through a city with almost no CPU budget.",
     "Confidence": 0.97194284
-  },
-  {
-    "Title": "Little Snitch for Linux",
-    "Url": "https://obdev.at/products/littlesnitch-linux/index.html",
-    "Timestamp": "2026-04-09T04:02:23",
-    "Domain": "obdev.at",
-    "Description": "Discover powerful applications such as Little Snitch Mini, Little Snitch, LaunchBar and Micro Snitch.",
-    "Confidence": 0.98861814
   }
 ]

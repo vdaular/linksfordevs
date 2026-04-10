@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Lzon.ca. A personal blog, by a programmer and IT expert.</title>
+      <link>https://lzon.ca/posts/other/microsoft-user-abuse/</link>
+      <description>A personal blog, by a programmer and IT expert. Essays, Articles, Guides, and Recipes. As well as Code, Quotes, and Links.</description>
+      <category>gaming</category>
+      <guid>https://lzon.ca/posts/other/microsoft-user-abuse/</guid>
+      <pubDate>Fri, 10 Apr 2026 04:02:10 GMT</pubDate>
+    </item>
+    <item>
       <title>The Vercel Plugin on Claude Code wants to read all your prompts!</title>
       <link>https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry</link>
       <description>09 Apr 2026 The Vercel Plugin on Claude Code wants to read all your prompts!</description>
@@ -334,14 +342,6 @@ I had a conversation with a former client, and fantastic CTO who, after some ini
       <category>gaming</category>
       <guid>https://pizzalegacy.nl/blog/traffic-system.html</guid>
       <pubDate>Thu, 09 Apr 2026 05:02:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Little Snitch for Linux</title>
-      <link>https://obdev.at/products/littlesnitch-linux/index.html</link>
-      <description>Discover powerful applications such as Little Snitch Mini, Little Snitch, LaunchBar and Micro Snitch.</description>
-      <category>linux</category>
-      <guid>https://obdev.at/products/littlesnitch-linux/index.html</guid>
-      <pubDate>Thu, 09 Apr 2026 04:02:23 GMT</pubDate>
     </item>
   </channel>
 </rss>
