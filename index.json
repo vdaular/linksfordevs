@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Why the Original Task Manager Was Under 80K and Insanely Fast – By Its Creator",
+    "Url": "https://youtube.com/watch?v=OyN4LGyPwxc",
+    "Timestamp": "2026-04-10T13:02:13",
+    "Domain": "youtube.com",
+    "Description": "Dave explains the techniques and principles that made the original Windows Task Manager so small and lean, and what modern programmers can learn from it.",
+    "Confidence": 0.9749262
+  },
+  {
+    "Title": "I Still Prefer MCP Over Skills",
+    "Url": "https://david.coffee/i-still-prefer-mcp-over-skills/",
+    "Timestamp": "2026-04-10T13:02:12",
+    "Domain": "david.coffee",
+    "Description": "Why I believe the Model Context Protocol (MCP) is a better architectural pattern than the emerging “Skills” trend for LLM tool integration.",
+    "Confidence": 0.9939401
+  },
+  {
     "Title": "numerique.gouv.fr",
     "Url": "https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/",
     "Timestamp": "2026-04-10T12:03:22",
