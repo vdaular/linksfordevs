@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>[ANNOUNCE] WireGuardNT v0.11 and WireGuard for Windows v0.6 Released</title>
+      <link>https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html</link>
+      <description />
+      <category>git</category>
+      <category>linux</category>
+      <category>web</category>
+      <guid>https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html</guid>
+      <pubDate>Fri, 10 Apr 2026 20:02:07 GMT</pubDate>
+    </item>
+    <item>
       <title>1D-Chess</title>
       <link>https://rowan441.github.io/1dchess/chess.html</link>
       <description>1d-chess is a new variant where you can play the beautiful game without all those unneccessary and complicated extra dimensions.
