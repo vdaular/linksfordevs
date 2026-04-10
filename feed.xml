@@ -7,6 +7,26 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The Vercel Plugin on Claude Code wants to read all your prompts!</title>
+      <link>https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry</link>
+      <description>09 Apr 2026 The Vercel Plugin on Claude Code wants to read all your prompts!</description>
+      <category>ai</category>
+      <category>rust</category>
+      <category>python</category>
+      <category>vscode</category>
+      <category>javascript</category>
+      <guid>https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry</guid>
+      <pubDate>Fri, 10 Apr 2026 00:02:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Native Instant Space Switching on MacOS</title>
+      <link>https://arhan.sh/blog/native-instant-space-switching-on-macos/</link>
+      <description>Arhan's Blog</description>
+      <category>git</category>
+      <guid>https://arhan.sh/blog/native-instant-space-switching-on-macos/</guid>
+      <pubDate>Fri, 10 Apr 2026 00:02:04 GMT</pubDate>
+    </item>
+    <item>
       <title>The Token-Burn Trap: Silicon Valley's AI Metric Is a Competitive Liability</title>
       <link>https://simdecisions.com/blog/token-burn-trap</link>
       <description>Token spend is not a productivity metric. It's an effort metric. And effort is not outcome.</description>

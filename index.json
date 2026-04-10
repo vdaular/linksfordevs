@@ -1,5 +1,21 @@
 [
   {
+    "Title": "The Vercel Plugin on Claude Code wants to read all your prompts!",
+    "Url": "https://akshaychugh.xyz/writings/png/vercel-plugin-telemetry",
+    "Timestamp": "2026-04-10T00:02:08",
+    "Domain": "akshaychugh.xyz",
+    "Description": "09 Apr 2026 The Vercel Plugin on Claude Code wants to read all your prompts!",
+    "Confidence": 0.99769324
+  },
+  {
+    "Title": "Native Instant Space Switching on MacOS",
+    "Url": "https://arhan.sh/blog/native-instant-space-switching-on-macos/",
+    "Timestamp": "2026-04-10T00:02:04",
+    "Domain": "arhan.sh",
+    "Description": "Arhan's Blog",
+    "Confidence": 0.99425524
+  },
+  {
     "Title": "The Token-Burn Trap: Silicon Valley's AI Metric Is a Competitive Liability",
     "Url": "https://simdecisions.com/blog/token-burn-trap",
     "Timestamp": "2026-04-09T22:03:40",
