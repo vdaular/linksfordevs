@@ -230,13 +230,5 @@
     "Domain": "kalmanfilter.net",
     "Description": "Easy and intuitive Kalman Filter tutorial",
     "Confidence": 0.98413956
-  },
-  {
-    "Title": "Is Hormuz Open Yet?",
-    "Url": "https://www.ishormuzopenyet.com/",
-    "Timestamp": "2026-04-09T02:02:01",
-    "Domain": "www.ishormuzopenyet.com",
-    "Description": "Live status of the Strait of Hormuz",
-    "Confidence": 0.81654173
   }
 ]
