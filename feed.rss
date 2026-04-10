@@ -7,6 +7,26 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>1D-Chess</title>
+      <link>https://rowan441.github.io/1dchess/chess.html</link>
+      <description>1d-chess is a new variant where you can play the beautiful game without all those unneccessary and complicated extra dimensions.
+			Play as white against the AI. You might initally find it more difficult than expected, but assming optimal play, is there a forced win for white?</description>
+      <category>gaming</category>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://rowan441.github.io/1dchess/chess.html</guid>
+      <pubDate>Fri, 10 Apr 2026 19:02:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why you can’t trust Privacy &amp; Security</title>
+      <link>https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/</link>
+      <description>How to gain access to the contents of privacy-protected folders even though Privacy &amp; Security settings say that access is denied.</description>
+      <category>apple</category>
+      <category>git</category>
+      <guid>https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/</guid>
+      <pubDate>Fri, 10 Apr 2026 19:02:09 GMT</pubDate>
+    </item>
+    <item>
       <title>The AWS Lambda 'Kiss of Death' - Shattered Silicon</title>
       <link>https://shatteredsilicon.net/the-aws-lambda-kiss-of-death/</link>
       <description>Our story begins as most database issues start: with hands on foreheads, internally or externally, saying ‘WTF is going on?’. We observed a series of database freezes on our production environment. It was quite severe. Connections spiked, writes were stalled and at some point, a large database freeze and they cleared. Being a Galera environment, […]</description>
@@ -335,15 +355,6 @@ I had a conversation with a former client, and fantastic CTO who, after some ini
       <description>The computer system aboard the current Artemis II lunar space mission is from a different world that the one from the Apollo era. Apollo astronauts navigated to the lunar surface using a computer with a 1-MHz processor and roughly 4 kilobytes of erasable memory, supported by a larger store of fixed “rope” memory. While it was a marvel of 1960s engineering, the Apollo Guidance Computer’s functional scope was focused and not in the control loop for every system. Critical environmental and power controls were managed through manual or electromechanical means, such as switches and relays.</description>
       <guid>https://cacm.acm.org/news/how-nasa-built-artemis-iis-fault-tolerant-computer/</guid>
       <pubDate>Thu, 09 Apr 2026 21:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>EFF is Leaving X</title>
-      <link>https://www.eff.org/deeplinks/2026/04/eff-leaving-x</link>
-      <description>After almost twenty years on the platform, EFF is logging off of X. This isn’t a decision we made lightly, but it might be overdue.</description>
-      <category>encryption</category>
-      <category>youtube</category>
-      <guid>https://www.eff.org/deeplinks/2026/04/eff-leaving-x</guid>
-      <pubDate>Thu, 09 Apr 2026 19:02:06 GMT</pubDate>
     </item>
   </channel>
 </rss>

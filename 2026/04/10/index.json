@@ -1,5 +1,19 @@
 [
   {
+    "Title": "1D-Chess",
+    "Url": "https://rowan441.github.io/1dchess/chess.html",
+    "Timestamp": "2026-04-10T19:02:13",
+    "Domain": "rowan441.github.io",
+    "Description": "1d-chess is a new variant where you can play the beautiful game without all those unneccessary and complicated extra dimensions.\n\t\t\tPlay as white against the AI. You might initally find it more difficult than expected, but assming optimal play, is there a forced win for white?"
+  },
+  {
+    "Title": "Why you can’t trust Privacy & Security",
+    "Url": "https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/",
+    "Timestamp": "2026-04-10T19:02:09",
+    "Domain": "eclecticlight.co",
+    "Description": "How to gain access to the contents of privacy-protected folders even though Privacy & Security settings say that access is denied."
+  },
+  {
     "Title": "The AWS Lambda 'Kiss of Death' - Shattered Silicon",
     "Url": "https://shatteredsilicon.net/the-aws-lambda-kiss-of-death/",
     "Timestamp": "2026-04-10T18:02:15",

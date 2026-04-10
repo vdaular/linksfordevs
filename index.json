@@ -1,5 +1,21 @@
 [
   {
+    "Title": "1D-Chess",
+    "Url": "https://rowan441.github.io/1dchess/chess.html",
+    "Timestamp": "2026-04-10T19:02:13",
+    "Domain": "rowan441.github.io",
+    "Description": "1d-chess is a new variant where you can play the beautiful game without all those unneccessary and complicated extra dimensions.\n\t\t\tPlay as white against the AI. You might initally find it more difficult than expected, but assming optimal play, is there a forced win for white?",
+    "Confidence": 0.81738216
+  },
+  {
+    "Title": "Why you can’t trust Privacy & Security",
+    "Url": "https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/",
+    "Timestamp": "2026-04-10T19:02:09",
+    "Domain": "eclecticlight.co",
+    "Description": "How to gain access to the contents of privacy-protected folders even though Privacy & Security settings say that access is denied.",
+    "Confidence": 0.95822763
+  },
+  {
     "Title": "The AWS Lambda 'Kiss of Death' - Shattered Silicon",
     "Url": "https://shatteredsilicon.net/the-aws-lambda-kiss-of-death/",
     "Timestamp": "2026-04-10T18:02:15",
@@ -214,13 +230,5 @@
     "Domain": "cacm.acm.org",
     "Description": "The computer system aboard the current Artemis II lunar space mission is from a different world that the one from the Apollo era. Apollo astronauts navigated to the lunar surface using a computer with a 1-MHz processor and roughly 4 kilobytes of erasable memory, supported by a larger store of fixed “rope” memory. While it was a marvel of 1960s engineering, the Apollo Guidance Computer’s functional scope was focused and not in the control loop for every system. Critical environmental and power controls were managed through manual or electromechanical means, such as switches and relays.",
     "Confidence": 0.6977118
-  },
-  {
-    "Title": "EFF is Leaving X",
-    "Url": "https://www.eff.org/deeplinks/2026/04/eff-leaving-x",
-    "Timestamp": "2026-04-09T19:02:06",
-    "Domain": "www.eff.org",
-    "Description": "After almost twenty years on the platform, EFF is logging off of X. This isn’t a decision we made lightly, but it might be overdue.",
-    "Confidence": 0.8979382
   }
 ]
