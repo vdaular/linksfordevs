@@ -7,6 +7,48 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Installing every* Firefox extension</title>
+      <link>https://jack.cab/blog/every-firefox-extension</link>
+      <description>Oh, you use Firefox? Name every extension.</description>
+      <category>nodejs</category>
+      <category>apple</category>
+      <category>javascript</category>
+      <category>ai</category>
+      <category>youtube</category>
+      <guid>https://jack.cab/blog/every-firefox-extension</guid>
+      <pubDate>Sat, 11 Apr 2026 06:02:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>-</title>
+      <link>https://blog.samaltman.com/2279512</link>
+      <description>Here is a photo of my family. I love them more than anything.
+
+ 
+
+    
+
+ 
+
+  
+
+ 
+
+ Images have power, I hope. Normally we try to be pretty private, but in this case I am sharing a photo in the...</description>
+      <category>ai</category>
+      <guid>https://blog.samaltman.com/2279512</guid>
+      <pubDate>Sat, 11 Apr 2026 06:02:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>linux/Documentation/process/coding-assistants.rst at master · torvalds/linux</title>
+      <link>https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst</link>
+      <description>Linux kernel source tree. Contribute to torvalds/linux development by creating an account on GitHub.</description>
+      <category>linux</category>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst</guid>
+      <pubDate>Sat, 11 Apr 2026 06:02:18 GMT</pubDate>
+    </item>
+    <item>
       <title>Your friends are hiding their best ideas from you</title>
       <link>https://idiallo.com/blog/your-friends-are-hiding-their-ideas?src=feed</link>
       <description>Back in college, the final project in our JavaScript class was to build a website. We were a group of four, and we built the best website in class. It was for a restaurant called the Coral Reef. We fo</description>
