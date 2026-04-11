@@ -198,13 +198,5 @@
     "Domain": "github.com",
     "Description": "Industrial design files for Keychron keyboards and mice. 100+ models with CAD assets in STEP, DXF, DWG, and PDF. Source-available, with commercial use allowed for original compatible accessories wi...",
     "Confidence": 0.97272223
-  },
-  {
-    "Title": "Lightning",
-    "Url": "https://xkcd.com/3231/",
-    "Timestamp": "2026-04-10T21:02:01",
-    "Domain": "xkcd.com",
-    "Description": "",
-    "Confidence": 0.98151064
   }
 ]
