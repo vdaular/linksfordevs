@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>On filing the corners off my MacBooks</title>
+      <link>https://kentwalters.com/posts/corners/</link>
+      <description>April 2026</description>
+      <guid>https://kentwalters.com/posts/corners/</guid>
+      <pubDate>Sat, 11 Apr 2026 01:01:57 GMT</pubDate>
+    </item>
+    <item>
       <title>Claude Code is a vibe-coded mess. Some of it is actually good.</title>
       <link>https://blog.raed.dev/posts/claude_code_clever_ideas/</link>
       <description>Some ideas worth stealing from the leaked Claude Code source: deferred tool loading, diminishing returns detection, cache-aware context compaction, and coalesced background extraction.</description>
