@@ -1,5 +1,117 @@
 [
   {
+    "Title": "We Only Learn from Error",
+    "Url": "https://nathanclonts.com/we-only-learn-from-error/",
+    "Timestamp": "2026-04-11T23:03:28",
+    "Domain": "nathanclonts.com",
+    "Description": "Behavioral cloning needs an oracle with challenging scenarios.",
+    "Confidence": 0.9029796
+  },
+  {
+    "Title": "Write less code, be more responsible - Orhun's Blog",
+    "Url": "https://blog.orhun.dev/code-responsibly/",
+    "Timestamp": "2026-04-11T23:03:16",
+    "Domain": "blog.orhun.dev",
+    "Description": "My thoughts on AI-assisted programming.",
+    "Confidence": 0.98822755
+  },
+  {
+    "Title": "Claude Code doesn't trust Claude with permissions",
+    "Url": "https://blog.raed.dev/posts/claude_code_permissions/",
+    "Timestamp": "2026-04-11T23:03:12",
+    "Domain": "blog.raed.dev",
+    "Description": "How Claude Code enforces permissions with deterministic code, not model inference. The one LLM-based path is internal-only, fail-closed, and stripped from the public package.",
+    "Confidence": 0.9920304
+  },
+  {
+    "Title": "The Center Has a Bias",
+    "Url": "https://lucumr.pocoo.org/2026/4/11/the-center-has-a-bias/",
+    "Timestamp": "2026-04-11T23:03:09",
+    "Domain": "lucumr.pocoo.org",
+    "Description": "Why a measured position on AI tends to lean towards actually trying it.",
+    "Confidence": 0.9668594
+  },
+  {
+    "Title": "Configuration flags are where software goes to rot",
+    "Url": "https://00f.net/2026/04/11/config-flags/",
+    "Timestamp": "2026-04-11T23:03:06",
+    "Domain": "00f.net",
+    "Description": "People love configurable software.",
+    "Confidence": 0.9989685
+  },
+  {
+    "Title": "Why GEO Is Not Enough",
+    "Url": "https://toffee.at/blog/why-geo-is-not-enough",
+    "Timestamp": "2026-04-11T23:03:01",
+    "Domain": "toffee.at",
+    "Description": "Most companies think GEO solves agentic commerce. It doesn't. Here's what the full stack actually looks like.",
+    "Confidence": 0.968389
+  },
+  {
+    "Title": "If not LLMs, what should I work on?",
+    "Url": "https://kindxiaoming.github.io/blog/2026/everything-is-language/",
+    "Timestamp": "2026-04-11T23:02:58",
+    "Domain": "kindxiaoming.github.io",
+    "Description": "A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.",
+    "Confidence": 0.97408843
+  },
+  {
+    "Title": "Brocards for vulnerability triage",
+    "Url": "https://blog.yossarian.net/2026/04/11/Brocards-for-vulnerability-triage",
+    "Timestamp": "2026-04-11T23:02:54",
+    "Domain": "blog.yossarian.net",
+    "Description": "Apr 11, 2026\n\n       \n\n    \n      \n        Tags:\n        \n        \n          oss,\n        \n          security",
+    "Confidence": 0.9929819
+  },
+  {
+    "Title": "AGI is here - Part 2",
+    "Url": "https://breaking-changes.blog/agi-is-here-part-2/",
+    "Timestamp": "2026-04-11T23:02:51",
+    "Domain": "breaking-changes.blog",
+    "Description": "See the original article here. The argument was simple: measured against eight prominent definitions, AGI is already here. Which is precisely the problem - if everything qualifies in some way, the definitions aren't measuring anything, and the real question shifts from \"have we arrived?\" to \"what are we actually talking",
+    "Confidence": 0.96567756
+  },
+  {
+    "Title": "I Built Anthropic's Internal Sandbox Platform on a Single Linux…",
+    "Url": "https://jonno.nz/posts/i-built-anthropics-internal-sandbox-platform-on-a-single-linux-box/",
+    "Timestamp": "2026-04-11T23:02:47",
+    "Domain": "jonno.nz",
+    "Description": "Anthropic has an internal platform for running Claude Code in full-permission isolation. I built my own version with Firecracker MicroVMs, Go, and a $400…",
+    "Confidence": 0.99560255
+  },
+  {
+    "Title": "What I Stopped Thinking About When I Went Car-Free",
+    "Url": "https://maxmautner.com/2026/04/10/what-i-dont-spend-time-thinking-about.html",
+    "Timestamp": "2026-04-11T23:02:39",
+    "Domain": "maxmautner.com",
+    "Description": "Gas prices, parking, insurance, the check engine light — a suburban father’s inventory of the mental load that disappeared with the car.",
+    "Confidence": 0.82514787
+  },
+  {
+    "Title": "Now is the best time to write code by hand — SiteBloom",
+    "Url": "https://sitebloom.ch/writing/now-is-the-best-time-to-write-code-by-hand/",
+    "Timestamp": "2026-04-11T23:02:36",
+    "Domain": "sitebloom.ch",
+    "Description": "As more engineers use the irresistible LLMs their skills atrophy, practicing will make you special.",
+    "Confidence": 0.9664406
+  },
+  {
+    "Title": "How I Pick My Stack for Vibe Coding",
+    "Url": "https://tildehacker.com/how-i-pick-my-stack-for-vibe-coding",
+    "Timestamp": "2026-04-11T23:02:32",
+    "Domain": "tildehacker.com",
+    "Description": "An opinionated breakdown of how I choose programming languages, web frameworks, and UI stacks for every new greenfield project since I went all-in on vibe coding.",
+    "Confidence": 0.9938948
+  },
+  {
+    "Title": "In Defense of Rediscovery – Wilsons Blog",
+    "Url": "https://wilsoniumite.com/2026/04/11/in-defense-of-rediscovery/",
+    "Timestamp": "2026-04-11T23:02:29",
+    "Domain": "wilsoniumite.com",
+    "Description": "When I posted my first ever blogpost, a commentator wrote:",
+    "Confidence": 0.978558
+  },
+  {
     "Title": "AI Cybersecurity After Mythos: The Jagged Frontier",
     "Url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
     "Timestamp": "2026-04-11T19:02:10",
@@ -190,13 +302,5 @@
     "Domain": "emilkowal.ski",
     "Description": "Settling for good enough is not good enough.",
     "Confidence": 0.99069476
-  },
-  {
-    "Title": "GitHub - Keychron/Keychron-Keyboards-Hardware-Design: Industrial design files for Keychron keyboards and mice. 100+ models with CAD assets in STEP, DXF, DWG, and PDF. Source-available, with commercial use allowed for original compatible accessories within the license terms.",
-    "Url": "https://github.com/Keychron/Keychron-Keyboards-Hardware-Design",
-    "Timestamp": "2026-04-10T23:02:04",
-    "Domain": "github.com",
-    "Description": "Industrial design files for Keychron keyboards and mice. 100+ models with CAD assets in STEP, DXF, DWG, and PDF. Source-available, with commercial use allowed for original compatible accessories wi...",
-    "Confidence": 0.97272223
   }
 ]

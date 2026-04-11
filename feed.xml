@@ -7,6 +7,143 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>We Only Learn from Error</title>
+      <link>https://nathanclonts.com/we-only-learn-from-error/</link>
+      <description>Behavioral cloning needs an oracle with challenging scenarios.</description>
+      <category>nodejs</category>
+      <category>ai</category>
+      <guid>https://nathanclonts.com/we-only-learn-from-error/</guid>
+      <pubDate>Sat, 11 Apr 2026 23:03:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Write less code, be more responsible - Orhun's Blog</title>
+      <link>https://blog.orhun.dev/code-responsibly/</link>
+      <description>My thoughts on AI-assisted programming.</description>
+      <category>ai</category>
+      <guid>https://blog.orhun.dev/code-responsibly/</guid>
+      <pubDate>Sat, 11 Apr 2026 23:03:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Code doesn't trust Claude with permissions</title>
+      <link>https://blog.raed.dev/posts/claude_code_permissions/</link>
+      <description>How Claude Code enforces permissions with deterministic code, not model inference. The one LLM-based path is internal-only, fail-closed, and stripped from the public package.</description>
+      <category>ai</category>
+      <category>vscode</category>
+      <category>git</category>
+      <guid>https://blog.raed.dev/posts/claude_code_permissions/</guid>
+      <pubDate>Sat, 11 Apr 2026 23:03:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Center Has a Bias</title>
+      <link>https://lucumr.pocoo.org/2026/4/11/the-center-has-a-bias/</link>
+      <description>Why a measured position on AI tends to lean towards actually trying it.</description>
+      <author> (Armin Ronacher)</author>
+      <category>ai</category>
+      <guid>https://lucumr.pocoo.org/2026/4/11/the-center-has-a-bias/</guid>
+      <pubDate>Sat, 11 Apr 2026 23:03:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Configuration flags are where software goes to rot</title>
+      <link>https://00f.net/2026/04/11/config-flags/</link>
+      <description>People love configurable software.</description>
+      <author> (Frank Denis (Jedi/Sector One))</author>
+      <guid>https://00f.net/2026/04/11/config-flags/</guid>
+      <pubDate>Sat, 11 Apr 2026 23:03:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why GEO Is Not Enough</title>
+      <link>https://toffee.at/blog/why-geo-is-not-enough</link>
+      <description>Most companies think GEO solves agentic commerce. It doesn't. Here's what the full stack actually looks like.</description>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://toffee.at/blog/why-geo-is-not-enough</guid>
+      <pubDate>Sat, 11 Apr 2026 23:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>If not LLMs, what should I work on?</title>
+      <link>https://kindxiaoming.github.io/blog/2026/everything-is-language/</link>
+      <description>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.</description>
+      <category>ai</category>
+      <guid>https://kindxiaoming.github.io/blog/2026/everything-is-language/</guid>
+      <pubDate>Sat, 11 Apr 2026 23:02:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Brocards for vulnerability triage</title>
+      <link>https://blog.yossarian.net/2026/04/11/Brocards-for-vulnerability-triage</link>
+      <description>Apr 11, 2026
+
+       
+
+    
+      
+        Tags:
+        
+        
+          oss,
+        
+          security</description>
+      <category>python</category>
+      <guid>https://blog.yossarian.net/2026/04/11/Brocards-for-vulnerability-triage</guid>
+      <pubDate>Sat, 11 Apr 2026 23:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>AGI is here - Part 2</title>
+      <link>https://breaking-changes.blog/agi-is-here-part-2/</link>
+      <description>See the original article here. The argument was simple: measured against eight prominent definitions, AGI is already here. Which is precisely the problem - if everything qualifies in some way, the definitions aren't measuring anything, and the real question shifts from "have we arrived?" to "what are we actually talking</description>
+      <category>ai</category>
+      <guid>https://breaking-changes.blog/agi-is-here-part-2/</guid>
+      <pubDate>Sat, 11 Apr 2026 23:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>I Built Anthropic's Internal Sandbox Platform on a Single Linux…</title>
+      <link>https://jonno.nz/posts/i-built-anthropics-internal-sandbox-platform-on-a-single-linux-box/</link>
+      <description>Anthropic has an internal platform for running Claude Code in full-permission isolation. I built my own version with Firecracker MicroVMs, Go, and a $400…</description>
+      <author> (John Gregoriadis)</author>
+      <category>containers</category>
+      <category>cloud</category>
+      <category>linux</category>
+      <category>typescript</category>
+      <category>javascript</category>
+      <guid>https://jonno.nz/posts/i-built-anthropics-internal-sandbox-platform-on-a-single-linux-box/</guid>
+      <pubDate>Sat, 11 Apr 2026 23:02:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>What I Stopped Thinking About When I Went Car-Free</title>
+      <link>https://maxmautner.com/2026/04/10/what-i-dont-spend-time-thinking-about.html</link>
+      <description>Gas prices, parking, insurance, the check engine light — a suburban father’s inventory of the mental load that disappeared with the car.</description>
+      <category>cloud</category>
+      <category>web</category>
+      <guid>https://maxmautner.com/2026/04/10/what-i-dont-spend-time-thinking-about.html</guid>
+      <pubDate>Sat, 11 Apr 2026 23:02:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Now is the best time to write code by hand — SiteBloom</title>
+      <link>https://sitebloom.ch/writing/now-is-the-best-time-to-write-code-by-hand/</link>
+      <description>As more engineers use the irresistible LLMs their skills atrophy, practicing will make you special.</description>
+      <category>ai</category>
+      <guid>https://sitebloom.ch/writing/now-is-the-best-time-to-write-code-by-hand/</guid>
+      <pubDate>Sat, 11 Apr 2026 23:02:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I Pick My Stack for Vibe Coding</title>
+      <link>https://tildehacker.com/how-i-pick-my-stack-for-vibe-coding</link>
+      <description>An opinionated breakdown of how I choose programming languages, web frameworks, and UI stacks for every new greenfield project since I went all-in on vibe coding.</description>
+      <category>rust</category>
+      <category>cloud</category>
+      <category>typescript</category>
+      <category>aspnet</category>
+      <category>android</category>
+      <guid>https://tildehacker.com/how-i-pick-my-stack-for-vibe-coding</guid>
+      <pubDate>Sat, 11 Apr 2026 23:02:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>In Defense of Rediscovery – Wilsons Blog</title>
+      <link>https://wilsoniumite.com/2026/04/11/in-defense-of-rediscovery/</link>
+      <description>When I posted my first ever blogpost, a commentator wrote:</description>
+      <guid>https://wilsoniumite.com/2026/04/11/in-defense-of-rediscovery/</guid>
+      <pubDate>Sat, 11 Apr 2026 23:02:29 GMT</pubDate>
+    </item>
+    <item>
       <title>AI Cybersecurity After Mythos: The Jagged Frontier</title>
       <link>https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier</link>
       <description>Why the moat is the system, not the model</description>
@@ -239,13 +376,6 @@ conceal his strategy in a maze of future possibility.</description>
       <category>ai</category>
       <guid>https://emilkowal.ski/ui/train-your-judgement</guid>
       <pubDate>Sat, 11 Apr 2026 00:02:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - Keychron/Keychron-Keyboards-Hardware-Design: Industrial design files for Keychron keyboards and mice. 100+ models with CAD assets in STEP, DXF, DWG, and PDF. Source-available, with commercial use allowed for original compatible accessories within the license terms.</title>
-      <link>https://github.com/Keychron/Keychron-Keyboards-Hardware-Design</link>
-      <description>Industrial design files for Keychron keyboards and mice. 100+ models with CAD assets in STEP, DXF, DWG, and PDF. Source-available, with commercial use allowed for original compatible accessories wi...</description>
-      <guid>https://github.com/Keychron/Keychron-Keyboards-Hardware-Design</guid>
-      <pubDate>Fri, 10 Apr 2026 23:02:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
