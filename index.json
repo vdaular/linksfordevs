@@ -206,13 +206,5 @@
     "Domain": "xkcd.com",
     "Description": "",
     "Confidence": 0.98151064
-  },
-  {
-    "Title": "[ANNOUNCE] WireGuardNT v0.11 and WireGuard for Windows v0.6 Released",
-    "Url": "https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html",
-    "Timestamp": "2026-04-10T20:02:07",
-    "Domain": "lists.zx2c4.com",
-    "Description": null,
-    "Confidence": 0.9884277
   }
 ]

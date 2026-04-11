@@ -255,15 +255,5 @@ conceal his strategy in a maze of future possibility.</description>
       <guid>https://xkcd.com/3231/</guid>
       <pubDate>Fri, 10 Apr 2026 21:02:01 GMT</pubDate>
     </item>
-    <item>
-      <title>[ANNOUNCE] WireGuardNT v0.11 and WireGuard for Windows v0.6 Released</title>
-      <link>https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html</link>
-      <description />
-      <category>git</category>
-      <category>linux</category>
-      <category>web</category>
-      <guid>https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html</guid>
-      <pubDate>Fri, 10 Apr 2026 20:02:07 GMT</pubDate>
-    </item>
   </channel>
 </rss>
