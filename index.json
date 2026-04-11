@@ -222,13 +222,5 @@
     "Domain": "shatteredsilicon.net",
     "Description": "Our story begins as most database issues start: with hands on foreheads, internally or externally, saying ‘WTF is going on?’. We observed a series of database freezes on our production environment. It was quite severe. Connections spiked, writes were stalled and at some point, a large database freeze and they cleared. Being a Galera environment, […]",
     "Confidence": 0.9752225
-  },
-  {
-    "Title": "FBI used iPhone notification data to retrieve deleted Signal messages - 9to5Mac",
-    "Url": "https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/",
-    "Timestamp": "2026-04-10T15:02:15",
-    "Domain": "9to5mac.com",
-    "Description": "The FBI was able to recover deleted Signal messages from an iPhone by extracting data stored in the device’s notification database.",
-    "Confidence": 0.825703
   }
 ]

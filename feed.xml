@@ -275,14 +275,5 @@ conceal his strategy in a maze of future possibility.</description>
       <guid>https://shatteredsilicon.net/the-aws-lambda-kiss-of-death/</guid>
       <pubDate>Fri, 10 Apr 2026 18:02:15 GMT</pubDate>
     </item>
-    <item>
-      <title>FBI used iPhone notification data to retrieve deleted Signal messages - 9to5Mac</title>
-      <link>https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/</link>
-      <description>The FBI was able to recover deleted Signal messages from an iPhone by extracting data stored in the device’s notification database.</description>
-      <category>apple</category>
-      <category>sql</category>
-      <guid>https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/</guid>
-      <pubDate>Fri, 10 Apr 2026 15:02:15 GMT</pubDate>
-    </item>
   </channel>
 </rss>
