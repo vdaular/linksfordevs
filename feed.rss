@@ -284,14 +284,5 @@ conceal his strategy in a maze of future possibility.</description>
       <guid>https://9to5mac.com/2026/04/09/fbi-used-iphone-notification-data-to-retrieve-deleted-signal-messages/</guid>
       <pubDate>Fri, 10 Apr 2026 15:02:15 GMT</pubDate>
     </item>
-    <item>
-      <title>Microsoft suspends dev accounts for high-profile open source projects</title>
-      <link>https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/</link>
-      <description>Microsoft has suspended developer accounts used to maintain multiple high-profile open-source projects without proper notification and no way to quickly reinstate them, effectively blocking them from publishing new software builds and security patches for Windows users.</description>
-      <category>encryption</category>
-      <category>linux</category>
-      <guid>https://www.bleepingcomputer.com/news/microsoft/microsoft-suspends-dev-accounts-for-high-profile-open-source-projects/</guid>
-      <pubDate>Fri, 10 Apr 2026 14:02:02 GMT</pubDate>
-    </item>
   </channel>
 </rss>
