@@ -254,13 +254,5 @@
     "Domain": "david.coffee",
     "Description": "Why I believe the Model Context Protocol (MCP) is a better architectural pattern than the emerging “Skills” trend for LLM tool integration.",
     "Confidence": 0.9939401
-  },
-  {
-    "Title": "numerique.gouv.fr",
-    "Url": "https://www.numerique.gouv.fr/sinformer/espace-presse/souverainete-numerique-reduction-dependances-extra-europeennes/",
-    "Timestamp": "2026-04-10T12:03:22",
-    "Domain": "www.numerique.gouv.fr",
-    "Description": "À l’initiative du Premier ministre, du ministre de l'Action et des Comptes publics, et de la ministre déléguée chargée de l’Intelligence artificielle et du Numérique, la direction interministérielle du numérique (DINUM) a organisé mercredi 8 avril 2026 avec la direction générale des entreprises (DGE), l'agence nationale de la sécurité des systèmes d'information (ANSSI) et la direction des achats de l'État (DAE) un séminaire interministériel visant à renforcer la dynamique collective de réduction des dépendances numériques extra-européennes. Réunissant ministres, administrations, opérateurs publics et acteurs privés, cet événement marque une accélération de la stratégie française et européenne en faveur de la souveraineté numérique.",
-    "Confidence": 0.92714494
   }
 ]
