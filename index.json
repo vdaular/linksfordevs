@@ -222,13 +222,5 @@
     "Domain": "eclecticlight.co",
     "Description": "How to gain access to the contents of privacy-protected folders even though Privacy & Security settings say that access is denied.",
     "Confidence": 0.95822763
-  },
-  {
-    "Title": "The AWS Lambda 'Kiss of Death' - Shattered Silicon",
-    "Url": "https://shatteredsilicon.net/the-aws-lambda-kiss-of-death/",
-    "Timestamp": "2026-04-10T18:02:15",
-    "Domain": "shatteredsilicon.net",
-    "Description": "Our story begins as most database issues start: with hands on foreheads, internally or externally, saying ‘WTF is going on?’. We observed a series of database freezes on our production environment. It was quite severe. Connections spiked, writes were stalled and at some point, a large database freeze and they cleared. Being a Galera environment, […]",
-    "Confidence": 0.9752225
   }
 ]
