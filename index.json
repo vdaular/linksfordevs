@@ -1,5 +1,13 @@
 [
   {
+    "Title": "AI Cybersecurity After Mythos: The Jagged Frontier",
+    "Url": "https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier",
+    "Timestamp": "2026-04-11T19:02:10",
+    "Domain": "aisle.com",
+    "Description": "Why the moat is the system, not the model",
+    "Confidence": 0.9734334
+  },
+  {
     "Title": "France's government is ditching Windows for Linux, calling US tech dependence a strategic risk",
     "Url": "https://www.xda-developers.com/frances-government-ditching-windows-for-linux/",
     "Timestamp": "2026-04-11T17:02:23",
@@ -206,21 +214,5 @@
     "Domain": "lists.zx2c4.com",
     "Description": null,
     "Confidence": 0.9884277
-  },
-  {
-    "Title": "1D-Chess",
-    "Url": "https://rowan441.github.io/1dchess/chess.html",
-    "Timestamp": "2026-04-10T19:02:13",
-    "Domain": "rowan441.github.io",
-    "Description": "1d-chess is a new variant where you can play the beautiful game without all those unneccessary and complicated extra dimensions.\n\t\t\tPlay as white against the AI. You might initally find it more difficult than expected, but assming optimal play, is there a forced win for white?",
-    "Confidence": 0.81738216
-  },
-  {
-    "Title": "Why you can’t trust Privacy & Security",
-    "Url": "https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/",
-    "Timestamp": "2026-04-10T19:02:09",
-    "Domain": "eclecticlight.co",
-    "Description": "How to gain access to the contents of privacy-protected folders even though Privacy & Security settings say that access is denied.",
-    "Confidence": 0.95822763
   }
 ]

@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>AI Cybersecurity After Mythos: The Jagged Frontier</title>
+      <link>https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier</link>
+      <description>Why the moat is the system, not the model</description>
+      <category>ai</category>
+      <category>sql</category>
+      <category>vscode</category>
+      <category>encryption</category>
+      <guid>https://aisle.com/blog/ai-cybersecurity-after-mythos-the-jagged-frontier</guid>
+      <pubDate>Sat, 11 Apr 2026 19:02:10 GMT</pubDate>
+    </item>
+    <item>
       <title>France's government is ditching Windows for Linux, calling US tech dependence a strategic risk</title>
       <link>https://www.xda-developers.com/frances-government-ditching-windows-for-linux/</link>
       <description>The ministries have until the fall to find a solution.</description>
@@ -253,26 +264,6 @@ conceal his strategy in a maze of future possibility.</description>
       <category>web</category>
       <guid>https://lists.zx2c4.com/pipermail/wireguard/2026-April/009561.html</guid>
       <pubDate>Fri, 10 Apr 2026 20:02:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>1D-Chess</title>
-      <link>https://rowan441.github.io/1dchess/chess.html</link>
-      <description>1d-chess is a new variant where you can play the beautiful game without all those unneccessary and complicated extra dimensions.
-			Play as white against the AI. You might initally find it more difficult than expected, but assming optimal play, is there a forced win for white?</description>
-      <category>gaming</category>
-      <category>ai</category>
-      <category>web</category>
-      <guid>https://rowan441.github.io/1dchess/chess.html</guid>
-      <pubDate>Fri, 10 Apr 2026 19:02:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why you can’t trust Privacy &amp; Security</title>
-      <link>https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/</link>
-      <description>How to gain access to the contents of privacy-protected folders even though Privacy &amp; Security settings say that access is denied.</description>
-      <category>apple</category>
-      <category>git</category>
-      <guid>https://eclecticlight.co/2026/04/10/why-you-cant-trust-privacy-security/</guid>
-      <pubDate>Fri, 10 Apr 2026 19:02:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
