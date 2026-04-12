@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Center for Responsible, Decentralized Intelligence at Berkeley</title>
+      <link>https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/</link>
+      <description></description>
+      <category>javascript</category>
+      <category>python</category>
+      <category>ai</category>
+      <category>gaming</category>
+      <category>linux</category>
+      <guid>https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/</guid>
+      <pubDate>Sun, 12 Apr 2026 03:06:37 GMT</pubDate>
+    </item>
+    <item>
       <title>We Only Learn from Error</title>
       <link>https://nathanclonts.com/we-only-learn-from-error/</link>
       <description>Behavioral cloning needs an oracle with challenging scenarios.</description>
