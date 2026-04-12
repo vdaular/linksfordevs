@@ -1,5 +1,19 @@
 [
   {
+    "Title": "20 Years on AWS and Never Not My Job",
+    "Url": "https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html",
+    "Timestamp": "2026-04-12T07:02:06",
+    "Domain": "www.daemonology.net",
+    "Description": "I created my first AWS account at 10:31 PM on April 10th, 2006.  I had\nseen the announcement of Amazon S3 and had been thinking vaguely about\nthe problem of secure backups — even though I didn't start\nTarsnap until several months\nlater — and the idea of an online storage service appealed to me.\nThe fact that it was a web service made it even more appealing; I had\nbeen building web services since 1998, when I decided that coordinating\na world-record-setting\ncomputation of Pi over HTTP would be easier than doing it over\nemail."
+  },
+  {
+    "Title": "The Future of Everything is Lies, I Guess: Annoyances",
+    "Url": "https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances",
+    "Timestamp": "2026-04-12T07:02:03",
+    "Domain": "aphyr.com",
+    "Description": "This is a long article, so I'm breaking it up into a series of posts which will be released over the next few days. You can also read the full work as a PDF or EPUB; these files will be updated as each section is released."
+  },
+  {
     "Title": "Center for Responsible, Decentralized Intelligence at Berkeley",
     "Url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
     "Timestamp": "2026-04-12T03:06:37",
