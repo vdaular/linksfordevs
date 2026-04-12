@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Your RAM Has a 60 Year Old Design Flaw. I Bypassed It.",
+    "Url": "https://youtube.com/watch?v=KKbgulTp3FE",
+    "Timestamp": "2026-04-12T09:02:06",
+    "Domain": "youtube.com",
+    "Description": "Modern DRAM is based on a brilliant design from IBM.\n\nBut, we're still paying for a latency penalty that's existed since the 60s!\n\nIn this video, I'm introducing my personal research project (Tailslayer) that immensely reduces p99.99 latency on traditional RAM!\n\nBy implementing a hedged read strategy taking advantage of (undocumented!) channel scrambling offsets, I've gotten as much as 15x reductions in tail latency.\n\nThe technique works across Intel, AMD, Graviton, DDR4, DDR5, x86, ARM, you name it.\n\nCheck out the C++ lib I wrote, watch the video, and try it yourself!\n\n---\n\nTimestamps:\n\n00:00 Your RAM goes Blind\n01:58 A 400ns tRFC Lockout\n04:42 Can we predict it?\n08:02 Hedged Reads\n15:41 The ROB Trap\n19:20 Multicore Threading FTW!\n23:19 Memory Controllers Hate You\n27:09 A Dark Reason (Rowhammer)\n30:07 Reverse Engineering Channel Scrambling\n33:44 Where is my Data? (Physically)\n38:46 Does it actually work?\n45:20 ARM Graviton...the Black Box\n48:06 High Frequency Trading\n\n---\n\nMy project / code (Tailslayer) on GitHub:\nhttps://github.com/LaurieWired/tailslayer\n\n---\n\nCheck out my X account for cool Computer Science stuff!\nhttps://x.com/lauriewired",
+    "Confidence": 0.97622025
+  },
+  {
     "Title": "20 Years on AWS and Never Not My Job",
     "Url": "https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html",
     "Timestamp": "2026-04-12T07:02:06",
