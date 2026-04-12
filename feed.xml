@@ -176,27 +176,5 @@
       <guid>https://www.xda-developers.com/frances-government-ditching-windows-for-linux/</guid>
       <pubDate>Sat, 11 Apr 2026 17:02:23 GMT</pubDate>
     </item>
-    <item>
-      <title>Installing every* Firefox extension</title>
-      <link>https://jack.cab/blog/every-firefox-extension</link>
-      <description>Oh, you use Firefox? Name every extension.</description>
-      <category>nodejs</category>
-      <category>apple</category>
-      <category>javascript</category>
-      <category>ai</category>
-      <category>youtube</category>
-      <guid>https://jack.cab/blog/every-firefox-extension</guid>
-      <pubDate>Sat, 11 Apr 2026 06:02:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>linux/Documentation/process/coding-assistants.rst at master · torvalds/linux</title>
-      <link>https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst</link>
-      <description>Linux kernel source tree. Contribute to torvalds/linux development by creating an account on GitHub.</description>
-      <category>linux</category>
-      <category>ai</category>
-      <category>git</category>
-      <guid>https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst</guid>
-      <pubDate>Sat, 11 Apr 2026 06:02:18 GMT</pubDate>
-    </item>
   </channel>
 </rss>

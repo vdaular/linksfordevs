@@ -134,21 +134,5 @@
     "Domain": "www.xda-developers.com",
     "Description": "The ministries have until the fall to find a solution.",
     "Confidence": 0.71155035
-  },
-  {
-    "Title": "Installing every* Firefox extension",
-    "Url": "https://jack.cab/blog/every-firefox-extension",
-    "Timestamp": "2026-04-11T06:02:29",
-    "Domain": "jack.cab",
-    "Description": "Oh, you use Firefox? Name every extension.",
-    "Confidence": 0.9941341
-  },
-  {
-    "Title": "linux/Documentation/process/coding-assistants.rst at master · torvalds/linux",
-    "Url": "https://github.com/torvalds/linux/blob/master/Documentation/process/coding-assistants.rst",
-    "Timestamp": "2026-04-11T06:02:18",
-    "Domain": "github.com",
-    "Description": "Linux kernel source tree. Contribute to torvalds/linux development by creating an account on GitHub.",
-    "Confidence": 0.98991257
   }
 ]
