@@ -158,13 +158,5 @@
     "Domain": "aisle.com",
     "Description": "Why the moat is the system, not the model",
     "Confidence": 0.9734334
-  },
-  {
-    "Title": "France's government is ditching Windows for Linux, calling US tech dependence a strategic risk",
-    "Url": "https://www.xda-developers.com/frances-government-ditching-windows-for-linux/",
-    "Timestamp": "2026-04-11T17:02:23",
-    "Domain": "www.xda-developers.com",
-    "Description": "The ministries have until the fall to find a solution.",
-    "Confidence": 0.71155035
   }
 ]
