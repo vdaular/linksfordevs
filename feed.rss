@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Apple update turns Czech mate for locked-out iPhone user</title>
+      <link>https://www.theregister.com/2026/04/12/ios_passcode_bug/</link>
+      <description>: Lock-screen keyboard no longer accepts háček in student's alphanumeric passcode</description>
+      <category>apple</category>
+      <category>android</category>
+      <category>git</category>
+      <guid>https://www.theregister.com/2026/04/12/ios_passcode_bug/</guid>
+      <pubDate>Sun, 12 Apr 2026 14:02:12 GMT</pubDate>
+    </item>
+    <item>
       <title>Your RAM Has a 60 Year Old Design Flaw. I Bypassed It.</title>
       <link>https://youtube.com/watch?v=KKbgulTp3FE</link>
       <description>Modern DRAM is based on a brilliant design from IBM.
