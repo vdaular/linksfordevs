@@ -142,13 +142,5 @@
     "Domain": "github.com",
     "Description": "Linux kernel source tree. Contribute to torvalds/linux development by creating an account on GitHub.",
     "Confidence": 0.98991257
-  },
-  {
-    "Title": "Your friends are hiding their best ideas from you",
-    "Url": "https://idiallo.com/blog/your-friends-are-hiding-their-ideas?src=feed",
-    "Timestamp": "2026-04-11T02:02:06",
-    "Domain": "idiallo.com",
-    "Description": "Back in college, the final project in our JavaScript class was to build a website. We were a group of four, and we built the best website in class. It was for a restaurant called the Coral Reef. We fo",
-    "Confidence": 0.89645624
   }
 ]
