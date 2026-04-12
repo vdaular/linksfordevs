@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Your AWS Certificate Makes You an AWS Salesman</title>
+      <link>https://idiallo.com/byte-size/we-are-aws-salesmen?src=feed</link>
+      <description>AWS certification masquerades as an engineering skill. Instead, it's a sales tool to encroach your employer in a moat. AWS complexity is to sell you on more.</description>
+      <category>cloud</category>
+      <guid>https://idiallo.com/byte-size/we-are-aws-salesmen?src=feed</guid>
+      <pubDate>Sun, 12 Apr 2026 18:02:09 GMT</pubDate>
+    </item>
+    <item>
       <title>Apple update turns Czech mate for locked-out iPhone user</title>
       <link>https://www.theregister.com/2026/04/12/ios_passcode_bug/</link>
       <description>: Lock-screen keyboard no longer accepts háček in student's alphanumeric passcode</description>
