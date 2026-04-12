@@ -1,5 +1,110 @@
 [
   {
+    "Title": "My adventure in designing API keys",
+    "Url": "https://vjay15.github.io/blog/apikeys/",
+    "Timestamp": "2026-04-12T23:03:16",
+    "Domain": "vjay15.github.io",
+    "Description": "Vjaylakshman K • April 12, 2026"
+  },
+  {
+    "Title": "The Three Enterprise Layers Are Collapsing Into One | Walsenburg Tech",
+    "Url": "https://walsenburgtech.com/blog/hub-and-spoke-architecture-production-ai",
+    "Timestamp": "2026-04-12T23:03:12",
+    "Domain": "walsenburgtech.com",
+    "Description": "For twenty years, enterprise software separated CRM, orchestration, and back-office into three layers with three vendor contracts. A confidence-gated decisioning layer is collapsing all three — and the vendors know it."
+  },
+  {
+    "Title": "A shared state system for plugins",
+    "Url": "https://ahoyiski.neocities.org/posts/shared-state/",
+    "Timestamp": "2026-04-12T23:03:08",
+    "Domain": "ahoyiski.neocities.org",
+    "Description": "When it comes to extending user applications via plugins, the quality of an API can make or break the process. If the API is too obtuse to use, it may alienate people and can curb the popularity of your project."
+  },
+  {
+    "Title": "The Exception Butterfly",
+    "Url": "https://valhovey.github.io/blog/the-exception-butterfly",
+    "Timestamp": "2026-04-12T23:03:05",
+    "Domain": "valhovey.github.io",
+    "Description": "An overview of gracefully composing Maybe/Either/Transformers within Haskell."
+  },
+  {
+    "Title": "I ran Gemma 4 as a local model in Codex CLI",
+    "Url": "https://blog.danielvaughan.com/i-ran-gemma-4-as-a-local-model-in-codex-cli-7fda754dc0d4",
+    "Timestamp": "2026-04-12T23:02:55",
+    "Domain": "blog.danielvaughan.com",
+    "Description": "I wanted to know whether Gemma 4 could replace a cloud model for my day-to-day agentic coding. Not in theory, in practice. I use Codex CLI…"
+  },
+  {
+    "Title": "Chess - an analogy for conversation",
+    "Url": "https://talk.bradwoods.io/blog/chess",
+    "Timestamp": "2026-04-12T23:02:47",
+    "Domain": "talk.bradwoods.io",
+    "Description": "Visualizing conversation as a game of chess could make it more tangible."
+  },
+  {
+    "Title": "The Closing of the Frontier — Tanya Verma",
+    "Url": "https://tanyaverma.sh/2026/04/10/closing-of-the-frontier.html",
+    "Timestamp": "2026-04-12T23:02:44",
+    "Domain": "tanyaverma.sh",
+    "Description": "The Anthropic Mythos announcement is the first time in my life I’ve felt truly poor. Maybe because I grew up on the internet and it was the one permissionless place where you could have leverage and a shot at uncapped exploration and ambition. That is now changing with the gap between models that are publicly available vs those reserved for the already wealthy and pre-established."
+  },
+  {
+    "Title": "a perfectable programming language — Soter",
+    "Url": "https://alok.github.io/lean-pages/perfectable-lean/",
+    "Timestamp": "2026-04-12T23:02:40",
+    "Domain": "alok.github.io",
+    "Description": "at a party, Sydney Von Arx asked if i could name 40 programming languages.\nyeah, that's the bay for you.\nracket, agda, clean, elm, typescript, sh, ASP, verilog, javascript, scheme,\nrust, nim, intercal, sed, isabelle, visual basic, zsh, alokscript, coq, idris,\nhack, prolog, whitespace, purescript, go, odin, haskell, python, tcsh, unison,\nclingo, bash, java, zig, cyclone, php, awk, c, actionscript, c++."
+  },
+  {
+    "Title": "More Vetoes, Less Vision | Scribe by Hemanth",
+    "Url": "https://h3manth.com/scribe/more-vetoes-less-vision/",
+    "Timestamp": "2026-04-12T23:02:37",
+    "Domain": "h3manth.com",
+    "Description": "Why software coherence degrades with the number of decision-makers - a pattern across startups, FOSS, and enterprise, grounded in real data."
+  },
+  {
+    "Title": "Being a Junior Scientist in the current administration",
+    "Url": "https://mirawelner.com/posts/junior.html",
+    "Timestamp": "2026-04-12T23:02:32",
+    "Domain": "mirawelner.com",
+    "Description": "My thoughts on Hermit Tech after 15 hours of pair programming with Nikhil Suresh."
+  },
+  {
+    "Title": "I want a better action graph serialization",
+    "Url": "https://jyn.dev/i-want-a-better-action-graph-serialization/",
+    "Timestamp": "2026-04-12T23:02:28",
+    "Domain": "jyn.dev",
+    "Description": "Makefiles and Ninja files have limitations, separate from the implementing tool. How can we fix them?"
+  },
+  {
+    "Title": "How Claude Changes My Code",
+    "Url": "https://alexcbecker.net/blog/how-claude-changes-coding.html",
+    "Timestamp": "2026-04-12T23:02:24",
+    "Domain": "alexcbecker.net",
+    "Description": "Claude writes all my code now, but the bigger shift is in *what* code I produce."
+  },
+  {
+    "Title": "Paying Google to Hack macOS Users?",
+    "Url": "https://pgaleone.eu/security/2026/04/12/paying-google-to-hack-macos-users/",
+    "Timestamp": "2026-04-12T23:02:21",
+    "Domain": "pgaleone.eu",
+    "Description": "Installing software with curl | sh is a bad habit - unfortunately common nowadays. This is an attack vector exploited through malvertising. The article describes what happens when someone blindly installs a tool from a sponsored website."
+  },
+  {
+    "Title": "The Shelf Life of Intelligence",
+    "Url": "https://jigarkdoshi.bearblog.dev/the-shelf-life-of-intelligence/",
+    "Timestamp": "2026-04-12T23:02:17",
+    "Domain": "jigarkdoshi.bearblog.dev",
+    "Description": "Martin Casado, GP at a16z, put it plainly last week:\nIt's only a matter of time before only the model creators have access to the most powerful models. The ..."
+  },
+  {
+    "Title": "Plato and Software Engineering",
+    "Url": "https://aleksandar-b.github.io/blog/posts/plato-and-software-engineering",
+    "Timestamp": "2026-04-12T23:02:14",
+    "Domain": "aleksandar-b.github.io",
+    "Description": "A small translation note that reveals a much deeper distinction about change, state, and what our systems really are."
+  },
+  {
     "Title": "Mount Lebanon",
     "Url": "https://maps.apple.com/frame?center=33.723388,35.614698&span=1.983925,4.004193",
     "Timestamp": "2026-04-12T22:02:01",

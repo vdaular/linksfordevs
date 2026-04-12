@@ -7,6 +7,155 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>My adventure in designing API keys</title>
+      <link>https://vjay15.github.io/blog/apikeys/</link>
+      <description>Vjaylakshman K • April 12, 2026</description>
+      <category>sql</category>
+      <category>ai</category>
+      <category>nodejs</category>
+      <guid>https://vjay15.github.io/blog/apikeys/</guid>
+      <pubDate>Sun, 12 Apr 2026 23:03:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Three Enterprise Layers Are Collapsing Into One | Walsenburg Tech</title>
+      <link>https://walsenburgtech.com/blog/hub-and-spoke-architecture-production-ai</link>
+      <description>For twenty years, enterprise software separated CRM, orchestration, and back-office into three layers with three vendor contracts. A confidence-gated decisioning layer is collapsing all three — and the vendors know it.</description>
+      <category>ai</category>
+      <guid>https://walsenburgtech.com/blog/hub-and-spoke-architecture-production-ai</guid>
+      <pubDate>Sun, 12 Apr 2026 23:03:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>A shared state system for plugins</title>
+      <link>https://ahoyiski.neocities.org/posts/shared-state/</link>
+      <description>When it comes to extending user applications via plugins, the quality of an API can make or break the process. If the API is too obtuse to use, it may alienate people and can curb the popularity of your project.</description>
+      <category>rust</category>
+      <guid>https://ahoyiski.neocities.org/posts/shared-state/</guid>
+      <pubDate>Sun, 12 Apr 2026 23:03:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Exception Butterfly</title>
+      <link>https://valhovey.github.io/blog/the-exception-butterfly</link>
+      <description>An overview of gracefully composing Maybe/Either/Transformers within Haskell.</description>
+      <category>rust</category>
+      <category>git</category>
+      <category>python</category>
+      <category>vscode</category>
+      <category>javascript</category>
+      <guid>https://valhovey.github.io/blog/the-exception-butterfly</guid>
+      <pubDate>Sun, 12 Apr 2026 23:03:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>I ran Gemma 4 as a local model in Codex CLI</title>
+      <link>https://blog.danielvaughan.com/i-ran-gemma-4-as-a-local-model-in-codex-cli-7fda754dc0d4</link>
+      <description>I wanted to know whether Gemma 4 could replace a cloud model for my day-to-day agentic coding. Not in theory, in practice. I use Codex CLI…</description>
+      <author> (https://blog.danielvaughan.com)</author>
+      <category>apple</category>
+      <category>ai</category>
+      <category>python</category>
+      <category>javascript</category>
+      <guid>https://blog.danielvaughan.com/i-ran-gemma-4-as-a-local-model-in-codex-cli-7fda754dc0d4</guid>
+      <pubDate>Sun, 12 Apr 2026 23:02:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Chess - an analogy for conversation</title>
+      <link>https://talk.bradwoods.io/blog/chess</link>
+      <description>Visualizing conversation as a game of chess could make it more tangible.</description>
+      <category>gaming</category>
+      <guid>https://talk.bradwoods.io/blog/chess</guid>
+      <pubDate>Sun, 12 Apr 2026 23:02:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Closing of the Frontier — Tanya Verma</title>
+      <link>https://tanyaverma.sh/2026/04/10/closing-of-the-frontier.html</link>
+      <description>The Anthropic Mythos announcement is the first time in my life I’ve felt truly poor. Maybe because I grew up on the internet and it was the one permissionless place where you could have leverage and a shot at uncapped exploration and ambition. That is now changing with the gap between models that are publicly available vs those reserved for the already wealthy and pre-established.</description>
+      <category>ai</category>
+      <category>encryption</category>
+      <guid>https://tanyaverma.sh/2026/04/10/closing-of-the-frontier.html</guid>
+      <pubDate>Sun, 12 Apr 2026 23:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>a perfectable programming language — Soter</title>
+      <link>https://alok.github.io/lean-pages/perfectable-lean/</link>
+      <description>at a party, Sydney Von Arx asked if i could name 40 programming languages.
+yeah, that's the bay for you.
+racket, agda, clean, elm, typescript, sh, ASP, verilog, javascript, scheme,
+rust, nim, intercal, sed, isabelle, visual basic, zsh, alokscript, coq, idris,
+hack, prolog, whitespace, purescript, go, odin, haskell, python, tcsh, unison,
+clingo, bash, java, zig, cyclone, php, awk, c, actionscript, c++.</description>
+      <category>rust</category>
+      <category>typescript</category>
+      <category>python</category>
+      <category>aspnet</category>
+      <category>javascript</category>
+      <guid>https://alok.github.io/lean-pages/perfectable-lean/</guid>
+      <pubDate>Sun, 12 Apr 2026 23:02:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>More Vetoes, Less Vision | Scribe by Hemanth</title>
+      <link>https://h3manth.com/scribe/more-vetoes-less-vision/</link>
+      <description>Why software coherence degrades with the number of decision-makers - a pattern across startups, FOSS, and enterprise, grounded in real data.</description>
+      <category>sql</category>
+      <category>nodejs</category>
+      <category>cloud</category>
+      <category>javascript</category>
+      <category>ai</category>
+      <guid>https://h3manth.com/scribe/more-vetoes-less-vision/</guid>
+      <pubDate>Sun, 12 Apr 2026 23:02:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Being a Junior Scientist in the current administration</title>
+      <link>https://mirawelner.com/posts/junior.html</link>
+      <description>My thoughts on Hermit Tech after 15 hours of pair programming with Nikhil Suresh.</description>
+      <guid>https://mirawelner.com/posts/junior.html</guid>
+      <pubDate>Sun, 12 Apr 2026 23:02:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>I want a better action graph serialization</title>
+      <link>https://jyn.dev/i-want-a-better-action-graph-serialization/</link>
+      <description>Makefiles and Ninja files have limitations, separate from the implementing tool. How can we fix them?</description>
+      <category>python</category>
+      <category>containers</category>
+      <guid>https://jyn.dev/i-want-a-better-action-graph-serialization/</guid>
+      <pubDate>Sun, 12 Apr 2026 23:02:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>How Claude Changes My Code</title>
+      <link>https://alexcbecker.net/blog/how-claude-changes-coding.html</link>
+      <description>Claude writes all my code now, but the bigger shift is in *what* code I produce.</description>
+      <category>ai</category>
+      <guid>https://alexcbecker.net/blog/how-claude-changes-coding.html</guid>
+      <pubDate>Sun, 12 Apr 2026 23:02:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Paying Google to Hack macOS Users?</title>
+      <link>https://pgaleone.eu/security/2026/04/12/paying-google-to-hack-macos-users/</link>
+      <description>Installing software with curl | sh is a bad habit - unfortunately common nowadays. This is an attack vector exploited through malvertising. The article describes what happens when someone blindly installs a tool from a sponsored website.</description>
+      <category>linux</category>
+      <category>vscode</category>
+      <category>ai</category>
+      <guid>https://pgaleone.eu/security/2026/04/12/paying-google-to-hack-macos-users/</guid>
+      <pubDate>Sun, 12 Apr 2026 23:02:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Shelf Life of Intelligence</title>
+      <link>https://jigarkdoshi.bearblog.dev/the-shelf-life-of-intelligence/</link>
+      <description>Martin Casado, GP at a16z, put it plainly last week:
+It's only a matter of time before only the model creators have access to the most powerful models. The ...</description>
+      <category>ai</category>
+      <category>encryption</category>
+      <category>cloud</category>
+      <category>sql</category>
+      <guid>https://jigarkdoshi.bearblog.dev/the-shelf-life-of-intelligence/</guid>
+      <pubDate>Sun, 12 Apr 2026 23:02:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Plato and Software Engineering</title>
+      <link>https://aleksandar-b.github.io/blog/posts/plato-and-software-engineering</link>
+      <description>A small translation note that reveals a much deeper distinction about change, state, and what our systems really are.</description>
+      <guid>https://aleksandar-b.github.io/blog/posts/plato-and-software-engineering</guid>
+      <pubDate>Sun, 12 Apr 2026 23:02:14 GMT</pubDate>
+    </item>
+    <item>
       <title>Mount Lebanon</title>
       <link>https://maps.apple.com/frame?center=33.723388,35.614698&amp;span=1.983925,4.004193</link>
       <description>Find local businesses, get place recommendations, view maps and get driving directions on Apple Maps.</description>
@@ -119,143 +268,6 @@ email.</description>
       <category>linux</category>
       <guid>https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/</guid>
       <pubDate>Sun, 12 Apr 2026 03:06:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>We Only Learn from Error</title>
-      <link>https://nathanclonts.com/we-only-learn-from-error/</link>
-      <description>Behavioral cloning needs an oracle with challenging scenarios.</description>
-      <category>nodejs</category>
-      <category>ai</category>
-      <guid>https://nathanclonts.com/we-only-learn-from-error/</guid>
-      <pubDate>Sat, 11 Apr 2026 23:03:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Write less code, be more responsible - Orhun's Blog</title>
-      <link>https://blog.orhun.dev/code-responsibly/</link>
-      <description>My thoughts on AI-assisted programming.</description>
-      <category>ai</category>
-      <guid>https://blog.orhun.dev/code-responsibly/</guid>
-      <pubDate>Sat, 11 Apr 2026 23:03:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude Code doesn't trust Claude with permissions</title>
-      <link>https://blog.raed.dev/posts/claude_code_permissions/</link>
-      <description>How Claude Code enforces permissions with deterministic code, not model inference. The one LLM-based path is internal-only, fail-closed, and stripped from the public package.</description>
-      <category>ai</category>
-      <category>vscode</category>
-      <category>git</category>
-      <guid>https://blog.raed.dev/posts/claude_code_permissions/</guid>
-      <pubDate>Sat, 11 Apr 2026 23:03:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Center Has a Bias</title>
-      <link>https://lucumr.pocoo.org/2026/4/11/the-center-has-a-bias/</link>
-      <description>Why a measured position on AI tends to lean towards actually trying it.</description>
-      <author> (Armin Ronacher)</author>
-      <category>ai</category>
-      <guid>https://lucumr.pocoo.org/2026/4/11/the-center-has-a-bias/</guid>
-      <pubDate>Sat, 11 Apr 2026 23:03:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Configuration flags are where software goes to rot</title>
-      <link>https://00f.net/2026/04/11/config-flags/</link>
-      <description>People love configurable software.</description>
-      <author> (Frank Denis (Jedi/Sector One))</author>
-      <guid>https://00f.net/2026/04/11/config-flags/</guid>
-      <pubDate>Sat, 11 Apr 2026 23:03:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why GEO Is Not Enough</title>
-      <link>https://toffee.at/blog/why-geo-is-not-enough</link>
-      <description>Most companies think GEO solves agentic commerce. It doesn't. Here's what the full stack actually looks like.</description>
-      <category>ai</category>
-      <category>git</category>
-      <guid>https://toffee.at/blog/why-geo-is-not-enough</guid>
-      <pubDate>Sat, 11 Apr 2026 23:03:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>If not LLMs, what should I work on?</title>
-      <link>https://kindxiaoming.github.io/blog/2026/everything-is-language/</link>
-      <description>A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.</description>
-      <category>ai</category>
-      <guid>https://kindxiaoming.github.io/blog/2026/everything-is-language/</guid>
-      <pubDate>Sat, 11 Apr 2026 23:02:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Brocards for vulnerability triage</title>
-      <link>https://blog.yossarian.net/2026/04/11/Brocards-for-vulnerability-triage</link>
-      <description>Apr 11, 2026
-
-       
-
-    
-      
-        Tags:
-        
-        
-          oss,
-        
-          security</description>
-      <category>python</category>
-      <guid>https://blog.yossarian.net/2026/04/11/Brocards-for-vulnerability-triage</guid>
-      <pubDate>Sat, 11 Apr 2026 23:02:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>AGI is here - Part 2</title>
-      <link>https://breaking-changes.blog/agi-is-here-part-2/</link>
-      <description>See the original article here. The argument was simple: measured against eight prominent definitions, AGI is already here. Which is precisely the problem - if everything qualifies in some way, the definitions aren't measuring anything, and the real question shifts from "have we arrived?" to "what are we actually talking</description>
-      <category>ai</category>
-      <guid>https://breaking-changes.blog/agi-is-here-part-2/</guid>
-      <pubDate>Sat, 11 Apr 2026 23:02:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>I Built Anthropic's Internal Sandbox Platform on a Single Linux…</title>
-      <link>https://jonno.nz/posts/i-built-anthropics-internal-sandbox-platform-on-a-single-linux-box/</link>
-      <description>Anthropic has an internal platform for running Claude Code in full-permission isolation. I built my own version with Firecracker MicroVMs, Go, and a $400…</description>
-      <author> (John Gregoriadis)</author>
-      <category>containers</category>
-      <category>cloud</category>
-      <category>linux</category>
-      <category>typescript</category>
-      <category>javascript</category>
-      <guid>https://jonno.nz/posts/i-built-anthropics-internal-sandbox-platform-on-a-single-linux-box/</guid>
-      <pubDate>Sat, 11 Apr 2026 23:02:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>What I Stopped Thinking About When I Went Car-Free</title>
-      <link>https://maxmautner.com/2026/04/10/what-i-dont-spend-time-thinking-about.html</link>
-      <description>Gas prices, parking, insurance, the check engine light — a suburban father’s inventory of the mental load that disappeared with the car.</description>
-      <category>cloud</category>
-      <category>web</category>
-      <guid>https://maxmautner.com/2026/04/10/what-i-dont-spend-time-thinking-about.html</guid>
-      <pubDate>Sat, 11 Apr 2026 23:02:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Now is the best time to write code by hand — SiteBloom</title>
-      <link>https://sitebloom.ch/writing/now-is-the-best-time-to-write-code-by-hand/</link>
-      <description>As more engineers use the irresistible LLMs their skills atrophy, practicing will make you special.</description>
-      <category>ai</category>
-      <guid>https://sitebloom.ch/writing/now-is-the-best-time-to-write-code-by-hand/</guid>
-      <pubDate>Sat, 11 Apr 2026 23:02:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>How I Pick My Stack for Vibe Coding</title>
-      <link>https://tildehacker.com/how-i-pick-my-stack-for-vibe-coding</link>
-      <description>An opinionated breakdown of how I choose programming languages, web frameworks, and UI stacks for every new greenfield project since I went all-in on vibe coding.</description>
-      <category>rust</category>
-      <category>cloud</category>
-      <category>typescript</category>
-      <category>aspnet</category>
-      <category>android</category>
-      <guid>https://tildehacker.com/how-i-pick-my-stack-for-vibe-coding</guid>
-      <pubDate>Sat, 11 Apr 2026 23:02:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>In Defense of Rediscovery – Wilsons Blog</title>
-      <link>https://wilsoniumite.com/2026/04/11/in-defense-of-rediscovery/</link>
-      <description>When I posted my first ever blogpost, a commentator wrote:</description>
-      <guid>https://wilsoniumite.com/2026/04/11/in-defense-of-rediscovery/</guid>
-      <pubDate>Sat, 11 Apr 2026 23:02:29 GMT</pubDate>
     </item>
   </channel>
 </rss>

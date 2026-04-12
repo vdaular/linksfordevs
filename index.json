@@ -1,5 +1,125 @@
 [
   {
+    "Title": "My adventure in designing API keys",
+    "Url": "https://vjay15.github.io/blog/apikeys/",
+    "Timestamp": "2026-04-12T23:03:16",
+    "Domain": "vjay15.github.io",
+    "Description": "Vjaylakshman K • April 12, 2026",
+    "Confidence": 0.98227966
+  },
+  {
+    "Title": "The Three Enterprise Layers Are Collapsing Into One | Walsenburg Tech",
+    "Url": "https://walsenburgtech.com/blog/hub-and-spoke-architecture-production-ai",
+    "Timestamp": "2026-04-12T23:03:12",
+    "Domain": "walsenburgtech.com",
+    "Description": "For twenty years, enterprise software separated CRM, orchestration, and back-office into three layers with three vendor contracts. A confidence-gated decisioning layer is collapsing all three — and the vendors know it.",
+    "Confidence": 0.9856563
+  },
+  {
+    "Title": "A shared state system for plugins",
+    "Url": "https://ahoyiski.neocities.org/posts/shared-state/",
+    "Timestamp": "2026-04-12T23:03:08",
+    "Domain": "ahoyiski.neocities.org",
+    "Description": "When it comes to extending user applications via plugins, the quality of an API can make or break the process. If the API is too obtuse to use, it may alienate people and can curb the popularity of your project.",
+    "Confidence": 0.9968363
+  },
+  {
+    "Title": "The Exception Butterfly",
+    "Url": "https://valhovey.github.io/blog/the-exception-butterfly",
+    "Timestamp": "2026-04-12T23:03:05",
+    "Domain": "valhovey.github.io",
+    "Description": "An overview of gracefully composing Maybe/Either/Transformers within Haskell.",
+    "Confidence": 0.9980115
+  },
+  {
+    "Title": "I ran Gemma 4 as a local model in Codex CLI",
+    "Url": "https://blog.danielvaughan.com/i-ran-gemma-4-as-a-local-model-in-codex-cli-7fda754dc0d4",
+    "Timestamp": "2026-04-12T23:02:55",
+    "Domain": "blog.danielvaughan.com",
+    "Description": "I wanted to know whether Gemma 4 could replace a cloud model for my day-to-day agentic coding. Not in theory, in practice. I use Codex CLI…",
+    "Confidence": 0.98986137
+  },
+  {
+    "Title": "Chess - an analogy for conversation",
+    "Url": "https://talk.bradwoods.io/blog/chess",
+    "Timestamp": "2026-04-12T23:02:47",
+    "Domain": "talk.bradwoods.io",
+    "Description": "Visualizing conversation as a game of chess could make it more tangible.",
+    "Confidence": 0.9597696
+  },
+  {
+    "Title": "The Closing of the Frontier — Tanya Verma",
+    "Url": "https://tanyaverma.sh/2026/04/10/closing-of-the-frontier.html",
+    "Timestamp": "2026-04-12T23:02:44",
+    "Domain": "tanyaverma.sh",
+    "Description": "The Anthropic Mythos announcement is the first time in my life I’ve felt truly poor. Maybe because I grew up on the internet and it was the one permissionless place where you could have leverage and a shot at uncapped exploration and ambition. That is now changing with the gap between models that are publicly available vs those reserved for the already wealthy and pre-established.",
+    "Confidence": 0.8790619
+  },
+  {
+    "Title": "a perfectable programming language — Soter",
+    "Url": "https://alok.github.io/lean-pages/perfectable-lean/",
+    "Timestamp": "2026-04-12T23:02:40",
+    "Domain": "alok.github.io",
+    "Description": "at a party, Sydney Von Arx asked if i could name 40 programming languages.\nyeah, that's the bay for you.\nracket, agda, clean, elm, typescript, sh, ASP, verilog, javascript, scheme,\nrust, nim, intercal, sed, isabelle, visual basic, zsh, alokscript, coq, idris,\nhack, prolog, whitespace, purescript, go, odin, haskell, python, tcsh, unison,\nclingo, bash, java, zig, cyclone, php, awk, c, actionscript, c++.",
+    "Confidence": 0.99606997
+  },
+  {
+    "Title": "More Vetoes, Less Vision | Scribe by Hemanth",
+    "Url": "https://h3manth.com/scribe/more-vetoes-less-vision/",
+    "Timestamp": "2026-04-12T23:02:37",
+    "Domain": "h3manth.com",
+    "Description": "Why software coherence degrades with the number of decision-makers - a pattern across startups, FOSS, and enterprise, grounded in real data.",
+    "Confidence": 0.9800025
+  },
+  {
+    "Title": "Being a Junior Scientist in the current administration",
+    "Url": "https://mirawelner.com/posts/junior.html",
+    "Timestamp": "2026-04-12T23:02:32",
+    "Domain": "mirawelner.com",
+    "Description": "My thoughts on Hermit Tech after 15 hours of pair programming with Nikhil Suresh.",
+    "Confidence": 0.82976073
+  },
+  {
+    "Title": "I want a better action graph serialization",
+    "Url": "https://jyn.dev/i-want-a-better-action-graph-serialization/",
+    "Timestamp": "2026-04-12T23:02:28",
+    "Domain": "jyn.dev",
+    "Description": "Makefiles and Ninja files have limitations, separate from the implementing tool. How can we fix them?",
+    "Confidence": 0.99360627
+  },
+  {
+    "Title": "How Claude Changes My Code",
+    "Url": "https://alexcbecker.net/blog/how-claude-changes-coding.html",
+    "Timestamp": "2026-04-12T23:02:24",
+    "Domain": "alexcbecker.net",
+    "Description": "Claude writes all my code now, but the bigger shift is in *what* code I produce.",
+    "Confidence": 0.9838216
+  },
+  {
+    "Title": "Paying Google to Hack macOS Users?",
+    "Url": "https://pgaleone.eu/security/2026/04/12/paying-google-to-hack-macos-users/",
+    "Timestamp": "2026-04-12T23:02:21",
+    "Domain": "pgaleone.eu",
+    "Description": "Installing software with curl | sh is a bad habit - unfortunately common nowadays. This is an attack vector exploited through malvertising. The article describes what happens when someone blindly installs a tool from a sponsored website.",
+    "Confidence": 0.9906516
+  },
+  {
+    "Title": "The Shelf Life of Intelligence",
+    "Url": "https://jigarkdoshi.bearblog.dev/the-shelf-life-of-intelligence/",
+    "Timestamp": "2026-04-12T23:02:17",
+    "Domain": "jigarkdoshi.bearblog.dev",
+    "Description": "Martin Casado, GP at a16z, put it plainly last week:\nIt's only a matter of time before only the model creators have access to the most powerful models. The ...",
+    "Confidence": 0.92797184
+  },
+  {
+    "Title": "Plato and Software Engineering",
+    "Url": "https://aleksandar-b.github.io/blog/posts/plato-and-software-engineering",
+    "Timestamp": "2026-04-12T23:02:14",
+    "Domain": "aleksandar-b.github.io",
+    "Description": "A small translation note that reveals a much deeper distinction about change, state, and what our systems really are.",
+    "Confidence": 0.9579796
+  },
+  {
     "Title": "Mount Lebanon",
     "Url": "https://maps.apple.com/frame?center=33.723388,35.614698&span=1.983925,4.004193",
     "Timestamp": "2026-04-12T22:02:01",
@@ -54,117 +174,5 @@
     "Domain": "rdi.berkeley.edu",
     "Description": "",
     "Confidence": 0.9869866
-  },
-  {
-    "Title": "We Only Learn from Error",
-    "Url": "https://nathanclonts.com/we-only-learn-from-error/",
-    "Timestamp": "2026-04-11T23:03:28",
-    "Domain": "nathanclonts.com",
-    "Description": "Behavioral cloning needs an oracle with challenging scenarios.",
-    "Confidence": 0.9029796
-  },
-  {
-    "Title": "Write less code, be more responsible - Orhun's Blog",
-    "Url": "https://blog.orhun.dev/code-responsibly/",
-    "Timestamp": "2026-04-11T23:03:16",
-    "Domain": "blog.orhun.dev",
-    "Description": "My thoughts on AI-assisted programming.",
-    "Confidence": 0.98822755
-  },
-  {
-    "Title": "Claude Code doesn't trust Claude with permissions",
-    "Url": "https://blog.raed.dev/posts/claude_code_permissions/",
-    "Timestamp": "2026-04-11T23:03:12",
-    "Domain": "blog.raed.dev",
-    "Description": "How Claude Code enforces permissions with deterministic code, not model inference. The one LLM-based path is internal-only, fail-closed, and stripped from the public package.",
-    "Confidence": 0.9920304
-  },
-  {
-    "Title": "The Center Has a Bias",
-    "Url": "https://lucumr.pocoo.org/2026/4/11/the-center-has-a-bias/",
-    "Timestamp": "2026-04-11T23:03:09",
-    "Domain": "lucumr.pocoo.org",
-    "Description": "Why a measured position on AI tends to lean towards actually trying it.",
-    "Confidence": 0.9668594
-  },
-  {
-    "Title": "Configuration flags are where software goes to rot",
-    "Url": "https://00f.net/2026/04/11/config-flags/",
-    "Timestamp": "2026-04-11T23:03:06",
-    "Domain": "00f.net",
-    "Description": "People love configurable software.",
-    "Confidence": 0.9989685
-  },
-  {
-    "Title": "Why GEO Is Not Enough",
-    "Url": "https://toffee.at/blog/why-geo-is-not-enough",
-    "Timestamp": "2026-04-11T23:03:01",
-    "Domain": "toffee.at",
-    "Description": "Most companies think GEO solves agentic commerce. It doesn't. Here's what the full stack actually looks like.",
-    "Confidence": 0.968389
-  },
-  {
-    "Title": "If not LLMs, what should I work on?",
-    "Url": "https://kindxiaoming.github.io/blog/2026/everything-is-language/",
-    "Timestamp": "2026-04-11T23:02:58",
-    "Domain": "kindxiaoming.github.io",
-    "Description": "A simple, whitespace theme for academics. Based on [*folio](https://github.com/bogoli/-folio) design.",
-    "Confidence": 0.97408843
-  },
-  {
-    "Title": "Brocards for vulnerability triage",
-    "Url": "https://blog.yossarian.net/2026/04/11/Brocards-for-vulnerability-triage",
-    "Timestamp": "2026-04-11T23:02:54",
-    "Domain": "blog.yossarian.net",
-    "Description": "Apr 11, 2026\n\n       \n\n    \n      \n        Tags:\n        \n        \n          oss,\n        \n          security",
-    "Confidence": 0.9929819
-  },
-  {
-    "Title": "AGI is here - Part 2",
-    "Url": "https://breaking-changes.blog/agi-is-here-part-2/",
-    "Timestamp": "2026-04-11T23:02:51",
-    "Domain": "breaking-changes.blog",
-    "Description": "See the original article here. The argument was simple: measured against eight prominent definitions, AGI is already here. Which is precisely the problem - if everything qualifies in some way, the definitions aren't measuring anything, and the real question shifts from \"have we arrived?\" to \"what are we actually talking",
-    "Confidence": 0.96567756
-  },
-  {
-    "Title": "I Built Anthropic's Internal Sandbox Platform on a Single Linux…",
-    "Url": "https://jonno.nz/posts/i-built-anthropics-internal-sandbox-platform-on-a-single-linux-box/",
-    "Timestamp": "2026-04-11T23:02:47",
-    "Domain": "jonno.nz",
-    "Description": "Anthropic has an internal platform for running Claude Code in full-permission isolation. I built my own version with Firecracker MicroVMs, Go, and a $400…",
-    "Confidence": 0.99560255
-  },
-  {
-    "Title": "What I Stopped Thinking About When I Went Car-Free",
-    "Url": "https://maxmautner.com/2026/04/10/what-i-dont-spend-time-thinking-about.html",
-    "Timestamp": "2026-04-11T23:02:39",
-    "Domain": "maxmautner.com",
-    "Description": "Gas prices, parking, insurance, the check engine light — a suburban father’s inventory of the mental load that disappeared with the car.",
-    "Confidence": 0.82514787
-  },
-  {
-    "Title": "Now is the best time to write code by hand — SiteBloom",
-    "Url": "https://sitebloom.ch/writing/now-is-the-best-time-to-write-code-by-hand/",
-    "Timestamp": "2026-04-11T23:02:36",
-    "Domain": "sitebloom.ch",
-    "Description": "As more engineers use the irresistible LLMs their skills atrophy, practicing will make you special.",
-    "Confidence": 0.9664406
-  },
-  {
-    "Title": "How I Pick My Stack for Vibe Coding",
-    "Url": "https://tildehacker.com/how-i-pick-my-stack-for-vibe-coding",
-    "Timestamp": "2026-04-11T23:02:32",
-    "Domain": "tildehacker.com",
-    "Description": "An opinionated breakdown of how I choose programming languages, web frameworks, and UI stacks for every new greenfield project since I went all-in on vibe coding.",
-    "Confidence": 0.9938948
-  },
-  {
-    "Title": "In Defense of Rediscovery – Wilsons Blog",
-    "Url": "https://wilsoniumite.com/2026/04/11/in-defense-of-rediscovery/",
-    "Timestamp": "2026-04-11T23:02:29",
-    "Domain": "wilsoniumite.com",
-    "Description": "When I posted my first ever blogpost, a commentator wrote:",
-    "Confidence": 0.978558
   }
 ]
