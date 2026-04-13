@@ -238,13 +238,5 @@
     "Domain": "aleksandar-b.github.io",
     "Description": "A small translation note that reveals a much deeper distinction about change, state, and what our systems really are.",
     "Confidence": 0.9579796
-  },
-  {
-    "Title": "Mount Lebanon",
-    "Url": "https://maps.apple.com/frame?center=33.723388,35.614698&span=1.983925,4.004193",
-    "Timestamp": "2026-04-12T22:02:01",
-    "Domain": "maps.apple.com",
-    "Description": "Find local businesses, get place recommendations, view maps and get driving directions on Apple Maps.",
-    "Confidence": 0.95994765
   }
 ]
