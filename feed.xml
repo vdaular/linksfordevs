@@ -7,6 +7,24 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Servo is now available on crates.io - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.</title>
+      <link>https://servo.org/blog/2026/04/13/servo-0.1.0-release/</link>
+      <description>Initial crates.io release and LTS version of Servo</description>
+      <category>rust</category>
+      <guid>https://servo.org/blog/2026/04/13/servo-0.1.0-release/</guid>
+      <pubDate>Mon, 13 Apr 2026 17:02:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Android now stops you sharing your location in photos</title>
+      <link>https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/</link>
+      <description>My wife and I run OpenBenches. It's a niche little site which lets people share photos of memorial benches and their locations. Most modern phones embed a geolocation within the photo's metadata, so we use that information to put the photos on a map.  Google's Android has now broken that.  On the web, we used to use:  ⧉ HTML&lt;input type="file" accept="image/jpeg"&gt;   That opened the phone's photo p…</description>
+      <category>android</category>
+      <category>apple</category>
+      <category>web</category>
+      <guid>https://shkspr.mobi/blog/2026/04/android-now-stops-you-sharing-your-location-in-photos/</guid>
+      <pubDate>Mon, 13 Apr 2026 17:02:20 GMT</pubDate>
+    </item>
+    <item>
       <title>The Economics of Software Teams: Why Most Engineering Organizations Are Flying Blind</title>
       <link>https://www.viktorcessan.com/the-economics-of-software-teams/</link>
       <description>A breakdown of what software development teams actually cost, what they need to generate to be financially viable, and why most organizations have no visibility into either number.</description>
