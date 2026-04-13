@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The Economics of Software Teams: Why Most Engineering Organizations Are Flying Blind</title>
+      <link>https://www.viktorcessan.com/the-economics-of-software-teams/</link>
+      <description>A breakdown of what software development teams actually cost, what they need to generate to be financially viable, and why most organizations have no visibility into either number.</description>
+      <author> (Viktor Cessan)</author>
+      <category>ai</category>
+      <guid>https://www.viktorcessan.com/the-economics-of-software-teams/</guid>
+      <pubDate>Mon, 13 Apr 2026 14:02:06 GMT</pubDate>
+    </item>
+    <item>
       <title>@adlrocha - How the "AI Loser" may end up winning</title>
       <link>https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end</link>
       <description>Apple’s accidental moat</description>
@@ -253,16 +262,6 @@ It's only a matter of time before only the model creators have access to the mos
       <category>cloud</category>
       <guid>https://idiallo.com/byte-size/we-are-aws-salesmen?src=feed</guid>
       <pubDate>Sun, 12 Apr 2026 18:02:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple update turns Czech mate for locked-out iPhone user</title>
-      <link>https://www.theregister.com/2026/04/12/ios_passcode_bug/</link>
-      <description>: Lock-screen keyboard no longer accepts háček in student's alphanumeric passcode</description>
-      <category>apple</category>
-      <category>android</category>
-      <category>git</category>
-      <guid>https://www.theregister.com/2026/04/12/ios_passcode_bug/</guid>
-      <pubDate>Sun, 12 Apr 2026 14:02:12 GMT</pubDate>
     </item>
   </channel>
 </rss>

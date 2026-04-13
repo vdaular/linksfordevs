@@ -1,5 +1,13 @@
 [
   {
+    "Title": "The Economics of Software Teams: Why Most Engineering Organizations Are Flying Blind",
+    "Url": "https://www.viktorcessan.com/the-economics-of-software-teams/",
+    "Timestamp": "2026-04-13T14:02:06",
+    "Domain": "www.viktorcessan.com",
+    "Description": "A breakdown of what software development teams actually cost, what they need to generate to be financially viable, and why most organizations have no visibility into either number.",
+    "Confidence": 0.97859585
+  },
+  {
     "Title": "@adlrocha - How the \"AI Loser\" may end up winning",
     "Url": "https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end",
     "Timestamp": "2026-04-13T13:02:10",
@@ -198,13 +206,5 @@
     "Domain": "idiallo.com",
     "Description": "AWS certification masquerades as an engineering skill. Instead, it's a sales tool to encroach your employer in a moat. AWS complexity is to sell you on more.",
     "Confidence": 0.96494305
-  },
-  {
-    "Title": "Apple update turns Czech mate for locked-out iPhone user",
-    "Url": "https://www.theregister.com/2026/04/12/ios_passcode_bug/",
-    "Timestamp": "2026-04-12T14:02:12",
-    "Domain": "www.theregister.com",
-    "Description": ": Lock-screen keyboard no longer accepts háček in student's alphanumeric passcode",
-    "Confidence": 0.6485581
   }
 ]
