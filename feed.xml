@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>All elementary functions from a single binary operator</title>
+      <link>https://arxiv.org/abs/2603.21852</link>
+      <description>A single two-input gate suffices for all of Boolean logic in digital hardware. No comparable primitive has been known for continuous mathematics: computing elementary functions such as sin, cos, sqrt, and log has always required multiple distinct operations. Here I show that a single binary operator, eml(x,y)=exp(x)-ln(y), together with the constant 1, generates the standard repertoire of a scientific calculator. This includes constants such as e, pi, and i; arithmetic operations including addition, subtraction, multiplication, division, and exponentiation as well as the usual transcendental and algebraic functions. For example, exp(x)=eml(x,1), ln(x)=eml(1,eml(eml(1,x),1)), and likewise for all other operations. That such an operator exists was not anticipated; I found it by systematic exhaustive search and established constructively that it suffices for the concrete scientific-calculator basis. In EML (Exp-Minus-Log) form, every such expression becomes a binary tree of identical nodes, yielding a grammar as simple as S -&gt; 1 | eml(S,S). This uniform structure also enables gradient-based symbolic regression: using EML trees as trainable circuits with standard optimizers (Adam), I demonstrate the feasibility of exact recovery of closed-form elementary functions from numerical data at shallow tree depths up to 4. The same architecture can fit arbitrary data, but when the generating law is elementary, it may recover the exact formula.</description>
+      <category>web</category>
+      <guid>https://arxiv.org/abs/2603.21852</guid>
+      <pubDate>Mon, 13 Apr 2026 07:02:04 GMT</pubDate>
+    </item>
+    <item>
       <title>boringBar - A taskbar-style Dock replacement for macOS</title>
       <link>https://boringbar.app/</link>
       <description>Organize macOS windows by desktop with previews, pinned apps, notification badges, desktop switching, and a 14-day free trial.</description>
@@ -260,36 +268,6 @@ https://x.com/lauriewired</description>
       <category>youtube</category>
       <guid>https://youtube.com/watch?v=KKbgulTp3FE</guid>
       <pubDate>Sun, 12 Apr 2026 09:02:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>20 Years on AWS and Never Not My Job</title>
-      <link>https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html</link>
-      <description>I created my first AWS account at 10:31 PM on April 10th, 2006.  I had
-seen the announcement of Amazon S3 and had been thinking vaguely about
-the problem of secure backups — even though I didn't start
-Tarsnap until several months
-later — and the idea of an online storage service appealed to me.
-The fact that it was a web service made it even more appealing; I had
-been building web services since 1998, when I decided that coordinating
-a world-record-setting
-computation of Pi over HTTP would be easier than doing it over
-email.</description>
-      <category>cloud</category>
-      <category>ai</category>
-      <category>encryption</category>
-      <category>ruby</category>
-      <guid>https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html</guid>
-      <pubDate>Sun, 12 Apr 2026 07:02:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Future of Everything is Lies, I Guess: Annoyances</title>
-      <link>https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances</link>
-      <description>This is a long article, so I'm breaking it up into a series of posts which will be released over the next few days. You can also read the full work as a PDF or EPUB; these files will be updated as each section is released.</description>
-      <category>cloud</category>
-      <category>ai</category>
-      <category>apple</category>
-      <guid>https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances</guid>
-      <pubDate>Sun, 12 Apr 2026 07:02:03 GMT</pubDate>
     </item>
   </channel>
 </rss>

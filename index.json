@@ -1,5 +1,13 @@
 [
   {
+    "Title": "All elementary functions from a single binary operator",
+    "Url": "https://arxiv.org/abs/2603.21852",
+    "Timestamp": "2026-04-13T07:02:04",
+    "Domain": "arxiv.org",
+    "Description": "A single two-input gate suffices for all of Boolean logic in digital hardware. No comparable primitive has been known for continuous mathematics: computing elementary functions such as sin, cos, sqrt, and log has always required multiple distinct operations. Here I show that a single binary operator, eml(x,y)=exp(x)-ln(y), together with the constant 1, generates the standard repertoire of a scientific calculator. This includes constants such as e, pi, and i; arithmetic operations including addition, subtraction, multiplication, division, and exponentiation as well as the usual transcendental and algebraic functions. For example, exp(x)=eml(x,1), ln(x)=eml(1,eml(eml(1,x),1)), and likewise for all other operations. That such an operator exists was not anticipated; I found it by systematic exhaustive search and established constructively that it suffices for the concrete scientific-calculator basis. In EML (Exp-Minus-Log) form, every such expression becomes a binary tree of identical nodes, yielding a grammar as simple as S -> 1 | eml(S,S). This uniform structure also enables gradient-based symbolic regression: using EML trees as trainable circuits with standard optimizers (Adam), I demonstrate the feasibility of exact recovery of closed-form elementary functions from numerical data at shallow tree depths up to 4. The same architecture can fit arbitrary data, but when the generating law is elementary, it may recover the exact formula.",
+    "Confidence": 0.99051994
+  },
+  {
     "Title": "boringBar - A taskbar-style Dock replacement for macOS",
     "Url": "https://boringbar.app/",
     "Timestamp": "2026-04-13T04:02:07",
@@ -182,21 +190,5 @@
     "Domain": "youtube.com",
     "Description": "Modern DRAM is based on a brilliant design from IBM.\n\nBut, we're still paying for a latency penalty that's existed since the 60s!\n\nIn this video, I'm introducing my personal research project (Tailslayer) that immensely reduces p99.99 latency on traditional RAM!\n\nBy implementing a hedged read strategy taking advantage of (undocumented!) channel scrambling offsets, I've gotten as much as 15x reductions in tail latency.\n\nThe technique works across Intel, AMD, Graviton, DDR4, DDR5, x86, ARM, you name it.\n\nCheck out the C++ lib I wrote, watch the video, and try it yourself!\n\n---\n\nTimestamps:\n\n00:00 Your RAM goes Blind\n01:58 A 400ns tRFC Lockout\n04:42 Can we predict it?\n08:02 Hedged Reads\n15:41 The ROB Trap\n19:20 Multicore Threading FTW!\n23:19 Memory Controllers Hate You\n27:09 A Dark Reason (Rowhammer)\n30:07 Reverse Engineering Channel Scrambling\n33:44 Where is my Data? (Physically)\n38:46 Does it actually work?\n45:20 ARM Graviton...the Black Box\n48:06 High Frequency Trading\n\n---\n\nMy project / code (Tailslayer) on GitHub:\nhttps://github.com/LaurieWired/tailslayer\n\n---\n\nCheck out my X account for cool Computer Science stuff!\nhttps://x.com/lauriewired",
     "Confidence": 0.97622025
-  },
-  {
-    "Title": "20 Years on AWS and Never Not My Job",
-    "Url": "https://www.daemonology.net/blog/2026-04-11-20-years-on-AWS-and-never-not-my-job.html",
-    "Timestamp": "2026-04-12T07:02:06",
-    "Domain": "www.daemonology.net",
-    "Description": "I created my first AWS account at 10:31 PM on April 10th, 2006.  I had\nseen the announcement of Amazon S3 and had been thinking vaguely about\nthe problem of secure backups — even though I didn't start\nTarsnap until several months\nlater — and the idea of an online storage service appealed to me.\nThe fact that it was a web service made it even more appealing; I had\nbeen building web services since 1998, when I decided that coordinating\na world-record-setting\ncomputation of Pi over HTTP would be easier than doing it over\nemail.",
-    "Confidence": 0.8796464
-  },
-  {
-    "Title": "The Future of Everything is Lies, I Guess: Annoyances",
-    "Url": "https://aphyr.com/posts/415-the-future-of-everything-is-lies-i-guess-annoyances",
-    "Timestamp": "2026-04-12T07:02:03",
-    "Domain": "aphyr.com",
-    "Description": "This is a long article, so I'm breaking it up into a series of posts which will be released over the next few days. You can also read the full work as a PDF or EPUB; these files will be updated as each section is released.",
-    "Confidence": 0.8602082
   }
 ]
