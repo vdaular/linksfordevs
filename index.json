@@ -1,5 +1,13 @@
 [
   {
+    "Title": "boringBar - A taskbar-style Dock replacement for macOS",
+    "Url": "https://boringbar.app/",
+    "Timestamp": "2026-04-13T04:02:07",
+    "Domain": "boringbar.app",
+    "Description": "Organize macOS windows by desktop with previews, pinned apps, notification badges, desktop switching, and a 14-day free trial.",
+    "Confidence": 0.98950016
+  },
+  {
     "Title": "DIY soft drinks",
     "Url": "https://blinry.org/diy-soft-drinks/",
     "Timestamp": "2026-04-13T02:02:14",
@@ -190,13 +198,5 @@
     "Domain": "aphyr.com",
     "Description": "This is a long article, so I'm breaking it up into a series of posts which will be released over the next few days. You can also read the full work as a PDF or EPUB; these files will be updated as each section is released.",
     "Confidence": 0.8602082
-  },
-  {
-    "Title": "Center for Responsible, Decentralized Intelligence at Berkeley",
-    "Url": "https://rdi.berkeley.edu/blog/trustworthy-benchmarks-cont/",
-    "Timestamp": "2026-04-12T03:06:37",
-    "Domain": "rdi.berkeley.edu",
-    "Description": "",
-    "Confidence": 0.9869866
   }
 ]
