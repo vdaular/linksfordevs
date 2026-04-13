@@ -1,5 +1,29 @@
 [
   {
+    "Title": "Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them.",
+    "Url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
+    "Timestamp": "2026-04-13T20:02:20",
+    "Domain": "anchor.host",
+    "Description": "Last week, I wrote about catching a supply chain attack on a WordPress plugin called Widget Logic. A trusted name, acquired by a new owner, turned into",
+    "Confidence": 0.9437145
+  },
+  {
+    "Title": "GitHub - sterlingcrispin/nothing-ever-happens",
+    "Url": "https://github.com/sterlingcrispin/nothing-ever-happens",
+    "Timestamp": "2026-04-13T20:02:16",
+    "Domain": "github.com",
+    "Description": "Contribute to sterlingcrispin/nothing-ever-happens development by creating an account on GitHub.",
+    "Confidence": 0.97636306
+  },
+  {
+    "Title": "Microsoft isn't removing Copilot from Windows 11, it's just renaming it",
+    "Url": "https://www.neowin.net/opinions/microsoft-isnt-removing-copilot-from-windows-11-its-just-renaming-it/",
+    "Timestamp": "2026-04-13T20:02:10",
+    "Domain": "www.neowin.net",
+    "Description": "Microsoft begins removing Copilot labels in Windows 11 apps, but AI tools stay, leaving users feeling misled rather than satisfied.",
+    "Confidence": 0.8806316
+  },
+  {
     "Title": "Servo is now available on crates.io - Servo aims to empower developers with a lightweight, high-performance alternative for embedding web technologies in applications.",
     "Url": "https://servo.org/blog/2026/04/13/servo-0.1.0-release/",
     "Timestamp": "2026-04-13T17:02:23",
