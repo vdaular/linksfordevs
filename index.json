@@ -214,13 +214,5 @@
     "Domain": "maps.apple.com",
     "Description": "Find local businesses, get place recommendations, view maps and get driving directions on Apple Maps.",
     "Confidence": 0.95994765
-  },
-  {
-    "Title": "Your AWS Certificate Makes You an AWS Salesman",
-    "Url": "https://idiallo.com/byte-size/we-are-aws-salesmen?src=feed",
-    "Timestamp": "2026-04-12T18:02:09",
-    "Domain": "idiallo.com",
-    "Description": "AWS certification masquerades as an engineering skill. Instead, it's a sales tool to encroach your employer in a moat. AWS complexity is to sell you on more.",
-    "Confidence": 0.96494305
   }
 ]
