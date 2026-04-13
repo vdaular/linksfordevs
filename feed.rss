@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Make tmux Pretty and Usable - Ham Vocke</title>
+      <link>https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/</link>
+      <description>Customize the look and feel of tmux</description>
+      <guid>https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/</guid>
+      <pubDate>Mon, 13 Apr 2026 21:02:43 GMT</pubDate>
+    </item>
+    <item>
       <title>Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them.</title>
       <link>https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/</link>
       <description>Last week, I wrote about catching a supply chain attack on a WordPress plugin called Widget Logic. A trusted name, acquired by a new owner, turned into</description>
