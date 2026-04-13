@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The peril of laziness lost | The Observation Deck</title>
+      <link>https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/</link>
+      <description></description>
+      <guid>https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/</guid>
+      <pubDate>Mon, 13 Apr 2026 00:02:15 GMT</pubDate>
+    </item>
+    <item>
       <title>My adventure in designing API keys</title>
       <link>https://vjay15.github.io/blog/apikeys/</link>
       <description>Vjaylakshman K • April 12, 2026</description>
