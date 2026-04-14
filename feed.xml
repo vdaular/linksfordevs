@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>DaVinci Resolve – Photo | Blackmagic Design</title>
+      <link>https://www.blackmagicdesign.com/products/davinciresolve/photo</link>
+      <description>Professional video editing, color correction, visual effects and audio post production all in a single application. Free and paid versions for Mac, Windows and Linux.</description>
+      <category>visualstudio</category>
+      <category>git</category>
+      <category>ai</category>
+      <category>nodejs</category>
+      <category>apple</category>
+      <guid>https://www.blackmagicdesign.com/products/davinciresolve/photo</guid>
+      <pubDate>Tue, 14 Apr 2026 06:02:12 GMT</pubDate>
+    </item>
+    <item>
       <title>I learned something about GPUs today</title>
       <link>https://foon.uk/blackshift-sand-bug/</link>
       <description>Debugging a graphics bug in Blackshift</description>
