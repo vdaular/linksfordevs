@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Lean proved this program was correct; then I found a bug.",
+    "Url": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
+    "Timestamp": "2026-04-14T11:02:14",
+    "Domain": "kirancodes.me",
+    "Description": "I fuzzed a verified implementation of zlib and found a buffer overflow in the Lean runtime."
+  },
+  {
     "Title": "Introducing a new spam policy for \"back button hijacking\"  |  Google Search Central Blog  |  Google for Developers",
     "Url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
     "Timestamp": "2026-04-14T08:02:09",

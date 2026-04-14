@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Lean proved this program was correct; then I found a bug.</title>
+      <link>https://kirancodes.me/posts/log-who-watches-the-watchers.html</link>
+      <description>I fuzzed a verified implementation of zlib and found a buffer overflow in the Lean runtime.</description>
+      <category>rust</category>
+      <category>ai</category>
+      <guid>https://kirancodes.me/posts/log-who-watches-the-watchers.html</guid>
+      <pubDate>Tue, 14 Apr 2026 11:02:14 GMT</pubDate>
+    </item>
+    <item>
       <title>Introducing a new spam policy for "back button hijacking"  |  Google Search Central Blog  |  Google for Developers</title>
       <link>https://developers.google.com/search/blog/2026/04/back-button-hijacking</link>
       <description>April 13, 2026</description>
@@ -326,30 +335,6 @@ I recommend you all read it. I plucked out one sentence for you:</description>
       <description>A friend of mine bought a Tesla Roadster back in the early 2010s. At the time, spotting a Tesla on the road was a rare event. Maybe even occasion enough to stop and take a picture. I never got the cha</description>
       <guid>https://idiallo.com/blog/you-paid-for-it-you-should-be-comfortable-in-it?src=feed</guid>
       <pubDate>Mon, 13 Apr 2026 12:02:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>This is Why AI Could Replace Programmers</title>
-      <link>https://youtube.com/watch?v=Bc98jtvwkQ8</link>
-      <description>Online Workshop: Vibe Coding for Production: https://dometrain.com/workshop/vibe-coding-for-production/?ref=nick-chapsas&amp;promo=mail-list&amp;coupon_code=3YEARS
-
-Get every Dometrain 40% off with code 3YEARS: https://dometrain.com/courses/?ref=nick-chapsas&amp;promo=youtube&amp;coupon_code=3YEARS
-
-Hello, everybody. I'm Nick, and in this video, I want ot talk about why AI will replace programmers in the future if we continue on this path of apathy and stop being excited about programming languages, features, and learning new things.
-
-Don't forget to comment, like and subscribe :)
-
-Social Media:
-Follow me on GitHub: https://github.com/Elfocrash
-Follow me on Twitter: https://twitter.com/nickchapsas
-Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas
-
-#csharp #dotnet</description>
-      <author> (Nick Chapsas)</author>
-      <category>ai</category>
-      <category>dotnet</category>
-      <category>youtube</category>
-      <guid>https://youtube.com/watch?v=Bc98jtvwkQ8</guid>
-      <pubDate>Mon, 13 Apr 2026 11:01:52 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Lean proved this program was correct; then I found a bug.",
+    "Url": "https://kirancodes.me/posts/log-who-watches-the-watchers.html",
+    "Timestamp": "2026-04-14T11:02:14",
+    "Domain": "kirancodes.me",
+    "Description": "I fuzzed a verified implementation of zlib and found a buffer overflow in the Lean runtime.",
+    "Confidence": 0.9957533
+  },
+  {
     "Title": "Introducing a new spam policy for \"back button hijacking\"  |  Google Search Central Blog  |  Google for Developers",
     "Url": "https://developers.google.com/search/blog/2026/04/back-button-hijacking",
     "Timestamp": "2026-04-14T08:02:09",
@@ -262,13 +270,5 @@
     "Domain": "idiallo.com",
     "Description": "A friend of mine bought a Tesla Roadster back in the early 2010s. At the time, spotting a Tesla on the road was a rare event. Maybe even occasion enough to stop and take a picture. I never got the cha",
     "Confidence": 0.9595836
-  },
-  {
-    "Title": "This is Why AI Could Replace Programmers",
-    "Url": "https://youtube.com/watch?v=Bc98jtvwkQ8",
-    "Timestamp": "2026-04-13T11:01:52",
-    "Domain": "youtube.com",
-    "Description": "Online Workshop: Vibe Coding for Production: https://dometrain.com/workshop/vibe-coding-for-production/?ref=nick-chapsas&promo=mail-list&coupon_code=3YEARS\n\nGet every Dometrain 40% off with code 3YEARS: https://dometrain.com/courses/?ref=nick-chapsas&promo=youtube&coupon_code=3YEARS\n\nHello, everybody. I'm Nick, and in this video, I want ot talk about why AI will replace programmers in the future if we continue on this path of apathy and stop being excited about programming languages, features, and learning new things.\n\nDon't forget to comment, like and subscribe :)\n\nSocial Media:\nFollow me on GitHub: https://github.com/Elfocrash\nFollow me on Twitter: https://twitter.com/nickchapsas\nConnect on LinkedIn: https://www.linkedin.com/in/nick-chapsas\n\n#csharp #dotnet",
-    "Confidence": 0.9947846
   }
 ]
