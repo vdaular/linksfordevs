@@ -254,13 +254,5 @@
     "Domain": "adamheins.com",
     "Description": "Continuous collision detection is useful in physics engines and can also look quite cool.",
     "Confidence": 0.9862587
-  },
-  {
-    "Title": "Make tmux Pretty and Usable - Ham Vocke",
-    "Url": "https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/",
-    "Timestamp": "2026-04-13T21:02:43",
-    "Domain": "hamvocke.com",
-    "Description": "Customize the look and feel of tmux",
-    "Confidence": 0.9940098
   }
 ]
