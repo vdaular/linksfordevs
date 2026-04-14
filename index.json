@@ -262,13 +262,5 @@
     "Domain": "shkspr.mobi",
     "Description": "My wife and I run OpenBenches. It's a niche little site which lets people share photos of memorial benches and their locations. Most modern phones embed a geolocation within the photo's metadata, so we use that information to put the photos on a map.  Google's Android has now broken that.  On the web, we used to use:  ⧉ HTML<input type=\"file\" accept=\"image/jpeg\">   That opened the phone's photo p…",
     "Confidence": 0.9829387
-  },
-  {
-    "Title": "The Economics of Software Teams: Why Most Engineering Organizations Are Flying Blind",
-    "Url": "https://www.viktorcessan.com/the-economics-of-software-teams/",
-    "Timestamp": "2026-04-13T14:02:06",
-    "Domain": "www.viktorcessan.com",
-    "Description": "A breakdown of what software development teams actually cost, what they need to generate to be financially viable, and why most organizations have no visibility into either number.",
-    "Confidence": 0.97859585
   }
 ]
