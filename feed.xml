@@ -7,6 +7,21 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Internet será irrespirable los días de fútbol y otros deportes. Telefónica extiende los bloqueos a Champions, tenis y golf.</title>
+      <link>https://bandaancha.eu/articulos/telefonica-consigue-bloqueos-ips-11731</link>
+      <description></description>
+      <guid>https://bandaancha.eu/articulos/telefonica-consigue-bloqueos-ips-11731</guid>
+      <pubDate>Tue, 14 Apr 2026 20:03:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Getting the Flock out</title>
+      <link>https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html</link>
+      <description>I wrote to Flock’s privacy contact to opt out of their …</description>
+      <category>web</category>
+      <guid>https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html</guid>
+      <pubDate>Tue, 14 Apr 2026 20:03:23 GMT</pubDate>
+    </item>
+    <item>
       <title>Terminator: The Story of the 6502 Code You See Onscreen</title>
       <link>https://youtube.com/watch?v=NebvccLHutQ</link>
       <description>What are the origins of the 6502 assembly code that you see onscreen through the Terminator's vision?  Dave traces its origins and explains its purpose.
@@ -305,37 +320,6 @@ I recommend you all read it. I plucked out one sentence for you:</description>
       <description>Customize the look and feel of tmux</description>
       <guid>https://hamvocke.com/blog/a-guide-to-customizing-your-tmux-conf/</guid>
       <pubDate>Mon, 13 Apr 2026 21:02:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them.</title>
-      <link>https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/</link>
-      <description>Last week, I wrote about catching a supply chain attack on a WordPress plugin called Widget Logic. A trusted name, acquired by a new owner, turned into</description>
-      <category>git</category>
-      <category>ai</category>
-      <guid>https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/</guid>
-      <pubDate>Mon, 13 Apr 2026 20:02:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - sterlingcrispin/nothing-ever-happens</title>
-      <link>https://github.com/sterlingcrispin/nothing-ever-happens</link>
-      <description>Contribute to sterlingcrispin/nothing-ever-happens development by creating an account on GitHub.</description>
-      <category>git</category>
-      <category>javascript</category>
-      <category>sql</category>
-      <category>python</category>
-      <category>web</category>
-      <guid>https://github.com/sterlingcrispin/nothing-ever-happens</guid>
-      <pubDate>Mon, 13 Apr 2026 20:02:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft isn't removing Copilot from Windows 11, it's just renaming it</title>
-      <link>https://www.neowin.net/opinions/microsoft-isnt-removing-copilot-from-windows-11-its-just-renaming-it/</link>
-      <description>Microsoft begins removing Copilot labels in Windows 11 apps, but AI tools stay, leaving users feeling misled rather than satisfied.</description>
-      <author> (https://www.facebook.com/usama.jawad.96)</author>
-      <category>ai</category>
-      <category>git</category>
-      <guid>https://www.neowin.net/opinions/microsoft-isnt-removing-copilot-from-windows-11-its-just-renaming-it/</guid>
-      <pubDate>Mon, 13 Apr 2026 20:02:10 GMT</pubDate>
     </item>
   </channel>
 </rss>

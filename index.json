@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Internet será irrespirable los días de fútbol y otros deportes. Telefónica extiende los bloqueos a Champions, tenis y golf.",
+    "Url": "https://bandaancha.eu/articulos/telefonica-consigue-bloqueos-ips-11731",
+    "Timestamp": "2026-04-14T20:03:33",
+    "Domain": "bandaancha.eu",
+    "Description": "",
+    "Confidence": 0.80415934
+  },
+  {
+    "Title": "Getting the Flock out",
+    "Url": "https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html",
+    "Timestamp": "2026-04-14T20:03:23",
+    "Domain": "honeypot.net",
+    "Description": "I wrote to Flock’s privacy contact to opt out of their …",
+    "Confidence": 0.9063201
+  },
+  {
     "Title": "Terminator: The Story of the 6502 Code You See Onscreen",
     "Url": "https://youtube.com/watch?v=NebvccLHutQ",
     "Timestamp": "2026-04-14T19:02:13",
@@ -246,29 +262,5 @@
     "Domain": "hamvocke.com",
     "Description": "Customize the look and feel of tmux",
     "Confidence": 0.9940098
-  },
-  {
-    "Title": "Someone Bought 30 WordPress Plugins and Planted a Backdoor in All of Them.",
-    "Url": "https://anchor.host/someone-bought-30-wordpress-plugins-and-planted-a-backdoor-in-all-of-them/",
-    "Timestamp": "2026-04-13T20:02:20",
-    "Domain": "anchor.host",
-    "Description": "Last week, I wrote about catching a supply chain attack on a WordPress plugin called Widget Logic. A trusted name, acquired by a new owner, turned into",
-    "Confidence": 0.9437145
-  },
-  {
-    "Title": "GitHub - sterlingcrispin/nothing-ever-happens",
-    "Url": "https://github.com/sterlingcrispin/nothing-ever-happens",
-    "Timestamp": "2026-04-13T20:02:16",
-    "Domain": "github.com",
-    "Description": "Contribute to sterlingcrispin/nothing-ever-happens development by creating an account on GitHub.",
-    "Confidence": 0.97636306
-  },
-  {
-    "Title": "Microsoft isn't removing Copilot from Windows 11, it's just renaming it",
-    "Url": "https://www.neowin.net/opinions/microsoft-isnt-removing-copilot-from-windows-11-its-just-renaming-it/",
-    "Timestamp": "2026-04-13T20:02:10",
-    "Domain": "www.neowin.net",
-    "Description": "Microsoft begins removing Copilot labels in Windows 11 apps, but AI tools stay, leaving users feeling misled rather than satisfied.",
-    "Confidence": 0.8806316
   }
 ]
