@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>What is jj and why should I care?</title>
+      <link>https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html</link>
+      <description>jj is the name of the CLI for Jujutsu. Jujutsu is a DVCS, or
+"distributed version control system." You may be familiar with other DVCSes,
+such as git, and this tutorial assumes you're coming to jj from git.</description>
+      <category>git</category>
+      <category>web</category>
+      <guid>https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html</guid>
+      <pubDate>Tue, 14 Apr 2026 15:02:07 GMT</pubDate>
+    </item>
+    <item>
       <title>Backblaze has quietly stopped backing up your data</title>
       <link>https://rareese.com/posts/backblaze/</link>
       <description>TLDR: Despite claiming to backup all your data, Backblaze quietly stopped backing up OneDrive and Dropbox folders - along with potentially many other things.</description>

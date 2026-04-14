@@ -1,5 +1,13 @@
 [
   {
+    "Title": "What is jj and why should I care?",
+    "Url": "https://steveklabnik.github.io/jujutsu-tutorial/introduction/what-is-jj-and-why-should-i-care.html",
+    "Timestamp": "2026-04-14T15:02:07",
+    "Domain": "steveklabnik.github.io",
+    "Description": "jj is the name of the CLI for Jujutsu. Jujutsu is a DVCS, or\n\"distributed version control system.\" You may be familiar with other DVCSes,\nsuch as git, and this tutorial assumes you're coming to jj from git.",
+    "Confidence": 0.93160665
+  },
+  {
     "Title": "Backblaze has quietly stopped backing up your data",
     "Url": "https://rareese.com/posts/backblaze/",
     "Timestamp": "2026-04-14T12:02:07",
