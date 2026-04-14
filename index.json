@@ -1,5 +1,21 @@
 [
   {
+    "Title": "I learned something about GPUs today",
+    "Url": "https://foon.uk/blackshift-sand-bug/",
+    "Timestamp": "2026-04-14T01:02:20",
+    "Domain": "foon.uk",
+    "Description": "Debugging a graphics bug in Blackshift",
+    "Confidence": 0.9518793
+  },
+  {
+    "Title": "Building a CLI for all of Cloudflare",
+    "Url": "https://blog.cloudflare.com/cf-cli-local-explorer/",
+    "Timestamp": "2026-04-14T01:02:15",
+    "Domain": "blog.cloudflare.com",
+    "Description": "We’re introducing cf, a new unified CLI designed for consistency across the Cloudflare platform, alongside Local Explorer for debugging local data. These tools simplify how developers and AI agents interact with our nearly 3,000 API operations.",
+    "Confidence": 0.99456835
+  },
+  {
     "Title": "The Solution Space",
     "Url": "https://sethkim.me/l/thesolutionspace/?postnum=12",
     "Timestamp": "2026-04-13T23:03:42",
@@ -262,13 +278,5 @@
     "Domain": "blinry.org",
     "Description": "Cola, orange soda, and almond soda!",
     "Confidence": 0.98060644
-  },
-  {
-    "Title": "Serenity Forge (@serenityforge.com)",
-    "Url": "https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t",
-    "Timestamp": "2026-04-13T01:02:06",
-    "Domain": "bsky.app",
-    "Description": "A statement regarding the removal of DDLC from the Google Play Store:",
-    "Confidence": 0.9112873
   }
 ]

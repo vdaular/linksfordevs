@@ -7,6 +7,26 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>I learned something about GPUs today</title>
+      <link>https://foon.uk/blackshift-sand-bug/</link>
+      <description>Debugging a graphics bug in Blackshift</description>
+      <category>gaming</category>
+      <guid>https://foon.uk/blackshift-sand-bug/</guid>
+      <pubDate>Tue, 14 Apr 2026 01:02:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Building a CLI for all of Cloudflare</title>
+      <link>https://blog.cloudflare.com/cf-cli-local-explorer/</link>
+      <description>We’re introducing cf, a new unified CLI designed for consistency across the Cloudflare platform, alongside Local Explorer for debugging local data. These tools simplify how developers and AI agents interact with our nearly 3,000 API operations.</description>
+      <category>ai</category>
+      <category>typescript</category>
+      <category>nodejs</category>
+      <category>sql</category>
+      <category>javascript</category>
+      <guid>https://blog.cloudflare.com/cf-cli-local-explorer/</guid>
+      <pubDate>Tue, 14 Apr 2026 01:02:15 GMT</pubDate>
+    </item>
+    <item>
       <title>The Solution Space</title>
       <link>https://sethkim.me/l/thesolutionspace/?postnum=12</link>
       <description>I wanted to write this post in markdown, so I did a quick search for a browser-based editor, but quickly questioned why I was doing that. Instead of searching for one that I liked, I popped open codex to build me one. It coded a sufficient version in a couple minutes from the following prompt (typo included):</description>
@@ -335,17 +355,6 @@ Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas
       <category>git</category>
       <guid>https://blinry.org/diy-soft-drinks/</guid>
       <pubDate>Mon, 13 Apr 2026 02:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Serenity Forge (@serenityforge.com)</title>
-      <link>https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t</link>
-      <description>A statement regarding the removal of DDLC from the Google Play Store:</description>
-      <category>gaming</category>
-      <category>ai</category>
-      <category>android</category>
-      <category>git</category>
-      <guid>https://bsky.app/profile/serenityforge.com/post/3mj3r4nbiws2t</guid>
-      <pubDate>Mon, 13 Apr 2026 01:02:06 GMT</pubDate>
     </item>
   </channel>
 </rss>

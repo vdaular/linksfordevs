@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "Title": "I learned something about GPUs today",
+    "Url": "https://foon.uk/blackshift-sand-bug/",
+    "Timestamp": "2026-04-14T01:02:20",
+    "Domain": "foon.uk",
+    "Description": "Debugging a graphics bug in Blackshift"
+  },
+  {
+    "Title": "Building a CLI for all of Cloudflare",
+    "Url": "https://blog.cloudflare.com/cf-cli-local-explorer/",
+    "Timestamp": "2026-04-14T01:02:15",
+    "Domain": "blog.cloudflare.com",
+    "Description": "We’re introducing cf, a new unified CLI designed for consistency across the Cloudflare platform, alongside Local Explorer for debugging local data. These tools simplify how developers and AI agents interact with our nearly 3,000 API operations."
+  }
+]
