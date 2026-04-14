@@ -7,6 +7,22 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Backblaze has quietly stopped backing up your data</title>
+      <link>https://rareese.com/posts/backblaze/</link>
+      <description>TLDR: Despite claiming to backup all your data, Backblaze quietly stopped backing up OneDrive and Dropbox folders - along with potentially many other things.</description>
+      <category>git</category>
+      <guid>https://rareese.com/posts/backblaze/</guid>
+      <pubDate>Tue, 14 Apr 2026 12:02:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Back button hijacking is going away</title>
+      <link>https://idiallo.com/blog/back-button-hijacking-is-going-away-seo?src=feed</link>
+      <description>When websites are blatantly hostile, users close them to never come back. Have you ever downloaded an app, realized it was deceptive, and deleted it immediately? It's a common occurrence for me. But t</description>
+      <category>javascript</category>
+      <guid>https://idiallo.com/blog/back-button-hijacking-is-going-away-seo?src=feed</guid>
+      <pubDate>Tue, 14 Apr 2026 12:02:03 GMT</pubDate>
+    </item>
+    <item>
       <title>Lean proved this program was correct; then I found a bug.</title>
       <link>https://kirancodes.me/posts/log-who-watches-the-watchers.html</link>
       <description>I fuzzed a verified implementation of zlib and found a buffer overflow in the Lean runtime.</description>
@@ -328,13 +344,6 @@ I recommend you all read it. I plucked out one sentence for you:</description>
       <category>apple</category>
       <guid>https://adlrocha.substack.com/p/adlrocha-how-the-ai-loser-may-end</guid>
       <pubDate>Mon, 13 Apr 2026 13:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>You paid for it, you should be comfortable in it</title>
-      <link>https://idiallo.com/blog/you-paid-for-it-you-should-be-comfortable-in-it?src=feed</link>
-      <description>A friend of mine bought a Tesla Roadster back in the early 2010s. At the time, spotting a Tesla on the road was a rare event. Maybe even occasion enough to stop and take a picture. I never got the cha</description>
-      <guid>https://idiallo.com/blog/you-paid-for-it-you-should-be-comfortable-in-it?src=feed</guid>
-      <pubDate>Mon, 13 Apr 2026 12:02:15 GMT</pubDate>
     </item>
   </channel>
 </rss>
