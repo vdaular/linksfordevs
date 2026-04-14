@@ -270,13 +270,5 @@
     "Domain": "boringbar.app",
     "Description": "Organize macOS windows by desktop with previews, pinned apps, notification badges, desktop switching, and a 14-day free trial.",
     "Confidence": 0.98950016
-  },
-  {
-    "Title": "DIY soft drinks",
-    "Url": "https://blinry.org/diy-soft-drinks/",
-    "Timestamp": "2026-04-13T02:02:14",
-    "Domain": "blinry.org",
-    "Description": "Cola, orange soda, and almond soda!",
-    "Confidence": 0.98060644
   }
 ]
