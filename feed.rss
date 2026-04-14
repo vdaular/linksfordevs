@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Automate work with routines - Claude Code Docs</title>
+      <link>https://code.claude.com/docs/en/routines</link>
+      <description>Put Claude Code on autopilot. Define routines that run on a schedule, trigger on API calls, or react to GitHub events from Anthropic-managed cloud infrastructure.</description>
+      <category>ai</category>
+      <category>javascript</category>
+      <category>git</category>
+      <guid>https://code.claude.com/docs/en/routines</guid>
+      <pubDate>Tue, 14 Apr 2026 22:02:06 GMT</pubDate>
+    </item>
+    <item>
       <title>Internet será irrespirable los días de fútbol y otros deportes. Telefónica extiende los bloqueos a Champions, tenis y golf.</title>
       <link>https://bandaancha.eu/articulos/telefonica-consigue-bloqueos-ips-11731</link>
       <description></description>
