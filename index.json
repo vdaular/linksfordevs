@@ -270,13 +270,5 @@
     "Domain": "bsky.app",
     "Description": "A statement regarding the removal of DDLC from the Google Play Store:",
     "Confidence": 0.9112873
-  },
-  {
-    "Title": "The peril of laziness lost | The Observation Deck",
-    "Url": "https://bcantrill.dtrace.org/2026/04/12/the-peril-of-laziness-lost/",
-    "Timestamp": "2026-04-13T00:02:15",
-    "Domain": "bcantrill.dtrace.org",
-    "Description": "",
-    "Confidence": 0.96180534
   }
 ]
