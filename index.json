@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Open Source Isn't Dead. | Strix",
+    "Url": "https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats",
+    "Timestamp": "2026-04-15T20:02:08",
+    "Domain": "www.strix.ai",
+    "Description": "AI has changed vulnerability discovery, but closing source code does not remove the attack surface. Continuous AI defense is the better response.",
+    "Confidence": 0.9912472
+  },
+  {
     "Title": "Google Broke Its Promise to Me. Now ICE Has My Data.",
     "Url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
     "Timestamp": "2026-04-15T19:02:24",
@@ -230,21 +238,5 @@
     "Domain": "code.claude.com",
     "Description": "Put Claude Code on autopilot. Define routines that run on a schedule, trigger on API calls, or react to GitHub events from Anthropic-managed cloud infrastructure.",
     "Confidence": 0.9798926
-  },
-  {
-    "Title": "Internet será irrespirable los días de fútbol y otros deportes. Telefónica extiende los bloqueos a Champions, tenis y golf.",
-    "Url": "https://bandaancha.eu/articulos/telefonica-consigue-bloqueos-ips-11731",
-    "Timestamp": "2026-04-14T20:03:33",
-    "Domain": "bandaancha.eu",
-    "Description": "",
-    "Confidence": 0.80415934
-  },
-  {
-    "Title": "Getting the Flock out",
-    "Url": "https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html",
-    "Timestamp": "2026-04-14T20:03:23",
-    "Domain": "honeypot.net",
-    "Description": "I wrote to Flock’s privacy contact to opt out of their …",
-    "Confidence": 0.9063201
   }
 ]

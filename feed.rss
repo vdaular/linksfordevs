@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Open Source Isn't Dead. | Strix</title>
+      <link>https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats</link>
+      <description>AI has changed vulnerability discovery, but closing source code does not remove the attack surface. Continuous AI defense is the better response.</description>
+      <category>ai</category>
+      <guid>https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats</guid>
+      <pubDate>Wed, 15 Apr 2026 20:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>Google Broke Its Promise to Me. Now ICE Has My Data.</title>
       <link>https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data</link>
       <description>In 2025, Google gave Amandla Thomas-Johnson's data to ICE without giving him the chance to challenge the subpoena, breaking a nearly decade-long promise to notify users before handing their data to law enforcement.</description>
@@ -276,21 +284,6 @@ immediately disappointed.</description>
       <category>git</category>
       <guid>https://code.claude.com/docs/en/routines</guid>
       <pubDate>Tue, 14 Apr 2026 22:02:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Internet será irrespirable los días de fútbol y otros deportes. Telefónica extiende los bloqueos a Champions, tenis y golf.</title>
-      <link>https://bandaancha.eu/articulos/telefonica-consigue-bloqueos-ips-11731</link>
-      <description></description>
-      <guid>https://bandaancha.eu/articulos/telefonica-consigue-bloqueos-ips-11731</guid>
-      <pubDate>Tue, 14 Apr 2026 20:03:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Getting the Flock out</title>
-      <link>https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html</link>
-      <description>I wrote to Flock’s privacy contact to opt out of their …</description>
-      <category>web</category>
-      <guid>https://honeypot.net/2026/04/14/i-wrote-to-flocks-privacy.html</guid>
-      <pubDate>Tue, 14 Apr 2026 20:03:23 GMT</pubDate>
     </item>
   </channel>
 </rss>
