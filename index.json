@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Stop Flock",
+    "Url": "https://stopflock.com/",
+    "Timestamp": "2026-04-15T03:02:10",
+    "Domain": "stopflock.com",
+    "Description": "Flock Safety markets its devices as \"AI-powered precision policing technology\" - far beyond basic license plate readers (ALPRs) \n                (Flock Safety).\n                The system uses AI to create a \"Vehicle Fingerprint\" - identifying cars not only by license plate, \n                but also by color, make and model, roof racks, dents/damage, wheel type, and more. Even bumper sticker placement is analyzed.\n                This lets law enforcement search for a \"blue sedan with damage on the left side\" even without a license plate.",
+    "Confidence": 0.6289778
+  },
+  {
     "Title": "An exhaustive review of design tool hover areas - tldraw: Infinite Canvas SDK for React",
     "Url": "https://tldraw.dev/blog/a-review-of-design-tool-hover-areas",
     "Timestamp": "2026-04-15T00:04:01",

@@ -7,6 +7,20 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Stop Flock</title>
+      <link>https://stopflock.com/</link>
+      <description>Flock Safety markets its devices as "AI-powered precision policing technology" - far beyond basic license plate readers (ALPRs) 
+                (Flock Safety).
+                The system uses AI to create a "Vehicle Fingerprint" - identifying cars not only by license plate, 
+                but also by color, make and model, roof racks, dents/damage, wheel type, and more. Even bumper sticker placement is analyzed.
+                This lets law enforcement search for a "blue sedan with damage on the left side" even without a license plate.</description>
+      <category>ai</category>
+      <category>sql</category>
+      <category>encryption</category>
+      <guid>https://stopflock.com/</guid>
+      <pubDate>Wed, 15 Apr 2026 03:02:10 GMT</pubDate>
+    </item>
+    <item>
       <title>An exhaustive review of design tool hover areas - tldraw: Infinite Canvas SDK for React</title>
       <link>https://tldraw.dev/blog/a-review-of-design-tool-hover-areas</link>
       <description>The tldraw SDK provides tools, services, and APIs to build beautiful whiteboards and infinite canvas applications with real-time collaboration and a powerful React-based canvas.</description>
