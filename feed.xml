@@ -313,17 +313,5 @@ such as git, and this tutorial assumes you're coming to jj from git.</descriptio
       <guid>https://developers.google.com/search/blog/2026/04/back-button-hijacking</guid>
       <pubDate>Tue, 14 Apr 2026 08:02:09 GMT</pubDate>
     </item>
-    <item>
-      <title>DaVinci Resolve – Photo | Blackmagic Design</title>
-      <link>https://www.blackmagicdesign.com/products/davinciresolve/photo</link>
-      <description>Professional video editing, color correction, visual effects and audio post production all in a single application. Free and paid versions for Mac, Windows and Linux.</description>
-      <category>visualstudio</category>
-      <category>git</category>
-      <category>ai</category>
-      <category>nodejs</category>
-      <category>apple</category>
-      <guid>https://www.blackmagicdesign.com/products/davinciresolve/photo</guid>
-      <pubDate>Tue, 14 Apr 2026 06:02:12 GMT</pubDate>
-    </item>
   </channel>
 </rss>
