@@ -311,25 +311,5 @@ such as git, and this tutorial assumes you're coming to jj from git.</descriptio
       <guid>https://www.blackmagicdesign.com/products/davinciresolve/photo</guid>
       <pubDate>Tue, 14 Apr 2026 06:02:12 GMT</pubDate>
     </item>
-    <item>
-      <title>I learned something about GPUs today</title>
-      <link>https://foon.uk/blackshift-sand-bug/</link>
-      <description>Debugging a graphics bug in Blackshift</description>
-      <category>gaming</category>
-      <guid>https://foon.uk/blackshift-sand-bug/</guid>
-      <pubDate>Tue, 14 Apr 2026 01:02:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Building a CLI for all of Cloudflare</title>
-      <link>https://blog.cloudflare.com/cf-cli-local-explorer/</link>
-      <description>We’re introducing cf, a new unified CLI designed for consistency across the Cloudflare platform, alongside Local Explorer for debugging local data. These tools simplify how developers and AI agents interact with our nearly 3,000 API operations.</description>
-      <category>ai</category>
-      <category>typescript</category>
-      <category>nodejs</category>
-      <category>sql</category>
-      <category>javascript</category>
-      <guid>https://blog.cloudflare.com/cf-cli-local-explorer/</guid>
-      <pubDate>Tue, 14 Apr 2026 01:02:15 GMT</pubDate>
-    </item>
   </channel>
 </rss>
