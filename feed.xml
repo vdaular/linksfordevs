@@ -297,14 +297,5 @@ such as git, and this tutorial assumes you're coming to jj from git.</descriptio
       <guid>https://idiallo.com/blog/back-button-hijacking-is-going-away-seo?src=feed</guid>
       <pubDate>Tue, 14 Apr 2026 12:02:03 GMT</pubDate>
     </item>
-    <item>
-      <title>Lean proved this program was correct; then I found a bug.</title>
-      <link>https://kirancodes.me/posts/log-who-watches-the-watchers.html</link>
-      <description>I fuzzed a verified implementation of zlib and found a buffer overflow in the Lean runtime.</description>
-      <category>rust</category>
-      <category>ai</category>
-      <guid>https://kirancodes.me/posts/log-who-watches-the-watchers.html</guid>
-      <pubDate>Tue, 14 Apr 2026 11:02:14 GMT</pubDate>
-    </item>
   </channel>
 </rss>
