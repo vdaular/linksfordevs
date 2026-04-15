@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Want to Write a Compiler? Just Read These Two Papers.</title>
+      <link>https://prog21.dadgum.com/30.html</link>
+      <description>Imagine you don't know anything about programming, and you want learn how to do it.  You take a look at Amazon.com, and there's a highly recommended set of books by Knute or something with a promising title, The Art of Computer Programming, so you buy them.  Now imagine that it's more than just a poor choice, but that all the books on programming are at written at that level.</description>
+      <category>ruby</category>
+      <category>python</category>
+      <category>web</category>
+      <guid>https://prog21.dadgum.com/30.html</guid>
+      <pubDate>Wed, 15 Apr 2026 16:02:07 GMT</pubDate>
+    </item>
+    <item>
       <title>An Arm Mainboard for the Framework Laptop</title>
       <link>https://www.jeffgeerling.com/blog/2026/arm-mainboard-for-framework-laptop/</link>
       <description>Using the repair-friendly Framework 13 laptop chassis, I've tested the low-end x86 option (a Ryzen AI 5 340 Mainboard), the fastest RISC-V option (DC-ROMA II), and today I'm publishing results from the only Arm Mainboard, the MetaComputing AI PC, which has a 12-core Arm SoC and up to 32 GB of soldered-on RAM.
