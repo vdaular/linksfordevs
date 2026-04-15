@@ -1,5 +1,12 @@
 [
   {
+    "Title": "An Arm Mainboard for the Framework Laptop",
+    "Url": "https://www.jeffgeerling.com/blog/2026/arm-mainboard-for-framework-laptop/",
+    "Timestamp": "2026-04-15T15:01:41",
+    "Domain": "www.jeffgeerling.com",
+    "Description": "Using the repair-friendly Framework 13 laptop chassis, I've tested the low-end x86 option (a Ryzen AI 5 340 Mainboard), the fastest RISC-V option (DC-ROMA II), and today I'm publishing results from the only Arm Mainboard, the MetaComputing AI PC, which has a 12-core Arm SoC and up to 32 GB of soldered-on RAM.\nMy Framework 13 has run on x86, RISC-V, and now Arm, making it something of a 'Ship of Theseus'."
+  },
+  {
     "Title": "Stop Flock",
     "Url": "https://stopflock.com/",
     "Timestamp": "2026-04-15T03:02:10",
