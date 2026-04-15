@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Make It Myself",
+    "Url": "https://xkcd.com/3233/",
+    "Timestamp": "2026-04-15T22:02:04",
+    "Domain": "xkcd.com",
+    "Description": "",
+    "Confidence": 0.98151064
+  },
+  {
     "Title": "Finding a duplicated item in an array of N integers in the range 1 to N − 1 - The Old New Thing",
     "Url": "https://devblogs.microsoft.com/oldnewthing/20260413-00/?p=112227",
     "Timestamp": "2026-04-15T21:02:05",
@@ -238,13 +246,5 @@
     "Domain": "alexwennerberg.com",
     "Description": "I have experimented enough with AI coding agents that I have come to pick up\non their design style, and I've been noticing it on the internet more and more.\nSome of its stylistic choices I can articulate: too much animation, pointless\nelements, too many colors, sloppy overuse of haptics, buttons that are too\npadded, and interfaces that are simultaneously too complex and too simple. But\nthere is also just a feel to these websites. When I see\na personal website that is vibe coded, I can immediately tell, and I am\nimmediately disappointed.",
     "Confidence": 0.9543927
-  },
-  {
-    "Title": "Automate work with routines - Claude Code Docs",
-    "Url": "https://code.claude.com/docs/en/routines",
-    "Timestamp": "2026-04-14T22:02:06",
-    "Domain": "code.claude.com",
-    "Description": "Put Claude Code on autopilot. Define routines that run on a schedule, trigger on API calls, or react to GitHub events from Anthropic-managed cloud infrastructure.",
-    "Confidence": 0.9798926
   }
 ]
