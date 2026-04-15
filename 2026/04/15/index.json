@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Finding a duplicated item in an array of N integers in the range 1 to N − 1 - The Old New Thing",
+    "Url": "https://devblogs.microsoft.com/oldnewthing/20260413-00/?p=112227",
+    "Timestamp": "2026-04-15T21:02:05",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Taking advantage of special characteristics of the array."
+  },
+  {
     "Title": "Open Source Isn't Dead. | Strix",
     "Url": "https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats",
     "Timestamp": "2026-04-15T20:02:08",

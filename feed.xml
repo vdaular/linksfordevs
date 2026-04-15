@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Finding a duplicated item in an array of N integers in the range 1 to N − 1 - The Old New Thing</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260413-00/?p=112227</link>
+      <description>Taking advantage of special characteristics of the array.</description>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260413-00/?p=112227</guid>
+      <pubDate>Wed, 15 Apr 2026 21:02:05 GMT</pubDate>
+    </item>
+    <item>
       <title>Open Source Isn't Dead. | Strix</title>
       <link>https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats</link>
       <description>AI has changed vulnerability discovery, but closing source code does not remove the attack surface. Continuous AI defense is the better response.</description>
