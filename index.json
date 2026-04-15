@@ -230,21 +230,5 @@
     "Domain": "steveklabnik.github.io",
     "Description": "jj is the name of the CLI for Jujutsu. Jujutsu is a DVCS, or\n\"distributed version control system.\" You may be familiar with other DVCSes,\nsuch as git, and this tutorial assumes you're coming to jj from git.",
     "Confidence": 0.93160665
-  },
-  {
-    "Title": "Backblaze has quietly stopped backing up your data",
-    "Url": "https://rareese.com/posts/backblaze/",
-    "Timestamp": "2026-04-14T12:02:07",
-    "Domain": "rareese.com",
-    "Description": "TLDR: Despite claiming to backup all your data, Backblaze quietly stopped backing up OneDrive and Dropbox folders - along with potentially many other things.",
-    "Confidence": 0.95719004
-  },
-  {
-    "Title": "Back button hijacking is going away",
-    "Url": "https://idiallo.com/blog/back-button-hijacking-is-going-away-seo?src=feed",
-    "Timestamp": "2026-04-14T12:02:03",
-    "Domain": "idiallo.com",
-    "Description": "When websites are blatantly hostile, users close them to never come back. Have you ever downloaded an app, realized it was deceptive, and deleted it immediately? It's a common occurrence for me. But t",
-    "Confidence": 0.9797348
   }
 ]
