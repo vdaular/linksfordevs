@@ -7,6 +7,212 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>An exhaustive review of design tool hover areas - tldraw: Infinite Canvas SDK for React</title>
+      <link>https://tldraw.dev/blog/a-review-of-design-tool-hover-areas</link>
+      <description>The tldraw SDK provides tools, services, and APIs to build beautiful whiteboards and infinite canvas applications with real-time collaboration and a powerful React-based canvas.</description>
+      <category>ai</category>
+      <guid>https://tldraw.dev/blog/a-review-of-design-tool-hover-areas</guid>
+      <pubDate>Wed, 15 Apr 2026 00:04:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I run pi.dev safely (and actually get work done)</title>
+      <link>https://krisconstable.com/start-with-pidev/</link>
+      <description>Most people are still using ChatGPT or Claude in a browser tab.</description>
+      <category>nodejs</category>
+      <category>apple</category>
+      <category>ai</category>
+      <category>linux</category>
+      <category>javascript</category>
+      <guid>https://krisconstable.com/start-with-pidev/</guid>
+      <pubDate>Wed, 15 Apr 2026 00:03:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Saying Goodbye to Agile</title>
+      <link>https://lewiscampbell.tech/blog/260414.html</link>
+      <description>Software's "Agile moment" has been and gone.</description>
+      <category>web</category>
+      <guid>https://lewiscampbell.tech/blog/260414.html</guid>
+      <pubDate>Wed, 15 Apr 2026 00:03:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Moats Don't Work When Bridges Are Free</title>
+      <link>https://www.dustinalper.com/blog/bridges-are-free</link>
+      <description>## The prompt that changed my perspective I recently used Perplexity Computer to link my investment accounts together and build a portfolio tracker. Not a la...</description>
+      <category>ai</category>
+      <guid>https://www.dustinalper.com/blog/bridges-are-free</guid>
+      <pubDate>Wed, 15 Apr 2026 00:03:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>If it could have, why didn't it? · Alex Gaynor</title>
+      <link>https://alexgaynor.net/2026/apr/13/why-didnt-it/</link>
+      <description>Mon, Apr 13, 2026</description>
+      <guid>https://alexgaynor.net/2026/apr/13/why-didnt-it/</guid>
+      <pubDate>Wed, 15 Apr 2026 00:03:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>We are lucky to have LLMs as programmers</title>
+      <link>https://isgin01.github.io/notes/we-are-lucky-to-have-llms-as-programmers/</link>
+      <description>A (short) note from my blog. Read to gain insights. Or don't, lol.</description>
+      <guid>https://isgin01.github.io/notes/we-are-lucky-to-have-llms-as-programmers/</guid>
+      <pubDate>Wed, 15 Apr 2026 00:03:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>has_not_been_viewed_much — Will W.</title>
+      <link>https://iamwillwang.com/notes/has-not-been-viewed-much/</link>
+      <description>Museum APIs and the art that hasn't been viewed much.</description>
+      <guid>https://iamwillwang.com/notes/has-not-been-viewed-much/</guid>
+      <pubDate>Wed, 15 Apr 2026 00:03:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>When You Can't Fix the Database, You Contain It</title>
+      <link>https://www.alessiocavallo.me/articles/when-you-cant-fix-the-database-you-contain-it</link>
+      <description>How we introduced an anti-corruption layer over a legacy database without breaking the rest of the system</description>
+      <category>sql</category>
+      <guid>https://www.alessiocavallo.me/articles/when-you-cant-fix-the-database-you-contain-it</guid>
+      <pubDate>Wed, 15 Apr 2026 00:03:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Your codebase doesn't care how it got written</title>
+      <link>https://robbyonrails.com/articles/2026/04/14/your-codebase-doesnt-care-how-it-got-written/</link>
+      <description>[10 min read] Every design team I’ve worked with has had the same complaint about clients.
+
+“They sent over a PowerPoint with mockups.” Eye rolls. Crossed a...</description>
+      <author> (Robby Russell)</author>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://robbyonrails.com/articles/2026/04/14/your-codebase-doesnt-care-how-it-got-written/</guid>
+      <pubDate>Wed, 15 Apr 2026 00:03:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>How can I keep from singing?</title>
+      <link>https://blog.danieljanus.pl/singing/</link>
+      <description>This is a story of a most unexpected journey — one that is just starting. If somebody had told me four years ago that I’d be writing this today, I would have stared at them in astonishment or laughed dismissedly. Yet here I am, writing about a late-found hobby that has somehow become a very important part of my life.</description>
+      <category>ai</category>
+      <guid>https://blog.danieljanus.pl/singing/</guid>
+      <pubDate>Wed, 15 Apr 2026 00:03:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why My WordPress? – Alex Kirk</title>
+      <link>https://alex.kirk.at/2026/04/14/why-my-wordpress/</link>
+      <description>Most WordPress plugins are built to grow your audience. I’ve been going in the opposite direction for years: building tools not to increase reach, but for personal reasons: to stay connected to people I care about, to keep memories that would otherwise scatter, to own the data that documents my own life.</description>
+      <category>ai</category>
+      <guid>https://alex.kirk.at/2026/04/14/why-my-wordpress/</guid>
+      <pubDate>Wed, 15 Apr 2026 00:03:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>New Twin Dad — Edward Champion</title>
+      <link>https://hec.works/blog/new-twin-dad/</link>
+      <description>Being a new dad is so hard. Things change drastically from day to day, you're getting such broken sleep, and you have a whole new person to love. Being a twin dad is like x2. So I wanted to offer what little advice and reassurance I can, and hope that this helps even one new person. If you're a new dad who is struggling (I nearly had a breakdown on day 2!), please feel free to reach out. I'm always here to support someone tackling the hardest thing they'll ever do.</description>
+      <guid>https://hec.works/blog/new-twin-dad/</guid>
+      <pubDate>Wed, 15 Apr 2026 00:03:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>How We Build Product Teams at Owner.com | Dean Bloembergen</title>
+      <link>https://www.deannotes.com/delta-force</link>
+      <description>How Owner.com reached $15M ARR with 5 engineers. A blueprint for building small, elite product teams by Dean Bloembergen, Co-founder &amp; CTO of Owner.com.</description>
+      <category>ai</category>
+      <guid>https://www.deannotes.com/delta-force</guid>
+      <pubDate>Wed, 15 Apr 2026 00:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sam Baumann</title>
+      <link>https://sambaumann.com/blog/kindle-automation/</link>
+      <description>I created an automation that pulls my highlights from kindle and drops them into my obsidian vault.</description>
+      <category>ai</category>
+      <guid>https://sambaumann.com/blog/kindle-automation/</guid>
+      <pubDate>Wed, 15 Apr 2026 00:02:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Completion is a Substrate, not a UI</title>
+      <link>https://www.chiply.dev/post-icr-primer</link>
+      <description>ICR is not a convenience feature. It is a structural change in how the cost of an interaction scales with the size of the underlying data.</description>
+      <author> (Charlie Holland)</author>
+      <category>git</category>
+      <category>encryption</category>
+      <category>vscode</category>
+      <category>ai</category>
+      <guid>https://www.chiply.dev/post-icr-primer</guid>
+      <pubDate>Wed, 15 Apr 2026 00:02:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>SVG based Vector Scope</title>
+      <link>https://davidhampgonsalves.com/svg-based-vector-scope/</link>
+      <description>I was gifted a Sencore SC62 oscilloscope from the mid-80s. It had spent a good chunk of its 40+ year life
+in a barn. This beautiful device along with many similar models are being discarded since modern scopes
+have become so cheap and capable. To avoid that fate I wanted to repurpose it into something that would
+allow it to live indoors once again.</description>
+      <guid>https://davidhampgonsalves.com/svg-based-vector-scope/</guid>
+      <pubDate>Wed, 15 Apr 2026 00:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Vibes Don't Scale</title>
+      <link>https://stack72.dev/the-vibes-dont-scale/</link>
+      <description>Vibe coding works great for the first few PRs. Then you do it two hundred more times and the codebase quietly stops making sense. The fix isn't better prompts — it's building a machine that compounds.</description>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://stack72.dev/the-vibes-dont-scale/</guid>
+      <pubDate>Wed, 15 Apr 2026 00:02:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Building a Grow-Only Counter on a Sequentially Consistent KV Store</title>
+      <link>https://brunocalza.me/blog/2026/04/13/building-a-grow-only-counter-on-a-sequentially-consistent-kv-store.html</link>
+      <description>Exploring Fly.io's Grow-Only Counter challenge: CAS-based and CRDT-like solutions on a sequentially consistent KV store, and what sequential consistency actually guarantees.</description>
+      <category>nodejs</category>
+      <category>javascript</category>
+      <guid>https://brunocalza.me/blog/2026/04/13/building-a-grow-only-counter-on-a-sequentially-consistent-kv-store.html</guid>
+      <pubDate>Wed, 15 Apr 2026 00:02:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Absurd In Production</title>
+      <link>https://lucumr.pocoo.org/2026/4/4/absurd-in-production/</link>
+      <description>Five months of durable execution with just Postgres.</description>
+      <author> (Armin Ronacher)</author>
+      <category>ai</category>
+      <category>sql</category>
+      <category>typescript</category>
+      <category>python</category>
+      <guid>https://lucumr.pocoo.org/2026/4/4/absurd-in-production/</guid>
+      <pubDate>Wed, 15 Apr 2026 00:02:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>A backend where you never need migrations or auth code</title>
+      <link>https://www.monsterwriter.com/building-linkedrecords.html</link>
+      <description>The story behind MonsterWriter and LinkedRecords — a 8-year side project journey from Google Docs envy to building a generic backend for SPAs.</description>
+      <category>git</category>
+      <category>sql</category>
+      <category>web</category>
+      <guid>https://www.monsterwriter.com/building-linkedrecords.html</guid>
+      <pubDate>Wed, 15 Apr 2026 00:02:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I made my skills update themselves · Joost.blog</title>
+      <link>https://joost.blog/self-updating-agent-skills/</link>
+      <description>Skills install as loose folders with no package manager. Here's a pattern that makes each skill check for updates — and install them — when you invoke it.</description>
+      <author> (https://joost.blog/about-me/)</author>
+      <category>ai</category>
+      <category>nodejs</category>
+      <category>javascript</category>
+      <category>git</category>
+      <guid>https://joost.blog/self-updating-agent-skills/</guid>
+      <pubDate>Wed, 15 Apr 2026 00:02:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Please don't vibe code your personal website</title>
+      <link>https://alexwennerberg.com/blog/2026-01-31-ai.html</link>
+      <description>I have experimented enough with AI coding agents that I have come to pick up
+on their design style, and I've been noticing it on the internet more and more.
+Some of its stylistic choices I can articulate: too much animation, pointless
+elements, too many colors, sloppy overuse of haptics, buttons that are too
+padded, and interfaces that are simultaneously too complex and too simple. But
+there is also just a feel to these websites. When I see
+a personal website that is vibe coded, I can immediately tell, and I am
+immediately disappointed.</description>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://alexwennerberg.com/blog/2026-01-31-ai.html</guid>
+      <pubDate>Wed, 15 Apr 2026 00:02:22 GMT</pubDate>
+    </item>
+    <item>
       <title>Automate work with routines - Claude Code Docs</title>
       <link>https://code.claude.com/docs/en/routines</link>
       <description>Put Claude Code on autopilot. Define routines that run on a schedule, trigger on API calls, or react to GitHub events from Anthropic-managed cloud infrastructure.</description>
