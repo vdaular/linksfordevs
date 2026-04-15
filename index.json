@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Google Broke Its Promise to Me. Now ICE Has My Data.",
+    "Url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
+    "Timestamp": "2026-04-15T19:02:24",
+    "Domain": "www.eff.org",
+    "Description": "In 2025, Google gave Amandla Thomas-Johnson's data to ICE without giving him the chance to challenge the subpoena, breaking a nearly decade-long promise to notify users before handing their data to law enforcement.",
+    "Confidence": 0.636442
+  },
+  {
     "Title": "Your Backpack Got Worse On Purpose",
     "Url": "https://www.worseonpurpose.com/p/your-backpack-got-worse-on-purpose",
     "Timestamp": "2026-04-15T17:02:13",
@@ -238,13 +246,5 @@
     "Domain": "honeypot.net",
     "Description": "I wrote to Flock’s privacy contact to opt out of their …",
     "Confidence": 0.9063201
-  },
-  {
-    "Title": "Terminator: The Story of the 6502 Code You See Onscreen",
-    "Url": "https://youtube.com/watch?v=NebvccLHutQ",
-    "Timestamp": "2026-04-14T19:02:13",
-    "Domain": "youtube.com",
-    "Description": "What are the origins of the 6502 assembly code that you see onscreen through the Terminator's vision?  Dave traces its origins and explains its purpose.\n\nComments with question marks get answered on our weekly ShopTalk!:\nhttps://youtu.be/iT0T52OV9B8",
-    "Confidence": 0.9755572
   }
 ]
