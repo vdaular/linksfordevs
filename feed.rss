@@ -339,12 +339,5 @@ I got mine done. Twice, actually: once with Claude, once with TurboTax, then rec
       <guid>https://xkcd.com/3233/</guid>
       <pubDate>Wed, 15 Apr 2026 22:02:04 GMT</pubDate>
     </item>
-    <item>
-      <title>Finding a duplicated item in an array of N integers in the range 1 to N − 1 - The Old New Thing</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260413-00/?p=112227</link>
-      <description>Taking advantage of special characteristics of the array.</description>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260413-00/?p=112227</guid>
-      <pubDate>Wed, 15 Apr 2026 21:02:05 GMT</pubDate>
-    </item>
   </channel>
 </rss>
