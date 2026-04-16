@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Darkbloom — Private AI Inference on Apple Silicon",
+    "Url": "https://darkbloom.dev/",
+    "Timestamp": "2026-04-16T11:02:04",
+    "Domain": "darkbloom.dev",
+    "Description": "Decentralized inference on hardware-verified Apple Silicon. End-to-end encrypted. The node operator never sees your data. OpenAI-compatible — change one line.",
+    "Confidence": 0.9904016
+  },
+  {
     "Title": "Friends Don't Let Friends Use Ollama | Sleeping Robots",
     "Url": "https://sleepingrobots.com/dreams/stop-using-ollama/",
     "Timestamp": "2026-04-16T08:02:03",
