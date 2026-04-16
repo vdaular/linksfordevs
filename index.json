@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Introducing Claude Opus 4.7",
+    "Url": "https://www.anthropic.com/news/claude-opus-4-7",
+    "Timestamp": "2026-04-16T16:02:34",
+    "Domain": "www.anthropic.com",
+    "Description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
+    "Confidence": 0.9766385
+  },
+  {
     "Title": "Qwen Studio",
     "Url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
     "Timestamp": "2026-04-16T15:02:22",
@@ -270,13 +278,5 @@
     "Domain": "wchambliss.wordpress.com",
     "Description": "I took this snapshot, and the rest of them, at the Natural History Museum of Los Angeles County’s Unearthed: Raw Beauty exhibition yesterday. Enjoy.",
     "Confidence": 0.94334733
-  },
-  {
-    "Title": "Want to Write a Compiler? Just Read These Two Papers.",
-    "Url": "https://prog21.dadgum.com/30.html",
-    "Timestamp": "2026-04-15T16:02:07",
-    "Domain": "prog21.dadgum.com",
-    "Description": "Imagine you don't know anything about programming, and you want learn how to do it.  You take a look at Amazon.com, and there's a highly recommended set of books by Knute or something with a promising title, The Art of Computer Programming, so you buy them.  Now imagine that it's more than just a poor choice, but that all the books on programming are at written at that level.",
-    "Confidence": 0.9897905
   }
 ]

@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Introducing Claude Opus 4.7</title>
+      <link>https://www.anthropic.com/news/claude-opus-4-7</link>
+      <description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
+      <category>ai</category>
+      <category>git</category>
+      <category>cloud</category>
+      <category>rust</category>
+      <guid>https://www.anthropic.com/news/claude-opus-4-7</guid>
+      <pubDate>Thu, 16 Apr 2026 16:02:34 GMT</pubDate>
+    </item>
+    <item>
       <title>Qwen Studio</title>
       <link>https://qwen.ai/blog?id=qwen3.6-35b-a3b</link>
       <description>QWEN STUDIO HUGGING FACE MODELSCOPE DISCORD
@@ -323,16 +334,6 @@ I got mine done. Twice, actually: once with Claude, once with TurboTax, then rec
       <description>I took this snapshot, and the rest of them, at the Natural History Museum of Los Angeles County’s Unearthed: Raw Beauty exhibition yesterday. Enjoy.</description>
       <guid>https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/</guid>
       <pubDate>Wed, 15 Apr 2026 17:02:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Want to Write a Compiler? Just Read These Two Papers.</title>
-      <link>https://prog21.dadgum.com/30.html</link>
-      <description>Imagine you don't know anything about programming, and you want learn how to do it.  You take a look at Amazon.com, and there's a highly recommended set of books by Knute or something with a promising title, The Art of Computer Programming, so you buy them.  Now imagine that it's more than just a poor choice, but that all the books on programming are at written at that level.</description>
-      <category>ruby</category>
-      <category>python</category>
-      <category>web</category>
-      <guid>https://prog21.dadgum.com/30.html</guid>
-      <pubDate>Wed, 15 Apr 2026 16:02:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
