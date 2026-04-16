@@ -222,13 +222,5 @@
     "Domain": "www.jeffgeerling.com",
     "Description": "Using the repair-friendly Framework 13 laptop chassis, I've tested the low-end x86 option (a Ryzen AI 5 340 Mainboard), the fastest RISC-V option (DC-ROMA II), and today I'm publishing results from the only Arm Mainboard, the MetaComputing AI PC, which has a 12-core Arm SoC and up to 32 GB of soldered-on RAM.\nMy Framework 13 has run on x86, RISC-V, and now Arm, making it something of a 'Ship of Theseus'.",
     "Confidence": 0.9772363
-  },
-  {
-    "Title": "Stop Flock",
-    "Url": "https://stopflock.com/",
-    "Timestamp": "2026-04-15T03:02:10",
-    "Domain": "stopflock.com",
-    "Description": "Flock Safety markets its devices as \"AI-powered precision policing technology\" - far beyond basic license plate readers (ALPRs) \n                (Flock Safety).\n                The system uses AI to create a \"Vehicle Fingerprint\" - identifying cars not only by license plate, \n                but also by color, make and model, roof racks, dents/damage, wheel type, and more. Even bumper sticker placement is analyzed.\n                This lets law enforcement search for a \"blue sedan with damage on the left side\" even without a license plate.",
-    "Confidence": 0.6289778
   }
 ]

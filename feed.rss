@@ -260,19 +260,5 @@ My Framework 13 has run on x86, RISC-V, and now Arm, making it something of a 'S
       <guid>https://www.jeffgeerling.com/blog/2026/arm-mainboard-for-framework-laptop/</guid>
       <pubDate>Wed, 15 Apr 2026 15:01:41 GMT</pubDate>
     </item>
-    <item>
-      <title>Stop Flock</title>
-      <link>https://stopflock.com/</link>
-      <description>Flock Safety markets its devices as "AI-powered precision policing technology" - far beyond basic license plate readers (ALPRs) 
-                (Flock Safety).
-                The system uses AI to create a "Vehicle Fingerprint" - identifying cars not only by license plate, 
-                but also by color, make and model, roof racks, dents/damage, wheel type, and more. Even bumper sticker placement is analyzed.
-                This lets law enforcement search for a "blue sedan with damage on the left side" even without a license plate.</description>
-      <category>ai</category>
-      <category>sql</category>
-      <category>encryption</category>
-      <guid>https://stopflock.com/</guid>
-      <pubDate>Wed, 15 Apr 2026 03:02:10 GMT</pubDate>
-    </item>
   </channel>
 </rss>
