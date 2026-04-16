@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Visualizing Claude Code MCP Requests with Coding Agent Explorer</title>
+      <link>https://nestenius.se/ai/visualizing-claude-code-mcp-requests-with-coding-agent-explorer/</link>
+      <description>See exactly how Claude Code communicates with MCP servers. Use the MCP Observer to monitor requests, debug tool usage, and gain full visibility into coding agent behavior.</description>
+      <category>cloud</category>
+      <category>ai</category>
+      <category>aspnet</category>
+      <category>javascript</category>
+      <category>encryption</category>
+      <guid>https://nestenius.se/ai/visualizing-claude-code-mcp-requests-with-coding-agent-explorer/</guid>
+      <pubDate>Thu, 16 Apr 2026 12:02:15 GMT</pubDate>
+    </item>
+    <item>
       <title>Darkbloom — Private AI Inference on Apple Silicon</title>
       <link>https://darkbloom.dev/</link>
       <description>Decentralized inference on hardware-verified Apple Silicon. End-to-end encrypted. The node operator never sees your data. OpenAI-compatible — change one line.</description>

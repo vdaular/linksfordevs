@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Visualizing Claude Code MCP Requests with Coding Agent Explorer",
+    "Url": "https://nestenius.se/ai/visualizing-claude-code-mcp-requests-with-coding-agent-explorer/",
+    "Timestamp": "2026-04-16T12:02:15",
+    "Domain": "nestenius.se",
+    "Description": "See exactly how Claude Code communicates with MCP servers. Use the MCP Observer to monitor requests, debug tool usage, and gain full visibility into coding agent behavior."
+  },
+  {
     "Title": "Darkbloom — Private AI Inference on Apple Silicon",
     "Url": "https://darkbloom.dev/",
     "Timestamp": "2026-04-16T11:02:04",
