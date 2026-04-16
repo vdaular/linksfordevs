@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Codex for (almost) everything</title>
+      <link>https://openai.com/index/codex-for-almost-everything/</link>
+      <description>The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.</description>
+      <category>ai</category>
+      <guid>https://openai.com/index/codex-for-almost-everything/</guid>
+      <pubDate>Thu, 16 Apr 2026 19:02:09 GMT</pubDate>
+    </item>
+    <item>
       <title>Thunderbolt — AI You Control</title>
       <link>https://www.thunderbolt.io/</link>
       <description>The Open-Source, Cross-Platform, Extensible AI Client</description>
@@ -345,13 +353,6 @@ I got mine done. Twice, actually: once with Claude, once with TurboTax, then rec
       <category>ai</category>
       <guid>https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats</guid>
       <pubDate>Wed, 15 Apr 2026 20:02:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Broke Its Promise to Me. Now ICE Has My Data.</title>
-      <link>https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data</link>
-      <description>In 2025, Google gave Amandla Thomas-Johnson's data to ICE without giving him the chance to challenge the subpoena, breaking a nearly decade-long promise to notify users before handing their data to law enforcement.</description>
-      <guid>https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data</guid>
-      <pubDate>Wed, 15 Apr 2026 19:02:24 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Codex for (almost) everything",
+    "Url": "https://openai.com/index/codex-for-almost-everything/",
+    "Timestamp": "2026-04-16T19:02:09",
+    "Domain": "openai.com",
+    "Description": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
+    "Confidence": 0.9726624
+  },
+  {
     "Title": "Thunderbolt — AI You Control",
     "Url": "https://www.thunderbolt.io/",
     "Timestamp": "2026-04-16T18:02:35",
@@ -278,13 +286,5 @@
     "Domain": "www.strix.ai",
     "Description": "AI has changed vulnerability discovery, but closing source code does not remove the attack surface. Continuous AI defense is the better response.",
     "Confidence": 0.9912472
-  },
-  {
-    "Title": "Google Broke Its Promise to Me. Now ICE Has My Data.",
-    "Url": "https://www.eff.org/deeplinks/2026/04/google-broke-its-promise-me-now-ice-has-my-data",
-    "Timestamp": "2026-04-15T19:02:24",
-    "Domain": "www.eff.org",
-    "Description": "In 2025, Google gave Amandla Thomas-Johnson's data to ICE without giving him the chance to challenge the subpoena, breaking a nearly decade-long promise to notify users before handing their data to law enforcement.",
-    "Confidence": 0.636442
   }
 ]
