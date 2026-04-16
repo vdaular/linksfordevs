@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Friends Don't Let Friends Use Ollama | Sleeping Robots</title>
+      <link>https://sleepingrobots.com/dreams/stop-using-ollama/</link>
+      <description>Ollama gained traction by being the first easy llama.cpp wrapper, then spent years dodging attribution, misleading users, and pivoting to cloud, all while riding VC money earned on someone else's engine. Here's the full history, and why the alternatives are better.</description>
+      <author> (Zetaphor)</author>
+      <category>cloud</category>
+      <category>containers</category>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://sleepingrobots.com/dreams/stop-using-ollama/</guid>
+      <pubDate>Thu, 16 Apr 2026 08:02:03 GMT</pubDate>
+    </item>
+    <item>
       <title>Burgers | マクドナルド公式</title>
       <link>https://www.mcdonalds.co.jp/en/menu/burger/</link>
       <description>Check out McDonald's new, limited and regular burger menus for breakfast, regular and dinner time.  Order and pay in advance on your smartphone without waiting at the cashier and just pick up at store nearby. </description>
