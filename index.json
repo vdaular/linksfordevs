@@ -262,13 +262,5 @@
     "Domain": "luke.vuksta.com",
     "Description": "I recently wrote a program, mesh2frep, that is, honestly, a bit unhinged at best. Let me tell you about it!",
     "Confidence": 0.9937551
-  },
-  {
-    "Title": "Make It Myself",
-    "Url": "https://xkcd.com/3233/",
-    "Timestamp": "2026-04-15T22:02:04",
-    "Domain": "xkcd.com",
-    "Description": "",
-    "Confidence": 0.98151064
   }
 ]
