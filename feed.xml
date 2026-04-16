@@ -346,13 +346,5 @@ I got mine done. Twice, actually: once with Claude, once with TurboTax, then rec
       <guid>https://devblogs.microsoft.com/oldnewthing/20260413-00/?p=112227</guid>
       <pubDate>Wed, 15 Apr 2026 21:02:05 GMT</pubDate>
     </item>
-    <item>
-      <title>Open Source Isn't Dead. | Strix</title>
-      <link>https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats</link>
-      <description>AI has changed vulnerability discovery, but closing source code does not remove the attack surface. Continuous AI defense is the better response.</description>
-      <category>ai</category>
-      <guid>https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats</guid>
-      <pubDate>Wed, 15 Apr 2026 20:02:08 GMT</pubDate>
-    </item>
   </channel>
 </rss>

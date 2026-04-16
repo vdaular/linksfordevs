@@ -278,13 +278,5 @@
     "Domain": "devblogs.microsoft.com",
     "Description": "Taking advantage of special characteristics of the array.",
     "Confidence": 0.980228
-  },
-  {
-    "Title": "Open Source Isn't Dead. | Strix",
-    "Url": "https://www.strix.ai/blog/cal-com-is-closing-its-code-due-to-ai-threats",
-    "Timestamp": "2026-04-15T20:02:08",
-    "Domain": "www.strix.ai",
-    "Description": "AI has changed vulnerability discovery, but closing source code does not remove the attack surface. Continuous AI defense is the better response.",
-    "Confidence": 0.9912472
   }
 ]
