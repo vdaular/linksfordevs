@@ -1,5 +1,29 @@
 [
   {
+    "Title": "Qwen Studio",
+    "Url": "https://qwen.ai/blog?id=qwen3.6-35b-a3b",
+    "Timestamp": "2026-04-16T15:02:22",
+    "Domain": "qwen.ai",
+    "Description": "QWEN STUDIO HUGGING FACE MODELSCOPE DISCORD\nFollowing the launch of Qwen3.6-Plus, we are excited to open-source Qwen3.6-35B-A3B — a sparse yet remarkably capable mixture-of-experts (MoE) model with 35 billion total parameters and only 3 billion active parameters. Despite its efficiency, Qwen3.6-35B-A3B delivers outstanding agentic coding performance, surpassing its predecessor Qwen3.5-35B-A3B by a wide margin and rivaling much larger dense models such as Qwen3.5-27B and Gemma4-31B. Still supporting both multimodal thinking and non-thinking modes, Qwen3.",
+    "Confidence": 0.99487185
+  },
+  {
+    "Title": "The API Tooling Crisis: Why developers are abandoning Postman and its clones?",
+    "Url": "https://efp.asia/blog/2025/12/24/api-tooling-crisis/",
+    "Timestamp": "2026-04-16T15:02:17",
+    "Domain": "efp.asia",
+    "Description": "I’ve been a Postman user for my entire developer career. I remember when it was just a simple Chrome extension that made pentesting APIs slightly less painful. Those were simpler times. Today, I find myself joining the growing exodus of developers abandoning these tools because they sell out.",
+    "Confidence": 0.9597723
+  },
+  {
+    "Title": "Unexpected €54k billing spike in 13 hours: Firebase browser key without API restrictions used for Gemini requests - Gemini API - Google AI Developers Forum",
+    "Url": "https://discuss.ai.google.dev/t/unexpected-54k-billing-spike-in-13-hours-firebase-browser-key-without-api-restrictions-used-for-gemini-requests/140262",
+    "Timestamp": "2026-04-16T15:02:14",
+    "Domain": "discuss.ai.google.dev",
+    "Description": "Hello,  We are looking for guidance regarding an unexpected €54,000+ Gemini API charge that occurred within a few hours after enabling Firebase AI Logic on an existing Firebase project.  Background:  We created the project over a year ago and initially used it only for Firebase Authentication. Recently, we added a simple AI feature (generating a web snippet from a text prompt) and enabled Firebase AI Logic.  What happened:  Shortly after enabling this, we experienced a sudden and extreme spike i...",
+    "Confidence": 0.89687437
+  },
+  {
     "Title": "Wargames Movie Magic: Where it Cheats - IMSAI & WOPR!",
     "Url": "https://youtube.com/watch?v=y7thb-SC09g",
     "Timestamp": "2026-04-16T14:02:09",
@@ -254,13 +278,5 @@
     "Domain": "prog21.dadgum.com",
     "Description": "Imagine you don't know anything about programming, and you want learn how to do it.  You take a look at Amazon.com, and there's a highly recommended set of books by Knute or something with a promising title, The Art of Computer Programming, so you buy them.  Now imagine that it's more than just a poor choice, but that all the books on programming are at written at that level.",
     "Confidence": 0.9897905
-  },
-  {
-    "Title": "An Arm Mainboard for the Framework Laptop",
-    "Url": "https://www.jeffgeerling.com/blog/2026/arm-mainboard-for-framework-laptop/",
-    "Timestamp": "2026-04-15T15:01:41",
-    "Domain": "www.jeffgeerling.com",
-    "Description": "Using the repair-friendly Framework 13 laptop chassis, I've tested the low-end x86 option (a Ryzen AI 5 340 Mainboard), the fastest RISC-V option (DC-ROMA II), and today I'm publishing results from the only Arm Mainboard, the MetaComputing AI PC, which has a 12-core Arm SoC and up to 32 GB of soldered-on RAM.\nMy Framework 13 has run on x86, RISC-V, and now Arm, making it something of a 'Ship of Theseus'.",
-    "Confidence": 0.9772363
   }
 ]
