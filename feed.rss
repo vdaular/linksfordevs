@@ -7,6 +7,25 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Thunderbolt — AI You Control</title>
+      <link>https://www.thunderbolt.io/</link>
+      <description>The Open-Source, Cross-Platform, Extensible AI Client</description>
+      <category>apple</category>
+      <category>ai</category>
+      <category>linux</category>
+      <guid>https://www.thunderbolt.io/</guid>
+      <pubDate>Thu, 16 Apr 2026 18:02:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Future of Everything is Lies, I Guess: Where Do We Go From Here?</title>
+      <link>https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here</link>
+      <description>This is a long article, so I've broken it up into a series of posts, listed below. You can also read the full work as a PDF or EPUB.</description>
+      <category>apple</category>
+      <category>ai</category>
+      <guid>https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here</guid>
+      <pubDate>Thu, 16 Apr 2026 18:02:31 GMT</pubDate>
+    </item>
+    <item>
       <title>Email for agents - Cloudflare Email Service now in public beta</title>
       <link>https://blog.cloudflare.com/email-for-agents/</link>
       <description>Agents are becoming multi-channel. That means making them available wherever your users already are — including the inbox. Today, Cloudflare Email Service enters public beta with the infrastructure layer to make that easy: send, receive, and process email natively from your agents.
