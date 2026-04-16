@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Email for agents - Cloudflare Email Service now in public beta",
+    "Url": "https://blog.cloudflare.com/email-for-agents/",
+    "Timestamp": "2026-04-16T17:02:12",
+    "Domain": "blog.cloudflare.com",
+    "Description": "Agents are becoming multi-channel. That means making them available wherever your users already are — including the inbox. Today, Cloudflare Email Service enters public beta with the infrastructure layer to make that easy: send, receive, and process email natively from your agents.\n"
+  },
+  {
     "Title": "Introducing Claude Opus 4.7",
     "Url": "https://www.anthropic.com/news/claude-opus-4-7",
     "Timestamp": "2026-04-16T16:02:34",

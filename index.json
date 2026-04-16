@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Email for agents - Cloudflare Email Service now in public beta",
+    "Url": "https://blog.cloudflare.com/email-for-agents/",
+    "Timestamp": "2026-04-16T17:02:12",
+    "Domain": "blog.cloudflare.com",
+    "Description": "Agents are becoming multi-channel. That means making them available wherever your users already are — including the inbox. Today, Cloudflare Email Service enters public beta with the infrastructure layer to make that easy: send, receive, and process email natively from your agents.\n",
+    "Confidence": 0.9948008
+  },
+  {
     "Title": "Introducing Claude Opus 4.7",
     "Url": "https://www.anthropic.com/news/claude-opus-4-7",
     "Timestamp": "2026-04-16T16:02:34",
@@ -262,21 +270,5 @@
     "Domain": "www.eff.org",
     "Description": "In 2025, Google gave Amandla Thomas-Johnson's data to ICE without giving him the chance to challenge the subpoena, breaking a nearly decade-long promise to notify users before handing their data to law enforcement.",
     "Confidence": 0.636442
-  },
-  {
-    "Title": "Your Backpack Got Worse On Purpose",
-    "Url": "https://www.worseonpurpose.com/p/your-backpack-got-worse-on-purpose",
-    "Timestamp": "2026-04-15T17:02:13",
-    "Domain": "www.worseonpurpose.com",
-    "Description": "In 1986, a corporation that made women's lingerie bought every backpack brand you've ever trusted.",
-    "Confidence": 0.8170611
-  },
-  {
-    "Title": "God sleeps in the minerals",
-    "Url": "https://wchambliss.wordpress.com/2026/03/03/god-sleeps-in-the-minerals/",
-    "Timestamp": "2026-04-15T17:02:08",
-    "Domain": "wchambliss.wordpress.com",
-    "Description": "I took this snapshot, and the rest of them, at the Natural History Museum of Los Angeles County’s Unearthed: Raw Beauty exhibition yesterday. Enjoy.",
-    "Confidence": 0.94334733
   }
 ]
