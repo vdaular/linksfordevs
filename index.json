@@ -198,13 +198,5 @@
     "Domain": "darkounity.com",
     "Description": "I spent 3 years building Unity games by copying tutorials and stitching forum scripts together. Then an interviewer asked me what Queue<T> was. I could not a...",
     "Confidence": 0.98640203
-  },
-  {
-    "Title": "Codex for (almost) everything",
-    "Url": "https://openai.com/index/codex-for-almost-everything/",
-    "Timestamp": "2026-04-16T19:02:09",
-    "Domain": "openai.com",
-    "Description": "The updated Codex app for macOS and Windows adds computer use, in-app browsing, image generation, memory, and plugins to accelerate developer workflows.",
-    "Confidence": 0.9726624
   }
 ]
