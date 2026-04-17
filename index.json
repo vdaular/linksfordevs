@@ -230,13 +230,5 @@
     "Domain": "blog.cloudflare.com",
     "Description": "Agents are becoming multi-channel. That means making them available wherever your users already are — including the inbox. Today, Cloudflare Email Service enters public beta with the infrastructure layer to make that easy: send, receive, and process email natively from your agents.\n",
     "Confidence": 0.9948008
-  },
-  {
-    "Title": "Introducing Claude Opus 4.7",
-    "Url": "https://www.anthropic.com/news/claude-opus-4-7",
-    "Timestamp": "2026-04-16T16:02:34",
-    "Domain": "www.anthropic.com",
-    "Description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-    "Confidence": 0.9766385
   }
 ]
