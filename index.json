@@ -262,13 +262,5 @@
     "Domain": "discuss.ai.google.dev",
     "Description": "Hello,  We are looking for guidance regarding an unexpected €54,000+ Gemini API charge that occurred within a few hours after enabling Firebase AI Logic on an existing Firebase project.  Background:  We created the project over a year ago and initially used it only for Firebase Authentication. Recently, we added a simple AI feature (generating a web snippet from a text prompt) and enabled Firebase AI Logic.  What happened:  Shortly after enabling this, we experienced a sudden and extreme spike i...",
     "Confidence": 0.89687437
-  },
-  {
-    "Title": "Wargames Movie Magic: Where it Cheats - IMSAI & WOPR!",
-    "Url": "https://youtube.com/watch?v=y7thb-SC09g",
-    "Timestamp": "2026-04-16T14:02:09",
-    "Domain": "youtube.com",
-    "Description": "Dave takes you through the computers behind the scenes in the movie WarGames!  Comments with question marks get answered on our weekly ShopTalk!:\nhttps://youtu.be/iT0T52OV9B8",
-    "Confidence": 0.86154383
   }
 ]
