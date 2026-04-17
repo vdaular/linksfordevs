@@ -278,13 +278,5 @@
     "Domain": "sleepingrobots.com",
     "Description": "Ollama gained traction by being the first easy llama.cpp wrapper, then spent years dodging attribution, misleading users, and pivoting to cloud, all while riding VC money earned on someone else's engine. Here's the full history, and why the alternatives are better.",
     "Confidence": 0.9501626
-  },
-  {
-    "Title": "Burgers | マクドナルド公式",
-    "Url": "https://www.mcdonalds.co.jp/en/menu/burger/",
-    "Timestamp": "2026-04-16T04:02:10",
-    "Domain": "www.mcdonalds.co.jp",
-    "Description": "Check out McDonald's new, limited and regular burger menus for breakfast, regular and dinner time.  Order and pay in advance on your smartphone without waiting at the cashier and just pick up at store nearby. ",
-    "Confidence": 0.7267754
   }
 ]
