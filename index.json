@@ -222,13 +222,5 @@
     "Domain": "aphyr.com",
     "Description": "This is a long article, so I've broken it up into a series of posts, listed below. You can also read the full work as a PDF or EPUB.",
     "Confidence": 0.7657575
-  },
-  {
-    "Title": "Email for agents - Cloudflare Email Service now in public beta",
-    "Url": "https://blog.cloudflare.com/email-for-agents/",
-    "Timestamp": "2026-04-16T17:02:12",
-    "Domain": "blog.cloudflare.com",
-    "Description": "Agents are becoming multi-channel. That means making them available wherever your users already are — including the inbox. Today, Cloudflare Email Service enters public beta with the infrastructure layer to make that easy: send, receive, and process email natively from your agents.\n",
-    "Confidence": 0.9948008
   }
 ]

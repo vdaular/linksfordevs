@@ -290,18 +290,5 @@ He'd found them on Alibaba for $1.20</description>
       <guid>https://aphyr.com/posts/420-the-future-of-everything-is-lies-i-guess-where-do-we-go-from-here</guid>
       <pubDate>Thu, 16 Apr 2026 18:02:31 GMT</pubDate>
     </item>
-    <item>
-      <title>Email for agents - Cloudflare Email Service now in public beta</title>
-      <link>https://blog.cloudflare.com/email-for-agents/</link>
-      <description>Agents are becoming multi-channel. That means making them available wherever your users already are — including the inbox. Today, Cloudflare Email Service enters public beta with the infrastructure layer to make that easy: send, receive, and process email natively from your agents.
-</description>
-      <author> (https://www.facebook.com/https://www.linkedin.com/in/thomas-gauvin/)</author>
-      <category>ai</category>
-      <category>typescript</category>
-      <category>python</category>
-      <category>javascript</category>
-      <guid>https://blog.cloudflare.com/email-for-agents/</guid>
-      <pubDate>Thu, 16 Apr 2026 17:02:12 GMT</pubDate>
-    </item>
   </channel>
 </rss>
