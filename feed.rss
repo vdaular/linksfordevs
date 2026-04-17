@@ -344,17 +344,5 @@ https://youtu.be/iT0T52OV9B8</description>
       <guid>https://nestenius.se/ai/visualizing-claude-code-mcp-requests-with-coding-agent-explorer/</guid>
       <pubDate>Thu, 16 Apr 2026 12:02:15 GMT</pubDate>
     </item>
-    <item>
-      <title>Darkbloom — Private AI Inference on Apple Silicon</title>
-      <link>https://darkbloom.dev/</link>
-      <description>Decentralized inference on hardware-verified Apple Silicon. End-to-end encrypted. The node operator never sees your data. OpenAI-compatible — change one line.</description>
-      <category>apple</category>
-      <category>encryption</category>
-      <category>ai</category>
-      <category>nodejs</category>
-      <category>cloud</category>
-      <guid>https://darkbloom.dev/</guid>
-      <pubDate>Thu, 16 Apr 2026 11:02:04 GMT</pubDate>
-    </item>
   </channel>
 </rss>
