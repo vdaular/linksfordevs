@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
+    "Url": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/",
+    "Timestamp": "2026-04-17T00:02:05",
+    "Domain": "simonwillison.net",
+    "Description": "For anyone who has been (inadvisably) taking my pelican riding a bicycle benchmark seriously as a robust way to test models, here are pelicans from this morning’s two big model …",
+    "Confidence": 0.8668927
+  },
+  {
     "Title": "LLMs & Agents: How do they Work?",
     "Url": "https://mattrogish.com/blog/2026/03/20/llms-agents-how-do-they-work/",
     "Timestamp": "2026-04-16T23:03:50",
@@ -278,165 +286,5 @@
     "Domain": "www.mcdonalds.co.jp",
     "Description": "Check out McDonald's new, limited and regular burger menus for breakfast, regular and dinner time.  Order and pay in advance on your smartphone without waiting at the cashier and just pick up at store nearby. ",
     "Confidence": 0.7267754
-  },
-  {
-    "Title": "Rome Is Burning",
-    "Url": "https://www.drjoshcsimmons.com/blog/2026-04-10-rome-is-burning",
-    "Timestamp": "2026-04-16T00:03:48",
-    "Domain": "www.drjoshcsimmons.com",
-    "Description": "Three fires in one week. A Molotov cocktail at Sam Altman's mansion, an arson at a toilet paper factory, a mall ablaze. The common thread is not crime. It's what happens when you replace human judgment with spreadsheets.",
-    "Confidence": 0.9675456
-  },
-  {
-    "Title": "Startups are context arbitrages",
-    "Url": "https://www.alessiofanelli.com/posts/startups-are-context-arbitrages",
-    "Timestamp": "2026-04-16T00:03:44",
-    "Domain": "www.alessiofanelli.com",
-    "Description": "If all code will be written by LLMs, build vs buy will simply be a context arbitrage between startups and their customers.",
-    "Confidence": 0.9928699
-  },
-  {
-    "Title": "Designing Binary Encodings for JSON and VARIANT",
-    "Url": "https://jincongho.com/posts/designing-binary-encodings-for-json-and-variant/",
-    "Timestamp": "2026-04-16T00:03:41",
-    "Domain": "jincongho.com",
-    "Description": "In this post, we’ll dig into the internal designs of binary encoding for JSON. There’s been little discussion of the trade-offs these encodings make. We’ll see how even a straightforward binary encoding can materially improve retrieval performance.",
-    "Confidence": 0.9856087
-  },
-  {
-    "Title": "I Suddenly Lost My Enthusiasm for Interneting",
-    "Url": "https://durmonski.com/private/lost-enthusiasm-for-interneting/",
-    "Timestamp": "2026-04-16T00:03:37",
-    "Domain": "durmonski.com",
-    "Description": "Why the internet feels like total garbage. Why the literacy level of the content available online looks, to me, like it decreases exponentially.",
-    "Confidence": 0.9611445
-  },
-  {
-    "Title": "I Did My Taxes with Claude. Here's What Happened.",
-    "Url": "https://doempke.com/taxes-with-claude/",
-    "Timestamp": "2026-04-16T00:03:33",
-    "Domain": "doempke.com",
-    "Description": "It’s tax day — so, shoutout to my tax friends. I hope you get some sleep tonight.\n\nI got mine done. Twice, actually: once with Claude, once with TurboTax, then reconciled the two side-by-side to the dollar. I was curious how AI would handle a workflow we all know — and",
-    "Confidence": 0.8376984
-  },
-  {
-    "Title": "The Permission System",
-    "Url": "https://www.nurbaysal.com/the-permission-system/",
-    "Timestamp": "2026-04-16T00:03:30",
-    "Domain": "www.nurbaysal.com",
-    "Description": "It is April in Cyprus and the windows are open. I have been sitting with a coffee that went cold twenty minutes ago, thinking about a conversation I had in January last year, on a video call from the desk in my home office in Düsseldorf, with a manager who",
-    "Confidence": 0.9106472
-  },
-  {
-    "Title": "Writing an LLM from scratch, part 32k -- Interventions: training a better model locally with gradient accumulation",
-    "Url": "https://www.gilesthomas.com/2026/04/llm-from-scratch-32k-interventions-training-our-best-model-locally-gradient-accumulation",
-    "Timestamp": "2026-04-16T00:03:26",
-    "Domain": "www.gilesthomas.com",
-    "Description": "Having worked out which combination of interventions into my model and training run improved loss the most, it was time to see how well that worked with a local run, which meant I had to learn about gradient accumulation",
-    "Confidence": 0.9911029
-  },
-  {
-    "Title": "Introduction",
-    "Url": "https://cmu-l3.github.io/gym-anything/docs/",
-    "Timestamp": "2026-04-16T00:03:18",
-    "Domain": "cmu-l3.github.io",
-    "Description": "Gym Anything is a framework for building and running computer-use environments.",
-    "Confidence": 0.990393
-  },
-  {
-    "Title": "One Layer, +12%: What 667 Configs Reveal About Small LLM Anatomy - Austin's Nerdy Things",
-    "Url": "https://austinsnerdythings.com/2026/04/14/rys-layer-duplication-qwen3-4b/",
-    "Timestamp": "2026-04-16T00:03:14",
-    "Domain": "austinsnerdythings.com",
-    "Description": "I’ve been messing around with local LLMs on my 3090 for a while now — I have a growing collection of Qwen models on D:LLM that I probably should be embarrassed about. A few weeks ago I stumbled across David Noel Ng’s LLM Neuroanatomy blog posts, where he showed that you can take a pretrained […]",
-    "Confidence": 0.9869198
-  },
-  {
-    "Title": "Daniel's Blog · Rules, Not Weights",
-    "Url": "https://danieltan.weblog.lol/2026/04/rules-not-weights",
-    "Timestamp": "2026-04-16T00:03:10",
-    "Domain": "danieltan.weblog.lol",
-    "Description": "Mainstream ML fixes the scoring rule and trains the weights. We're exploring the opposite — searching the rule.",
-    "Confidence": 0.9522029
-  },
-  {
-    "Title": "We Are in This Together",
-    "Url": "https://elijahpotter.dev/articles/we-are-in-this-together",
-    "Timestamp": "2026-04-16T00:03:06",
-    "Domain": "elijahpotter.dev",
-    "Description": "Harper's mission is to encourage and assist people with communicating their complex ideas and emotions.",
-    "Confidence": 0.97451943
-  },
-  {
-    "Title": "Fun with EML (Exp-Minus-Log)",
-    "Url": "https://mobiarch.wordpress.com/2026/04/15/fun-with-eml-exp-minus-log/",
-    "Timestamp": "2026-04-16T00:03:01",
-    "Domain": "mobiarch.wordpress.com",
-    "Description": "A paper is proposing that most elementary functions such as sin, cos, 1/x can be expressed as a combination of the following function and the constant 1. eml(x,y)=exp(x)−ln(y)eml(x,y) = exp(x) &#82…",
-    "Confidence": 0.98231435
-  },
-  {
-    "Title": "My 14-Year Journey Away from ORMs - How I Built pGenie, the SQL-First Postgres Code Generator",
-    "Url": "https://nikita-volkov.github.io/pgenie-in-production-part-1/",
-    "Timestamp": "2026-04-16T00:02:57",
-    "Domain": "nikita-volkov.github.io",
-    "Description": "Hi, I’m Nikita Volkov - architect, consultant, and the author of hasql, one of the two main PostgreSQL drivers in Haskell used in major production projects like PostgREST and IHP. After 25 years in IT and more late-night schema-drift fires than I care to count, I open-sourced something I wish had existed a decade ago: pGenie.\n\n",
-    "Confidence": 0.9919281
-  },
-  {
-    "Title": "The Great Software Meltdown",
-    "Url": "https://www.danmartell.com/the-great-software-meltdown/",
-    "Timestamp": "2026-04-16T00:02:53",
-    "Domain": "www.danmartell.com",
-    "Description": "Naval called it. Software was eaten by AI.— Naval (@naval) March 14, 2026 And the market already agreed. Atlassian down 75%. HubSpot down 69%. Figma",
-    "Confidence": 0.93382627
-  },
-  {
-    "Title": "I don't care that it's X times faster",
-    "Url": "https://tinkering.xyz/faster/",
-    "Timestamp": "2026-04-16T00:02:49",
-    "Domain": "tinkering.xyz",
-    "Description": "Many new project announcements these days come with a tagline of 'X times faster than ...' and I need to rant about it.",
-    "Confidence": 0.9286027
-  },
-  {
-    "Title": "Things you didn't know about indexes",
-    "Url": "https://jon.chrt.dev/2026/04/15/things-you-didnt-know-about-indexes.html",
-    "Timestamp": "2026-04-16T00:02:45",
-    "Domain": "jon.chrt.dev",
-    "Description": "Let’s start with things you probably did know.",
-    "Confidence": 0.9877337
-  },
-  {
-    "Title": "🚂 Temporal — Under the Hood",
-    "Url": "https://backend.how/posts/temporal-under-the-hood/",
-    "Timestamp": "2026-04-16T00:02:42",
-    "Domain": "backend.how",
-    "Description": "What actually happens when you start a Temporal workflow? We trace every SQL statement, count the event-history nodes, and then watch Absurd — a 5-table, single-SQL-file system — do the same job with one-fifth the queries and twenty-times the throughput.",
-    "Confidence": 0.98643965
-  },
-  {
-    "Title": "I Connected a Desktop Phone to a FreeBSD Server, so Now I Can Call It",
-    "Url": "https://interfacecraft.online/blog/2026/desktop-phone-connected-to-freebsd-server/",
-    "Timestamp": "2026-04-16T00:02:38",
-    "Domain": "interfacecraft.online",
-    "Description": "I turned a Panasonic KX-T2315 desk phone into a physical menu for my FreeBSD server. When I pick up the handset, the phone adapter calls Asterisk, waits for one digit, and triggers a predefined script on the FreeBSD server. This post covers the phone restoration, HT801 setup, Asterisk configuration, Lua dialplan, Python AGI dispatcher, and the full config download.",
-    "Confidence": 0.9924132
-  },
-  {
-    "Title": "How Wispr Flow Ate My Spacebar: A Forensic Investigation Into Silent Keyboard Interception",
-    "Url": "https://wensenwu.com/thoughts/wispr-flow-investigation",
-    "Timestamp": "2026-04-16T00:02:34",
-    "Domain": "wensenwu.com",
-    "Description": "A deep forensic investigation into how Wispr Flow silently intercepts every keystroke via CGEventTap, suppressed 145 spacebar presses, tracks every app and URL, and uploads data even with sharing disabled.",
-    "Confidence": 0.98031133
-  },
-  {
-    "Title": "Turning Meshes into Horrifying Piecewise Functions",
-    "Url": "https://luke.vuksta.com/blog/turning-surface-meshes-into-horrifying-functions/",
-    "Timestamp": "2026-04-16T00:02:31",
-    "Domain": "luke.vuksta.com",
-    "Description": "I recently wrote a program, mesh2frep, that is, honestly, a bit unhinged at best. Let me tell you about it!",
-    "Confidence": 0.9937551
   }
 ]
