@@ -14,13 +14,5 @@
     "Domain": "www.joanwestenberg.com",
     "Description": "I had coffee last year with a guy - I won't use his real name - who told me he was \"building a business.\" I asked what it did. Dropshipping jade face rollers.\n\nI made him say it twice.\n\nJade face rollers.\n\nHe'd found them on Alibaba for $1.20",
     "Confidence": 0.87066615
-  },
-  {
-    "Title": "Qwen3.6-35B-A3B on my laptop drew me a better pelican than Claude Opus 4.7",
-    "Url": "https://simonwillison.net/2026/Apr/16/qwen-beats-opus/",
-    "Timestamp": "2026-04-17T00:02:05",
-    "Domain": "simonwillison.net",
-    "Description": "For anyone who has been (inadvisably) taking my pelican riding a bicycle benchmark seriously as a robust way to test models, here are pelicans from this morning’s two big model …",
-    "Confidence": 0.8668927
   }
 ]
