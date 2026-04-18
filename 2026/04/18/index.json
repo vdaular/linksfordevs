@@ -1,1 +1,135 @@
-[]
+[
+  {
+    "Title": "Running Your Own AS: Direct Hetzner Peering, a Fourth Edge, and Bringing the Home LAN into the Fabric",
+    "Url": "https://blog.hofstede.it/running-your-own-as-direct-hetzner-peering-a-fourth-edge-and-bringing-the-home-lan-into-the-fabric/",
+    "Timestamp": "2026-04-18T18:53:15",
+    "Domain": "blog.hofstede.it",
+    "Description": "Part 4 of the AS201379 journey: adding a fourth FreeBSD edge router at iFog with FogIXP peering, establishing direct BGP sessions with Hetzner, bringing the home network into the AS via an iBGP-spe..."
+  },
+  {
+    "Title": "Caching Strategies from Scratch · Vaibhav Acharya, engineer.",
+    "Url": "https://vaibhavacharya.github.io/writings/caching-strategies-from-scratch/",
+    "Timestamp": "2026-04-18T18:53:10",
+    "Domain": "vaibhavacharya.github.io",
+    "Description": "LRU, LFU, TTL, write-through, write-back, and cache stampedes explained with interactive demos"
+  },
+  {
+    "Title": "HTTP desync in Discord's media proxy: Spying on a whole platform",
+    "Url": "https://tmctmt.com/posts/http-desync-in-discord/",
+    "Timestamp": "2026-04-18T18:53:07",
+    "Domain": "tmctmt.com",
+    "Description": "In 2022, I came across a quirky behavior on media.discordapp.net when I miskeyed a space character into an attachment link: a 502 bad gateway.\nAfter some fiddling I realized that this was caused by a HTTP injection bug within the media proxy’s request to the upstream GCP bucket. The space character corrupted the proxied HTTP message, which caused the connection to prematurely terminate.\nFor example, a crafted user request to the media proxy would look like this:"
+  },
+  {
+    "Title": "Teaching a Model to Code | Rig",
+    "Url": "https://rig.ai/blog/teaching-a-model-to-code",
+    "Timestamp": "2026-04-18T18:53:04",
+    "Domain": "rig.ai",
+    "Description": "Part 1 of our How We Built Rig series - building a data pipeline to teach a model to act like a real developer."
+  },
+  {
+    "Title": "Closed Source is a Business Decision, not Security. | Thoughts by Javier",
+    "Url": "https://javiergonzalez.io/blog/closed-source-as-a-security-model/",
+    "Timestamp": "2026-04-18T18:53:01",
+    "Domain": "javiergonzalez.io",
+    "Description": "Cal.com claims that moving to closed source is a security decision. It is not."
+  },
+  {
+    "Title": "Fonts I Love",
+    "Url": "https://rgo.pt/posts/fonts-i-use",
+    "Timestamp": "2026-04-18T18:52:57",
+    "Domain": "rgo.pt",
+    "Description": "My go-to font stack for everything I do, from my website to my projects."
+  },
+  {
+    "Title": "Against big tech credentialism - alex wennerberg",
+    "Url": "https://alexwennerberg.com/blog/2026-04-16-credentials.html",
+    "Timestamp": "2026-04-18T18:52:54",
+    "Domain": "alexwennerberg.com",
+    "Description": "Ryan Peterman is a YouTube interviewer who speaks with senior employees at big tech companies. On the one hand, it is incredible how accessible high-income professionals at highly competitive organizations are, and how open they are willing to speak about their work. But there is some danger in presuming that there is wisdom to be gleaned from them."
+  },
+  {
+    "Title": "Many anti-AI arguments are conservative arguments",
+    "Url": "https://www.seangoedecke.com/many-anti-ai-arguments-are-conservative/",
+    "Timestamp": "2026-04-18T18:52:51",
+    "Domain": "www.seangoedecke.com",
+    "Description": "Most anti-AI rhetoric is left-wing coded. Popular criticisms of AI describe it as a tool of techno-fascism, or appeal to predominantly left-wing concerns like carbon emissions, democracy, or police brutality. Anti-AI sentiment is surprisingly bipartisan, but the big anti-AI institutions are labor unions and the progressive wing of the Democrats."
+  },
+  {
+    "Title": "We Are All Playing Politics at Work",
+    "Url": "https://idiallo.com/blog/we-are-playing-politics?src=feed",
+    "Timestamp": "2026-04-18T18:52:48",
+    "Domain": "idiallo.com",
+    "Description": "Politics is any discussion where the truth doesn't steer the course of action.\n\nMost of us like to think we are above it. We believe that in our daily jobs, we are rational actors exchanging facts. We"
+  },
+  {
+    "Title": "The Half of CI We Forgot to Automate",
+    "Url": "https://blog.sebastiansastre.co/posts/the-half-of-ci-we-forgot-to-automate/",
+    "Timestamp": "2026-04-18T18:52:45",
+    "Domain": "blog.sebastiansastre.co",
+    "Description": "Why go/no-go decisions still run on faith in contracts, and the gap between pipelines that prove consistency and pipelines that produce evidence."
+  },
+  {
+    "Title": "Today I shipped 20 apps and a screensaver  ⌘I  Get Info",
+    "Url": "https://blog.gingerbeardman.com/2026/04/17/today-i-shipped-twenty-apps-and-a-screensaver/",
+    "Timestamp": "2026-04-18T18:52:41",
+    "Domain": "blog.gingerbeardman.com",
+    "Description": "Shipping software is hard. My secret to doing it successfully is a combination of careful scoping, with strict avoidance of feature creep. But even then, it’..."
+  },
+  {
+    "Title": "Optionality Curse · KJ",
+    "Url": "https://www.karanjanthe.me/posts/optionality-curse/",
+    "Timestamp": "2026-04-18T18:52:38",
+    "Domain": "www.karanjanthe.me",
+    "Description": "A corner of the internet where I think in public."
+  },
+  {
+    "Title": "I built my dream bug tracking software in a week. / Mark Jardine",
+    "Url": "https://markjardine.com/blog/i-built-my-dream-bug-tracking-software-in-a-week",
+    "Timestamp": "2026-04-18T18:52:35",
+    "Domain": "markjardine.com",
+    "Description": "Mark Jardine is a designer and artist living in Allen, Texas."
+  },
+  {
+    "Title": "Pop!OS Linux: Creating a bootable Backup USB with Encryption",
+    "Url": "https://hajo.me/blog/2026/02/16/popos-linux-creating-bootable-backup-USB-with-encryption/",
+    "Timestamp": "2026-04-18T18:52:31",
+    "Domain": "hajo.me",
+    "Description": "For my Pop!OS Linux workstation, I wanted to have a complete backup on an USB drive.\nOf course, it needs to be encrypted, in case the USB drive gets lots.\nAnd to allow me to quickly resume working in the case of an emergency,\nI wanted the USB backup to be bootable, too.\nHere’s how I set that up:"
+  },
+  {
+    "Title": "Europa Missions",
+    "Url": "https://xkcd.com/3234/",
+    "Timestamp": "2026-04-18T18:52:28",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "The Linux Slayers: Office, Photoshop, and AutoCAD",
+    "Url": "https://hajo.me/blog/2026/04/17/the-linux-slayers-office-photoshop-autocad/",
+    "Timestamp": "2026-04-18T18:52:25",
+    "Domain": "hajo.me",
+    "Description": "After having a great time with Linux as my daily driver for 3 years,\nI was wondering what keeps people stuck on Windows\neven though, by now, there are so many \nvery outspoken critics of Windows 11."
+  },
+  {
+    "Title": "GIS Analytics Cost Comparison",
+    "Url": "https://dekart.xyz/docs/knowledge-base/gis-analytics-cost-comparison/",
+    "Timestamp": "2026-04-18T18:52:21",
+    "Domain": "dekart.xyz",
+    "Description": "Cost comparison: BigQuery, Snowflake, Wherobots, Cloud SQL PostGIS, and Hetzner PostGIS on the same Overture Maps workload."
+  },
+  {
+    "Title": "Using a USB switch as a full KVM",
+    "Url": "https://luke.hsiao.dev/blog/display-switch/",
+    "Timestamp": "2026-04-18T18:52:18",
+    "Domain": "luke.hsiao.dev",
+    "Description": "I finally got a monitor that supports DDC/CI, so now I can easily switch my monitor and full peripheral set with 1 button!"
+  },
+  {
+    "Title": "Composing a Search Engine",
+    "Url": "https://exa.ai/blog/composing-a-search-engine",
+    "Timestamp": "2026-04-18T18:52:10",
+    "Domain": "exa.ai",
+    "Description": "How we built Canon, a search pipeline orchestrator for full control over our search engine as it scales in complexity."
+  }
+]
