@@ -7,6 +7,136 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Sorry, Mary</title>
+      <link>https://mathenchant.wordpress.com/2026/04/18/sorry-mary/</link>
+      <description>[Note to reader: This is a sequel to my widely-circulated 2021 essay “The Great Solar Bleed-Out Scam”; for the sake of readers who have forgotten or never read that earlier essay, I include it here…</description>
+      <guid>https://mathenchant.wordpress.com/2026/04/18/sorry-mary/</guid>
+      <pubDate>Sat, 18 Apr 2026 20:03:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>State of Kdenlive - 2026</title>
+      <link>https://kdenlive.org/news/2026/state-2026/</link>
+      <description>In 2025, the Kdenlive team continued grinding to push the project forward through steady development, collaboration, and community support. Over the past year we’ve found a nice balance between adding new features, bug fixing, polishing the user interface, and improving performance and workflow, with stability taking priority over feature creep.</description>
+      <category>linux</category>
+      <guid>https://kdenlive.org/news/2026/state-2026/</guid>
+      <pubDate>Sat, 18 Apr 2026 20:03:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Listener</title>
+      <link>https://tantaman.com/2026-04-18-the-listener.html</link>
+      <description>Private Knowledge</description>
+      <category>ai</category>
+      <guid>https://tantaman.com/2026-04-18-the-listener.html</guid>
+      <pubDate>Sat, 18 Apr 2026 20:03:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Building a Claude Code Skill Plugin from Scratch | Personal blog at franchb.com</title>
+      <link>https://franchb.com/posts/building-claude-code-skill-plugins/</link>
+      <description>A practical guide to building, structuring, versioning, and securing Claude Code skill plugins — lessons from creating fp-go-skill.</description>
+      <category>javascript</category>
+      <category>ai</category>
+      <category>git</category>
+      <category>nodejs</category>
+      <category>vscode</category>
+      <guid>https://franchb.com/posts/building-claude-code-skill-plugins/</guid>
+      <pubDate>Sat, 18 Apr 2026 20:03:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Alex L. Zhang | The Mismanaged Geniuses Hypothesis</title>
+      <link>https://alexzhang13.github.io/blog/2026/mgh/</link>
+      <description>We propose the mismanaged geniuses hypothesis, which posits that existing frontier language models are severely underutilized due to sub-optimal use of individual language model calls.</description>
+      <category>ai</category>
+      <guid>https://alexzhang13.github.io/blog/2026/mgh/</guid>
+      <pubDate>Sat, 18 Apr 2026 20:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tokenomics - Anthropic Token Cost Calculator</title>
+      <link>https://tokens.billchambers.me/leaderboard</link>
+      <description>Compare how the same transcript is counted for requests to Anthropic Opus 4.6 versus Anthropic Opus 4.7</description>
+      <category>ai</category>
+      <guid>https://tokens.billchambers.me/leaderboard</guid>
+      <pubDate>Sat, 18 Apr 2026 20:03:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Just let me compute in peace</title>
+      <link>https://neilzone.co.uk/2026/04/just-let-me-compute-in-peace/</link>
+      <description>Computing can be so noisy these days</description>
+      <guid>https://neilzone.co.uk/2026/04/just-let-me-compute-in-peace/</guid>
+      <pubDate>Sat, 18 Apr 2026 20:03:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Audio transcription is worse in 2026 than it was in 2016</title>
+      <link>https://write.as/shantnu/audio-transcription-is-worse-in-2026-than-it-was-in-2016</link>
+      <description>I remember in 2016 I could dictate  whole novels with Dragon NaturallySpeaking, which at that time worked on  my Mac. They no longer supp...</description>
+      <category>apple</category>
+      <category>ai</category>
+      <guid>https://write.as/shantnu/audio-transcription-is-worse-in-2026-than-it-was-in-2016</guid>
+      <pubDate>Sat, 18 Apr 2026 20:03:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fire Framework</title>
+      <link>https://dvcoolarun.com/2026/04/18/Fire-Framework.html</link>
+      <description>🔥 The FIRE Framework: One Mental Model to Answer 80% of Backend Interview Questions</description>
+      <category>sql</category>
+      <guid>https://dvcoolarun.com/2026/04/18/Fire-Framework.html</guid>
+      <pubDate>Sat, 18 Apr 2026 20:03:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude knows who you are</title>
+      <link>https://www.patrickstevens.co.uk/posts/2026-04-18-claude-knows-you/</link>
+      <description>Claude Opus 4.7 is solidly superhuman at stylometric identification of authors.</description>
+      <category>git</category>
+      <category>ai</category>
+      <guid>https://www.patrickstevens.co.uk/posts/2026-04-18-claude-knows-you/</guid>
+      <pubDate>Sat, 18 Apr 2026 20:03:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>DOOM runs in ChatGPT and Claude / Blog</title>
+      <link>https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/</link>
+      <description>How I built a playable DOOM MCP app that runs inline in compatible AI clients and falls back to a browser launch URL.</description>
+      <category>cloud</category>
+      <category>apple</category>
+      <category>typescript</category>
+      <category>gaming</category>
+      <category>javascript</category>
+      <guid>https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/</guid>
+      <pubDate>Sat, 18 Apr 2026 20:03:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Blast Radius Problem: Running Your Coding Agent in YOLO Mode</title>
+      <link>https://www.arnaudp.dev/the-blast-radius-problem-running-your-coding-agent-in-yolo-mode/</link>
+      <description>Running your coding agent in bypass mode on your laptop is the mistake. A VM with Tailscale and default-deny egress is how you shrink the blast radius.</description>
+      <category>ai</category>
+      <category>vscode</category>
+      <category>git</category>
+      <category>sql</category>
+      <category>cloud</category>
+      <guid>https://www.arnaudp.dev/the-blast-radius-problem-running-your-coding-agent-in-yolo-mode/</guid>
+      <pubDate>Sat, 18 Apr 2026 20:02:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>SQLite prefixes its temp files with `etilqs_` - blag</title>
+      <link>https://avi.im/blag/2026/etilqs/</link>
+      <description>Here’s some wild lore inside SQLite’s source code explaining why temp files start with etilqs_</description>
+      <category>sql</category>
+      <category>rust</category>
+      <guid>https://avi.im/blag/2026/etilqs/</guid>
+      <pubDate>Sat, 18 Apr 2026 20:02:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why LLMs Aren't Giving You the Result You Expect | Why I Prefer Claude Code Today</title>
+      <link>https://akitaonrails.com/en/2026/04/15/how-to-talk-to-claude-code-effectively/</link>
+      <description>
+    Every week somebody tells me 'I canceled my Claude plan, it just doesn't perform as well as GPT for me.' I've got 500+ hours in Claude Code and Codex, 400k lines generated, and both deliver. The difference isn't the model. It's how people are talking to it.
+  </description>
+      <category>ai</category>
+      <category>sql</category>
+      <category>encryption</category>
+      <category>vscode</category>
+      <guid>https://akitaonrails.com/en/2026/04/15/how-to-talk-to-claude-code-effectively/</guid>
+      <pubDate>Sat, 18 Apr 2026 20:02:47 GMT</pubDate>
+    </item>
+    <item>
       <title>Running Your Own AS: Direct Hetzner Peering, a Fourth Edge, and Bringing the Home LAN into the Fabric</title>
       <link>https://blog.hofstede.it/running-your-own-as-direct-hetzner-peering-a-fourth-edge-and-bringing-the-home-lan-into-the-fabric/</link>
       <description>Part 4 of the AS201379 journey: adding a fourth FreeBSD edge router at iFog with FogIXP peering, establishing direct BGP sessions with Hetzner, bringing the home network into the AS via an iBGP-spe...</description>

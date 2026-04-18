@@ -1,5 +1,117 @@
 [
   {
+    "Title": "Sorry, Mary",
+    "Url": "https://mathenchant.wordpress.com/2026/04/18/sorry-mary/",
+    "Timestamp": "2026-04-18T20:03:45",
+    "Domain": "mathenchant.wordpress.com",
+    "Description": "[Note to reader: This is a sequel to my widely-circulated 2021 essay “The Great Solar Bleed-Out Scam”; for the sake of readers who have forgotten or never read that earlier essay, I include it here…",
+    "Confidence": 0.92269576
+  },
+  {
+    "Title": "State of Kdenlive - 2026",
+    "Url": "https://kdenlive.org/news/2026/state-2026/",
+    "Timestamp": "2026-04-18T20:03:41",
+    "Domain": "kdenlive.org",
+    "Description": "In 2025, the Kdenlive team continued grinding to push the project forward through steady development, collaboration, and community support. Over the past year we’ve found a nice balance between adding new features, bug fixing, polishing the user interface, and improving performance and workflow, with stability taking priority over feature creep.",
+    "Confidence": 0.9428827
+  },
+  {
+    "Title": "The Listener",
+    "Url": "https://tantaman.com/2026-04-18-the-listener.html",
+    "Timestamp": "2026-04-18T20:03:32",
+    "Domain": "tantaman.com",
+    "Description": "Private Knowledge",
+    "Confidence": 0.792489
+  },
+  {
+    "Title": "Building a Claude Code Skill Plugin from Scratch | Personal blog at franchb.com",
+    "Url": "https://franchb.com/posts/building-claude-code-skill-plugins/",
+    "Timestamp": "2026-04-18T20:03:28",
+    "Domain": "franchb.com",
+    "Description": "A practical guide to building, structuring, versioning, and securing Claude Code skill plugins — lessons from creating fp-go-skill.",
+    "Confidence": 0.99068946
+  },
+  {
+    "Title": "Alex L. Zhang | The Mismanaged Geniuses Hypothesis",
+    "Url": "https://alexzhang13.github.io/blog/2026/mgh/",
+    "Timestamp": "2026-04-18T20:03:25",
+    "Domain": "alexzhang13.github.io",
+    "Description": "We propose the mismanaged geniuses hypothesis, which posits that existing frontier language models are severely underutilized due to sub-optimal use of individual language model calls.",
+    "Confidence": 0.9876127
+  },
+  {
+    "Title": "Tokenomics - Anthropic Token Cost Calculator",
+    "Url": "https://tokens.billchambers.me/leaderboard",
+    "Timestamp": "2026-04-18T20:03:21",
+    "Domain": "tokens.billchambers.me",
+    "Description": "Compare how the same transcript is counted for requests to Anthropic Opus 4.6 versus Anthropic Opus 4.7",
+    "Confidence": 0.93686044
+  },
+  {
+    "Title": "Just let me compute in peace",
+    "Url": "https://neilzone.co.uk/2026/04/just-let-me-compute-in-peace/",
+    "Timestamp": "2026-04-18T20:03:18",
+    "Domain": "neilzone.co.uk",
+    "Description": "Computing can be so noisy these days",
+    "Confidence": 0.99692434
+  },
+  {
+    "Title": "Audio transcription is worse in 2026 than it was in 2016",
+    "Url": "https://write.as/shantnu/audio-transcription-is-worse-in-2026-than-it-was-in-2016",
+    "Timestamp": "2026-04-18T20:03:14",
+    "Domain": "write.as",
+    "Description": "I remember in 2016 I could dictate  whole novels with Dragon NaturallySpeaking, which at that time worked on  my Mac. They no longer supp...",
+    "Confidence": 0.890819
+  },
+  {
+    "Title": "Fire Framework",
+    "Url": "https://dvcoolarun.com/2026/04/18/Fire-Framework.html",
+    "Timestamp": "2026-04-18T20:03:11",
+    "Domain": "dvcoolarun.com",
+    "Description": "🔥 The FIRE Framework: One Mental Model to Answer 80% of Backend Interview Questions",
+    "Confidence": 0.9386975
+  },
+  {
+    "Title": "Claude knows who you are",
+    "Url": "https://www.patrickstevens.co.uk/posts/2026-04-18-claude-knows-you/",
+    "Timestamp": "2026-04-18T20:03:07",
+    "Domain": "www.patrickstevens.co.uk",
+    "Description": "Claude Opus 4.7 is solidly superhuman at stylometric identification of authors.",
+    "Confidence": 0.96809995
+  },
+  {
+    "Title": "DOOM runs in ChatGPT and Claude / Blog",
+    "Url": "https://chrisnager.com/blog/doom-runs-in-chatgpt-and-claude/",
+    "Timestamp": "2026-04-18T20:03:03",
+    "Domain": "chrisnager.com",
+    "Description": "How I built a playable DOOM MCP app that runs inline in compatible AI clients and falls back to a browser launch URL.",
+    "Confidence": 0.9467059
+  },
+  {
+    "Title": "The Blast Radius Problem: Running Your Coding Agent in YOLO Mode",
+    "Url": "https://www.arnaudp.dev/the-blast-radius-problem-running-your-coding-agent-in-yolo-mode/",
+    "Timestamp": "2026-04-18T20:02:59",
+    "Domain": "www.arnaudp.dev",
+    "Description": "Running your coding agent in bypass mode on your laptop is the mistake. A VM with Tailscale and default-deny egress is how you shrink the blast radius.",
+    "Confidence": 0.9786627
+  },
+  {
+    "Title": "SQLite prefixes its temp files with `etilqs_` - blag",
+    "Url": "https://avi.im/blag/2026/etilqs/",
+    "Timestamp": "2026-04-18T20:02:56",
+    "Domain": "avi.im",
+    "Description": "Here’s some wild lore inside SQLite’s source code explaining why temp files start with etilqs_",
+    "Confidence": 0.97328186
+  },
+  {
+    "Title": "Why LLMs Aren't Giving You the Result You Expect | Why I Prefer Claude Code Today",
+    "Url": "https://akitaonrails.com/en/2026/04/15/how-to-talk-to-claude-code-effectively/",
+    "Timestamp": "2026-04-18T20:02:47",
+    "Domain": "akitaonrails.com",
+    "Description": "\n    Every week somebody tells me 'I canceled my Claude plan, it just doesn't perform as well as GPT for me.' I've got 500+ hours in Claude Code and Codex, 400k lines generated, and both deliver. The difference isn't the model. It's how people are talking to it.\n  ",
+    "Confidence": 0.9716177
+  },
+  {
     "Title": "Running Your Own AS: Direct Hetzner Peering, a Fourth Edge, and Bringing the Home LAN into the Fabric",
     "Url": "https://blog.hofstede.it/running-your-own-as-direct-hetzner-peering-a-fourth-edge-and-bringing-the-home-lan-into-the-fabric/",
     "Timestamp": "2026-04-18T18:53:15",
