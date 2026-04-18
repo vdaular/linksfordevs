@@ -6,28 +6,5 @@
     <link>https://linksfor.dev/feed.xml</link>
     <description>Curated links for devs</description>
     <language>en</language>
-    <item>
-      <title>.NET Scripting is Finally Complete</title>
-      <link>https://youtube.com/watch?v=VLXXXYQ8SEA</link>
-      <description>Online Workshop: Vibe Coding for Production: https://dometrain.com/workshop/vibe-coding-for-production/?ref=nick-chapsas&amp;promo=mail-list&amp;coupon_code=3YEARS
-
-Get every Dometrain 40% off with code 3YEARS: https://dometrain.com/courses/?ref=nick-chapsas&amp;promo=youtube&amp;coupon_code=3YEARS
-
-Hello, everybody. I'm Nick, and in this video, I want to show you how you can use the brand new .NET scripting capabilities with file references, which was just added in .NET 11 preview 3.
-
-Don't forget to comment, like and subscribe :)
-
-Social Media:
-Follow me on GitHub: https://github.com/Elfocrash
-Follow me on Twitter: https://twitter.com/nickchapsas
-Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas
-
-#csharp #dotnet</description>
-      <author> (Nick Chapsas)</author>
-      <category>dotnet</category>
-      <category>youtube</category>
-      <guid>https://youtube.com/watch?v=VLXXXYQ8SEA</guid>
-      <pubDate>Fri, 17 Apr 2026 13:01:59 GMT</pubDate>
-    </item>
   </channel>
 </rss>
