@@ -7,6 +7,22 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Vercel Says Internal Systems Hit in Breach - Decipher</title>
+      <link>https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/</link>
+      <description>The incident came to light on Sunday and the company says it has brought in an incident response provider to investigate the intrusion. Details of the intrusion are scant at this point. </description>
+      <category>ai</category>
+      <guid>https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/</guid>
+      <pubDate>Sun, 19 Apr 2026 19:02:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vercel April 2026 security incident | Vercel Knowledge Base</title>
+      <link>https://vercel.com/kb/bulletin/vercel-april-2026-security-incident</link>
+      <description>We’ve identified a security incident that involved unauthorized access to certain internal Vercel systems.</description>
+      <category>ai</category>
+      <guid>https://vercel.com/kb/bulletin/vercel-april-2026-security-incident</guid>
+      <pubDate>Sun, 19 Apr 2026 19:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>Any Color You Like: NIST Scientists Create ‘Any Wavelength’ Lasers in Tiny Circuits for Light</title>
       <link>https://www.nist.gov/news-events/news/2026/04/any-color-you-nist-scientists-create-any-wavelength-lasers-tiny-circuits</link>
       <description>NIST scientists and collaborators have pioneered a way to make integrated circuits for light by depositing complex patterns of specialized materials onto silicon wafers.</description>
@@ -196,195 +212,6 @@
       <category>vscode</category>
       <guid>https://akitaonrails.com/en/2026/04/15/how-to-talk-to-claude-code-effectively/</guid>
       <pubDate>Sat, 18 Apr 2026 20:02:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Running Your Own AS: Direct Hetzner Peering, a Fourth Edge, and Bringing the Home LAN into the Fabric</title>
-      <link>https://blog.hofstede.it/running-your-own-as-direct-hetzner-peering-a-fourth-edge-and-bringing-the-home-lan-into-the-fabric/</link>
-      <description>Part 4 of the AS201379 journey: adding a fourth FreeBSD edge router at iFog with FogIXP peering, establishing direct BGP sessions with Hetzner, bringing the home network into the AS via an iBGP-spe...</description>
-      <category>git</category>
-      <category>ai</category>
-      <guid>https://blog.hofstede.it/running-your-own-as-direct-hetzner-peering-a-fourth-edge-and-bringing-the-home-lan-into-the-fabric/</guid>
-      <pubDate>Sat, 18 Apr 2026 18:53:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Caching Strategies from Scratch · Vaibhav Acharya, engineer.</title>
-      <link>https://vaibhavacharya.github.io/writings/caching-strategies-from-scratch/</link>
-      <description>LRU, LFU, TTL, write-through, write-back, and cache stampedes explained with interactive demos</description>
-      <category>sql</category>
-      <category>javascript</category>
-      <category>vscode</category>
-      <guid>https://vaibhavacharya.github.io/writings/caching-strategies-from-scratch/</guid>
-      <pubDate>Sat, 18 Apr 2026 18:53:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>HTTP desync in Discord's media proxy: Spying on a whole platform</title>
-      <link>https://tmctmt.com/posts/http-desync-in-discord/</link>
-      <description>In 2022, I came across a quirky behavior on media.discordapp.net when I miskeyed a space character into an attachment link: a 502 bad gateway.
-After some fiddling I realized that this was caused by a HTTP injection bug within the media proxy’s request to the upstream GCP bucket. The space character corrupted the proxied HTTP message, which caused the connection to prematurely terminate.
-For example, a crafted user request to the media proxy would look like this:</description>
-      <category>apple</category>
-      <category>javascript</category>
-      <guid>https://tmctmt.com/posts/http-desync-in-discord/</guid>
-      <pubDate>Sat, 18 Apr 2026 18:53:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Teaching a Model to Code | Rig</title>
-      <link>https://rig.ai/blog/teaching-a-model-to-code</link>
-      <description>Part 1 of our How We Built Rig series - building a data pipeline to teach a model to act like a real developer.</description>
-      <category>cloud</category>
-      <category>ai</category>
-      <category>python</category>
-      <category>encryption</category>
-      <category>typescript</category>
-      <guid>https://rig.ai/blog/teaching-a-model-to-code</guid>
-      <pubDate>Sat, 18 Apr 2026 18:53:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Closed Source is a Business Decision, not Security. | Thoughts by Javier</title>
-      <link>https://javiergonzalez.io/blog/closed-source-as-a-security-model/</link>
-      <description>Cal.com claims that moving to closed source is a security decision. It is not.</description>
-      <category>vscode</category>
-      <guid>https://javiergonzalez.io/blog/closed-source-as-a-security-model/</guid>
-      <pubDate>Sat, 18 Apr 2026 18:53:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fonts I Love</title>
-      <link>https://rgo.pt/posts/fonts-i-use</link>
-      <description>My go-to font stack for everything I do, from my website to my projects.</description>
-      <guid>https://rgo.pt/posts/fonts-i-use</guid>
-      <pubDate>Sat, 18 Apr 2026 18:52:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Against big tech credentialism - alex wennerberg</title>
-      <link>https://alexwennerberg.com/blog/2026-04-16-credentials.html</link>
-      <description>Ryan Peterman is a YouTube interviewer who speaks with senior employees at big tech companies. On the one hand, it is incredible how accessible high-income professionals at highly competitive organizations are, and how open they are willing to speak about their work. But there is some danger in presuming that there is wisdom to be gleaned from them.</description>
-      <category>youtube</category>
-      <category>web</category>
-      <guid>https://alexwennerberg.com/blog/2026-04-16-credentials.html</guid>
-      <pubDate>Sat, 18 Apr 2026 18:52:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Many anti-AI arguments are conservative arguments</title>
-      <link>https://www.seangoedecke.com/many-anti-ai-arguments-are-conservative/</link>
-      <description>Most anti-AI rhetoric is left-wing coded. Popular criticisms of AI describe it as a tool of techno-fascism, or appeal to predominantly left-wing concerns like carbon emissions, democracy, or police brutality. Anti-AI sentiment is surprisingly bipartisan, but the big anti-AI institutions are labor unions and the progressive wing of the Democrats.</description>
-      <category>ai</category>
-      <guid>https://www.seangoedecke.com/many-anti-ai-arguments-are-conservative/</guid>
-      <pubDate>Sat, 18 Apr 2026 18:52:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>We Are All Playing Politics at Work</title>
-      <link>https://idiallo.com/blog/we-are-playing-politics?src=feed</link>
-      <description>Politics is any discussion where the truth doesn't steer the course of action.
-
-Most of us like to think we are above it. We believe that in our daily jobs, we are rational actors exchanging facts. We</description>
-      <category>gaming</category>
-      <category>sql</category>
-      <guid>https://idiallo.com/blog/we-are-playing-politics?src=feed</guid>
-      <pubDate>Sat, 18 Apr 2026 18:52:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Half of CI We Forgot to Automate</title>
-      <link>https://blog.sebastiansastre.co/posts/the-half-of-ci-we-forgot-to-automate/</link>
-      <description>Why go/no-go decisions still run on faith in contracts, and the gap between pipelines that prove consistency and pipelines that produce evidence.</description>
-      <category>ai</category>
-      <guid>https://blog.sebastiansastre.co/posts/the-half-of-ci-we-forgot-to-automate/</guid>
-      <pubDate>Sat, 18 Apr 2026 18:52:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Today I shipped 20 apps and a screensaver  ⌘I  Get Info</title>
-      <link>https://blog.gingerbeardman.com/2026/04/17/today-i-shipped-twenty-apps-and-a-screensaver/</link>
-      <description>Shipping software is hard. My secret to doing it successfully is a combination of careful scoping, with strict avoidance of feature creep. But even then, it’...</description>
-      <category>android</category>
-      <category>apple</category>
-      <category>gaming</category>
-      <category>containers</category>
-      <guid>https://blog.gingerbeardman.com/2026/04/17/today-i-shipped-twenty-apps-and-a-screensaver/</guid>
-      <pubDate>Sat, 18 Apr 2026 18:52:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Optionality Curse · KJ</title>
-      <link>https://www.karanjanthe.me/posts/optionality-curse/</link>
-      <description>A corner of the internet where I think in public.</description>
-      <category>apple</category>
-      <guid>https://www.karanjanthe.me/posts/optionality-curse/</guid>
-      <pubDate>Sat, 18 Apr 2026 18:52:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>I built my dream bug tracking software in a week. / Mark Jardine</title>
-      <link>https://markjardine.com/blog/i-built-my-dream-bug-tracking-software-in-a-week</link>
-      <description>Mark Jardine is a designer and artist living in Allen, Texas.</description>
-      <category>web</category>
-      <category>ai</category>
-      <category>apple</category>
-      <category>javascript</category>
-      <guid>https://markjardine.com/blog/i-built-my-dream-bug-tracking-software-in-a-week</guid>
-      <pubDate>Sat, 18 Apr 2026 18:52:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pop!OS Linux: Creating a bootable Backup USB with Encryption</title>
-      <link>https://hajo.me/blog/2026/02/16/popos-linux-creating-bootable-backup-USB-with-encryption/</link>
-      <description>For my Pop!OS Linux workstation, I wanted to have a complete backup on an USB drive.
-Of course, it needs to be encrypted, in case the USB drive gets lots.
-And to allow me to quickly resume working in the case of an emergency,
-I wanted the USB backup to be bootable, too.
-Here’s how I set that up:</description>
-      <category>encryption</category>
-      <category>ai</category>
-      <category>linux</category>
-      <guid>https://hajo.me/blog/2026/02/16/popos-linux-creating-bootable-backup-USB-with-encryption/</guid>
-      <pubDate>Sat, 18 Apr 2026 18:52:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Europa Missions</title>
-      <link>https://xkcd.com/3234/</link>
-      <description></description>
-      <category>javascript</category>
-      <guid>https://xkcd.com/3234/</guid>
-      <pubDate>Sat, 18 Apr 2026 18:52:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Linux Slayers: Office, Photoshop, and AutoCAD</title>
-      <link>https://hajo.me/blog/2026/04/17/the-linux-slayers-office-photoshop-autocad/</link>
-      <description>After having a great time with Linux as my daily driver for 3 years,
-I was wondering what keeps people stuck on Windows
-even though, by now, there are so many 
-very outspoken critics of Windows 11.</description>
-      <category>visualstudio</category>
-      <category>vscode</category>
-      <category>linux</category>
-      <category>git</category>
-      <category>containers</category>
-      <guid>https://hajo.me/blog/2026/04/17/the-linux-slayers-office-photoshop-autocad/</guid>
-      <pubDate>Sat, 18 Apr 2026 18:52:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>GIS Analytics Cost Comparison</title>
-      <link>https://dekart.xyz/docs/knowledge-base/gis-analytics-cost-comparison/</link>
-      <description>Cost comparison: BigQuery, Snowflake, Wherobots, Cloud SQL PostGIS, and Hetzner PostGIS on the same Overture Maps workload.</description>
-      <category>sql</category>
-      <guid>https://dekart.xyz/docs/knowledge-base/gis-analytics-cost-comparison/</guid>
-      <pubDate>Sat, 18 Apr 2026 18:52:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Using a USB switch as a full KVM</title>
-      <link>https://luke.hsiao.dev/blog/display-switch/</link>
-      <description>I finally got a monitor that supports DDC/CI, so now I can easily switch my monitor and full peripheral set with 1 button!</description>
-      <category>git</category>
-      <category>linux</category>
-      <category>python</category>
-      <guid>https://luke.hsiao.dev/blog/display-switch/</guid>
-      <pubDate>Sat, 18 Apr 2026 18:52:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Composing a Search Engine</title>
-      <link>https://exa.ai/blog/composing-a-search-engine</link>
-      <description>How we built Canon, a search pipeline orchestrator for full control over our search engine as it scales in complexity.</description>
-      <category>cloud</category>
-      <category>nodejs</category>
-      <category>encryption</category>
-      <category>ai</category>
-      <guid>https://exa.ai/blog/composing-a-search-engine</guid>
-      <pubDate>Sat, 18 Apr 2026 18:52:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
