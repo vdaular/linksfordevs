@@ -190,13 +190,5 @@
     "Domain": "youtube.com",
     "Description": "Ever wonder why Task Manager shows a CPU value that doesn't \"feel\" right?  Dave explains why Task Manager shows you the values it does and how they are determined.  Comments with question marks get answered on our weekly ShopTalk:  https://youtu.be/iT0T52OV9B8",
     "Confidence": 0.9127422
-  },
-  {
-    "Title": "Why Japan has such good railways - Works in Progress Magazine",
-    "Url": "https://worksinprogress.co/issue/why-japan-has-such-good-railways/",
-    "Timestamp": "2026-04-18T22:02:13",
-    "Domain": "worksinprogress.co",
-    "Description": "Japan's railways are the finest in the world. Other countries can copy its formula.",
-    "Confidence": 0.80799645
   }
 ]
