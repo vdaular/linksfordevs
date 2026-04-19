@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Thoughts and Feelings around Claude Design · Sam Henri Gold</title>
+      <link>https://samhenri.gold/blog/20260418-claude-design/</link>
+      <description></description>
+      <category>ai</category>
+      <category>web</category>
+      <category>apple</category>
+      <category>javascript</category>
+      <guid>https://samhenri.gold/blog/20260418-claude-design/</guid>
+      <pubDate>Sun, 19 Apr 2026 04:02:14 GMT</pubDate>
+    </item>
+    <item>
       <title>Migrating a production ASP.NET ASMX Web Services API to ASP.NET Core - Introduction | Pure Krome</title>
       <link>https://www.world-domination.com.au/posts/2026/migrating-aspnet-asmx-to-core-introduction/</link>
       <description>Table of contents for migrating ASP.NET ASMX web services to ASP.NET Core</description>
