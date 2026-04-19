@@ -1,5 +1,19 @@
 [
   {
+    "Title": "Migrating a production ASP.NET ASMX Web Services API to ASP.NET Core - Introduction | Pure Krome",
+    "Url": "https://www.world-domination.com.au/posts/2026/migrating-aspnet-asmx-to-core-introduction/",
+    "Timestamp": "2026-04-19T03:01:34",
+    "Domain": "www.world-domination.com.au",
+    "Description": "Table of contents for migrating ASP.NET ASMX web services to ASP.NET Core"
+  },
+  {
+    "Title": "Code Coverage Showdown: Microsoft's Code Coverage vs Coverlet | Pure Krome",
+    "Url": "https://www.world-domination.com.au/posts/2026/code-coverage-showdown/",
+    "Timestamp": "2026-04-19T03:01:31",
+    "Domain": "www.world-domination.com.au",
+    "Description": "Comparing Microsoft's Code Coverage tool with Coverlet for .NET projects with respect to line, branch, and method coverage."
+  },
+  {
     "Title": "The electromechanical angle computer inside the B-52 bomber's star tracker",
     "Url": "https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html",
     "Timestamp": "2026-04-19T01:02:09",

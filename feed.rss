@@ -7,6 +7,24 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Migrating a production ASP.NET ASMX Web Services API to ASP.NET Core - Introduction | Pure Krome</title>
+      <link>https://www.world-domination.com.au/posts/2026/migrating-aspnet-asmx-to-core-introduction/</link>
+      <description>Table of contents for migrating ASP.NET ASMX web services to ASP.NET Core</description>
+      <category>aspnet</category>
+      <category>sql</category>
+      <guid>https://www.world-domination.com.au/posts/2026/migrating-aspnet-asmx-to-core-introduction/</guid>
+      <pubDate>Sun, 19 Apr 2026 03:01:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Code Coverage Showdown: Microsoft's Code Coverage vs Coverlet | Pure Krome</title>
+      <link>https://www.world-domination.com.au/posts/2026/code-coverage-showdown/</link>
+      <description>Comparing Microsoft's Code Coverage tool with Coverlet for .NET projects with respect to line, branch, and method coverage.</description>
+      <category>vscode</category>
+      <category>ai</category>
+      <guid>https://www.world-domination.com.au/posts/2026/code-coverage-showdown/</guid>
+      <pubDate>Sun, 19 Apr 2026 03:01:31 GMT</pubDate>
+    </item>
+    <item>
       <title>The electromechanical angle computer inside the B-52 bomber's star tracker</title>
       <link>https://www.righto.com/2026/04/B-52-star-tracker-angle-computer.html</link>
       <description>Before GPS, how did aircraft navigate? One important technique was celestial navigation: navigating from the positions of the stars, planets...</description>
