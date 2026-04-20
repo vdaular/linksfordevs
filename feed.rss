@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Comment Tesla a caché des accidents fatals pour continuer à tester la conduite autonome sur les routes | RTS</title>
+      <link>https://www.rts.ch/info/monde/2026/article/tesla-dissimule-des-milliers-d-incidents-de-conduite-autonome-mortels-29214161.html</link>
+      <description>Une fuite de données révèle que Tesla a dissimulé des milliers d'incidents liés à sa conduite autonome. Certains accidents ont été fatals. Un premier verdict condamne le constructeur à verser 243 millions de dollars aux victimes. Une enquête diffusée dans Temps Présent lève le voile sur ces pratiques.</description>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://www.rts.ch/info/monde/2026/article/tesla-dissimule-des-milliers-d-incidents-de-conduite-autonome-mortels-29214161.html</guid>
+      <pubDate>Mon, 20 Apr 2026 14:02:10 GMT</pubDate>
+    </item>
+    <item>
       <title>Inside GitHub's Fake Star Economy</title>
       <link>https://awesomeagents.ai/news/github-fake-stars-investigation/</link>
       <description>Six million fake stars, $0.06 per click, and a VC funding pipeline that treats GitHub popularity as proof of traction. We ran our own analysis on 20 repos and found the fingerprints.</description>
