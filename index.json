@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Making illegal state unrepresentable",
+    "Url": "https://blog.frankel.ch/illegal-state-unrepresentable/",
+    "Timestamp": "2026-04-20T17:02:13",
+    "Domain": "blog.frankel.ch",
+    "Description": "A couple of years ago, I wrote that The Builder pattern is a finite state machine!. A state machine consists of states and transitions between them. As a developer, I want to make illegal states unrepresentable, i.e., users of my API can’t create non-existent transitions. My hypothesis is that only a static typing system allows this at compile-time. Dynamic typing systems rely on runtime validation.   In this blog post, I will show that it holds true, with a caveat.",
+    "Confidence": 0.9980052
+  },
+  {
+    "Title": "Atlassian Enables Default Data Collection to Train AI",
+    "Url": "https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8",
+    "Timestamp": "2026-04-20T17:02:09",
+    "Domain": "letsdatascience.com",
+    "Description": "Atlassian will begin collecting customer metadata and in-app content from **Jira**, **Confluence**, and other cloud products by default on **August 17, 2026**, to train its AI offerings including `Rovo` and `Rovo Dev`. The change affects roughly **300,000** customers; metadata collection is mandatory for Free, Standard, and Premium tiers and cannot be opted out on those plans. Enterprise customers can opt out of metadata and in-app collection by default. Collected data will be retained up to **seven years**, with in-app data removed within 30 days after deletion or opt-out and models retrained within 90 days. Customers using customer-managed keys, Atlassian Government Cloud, Isolated Cloud, or with HIPAA requirements are excluded from collection.",
+    "Confidence": 0.74536616
+  },
+  {
     "Title": "EU to force replaceable batteries in phones and tablets from 2027",
     "Url": "https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/",
     "Timestamp": "2026-04-20T16:02:10",
