@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>ggsql: A grammar of graphics for SQL</title>
+      <link>https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/</link>
+      <description>Introducing ggsql, a grammar of graphics for SQL that lets you describe visualizations directly inside SQL queries.</description>
+      <category>sql</category>
+      <category>python</category>
+      <category>rust</category>
+      <guid>https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/</guid>
+      <pubDate>Mon, 20 Apr 2026 19:02:04 GMT</pubDate>
+    </item>
+    <item>
       <title>Saunas Lower Your Heart Rate More Than Exercise</title>
       <link>https://tryterra.co/research/sauna-effect-on-heart-rate</link>
       <description>We analyzed 59,000+ daily records from 256 sauna users to quantify what saunas actually do to your body. Using paired t-tests on same-day wearable data, we foun</description>
@@ -258,22 +268,6 @@ So lots of designers and product people have leapt onto 1, basically trying to t
       <category>youtube</category>
       <guid>https://youtube.com/watch?v=vELETrEp27k</guid>
       <pubDate>Sun, 19 Apr 2026 21:02:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vercel Says Internal Systems Hit in Breach - Decipher</title>
-      <link>https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/</link>
-      <description>The incident came to light on Sunday and the company says it has brought in an incident response provider to investigate the intrusion. Details of the intrusion are scant at this point. </description>
-      <category>ai</category>
-      <guid>https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/</guid>
-      <pubDate>Sun, 19 Apr 2026 19:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vercel April 2026 security incident | Vercel Knowledge Base</title>
-      <link>https://vercel.com/kb/bulletin/vercel-april-2026-security-incident</link>
-      <description>We’ve identified a security incident that involved unauthorized access to certain internal Vercel systems.</description>
-      <category>ai</category>
-      <guid>https://vercel.com/kb/bulletin/vercel-april-2026-security-incident</guid>
-      <pubDate>Sun, 19 Apr 2026 19:02:08 GMT</pubDate>
     </item>
   </channel>
 </rss>

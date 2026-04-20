@@ -1,5 +1,13 @@
 [
   {
+    "Title": "ggsql: A grammar of graphics for SQL",
+    "Url": "https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/",
+    "Timestamp": "2026-04-20T19:02:04",
+    "Domain": "opensource.posit.co",
+    "Description": "Introducing ggsql, a grammar of graphics for SQL that lets you describe visualizations directly inside SQL queries.",
+    "Confidence": 0.99021107
+  },
+  {
     "Title": "Saunas Lower Your Heart Rate More Than Exercise",
     "Url": "https://tryterra.co/research/sauna-effect-on-heart-rate",
     "Timestamp": "2026-04-20T18:02:27",
@@ -206,21 +214,5 @@
     "Domain": "youtube.com",
     "Description": "Dave Plummer explains everything you should know about Mythos from Anthropic and the implications for cybersecurity and software!",
     "Confidence": 0.9395788
-  },
-  {
-    "Title": "Vercel Says Internal Systems Hit in Breach - Decipher",
-    "Url": "https://decipher.sc/2026/04/19/vercel-says-internal-systems-hit-in-breach/",
-    "Timestamp": "2026-04-19T19:02:12",
-    "Domain": "decipher.sc",
-    "Description": "The incident came to light on Sunday and the company says it has brought in an incident response provider to investigate the intrusion. Details of the intrusion are scant at this point. ",
-    "Confidence": 0.81881016
-  },
-  {
-    "Title": "Vercel April 2026 security incident | Vercel Knowledge Base",
-    "Url": "https://vercel.com/kb/bulletin/vercel-april-2026-security-incident",
-    "Timestamp": "2026-04-19T19:02:08",
-    "Domain": "vercel.com",
-    "Description": "We’ve identified a security incident that involved unauthorized access to certain internal Vercel systems.",
-    "Confidence": 0.9602589
   }
 ]

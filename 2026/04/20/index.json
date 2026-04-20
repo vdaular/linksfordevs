@@ -1,5 +1,12 @@
 [
   {
+    "Title": "ggsql: A grammar of graphics for SQL",
+    "Url": "https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/",
+    "Timestamp": "2026-04-20T19:02:04",
+    "Domain": "opensource.posit.co",
+    "Description": "Introducing ggsql, a grammar of graphics for SQL that lets you describe visualizations directly inside SQL queries."
+  },
+  {
     "Title": "Saunas Lower Your Heart Rate More Than Exercise",
     "Url": "https://tryterra.co/research/sauna-effect-on-heart-rate",
     "Timestamp": "2026-04-20T18:02:27",
