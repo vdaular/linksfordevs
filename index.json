@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Inside GitHub's Fake Star Economy",
+    "Url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
+    "Timestamp": "2026-04-20T13:02:02",
+    "Domain": "awesomeagents.ai",
+    "Description": "Six million fake stars, $0.06 per click, and a VC funding pipeline that treats GitHub popularity as proof of traction. We ran our own analysis on 20 repos and found the fingerprints.",
+    "Confidence": 0.8365092
+  },
+  {
     "Title": "Stop trying to engineer your way out of listening to people",
     "Url": "https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/",
     "Timestamp": "2026-04-20T12:02:20",

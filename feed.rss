@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Inside GitHub's Fake Star Economy</title>
+      <link>https://awesomeagents.ai/news/github-fake-stars-investigation/</link>
+      <description>Six million fake stars, $0.06 per click, and a VC funding pipeline that treats GitHub popularity as proof of traction. We ran our own analysis on 20 repos and found the fingerprints.</description>
+      <author> (https://awesomeagents.ai/authors/elena-marchetti/)</author>
+      <category>nodejs</category>
+      <category>ai</category>
+      <category>git</category>
+      <category>cloud</category>
+      <guid>https://awesomeagents.ai/news/github-fake-stars-investigation/</guid>
+      <pubDate>Mon, 20 Apr 2026 13:02:02 GMT</pubDate>
+    </item>
+    <item>
       <title>Stop trying to engineer your way out of listening to people</title>
       <link>https://ashley.rolfmore.com/stop-trying-to-engineer-your-way-out-of-listening-to-people/</link>
       <description>I spend a lot of time negotiating this in the software world:
