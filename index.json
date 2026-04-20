@@ -1,5 +1,197 @@
 [
   {
+    "Title": "Why you should work for a top tier tech company",
+    "Url": "https://jsavage.xyz/2026/04/20/why-you-should-work-for-a-top-tier-tech-company/",
+    "Timestamp": "2026-04-20T22:03:47",
+    "Domain": "jsavage.xyz",
+    "Description": "I joined a FAANG company 1.5 years ago after working mostly in startups and one medium sized company. I wish I’d joined way sooner because I’d have millions more in my bank account. But besides the…",
+    "Confidence": 0.98055714
+  },
+  {
+    "Title": "RAW.works - RLMs are the new reasoning models",
+    "Url": "https://raw.works/rlms-are-the-new-reasoning-models/",
+    "Timestamp": "2026-04-20T22:03:44",
+    "Domain": "raw.works",
+    "Description": "",
+    "Confidence": 0.9683357
+  },
+  {
+    "Title": "Code is the new assembly",
+    "Url": "https://abhyrama.com/code-is-the-new-assembly/",
+    "Timestamp": "2026-04-20T22:03:41",
+    "Domain": "abhyrama.com",
+    "Description": "Codex recently coded a browser from scratch. It took a week, but the AI worked solo, with no human in the loop. Could a human parse that code and truly understand it?\nThe bigger question is: does it matter?\nHave you ever audited your binary’s assembly code? You don’t. You trust the compiler. AI-generated code will head in the same direction, though the journey will take time.",
+    "Confidence": 0.97790843
+  },
+  {
+    "Title": "Three Time-to-Power Strategies that Failed in 2025",
+    "Url": "https://chrisgillett.org/three-failed-time-to-power-strategies",
+    "Timestamp": "2026-04-20T22:03:37",
+    "Domain": "chrisgillett.org",
+    "Description": "We’ve learned a lot in the last year about what won’t work for accelerating time-to-power for large data center projects.",
+    "Confidence": 0.9686869
+  },
+  {
+    "Title": "The Missing Bundler Features",
+    "Url": "https://byroot.github.io/ruby/bundler/2026/04/20/bundle-features.html",
+    "Timestamp": "2026-04-20T22:03:34",
+    "Domain": "byroot.github.io",
+    "Description": "Over the last few months, there has been a lot of talk about making Bundler faster, both by improving it directly, or by reimplementing it in another language, and while it may surprise some, that didn’t excite me much.",
+    "Confidence": 0.98285466
+  },
+  {
+    "Title": "Opus 4.7 — the best model nobody likes | I didn't know.",
+    "Url": "https://maxfavilli.com/posts/opus-4-7-the-best-model-nobody-likes/",
+    "Timestamp": "2026-04-20T22:03:28",
+    "Domain": "maxfavilli.com",
+    "Description": "The sycophancy problem, the compute crunch, and why coding agents will not stay cheap.",
+    "Confidence": 0.9309799
+  },
+  {
+    "Title": "⭐Why Your First Token Is Always Late",
+    "Url": "https://www.anirudhsathiya.com/blog/transformer",
+    "Timestamp": "2026-04-20T22:03:24",
+    "Domain": "www.anirudhsathiya.com",
+    "Description": "(Part 2) The inference side of transformers, along with systems tricks that make production LLMs fast",
+    "Confidence": 0.99148065
+  },
+  {
+    "Title": "Lessons from going solo",
+    "Url": "https://alex000kim.com/posts/2026-04-20-lessons-from-going-solo/",
+    "Timestamp": "2026-04-20T22:03:20",
+    "Domain": "alex000kim.com",
+    "Description": "Strategies that worked for me when I left a salaried job to consult on my own.",
+    "Confidence": 0.97739387
+  },
+  {
+    "Title": "Tim Cook to become Apple Executive Chairman John Ternus to become Apple CEO",
+    "Url": "https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/",
+    "Timestamp": "2026-04-20T22:03:17",
+    "Domain": "www.apple.com",
+    "Description": "Apple announced Tim Cook will become executive chairman of Apple’s board of directors and John Ternus will become Apple’s next CEO.",
+    "Confidence": 0.80351454
+  },
+  {
+    "Title": "What is Canton Network (and why should you care)?",
+    "Url": "https://eric.mann.blog/what-is-canton-network/",
+    "Timestamp": "2026-04-20T22:03:13",
+    "Domain": "eric.mann.blog",
+    "Description": "Canton Network is a layer-1 blockchain designed for regulated financial markets, addressing privacy, regulatory compliance, and interoperability without centralized control. Unlike typical public b…",
+    "Confidence": 0.95661944
+  },
+  {
+    "Title": "When “Right vs Wrong” Isn’t Really About Truth — A Thought on Bias, Power, and Decision Making",
+    "Url": "https://neerajkarimpuzha.wordpress.com/2026/04/20/when-right-vs-wrong-isnt-really-about-truth-a-thought-on-bias-power-and-decision-making/",
+    "Timestamp": "2026-04-20T22:03:10",
+    "Domain": "neerajkarimpuzha.wordpress.com",
+    "Description": "By: Neeraj R One day, while attending a class on human bias, a simple thought experiment turned into something much deeper. It started with a very ordinary scenario. Imagine a group of 10 friends p…",
+    "Confidence": 0.90589535
+  },
+  {
+    "Title": "Decision Graphs",
+    "Url": "https://maxdemarzi.com/2026/04/20/decision-graphs/",
+    "Timestamp": "2026-04-20T22:03:07",
+    "Domain": "maxdemarzi.com",
+    "Description": "About eight years ago, I wrote a little blog post on dynamic decision trees. If you have the time, go back and read that and the follow up posts on the subject. If not, I’ll summarize. Instea…",
+    "Confidence": 0.98962027
+  },
+  {
+    "Title": "Connecting in Narratives",
+    "Url": "https://jason.blog/2026/04/16/connecting-in-narratives/",
+    "Timestamp": "2026-04-20T22:03:03",
+    "Domain": "jason.blog",
+    "Description": "Missing a flight to my cruise can teach us how the right narratives invite others on the journey with us.",
+    "Confidence": 0.951558
+  },
+  {
+    "Title": "Uncorrelated Contents",
+    "Url": "https://www.uncorrelatedcontents.com/blog/trying-and-failing-with-claude",
+    "Timestamp": "2026-04-20T22:03:00",
+    "Domain": "www.uncorrelatedcontents.com",
+    "Description": "When you take a close-up photo of a small object, there tends to be a small portion of the subject in focus, with the rest blurred out. The range of distance that's acceptably in focus is the depth of field; with macro photography it tends to be quite narrow.",
+    "Confidence": 0.9594364
+  },
+  {
+    "Title": "I'm never buying another Kindle, and neither should you",
+    "Url": "https://www.androidauthority.com/amazon-kindle-2026-3657863/",
+    "Timestamp": "2026-04-20T22:02:57",
+    "Domain": "www.androidauthority.com",
+    "Description": "Bricked hardware, ads, and control. The Amazon Kindle is no longer built for readers. Here’s why I’m done with it.",
+    "Confidence": 0.9581911
+  },
+  {
+    "Title": "Why do people keep stealing the small sauce bottle?",
+    "Url": "https://shub.club/writings/2026/april/why-do-people-steal-the-small-sauce-bottle/",
+    "Timestamp": "2026-04-20T22:02:53",
+    "Domain": "shub.club",
+    "Description": "A UX question from a restauranteur",
+    "Confidence": 0.9056196
+  },
+  {
+    "Title": "I’m Back. Here’s my life story in a nutshell",
+    "Url": "https://jsavage.xyz/2026/04/11/im-back-heres-my-life-story-in-a-nutshell/",
+    "Timestamp": "2026-04-20T22:02:50",
+    "Domain": "jsavage.xyz",
+    "Description": "I haven’t posted anything here in almost 3 years. The main reason is that because after a grueling job search in 2024, I lucked into joining a Big Tech / FAANG company as a senior software engineer…",
+    "Confidence": 0.8663122
+  },
+  {
+    "Title": "Looking back on Stripe’s payment API migration",
+    "Url": "https://jacobbrazeal.wordpress.com/2026/04/19/review-stripes-payments-apis/",
+    "Timestamp": "2026-04-20T22:02:46",
+    "Domain": "jacobbrazeal.wordpress.com",
+    "Description": "This 2020 post walks through the first and second iteration of Stripe’s payment API. The original API was designed for credit card charges and was delightfully simple. You could move money with a s…",
+    "Confidence": 0.9739415
+  },
+  {
+    "Title": "The Ultimate Question: What Does the Endgame Look Like? - Pawel Brodzinski on Leadership in Technology",
+    "Url": "https://brodzinski.com/2026/04/what-endgame-looks-like.html",
+    "Timestamp": "2026-04-20T22:02:43",
+    "Domain": "brodzinski.com",
+    "Description": "Asking \"what does the endgame look like?\" will show how many predictions can't hold or what other second-order consequences we will face.",
+    "Confidence": 0.9939668
+  },
+  {
+    "Title": "Benchmarking open-weight models for security research",
+    "Url": "https://dualuse.dev/posts/benchmarking-open-models-for-security-research",
+    "Timestamp": "2026-04-20T22:02:39",
+    "Domain": "dualuse.dev",
+    "Description": "Testing open-weight models against unpublished vulnerabilities in real products.",
+    "Confidence": 0.916948
+  },
+  {
+    "Title": "Language Modeling Without Neural Networks",
+    "Url": "https://nathan.rs/posts/unbounded-n-gram/",
+    "Timestamp": "2026-04-20T22:02:35",
+    "Domain": "nathan.rs",
+    "Description": " Generating Shakespeare has become the “Hello World” of language models.1 Recently, I’ve been messing with alternative language models and came across unbounded …",
+    "Confidence": 0.9925615
+  },
+  {
+    "Title": "Scaling Claude beyond individual workflows",
+    "Url": "https://ninkovic.dev/blog/2026/scaling-claude-beyond-individual-workflows",
+    "Timestamp": "2026-04-20T22:02:31",
+    "Domain": "ninkovic.dev",
+    "Description": "A practical look at deploying Claude across an organization: skills, plugins, governance, and real-world challenges from a 23-person team.",
+    "Confidence": 0.9878207
+  },
+  {
+    "Title": "Hauleth's blog - Scotty, I need warp speed in three minutes",
+    "Url": "https://hauleth.dev/post/things-about-elixir-you-probably-will-never-need/",
+    "Timestamp": "2026-04-20T22:02:28",
+    "Domain": "hauleth.dev",
+    "Description": "My journey into optimising Elixir codebase of Ultravisor (my fork of Supabase's\nSupavisor).\n\nThis story is not about a goal, but ~~friends~~ optimisations we met along the\nway.\n",
+    "Confidence": 0.9913639
+  },
+  {
+    "Title": "Data as a Product is a Promise | Yusuf Aytas",
+    "Url": "https://yusufaytas.com/data-as-a-product-a-new-frontier",
+    "Timestamp": "2026-04-20T22:02:22",
+    "Domain": "yusufaytas.com",
+    "Description": "Stop shipping tables. Build data products with clear contracts, real owners, lifecycle discipline, and observability so teams can trust data.",
+    "Confidence": 0.9848409
+  },
+  {
     "Title": "ggsql: A grammar of graphics for SQL",
     "Url": "https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/",
     "Timestamp": "2026-04-20T19:02:04",

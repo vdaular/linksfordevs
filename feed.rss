@@ -7,6 +7,234 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Why you should work for a top tier tech company</title>
+      <link>https://jsavage.xyz/2026/04/20/why-you-should-work-for-a-top-tier-tech-company/</link>
+      <description>I joined a FAANG company 1.5 years ago after working mostly in startups and one medium sized company. I wish I’d joined way sooner because I’d have millions more in my bank account. But besides the…</description>
+      <category>rust</category>
+      <category>ai</category>
+      <guid>https://jsavage.xyz/2026/04/20/why-you-should-work-for-a-top-tier-tech-company/</guid>
+      <pubDate>Mon, 20 Apr 2026 22:03:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>RAW.works - RLMs are the new reasoning models</title>
+      <link>https://raw.works/rlms-are-the-new-reasoning-models/</link>
+      <description></description>
+      <author> (Raymond A. Weitekamp)</author>
+      <category>cloud</category>
+      <category>ai</category>
+      <category>typescript</category>
+      <category>git</category>
+      <guid>https://raw.works/rlms-are-the-new-reasoning-models/</guid>
+      <pubDate>Mon, 20 Apr 2026 22:03:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Code is the new assembly</title>
+      <link>https://abhyrama.com/code-is-the-new-assembly/</link>
+      <description>Codex recently coded a browser from scratch. It took a week, but the AI worked solo, with no human in the loop. Could a human parse that code and truly understand it?
+The bigger question is: does it matter?
+Have you ever audited your binary’s assembly code? You don’t. You trust the compiler. AI-generated code will head in the same direction, though the journey will take time.</description>
+      <category>ai</category>
+      <guid>https://abhyrama.com/code-is-the-new-assembly/</guid>
+      <pubDate>Mon, 20 Apr 2026 22:03:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Three Time-to-Power Strategies that Failed in 2025</title>
+      <link>https://chrisgillett.org/three-failed-time-to-power-strategies</link>
+      <description>We’ve learned a lot in the last year about what won’t work for accelerating time-to-power for large data center projects.</description>
+      <author> (https://chrisgillett.org/)</author>
+      <category>gaming</category>
+      <category>ai</category>
+      <guid>https://chrisgillett.org/three-failed-time-to-power-strategies</guid>
+      <pubDate>Mon, 20 Apr 2026 22:03:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Missing Bundler Features</title>
+      <link>https://byroot.github.io/ruby/bundler/2026/04/20/bundle-features.html</link>
+      <description>Over the last few months, there has been a lot of talk about making Bundler faster, both by improving it directly, or by reimplementing it in another language, and while it may surprise some, that didn’t excite me much.</description>
+      <category>ruby</category>
+      <category>git</category>
+      <guid>https://byroot.github.io/ruby/bundler/2026/04/20/bundle-features.html</guid>
+      <pubDate>Mon, 20 Apr 2026 22:03:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Opus 4.7 — the best model nobody likes | I didn't know.</title>
+      <link>https://maxfavilli.com/posts/opus-4-7-the-best-model-nobody-likes/</link>
+      <description>The sycophancy problem, the compute crunch, and why coding agents will not stay cheap.</description>
+      <category>ai</category>
+      <guid>https://maxfavilli.com/posts/opus-4-7-the-best-model-nobody-likes/</guid>
+      <pubDate>Mon, 20 Apr 2026 22:03:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>⭐Why Your First Token Is Always Late</title>
+      <link>https://www.anirudhsathiya.com/blog/transformer</link>
+      <description>(Part 2) The inference side of transformers, along with systems tricks that make production LLMs fast</description>
+      <author> (Anirudh Sathiya Narayanan)</author>
+      <category>ai</category>
+      <category>apple</category>
+      <category>gaming</category>
+      <guid>https://www.anirudhsathiya.com/blog/transformer</guid>
+      <pubDate>Mon, 20 Apr 2026 22:03:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lessons from going solo</title>
+      <link>https://alex000kim.com/posts/2026-04-20-lessons-from-going-solo/</link>
+      <description>Strategies that worked for me when I left a salaried job to consult on my own.</description>
+      <category>ai</category>
+      <guid>https://alex000kim.com/posts/2026-04-20-lessons-from-going-solo/</guid>
+      <pubDate>Mon, 20 Apr 2026 22:03:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tim Cook to become Apple Executive Chairman John Ternus to become Apple CEO</title>
+      <link>https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/</link>
+      <description>Apple announced Tim Cook will become executive chairman of Apple’s board of directors and John Ternus will become Apple’s next CEO.</description>
+      <category>apple</category>
+      <guid>https://www.apple.com/newsroom/2026/04/tim-cook-to-become-apple-executive-chairman-john-ternus-to-become-apple-ceo/</guid>
+      <pubDate>Mon, 20 Apr 2026 22:03:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>What is Canton Network (and why should you care)?</title>
+      <link>https://eric.mann.blog/what-is-canton-network/</link>
+      <description>Canton Network is a layer-1 blockchain designed for regulated financial markets, addressing privacy, regulatory compliance, and interoperability without centralized control. Unlike typical public b…</description>
+      <category>encryption</category>
+      <category>ai</category>
+      <category>rust</category>
+      <category>linux</category>
+      <guid>https://eric.mann.blog/what-is-canton-network/</guid>
+      <pubDate>Mon, 20 Apr 2026 22:03:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>When “Right vs Wrong” Isn’t Really About Truth — A Thought on Bias, Power, and Decision Making</title>
+      <link>https://neerajkarimpuzha.wordpress.com/2026/04/20/when-right-vs-wrong-isnt-really-about-truth-a-thought-on-bias-power-and-decision-making/</link>
+      <description>By: Neeraj R One day, while attending a class on human bias, a simple thought experiment turned into something much deeper. It started with a very ordinary scenario. Imagine a group of 10 friends p…</description>
+      <guid>https://neerajkarimpuzha.wordpress.com/2026/04/20/when-right-vs-wrong-isnt-really-about-truth-a-thought-on-bias-power-and-decision-making/</guid>
+      <pubDate>Mon, 20 Apr 2026 22:03:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Decision Graphs</title>
+      <link>https://maxdemarzi.com/2026/04/20/decision-graphs/</link>
+      <description>About eight years ago, I wrote a little blog post on dynamic decision trees. If you have the time, go back and read that and the follow up posts on the subject. If not, I’ll summarize. Instea…</description>
+      <category>ai</category>
+      <category>nodejs</category>
+      <category>cloud</category>
+      <guid>https://maxdemarzi.com/2026/04/20/decision-graphs/</guid>
+      <pubDate>Mon, 20 Apr 2026 22:03:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Connecting in Narratives</title>
+      <link>https://jason.blog/2026/04/16/connecting-in-narratives/</link>
+      <description>Missing a flight to my cruise can teach us how the right narratives invite others on the journey with us.</description>
+      <category>ai</category>
+      <guid>https://jason.blog/2026/04/16/connecting-in-narratives/</guid>
+      <pubDate>Mon, 20 Apr 2026 22:03:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Uncorrelated Contents</title>
+      <link>https://www.uncorrelatedcontents.com/blog/trying-and-failing-with-claude</link>
+      <description>When you take a close-up photo of a small object, there tends to be a small portion of the subject in focus, with the rest blurred out. The range of distance that's acceptably in focus is the depth of field; with macro photography it tends to be quite narrow.</description>
+      <category>android</category>
+      <category>ai</category>
+      <category>apple</category>
+      <guid>https://www.uncorrelatedcontents.com/blog/trying-and-failing-with-claude</guid>
+      <pubDate>Mon, 20 Apr 2026 22:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>I'm never buying another Kindle, and neither should you</title>
+      <link>https://www.androidauthority.com/amazon-kindle-2026-3657863/</link>
+      <description>Bricked hardware, ads, and control. The Amazon Kindle is no longer built for readers. Here’s why I’m done with it.</description>
+      <category>android</category>
+      <category>git</category>
+      <category>ai</category>
+      <guid>https://www.androidauthority.com/amazon-kindle-2026-3657863/</guid>
+      <pubDate>Mon, 20 Apr 2026 22:02:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why do people keep stealing the small sauce bottle?</title>
+      <link>https://shub.club/writings/2026/april/why-do-people-steal-the-small-sauce-bottle/</link>
+      <description>A UX question from a restauranteur</description>
+      <guid>https://shub.club/writings/2026/april/why-do-people-steal-the-small-sauce-bottle/</guid>
+      <pubDate>Mon, 20 Apr 2026 22:02:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>I’m Back. Here’s my life story in a nutshell</title>
+      <link>https://jsavage.xyz/2026/04/11/im-back-heres-my-life-story-in-a-nutshell/</link>
+      <description>I haven’t posted anything here in almost 3 years. The main reason is that because after a grueling job search in 2024, I lucked into joining a Big Tech / FAANG company as a senior software engineer…</description>
+      <category>gaming</category>
+      <category>ai</category>
+      <guid>https://jsavage.xyz/2026/04/11/im-back-heres-my-life-story-in-a-nutshell/</guid>
+      <pubDate>Mon, 20 Apr 2026 22:02:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Looking back on Stripe’s payment API migration</title>
+      <link>https://jacobbrazeal.wordpress.com/2026/04/19/review-stripes-payments-apis/</link>
+      <description>This 2020 post walks through the first and second iteration of Stripe’s payment API. The original API was designed for credit card charges and was delightfully simple. You could move money with a s…</description>
+      <category>javascript</category>
+      <category>vscode</category>
+      <guid>https://jacobbrazeal.wordpress.com/2026/04/19/review-stripes-payments-apis/</guid>
+      <pubDate>Mon, 20 Apr 2026 22:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Ultimate Question: What Does the Endgame Look Like? - Pawel Brodzinski on Leadership in Technology</title>
+      <link>https://brodzinski.com/2026/04/what-endgame-looks-like.html</link>
+      <description>Asking "what does the endgame look like?" will show how many predictions can't hold or what other second-order consequences we will face.</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://brodzinski.com/2026/04/what-endgame-looks-like.html</guid>
+      <pubDate>Mon, 20 Apr 2026 22:02:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Benchmarking open-weight models for security research</title>
+      <link>https://dualuse.dev/posts/benchmarking-open-models-for-security-research</link>
+      <description>Testing open-weight models against unpublished vulnerabilities in real products.</description>
+      <author> (Noah Lebovic)</author>
+      <category>ai</category>
+      <guid>https://dualuse.dev/posts/benchmarking-open-models-for-security-research</guid>
+      <pubDate>Mon, 20 Apr 2026 22:02:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Language Modeling Without Neural Networks</title>
+      <link>https://nathan.rs/posts/unbounded-n-gram/</link>
+      <description> Generating Shakespeare has become the “Hello World” of language models.1 Recently, I’ve been messing with alternative language models and came across unbounded …</description>
+      <category>ai</category>
+      <category>encryption</category>
+      <guid>https://nathan.rs/posts/unbounded-n-gram/</guid>
+      <pubDate>Mon, 20 Apr 2026 22:02:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Scaling Claude beyond individual workflows</title>
+      <link>https://ninkovic.dev/blog/2026/scaling-claude-beyond-individual-workflows</link>
+      <description>A practical look at deploying Claude across an organization: skills, plugins, governance, and real-world challenges from a 23-person team.</description>
+      <category>ai</category>
+      <category>git</category>
+      <category>web</category>
+      <guid>https://ninkovic.dev/blog/2026/scaling-claude-beyond-individual-workflows</guid>
+      <pubDate>Mon, 20 Apr 2026 22:02:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hauleth's blog - Scotty, I need warp speed in three minutes</title>
+      <link>https://hauleth.dev/post/things-about-elixir-you-probably-will-never-need/</link>
+      <description>My journey into optimising Elixir codebase of Ultravisor (my fork of Supabase's
+Supavisor).
+
+This story is not about a goal, but ~~friends~~ optimisations we met along the
+way.
+</description>
+      <category>conference</category>
+      <category>sql</category>
+      <category>rust</category>
+      <category>git</category>
+      <guid>https://hauleth.dev/post/things-about-elixir-you-probably-will-never-need/</guid>
+      <pubDate>Mon, 20 Apr 2026 22:02:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Data as a Product is a Promise | Yusuf Aytas</title>
+      <link>https://yusufaytas.com/data-as-a-product-a-new-frontier</link>
+      <description>Stop shipping tables. Build data products with clear contracts, real owners, lifecycle discipline, and observability so teams can trust data.</description>
+      <category>conference</category>
+      <category>git</category>
+      <guid>https://yusufaytas.com/data-as-a-product-a-new-frontier</guid>
+      <pubDate>Mon, 20 Apr 2026 22:02:22 GMT</pubDate>
+    </item>
+    <item>
       <title>ggsql: A grammar of graphics for SQL</title>
       <link>https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/</link>
       <description>Introducing ggsql, a grammar of graphics for SQL that lets you describe visualizations directly inside SQL queries.</description>
