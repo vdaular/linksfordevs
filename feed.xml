@@ -7,6 +7,44 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Saunas Lower Your Heart Rate More Than Exercise</title>
+      <link>https://tryterra.co/research/sauna-effect-on-heart-rate</link>
+      <description>We analyzed 59,000+ daily records from 256 sauna users to quantify what saunas actually do to your body. Using paired t-tests on same-day wearable data, we foun</description>
+      <author> (Rocio Mexia Diaz)</author>
+      <guid>https://tryterra.co/research/sauna-effect-on-heart-rate</guid>
+      <pubDate>Mon, 20 Apr 2026 18:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>ME2-Writeup/README.md at master · coremaze/ME2-Writeup</title>
+      <link>https://github.com/coremaze/ME2-Writeup/blob/master/README.md</link>
+      <description>Reconstructing a Dead USB Protocol: A Handheld's Secrets Unlocked by a Hot Knife -- A multi-disciplinary journey to reviving a forgotten USB interface - coremaze/ME2-Writeup</description>
+      <category>gaming</category>
+      <guid>https://github.com/coremaze/ME2-Writeup/blob/master/README.md</guid>
+      <pubDate>Mon, 20 Apr 2026 18:02:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Kimi K2.6 Tech Blog: Advancing Open-Source Coding</title>
+      <link>https://www.kimi.com/blog/kimi-k2-6</link>
+      <description>Kimi K2.6 advances open-source coding, featuring long-horizon coding, coding-driven design, agent swarms, proactive agents, and the Claw Groups research preview.</description>
+      <category>ai</category>
+      <category>visualstudio</category>
+      <category>cloud</category>
+      <category>python</category>
+      <category>rust</category>
+      <guid>https://www.kimi.com/blog/kimi-k2-6</guid>
+      <pubDate>Mon, 20 Apr 2026 18:02:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qwen Studio</title>
+      <link>https://qwen.ai/blog?id=qwen3.6-max-preview</link>
+      <description>QWEN STUDIO DISCORD
+Following the release of Qwen3.6-Plus, we are sharing an early preview of our next proprietary model: Qwen3.6-Max-Preview. Compared to Qwen3.6-Plus, this preview release brings stronger world knowledge and instruction following, along with significant agentic coding improvements across a wide range of benchmarks. As a preview, the model is still under active development — we are continuing to iterate and expect further gains in subsequent versions.
+Qwen3.6-Max-Preview is the hosted proprietary model available via Alibaba Cloud Model Studio, featuring: improved agentic coding capability over Qwen3.</description>
+      <category>ai</category>
+      <guid>https://qwen.ai/blog?id=qwen3.6-max-preview</guid>
+      <pubDate>Mon, 20 Apr 2026 18:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>Making illegal state unrepresentable</title>
       <link>https://blog.frankel.ch/illegal-state-unrepresentable/</link>
       <description>A couple of years ago, I wrote that The Builder pattern is a finite state machine!. A state machine consists of states and transitions between them. As a developer, I want to make illegal states unrepresentable, i.e., users of my API can’t create non-existent transitions. My hypothesis is that only a static typing system allows this at compile-time. Dynamic typing systems rely on runtime validation.   In this blog post, I will show that it holds true, with a caveat.</description>
