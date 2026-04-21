@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Laws of Software Engineering",
+    "Url": "https://lawsofsoftwareengineering.com/",
+    "Timestamp": "2026-04-21T15:02:12",
+    "Domain": "lawsofsoftwareengineering.com",
+    "Description": "A collection of principles and patterns that shape software systems, teams, and decisions.",
+    "Confidence": 0.97193855
+  },
+  {
     "Title": "Anthropic - OpenClaw",
     "Url": "https://docs.openclaw.ai/providers/anthropic",
     "Timestamp": "2026-04-21T14:02:11",
