@@ -372,26 +372,5 @@ Qwen3.6-Max-Preview is the hosted proprietary model available via Alibaba Cloud 
       <guid>https://qwen.ai/blog?id=qwen3.6-max-preview</guid>
       <pubDate>Mon, 20 Apr 2026 18:02:08 GMT</pubDate>
     </item>
-    <item>
-      <title>Making illegal state unrepresentable</title>
-      <link>https://blog.frankel.ch/illegal-state-unrepresentable/</link>
-      <description>A couple of years ago, I wrote that The Builder pattern is a finite state machine!. A state machine consists of states and transitions between them. As a developer, I want to make illegal states unrepresentable, i.e., users of my API can’t create non-existent transitions. My hypothesis is that only a static typing system allows this at compile-time. Dynamic typing systems rely on runtime validation.   In this blog post, I will show that it holds true, with a caveat.</description>
-      <author> (https://blog.frankel.ch/me/)</author>
-      <category>rust</category>
-      <category>python</category>
-      <category>encryption</category>
-      <category>ai</category>
-      <guid>https://blog.frankel.ch/illegal-state-unrepresentable/</guid>
-      <pubDate>Mon, 20 Apr 2026 17:02:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Atlassian Enables Default Data Collection to Train AI</title>
-      <link>https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8</link>
-      <description>Atlassian will begin collecting customer metadata and in-app content from **Jira**, **Confluence**, and other cloud products by default on **August 17, 2026**, to train its AI offerings including `Rovo` and `Rovo Dev`. The change affects roughly **300,000** customers; metadata collection is mandatory for Free, Standard, and Premium tiers and cannot be opted out on those plans. Enterprise customers can opt out of metadata and in-app collection by default. Collected data will be retained up to **seven years**, with in-app data removed within 30 days after deletion or opt-out and models retrained within 90 days. Customers using customer-managed keys, Atlassian Government Cloud, Isolated Cloud, or with HIPAA requirements are excluded from collection.</description>
-      <category>encryption</category>
-      <category>ai</category>
-      <guid>https://letsdatascience.com/news/atlassian-enables-default-data-collection-to-train-ai-f71343d8</guid>
-      <pubDate>Mon, 20 Apr 2026 17:02:09 GMT</pubDate>
-    </item>
   </channel>
 </rss>
