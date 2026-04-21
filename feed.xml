@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Types of Board Game</title>
+      <link>https://xkcd.com/3235/</link>
+      <description></description>
+      <category>javascript</category>
+      <category>gaming</category>
+      <guid>https://xkcd.com/3235/</guid>
+      <pubDate>Tue, 21 Apr 2026 04:02:05 GMT</pubDate>
+    </item>
+    <item>
       <title>How The Heck Does Shazam Work? (An Interactive Exploration)</title>
       <link>https://perthirtysix.com/how-the-heck-does-shazam-work</link>
       <description>Explore how Shazam and song identification work through interactive visualizations — spectrograms, constellation maps, hash fingerprints, and time-offset matching.</description>
