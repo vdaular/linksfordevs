@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Anthropic - OpenClaw",
+    "Url": "https://docs.openclaw.ai/providers/anthropic",
+    "Timestamp": "2026-04-21T14:02:11",
+    "Domain": "docs.openclaw.ai",
+    "Description": "Anthropic builds the Claude model family and provides access via an API and\nClaude CLI. In OpenClaw, Anthropic API keys and Claude CLI reuse are both\nsupported. Existing legacy Anthropic token profiles are still honored at\nruntime if they are already configured."
+  },
+  {
     "Title": "Speed Up Your AI Development Workflow by 2x",
     "Url": "https://youtube.com/watch?v=lp9jwmBNMvA",
     "Timestamp": "2026-04-21T13:01:27",

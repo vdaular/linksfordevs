@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Anthropic - OpenClaw",
+    "Url": "https://docs.openclaw.ai/providers/anthropic",
+    "Timestamp": "2026-04-21T14:02:11",
+    "Domain": "docs.openclaw.ai",
+    "Description": "Anthropic builds the Claude model family and provides access via an API and\nClaude CLI. In OpenClaw, Anthropic API keys and Claude CLI reuse are both\nsupported. Existing legacy Anthropic token profiles are still honored at\nruntime if they are already configured.",
+    "Confidence": 0.9933933
+  },
+  {
     "Title": "Speed Up Your AI Development Workflow by 2x",
     "Url": "https://youtube.com/watch?v=lp9jwmBNMvA",
     "Timestamp": "2026-04-21T13:01:27",
@@ -302,13 +310,5 @@
     "Domain": "www.theolivepress.es",
     "Description": "SMARTPHONES and tablets sold in Europe will have to feature replaceable batteries starting next year, according to EU rules, amid efforts to slash",
     "Confidence": 0.6402798
-  },
-  {
-    "Title": "Comment Tesla a caché des accidents fatals pour continuer à tester la conduite autonome sur les routes | RTS",
-    "Url": "https://www.rts.ch/info/monde/2026/article/tesla-dissimule-des-milliers-d-incidents-de-conduite-autonome-mortels-29214161.html",
-    "Timestamp": "2026-04-20T14:02:10",
-    "Domain": "www.rts.ch",
-    "Description": "Une fuite de données révèle que Tesla a dissimulé des milliers d'incidents liés à sa conduite autonome. Certains accidents ont été fatals. Un premier verdict condamne le constructeur à verser 243 millions de dollars aux victimes. Une enquête diffusée dans Temps Présent lève le voile sur ces pratiques.",
-    "Confidence": 0.9768465
   }
 ]

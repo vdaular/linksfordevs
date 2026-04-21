@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Anthropic - OpenClaw</title>
+      <link>https://docs.openclaw.ai/providers/anthropic</link>
+      <description>Anthropic builds the Claude model family and provides access via an API and
+Claude CLI. In OpenClaw, Anthropic API keys and Claude CLI reuse are both
+supported. Existing legacy Anthropic token profiles are still honored at
+runtime if they are already configured.</description>
+      <category>javascript</category>
+      <category>ai</category>
+      <guid>https://docs.openclaw.ai/providers/anthropic</guid>
+      <pubDate>Tue, 21 Apr 2026 14:02:11 GMT</pubDate>
+    </item>
+    <item>
       <title>Speed Up Your AI Development Workflow by 2x</title>
       <link>https://youtube.com/watch?v=lp9jwmBNMvA</link>
       <description>This video is NOT sponsored. I just like the products.
@@ -380,15 +392,6 @@ Qwen3.6-Max-Preview is the hosted proprietary model available via Alibaba Cloud 
       <description>SMARTPHONES and tablets sold in Europe will have to feature replaceable batteries starting next year, according to EU rules, amid efforts to slash</description>
       <guid>https://www.theolivepress.es/spain-news/2026/04/20/eu-to-force-replaceable-batteries-in-phones-and-tablets-from-2027/</guid>
       <pubDate>Mon, 20 Apr 2026 16:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Comment Tesla a caché des accidents fatals pour continuer à tester la conduite autonome sur les routes | RTS</title>
-      <link>https://www.rts.ch/info/monde/2026/article/tesla-dissimule-des-milliers-d-incidents-de-conduite-autonome-mortels-29214161.html</link>
-      <description>Une fuite de données révèle que Tesla a dissimulé des milliers d'incidents liés à sa conduite autonome. Certains accidents ont été fatals. Un premier verdict condamne le constructeur à verser 243 millions de dollars aux victimes. Une enquête diffusée dans Temps Présent lève le voile sur ces pratiques.</description>
-      <category>ai</category>
-      <category>web</category>
-      <guid>https://www.rts.ch/info/monde/2026/article/tesla-dissimule-des-milliers-d-incidents-de-conduite-autonome-mortels-29214161.html</guid>
-      <pubDate>Mon, 20 Apr 2026 14:02:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
