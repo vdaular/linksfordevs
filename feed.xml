@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>How The Heck Does Shazam Work? (An Interactive Exploration)</title>
+      <link>https://perthirtysix.com/how-the-heck-does-shazam-work</link>
+      <description>Explore how Shazam and song identification work through interactive visualizations — spectrograms, constellation maps, hash fingerprints, and time-offset matching.</description>
+      <category>android</category>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://perthirtysix.com/how-the-heck-does-shazam-work</guid>
+      <pubDate>Tue, 21 Apr 2026 01:02:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Why We Accepted Surveillance as Default — Vivian Voss</title>
       <link>https://vivianvoss.net/blog/why-we-accepted-surveillance</link>
       <description>Thirty years ago two men in New York invented the third-party cookie. Google paid $3.1 billion for the company. 600 billion bid requests per second later, the question is still unanswered: what if the browser had defended the user?</description>

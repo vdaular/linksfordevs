@@ -1,5 +1,13 @@
 [
   {
+    "Title": "How The Heck Does Shazam Work? (An Interactive Exploration)",
+    "Url": "https://perthirtysix.com/how-the-heck-does-shazam-work",
+    "Timestamp": "2026-04-21T01:02:00",
+    "Domain": "perthirtysix.com",
+    "Description": "Explore how Shazam and song identification work through interactive visualizations — spectrograms, constellation maps, hash fingerprints, and time-offset matching.",
+    "Confidence": 0.96207625
+  },
+  {
     "Title": "Why We Accepted Surveillance as Default — Vivian Voss",
     "Url": "https://vivianvoss.net/blog/why-we-accepted-surveillance",
     "Timestamp": "2026-04-21T00:02:09",
