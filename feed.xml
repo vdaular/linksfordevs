@@ -324,15 +324,5 @@ way.
       <guid>https://yusufaytas.com/data-as-a-product-a-new-frontier</guid>
       <pubDate>Mon, 20 Apr 2026 22:02:22 GMT</pubDate>
     </item>
-    <item>
-      <title>ggsql: A grammar of graphics for SQL</title>
-      <link>https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/</link>
-      <description>Introducing ggsql, a grammar of graphics for SQL that lets you describe visualizations directly inside SQL queries.</description>
-      <category>sql</category>
-      <category>python</category>
-      <category>rust</category>
-      <guid>https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/</guid>
-      <pubDate>Mon, 20 Apr 2026 19:02:04 GMT</pubDate>
-    </item>
   </channel>
 </rss>

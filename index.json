@@ -254,13 +254,5 @@
     "Domain": "yusufaytas.com",
     "Description": "Stop shipping tables. Build data products with clear contracts, real owners, lifecycle discipline, and observability so teams can trust data.",
     "Confidence": 0.9848409
-  },
-  {
-    "Title": "ggsql: A grammar of graphics for SQL",
-    "Url": "https://opensource.posit.co/blog/2026-04-20_ggsql_alpha_release/",
-    "Timestamp": "2026-04-20T19:02:04",
-    "Domain": "opensource.posit.co",
-    "Description": "Introducing ggsql, a grammar of graphics for SQL that lets you describe visualizations directly inside SQL queries.",
-    "Confidence": 0.99021107
   }
 ]
