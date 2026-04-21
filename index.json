@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Speed Up Your AI Development Workflow by 2x",
+    "Url": "https://youtube.com/watch?v=lp9jwmBNMvA",
+    "Timestamp": "2026-04-21T13:01:27",
+    "Domain": "youtube.com",
+    "Description": "This video is NOT sponsored. I just like the products.\nOnline Workshop: Vibe Coding for Production: https://dometrain.com/workshop/vibe-coding-for-production/?ref=nick-chapsas&promo=mail-list&coupon_code=3YEARS\n\nGet every Dometrain 40% off with code 3YEARS: https://dometrain.com/courses/?ref=nick-chapsas&promo=youtube&coupon_code=3YEARS\n\nHello, everybody. I'm Nick, and in this video, I want to talk about two applications that I am using to speed up my development workflow by 2x. They are both free to use, run locally, and are a crucial part of any developer’s toolkit.\n\nCoyypist: https://cotypist.app (Free for now, with commercial plans in the future)\nTypeWhisper: https://www.typewhisper.com (Free for personal use and open source)\n\nDon't forget to comment, like and subscribe :)\n\nSocial Media:\nFollow me on GitHub: https://github.com/Elfocrash\nFollow me on Twitter: https://twitter.com/nickchapsas\nConnect on LinkedIn: https://www.linkedin.com/in/nick-chapsas\n\n#ai #llm",
+    "Confidence": 0.99904037
+  },
+  {
     "Title": "Kimi Vendor Verifier",
     "Url": "https://www.kimi.com/blog/kimi-vendor-verifier",
     "Timestamp": "2026-04-21T09:01:55",
@@ -302,13 +310,5 @@
     "Domain": "www.rts.ch",
     "Description": "Une fuite de données révèle que Tesla a dissimulé des milliers d'incidents liés à sa conduite autonome. Certains accidents ont été fatals. Un premier verdict condamne le constructeur à verser 243 millions de dollars aux victimes. Une enquête diffusée dans Temps Présent lève le voile sur ces pratiques.",
     "Confidence": 0.9768465
-  },
-  {
-    "Title": "Inside GitHub's Fake Star Economy",
-    "Url": "https://awesomeagents.ai/news/github-fake-stars-investigation/",
-    "Timestamp": "2026-04-20T13:02:02",
-    "Domain": "awesomeagents.ai",
-    "Description": "Six million fake stars, $0.06 per click, and a VC funding pipeline that treats GitHub popularity as proof of traction. We ran our own analysis on 20 repos and found the fingerprints.",
-    "Confidence": 0.8365092
   }
 ]

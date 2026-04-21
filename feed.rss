@@ -7,6 +7,33 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Speed Up Your AI Development Workflow by 2x</title>
+      <link>https://youtube.com/watch?v=lp9jwmBNMvA</link>
+      <description>This video is NOT sponsored. I just like the products.
+Online Workshop: Vibe Coding for Production: https://dometrain.com/workshop/vibe-coding-for-production/?ref=nick-chapsas&amp;promo=mail-list&amp;coupon_code=3YEARS
+
+Get every Dometrain 40% off with code 3YEARS: https://dometrain.com/courses/?ref=nick-chapsas&amp;promo=youtube&amp;coupon_code=3YEARS
+
+Hello, everybody. I'm Nick, and in this video, I want to talk about two applications that I am using to speed up my development workflow by 2x. They are both free to use, run locally, and are a crucial part of any developer’s toolkit.
+
+Coyypist: https://cotypist.app (Free for now, with commercial plans in the future)
+TypeWhisper: https://www.typewhisper.com (Free for personal use and open source)
+
+Don't forget to comment, like and subscribe :)
+
+Social Media:
+Follow me on GitHub: https://github.com/Elfocrash
+Follow me on Twitter: https://twitter.com/nickchapsas
+Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas
+
+#ai #llm</description>
+      <author> (Nick Chapsas)</author>
+      <category>ai</category>
+      <category>youtube</category>
+      <guid>https://youtube.com/watch?v=lp9jwmBNMvA</guid>
+      <pubDate>Tue, 21 Apr 2026 13:01:27 GMT</pubDate>
+    </item>
+    <item>
       <title>Kimi Vendor Verifier</title>
       <link>https://www.kimi.com/blog/kimi-vendor-verifier</link>
       <description>Rebuilding the "Chain of Trust" -- Kimi Vendor Verifier.</description>
@@ -362,18 +389,6 @@ Qwen3.6-Max-Preview is the hosted proprietary model available via Alibaba Cloud 
       <category>web</category>
       <guid>https://www.rts.ch/info/monde/2026/article/tesla-dissimule-des-milliers-d-incidents-de-conduite-autonome-mortels-29214161.html</guid>
       <pubDate>Mon, 20 Apr 2026 14:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Inside GitHub's Fake Star Economy</title>
-      <link>https://awesomeagents.ai/news/github-fake-stars-investigation/</link>
-      <description>Six million fake stars, $0.06 per click, and a VC funding pipeline that treats GitHub popularity as proof of traction. We ran our own analysis on 20 repos and found the fingerprints.</description>
-      <author> (https://awesomeagents.ai/authors/elena-marchetti/)</author>
-      <category>nodejs</category>
-      <category>ai</category>
-      <category>git</category>
-      <category>cloud</category>
-      <guid>https://awesomeagents.ai/news/github-fake-stars-investigation/</guid>
-      <pubDate>Mon, 20 Apr 2026 13:02:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
