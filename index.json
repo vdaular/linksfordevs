@@ -198,13 +198,5 @@
     "Domain": "frame.work",
     "Description": "The most repairable pro laptop is here. Get 20 hours of battery & peak performance with Intel Core Ultra Series 3. CNC aluminum with excellent Linux support. Secure yours today!",
     "Confidence": 0.96664363
-  },
-  {
-    "Title": "Laws of Software Engineering",
-    "Url": "https://lawsofsoftwareengineering.com/",
-    "Timestamp": "2026-04-21T15:02:12",
-    "Domain": "lawsofsoftwareengineering.com",
-    "Description": "A collection of principles and patterns that shape software systems, teams, and decisions.",
-    "Confidence": 0.97193855
   }
 ]
