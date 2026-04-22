@@ -222,13 +222,5 @@
     "Domain": "claude.com",
     "Description": "Choose the Claude plan that fits how you solve problems. Free, Pro, Max, Team, and Enterprise tiers, plus API pricing for developers.",
     "Confidence": 0.99520314
-  },
-  {
-    "Title": "Framework Laptop 13 Pro: Intel Core Ultra 3 & LPCAMM2",
-    "Url": "https://frame.work/laptop13pro",
-    "Timestamp": "2026-04-21T20:02:20",
-    "Domain": "frame.work",
-    "Description": "The most repairable pro laptop is here. Get 20 hours of battery & peak performance with Intel Core Ultra Series 3. CNC aluminum with excellent Linux support. Secure yours today!",
-    "Confidence": 0.96664363
   }
 ]
