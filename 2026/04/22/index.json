@@ -1,5 +1,26 @@
 [
   {
+    "Title": "Coding Models Are Doing Too Much",
+    "Url": "https://nrehiew.github.io/blog/minimal_editing/",
+    "Timestamp": "2026-04-22T23:02:20",
+    "Domain": "nrehiew.github.io",
+    "Description": "Code for this post is available here."
+  },
+  {
+    "Title": "We Found a Stable Firefox Identifier Linking All Your Private Tor Identities",
+    "Url": "https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/",
+    "Timestamp": "2026-04-22T23:02:17",
+    "Domain": "fingerprint.com",
+    "Description": "We discovered a privacy vulnerability in Firefox Private Browsing and Tor Browser that allows websites to fingerprint and track users across origins using IndexedDB database ordering, even after closing all private windows."
+  },
+  {
+    "Title": "Show HN submissions tripled and now mostly share the same vibe-coded look",
+    "Url": "https://www.adriankrebs.ch/blog/design-slop/",
+    "Timestamp": "2026-04-22T23:02:13",
+    "Domain": "www.adriankrebs.ch",
+    "Description": "An attempt to detect AI design patterns in Show HN pages"
+  },
+  {
     "Title": "Border Message",
     "Url": "https://xkcd.com/3236/",
     "Timestamp": "2026-04-22T21:02:53",

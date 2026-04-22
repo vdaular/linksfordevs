@@ -7,6 +7,34 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Coding Models Are Doing Too Much</title>
+      <link>https://nrehiew.github.io/blog/minimal_editing/</link>
+      <description>Code for this post is available here.</description>
+      <category>ai</category>
+      <category>encryption</category>
+      <category>python</category>
+      <category>git</category>
+      <guid>https://nrehiew.github.io/blog/minimal_editing/</guid>
+      <pubDate>Wed, 22 Apr 2026 23:02:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>We Found a Stable Firefox Identifier Linking All Your Private Tor Identities</title>
+      <link>https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/</link>
+      <description>We discovered a privacy vulnerability in Firefox Private Browsing and Tor Browser that allows websites to fingerprint and track users across origins using IndexedDB database ordering, even after closing all private windows.</description>
+      <category>sql</category>
+      <guid>https://fingerprint.com/blog/firefox-tor-indexeddb-privacy-vulnerability/</guid>
+      <pubDate>Wed, 22 Apr 2026 23:02:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Show HN submissions tripled and now mostly share the same vibe-coded look</title>
+      <link>https://www.adriankrebs.ch/blog/design-slop/</link>
+      <description>An attempt to detect AI design patterns in Show HN pages</description>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://www.adriankrebs.ch/blog/design-slop/</guid>
+      <pubDate>Wed, 22 Apr 2026 23:02:13 GMT</pubDate>
+    </item>
+    <item>
       <title>Border Message</title>
       <link>https://xkcd.com/3236/</link>
       <description></description>
@@ -305,16 +333,6 @@ Later, also on the phone, in the same day, my dad asked “What is an MCP Server
       <category>ai</category>
       <guid>https://joshduffy.dev/how-i-left-vercel/</guid>
       <pubDate>Wed, 22 Apr 2026 00:02:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Plans &amp; Pricing | Claude by Anthropic</title>
-      <link>https://claude.com/pricing</link>
-      <description>Choose the Claude plan that fits how you solve problems. Free, Pro, Max, Team, and Enterprise tiers, plus API pricing for developers.</description>
-      <category>ai</category>
-      <category>apple</category>
-      <category>android</category>
-      <guid>https://claude.com/pricing</guid>
-      <pubDate>Tue, 21 Apr 2026 23:02:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
