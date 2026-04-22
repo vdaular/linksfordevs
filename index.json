@@ -206,13 +206,5 @@
     "Domain": "lawsofsoftwareengineering.com",
     "Description": "A collection of principles and patterns that shape software systems, teams, and decisions.",
     "Confidence": 0.97193855
-  },
-  {
-    "Title": "Anthropic - OpenClaw",
-    "Url": "https://docs.openclaw.ai/providers/anthropic",
-    "Timestamp": "2026-04-21T14:02:11",
-    "Domain": "docs.openclaw.ai",
-    "Description": "Anthropic builds the Claude model family and provides access via an API and\nClaude CLI. In OpenClaw, Anthropic API keys and Claude CLI reuse are both\nsupported. Existing legacy Anthropic token profiles are still honored at\nruntime if they are already configured.",
-    "Confidence": 0.9933933
   }
 ]

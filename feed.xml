@@ -279,17 +279,5 @@ Later, also on the phone, in the same day, my dad asked “What is an MCP Server
       <guid>https://lawsofsoftwareengineering.com/</guid>
       <pubDate>Tue, 21 Apr 2026 15:02:12 GMT</pubDate>
     </item>
-    <item>
-      <title>Anthropic - OpenClaw</title>
-      <link>https://docs.openclaw.ai/providers/anthropic</link>
-      <description>Anthropic builds the Claude model family and provides access via an API and
-Claude CLI. In OpenClaw, Anthropic API keys and Claude CLI reuse are both
-supported. Existing legacy Anthropic token profiles are still honored at
-runtime if they are already configured.</description>
-      <category>javascript</category>
-      <category>ai</category>
-      <guid>https://docs.openclaw.ai/providers/anthropic</guid>
-      <pubDate>Tue, 21 Apr 2026 14:02:11 GMT</pubDate>
-    </item>
   </channel>
 </rss>
