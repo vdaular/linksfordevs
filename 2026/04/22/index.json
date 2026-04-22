@@ -1,5 +1,12 @@
 [
   {
+    "Title": "The Vercel Breach: OAuth Supply Chain Attack Exposes the Hidden Risk in Platform Environment Variables",
+    "Url": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
+    "Timestamp": "2026-04-22T01:02:03",
+    "Domain": "www.trendmicro.com",
+    "Description": "An OAuth supply chain compromise at Vercel exposed how trusted third party apps and platform environment variables can bypass traditional defenses and amplify blast radius. This article examines the attack chain, underlying design tradeoffs, and what it reveals about modern PaaS and software supply chain risk."
+  },
+  {
     "Title": "I analysed seventeen years of fast food and coffee spending using OpenAI Codex",
     "Url": "https://chrisflemming.com/blog/20260421-fast-food-coffee-spending-codex/",
     "Timestamp": "2026-04-22T00:03:23",

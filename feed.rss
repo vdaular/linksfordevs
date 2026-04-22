@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The Vercel Breach: OAuth Supply Chain Attack Exposes the Hidden Risk in Platform Environment Variables</title>
+      <link>https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html</link>
+      <description>An OAuth supply chain compromise at Vercel exposed how trusted third party apps and platform environment variables can bypass traditional defenses and amplify blast radius. This article examines the attack chain, underlying design tradeoffs, and what it reveals about modern PaaS and software supply chain risk.</description>
+      <category>cloud</category>
+      <category>nodejs</category>
+      <category>ai</category>
+      <category>sql</category>
+      <category>encryption</category>
+      <guid>https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html</guid>
+      <pubDate>Wed, 22 Apr 2026 01:02:03 GMT</pubDate>
+    </item>
+    <item>
       <title>I analysed seventeen years of fast food and coffee spending using OpenAI Codex</title>
       <link>https://chrisflemming.com/blog/20260421-fast-food-coffee-spending-codex/</link>
       <description>Analysis of credit card history using OpenAI Codex</description>
@@ -290,16 +302,6 @@ Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas
       <category>gaming</category>
       <guid>https://xkcd.com/3235/</guid>
       <pubDate>Tue, 21 Apr 2026 04:02:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>How The Heck Does Shazam Work? (An Interactive Exploration)</title>
-      <link>https://perthirtysix.com/how-the-heck-does-shazam-work</link>
-      <description>Explore how Shazam and song identification work through interactive visualizations — spectrograms, constellation maps, hash fingerprints, and time-offset matching.</description>
-      <category>android</category>
-      <category>ai</category>
-      <category>sql</category>
-      <guid>https://perthirtysix.com/how-the-heck-does-shazam-work</guid>
-      <pubDate>Tue, 21 Apr 2026 01:02:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
