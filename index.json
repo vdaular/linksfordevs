@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Ed Zitron (@edzitron.com)",
+    "Url": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
+    "Timestamp": "2026-04-22T02:02:20",
+    "Domain": "bsky.app",
+    "Description": "It appears that Anthropic has removed Claude Code from its $20-a-month pro subscription based on its pricing page. Anyone able to confirm who has a $20 plan?\n\nclaude.com/pricing",
+    "Confidence": 0.9938606
+  },
+  {
     "Title": "The Vercel Breach: OAuth Supply Chain Attack Exposes the Hidden Risk in Platform Environment Variables",
     "Url": "https://www.trendmicro.com/en_us/research/26/d/vercel-breach-oauth-supply-chain.html",
     "Timestamp": "2026-04-22T01:02:03",
