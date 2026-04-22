@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Border Message</title>
+      <link>https://xkcd.com/3236/</link>
+      <description></description>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3236/</guid>
+      <pubDate>Wed, 22 Apr 2026 21:02:53 GMT</pubDate>
+    </item>
+    <item>
       <title>Announcing TypeScript 7.0 Beta - TypeScript</title>
       <link>https://devblogs.microsoft.com/typescript/announcing-typescript-7-0-beta/</link>
       <description>Today we are absolutely thrilled to announce the release of TypeScript 7.0 Beta! If you haven’t been following TypeScript 7.0’s development, this release is significant in that it is built on a completely new foundation. Over the past year, we have been porting the existing TypeScript codebase from TypeScript (as a bootstrapped codebase that compiles […]</description>
