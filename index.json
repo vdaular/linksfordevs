@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Telemetry",
+    "Url": "https://cli.github.com/telemetry",
+    "Timestamp": "2026-04-22T17:02:01",
+    "Domain": "cli.github.com",
+    "Description": "Take GitHub to the command line",
+    "Confidence": 0.99780893
+  },
+  {
     "Title": "Hailey (@hailey@hails.org)",
     "Url": "https://social.hails.org/@hailey/116446826733136456",
     "Timestamp": "2026-04-22T13:02:10",

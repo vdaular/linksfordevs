@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Telemetry</title>
+      <link>https://cli.github.com/telemetry</link>
+      <description>Take GitHub to the command line</description>
+      <category>ai</category>
+      <category>javascript</category>
+      <category>git</category>
+      <guid>https://cli.github.com/telemetry</guid>
+      <pubDate>Wed, 22 Apr 2026 17:02:01 GMT</pubDate>
+    </item>
+    <item>
       <title>Hailey (@hailey@hails.org)</title>
       <link>https://social.hails.org/@hailey/116446826733136456</link>
       <description>Attached: 1 image
