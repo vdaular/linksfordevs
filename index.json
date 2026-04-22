@@ -1,5 +1,149 @@
 [
   {
+    "Title": "I analysed seventeen years of fast food and coffee spending using OpenAI Codex",
+    "Url": "https://chrisflemming.com/blog/20260421-fast-food-coffee-spending-codex/",
+    "Timestamp": "2026-04-22T00:03:23",
+    "Domain": "chrisflemming.com",
+    "Description": "Analysis of credit card history using OpenAI Codex",
+    "Confidence": 0.80709517
+  },
+  {
+    "Title": "Introducing ChatGPT Images 2.0",
+    "Url": "https://openai.com/index/introducing-chatgpt-images-2-0/",
+    "Timestamp": "2026-04-22T00:03:19",
+    "Domain": "openai.com",
+    "Description": "ChatGPT Images 2.0 introduces a state-of-the-art image generation model with improved text rendering, multilingual support, and advanced visual reasoning.",
+    "Confidence": 0.9726624
+  },
+  {
+    "Title": "Designing web interfaces with Claude Code",
+    "Url": "https://segbedji.com/designing-interfaces-with-claude-code/",
+    "Timestamp": "2026-04-22T00:03:15",
+    "Domain": "segbedji.com",
+    "Description": "A software engineer's workflow for getting distinctive, non-generic interfaces out of Claude Code — with real prompts and screenshots.",
+    "Confidence": 0.96240485
+  },
+  {
+    "Title": "The Deskilling Paradox",
+    "Url": "https://signalintent.net/2026/04/21/the-deskilling-paradox/",
+    "Timestamp": "2026-04-22T00:03:09",
+    "Domain": "signalintent.net",
+    "Description": "The industry is trying to sell us a half-true AI productivity story. These tools are undoubtedly making us faster at completing tasks, but that comes at a cost far beyond the time required for huma…",
+    "Confidence": 0.95468146
+  },
+  {
+    "Title": "Consider the chairmaker",
+    "Url": "https://ben.stolovitz.com/posts/consider-the-chairmaker/",
+    "Timestamp": "2026-04-22T00:03:06",
+    "Domain": "ben.stolovitz.com",
+    "Description": "Software engineering is currently artisanal, but AI is making software much cheaper to make. What can we learn from the history of industrial design? Can we bring taste into a world of programming no longer dominated by artisans?",
+    "Confidence": 0.93963504
+  },
+  {
+    "Title": "Why Crystal, 10 Years Later: Performance and Joy",
+    "Url": "https://serdardogruyol.com/why-crystal-10-years-later-performance-and-joy",
+    "Timestamp": "2026-04-22T00:03:02",
+    "Domain": "serdardogruyol.com",
+    "Description": "In late 2015, I sat down to write a blog post, Why Crystal?, about Crystal. At the time, the Ruby community was in a state of flux. Developers were increasingly looking at “Language X” (Go, Rust, or Elixir) to solve performance bottlenecks. As a die-hard Rubyist, I made a claim that felt bold yet inevitable: the “X” should be Crystal.",
+    "Confidence": 0.96849746
+  },
+  {
+    "Title": "The Anatomy of Tool Calling in LLMs: A Deep Dive",
+    "Url": "https://martinuke0.github.io/posts/2026-01-07-the-anatomy-of-tool-calling-in-llms-a-deep-dive/",
+    "Timestamp": "2026-04-22T00:02:58",
+    "Domain": "martinuke0.github.io",
+    "Description": "Introduction Tool calling (also called function calling or plugins) is the capability that turns large language models from text predictors into general-purpose controllers for software.\nInstead of only generating natural language, an LLM can:\nDecide when to call a tool (e.g., “get_weather”, “run_sql_query”) Decide which tool to call Construct arguments for that tool Use the result of the tool to continue its reasoning or response This post is a deep dive into the anatomy of tool calling: the moving parts, how they interact, what can go wrong, and how to design reliable systems on top of them.",
+    "Confidence": 0.99416435
+  },
+  {
+    "Title": "Don't Run This Game: Inside the Myth Journey Malware Campaign",
+    "Url": "http://lockboxx.blogspot.com/2026/04/dont-run-this-game-inside-myth-journey.html",
+    "Timestamp": "2026-04-22T00:02:55",
+    "Domain": "lockboxx.blogspot.com",
+    "Description": "A blog about information security, hacking, and protecting digital infrastructure. Penetration testing, malware analysis, and intrusion detection.",
+    "Confidence": 0.9922383
+  },
+  {
+    "Title": "Closing the Loop: Running the Whole Agent Stack Locally | Mihai Chiorean",
+    "Url": "https://mihaichiorean.com/blog/closing-the-loop/",
+    "Timestamp": "2026-04-22T00:02:51",
+    "Domain": "mihaichiorean.com",
+    "Description": "A 229B model and the full agentic loop — agent, memory, orchestration, inference — running on a $4,700 mini-PC instead of a cloud API. What I'm running, how I got there, and what I would buy if I bought again today.",
+    "Confidence": 0.9675613
+  },
+  {
+    "Title": "Details That Make Interfaces Feel Better",
+    "Url": "https://jakub.kr/writing/details-that-make-interfaces-feel-better",
+    "Timestamp": "2026-04-22T00:02:48",
+    "Domain": "jakub.kr",
+    "Description": "A collection of details that make your interfaces feel better.",
+    "Confidence": 0.99048764
+  },
+  {
+    "Title": "A Short Taxonomy of Bundle Collapse",
+    "Url": "https://narendranag.com/2026/04/20/a-short-taxonomy-of-bundle-collapse.html",
+    "Timestamp": "2026-04-22T00:02:44",
+    "Domain": "narendranag.com",
+    "Description": "Since the streaming bundle wave began in 2024, the industry has tried many bundle shapes and almost all of them have collapsed into four recurring modes of failure. The bundle that works looks least like a bundle.",
+    "Confidence": 0.8583397
+  },
+  {
+    "Title": "Frontend Is Edge Computing",
+    "Url": "https://edge.jmaleonard.com/01-frontend-is-edge-computing.html",
+    "Timestamp": "2026-04-22T00:02:41",
+    "Domain": "edge.jmaleonard.com",
+    "Description": "Part 1 of 8 — Series index",
+    "Confidence": 0.9789931
+  },
+  {
+    "Title": "I accidentally created an Orwellian Performance Review bot that monitored everything",
+    "Url": "http://blog.elzeiny.io/posts/perf-ai/",
+    "Timestamp": "2026-04-22T00:02:38",
+    "Domain": "blog.elzeiny.io",
+    "Description": "Part 1 - Orwellian AI This is mostly a story of how I didn’t think through the implications of the software I was building.\nThe Challenge My brother is a bootstrapped founder for a small, mildly successful startup. One day he starts a conversation that goes something like:\n> Oh man, I’m juggling so much at work.\n> I can’t look away from Marketing, Sales, Engineering, or Product.\n> When I’m leading sales, I spend time away from Product, and they start working on the wrong things.\n> Everyone works hard, but it’s me. I don’t scale.\n> Is that something LLMs can help with? We have so much unstructured data laying around.",
+    "Confidence": 0.900035
+  },
+  {
+    "Title": "Types and Neural Networks",
+    "Url": "https://www.brunogavranovic.com/posts/2026-04-20-types-and-neural-networks.html",
+    "Timestamp": "2026-04-22T00:02:34",
+    "Domain": "www.brunogavranovic.com",
+    "Description": "Posted on April 20, 2026",
+    "Confidence": 0.9903857
+  },
+  {
+    "Title": "Good architecture shouldn't need a carrot or a stick",
+    "Url": "https://frederickvanbrabant.com/blog/2026-04-17-good-architecture-shouldnt-need-a-carrot-or-a-stick/",
+    "Timestamp": "2026-04-22T00:02:31",
+    "Domain": "frederickvanbrabant.com",
+    "Description": "Explore the delirious rantings of Frederick Vanbrabant. A blog focused on the intersection of Enterprise Architecture, product, and business strategy.",
+    "Confidence": 0.9914544
+  },
+  {
+    "Title": "In-Flight Request Tracking: Lessons from Card Payments and HTTP/2",
+    "Url": "https://madflojo.dev/posts/in-flight-request-tracking-in-asynchronous-systems/",
+    "Timestamp": "2026-04-22T00:02:27",
+    "Domain": "madflojo.dev",
+    "Description": "In-flight request tracking is a core architectural concern in distributed systems. This post explores correlation, timeouts, locality, atomic state transitions, and recovery through examples from card payments and HTTP/2.",
+    "Confidence": 0.98671293
+  },
+  {
+    "Title": "Creating an MCP Server to answer questions about me",
+    "Url": "https://jspann.me/blog/posts/aboutme_mcp/",
+    "Timestamp": "2026-04-22T00:02:23",
+    "Domain": "jspann.me",
+    "Description": "I caught up with a friend on the phone on saturday who mentioned he was using an MCP Server to interact with Google Flights.\tKnowing how much it sucks to coordinate travel online, that immediately caught my attention. He told me about one for reddit and that used Gemini CLI (Google, you need to advertise this more!) to do it.\nLater, also on the phone, in the same day, my dad asked “What is an MCP Server?”. In passing, I had heard it was a way for LLMs to get data, but I didn’t know for sure.",
+    "Confidence": 0.9601659
+  },
+  {
+    "Title": "How I Left Vercel, Part 1: The Bill | Josh Duffy",
+    "Url": "https://joshduffy.dev/how-i-left-vercel/",
+    "Timestamp": "2026-04-22T00:02:19",
+    "Domain": "joshduffy.dev",
+    "Description": "I was building a cost dashboard when I found a four-figure charge for functions that did thirty cents of actual work. This is what happened next.",
+    "Confidence": 0.96871144
+  },
+  {
     "Title": "Plans & Pricing | Claude by Anthropic",
     "Url": "https://claude.com/pricing",
     "Timestamp": "2026-04-21T23:02:11",
@@ -70,13 +214,5 @@
     "Domain": "perthirtysix.com",
     "Description": "Explore how Shazam and song identification work through interactive visualizations — spectrograms, constellation maps, hash fingerprints, and time-offset matching.",
     "Confidence": 0.96207625
-  },
-  {
-    "Title": "Why We Accepted Surveillance as Default — Vivian Voss",
-    "Url": "https://vivianvoss.net/blog/why-we-accepted-surveillance",
-    "Timestamp": "2026-04-21T00:02:09",
-    "Domain": "vivianvoss.net",
-    "Description": "Thirty years ago two men in New York invented the third-party cookie. Google paid $3.1 billion for the company. 600 billion bid requests per second later, the question is still unanswered: what if the browser had defended the user?",
-    "Confidence": 0.9227446
   }
 ]

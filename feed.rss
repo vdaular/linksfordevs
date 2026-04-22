@@ -7,6 +7,202 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>I analysed seventeen years of fast food and coffee spending using OpenAI Codex</title>
+      <link>https://chrisflemming.com/blog/20260421-fast-food-coffee-spending-codex/</link>
+      <description>Analysis of credit card history using OpenAI Codex</description>
+      <category>python</category>
+      <category>ai</category>
+      <guid>https://chrisflemming.com/blog/20260421-fast-food-coffee-spending-codex/</guid>
+      <pubDate>Wed, 22 Apr 2026 00:03:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Introducing ChatGPT Images 2.0</title>
+      <link>https://openai.com/index/introducing-chatgpt-images-2-0/</link>
+      <description>ChatGPT Images 2.0 introduces a state-of-the-art image generation model with improved text rendering, multilingual support, and advanced visual reasoning.</description>
+      <category>ai</category>
+      <guid>https://openai.com/index/introducing-chatgpt-images-2-0/</guid>
+      <pubDate>Wed, 22 Apr 2026 00:03:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Designing web interfaces with Claude Code</title>
+      <link>https://segbedji.com/designing-interfaces-with-claude-code/</link>
+      <description>A software engineer's workflow for getting distinctive, non-generic interfaces out of Claude Code — with real prompts and screenshots.</description>
+      <category>web</category>
+      <category>ai</category>
+      <guid>https://segbedji.com/designing-interfaces-with-claude-code/</guid>
+      <pubDate>Wed, 22 Apr 2026 00:03:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Deskilling Paradox</title>
+      <link>https://signalintent.net/2026/04/21/the-deskilling-paradox/</link>
+      <description>The industry is trying to sell us a half-true AI productivity story. These tools are undoubtedly making us faster at completing tasks, but that comes at a cost far beyond the time required for huma…</description>
+      <category>ai</category>
+      <category>nodejs</category>
+      <category>cloud</category>
+      <category>javascript</category>
+      <guid>https://signalintent.net/2026/04/21/the-deskilling-paradox/</guid>
+      <pubDate>Wed, 22 Apr 2026 00:03:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Consider the chairmaker</title>
+      <link>https://ben.stolovitz.com/posts/consider-the-chairmaker/</link>
+      <description>Software engineering is currently artisanal, but AI is making software much cheaper to make. What can we learn from the history of industrial design? Can we bring taste into a world of programming no longer dominated by artisans?</description>
+      <author> (Ben Stolovitz)</author>
+      <category>ai</category>
+      <category>vscode</category>
+      <category>encryption</category>
+      <category>cloud</category>
+      <guid>https://ben.stolovitz.com/posts/consider-the-chairmaker/</guid>
+      <pubDate>Wed, 22 Apr 2026 00:03:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why Crystal, 10 Years Later: Performance and Joy</title>
+      <link>https://serdardogruyol.com/why-crystal-10-years-later-performance-and-joy</link>
+      <description>In late 2015, I sat down to write a blog post, Why Crystal?, about Crystal. At the time, the Ruby community was in a state of flux. Developers were increasingly looking at “Language X” (Go, Rust, or Elixir) to solve performance bottlenecks. As a die-hard Rubyist, I made a claim that felt bold yet inevitable: the “X” should be Crystal.</description>
+      <category>ruby</category>
+      <category>nodejs</category>
+      <category>rust</category>
+      <category>javascript</category>
+      <category>gaming</category>
+      <guid>https://serdardogruyol.com/why-crystal-10-years-later-performance-and-joy</guid>
+      <pubDate>Wed, 22 Apr 2026 00:03:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Anatomy of Tool Calling in LLMs: A Deep Dive</title>
+      <link>https://martinuke0.github.io/posts/2026-01-07-the-anatomy-of-tool-calling-in-llms-a-deep-dive/</link>
+      <description>Introduction Tool calling (also called function calling or plugins) is the capability that turns large language models from text predictors into general-purpose controllers for software.
+Instead of only generating natural language, an LLM can:
+Decide when to call a tool (e.g., “get_weather”, “run_sql_query”) Decide which tool to call Construct arguments for that tool Use the result of the tool to continue its reasoning or response This post is a deep dive into the anatomy of tool calling: the moving parts, how they interact, what can go wrong, and how to design reliable systems on top of them.</description>
+      <category>ai</category>
+      <category>sql</category>
+      <category>vscode</category>
+      <category>python</category>
+      <category>javascript</category>
+      <guid>https://martinuke0.github.io/posts/2026-01-07-the-anatomy-of-tool-calling-in-llms-a-deep-dive/</guid>
+      <pubDate>Wed, 22 Apr 2026 00:02:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Don't Run This Game: Inside the Myth Journey Malware Campaign</title>
+      <link>http://lockboxx.blogspot.com/2026/04/dont-run-this-game-inside-myth-journey.html</link>
+      <description>A blog about information security, hacking, and protecting digital infrastructure. Penetration testing, malware analysis, and intrusion detection.</description>
+      <category>sql</category>
+      <category>gaming</category>
+      <category>javascript</category>
+      <category>git</category>
+      <category>vscode</category>
+      <guid>http://lockboxx.blogspot.com/2026/04/dont-run-this-game-inside-myth-journey.html</guid>
+      <pubDate>Wed, 22 Apr 2026 00:02:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Closing the Loop: Running the Whole Agent Stack Locally | Mihai Chiorean</title>
+      <link>https://mihaichiorean.com/blog/closing-the-loop/</link>
+      <description>A 229B model and the full agentic loop — agent, memory, orchestration, inference — running on a $4,700 mini-PC instead of a cloud API. What I'm running, how I got there, and what I would buy if I bought again today.</description>
+      <category>cloud</category>
+      <category>apple</category>
+      <category>ai</category>
+      <category>vscode</category>
+      <guid>https://mihaichiorean.com/blog/closing-the-loop/</guid>
+      <pubDate>Wed, 22 Apr 2026 00:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Details That Make Interfaces Feel Better</title>
+      <link>https://jakub.kr/writing/details-that-make-interfaces-feel-better</link>
+      <description>A collection of details that make your interfaces feel better.</description>
+      <category>ai</category>
+      <category>apple</category>
+      <category>web</category>
+      <category>vscode</category>
+      <guid>https://jakub.kr/writing/details-that-make-interfaces-feel-better</guid>
+      <pubDate>Wed, 22 Apr 2026 00:02:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>A Short Taxonomy of Bundle Collapse</title>
+      <link>https://narendranag.com/2026/04/20/a-short-taxonomy-of-bundle-collapse.html</link>
+      <description>Since the streaming bundle wave began in 2024, the industry has tried many bundle shapes and almost all of them have collapsed into four recurring modes of failure. The bundle that works looks least like a bundle.</description>
+      <author> (Narendra Nag)</author>
+      <category>gaming</category>
+      <guid>https://narendranag.com/2026/04/20/a-short-taxonomy-of-bundle-collapse.html</guid>
+      <pubDate>Wed, 22 Apr 2026 00:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Frontend Is Edge Computing</title>
+      <link>https://edge.jmaleonard.com/01-frontend-is-edge-computing.html</link>
+      <description>Part 1 of 8 — Series index</description>
+      <category>android</category>
+      <category>nodejs</category>
+      <category>web</category>
+      <category>javascript</category>
+      <category>sql</category>
+      <guid>https://edge.jmaleonard.com/01-frontend-is-edge-computing.html</guid>
+      <pubDate>Wed, 22 Apr 2026 00:02:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>I accidentally created an Orwellian Performance Review bot that monitored everything</title>
+      <link>http://blog.elzeiny.io/posts/perf-ai/</link>
+      <description>Part 1 - Orwellian AI This is mostly a story of how I didn’t think through the implications of the software I was building.
+The Challenge My brother is a bootstrapped founder for a small, mildly successful startup. One day he starts a conversation that goes something like:
+&gt; Oh man, I’m juggling so much at work.
+&gt; I can’t look away from Marketing, Sales, Engineering, or Product.
+&gt; When I’m leading sales, I spend time away from Product, and they start working on the wrong things.
+&gt; Everyone works hard, but it’s me. I don’t scale.
+&gt; Is that something LLMs can help with? We have so much unstructured data laying around.</description>
+      <category>sql</category>
+      <category>ai</category>
+      <guid>http://blog.elzeiny.io/posts/perf-ai/</guid>
+      <pubDate>Wed, 22 Apr 2026 00:02:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Types and Neural Networks</title>
+      <link>https://www.brunogavranovic.com/posts/2026-04-20-types-and-neural-networks.html</link>
+      <description>Posted on April 20, 2026</description>
+      <category>ai</category>
+      <category>javascript</category>
+      <category>gaming</category>
+      <guid>https://www.brunogavranovic.com/posts/2026-04-20-types-and-neural-networks.html</guid>
+      <pubDate>Wed, 22 Apr 2026 00:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Good architecture shouldn't need a carrot or a stick</title>
+      <link>https://frederickvanbrabant.com/blog/2026-04-17-good-architecture-shouldnt-need-a-carrot-or-a-stick/</link>
+      <description>Explore the delirious rantings of Frederick Vanbrabant. A blog focused on the intersection of Enterprise Architecture, product, and business strategy.</description>
+      <guid>https://frederickvanbrabant.com/blog/2026-04-17-good-architecture-shouldnt-need-a-carrot-or-a-stick/</guid>
+      <pubDate>Wed, 22 Apr 2026 00:02:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>In-Flight Request Tracking: Lessons from Card Payments and HTTP/2</title>
+      <link>https://madflojo.dev/posts/in-flight-request-tracking-in-asynchronous-systems/</link>
+      <description>In-flight request tracking is a core architectural concern in distributed systems. This post explores correlation, timeouts, locality, atomic state transitions, and recovery through examples from card payments and HTTP/2.</description>
+      <category>conference</category>
+      <category>sql</category>
+      <category>nodejs</category>
+      <guid>https://madflojo.dev/posts/in-flight-request-tracking-in-asynchronous-systems/</guid>
+      <pubDate>Wed, 22 Apr 2026 00:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Creating an MCP Server to answer questions about me</title>
+      <link>https://jspann.me/blog/posts/aboutme_mcp/</link>
+      <description>I caught up with a friend on the phone on saturday who mentioned he was using an MCP Server to interact with Google Flights.	Knowing how much it sucks to coordinate travel online, that immediately caught my attention. He told me about one for reddit and that used Gemini CLI (Google, you need to advertise this more!) to do it.
+Later, also on the phone, in the same day, my dad asked “What is an MCP Server?”. In passing, I had heard it was a way for LLMs to get data, but I didn’t know for sure.</description>
+      <category>typescript</category>
+      <category>python</category>
+      <category>ai</category>
+      <category>vscode</category>
+      <category>git</category>
+      <guid>https://jspann.me/blog/posts/aboutme_mcp/</guid>
+      <pubDate>Wed, 22 Apr 2026 00:02:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I Left Vercel, Part 1: The Bill | Josh Duffy</title>
+      <link>https://joshduffy.dev/how-i-left-vercel/</link>
+      <description>I was building a cost dashboard when I found a four-figure charge for functions that did thirty cents of actual work. This is what happened next.</description>
+      <category>javascript</category>
+      <category>sql</category>
+      <category>encryption</category>
+      <category>ai</category>
+      <guid>https://joshduffy.dev/how-i-left-vercel/</guid>
+      <pubDate>Wed, 22 Apr 2026 00:02:19 GMT</pubDate>
+    </item>
+    <item>
       <title>Plans &amp; Pricing | Claude by Anthropic</title>
       <link>https://claude.com/pricing</link>
       <description>Choose the Claude plan that fits how you solve problems. Free, Pro, Max, Team, and Enterprise tiers, plus API pricing for developers.</description>
@@ -104,15 +300,6 @@ Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas
       <category>sql</category>
       <guid>https://perthirtysix.com/how-the-heck-does-shazam-work</guid>
       <pubDate>Tue, 21 Apr 2026 01:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why We Accepted Surveillance as Default — Vivian Voss</title>
-      <link>https://vivianvoss.net/blog/why-we-accepted-surveillance</link>
-      <description>Thirty years ago two men in New York invented the third-party cookie. Google paid $3.1 billion for the company. 600 billion bid requests per second later, the question is still unanswered: what if the browser had defended the user?</description>
-      <category>apple</category>
-      <category>sql</category>
-      <guid>https://vivianvoss.net/blog/why-we-accepted-surveillance</guid>
-      <pubDate>Tue, 21 Apr 2026 00:02:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
