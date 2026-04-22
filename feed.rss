@@ -7,6 +7,40 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Announcing TypeScript 7.0 Beta - TypeScript</title>
+      <link>https://devblogs.microsoft.com/typescript/announcing-typescript-7-0-beta/</link>
+      <description>Today we are absolutely thrilled to announce the release of TypeScript 7.0 Beta! If you haven’t been following TypeScript 7.0’s development, this release is significant in that it is built on a completely new foundation. Over the past year, we have been porting the existing TypeScript codebase from TypeScript (as a bootstrapped codebase that compiles […]</description>
+      <category>typescript</category>
+      <category>nodejs</category>
+      <category>javascript</category>
+      <category>visualstudio</category>
+      <category>vscode</category>
+      <guid>https://devblogs.microsoft.com/typescript/announcing-typescript-7-0-beta/</guid>
+      <pubDate>Wed, 22 Apr 2026 18:02:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Qwen Studio</title>
+      <link>https://qwen.ai/blog?id=qwen3.6-27b</link>
+      <description>QWEN STUDIO HUGGING FACE MODELSCOPE DISCORD
+Following the launch of Qwen3.6-Plus and Qwen3.6-35B-A3B, we are excited to open-source Qwen3.6-27B — a dense 27-billion-parameter multimodal model at the scale the community has been asking for most. Still supporting both multimodal thinking and non-thinking modes, Qwen3.6-27B delivers flagship-level agentic coding performance, surpassing the previous-generation open-source flagship Qwen3.5-397B-A17B (397B total / 17B active MoE) across all major coding benchmarks. As a dense architecture, it is straightforward to deploy without MoE routing complexity, making it an ideal choice for developers who need top-tier coding capabilities at a practical, widely-deployable scale.</description>
+      <category>nodejs</category>
+      <category>visualstudio</category>
+      <category>vscode</category>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://qwen.ai/blog?id=qwen3.6-27b</guid>
+      <pubDate>Wed, 22 Apr 2026 18:02:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Our eighth generation TPUs: two chips for the agentic era</title>
+      <link>https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/</link>
+      <description>An overview of Google’s eighth generation TPUs, built for the agentic era.</description>
+      <category>cloud</category>
+      <category>ai</category>
+      <guid>https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/</guid>
+      <pubDate>Wed, 22 Apr 2026 18:02:19 GMT</pubDate>
+    </item>
+    <item>
       <title>Telemetry</title>
       <link>https://cli.github.com/telemetry</link>
       <description>Take GitHub to the command line</description>

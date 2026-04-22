@@ -1,5 +1,29 @@
 [
   {
+    "Title": "Announcing TypeScript 7.0 Beta - TypeScript",
+    "Url": "https://devblogs.microsoft.com/typescript/announcing-typescript-7-0-beta/",
+    "Timestamp": "2026-04-22T18:02:30",
+    "Domain": "devblogs.microsoft.com",
+    "Description": "Today we are absolutely thrilled to announce the release of TypeScript 7.0 Beta! If you haven’t been following TypeScript 7.0’s development, this release is significant in that it is built on a completely new foundation. Over the past year, we have been porting the existing TypeScript codebase from TypeScript (as a bootstrapped codebase that compiles […]",
+    "Confidence": 0.99645174
+  },
+  {
+    "Title": "Qwen Studio",
+    "Url": "https://qwen.ai/blog?id=qwen3.6-27b",
+    "Timestamp": "2026-04-22T18:02:24",
+    "Domain": "qwen.ai",
+    "Description": "QWEN STUDIO HUGGING FACE MODELSCOPE DISCORD\nFollowing the launch of Qwen3.6-Plus and Qwen3.6-35B-A3B, we are excited to open-source Qwen3.6-27B — a dense 27-billion-parameter multimodal model at the scale the community has been asking for most. Still supporting both multimodal thinking and non-thinking modes, Qwen3.6-27B delivers flagship-level agentic coding performance, surpassing the previous-generation open-source flagship Qwen3.5-397B-A17B (397B total / 17B active MoE) across all major coding benchmarks. As a dense architecture, it is straightforward to deploy without MoE routing complexity, making it an ideal choice for developers who need top-tier coding capabilities at a practical, widely-deployable scale.",
+    "Confidence": 0.99547184
+  },
+  {
+    "Title": "Our eighth generation TPUs: two chips for the agentic era",
+    "Url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
+    "Timestamp": "2026-04-22T18:02:19",
+    "Domain": "blog.google",
+    "Description": "An overview of Google’s eighth generation TPUs, built for the agentic era.",
+    "Confidence": 0.96777815
+  },
+  {
     "Title": "Telemetry",
     "Url": "https://cli.github.com/telemetry",
     "Timestamp": "2026-04-22T17:02:01",
