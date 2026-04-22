@@ -7,6 +7,20 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Hailey (@hailey@hails.org)</title>
+      <link>https://social.hails.org/@hailey/116446826733136456</link>
+      <description>Attached: 1 image
+
+With Windows 9x Subsystem for Linux you can run all your favourite Windows and Linux apps side-by-side with a modern Linux kernel running cooperatively with the Windows kernel in ring 0. And unlike modern WSL, no hardware virtualisation is used so even your 486 can run it!
+
+Please enjoy, I think this might be one of my greatest hacks of all time
+
+https://codeberg.org/hails/wsl9x</description>
+      <category>linux</category>
+      <guid>https://social.hails.org/@hailey/116446826733136456</guid>
+      <pubDate>Wed, 22 Apr 2026 13:02:10 GMT</pubDate>
+    </item>
+    <item>
       <title>How to Come Up With Great Ideas</title>
       <link>https://idiallo.com/blog/how-to-come-up-with-great-ideas?src=feed</link>
       <description>There's a story about an art teacher who divides a class into two groups. The first group is given one task. Design a single, perfect pot. The second group has a different instruction entirely. Make a</description>
@@ -276,33 +290,6 @@ runtime if they are already configured.</description>
       <category>ai</category>
       <guid>https://docs.openclaw.ai/providers/anthropic</guid>
       <pubDate>Tue, 21 Apr 2026 14:02:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Speed Up Your AI Development Workflow by 2x</title>
-      <link>https://youtube.com/watch?v=lp9jwmBNMvA</link>
-      <description>This video is NOT sponsored. I just like the products.
-Online Workshop: Vibe Coding for Production: https://dometrain.com/workshop/vibe-coding-for-production/?ref=nick-chapsas&amp;promo=mail-list&amp;coupon_code=3YEARS
-
-Get every Dometrain 40% off with code 3YEARS: https://dometrain.com/courses/?ref=nick-chapsas&amp;promo=youtube&amp;coupon_code=3YEARS
-
-Hello, everybody. I'm Nick, and in this video, I want to talk about two applications that I am using to speed up my development workflow by 2x. They are both free to use, run locally, and are a crucial part of any developer’s toolkit.
-
-Coyypist: https://cotypist.app (Free for now, with commercial plans in the future)
-TypeWhisper: https://www.typewhisper.com (Free for personal use and open source)
-
-Don't forget to comment, like and subscribe :)
-
-Social Media:
-Follow me on GitHub: https://github.com/Elfocrash
-Follow me on Twitter: https://twitter.com/nickchapsas
-Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas
-
-#ai #llm</description>
-      <author> (Nick Chapsas)</author>
-      <category>ai</category>
-      <category>youtube</category>
-      <guid>https://youtube.com/watch?v=lp9jwmBNMvA</guid>
-      <pubDate>Tue, 21 Apr 2026 13:01:27 GMT</pubDate>
     </item>
   </channel>
 </rss>

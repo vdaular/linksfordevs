@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Hailey (@hailey@hails.org)",
+    "Url": "https://social.hails.org/@hailey/116446826733136456",
+    "Timestamp": "2026-04-22T13:02:10",
+    "Domain": "social.hails.org",
+    "Description": "Attached: 1 image\n\nWith Windows 9x Subsystem for Linux you can run all your favourite Windows and Linux apps side-by-side with a modern Linux kernel running cooperatively with the Windows kernel in ring 0. And unlike modern WSL, no hardware virtualisation is used so even your 486 can run it!\n\nPlease enjoy, I think this might be one of my greatest hacks of all time\n\nhttps://codeberg.org/hails/wsl9x",
+    "Confidence": 0.9905632
+  },
+  {
     "Title": "How to Come Up With Great Ideas",
     "Url": "https://idiallo.com/blog/how-to-come-up-with-great-ideas?src=feed",
     "Timestamp": "2026-04-22T12:02:15",
@@ -206,13 +214,5 @@
     "Domain": "docs.openclaw.ai",
     "Description": "Anthropic builds the Claude model family and provides access via an API and\nClaude CLI. In OpenClaw, Anthropic API keys and Claude CLI reuse are both\nsupported. Existing legacy Anthropic token profiles are still honored at\nruntime if they are already configured.",
     "Confidence": 0.9933933
-  },
-  {
-    "Title": "Speed Up Your AI Development Workflow by 2x",
-    "Url": "https://youtube.com/watch?v=lp9jwmBNMvA",
-    "Timestamp": "2026-04-21T13:01:27",
-    "Domain": "youtube.com",
-    "Description": "This video is NOT sponsored. I just like the products.\nOnline Workshop: Vibe Coding for Production: https://dometrain.com/workshop/vibe-coding-for-production/?ref=nick-chapsas&promo=mail-list&coupon_code=3YEARS\n\nGet every Dometrain 40% off with code 3YEARS: https://dometrain.com/courses/?ref=nick-chapsas&promo=youtube&coupon_code=3YEARS\n\nHello, everybody. I'm Nick, and in this video, I want to talk about two applications that I am using to speed up my development workflow by 2x. They are both free to use, run locally, and are a crucial part of any developer’s toolkit.\n\nCoyypist: https://cotypist.app (Free for now, with commercial plans in the future)\nTypeWhisper: https://www.typewhisper.com (Free for personal use and open source)\n\nDon't forget to comment, like and subscribe :)\n\nSocial Media:\nFollow me on GitHub: https://github.com/Elfocrash\nFollow me on Twitter: https://twitter.com/nickchapsas\nConnect on LinkedIn: https://www.linkedin.com/in/nick-chapsas\n\n#ai #llm",
-    "Confidence": 0.99904037
   }
 ]
