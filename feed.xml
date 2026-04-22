@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Luddites and AI datacenters</title>
+      <link>https://www.seangoedecke.com/luddites-and-ai-datacenters/</link>
+      <description>Is it time to start burning down datacenters?</description>
+      <category>ai</category>
+      <guid>https://www.seangoedecke.com/luddites-and-ai-datacenters/</guid>
+      <pubDate>Wed, 22 Apr 2026 07:01:59 GMT</pubDate>
+    </item>
+    <item>
       <title>Ed Zitron (@edzitron.com)</title>
       <link>https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a</link>
       <description>It appears that Anthropic has removed Claude Code from its $20-a-month pro subscription based on its pricing page. Anyone able to confirm who has a $20 plan?
@@ -296,13 +304,6 @@ Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas
       <category>javascript</category>
       <guid>https://www.kimi.com/blog/kimi-vendor-verifier</guid>
       <pubDate>Tue, 21 Apr 2026 09:01:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>The F-35 Is a Masterpiece Built for the Wrong War</title>
-      <link>https://warontherocks.com/cogs-of-war/the-f-35-is-a-masterpiece-built-for-the-wrong-war/</link>
-      <description>Think of a violin made by a master craftsman: beautiful, precise, capable of extraordinary performance, but impossible to produce quickly or cheaply. It</description>
-      <guid>https://warontherocks.com/cogs-of-war/the-f-35-is-a-masterpiece-built-for-the-wrong-war/</guid>
-      <pubDate>Tue, 21 Apr 2026 07:02:07 GMT</pubDate>
     </item>
   </channel>
 </rss>

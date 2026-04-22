@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Luddites and AI datacenters",
+    "Url": "https://www.seangoedecke.com/luddites-and-ai-datacenters/",
+    "Timestamp": "2026-04-22T07:01:59",
+    "Domain": "www.seangoedecke.com",
+    "Description": "Is it time to start burning down datacenters?",
+    "Confidence": 0.80945754
+  },
+  {
     "Title": "Ed Zitron (@edzitron.com)",
     "Url": "https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a",
     "Timestamp": "2026-04-22T02:02:20",
@@ -206,13 +214,5 @@
     "Domain": "www.kimi.com",
     "Description": "Rebuilding the \"Chain of Trust\" -- Kimi Vendor Verifier.",
     "Confidence": 0.9675929
-  },
-  {
-    "Title": "The F-35 Is a Masterpiece Built for the Wrong War",
-    "Url": "https://warontherocks.com/cogs-of-war/the-f-35-is-a-masterpiece-built-for-the-wrong-war/",
-    "Timestamp": "2026-04-21T07:02:07",
-    "Domain": "warontherocks.com",
-    "Description": "Think of a violin made by a master craftsman: beautiful, precise, capable of extraordinary performance, but impossible to produce quickly or cheaply. It",
-    "Confidence": 0.8194463
   }
 ]
