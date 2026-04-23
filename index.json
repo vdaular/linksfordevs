@@ -198,13 +198,5 @@
     "Domain": "www.adriankrebs.ch",
     "Description": "An attempt to detect AI design patterns in Show HN pages",
     "Confidence": 0.9500346
-  },
-  {
-    "Title": "Border Message",
-    "Url": "https://xkcd.com/3236/",
-    "Timestamp": "2026-04-22T21:02:53",
-    "Domain": "xkcd.com",
-    "Description": "",
-    "Confidence": 0.98151064
   }
 ]

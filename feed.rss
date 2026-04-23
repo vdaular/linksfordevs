@@ -271,13 +271,5 @@ specific tenant from one instance to another.</description>
       <guid>https://www.adriankrebs.ch/blog/design-slop/</guid>
       <pubDate>Wed, 22 Apr 2026 23:02:13 GMT</pubDate>
     </item>
-    <item>
-      <title>Border Message</title>
-      <link>https://xkcd.com/3236/</link>
-      <description></description>
-      <category>javascript</category>
-      <guid>https://xkcd.com/3236/</guid>
-      <pubDate>Wed, 22 Apr 2026 21:02:53 GMT</pubDate>
-    </item>
   </channel>
 </rss>
