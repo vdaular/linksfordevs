@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>crawshaw - 2026-04-22</title>
+      <link>https://crawshaw.io/blog/building-a-cloud</link>
+      <description>2026-04-22</description>
+      <category>containers</category>
+      <category>linux</category>
+      <category>cloud</category>
+      <guid>https://crawshaw.io/blog/building-a-cloud</guid>
+      <pubDate>Thu, 23 Apr 2026 09:02:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Highlights from Git 2.54</title>
       <link>https://github.blog/open-source/git/highlights-from-git-2-54/</link>
       <description>The open source Git project just released Git 2.54. Here is GitHub’s look at some of the most interesting features and changes introduced since last time.</description>
