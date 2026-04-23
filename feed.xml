@@ -287,19 +287,5 @@ Following the launch of Qwen3.6-Plus and Qwen3.6-35B-A3B, we are excited to open
       <guid>https://cli.github.com/telemetry</guid>
       <pubDate>Wed, 22 Apr 2026 17:02:01 GMT</pubDate>
     </item>
-    <item>
-      <title>Hailey (@hailey@hails.org)</title>
-      <link>https://social.hails.org/@hailey/116446826733136456</link>
-      <description>Attached: 1 image
-
-With Windows 9x Subsystem for Linux you can run all your favourite Windows and Linux apps side-by-side with a modern Linux kernel running cooperatively with the Windows kernel in ring 0. And unlike modern WSL, no hardware virtualisation is used so even your 486 can run it!
-
-Please enjoy, I think this might be one of my greatest hacks of all time
-
-https://codeberg.org/hails/wsl9x</description>
-      <category>linux</category>
-      <guid>https://social.hails.org/@hailey/116446826733136456</guid>
-      <pubDate>Wed, 22 Apr 2026 13:02:10 GMT</pubDate>
-    </item>
   </channel>
 </rss>
