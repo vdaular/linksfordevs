@@ -1,5 +1,19 @@
 [
   {
+    "Title": "Introducing GPT-5.5",
+    "Url": "https://openai.com/index/introducing-gpt-5-5/",
+    "Timestamp": "2026-04-23T19:02:16",
+    "Domain": "openai.com",
+    "Description": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools."
+  },
+  {
+    "Title": "French govt agency confirms breach as hacker offers to sell data",
+    "Url": "https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/",
+    "Timestamp": "2026-04-23T19:02:11",
+    "Domain": "www.bleepingcomputer.com",
+    "Description": "France Titres, the government agency in France for issuing and managing administrative documents has disclosed a data breach after a threat actor claimed the attack and stealing citizen data."
+  },
+  {
     "Title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain ...",
     "Url": "https://socket.dev/blog/bitwarden-cli-compromised",
     "Timestamp": "2026-04-23T17:02:14",

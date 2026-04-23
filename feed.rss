@@ -7,6 +7,22 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Introducing GPT-5.5</title>
+      <link>https://openai.com/index/introducing-gpt-5-5/</link>
+      <description>Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.</description>
+      <category>ai</category>
+      <guid>https://openai.com/index/introducing-gpt-5-5/</guid>
+      <pubDate>Thu, 23 Apr 2026 19:02:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>French govt agency confirms breach as hacker offers to sell data</title>
+      <link>https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/</link>
+      <description>France Titres, the government agency in France for issuing and managing administrative documents has disclosed a data breach after a threat actor claimed the attack and stealing citizen data.</description>
+      <category>ai</category>
+      <guid>https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/</guid>
+      <pubDate>Thu, 23 Apr 2026 19:02:11 GMT</pubDate>
+    </item>
+    <item>
       <title>Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain ...</title>
       <link>https://socket.dev/blog/bitwarden-cli-compromised</link>
       <description>Bitwarden CLI 2026.4.0 was compromised in the Checkmarx supply chain campaign after attackers abused a GitHub Action in Bitwarden’s CI/CD pipeline.</description>
