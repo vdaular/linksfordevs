@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain ...</title>
+      <link>https://socket.dev/blog/bitwarden-cli-compromised</link>
+      <description>Bitwarden CLI 2026.4.0 was compromised in the Checkmarx supply chain campaign after attackers abused a GitHub Action in Bitwarden’s CI/CD pipeline.</description>
+      <category>nodejs</category>
+      <category>conference</category>
+      <category>encryption</category>
+      <category>cloud</category>
+      <category>javascript</category>
+      <guid>https://socket.dev/blog/bitwarden-cli-compromised</guid>
+      <pubDate>Thu, 23 Apr 2026 17:02:14 GMT</pubDate>
+    </item>
+    <item>
       <title>crawshaw - 2026-04-22</title>
       <link>https://crawshaw.io/blog/building-a-cloud</link>
       <description>2026-04-22</description>
@@ -276,16 +288,6 @@ Following the launch of Qwen3.6-Plus and Qwen3.6-35B-A3B, we are excited to open
       <category>ai</category>
       <guid>https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/</guid>
       <pubDate>Wed, 22 Apr 2026 18:02:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Telemetry</title>
-      <link>https://cli.github.com/telemetry</link>
-      <description>Take GitHub to the command line</description>
-      <category>ai</category>
-      <category>javascript</category>
-      <category>git</category>
-      <guid>https://cli.github.com/telemetry</guid>
-      <pubDate>Wed, 22 Apr 2026 17:02:01 GMT</pubDate>
     </item>
   </channel>
 </rss>

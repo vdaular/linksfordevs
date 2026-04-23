@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain ...",
+    "Url": "https://socket.dev/blog/bitwarden-cli-compromised",
+    "Timestamp": "2026-04-23T17:02:14",
+    "Domain": "socket.dev",
+    "Description": "Bitwarden CLI 2026.4.0 was compromised in the Checkmarx supply chain campaign after attackers abused a GitHub Action in Bitwarden’s CI/CD pipeline."
+  },
+  {
     "Title": "crawshaw - 2026-04-22",
     "Url": "https://crawshaw.io/blog/building-a-cloud",
     "Timestamp": "2026-04-23T09:02:00",
