@@ -298,15 +298,5 @@ https://codeberg.org/hails/wsl9x</description>
       <guid>https://www.seangoedecke.com/luddites-and-ai-datacenters/</guid>
       <pubDate>Wed, 22 Apr 2026 07:01:59 GMT</pubDate>
     </item>
-    <item>
-      <title>Ed Zitron (@edzitron.com)</title>
-      <link>https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a</link>
-      <description>It appears that Anthropic has removed Claude Code from its $20-a-month pro subscription based on its pricing page. Anyone able to confirm who has a $20 plan?
-
-claude.com/pricing</description>
-      <category>ai</category>
-      <guid>https://bsky.app/profile/edzitron.com/post/3mjzxwfx3qs2a</guid>
-      <pubDate>Wed, 22 Apr 2026 02:02:20 GMT</pubDate>
-    </item>
   </channel>
 </rss>
