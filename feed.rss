@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Highlights from Git 2.54</title>
+      <link>https://github.blog/open-source/git/highlights-from-git-2-54/</link>
+      <description>The open source Git project just released Git 2.54. Here is GitHub’s look at some of the most interesting features and changes introduced since last time.</description>
+      <category>git</category>
+      <category>sql</category>
+      <guid>https://github.blog/open-source/git/highlights-from-git-2-54/</guid>
+      <pubDate>Thu, 23 Apr 2026 06:02:05 GMT</pubDate>
+    </item>
+    <item>
       <title>World Models will push the frontier for LLMs</title>
       <link>https://lucrbvi.bearblog.dev/world-models-will-push-the-frontier/</link>
       <description>Large Language Models are trained using the next-token prediction objective. This means that the vocabulary distribution of the model needs to be close to th...</description>
