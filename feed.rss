@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>An update on recent Claude Code quality reports</title>
+      <link>https://www.anthropic.com/engineering/april-23-postmortem</link>
+      <description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
+      <category>ai</category>
+      <guid>https://www.anthropic.com/engineering/april-23-postmortem</guid>
+      <pubDate>Thu, 23 Apr 2026 20:02:23 GMT</pubDate>
+    </item>
+    <item>
       <title>Introducing GPT-5.5</title>
       <link>https://openai.com/index/introducing-gpt-5-5/</link>
       <description>Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.</description>
