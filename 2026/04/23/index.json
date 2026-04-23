@@ -1,1 +1,114 @@
-[]
+[
+  {
+    "Title": "World Models will push the frontier for LLMs",
+    "Url": "https://lucrbvi.bearblog.dev/world-models-will-push-the-frontier/",
+    "Timestamp": "2026-04-23T01:03:12",
+    "Domain": "lucrbvi.bearblog.dev",
+    "Description": "Large Language Models are trained using the next-token prediction objective. This means that the vocabulary distribution of the model needs to be close to th..."
+  },
+  {
+    "Title": "Why You Need MLOps: When CI/CD for Machine Learning Becomes Mandatory",
+    "Url": "https://blog.ateljevagabond.se/posts/why-you-need-mlops/",
+    "Timestamp": "2026-04-23T01:03:09",
+    "Domain": "blog.ateljevagabond.se",
+    "Description": "Why MLOps is mandatory: architectural thresholds, Azure vs. GCP cloud patterns, hidden GPU costs, and the real risks of deploying ML without pipelines."
+  },
+  {
+    "Title": "Inside a Massive 1980s Hard Drive: 14 Inches of Fury!",
+    "Url": "https://youtube.com/watch?v=qSNTtA7gXOA",
+    "Timestamp": "2026-04-23T01:03:05",
+    "Domain": "youtube.com",
+    "Description": "Dave takes you on a POV tour of his 1979 DEC PDP-11/44, including a look at the CPU complex, inside the massive 14\" hard drives, and more!"
+  },
+  {
+    "Title": "Zain Hasan | Inside Claude Code: An Architecture Deep Dive",
+    "Url": "https://zainhas.github.io/blog/2026/inside-claude-code-architecture/",
+    "Timestamp": "2026-04-23T01:03:04",
+    "Domain": "zainhas.github.io",
+    "Description": "A walkthrough of how Claude Code works internally — from its layered architecture and query loop to its tool system and permission model."
+  },
+  {
+    "Title": "Agents and the Era of Overproduction",
+    "Url": "https://mattrogish.com/blog/2026/03/11/agents-and-the-era-of-overproduction/",
+    "Timestamp": "2026-04-23T01:03:00",
+    "Domain": "mattrogish.com",
+    "Description": "It seems somewhat fitting that now, March 11, 2026, almost three years ago to the day that OpenAI’s GPT-4 was released (and almost three years after I asked GPT-4 my first recorded questionI distinctly remember asking GPT3.5 to create a song about something in the style of Nine Inch Nails, but my ChatGPT.com history only goes back to March 27, 2023.\n\nCompare March 2023 with March 2026. (I have no idea why I was interested in this.)\n), I’m writing my first thoughts on it."
+  },
+  {
+    "Title": "You can make something good",
+    "Url": "https://sfalexandria.com/posts/farzas-creations/",
+    "Timestamp": "2026-04-23T01:02:56",
+    "Domain": "sfalexandria.com",
+    "Description": "Farza Majeed on bringing your ideas to life"
+  },
+  {
+    "Title": "Can We Measure Software Slop? An Experiment",
+    "Url": "https://pscanf.com/s/352/",
+    "Timestamp": "2026-04-23T01:02:51",
+    "Domain": "pscanf.com",
+    "Description": "\nIn this article, I propose a definition of software slop based on human\nattention (slop = code that hasn't been reviewed or verified) and sketch out a\nway to estimate how \"sloppy\" a piece of software is.\n\n\nI put it to the test with Slop-O-Meter, an experimental tool that analyzes\npublic GitHub repos and assigns them a sloppiness score. I then discuss the\nresults of the tool, which are not very reliable, but interesting nonetheless.\n\n"
+  },
+  {
+    "Title": "How to Open Source and Not Starve",
+    "Url": "https://hajo.me/blog/2026/04/22/how-to-open-source-and-not-starve/",
+    "Timestamp": "2026-04-23T01:02:48",
+    "Domain": "hajo.me",
+    "Description": ""
+  },
+  {
+    "Title": "What an hour of your attention is worth — jonno.nz",
+    "Url": "https://jonno.nz/posts/what-an-hour-of-your-attention-is-worth/",
+    "Timestamp": "2026-04-23T01:02:43",
+    "Domain": "jonno.nz",
+    "Description": "You pay Big Tech about $1,000 a year in attention. Here's how to read the meter — and why building your own is suddenly cheaper than opting out."
+  },
+  {
+    "Title": "The price of software is going to zero",
+    "Url": "https://blog.sledgeworx.dev/software-going-to-zero/",
+    "Timestamp": "2026-04-23T01:02:38",
+    "Domain": "blog.sledgeworx.dev",
+    "Description": "The price of software is going to zero. AI assisted programming makes it much faster and cheaper to build software. On the scale of the software market this means that most of what is currently consumer paid software will become free software. Prior to AI only large hyperscalers could afford to offer truly free software. Gmail has been free since its inception. Fastmail charges $60/year for a comparable service.\nMany SAAS companies have offered ‘free’ tiers over the years. Resend offers 3000 emails a month for free. Mailchimp and ConvertKit offer free tiers for smaller businesses. The goal of these free tiers was to draw in users who might later upgrade to a paid plan. Essentially, the free plan is advertising for the paid plan."
+  },
+  {
+    "Title": "Don't Read the PDF. Write the Parser. | Adrià Cidre",
+    "Url": "https://adriacidre.com/blog/self-healing-parsers-instead-of-vision/",
+    "Timestamp": "2026-04-23T01:02:35",
+    "Domain": "adriacidre.com",
+    "Description": "I stopped feeding hospital PDFs to a vision model. When the layout changes, the AI fixes the parser instead — and production never sees a token."
+  },
+  {
+    "Title": "Moving a tenant across PostgreSQL instances · Anantha Kumaran",
+    "Url": "https://ananthakumaran.in/2026/04/22/moving-tenant-across-postgresql-instances.html",
+    "Timestamp": "2026-04-23T01:02:31",
+    "Domain": "ananthakumaran.in",
+    "Description": "In earlier posts, I covered how to move\nfull\nPostgreSQL data between instances using GCP DMS, and how to move\nselected\ntables\nacross instances. In this post, I’ll focus on moving data for a\nspecific tenant from one instance to another."
+  },
+  {
+    "Title": "Syncing Time Over the Internet",
+    "Url": "https://brati.sh/blog/syncing-time-over-internet/",
+    "Timestamp": "2026-04-23T01:02:27",
+    "Domain": "brati.sh",
+    "Description": "When you buy a brand new computer—let's say you bought a MacBook—and you open it for the first time, it is not yet connected to any internet. As such, it shows the wrong time. But the moment you connect it to your Wi-Fi for the first time, automatically, it somehow manages to show the correct time. Have you ever wondered how it does this?"
+  },
+  {
+    "Title": "I'm Using Claude Code for Everything Else But Coding",
+    "Url": "https://chandlernguyen.com/blog/2026/04/22/im-using-claude-code-for-everything-else-but-coding/",
+    "Timestamp": "2026-04-23T01:02:23",
+    "Domain": "chandlernguyen.com",
+    "Description": "Nineteen days after cancelling Claude Max, my pattern has settled. Codex with GPT-5.4 on xHigh took the coding seat. Claude Code with Opus 4.7 on xHigh took every other seat at the desk."
+  },
+  {
+    "Title": "Most of What We Call Progress | Yusuf Aytas",
+    "Url": "https://yusufaytas.com/most-of-what-we-call-progress",
+    "Timestamp": "2026-04-23T01:02:19",
+    "Domain": "yusufaytas.com",
+    "Description": "What years of software development reveal about progress, process, and people, reflections on why good judgment outlasts tools, and simplicity always wins."
+  },
+  {
+    "Title": "Writing an LLM from scratch, part 33 -- what I learned from finally getting round to the appendices",
+    "Url": "https://www.gilesthomas.com/2026/04/llm-from-scratch-33-what-i-learned-from-the-appendices",
+    "Timestamp": "2026-04-23T01:02:15",
+    "Domain": "www.gilesthomas.com",
+    "Description": "I've finished the main body of Raschka's book -- here are my thoughts on the appendices, and why I'm glad I read them after learning things the hard way."
+  }
+]
