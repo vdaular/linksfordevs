@@ -1,0 +1,156 @@
+[
+  {
+    "Title": "The Agent Observability Gap",
+    "Url": "https://www.lyuata.com/observability-gap",
+    "Timestamp": "2026-04-24T00:03:54",
+    "Domain": "www.lyuata.com",
+    "Description": "Why agents that look healthy in a playground go sideways the moment they meet real users, and what a useful observability stack for agent-shaped systems has to cover."
+  },
+  {
+    "Title": "Canton vs Public Crypto: A Technical Comparison",
+    "Url": "https://eric.mann.blog/canton-vs-public-crypto/",
+    "Timestamp": "2026-04-24T00:03:51",
+    "Domain": "eric.mann.blog",
+    "Description": "Canton differs significantly from Ethereum and other L2s, focusing on local agreement and privacy. Transactions involve only relevant parties, enhancing scalability and confidentiality. Its declara…"
+  },
+  {
+    "Title": "Cooked",
+    "Url": "https://take.surf/2026/04/23/cooked",
+    "Timestamp": "2026-04-24T00:03:47",
+    "Domain": "take.surf",
+    "Description": "By all means, Tim Cook was a better choice for Apple CEO than most people you could pick out of a hat; perhaps even of high executives at Apple working at the time. But this judgement is not unalloyed."
+  },
+  {
+    "Title": "Dharmateja Samudrala",
+    "Url": "https://dharmasamu.com/blog/why-work-at-a-startup-2026",
+    "Timestamp": "2026-04-24T00:03:43",
+    "Domain": "dharmasamu.com",
+    "Description": "Software Engineer — building things on the internet."
+  },
+  {
+    "Title": "Dear Codebase: A Letter From Your Coding Agent",
+    "Url": "https://mroczek.dev/articles/dear-codebase-letter-from-agent/",
+    "Timestamp": "2026-04-24T00:03:37",
+    "Domain": "mroczek.dev",
+    "Description": "Ten requests from an agent to the codebase it works in — local reasoning, visible boundaries, one way of doing things. None of them are new. All of them matter more now."
+  },
+  {
+    "Title": "Stop Hardcoding Your Timeouts",
+    "Url": "https://alfy.blog/2026/04/23/stop-hardcoding-your-timeouts.html",
+    "Timestamp": "2026-04-24T00:03:33",
+    "Domain": "alfy.blog",
+    "Description": "Hardcoded timeouts with no config options are a silent tax on developers outside the wealthy west. A rant about npx skills, Docker Gordon, and the arrogance of assuming everyone has a fast connection."
+  },
+  {
+    "Title": "The end of responsive images",
+    "Url": "https://piccalil.li/blog/the-end-of-responsive-images/",
+    "Timestamp": "2026-04-24T00:03:29",
+    "Domain": "piccalil.li",
+    "Description": "Mat Marquis has waited 14 years to write this article. The sizes attribute has been a necessary evil but now, with an auto value capability, it’s completely transformed authoring responsive images on the web."
+  },
+  {
+    "Title": "Cutting Costs, Not Corners: How We Migrated Our AI Document Pipeline from AWS to Cloudfleet",
+    "Url": "https://knuthellan.com/cutting-costs-not-corners-how-we-migrated-our-ai-document-pipeline-from-aws",
+    "Timestamp": "2026-04-24T00:03:25",
+    "Domain": "knuthellan.com",
+    "Description": "Introduction aka TL;DR; In January, we handled almost twice the workload we handled in December at a fifth of the cost.  Background In th..."
+  },
+  {
+    "Title": "On commenting and approving pull requests",
+    "Url": "https://www.jakeworth.com/posts/on-commenting-and-approving-pull-requests/",
+    "Timestamp": "2026-04-24T00:03:21",
+    "Domain": "www.jakeworth.com",
+    "Description": "After reviewing a lot of pull requests, I’ve settled on a simple default: if my comments are all nitpicks, suggestions, questions, or non-blocking issues, I leave them and approve the PR at the same time."
+  },
+  {
+    "Title": "Trajectory shapes",
+    "Url": "https://blog.nilenso.com/blog/2026/04/20/trajectory-shapes/",
+    "Timestamp": "2026-04-24T00:03:17",
+    "Domain": "blog.nilenso.com",
+    "Description": "Benchmark scores tell you whether a coding agent solved the task. Trajectory shapes tell you how it worked, and those workflow signatures persist b..."
+  },
+  {
+    "Title": "Why I spent years trying to make CSS states predictable — tenphi.me",
+    "Url": "https://tenphi.me/blog/why-i-spent-years-trying-to-make-css-states-predictable/",
+    "Timestamp": "2026-04-24T00:03:10",
+    "Domain": "tenphi.me",
+    "Description": "Why predictable CSS state resolution matters, and how Tasty approaches it with state maps and non-overlapping selectors."
+  },
+  {
+    "Title": "Approximating Hyperbolic Tangent",
+    "Url": "https://jtomschroeder.com/blog/approximating-tanh/",
+    "Timestamp": "2026-04-24T00:03:05",
+    "Domain": "jtomschroeder.com",
+    "Description": "Survey of fast tanh approximations using Taylor series, Padé approximants, splines, and bitwise manipulation techniques like K-TanH and Schraudolph"
+  },
+  {
+    "Title": "Death to files and folders",
+    "Url": "https://galjot.si/death-to-files-and-folders",
+    "Timestamp": "2026-04-24T00:03:00",
+    "Domain": "galjot.si",
+    "Description": "Ode to Jef Raskin's quote, The content of a file is its own best name"
+  },
+  {
+    "Title": "Agency Is Not Autonomy | Mark Lubin",
+    "Url": "https://marklubin.me/posts/bounding-agency/",
+    "Timestamp": "2026-04-24T00:02:55",
+    "Domain": "marklubin.me",
+    "Description": "Two axes the AI agent field treats as one, and the design rule that follows from splitting them."
+  },
+  {
+    "Title": "Going Full Time on Open Source",
+    "Url": "https://jdx.dev/posts/2026-04-17-going-full-time-on-open-source/",
+    "Timestamp": "2026-04-24T00:02:52",
+    "Domain": "jdx.dev",
+    "Description": "Jeff Dickey's personal website"
+  },
+  {
+    "Title": "Fundamental Theorem of Calculus | David Álvarez Rosa | Personal Website",
+    "Url": "https://david.alvarezrosa.com/posts/fundamental-theorem-of-calculus/",
+    "Timestamp": "2026-04-24T00:02:48",
+    "Domain": "david.alvarezrosa.com",
+    "Description": "Although the notion of area is intuitive, its mathematical treatment requires a rigorous definition. This post introduces the Riemann integral, and proves the …"
+  },
+  {
+    "Title": "Old computers in my university | Mr.UNIX",
+    "Url": "https://mrunix.me/posts/old-computers-usto/",
+    "Timestamp": "2026-04-24T00:02:44",
+    "Domain": "mrunix.me",
+    "Description": "In my previous university, there was a hallway in the department of mathematics and computer science, where they were showcasing some of the old computers that we had."
+  },
+  {
+    "Title": "Context Engineering and the Limits of Agentic Coding | Stephen Fritz",
+    "Url": "https://stephenfritz.dev/blog/context-engineering/",
+    "Timestamp": "2026-04-24T00:02:40",
+    "Domain": "stephenfritz.dev",
+    "Description": "My work is context engineering. I didn't know the term until after I'd built a system that turned out to be exactly that."
+  },
+  {
+    "Title": "Making beautiful work is getting harder",
+    "Url": "https://slowlywilliam.com/2026/04/21/why-everything-is-terrible.html",
+    "Timestamp": "2026-04-24T00:02:37",
+    "Domain": "slowlywilliam.com",
+    "Description": "In the early days of LLMs, we had tools that helped us stay focused and thereby do better work. Then, in late 2024, everything began to change."
+  },
+  {
+    "Title": "The OpenClaw turkey problem",
+    "Url": "https://yakko.dev/blog/the-openclaw-turkey-problem",
+    "Timestamp": "2026-04-24T00:02:33",
+    "Domain": "yakko.dev",
+    "Description": "Thoughts are mine and mine only. I don't ever use LLMs for writing."
+  },
+  {
+    "Title": "Trust Me, I’m a Shortcut",
+    "Url": "https://www.wietzebeukema.nl/blog/trust-me-im-a-shortcut",
+    "Timestamp": "2026-04-24T00:02:29",
+    "Domain": "www.wietzebeukema.nl",
+    "Description": "Windows’ primary mechanism for shortcuts, LNK files, is frequently abused by threat actors for payload delivery and persistence. This blog post introduces several new LNK file flaws that, amongst other things, allow attackers to fully spoof an LNK’s target. It also introduces lnk-it-up, a tool suite that can generate such deceptive LNK files, as well as detect anomalous ones."
+  },
+  {
+    "Title": "The Log is the Database",
+    "Url": "https://blog.canoozie.net/the-log-is-the-database/",
+    "Timestamp": "2026-04-24T00:02:26",
+    "Domain": "blog.canoozie.net",
+    "Description": "foldb has one source of truth: an append-only, Raft-replicated log. Everything else, the storage layer, the indexes, the materialized query results, is just a fold(log). A pure function applied to a sequence of committed entries in order.\n\nA transaction commits when its entry is durable in the log on"
+  }
+]
