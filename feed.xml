@@ -279,13 +279,5 @@ A transaction commits when its entry is durable in the log on</description>
       <guid>https://blog.canoozie.net/the-log-is-the-database/</guid>
       <pubDate>Fri, 24 Apr 2026 00:02:26 GMT</pubDate>
     </item>
-    <item>
-      <title>An update on recent Claude Code quality reports</title>
-      <link>https://www.anthropic.com/engineering/april-23-postmortem</link>
-      <description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
-      <category>ai</category>
-      <guid>https://www.anthropic.com/engineering/april-23-postmortem</guid>
-      <pubDate>Thu, 23 Apr 2026 20:02:23 GMT</pubDate>
-    </item>
   </channel>
 </rss>

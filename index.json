@@ -230,13 +230,5 @@
     "Domain": "blog.canoozie.net",
     "Description": "foldb has one source of truth: an append-only, Raft-replicated log. Everything else, the storage layer, the indexes, the materialized query results, is just a fold(log). A pure function applied to a sequence of committed entries in order.\n\nA transaction commits when its entry is durable in the log on",
     "Confidence": 0.9545302
-  },
-  {
-    "Title": "An update on recent Claude Code quality reports",
-    "Url": "https://www.anthropic.com/engineering/april-23-postmortem",
-    "Timestamp": "2026-04-23T20:02:23",
-    "Domain": "www.anthropic.com",
-    "Description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
-    "Confidence": 0.90441287
   }
 ]
