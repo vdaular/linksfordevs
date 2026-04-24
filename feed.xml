@@ -267,14 +267,5 @@ A transaction commits when its entry is durable in the log on</description>
       <guid>https://crawshaw.io/blog/building-a-cloud</guid>
       <pubDate>Thu, 23 Apr 2026 09:02:00 GMT</pubDate>
     </item>
-    <item>
-      <title>Highlights from Git 2.54</title>
-      <link>https://github.blog/open-source/git/highlights-from-git-2-54/</link>
-      <description>The open source Git project just released Git 2.54. Here is GitHub’s look at some of the most interesting features and changes introduced since last time.</description>
-      <category>git</category>
-      <category>sql</category>
-      <guid>https://github.blog/open-source/git/highlights-from-git-2-54/</guid>
-      <pubDate>Thu, 23 Apr 2026 06:02:05 GMT</pubDate>
-    </item>
   </channel>
 </rss>
