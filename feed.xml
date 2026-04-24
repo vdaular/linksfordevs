@@ -280,17 +280,5 @@ A transaction commits when its entry is durable in the log on</description>
       <guid>https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/</guid>
       <pubDate>Thu, 23 Apr 2026 19:02:11 GMT</pubDate>
     </item>
-    <item>
-      <title>Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain ...</title>
-      <link>https://socket.dev/blog/bitwarden-cli-compromised</link>
-      <description>Bitwarden CLI 2026.4.0 was compromised in the Checkmarx supply chain campaign after attackers abused a GitHub Action in Bitwarden’s CI/CD pipeline.</description>
-      <category>nodejs</category>
-      <category>conference</category>
-      <category>encryption</category>
-      <category>cloud</category>
-      <category>javascript</category>
-      <guid>https://socket.dev/blog/bitwarden-cli-compromised</guid>
-      <pubDate>Thu, 23 Apr 2026 17:02:14 GMT</pubDate>
-    </item>
   </channel>
 </rss>

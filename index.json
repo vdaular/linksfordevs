@@ -238,13 +238,5 @@
     "Domain": "www.bleepingcomputer.com",
     "Description": "France Titres, the government agency in France for issuing and managing administrative documents has disclosed a data breach after a threat actor claimed the attack and stealing citizen data.",
     "Confidence": 0.8218638
-  },
-  {
-    "Title": "Bitwarden CLI Compromised in Ongoing Checkmarx Supply Chain ...",
-    "Url": "https://socket.dev/blog/bitwarden-cli-compromised",
-    "Timestamp": "2026-04-23T17:02:14",
-    "Domain": "socket.dev",
-    "Description": "Bitwarden CLI 2026.4.0 was compromised in the Checkmarx supply chain campaign after attackers abused a GitHub Action in Bitwarden’s CI/CD pipeline.",
-    "Confidence": 0.93030834
   }
 ]
