@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Software engineering may no longer be a lifetime career</title>
+      <link>https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/</link>
+      <description>I don’t think there’s compelling evidence that using AI makes you less intelligent overall1. However, it seems pretty obvious that using AI to perform a task means you don’t learn as much about performing that task. Some software engineers think this is a decisive argument against the use of AI. Their argument goes something like this:</description>
+      <category>ai</category>
+      <guid>https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/</guid>
+      <pubDate>Fri, 24 Apr 2026 08:02:05 GMT</pubDate>
+    </item>
+    <item>
       <title>Your First API Call | DeepSeek API Docs</title>
       <link>https://api-docs.deepseek.com/</link>
       <description>The DeepSeek API uses an API format compatible with OpenAI/Anthropic. By modifying the configuration, you can use the OpenAI/Anthropic SDK or softwares compatible with the OpenAI/Anthropic API to access the DeepSeek API.</description>
