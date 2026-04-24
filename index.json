@@ -1,5 +1,13 @@
 [
   {
+    "Title": "On sabotaging projects by overthinking, scope creep, and structural diffing",
+    "Url": "https://kevinlynagh.com/newsletter/2026_04_overthinking/",
+    "Timestamp": "2026-04-24T19:02:14",
+    "Domain": "kevinlynagh.com",
+    "Description": "Hi friends,",
+    "Confidence": 0.92909
+  },
+  {
     "Title": "Why I Cancelled Claude: Token Issues, Declining Quality, and Poor Support",
     "Url": "https://nickyreinert.de/en/2026/2026-04-24-claude-critics/",
     "Timestamp": "2026-04-24T18:02:59",
@@ -230,21 +238,5 @@
     "Domain": "www.anthropic.com",
     "Description": "Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.",
     "Confidence": 0.90441287
-  },
-  {
-    "Title": "Introducing GPT-5.5",
-    "Url": "https://openai.com/index/introducing-gpt-5-5/",
-    "Timestamp": "2026-04-23T19:02:16",
-    "Domain": "openai.com",
-    "Description": "Introducing GPT-5.5, our smartest model yet—faster, more capable, and built for complex tasks like coding, research, and data analysis across tools.",
-    "Confidence": 0.9726624
-  },
-  {
-    "Title": "French govt agency confirms breach as hacker offers to sell data",
-    "Url": "https://www.bleepingcomputer.com/news/security/french-govt-agency-confirms-breach-as-hacker-offers-to-sell-data/",
-    "Timestamp": "2026-04-23T19:02:11",
-    "Domain": "www.bleepingcomputer.com",
-    "Description": "France Titres, the government agency in France for issuing and managing administrative documents has disclosed a data breach after a threat actor claimed the attack and stealing citizen data.",
-    "Confidence": 0.8218638
   }
 ]
