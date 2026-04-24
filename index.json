@@ -222,13 +222,5 @@
     "Domain": "socket.dev",
     "Description": "Bitwarden CLI 2026.4.0 was compromised in the Checkmarx supply chain campaign after attackers abused a GitHub Action in Bitwarden’s CI/CD pipeline.",
     "Confidence": 0.93030834
-  },
-  {
-    "Title": "crawshaw - 2026-04-22",
-    "Url": "https://crawshaw.io/blog/building-a-cloud",
-    "Timestamp": "2026-04-23T09:02:00",
-    "Domain": "crawshaw.io",
-    "Description": "2026-04-22",
-    "Confidence": 0.9862555
   }
 ]
