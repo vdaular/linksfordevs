@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Your First API Call | DeepSeek API Docs</title>
+      <link>https://api-docs.deepseek.com/</link>
+      <description>The DeepSeek API uses an API format compatible with OpenAI/Anthropic. By modifying the configuration, you can use the OpenAI/Anthropic SDK or softwares compatible with the OpenAI/Anthropic API to access the DeepSeek API.</description>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://api-docs.deepseek.com/</guid>
+      <pubDate>Fri, 24 Apr 2026 05:02:11 GMT</pubDate>
+    </item>
+    <item>
       <title>The Agent Observability Gap</title>
       <link>https://www.lyuata.com/observability-gap</link>
       <description>Why agents that look healthy in a playground go sideways the moment they meet real users, and what a useful observability stack for agent-shaped systems has to cover.</description>

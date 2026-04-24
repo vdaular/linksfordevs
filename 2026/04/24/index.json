@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Your First API Call | DeepSeek API Docs",
+    "Url": "https://api-docs.deepseek.com/",
+    "Timestamp": "2026-04-24T05:02:11",
+    "Domain": "api-docs.deepseek.com",
+    "Description": "The DeepSeek API uses an API format compatible with OpenAI/Anthropic. By modifying the configuration, you can use the OpenAI/Anthropic SDK or softwares compatible with the OpenAI/Anthropic API to access the DeepSeek API."
+  },
+  {
     "Title": "The Agent Observability Gap",
     "Url": "https://www.lyuata.com/observability-gap",
     "Timestamp": "2026-04-24T00:03:54",
