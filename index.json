@@ -1,5 +1,21 @@
 [
   {
+    "Title": "My audio interface has ssh enabled by default",
+    "Url": "https://hhh.hn/rodecaster-duo-fw/",
+    "Timestamp": "2026-04-25T11:02:13",
+    "Domain": "hhh.hn",
+    "Description": "I bought a Rodecaster Duo to solve some audio woes, and found that it has ssh enabled by default. I captured the firmware update process and created custom firmware to enable password authentication for ssh.",
+    "Confidence": 0.980839
+  },
+  {
+    "Title": "Firefox Has Quietly Integrated Brave's Adblock Engine",
+    "Url": "https://itsfoss.com/news/firefox-ships-brave-adblock-engine/",
+    "Timestamp": "2026-04-25T11:02:09",
+    "Domain": "itsfoss.com",
+    "Description": "Mozilla shipped it in Firefox 149 without a mention in the release notes.",
+    "Confidence": 0.9363138
+  },
+  {
     "Title": "What Do You Charge For?",
     "Url": "https://idiallo.com/blog/what-do-you-charge-for?src=feed",
     "Timestamp": "2026-04-25T07:02:03",
