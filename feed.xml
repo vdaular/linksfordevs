@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>quantumslop/URANDOM_DEMO.md at 25ad2e76ae58baa96f6219742459407db9dd17f5 · yuvadm/quantumslop</title>
+      <link>https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md</link>
+      <description>This repository contains the code and submission detail for the QDay prize challenge by https://www.projecteleven.com/ - yuvadm/quantumslop</description>
+      <category>python</category>
+      <category>git</category>
+      <guid>https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md</guid>
+      <pubDate>Sat, 25 Apr 2026 17:02:11 GMT</pubDate>
+    </item>
+    <item>
       <title>There Will Be a Scientific Theory of Deep Learning</title>
       <link>https://arxiv.org/abs/2604.21691</link>
       <description>In this paper, we make the case that a scientific theory of deep learning is emerging. By this we mean a theory which characterizes important properties and statistics of the training process, hidden representations, final weights, and performance of neural networks. We pull together major strands of ongoing research in deep learning theory and identify five growing bodies of work that point toward such a theory: (a) solvable idealized settings that provide intuition for learning dynamics in realistic systems; (b) tractable limits that reveal insights into fundamental learning phenomena; (c) simple mathematical laws that capture important macroscopic observables; (d) theories of hyperparameters that disentangle them from the rest of the training process, leaving simpler systems behind; and (e) universal behaviors shared across systems and settings which clarify which phenomena call for explanation.
