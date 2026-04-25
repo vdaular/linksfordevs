@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The Satisfaction of a ChatGPT Plan</title>
+      <link>https://idiallo.com/byte-size/the-satisfaction-of-a-chatgpt-plan?src=feed</link>
+      <description>The goal of AI providers isn't to impart you with knowledge. It's to keep you entertained while they expose you to ads and spend your tokens. Use it wisely.</description>
+      <category>ai</category>
+      <guid>https://idiallo.com/byte-size/the-satisfaction-of-a-chatgpt-plan?src=feed</guid>
+      <pubDate>Sat, 25 Apr 2026 18:02:11 GMT</pubDate>
+    </item>
+    <item>
       <title>quantumslop/URANDOM_DEMO.md at 25ad2e76ae58baa96f6219742459407db9dd17f5 · yuvadm/quantumslop</title>
       <link>https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md</link>
       <description>This repository contains the code and submission detail for the QDay prize challenge by https://www.projecteleven.com/ - yuvadm/quantumslop</description>
@@ -245,18 +253,6 @@ CAT systems should have been built.</description>
       <category>python</category>
       <guid>https://kevinlynagh.com/newsletter/2026_04_overthinking/</guid>
       <pubDate>Fri, 24 Apr 2026 19:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why I Cancelled Claude: Token Issues, Declining Quality, and Poor Support</title>
-      <link>https://nickyreinert.de/en/2026/2026-04-24-claude-critics/</link>
-      <description>First enthusiasm A couple of weeks ago I subscribed to Claude Code, and during the first few weeks I had a really nice experience. It was fast, the token allowance was fair, and the quality was good.
-I learned they had raised the token allowance for non-rush hours , and since they opposed some governmental rules, it felt good to support the right cause.
-(づ ￣ ³￣)づ
-However… for about three weeks now my initial enthusiasm has been rapidly waning.</description>
-      <category>ai</category>
-      <category>javascript</category>
-      <guid>https://nickyreinert.de/en/2026/2026-04-24-claude-critics/</guid>
-      <pubDate>Fri, 24 Apr 2026 18:02:59 GMT</pubDate>
     </item>
   </channel>
 </rss>
