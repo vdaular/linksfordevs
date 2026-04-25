@@ -243,14 +243,5 @@ However… for about three weeks now my initial enthusiasm has been rapidly wani
       <guid>https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/</guid>
       <pubDate>Fri, 24 Apr 2026 08:02:05 GMT</pubDate>
     </item>
-    <item>
-      <title>Your First API Call | DeepSeek API Docs</title>
-      <link>https://api-docs.deepseek.com/</link>
-      <description>The DeepSeek API uses an API format compatible with OpenAI/Anthropic. By modifying the configuration, you can use the OpenAI/Anthropic SDK or softwares compatible with the OpenAI/Anthropic API to access the DeepSeek API.</description>
-      <category>ai</category>
-      <category>javascript</category>
-      <guid>https://api-docs.deepseek.com/</guid>
-      <pubDate>Fri, 24 Apr 2026 05:02:11 GMT</pubDate>
-    </item>
   </channel>
 </rss>
