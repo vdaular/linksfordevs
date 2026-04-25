@@ -166,13 +166,5 @@
     "Domain": "lwn.net",
     "Description": "Ubuntu 26.04 ('Resolute Raccoon') LTS has been released on schedule.   This release brings a si [...]",
     "Confidence": 0.92319626
-  },
-  {
-    "Title": "Software engineering may no longer be a lifetime career",
-    "Url": "https://www.seangoedecke.com/software-engineering-may-no-longer-be-a-lifetime-career/",
-    "Timestamp": "2026-04-24T08:02:05",
-    "Domain": "www.seangoedecke.com",
-    "Description": "I don’t think there’s compelling evidence that using AI makes you less intelligent overall1. However, it seems pretty obvious that using AI to perform a task means you don’t learn as much about performing that task. Some software engineers think this is a decisive argument against the use of AI. Their argument goes something like this:",
-    "Confidence": 0.9235063
   }
 ]
