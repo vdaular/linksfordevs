@@ -7,6 +7,101 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Making the Rails Default Job Queue Fiber-Based</title>
+      <link>https://paolino.me/solid-queue-doesnt-need-a-thread-per-job/</link>
+      <description>I tried Async::Job for my LLM apps, hit its limits, and patched Solid Queue to run jobs as fibers instead.</description>
+      <category>sql</category>
+      <category>ruby</category>
+      <category>git</category>
+      <category>ai</category>
+      <category>vscode</category>
+      <guid>https://paolino.me/solid-queue-doesnt-need-a-thread-per-job/</guid>
+      <pubDate>Sun, 26 Apr 2026 00:03:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>The bull case for graph DBs in law</title>
+      <link>https://alanyahya.com/writing/bull-case-graph-dbs-law</link>
+      <description>The bull case for graph DBs in law</description>
+      <category>ai</category>
+      <guid>https://alanyahya.com/writing/bull-case-graph-dbs-law</guid>
+      <pubDate>Sun, 26 Apr 2026 00:03:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Oops, I wrote a database | DaFoster</title>
+      <link>https://dafoster.net/articles/2026/02/23/oops-i-wrote-a-database/</link>
+      <description></description>
+      <category>sql</category>
+      <category>linux</category>
+      <guid>https://dafoster.net/articles/2026/02/23/oops-i-wrote-a-database/</guid>
+      <pubDate>Sun, 26 Apr 2026 00:03:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>congrats on failing to launch; weirdfriends log 1</title>
+      <link>https://c0n0.com/posts/weirdfriends-log-1/</link>
+      <description>7 months, 221 commits, and I still haven’t told anyone to try my app. A reflection on what went wrong.</description>
+      <category>gaming</category>
+      <category>ai</category>
+      <category>typescript</category>
+      <guid>https://c0n0.com/posts/weirdfriends-log-1/</guid>
+      <pubDate>Sun, 26 Apr 2026 00:02:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Prop 13 Didn’t Shrink Government. It Handed It to Sacramento.</title>
+      <link>https://maxmautner.com/2026/04/23/prop-13-changed-things.html</link>
+      <description>Prop 13 concentrated power in Sacramento and hollowed out local government in California</description>
+      <category>web</category>
+      <guid>https://maxmautner.com/2026/04/23/prop-13-changed-things.html</guid>
+      <pubDate>Sun, 26 Apr 2026 00:02:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Context Is Finite. Who Maintains It?</title>
+      <link>https://blog.gchinis.com/posts/2026/04/self-organizing-agents/</link>
+      <description>Context in LLM systems is finite. Today, developers maintain it. What happens if the agent learns from its work and takes on part of that responsibility?</description>
+      <category>python</category>
+      <category>web</category>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://blog.gchinis.com/posts/2026/04/self-organizing-agents/</guid>
+      <pubDate>Sun, 26 Apr 2026 00:02:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Naming Things Is Easy Now</title>
+      <link>https://notesbylex.com/naming-things-is-easy-now</link>
+      <description>“There are only two hard things in Computer Science: cache invalidation and naming things.” - Phil Karlton I don't think naming things is hard anymore (cache invalidation is about the same)....</description>
+      <guid>https://notesbylex.com/naming-things-is-easy-now</guid>
+      <pubDate>Sun, 26 Apr 2026 00:02:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rotating space habs!</title>
+      <link>https://blog.engora.com/2026/04/rotating-space-habs.html</link>
+      <description>The physics of rotating space habs</description>
+      <category>javascript</category>
+      <guid>https://blog.engora.com/2026/04/rotating-space-habs.html</guid>
+      <pubDate>Sun, 26 Apr 2026 00:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-5.5 is a biased evaluator: authorship and order effects - Guillaume Valmont's Weblog</title>
+      <link>https://blog.valmont.dev/posts/gpt-5-5-is-a-biased-evaluator-authorship-and-order-effects/</link>
+      <description>While comparing medium, high, and extra-high reasoning modes on the same task, I uncovered consistent authorship and presentation-order effects in GPT-5.5’s evaluations.</description>
+      <author> (Guillaume Valmont)</author>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://blog.valmont.dev/posts/gpt-5-5-is-a-biased-evaluator-authorship-and-order-effects/</guid>
+      <pubDate>Sun, 26 Apr 2026 00:02:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>From $200 to $30: Five Layers of LLM Cost Optimization</title>
+      <link>http://blog.dwornikowski.com/posts/cutting-llm-costs-token-optimization/</link>
+      <description>A walkthrough of how I cut an LLM-based product classifier's token usage by ~92% through compression, two-stage prompting, exact-match lookups, similarity caching, and batching.</description>
+      <category>android</category>
+      <category>apple</category>
+      <category>javascript</category>
+      <category>vscode</category>
+      <category>ai</category>
+      <guid>http://blog.dwornikowski.com/posts/cutting-llm-costs-token-optimization/</guid>
+      <pubDate>Sun, 26 Apr 2026 00:02:30 GMT</pubDate>
+    </item>
+    <item>
       <title>The Satisfaction of a ChatGPT Plan</title>
       <link>https://idiallo.com/byte-size/the-satisfaction-of-a-chatgpt-plan?src=feed</link>
       <description>The goal of AI providers isn't to impart you with knowledge. It's to keep you entertained while they expose you to ads and spend your tokens. Use it wisely.</description>
