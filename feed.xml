@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>It's OK to Use Coding Assistance Tools To Revive The Projects You Never Were Going To Finish</title>
+      <link>https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/</link>
+      <description>I tried to use Claude Code with Opus 4.6 to implement a connector between Youtube Music and opensubsonic. The end result was a fairly short amount of time to get a working project.</description>
+      <category>rust</category>
+      <category>sql</category>
+      <category>javascript</category>
+      <category>ai</category>
+      <category>youtube</category>
+      <guid>https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/</guid>
+      <pubDate>Sun, 26 Apr 2026 09:01:59 GMT</pubDate>
+    </item>
+    <item>
       <title>Making the Rails Default Job Queue Fiber-Based</title>
       <link>https://paolino.me/solid-queue-doesnt-need-a-thread-per-job/</link>
       <description>I tried Async::Job for my LLM apps, hit its limits, and patched Solid Queue to run jobs as fibers instead.</description>
