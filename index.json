@@ -102,13 +102,5 @@
     "Domain": "idiallo.com",
     "Description": "The goal of AI providers isn't to impart you with knowledge. It's to keep you entertained while they expose you to ads and spend your tokens. Use it wisely.",
     "Confidence": 0.9757198
-  },
-  {
-    "Title": "quantumslop/URANDOM_DEMO.md at 25ad2e76ae58baa96f6219742459407db9dd17f5 · yuvadm/quantumslop",
-    "Url": "https://github.com/yuvadm/quantumslop/blob/25ad2e76ae58baa96f6219742459407db9dd17f5/URANDOM_DEMO.md",
-    "Timestamp": "2026-04-25T17:02:11",
-    "Domain": "github.com",
-    "Description": "This repository contains the code and submission detail for the QDay prize challenge by https://www.projecteleven.com/ - yuvadm/quantumslop",
-    "Confidence": 0.9769161
   }
 ]
