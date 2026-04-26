@@ -7,6 +7,29 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Progress Report: Linux 7.0 - Asahi Linux</title>
+      <link>https://asahilinux.org/2026/04/progress-report-7-0/</link>
+      <description>Porting Linux to Apple Silicon</description>
+      <category>conference</category>
+      <category>linux</category>
+      <category>python</category>
+      <category>git</category>
+      <guid>https://asahilinux.org/2026/04/progress-report-7-0/</guid>
+      <pubDate>Sun, 26 Apr 2026 15:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>EU Age Control: The trojan horse for digital IDs</title>
+      <link>https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/</link>
+      <description>A technical look at the EU age verification reference app — the gap between marketed and shipped cryptography, relay attacks the protocol can't stop, and why the 'privacy-preserving' system is a trojan horse for digital ID infrastructure.</description>
+      <category>encryption</category>
+      <category>git</category>
+      <category>android</category>
+      <category>linux</category>
+      <category>ai</category>
+      <guid>https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/</guid>
+      <pubDate>Sun, 26 Apr 2026 15:02:31 GMT</pubDate>
+    </item>
+    <item>
       <title>It's OK to Use Coding Assistance Tools To Revive The Projects You Never Were Going To Finish</title>
       <link>https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/</link>
       <description>I tried to use Claude Code with Opus 4.6 to implement a connector between Youtube Music and opensubsonic. The end result was a fairly short amount of time to get a working project.</description>

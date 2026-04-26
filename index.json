@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Progress Report: Linux 7.0 - Asahi Linux",
+    "Url": "https://asahilinux.org/2026/04/progress-report-7-0/",
+    "Timestamp": "2026-04-26T15:02:34",
+    "Domain": "asahilinux.org",
+    "Description": "Porting Linux to Apple Silicon",
+    "Confidence": 0.98643243
+  },
+  {
+    "Title": "EU Age Control: The trojan horse for digital IDs",
+    "Url": "https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/",
+    "Timestamp": "2026-04-26T15:02:31",
+    "Domain": "juraj.bednar.io",
+    "Description": "A technical look at the EU age verification reference app — the gap between marketed and shipped cryptography, relay attacks the protocol can't stop, and why the 'privacy-preserving' system is a trojan horse for digital ID infrastructure.",
+    "Confidence": 0.9706555
+  },
+  {
     "Title": "It's OK to Use Coding Assistance Tools To Revive The Projects You Never Were Going To Finish",
     "Url": "https://blog.matthewbrunelle.com/its-ok-to-use-coding-assistance-tools-to-revive-the-projects-you-never-were-going-to-finish/",
     "Timestamp": "2026-04-26T09:01:59",
