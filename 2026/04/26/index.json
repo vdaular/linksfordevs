@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Welcome to the world of Statecharts",
+    "Url": "https://statecharts.dev/",
+    "Timestamp": "2026-04-26T21:02:08",
+    "Domain": "statecharts.dev",
+    "Description": "The world of statecharts describes what statecharts are, their benefits and drawbacks, how they differ from state machines, and practical examples on how to use them."
+  },
+  {
     "Title": "GoDaddy Gave a Domain to a Stranger Without Any Documentation",
     "Url": "https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/",
     "Timestamp": "2026-04-26T20:02:06",

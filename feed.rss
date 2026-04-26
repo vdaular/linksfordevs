@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Welcome to the world of Statecharts</title>
+      <link>https://statecharts.dev/</link>
+      <description>The world of statecharts describes what statecharts are, their benefits and drawbacks, how they differ from state machines, and practical examples on how to use them.</description>
+      <category>javascript</category>
+      <guid>https://statecharts.dev/</guid>
+      <pubDate>Sun, 26 Apr 2026 21:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>GoDaddy Gave a Domain to a Stranger Without Any Documentation</title>
       <link>https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/</link>
       <description>What would you do if your organization had used a domain name for 27 years, and the registrar holding the domain seized it without any advance warning? All</description>
