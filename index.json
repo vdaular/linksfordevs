@@ -110,13 +110,5 @@
     "Domain": "itsfoss.com",
     "Description": "Mozilla shipped it in Firefox 149 without a mention in the release notes.",
     "Confidence": 0.9363138
-  },
-  {
-    "Title": "What Do You Charge For?",
-    "Url": "https://idiallo.com/blog/what-do-you-charge-for?src=feed",
-    "Timestamp": "2026-04-25T07:02:03",
-    "Domain": "idiallo.com",
-    "Description": "I've written about my journey to learn how to charge a fair price for building a website before. But even after landing on a strategy, there is still a question that remains unanswered. What should I ",
-    "Confidence": 0.94209766
   }
 ]
