@@ -134,27 +134,5 @@
       <guid>https://arxiv.org/abs/2604.21691</guid>
       <pubDate>Sat, 25 Apr 2026 12:02:04 GMT</pubDate>
     </item>
-    <item>
-      <title>My audio interface has ssh enabled by default</title>
-      <link>https://hhh.hn/rodecaster-duo-fw/</link>
-      <description>I bought a Rodecaster Duo to solve some audio woes, and found that it has ssh enabled by default. I captured the firmware update process and created custom firmware to enable password authentication for ssh.</description>
-      <category>encryption</category>
-      <category>gaming</category>
-      <category>ai</category>
-      <category>apple</category>
-      <category>python</category>
-      <guid>https://hhh.hn/rodecaster-duo-fw/</guid>
-      <pubDate>Sat, 25 Apr 2026 11:02:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Firefox Has Quietly Integrated Brave's Adblock Engine</title>
-      <link>https://itsfoss.com/news/firefox-ships-brave-adblock-engine/</link>
-      <description>Mozilla shipped it in Firefox 149 without a mention in the release notes.</description>
-      <category>rust</category>
-      <category>linux</category>
-      <category>containers</category>
-      <guid>https://itsfoss.com/news/firefox-ships-brave-adblock-engine/</guid>
-      <pubDate>Sat, 25 Apr 2026 11:02:09 GMT</pubDate>
-    </item>
   </channel>
 </rss>
