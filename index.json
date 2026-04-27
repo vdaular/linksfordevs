@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Vector Search Engine Performance: 16x Faster Vamana Search",
+    "Url": "https://dubeykartikay.com/posts/sembed-engine-vector-search-performance/",
+    "Timestamp": "2026-04-27T11:02:15",
+    "Domain": "dubeykartikay.com",
+    "Description": "See how sembed-engine made Vamana vector search 16x faster with flat arrays, lightweight views, squared distances, SIMD-friendly loops, and cached candidate scores.",
+    "Confidence": 0.9917428
+  },
+  {
     "Title": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
     "Url": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
     "Timestamp": "2026-04-27T10:02:07",
