@@ -142,13 +142,5 @@
     "Domain": "maheshba.bitbucket.io",
     "Description": "We start with a re-definition and an observation.",
     "Confidence": 0.9819936
-  },
-  {
-    "Title": "Welcome to the world of Statecharts",
-    "Url": "https://statecharts.dev/",
-    "Timestamp": "2026-04-26T21:02:08",
-    "Domain": "statecharts.dev",
-    "Description": "The world of statecharts describes what statecharts are, their benefits and drawbacks, how they differ from state machines, and practical examples on how to use them.",
-    "Confidence": 0.9947842
   }
 ]

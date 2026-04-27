@@ -187,13 +187,5 @@ calls.</description>
       <guid>https://maheshba.bitbucket.io/blog/2026/04/24/agentfailures.html</guid>
       <pubDate>Mon, 27 Apr 2026 01:02:17 GMT</pubDate>
     </item>
-    <item>
-      <title>Welcome to the world of Statecharts</title>
-      <link>https://statecharts.dev/</link>
-      <description>The world of statecharts describes what statecharts are, their benefits and drawbacks, how they differ from state machines, and practical examples on how to use them.</description>
-      <category>javascript</category>
-      <guid>https://statecharts.dev/</guid>
-      <pubDate>Sun, 26 Apr 2026 21:02:08 GMT</pubDate>
-    </item>
   </channel>
 </rss>
