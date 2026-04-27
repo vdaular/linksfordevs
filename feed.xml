@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet</title>
+      <link>https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/</link>
+      <description>A previously unknown 2005 cyber sabotage framework patches high-precision calculation software in memory to silently corrupt results.</description>
+      <category>encryption</category>
+      <category>git</category>
+      <category>conference</category>
+      <guid>https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/</guid>
+      <pubDate>Mon, 27 Apr 2026 10:02:07 GMT</pubDate>
+    </item>
+    <item>
       <title>Why SWE-bench Verified no longer measures frontier coding capabilities</title>
       <link>https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/</link>
       <description>SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro.</description>

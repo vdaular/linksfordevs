@@ -1,5 +1,12 @@
 [
   {
+    "Title": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
+    "Url": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
+    "Timestamp": "2026-04-27T10:02:07",
+    "Domain": "www.sentinelone.com",
+    "Description": "A previously unknown 2005 cyber sabotage framework patches high-precision calculation software in memory to silently corrupt results."
+  },
+  {
     "Title": "Why SWE-bench Verified no longer measures frontier coding capabilities",
     "Url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
     "Timestamp": "2026-04-27T03:02:11",
