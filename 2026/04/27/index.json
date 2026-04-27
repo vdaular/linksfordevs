@@ -1,5 +1,12 @@
 [
   {
+    "Title": "GitHub Copilot is moving to usage-based billing",
+    "Url": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
+    "Timestamp": "2026-04-27T19:02:17",
+    "Domain": "github.blog",
+    "Description": "Starting June 1, your Copilot usage will consume GitHub AI Credits."
+  },
+  {
     "Title": "GitHub - pgbackrest/pgbackrest: Reliable PostgreSQL Backup & Restore",
     "Url": "https://github.com/pgbackrest/pgbackrest",
     "Timestamp": "2026-04-27T15:02:18",
