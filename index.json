@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Why SWE-bench Verified no longer measures frontier coding capabilities",
+    "Url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
+    "Timestamp": "2026-04-27T03:02:11",
+    "Domain": "openai.com",
+    "Description": "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro.",
+    "Confidence": 0.95829767
+  },
+  {
     "Title": "Claude Design is Real Design",
     "Url": "https://diverging.run/checkpoints/claude-design-is-real-design/",
     "Timestamp": "2026-04-27T01:03:08",

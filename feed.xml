@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Why SWE-bench Verified no longer measures frontier coding capabilities</title>
+      <link>https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/</link>
+      <description>SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro.</description>
+      <category>ai</category>
+      <category>python</category>
+      <category>vscode</category>
+      <guid>https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/</guid>
+      <pubDate>Mon, 27 Apr 2026 03:02:11 GMT</pubDate>
+    </item>
+    <item>
       <title>Claude Design is Real Design</title>
       <link>https://diverging.run/checkpoints/claude-design-is-real-design/</link>
       <description>Design is due for its Opus 4.5 moment</description>
