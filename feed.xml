@@ -7,6 +7,191 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The One-Person Stack | ivan.codes</title>
+      <link>https://www.ivan.codes/blog/the-one-person-stack</link>
+      <description>How to ship real products alone and what to care about at each stage.</description>
+      <category>ai</category>
+      <category>vscode</category>
+      <category>web</category>
+      <guid>https://www.ivan.codes/blog/the-one-person-stack</guid>
+      <pubDate>Mon, 27 Apr 2026 23:04:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>We Are Not Language Machines</title>
+      <link>https://www.shishyko.com/essays/we-are-not-language-machines.html</link>
+      <description>The nightmare of materialism, which has turned the life of the universe into an evil, useless game, is not yet past; it holds the awakening soul still in its grip. - Wassily Kandinsky</description>
+      <category>gaming</category>
+      <guid>https://www.shishyko.com/essays/we-are-not-language-machines.html</guid>
+      <pubDate>Mon, 27 Apr 2026 23:03:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Good Design vs. Bad Design</title>
+      <link>https://tm-media-site.vercel.app/article/good-design-vs-bad-design</link>
+      <description>Most designers will talk to you about fonts, colors, and layouts. Few will ever tell you what design actually is — and why that misunderstanding costs everyone.</description>
+      <author> (https://thomasmcgee.co)</author>
+      <category>apple</category>
+      <guid>https://tm-media-site.vercel.app/article/good-design-vs-bad-design</guid>
+      <pubDate>Mon, 27 Apr 2026 23:03:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Building a SQL Analyst Agent</title>
+      <link>https://raminmousavi.dev/blog/building-a-sql-analyst-agent</link>
+      <description>How to build a simple AI SQL analyst agent with Node.js, OpenAI, Vercel AI SDK, and SQLite.</description>
+      <author> (Ramin Mousavi)</author>
+      <category>nodejs</category>
+      <category>sql</category>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://raminmousavi.dev/blog/building-a-sql-analyst-agent</guid>
+      <pubDate>Mon, 27 Apr 2026 23:03:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Notes on Serial Experiments Lain by Jordan Matthiass</title>
+      <link>https://jordanmatthiass.net/essays/serial_experiments_lain</link>
+      <description>Notes on Serial Experiments Lain, the Wired, fractured selfhood, alienation, and the digital apocalypse that came true.</description>
+      <category>ai</category>
+      <category>rust</category>
+      <category>git</category>
+      <guid>https://jordanmatthiass.net/essays/serial_experiments_lain</guid>
+      <pubDate>Mon, 27 Apr 2026 23:03:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Exponentially Smoothed FPS Counters</title>
+      <link>https://blog.wilsworld.net/posts/2026_04_25-Exponentially_Smoothed_FPS_Counters</link>
+      <description>Exploring how to apply an interesting numerical technique with constant time and space complexity to FPS counters.</description>
+      <category>gaming</category>
+      <guid>https://blog.wilsworld.net/posts/2026_04_25-Exponentially_Smoothed_FPS_Counters</guid>
+      <pubDate>Mon, 27 Apr 2026 23:03:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>I Spent My Sabbatical Building a Power Meter for Sledgehammers</title>
+      <link>https://leblancfg.com/intensity-pad-founder-story.html</link>
+      <description>One month, one prototype — the first Intensity Pad, and why I think striking movements deserve a power meter of their own.</description>
+      <author> (https://leblancfg.com/author/francois-leblanc.html)</author>
+      <category>apple</category>
+      <category>git</category>
+      <guid>https://leblancfg.com/intensity-pad-founder-story.html</guid>
+      <pubDate>Mon, 27 Apr 2026 23:03:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Your blog is a radio station - Down the Road</title>
+      <link>https://blog.jimgrey.net/2026/04/23/your-blog-is-a-radio-station/</link>
+      <description>A useful metaphor for us niche bloggers that helps explain why some readers stay.</description>
+      <guid>https://blog.jimgrey.net/2026/04/23/your-blog-is-a-radio-station/</guid>
+      <pubDate>Mon, 27 Apr 2026 23:03:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>A Brief History of SQL: From 1970 to 2026</title>
+      <link>https://www.ismatsamadov.com/blog/brief-history-of-sql-language-that-refuses-to-die</link>
+      <description>SQL was created in 1973, survived NoSQL, and 55.6% of devs use PostgreSQL today. The full history with standards, tools, and why SQL won.</description>
+      <category>sql</category>
+      <category>javascript</category>
+      <category>cloud</category>
+      <category>ai</category>
+      <category>python</category>
+      <guid>https://www.ismatsamadov.com/blog/brief-history-of-sql-language-that-refuses-to-die</guid>
+      <pubDate>Mon, 27 Apr 2026 23:03:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Softmax, can you really derive the Jacobian? And should you care? — idlemachines</title>
+      <link>https://idlemachines.co.uk/essays/softmax</link>
+      <description>Practice machine learning engineering with hands-on coding challenges. Implement neural network components, backprop, and more — from scratch.</description>
+      <category>python</category>
+      <guid>https://idlemachines.co.uk/essays/softmax</guid>
+      <pubDate>Mon, 27 Apr 2026 23:03:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>The cost of being "nice"</title>
+      <link>https://bytesizedchunks.net/blog/20260426/</link>
+      <description>The other day, a link popped up on Hacker News reviving this old Reddit post1 in which u/flipstables shares a pretty long and honest list of things they learned as a senior engineer. I highly suggest going through it as most of the things there are pure gold. But one, seemingly mundane, item inspired me to write this chunk:
+Be kind to everyone. Not because it’ll help your career (it will), but because being kind is rewarding by itself.
+</description>
+      <category>gaming</category>
+      <guid>https://bytesizedchunks.net/blog/20260426/</guid>
+      <pubDate>Mon, 27 Apr 2026 23:03:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Most People Who Ride Bikes Have Soft Tires</title>
+      <link>https://maxmautner.com/2026/04/25/soft-tires.html</link>
+      <description>A look at the quietest barrier to bicycle adoption (inflating your tires), and why bike share and public pumps deserve more credit than they get.</description>
+      <category>encryption</category>
+      <guid>https://maxmautner.com/2026/04/25/soft-tires.html</guid>
+      <pubDate>Mon, 27 Apr 2026 23:03:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>ChatGPT Images 2.0 Still Can't Draw the Seven-legged Spider I Want</title>
+      <link>https://will-keleher.com/posts/chatgpt-image-2-still-cant-draw-a-seven-legged-spider/</link>
+      <description>ChatGPT Images 2.0 is able to generate a seven-legged spider, but it's not missing the leg I asked for.</description>
+      <category>ai</category>
+      <guid>https://will-keleher.com/posts/chatgpt-image-2-still-cant-draw-a-seven-legged-spider/</guid>
+      <pubDate>Mon, 27 Apr 2026 23:03:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>steer coding agents with interactive diagrams — Will Hennessy</title>
+      <link>https://willhennessy.io/writing/introducing-architect.html</link>
+      <description>The Claude Architect plugin adds an interactive architecture diagram to Plan Mode so you can review, annotate, and revise the plan with Claude in real time.</description>
+      <category>ai</category>
+      <category>nodejs</category>
+      <category>git</category>
+      <category>vscode</category>
+      <guid>https://willhennessy.io/writing/introducing-architect.html</guid>
+      <pubDate>Mon, 27 Apr 2026 23:03:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>You can beat the binary search</title>
+      <link>https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/</link>
+      <description>We sometimes have to look for a value in a sorted array. The simplest algorithm consists in just going through the values one by one, until we encounter the value, or exhaust the array. We sometimes call this algorithm a linear search. In C++, you can get the desired effect with the std::find function. For … Continue reading You can beat the binary search</description>
+      <author> (https://lemire.me/blog/author/lemire/)</author>
+      <guid>https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/</guid>
+      <pubDate>Mon, 27 Apr 2026 23:03:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Uptime golf</title>
+      <link>https://anderegg.ca/2026/04/27/uptime-golf</link>
+      <description>I’ve been noticing a lot of service outages lately. Some with few enough nines that you’d think they were going for a low score. My guess: this is probably going to get worse before it gets better. But maybe not for the reasons you’d think.</description>
+      <category>ai</category>
+      <category>cloud</category>
+      <category>git</category>
+      <guid>https://anderegg.ca/2026/04/27/uptime-golf</guid>
+      <pubDate>Mon, 27 Apr 2026 23:03:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>LLMs and the Adversarial Loop</title>
+      <link>https://myers.io/2026/04/15/LLMs-and-the-Adversarial-loop/</link>
+      <description>LLMs are confident. So much so that if you ask one to give you the recipe to immortality, it will probably take a stab at it, even though it knows as much about mortality as it does its own existence. Ask one to write a design spec and it’ll produce something that reads well, covers the obvious cases, and sounds authoritative. Ask it to implement code from that spec and it’ll write something that compiles and handles the happy path. But that’s as good as it gets.</description>
+      <author> (Dale Myers)</author>
+      <category>ai</category>
+      <guid>https://myers.io/2026/04/15/LLMs-and-the-Adversarial-loop/</guid>
+      <pubDate>Mon, 27 Apr 2026 23:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why You Can't Write That Book</title>
+      <link>https://brianschrader.com/archive/why-you-cant-write-that-book/</link>
+      <description>I could do that, I just need more time.</description>
+      <category>ai</category>
+      <category>vscode</category>
+      <guid>https://brianschrader.com/archive/why-you-cant-write-that-book/</guid>
+      <pubDate>Mon, 27 Apr 2026 23:02:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cost of PostgreSQL performance issues | Stormatics</title>
+      <link>https://stormatics.tech/blogs/cost-of-postgresql-performance-issues</link>
+      <description>Understand the cost of PostgreSQL performance issues. Learn how query inefficiency, bloat, and misconfiguration drive unnecessary spend.</description>
+      <category>sql</category>
+      <category>ai</category>
+      <guid>https://stormatics.tech/blogs/cost-of-postgresql-performance-issues</guid>
+      <pubDate>Mon, 27 Apr 2026 23:02:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Postgres's lateral joins allow for quite the good eDSL</title>
+      <link>https://bensimms.moe/postgres-lateral-makes-quite-a-good-dsl/</link>
+      <description>../postgres-lateral-makes-quite-a-good-dsl</description>
+      <category>rust</category>
+      <category>sql</category>
+      <guid>https://bensimms.moe/postgres-lateral-makes-quite-a-good-dsl/</guid>
+      <pubDate>Mon, 27 Apr 2026 23:02:46 GMT</pubDate>
+    </item>
+    <item>
       <title>GitHub Copilot is moving to usage-based billing</title>
       <link>https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/</link>
       <description>Starting June 1, your Copilot usage will consume GitHub AI Credits.</description>
