@@ -1,5 +1,13 @@
 [
   {
+    "Title": "GitHub - pgbackrest/pgbackrest: Reliable PostgreSQL Backup & Restore",
+    "Url": "https://github.com/pgbackrest/pgbackrest",
+    "Timestamp": "2026-04-27T15:02:18",
+    "Domain": "github.com",
+    "Description": "Reliable PostgreSQL Backup & Restore. Contribute to pgbackrest/pgbackrest development by creating an account on GitHub.",
+    "Confidence": 0.9936018
+  },
+  {
     "Title": "Vector Search Engine Performance: 16x Faster Vamana Search",
     "Url": "https://dubeykartikay.com/posts/sembed-engine-vector-search-performance/",
     "Timestamp": "2026-04-27T11:02:15",
@@ -142,21 +150,5 @@
     "Domain": "anchor.host",
     "Description": "What would you do if your organization had used a domain name for 27 years, and the registrar holding the domain seized it without any advance warning? All",
     "Confidence": 0.9570032
-  },
-  {
-    "Title": "Progress Report: Linux 7.0 - Asahi Linux",
-    "Url": "https://asahilinux.org/2026/04/progress-report-7-0/",
-    "Timestamp": "2026-04-26T15:02:34",
-    "Domain": "asahilinux.org",
-    "Description": "Porting Linux to Apple Silicon",
-    "Confidence": 0.98643243
-  },
-  {
-    "Title": "EU Age Control: The trojan horse for digital IDs",
-    "Url": "https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/",
-    "Timestamp": "2026-04-26T15:02:31",
-    "Domain": "juraj.bednar.io",
-    "Description": "A technical look at the EU age verification reference app — the gap between marketed and shipped cryptography, relay attacks the protocol can't stop, and why the 'privacy-preserving' system is a trojan horse for digital ID infrastructure.",
-    "Confidence": 0.9706555
   }
 ]

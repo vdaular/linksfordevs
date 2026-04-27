@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>GitHub - pgbackrest/pgbackrest: Reliable PostgreSQL Backup &amp; Restore</title>
+      <link>https://github.com/pgbackrest/pgbackrest</link>
+      <description>Reliable PostgreSQL Backup &amp; Restore. Contribute to pgbackrest/pgbackrest development by creating an account on GitHub.</description>
+      <category>sql</category>
+      <category>cloud</category>
+      <guid>https://github.com/pgbackrest/pgbackrest</guid>
+      <pubDate>Mon, 27 Apr 2026 15:02:18 GMT</pubDate>
+    </item>
+    <item>
       <title>Vector Search Engine Performance: 16x Faster Vamana Search</title>
       <link>https://dubeykartikay.com/posts/sembed-engine-vector-search-performance/</link>
       <description>See how sembed-engine made Vamana vector search 16x faster with flat arrays, lightweight views, squared distances, SIMD-friendly loops, and cached candidate scores.</description>
@@ -183,29 +192,6 @@ calls.</description>
       <description>What would you do if your organization had used a domain name for 27 years, and the registrar holding the domain seized it without any advance warning? All</description>
       <guid>https://anchor.host/godaddy-gave-a-domain-to-a-stranger-without-any-documentation/</guid>
       <pubDate>Sun, 26 Apr 2026 20:02:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Progress Report: Linux 7.0 - Asahi Linux</title>
-      <link>https://asahilinux.org/2026/04/progress-report-7-0/</link>
-      <description>Porting Linux to Apple Silicon</description>
-      <category>conference</category>
-      <category>linux</category>
-      <category>python</category>
-      <category>git</category>
-      <guid>https://asahilinux.org/2026/04/progress-report-7-0/</guid>
-      <pubDate>Sun, 26 Apr 2026 15:02:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>EU Age Control: The trojan horse for digital IDs</title>
-      <link>https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/</link>
-      <description>A technical look at the EU age verification reference app — the gap between marketed and shipped cryptography, relay attacks the protocol can't stop, and why the 'privacy-preserving' system is a trojan horse for digital ID infrastructure.</description>
-      <category>encryption</category>
-      <category>git</category>
-      <category>android</category>
-      <category>linux</category>
-      <category>ai</category>
-      <guid>https://juraj.bednar.io/en/blog-en/2026/04/17/eu-age-control-the-trojan-horse-for-digital-ids/</guid>
-      <pubDate>Sun, 26 Apr 2026 15:02:31 GMT</pubDate>
     </item>
   </channel>
 </rss>
