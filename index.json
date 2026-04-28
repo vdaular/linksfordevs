@@ -222,13 +222,5 @@
     "Domain": "bensimms.moe",
     "Description": "../postgres-lateral-makes-quite-a-good-dsl",
     "Confidence": 0.9983702
-  },
-  {
-    "Title": "GitHub Copilot is moving to usage-based billing",
-    "Url": "https://github.blog/news-insights/company-news/github-copilot-is-moving-to-usage-based-billing/",
-    "Timestamp": "2026-04-27T19:02:17",
-    "Domain": "github.blog",
-    "Description": "Starting June 1, your Copilot usage will consume GitHub AI Credits.",
-    "Confidence": 0.9704246
   }
 ]
