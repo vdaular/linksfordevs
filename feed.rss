@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>GTFOBins</title>
+      <link>https://gtfobins.org/</link>
+      <description>GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.</description>
+      <category>sql</category>
+      <category>ruby</category>
+      <category>cloud</category>
+      <category>containers</category>
+      <category>git</category>
+      <guid>https://gtfobins.org/</guid>
+      <pubDate>Tue, 28 Apr 2026 13:02:13 GMT</pubDate>
+    </item>
+    <item>
       <title>Introducing talkie: a 13B vintage language model from 1930</title>
       <link>https://talkie-lm.com/introducing-talkie</link>
       <description>April 2026</description>

@@ -1,5 +1,13 @@
 [
   {
+    "Title": "GTFOBins",
+    "Url": "https://gtfobins.org/",
+    "Timestamp": "2026-04-28T13:02:13",
+    "Domain": "gtfobins.org",
+    "Description": "GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.",
+    "Confidence": 0.98103523
+  },
+  {
     "Title": "Introducing talkie: a 13B vintage language model from 1930",
     "Url": "https://talkie-lm.com/introducing-talkie",
     "Timestamp": "2026-04-28T06:02:08",
