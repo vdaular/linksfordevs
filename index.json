@@ -222,13 +222,5 @@
     "Domain": "dubeykartikay.com",
     "Description": "See how sembed-engine made Vamana vector search 16x faster with flat arrays, lightweight views, squared distances, SIMD-friendly loops, and cached candidate scores.",
     "Confidence": 0.9917428
-  },
-  {
-    "Title": "fast16 | Mystery ShadowBrokers Reference Reveals High-Precision Software Sabotage 5 Years Before Stuxnet",
-    "Url": "https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/",
-    "Timestamp": "2026-04-27T10:02:07",
-    "Domain": "www.sentinelone.com",
-    "Description": "A previously unknown 2005 cyber sabotage framework patches high-precision calculation software in memory to silently corrupt results.",
-    "Confidence": 0.98162776
   }
 ]
