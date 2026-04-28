@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Introducing talkie: a 13B vintage language model from 1930</title>
+      <link>https://talkie-lm.com/introducing-talkie</link>
+      <description>April 2026</description>
+      <category>ai</category>
+      <category>encryption</category>
+      <category>python</category>
+      <guid>https://talkie-lm.com/introducing-talkie</guid>
+      <pubDate>Tue, 28 Apr 2026 06:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>Soniferous Aether</title>
       <link>https://xkcd.com/3238/</link>
       <description></description>
