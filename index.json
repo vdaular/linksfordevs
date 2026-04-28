@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Don't use localhost:3000, use your own custom domain",
+    "Url": "https://idiallo.com/blog/say-no-to-localhost3000-use-custom-domains?src=feed",
+    "Timestamp": "2026-04-28T00:02:12",
+    "Domain": "idiallo.com",
+    "Description": "After presenting a demo of how an internal tool works, I was flooded with questions. Not about the tool, but about why I had bought a domain just to run the demo. \"Why didn't you use the staging serve",
+    "Confidence": 0.98703647
+  },
+  {
     "Title": "The One-Person Stack | ivan.codes",
     "Url": "https://www.ivan.codes/blog/the-one-person-stack",
     "Timestamp": "2026-04-27T23:04:02",

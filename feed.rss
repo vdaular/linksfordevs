@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Don't use localhost:3000, use your own custom domain</title>
+      <link>https://idiallo.com/blog/say-no-to-localhost3000-use-custom-domains?src=feed</link>
+      <description>After presenting a demo of how an internal tool works, I was flooded with questions. Not about the tool, but about why I had bought a domain just to run the demo. "Why didn't you use the staging serve</description>
+      <category>nodejs</category>
+      <category>linux</category>
+      <category>javascript</category>
+      <guid>https://idiallo.com/blog/say-no-to-localhost3000-use-custom-domains?src=feed</guid>
+      <pubDate>Tue, 28 Apr 2026 00:02:12 GMT</pubDate>
+    </item>
+    <item>
       <title>The One-Person Stack | ivan.codes</title>
       <link>https://www.ivan.codes/blog/the-one-person-stack</link>
       <description>How to ship real products alone and what to care about at each stage.</description>
