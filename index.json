@@ -214,13 +214,5 @@
     "Domain": "github.blog",
     "Description": "Starting June 1, your Copilot usage will consume GitHub AI Credits.",
     "Confidence": 0.9704246
-  },
-  {
-    "Title": "GitHub - pgbackrest/pgbackrest: Reliable PostgreSQL Backup & Restore",
-    "Url": "https://github.com/pgbackrest/pgbackrest",
-    "Timestamp": "2026-04-27T15:02:18",
-    "Domain": "github.com",
-    "Description": "Reliable PostgreSQL Backup & Restore. Contribute to pgbackrest/pgbackrest development by creating an account on GitHub.",
-    "Confidence": 0.9936018
   }
 ]
