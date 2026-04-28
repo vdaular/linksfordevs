@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Soniferous Aether</title>
+      <link>https://xkcd.com/3238/</link>
+      <description></description>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3238/</guid>
+      <pubDate>Tue, 28 Apr 2026 05:02:19 GMT</pubDate>
+    </item>
+    <item>
       <title>SUPER ZSNES</title>
       <link>https://zsnes.com/</link>
       <description>A GPU-powered SNES emulator rewritten from scratch with hi-res Mode 7, per-game enhancements, and a modernized classic UI.</description>
