@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Keep Android Open",
+    "Url": "https://keepandroidopen.org/en/",
+    "Timestamp": "2026-04-28T18:02:15",
+    "Domain": "keepandroidopen.org",
+    "Description": "Your phone is about to stop being yours. In September 2026, Google will block every Android app whose developer hasn't registered with them.",
+    "Confidence": 0.817287
+  },
+  {
     "Title": "An update on GitHub availability",
     "Url": "https://github.blog/news-insights/company-news/an-update-on-github-availability/",
     "Timestamp": "2026-04-28T17:02:17",

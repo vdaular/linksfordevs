@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Keep Android Open</title>
+      <link>https://keepandroidopen.org/en/</link>
+      <description>Your phone is about to stop being yours. In September 2026, Google will block every Android app whose developer hasn't registered with them.</description>
+      <category>android</category>
+      <category>apple</category>
+      <category>youtube</category>
+      <category>linux</category>
+      <guid>https://keepandroidopen.org/en/</guid>
+      <pubDate>Tue, 28 Apr 2026 18:02:15 GMT</pubDate>
+    </item>
+    <item>
       <title>An update on GitHub availability</title>
       <link>https://github.blog/news-insights/company-news/an-update-on-github-availability/</link>
       <description>Here’s what we’ve done—and what we’re still doing—to improve our availability and reliability.</description>
