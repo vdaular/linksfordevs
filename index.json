@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Claude.ai unavailable and elevated errors on the API",
+    "Url": "https://status.claude.com/incidents/9l93x2ht4s5w",
+    "Timestamp": "2026-04-28T23:02:09",
+    "Domain": "status.claude.com",
+    "Description": "Claude's Status Page - Claude.ai unavailable and elevated errors on the API.",
+    "Confidence": 0.8982901
+  },
+  {
     "Title": "Ghostty Is Leaving GitHub",
     "Url": "https://mitchellh.com/writing/ghostty-leaving-github",
     "Timestamp": "2026-04-28T21:02:09",
@@ -70,165 +78,5 @@
     "Domain": "idiallo.com",
     "Description": "After presenting a demo of how an internal tool works, I was flooded with questions. Not about the tool, but about why I had bought a domain just to run the demo. \"Why didn't you use the staging serve",
     "Confidence": 0.98703647
-  },
-  {
-    "Title": "The One-Person Stack | ivan.codes",
-    "Url": "https://www.ivan.codes/blog/the-one-person-stack",
-    "Timestamp": "2026-04-27T23:04:02",
-    "Domain": "www.ivan.codes",
-    "Description": "How to ship real products alone and what to care about at each stage.",
-    "Confidence": 0.99146557
-  },
-  {
-    "Title": "We Are Not Language Machines",
-    "Url": "https://www.shishyko.com/essays/we-are-not-language-machines.html",
-    "Timestamp": "2026-04-27T23:03:58",
-    "Domain": "www.shishyko.com",
-    "Description": "The nightmare of materialism, which has turned the life of the universe into an evil, useless game, is not yet past; it holds the awakening soul still in its grip. - Wassily Kandinsky",
-    "Confidence": 0.6789382
-  },
-  {
-    "Title": "Good Design vs. Bad Design",
-    "Url": "https://tm-media-site.vercel.app/article/good-design-vs-bad-design",
-    "Timestamp": "2026-04-27T23:03:55",
-    "Domain": "tm-media-site.vercel.app",
-    "Description": "Most designers will talk to you about fonts, colors, and layouts. Few will ever tell you what design actually is — and why that misunderstanding costs everyone.",
-    "Confidence": 0.98582184
-  },
-  {
-    "Title": "Building a SQL Analyst Agent",
-    "Url": "https://raminmousavi.dev/blog/building-a-sql-analyst-agent",
-    "Timestamp": "2026-04-27T23:03:51",
-    "Domain": "raminmousavi.dev",
-    "Description": "How to build a simple AI SQL analyst agent with Node.js, OpenAI, Vercel AI SDK, and SQLite.",
-    "Confidence": 0.9956616
-  },
-  {
-    "Title": "Notes on Serial Experiments Lain by Jordan Matthiass",
-    "Url": "https://jordanmatthiass.net/essays/serial_experiments_lain",
-    "Timestamp": "2026-04-27T23:03:45",
-    "Domain": "jordanmatthiass.net",
-    "Description": "Notes on Serial Experiments Lain, the Wired, fractured selfhood, alienation, and the digital apocalypse that came true.",
-    "Confidence": 0.8529263
-  },
-  {
-    "Title": "Exponentially Smoothed FPS Counters",
-    "Url": "https://blog.wilsworld.net/posts/2026_04_25-Exponentially_Smoothed_FPS_Counters",
-    "Timestamp": "2026-04-27T23:03:42",
-    "Domain": "blog.wilsworld.net",
-    "Description": "Exploring how to apply an interesting numerical technique with constant time and space complexity to FPS counters.",
-    "Confidence": 0.98643917
-  },
-  {
-    "Title": "I Spent My Sabbatical Building a Power Meter for Sledgehammers",
-    "Url": "https://leblancfg.com/intensity-pad-founder-story.html",
-    "Timestamp": "2026-04-27T23:03:38",
-    "Domain": "leblancfg.com",
-    "Description": "One month, one prototype — the first Intensity Pad, and why I think striking movements deserve a power meter of their own.",
-    "Confidence": 0.8976648
-  },
-  {
-    "Title": "Your blog is a radio station - Down the Road",
-    "Url": "https://blog.jimgrey.net/2026/04/23/your-blog-is-a-radio-station/",
-    "Timestamp": "2026-04-27T23:03:34",
-    "Domain": "blog.jimgrey.net",
-    "Description": "A useful metaphor for us niche bloggers that helps explain why some readers stay.",
-    "Confidence": 0.8880351
-  },
-  {
-    "Title": "A Brief History of SQL: From 1970 to 2026",
-    "Url": "https://www.ismatsamadov.com/blog/brief-history-of-sql-language-that-refuses-to-die",
-    "Timestamp": "2026-04-27T23:03:30",
-    "Domain": "www.ismatsamadov.com",
-    "Description": "SQL was created in 1973, survived NoSQL, and 55.6% of devs use PostgreSQL today. The full history with standards, tools, and why SQL won.",
-    "Confidence": 0.97795904
-  },
-  {
-    "Title": "Softmax, can you really derive the Jacobian? And should you care? — idlemachines",
-    "Url": "https://idlemachines.co.uk/essays/softmax",
-    "Timestamp": "2026-04-27T23:03:26",
-    "Domain": "idlemachines.co.uk",
-    "Description": "Practice machine learning engineering with hands-on coding challenges. Implement neural network components, backprop, and more — from scratch.",
-    "Confidence": 0.9910013
-  },
-  {
-    "Title": "The cost of being \"nice\"",
-    "Url": "https://bytesizedchunks.net/blog/20260426/",
-    "Timestamp": "2026-04-27T23:03:21",
-    "Domain": "bytesizedchunks.net",
-    "Description": "The other day, a link popped up on Hacker News reviving this old Reddit post1 in which u/flipstables shares a pretty long and honest list of things they learned as a senior engineer. I highly suggest going through it as most of the things there are pure gold. But one, seemingly mundane, item inspired me to write this chunk:\nBe kind to everyone. Not because it’ll help your career (it will), but because being kind is rewarding by itself.\n",
-    "Confidence": 0.96726775
-  },
-  {
-    "Title": "Most People Who Ride Bikes Have Soft Tires",
-    "Url": "https://maxmautner.com/2026/04/25/soft-tires.html",
-    "Timestamp": "2026-04-27T23:03:17",
-    "Domain": "maxmautner.com",
-    "Description": "A look at the quietest barrier to bicycle adoption (inflating your tires), and why bike share and public pumps deserve more credit than they get.",
-    "Confidence": 0.61748445
-  },
-  {
-    "Title": "ChatGPT Images 2.0 Still Can't Draw the Seven-legged Spider I Want",
-    "Url": "https://will-keleher.com/posts/chatgpt-image-2-still-cant-draw-a-seven-legged-spider/",
-    "Timestamp": "2026-04-27T23:03:14",
-    "Domain": "will-keleher.com",
-    "Description": "ChatGPT Images 2.0 is able to generate a seven-legged spider, but it's not missing the leg I asked for.",
-    "Confidence": 0.94536835
-  },
-  {
-    "Title": "steer coding agents with interactive diagrams — Will Hennessy",
-    "Url": "https://willhennessy.io/writing/introducing-architect.html",
-    "Timestamp": "2026-04-27T23:03:11",
-    "Domain": "willhennessy.io",
-    "Description": "The Claude Architect plugin adds an interactive architecture diagram to Plan Mode so you can review, annotate, and revise the plan with Claude in real time.",
-    "Confidence": 0.99887586
-  },
-  {
-    "Title": "You can beat the binary search",
-    "Url": "https://lemire.me/blog/2026/04/27/you-can-beat-the-binary-search/",
-    "Timestamp": "2026-04-27T23:03:07",
-    "Domain": "lemire.me",
-    "Description": "We sometimes have to look for a value in a sorted array. The simplest algorithm consists in just going through the values one by one, until we encounter the value, or exhaust the array. We sometimes call this algorithm a linear search. In C++, you can get the desired effect with the std::find function. For … Continue reading You can beat the binary search",
-    "Confidence": 0.99875796
-  },
-  {
-    "Title": "Uptime golf",
-    "Url": "https://anderegg.ca/2026/04/27/uptime-golf",
-    "Timestamp": "2026-04-27T23:03:04",
-    "Domain": "anderegg.ca",
-    "Description": "I’ve been noticing a lot of service outages lately. Some with few enough nines that you’d think they were going for a low score. My guess: this is probably going to get worse before it gets better. But maybe not for the reasons you’d think.",
-    "Confidence": 0.93917966
-  },
-  {
-    "Title": "LLMs and the Adversarial Loop",
-    "Url": "https://myers.io/2026/04/15/LLMs-and-the-Adversarial-loop/",
-    "Timestamp": "2026-04-27T23:03:00",
-    "Domain": "myers.io",
-    "Description": "LLMs are confident. So much so that if you ask one to give you the recipe to immortality, it will probably take a stab at it, even though it knows as much about mortality as it does its own existence. Ask one to write a design spec and it’ll produce something that reads well, covers the obvious cases, and sounds authoritative. Ask it to implement code from that spec and it’ll write something that compiles and handles the happy path. But that’s as good as it gets.",
-    "Confidence": 0.98749
-  },
-  {
-    "Title": "Why You Can't Write That Book",
-    "Url": "https://brianschrader.com/archive/why-you-cant-write-that-book/",
-    "Timestamp": "2026-04-27T23:02:56",
-    "Domain": "brianschrader.com",
-    "Description": "I could do that, I just need more time.",
-    "Confidence": 0.9207397
-  },
-  {
-    "Title": "Cost of PostgreSQL performance issues | Stormatics",
-    "Url": "https://stormatics.tech/blogs/cost-of-postgresql-performance-issues",
-    "Timestamp": "2026-04-27T23:02:52",
-    "Domain": "stormatics.tech",
-    "Description": "Understand the cost of PostgreSQL performance issues. Learn how query inefficiency, bloat, and misconfiguration drive unnecessary spend.",
-    "Confidence": 0.97629315
-  },
-  {
-    "Title": "Postgres's lateral joins allow for quite the good eDSL",
-    "Url": "https://bensimms.moe/postgres-lateral-makes-quite-a-good-dsl/",
-    "Timestamp": "2026-04-27T23:02:46",
-    "Domain": "bensimms.moe",
-    "Description": "../postgres-lateral-makes-quite-a-good-dsl",
-    "Confidence": 0.9983702
   }
 ]

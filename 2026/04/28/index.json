@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Claude.ai unavailable and elevated errors on the API",
+    "Url": "https://status.claude.com/incidents/9l93x2ht4s5w",
+    "Timestamp": "2026-04-28T23:02:09",
+    "Domain": "status.claude.com",
+    "Description": "Claude's Status Page - Claude.ai unavailable and elevated errors on the API."
+  },
+  {
     "Title": "Ghostty Is Leaving GitHub",
     "Url": "https://mitchellh.com/writing/ghostty-leaving-github",
     "Timestamp": "2026-04-28T21:02:09",
