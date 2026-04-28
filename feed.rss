@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Ghostty Is Leaving GitHub</title>
+      <link>https://mitchellh.com/writing/ghostty-leaving-github</link>
+      <description>Writing this makes me irrationally sad, but Ghostty will be leaving GitHub1.</description>
+      <category>git</category>
+      <guid>https://mitchellh.com/writing/ghostty-leaving-github</guid>
+      <pubDate>Tue, 28 Apr 2026 21:02:09 GMT</pubDate>
+    </item>
+    <item>
       <title>Keep Android Open</title>
       <link>https://keepandroidopen.org/en/</link>
       <description>Your phone is about to stop being yours. In September 2026, Google will block every Android app whose developer hasn't registered with them.</description>
