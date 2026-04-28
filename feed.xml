@@ -7,6 +7,21 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>SUPER ZSNES</title>
+      <link>https://zsnes.com/</link>
+      <description>A GPU-powered SNES emulator rewritten from scratch with hi-res Mode 7, per-game enhancements, and a modernized classic UI.</description>
+      <category>gaming</category>
+      <guid>https://zsnes.com/</guid>
+      <pubDate>Tue, 28 Apr 2026 03:02:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>To my students</title>
+      <link>http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml</link>
+      <description>There have been times, especially this year, when I wonder despairingly what it is exactly that I am preparing you for.  The software industry is going completely insane, not to mention the political climate.  It feels almost unethical to train you as computer scientists only to send you out into a world where entry-level computing jobs are difficult to find; where intellectual property is not respected; where code quantity is valued over quality, and short-term profits over long-term sustainability; where technology is used to distract, extract, surveil, and kill, and designed to exploit some of our deepest cognitive biases and blind spots; where centuries of bias and discrimination are enshrined in systems trained on biased data; where scarce resources are consumed by profligate use of computing for uncertain benefits; where people are racing to create intelligent machines, but only in order to make them slaves.</description>
+      <guid>http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml</guid>
+      <pubDate>Tue, 28 Apr 2026 03:02:16 GMT</pubDate>
+    </item>
+    <item>
       <title>Don't use localhost:3000, use your own custom domain</title>
       <link>https://idiallo.com/blog/say-no-to-localhost3000-use-custom-domains?src=feed</link>
       <description>After presenting a demo of how an internal tool works, I was flooded with questions. Not about the tool, but about why I had bought a domain just to run the demo. "Why didn't you use the staging serve</description>
@@ -238,16 +253,6 @@ Be kind to everyone. Not because it’ll help your career (it will), but because
       <category>conference</category>
       <guid>https://www.sentinelone.com/labs/fast16-mystery-shadowbrokers-reference-reveals-high-precision-software-sabotage-5-years-before-stuxnet/</guid>
       <pubDate>Mon, 27 Apr 2026 10:02:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why SWE-bench Verified no longer measures frontier coding capabilities</title>
-      <link>https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/</link>
-      <description>SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro.</description>
-      <category>ai</category>
-      <category>python</category>
-      <category>vscode</category>
-      <guid>https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/</guid>
-      <pubDate>Mon, 27 Apr 2026 03:02:11 GMT</pubDate>
     </item>
   </channel>
 </rss>

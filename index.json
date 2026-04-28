@@ -1,5 +1,21 @@
 [
   {
+    "Title": "SUPER ZSNES",
+    "Url": "https://zsnes.com/",
+    "Timestamp": "2026-04-28T03:02:19",
+    "Domain": "zsnes.com",
+    "Description": "A GPU-powered SNES emulator rewritten from scratch with hi-res Mode 7, per-game enhancements, and a modernized classic UI.",
+    "Confidence": 0.9898444
+  },
+  {
+    "Title": "To my students",
+    "Url": "http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml",
+    "Timestamp": "2026-04-28T03:02:16",
+    "Domain": "ozark.hendrix.edu",
+    "Description": "There have been times, especially this year, when I wonder despairingly what it is exactly that I am preparing you for.  The software industry is going completely insane, not to mention the political climate.  It feels almost unethical to train you as computer scientists only to send you out into a world where entry-level computing jobs are difficult to find; where intellectual property is not respected; where code quantity is valued over quality, and short-term profits over long-term sustainability; where technology is used to distract, extract, surveil, and kill, and designed to exploit some of our deepest cognitive biases and blind spots; where centuries of bias and discrimination are enshrined in systems trained on biased data; where scarce resources are consumed by profligate use of computing for uncertain benefits; where people are racing to create intelligent machines, but only in order to make them slaves.",
+    "Confidence": 0.9124683
+  },
+  {
     "Title": "Don't use localhost:3000, use your own custom domain",
     "Url": "https://idiallo.com/blog/say-no-to-localhost3000-use-custom-domains?src=feed",
     "Timestamp": "2026-04-28T00:02:12",
@@ -198,13 +214,5 @@
     "Domain": "www.sentinelone.com",
     "Description": "A previously unknown 2005 cyber sabotage framework patches high-precision calculation software in memory to silently corrupt results.",
     "Confidence": 0.98162776
-  },
-  {
-    "Title": "Why SWE-bench Verified no longer measures frontier coding capabilities",
-    "Url": "https://openai.com/index/why-we-no-longer-evaluate-swe-bench-verified/",
-    "Timestamp": "2026-04-27T03:02:11",
-    "Domain": "openai.com",
-    "Description": "SWE-bench Verified is increasingly contaminated and mismeasures frontier coding progress. Our analysis shows flawed tests and training leakage. We recommend SWE-bench Pro.",
-    "Confidence": 0.95829767
   }
 ]
