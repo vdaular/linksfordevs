@@ -7,6 +7,22 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Simple Machines</title>
+      <link>https://xkcd.com/3239/</link>
+      <description></description>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3239/</guid>
+      <pubDate>Wed, 29 Apr 2026 17:02:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>we need a federation of forges</title>
+      <link>https://blog.tangled.org/federation/</link>
+      <description>git is decentralized, but what of the rest?</description>
+      <category>git</category>
+      <guid>https://blog.tangled.org/federation/</guid>
+      <pubDate>Wed, 29 Apr 2026 17:02:07 GMT</pubDate>
+    </item>
+    <item>
       <title>Zed is 1.0 - Zed Blog</title>
       <link>https://zed.dev/blog/zed-1-0</link>
       <description>From the Zed Blog: The editor we set out to build is now 1.0.</description>
@@ -329,18 +345,6 @@ In …</description>
       <category>linux</category>
       <guid>https://keepandroidopen.org/en/</guid>
       <pubDate>Tue, 28 Apr 2026 18:02:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>An update on GitHub availability</title>
-      <link>https://github.blog/news-insights/company-news/an-update-on-github-availability/</link>
-      <description>Here’s what we’ve done—and what we’re still doing—to improve our availability and reliability.</description>
-      <category>git</category>
-      <category>sql</category>
-      <category>ruby</category>
-      <category>cloud</category>
-      <category>ai</category>
-      <guid>https://github.blog/news-insights/company-news/an-update-on-github-availability/</guid>
-      <pubDate>Tue, 28 Apr 2026 17:02:17 GMT</pubDate>
     </item>
   </channel>
 </rss>
