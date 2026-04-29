@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Copy Fail — 732 Bytes to Root</title>
+      <link>https://copy.fail/</link>
+      <description>CVE-2026-31431. 100% Reliable Linux LPE — no race, no per-distro offsets, page-cache write that bypasses on-disk file-integrity tools and crosses containers. Found by Xint Code.</description>
+      <category>conference</category>
+      <category>containers</category>
+      <category>linux</category>
+      <category>git</category>
+      <category>python</category>
+      <guid>https://copy.fail/</guid>
+      <pubDate>Wed, 29 Apr 2026 21:02:06 GMT</pubDate>
+    </item>
+    <item>
       <title>Cursor Camp</title>
       <link>https://neal.fun/cursor-camp/</link>
       <description>A campground for your cursor</description>
@@ -353,14 +365,6 @@ In …</description>
       <category>ai</category>
       <guid>https://status.claude.com/incidents/9l93x2ht4s5w</guid>
       <pubDate>Tue, 28 Apr 2026 23:02:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ghostty Is Leaving GitHub</title>
-      <link>https://mitchellh.com/writing/ghostty-leaving-github</link>
-      <description>Writing this makes me irrationally sad, but Ghostty will be leaving GitHub1.</description>
-      <category>git</category>
-      <guid>https://mitchellh.com/writing/ghostty-leaving-github</guid>
-      <pubDate>Tue, 28 Apr 2026 21:02:09 GMT</pubDate>
     </item>
   </channel>
 </rss>

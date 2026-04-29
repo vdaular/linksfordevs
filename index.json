@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Copy Fail — 732 Bytes to Root",
+    "Url": "https://copy.fail/",
+    "Timestamp": "2026-04-29T21:02:06",
+    "Domain": "copy.fail",
+    "Description": "CVE-2026-31431. 100% Reliable Linux LPE — no race, no per-distro offsets, page-cache write that bypasses on-disk file-integrity tools and crosses containers. Found by Xint Code.",
+    "Confidence": 0.98458827
+  },
+  {
     "Title": "Cursor Camp",
     "Url": "https://neal.fun/cursor-camp/",
     "Timestamp": "2026-04-29T20:02:12",
@@ -294,13 +302,5 @@
     "Domain": "status.claude.com",
     "Description": "Claude's Status Page - Claude.ai unavailable and elevated errors on the API.",
     "Confidence": 0.8982901
-  },
-  {
-    "Title": "Ghostty Is Leaving GitHub",
-    "Url": "https://mitchellh.com/writing/ghostty-leaving-github",
-    "Timestamp": "2026-04-28T21:02:09",
-    "Domain": "mitchellh.com",
-    "Description": "Writing this makes me irrationally sad, but Ghostty will be leaving GitHub1.",
-    "Confidence": 0.9929264
   }
 ]
