@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Cursor Camp</title>
+      <link>https://neal.fun/cursor-camp/</link>
+      <description>A campground for your cursor</description>
+      <guid>https://neal.fun/cursor-camp/</guid>
+      <pubDate>Wed, 29 Apr 2026 20:02:12 GMT</pubDate>
+    </item>
+    <item>
       <title>Remote agents in Vibe. Powered by Mistral Medium 3.5. | Mistral AI</title>
       <link>https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5</link>
       <description>Introducing Mistral Medium 3.5, remote coding agents in Vibe, plus new Work mode in Le Chat for complex tasks.</description>
