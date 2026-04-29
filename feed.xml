@@ -90,15 +90,5 @@
       <guid>http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml</guid>
       <pubDate>Tue, 28 Apr 2026 03:02:16 GMT</pubDate>
     </item>
-    <item>
-      <title>Don't use localhost:3000, use your own custom domain</title>
-      <link>https://idiallo.com/blog/say-no-to-localhost3000-use-custom-domains?src=feed</link>
-      <description>After presenting a demo of how an internal tool works, I was flooded with questions. Not about the tool, but about why I had bought a domain just to run the demo. "Why didn't you use the staging serve</description>
-      <category>nodejs</category>
-      <category>linux</category>
-      <category>javascript</category>
-      <guid>https://idiallo.com/blog/say-no-to-localhost3000-use-custom-domains?src=feed</guid>
-      <pubDate>Tue, 28 Apr 2026 00:02:12 GMT</pubDate>
-    </item>
   </channel>
 </rss>
