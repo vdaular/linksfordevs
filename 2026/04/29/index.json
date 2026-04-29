@@ -1,1 +1,170 @@
-[]
+[
+  {
+    "Title": "10Gb Ethernet: what I had to (re)learn",
+    "Url": "https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-relearned",
+    "Timestamp": "2026-04-29T01:03:50",
+    "Domain": "www.gilesthomas.com",
+    "Description": "Wired networking in the home and small offices has been pretty stagnant for ages, so upgrading my home from 2.5Gb ethernet to 10Gb meant I had to (re)learn a few things."
+  },
+  {
+    "Title": "Anatomy of an Article",
+    "Url": "https://blog.yaelwrites.com/anatomy-of-an-article/",
+    "Timestamp": "2026-04-29T01:03:46",
+    "Domain": "blog.yaelwrites.com",
+    "Description": "Some open secrets about what you're reading"
+  },
+  {
+    "Title": "Bypassing DPI with eBPF sock_ops",
+    "Url": "https://bora.sh/bypassing-dpi-with-ebpf/",
+    "Timestamp": "2026-04-29T01:03:43",
+    "Domain": "bora.sh",
+    "Description": "eBPF sock_ops, fake TLS packets, and why every platform needs a different hack"
+  },
+  {
+    "Title": "I Got Sick of Remembering Port Numbers",
+    "Url": "https://gregraiz.com/blog/local-vibe/",
+    "Timestamp": "2026-04-29T01:03:40",
+    "Domain": "gregraiz.com",
+    "Description": "So I built local.vibe — a friendly dashboard and local .vibe hostname for every local web app on your Mac. No more localhost:3000 vs localhost:5173 roulette."
+  },
+  {
+    "Title": "The Best (Query) Plans of Mice and Men",
+    "Url": "https://ohadravid.github.io/posts/2026-04-query-plans/",
+    "Timestamp": "2026-04-29T01:03:36",
+    "Domain": "ohadravid.github.io",
+    "Description": " Or rather, of elephants 🐘 and men.\nAt $work, we use PostgreSQL a lot. So much in fact, that we tend to be paranoid frugal when adding even more stuff to it.\nIn …"
+  },
+  {
+    "Title": "Carrot disclosure: Forgejo",
+    "Url": "https://dustri.org/b/carrot-disclosure-forgejo.html",
+    "Timestamp": "2026-04-29T01:03:33",
+    "Domain": "dustri.org",
+    "Description": "Personal blog of Julien (jvoisin) Voisin"
+  },
+  {
+    "Title": "Stop Wasting Brainpower | Yusuf Aytas",
+    "Url": "https://yusufaytas.com/stop-wasting-brainpower",
+    "Timestamp": "2026-04-29T01:03:29",
+    "Domain": "yusufaytas.com",
+    "Description": "Cognitive load, not hours, kills productivity. Cut distractions, tame complexity, and free brainpower for real engineering work."
+  },
+  {
+    "Title": "Prompts are like prayers",
+    "Url": "https://anuvrat.in/prompts-are-like-prayers.html",
+    "Timestamp": "2026-04-29T01:03:26",
+    "Domain": "anuvrat.in",
+    "Description": "I have been feeling a bit off about the recent developments in the ai/tech sector. That I wasn't able to pin point the reason for my unease, despite trying to write about it, irked me even more."
+  },
+  {
+    "Title": "You should try contra dancing",
+    "Url": "https://www.benkuhn.net/contra/",
+    "Timestamp": "2026-04-29T01:03:21",
+    "Domain": "www.benkuhn.net",
+    "Description": "a story of middle school Ben • a not-very-illuminating description of the mechanics • flow, joy, and community • the antidote to the rest of life • how to try contra"
+  },
+  {
+    "Title": "Using native Rails rate-limits in production | AMZ Cart Share",
+    "Url": "https://amzcartshare.com/native-rails-rate-limits",
+    "Timestamp": "2026-04-29T01:03:18",
+    "Domain": "amzcartshare.com",
+    "Description": "Learn how to use the native rate-limiting built into Rails controllers to protect your endpoints from a barrage of requests."
+  },
+  {
+    "Title": "Why Multi Window Multi Burn Rate SLO Alerting Sucks!",
+    "Url": "https://eavan.blog/posts/multi-window-burn-rate-sucks.html",
+    "Timestamp": "2026-04-29T01:03:13",
+    "Domain": "eavan.blog",
+    "Description": "Service Level Objectives (SLOs) are great! Alerts based on SLOs are great! Alerts based on SLOs promise to reduce noise by only alerting on true service degradations, reducing noise and alert fatigue. Everyone uses the multi-window multi-burn-rate (MWMB) method for defining SLO alerts, because Google recommends it. But now that I've seen how this alert behaves in the real world, I think it's an overcomplicated mess with too many moving parts that interact in confusing ways to create alert spam that is hard to explain. Simply removing some of these moving parts can improve your on-call experience."
+  },
+  {
+    "Title": "The Moat or the Commons — Warman Notes",
+    "Url": "https://www.warman.life/blog/2026-04-27-the-moat-or-the-commons/",
+    "Timestamp": "2026-04-29T01:03:07",
+    "Domain": "www.warman.life",
+    "Description": "American capital financed AI on the assumption it would be the next great monopoly. Open-weight models are commoditizing the capability that monopoly was supposed to protect. The collision between the two now defines the direction of the U.S. AI industry — and the country."
+  },
+  {
+    "Title": "Linux Ubuntu freeze Firefox | Vittorio Gioda",
+    "Url": "https://vittoriogioda.com/posts/linux-out-of-memory/",
+    "Timestamp": "2026-04-29T01:03:03",
+    "Domain": "vittoriogioda.com",
+    "Description": "How I fixed Ubuntu freezes caused by Firefox consuming all RAM by configuring swap, swappiness, earlyoom, and zswap."
+  },
+  {
+    "Title": "I quit drinking for a year",
+    "Url": "https://dynomight.net/drinking/",
+    "Timestamp": "2026-04-29T01:03:00",
+    "Domain": "dynomight.net",
+    "Description": "out of spite"
+  },
+  {
+    "Title": "How I Won a Championship That Doesn’t Exist",
+    "Url": "https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/",
+    "Timestamp": "2026-04-29T01:02:54",
+    "Domain": "ron.stoner.com",
+    "Description": "Poisoning the LLM knowledge supply chain with a fake Wikipedia edit and a single domain registration"
+  },
+  {
+    "Title": "How to Keep Your Brain Sharp: A Practical Playbook Beyond the Basics  - The Blog of Author Tim Ferriss",
+    "Url": "https://tim.blog/2026/04/24/how-to-keep-your-brain-sharp/",
+    "Timestamp": "2026-04-29T01:02:50",
+    "Domain": "tim.blog",
+    "Description": "The following is a guest post from Dr. Tommy Wood (@drtommywood), associate professor of pediatrics and neuroscience at the University of Washington, where his research focuses on brain health.  In this blog post, Tommy covers: Tommy’s new book is The Stimulated Mind: Future-Proof Your Brain from Dementia and Stay Sharp at Any Age. Enter Tommy… […]"
+  },
+  {
+    "Title": "Offline Agentic Coding",
+    "Url": "https://www.williamangel.net/blog/2026/04/27/offline-agentic-coding.html",
+    "Timestamp": "2026-04-29T01:02:47",
+    "Domain": "www.williamangel.net",
+    "Description": "Offline Agentic Coding: Ollama and Claude code"
+  },
+  {
+    "Title": "How I Broke the Anti-Bot Behind Nike, Kick, and Twitch — emro.cat",
+    "Url": "https://emro.cat/blog/how-i-broke-the-anti-bot-behind-nike-kick-and-twitch/",
+    "Timestamp": "2026-04-29T01:02:44",
+    "Domain": "emro.cat",
+    "Description": "A full breakdown of reverse engineering a commercial anti-bot system, from VM disassembly to payload generation."
+  },
+  {
+    "Title": "Text is the New Binary | Andrea Baccega",
+    "Url": "https://andreabaccega.com/blog/text-is-the-new-binary/",
+    "Timestamp": "2026-04-29T01:02:40",
+    "Domain": "andreabaccega.com",
+    "Description": "Software increasingly ships as prose meant to be interpreted by someone else's LLM. From Karpathy's wiki gist to gh skill install, even installation is now a paragraph. The same critique that pushes Karpathy beyond RAG hints at where the dust will eventually settle."
+  },
+  {
+    "Title": "The Accidental Ancestor — How a Computer for Verifying Numbers Shaped Modern Hashing",
+    "Url": "https://0xkrt26.github.io/math_behind_security/2026/04/28/the-accidental-ancestor-Luhn-algorithm.html",
+    "Timestamp": "2026-04-29T01:02:37",
+    "Domain": "0xkrt26.github.io",
+    "Description": "1954, Hans Peter Luhn filed for a US patent on a Computer for Verifying Numbers. This is one of the earliest examples of using mathematical transformations to verify data integrity, a concept that became a foundation for modern hashes. Today you can find it under names Luhn Algorithm, Luhn Formula or Modulus 10 Algorithm."
+  },
+  {
+    "Title": "Realtek’s 10GbE NIC performance revisited",
+    "Url": "https://kohlschuetter.github.io/blog/posts/2026/04/28/rtl10/",
+    "Timestamp": "2026-04-29T01:02:34",
+    "Domain": "kohlschuetter.github.io",
+    "Description": "The arrival of cheap 10GbE Realtek NICs changes the game; do we need to play it now?"
+  },
+  {
+    "Title": "Why We Measure Tickets, Not Problems Prevented — Vivian Voss",
+    "Url": "https://vivianvoss.net/blog/why-we-measure-tickets",
+    "Timestamp": "2026-04-29T01:02:30",
+    "Domain": "vivianvoss.net",
+    "Description": "Productivity is what one can count. The decision not to deploy on Friday afternoon does not log. The engineer who prevents three outages closes no tickets that quarter. The one who ships forty-seven is promoted. The dashboard goes up. The system goes down. The chair, somewhere, is not being built."
+  },
+  {
+    "Title": "How I Forgot How to Code — Reggie Escobar",
+    "Url": "https://reggieescobar.com/blog/how-i-forgot-to-code",
+    "Timestamp": "2026-04-29T01:02:26",
+    "Domain": "reggieescobar.com",
+    "Description": "I went all in on AI coding tools and became incredibly productive. Then I lost my job and could not write a for loop."
+  },
+  {
+    "Title": "Agent Memory Patterns",
+    "Url": "https://timkellogg.me/blog/2026/04/27/memory-patterns",
+    "Timestamp": "2026-04-29T01:02:22",
+    "Domain": "timkellogg.me",
+    "Description": "A short HOW TO guide for agent memory systems. Especially the difference between blocks, files and skills."
+  }
+]

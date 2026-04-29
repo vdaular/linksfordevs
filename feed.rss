@@ -7,6 +7,233 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>10Gb Ethernet: what I had to (re)learn</title>
+      <link>https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-relearned</link>
+      <description>Wired networking in the home and small offices has been pretty stagnant for ages, so upgrading my home from 2.5Gb ethernet to 10Gb meant I had to (re)learn a few things.</description>
+      <author> (Giles Thomas)</author>
+      <category>apple</category>
+      <guid>https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-relearned</guid>
+      <pubDate>Wed, 29 Apr 2026 01:03:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anatomy of an Article</title>
+      <link>https://blog.yaelwrites.com/anatomy-of-an-article/</link>
+      <description>Some open secrets about what you're reading</description>
+      <guid>https://blog.yaelwrites.com/anatomy-of-an-article/</guid>
+      <pubDate>Wed, 29 Apr 2026 01:03:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Bypassing DPI with eBPF sock_ops</title>
+      <link>https://bora.sh/bypassing-dpi-with-ebpf/</link>
+      <description>eBPF sock_ops, fake TLS packets, and why every platform needs a different hack</description>
+      <author> (Bora Tanrikulu)</author>
+      <category>apple</category>
+      <category>linux</category>
+      <guid>https://bora.sh/bypassing-dpi-with-ebpf/</guid>
+      <pubDate>Wed, 29 Apr 2026 01:03:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>I Got Sick of Remembering Port Numbers</title>
+      <link>https://gregraiz.com/blog/local-vibe/</link>
+      <description>So I built local.vibe — a friendly dashboard and local .vibe hostname for every local web app on your Mac. No more localhost:3000 vs localhost:5173 roulette.</description>
+      <category>git</category>
+      <category>javascript</category>
+      <category>ai</category>
+      <guid>https://gregraiz.com/blog/local-vibe/</guid>
+      <pubDate>Wed, 29 Apr 2026 01:03:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Best (Query) Plans of Mice and Men</title>
+      <link>https://ohadravid.github.io/posts/2026-04-query-plans/</link>
+      <description> Or rather, of elephants 🐘 and men.
+At $work, we use PostgreSQL a lot. So much in fact, that we tend to be paranoid frugal when adding even more stuff to it.
+In …</description>
+      <category>sql</category>
+      <category>python</category>
+      <category>vscode</category>
+      <category>rust</category>
+      <guid>https://ohadravid.github.io/posts/2026-04-query-plans/</guid>
+      <pubDate>Wed, 29 Apr 2026 01:03:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Carrot disclosure: Forgejo</title>
+      <link>https://dustri.org/b/carrot-disclosure-forgejo.html</link>
+      <description>Personal blog of Julien (jvoisin) Voisin</description>
+      <category>git</category>
+      <category>javascript</category>
+      <category>web</category>
+      <guid>https://dustri.org/b/carrot-disclosure-forgejo.html</guid>
+      <pubDate>Wed, 29 Apr 2026 01:03:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stop Wasting Brainpower | Yusuf Aytas</title>
+      <link>https://yusufaytas.com/stop-wasting-brainpower</link>
+      <description>Cognitive load, not hours, kills productivity. Cut distractions, tame complexity, and free brainpower for real engineering work.</description>
+      <author> (Yusuf Aytas)</author>
+      <category>ai</category>
+      <category>vscode</category>
+      <guid>https://yusufaytas.com/stop-wasting-brainpower</guid>
+      <pubDate>Wed, 29 Apr 2026 01:03:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Prompts are like prayers</title>
+      <link>https://anuvrat.in/prompts-are-like-prayers.html</link>
+      <description>I have been feeling a bit off about the recent developments in the ai/tech sector. That I wasn't able to pin point the reason for my unease, despite trying to write about it, irked me even more.</description>
+      <category>ai</category>
+      <category>apple</category>
+      <category>vscode</category>
+      <guid>https://anuvrat.in/prompts-are-like-prayers.html</guid>
+      <pubDate>Wed, 29 Apr 2026 01:03:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>You should try contra dancing</title>
+      <link>https://www.benkuhn.net/contra/</link>
+      <description>a story of middle school Ben • a not-very-illuminating description of the mechanics • flow, joy, and community • the antidote to the rest of life • how to try contra</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://www.benkuhn.net/contra/</guid>
+      <pubDate>Wed, 29 Apr 2026 01:03:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Using native Rails rate-limits in production | AMZ Cart Share</title>
+      <link>https://amzcartshare.com/native-rails-rate-limits</link>
+      <description>Learn how to use the native rate-limiting built into Rails controllers to protect your endpoints from a barrage of requests.</description>
+      <guid>https://amzcartshare.com/native-rails-rate-limits</guid>
+      <pubDate>Wed, 29 Apr 2026 01:03:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why Multi Window Multi Burn Rate SLO Alerting Sucks!</title>
+      <link>https://eavan.blog/posts/multi-window-burn-rate-sucks.html</link>
+      <description>Service Level Objectives (SLOs) are great! Alerts based on SLOs are great! Alerts based on SLOs promise to reduce noise by only alerting on true service degradations, reducing noise and alert fatigue. Everyone uses the multi-window multi-burn-rate (MWMB) method for defining SLO alerts, because Google recommends it. But now that I've seen how this alert behaves in the real world, I think it's an overcomplicated mess with too many moving parts that interact in confusing ways to create alert spam that is hard to explain. Simply removing some of these moving parts can improve your on-call experience.</description>
+      <guid>https://eavan.blog/posts/multi-window-burn-rate-sucks.html</guid>
+      <pubDate>Wed, 29 Apr 2026 01:03:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Moat or the Commons — Warman Notes</title>
+      <link>https://www.warman.life/blog/2026-04-27-the-moat-or-the-commons/</link>
+      <description>American capital financed AI on the assumption it would be the next great monopoly. Open-weight models are commoditizing the capability that monopoly was supposed to protect. The collision between the two now defines the direction of the U.S. AI industry — and the country.</description>
+      <category>ai</category>
+      <guid>https://www.warman.life/blog/2026-04-27-the-moat-or-the-commons/</guid>
+      <pubDate>Wed, 29 Apr 2026 01:03:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux Ubuntu freeze Firefox | Vittorio Gioda</title>
+      <link>https://vittoriogioda.com/posts/linux-out-of-memory/</link>
+      <description>How I fixed Ubuntu freezes caused by Firefox consuming all RAM by configuring swap, swappiness, earlyoom, and zswap.</description>
+      <author> (Vittorio Gioda)</author>
+      <category>linux</category>
+      <guid>https://vittoriogioda.com/posts/linux-out-of-memory/</guid>
+      <pubDate>Wed, 29 Apr 2026 01:03:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>I quit drinking for a year</title>
+      <link>https://dynomight.net/drinking/</link>
+      <description>out of spite</description>
+      <guid>https://dynomight.net/drinking/</guid>
+      <pubDate>Wed, 29 Apr 2026 01:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I Won a Championship That Doesn’t Exist</title>
+      <link>https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/</link>
+      <description>Poisoning the LLM knowledge supply chain with a fake Wikipedia edit and a single domain registration</description>
+      <category>gaming</category>
+      <category>ai</category>
+      <guid>https://ron.stoner.com/How_I_Won_a_Championship_That_Doesnt_Exist/</guid>
+      <pubDate>Wed, 29 Apr 2026 01:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to Keep Your Brain Sharp: A Practical Playbook Beyond the Basics  - The Blog of Author Tim Ferriss</title>
+      <link>https://tim.blog/2026/04/24/how-to-keep-your-brain-sharp/</link>
+      <description>The following is a guest post from Dr. Tommy Wood (@drtommywood), associate professor of pediatrics and neuroscience at the University of Washington, where his research focuses on brain health.  In this blog post, Tommy covers: Tommy’s new book is The Stimulated Mind: Future-Proof Your Brain from Dementia and Stay Sharp at Any Age. Enter Tommy… […]</description>
+      <category>gaming</category>
+      <category>ai</category>
+      <guid>https://tim.blog/2026/04/24/how-to-keep-your-brain-sharp/</guid>
+      <pubDate>Wed, 29 Apr 2026 01:02:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Offline Agentic Coding</title>
+      <link>https://www.williamangel.net/blog/2026/04/27/offline-agentic-coding.html</link>
+      <description>Offline Agentic Coding: Ollama and Claude code</description>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://www.williamangel.net/blog/2026/04/27/offline-agentic-coding.html</guid>
+      <pubDate>Wed, 29 Apr 2026 01:02:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I Broke the Anti-Bot Behind Nike, Kick, and Twitch — emro.cat</title>
+      <link>https://emro.cat/blog/how-i-broke-the-anti-bot-behind-nike-kick-and-twitch/</link>
+      <description>A full breakdown of reverse engineering a commercial anti-bot system, from VM disassembly to payload generation.</description>
+      <category>web</category>
+      <category>encryption</category>
+      <category>gaming</category>
+      <category>javascript</category>
+      <category>git</category>
+      <guid>https://emro.cat/blog/how-i-broke-the-anti-bot-behind-nike-kick-and-twitch/</guid>
+      <pubDate>Wed, 29 Apr 2026 01:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Text is the New Binary | Andrea Baccega</title>
+      <link>https://andreabaccega.com/blog/text-is-the-new-binary/</link>
+      <description>Software increasingly ships as prose meant to be interpreted by someone else's LLM. From Karpathy's wiki gist to gh skill install, even installation is now a paragraph. The same critique that pushes Karpathy beyond RAG hints at where the dust will eventually settle.</description>
+      <author> (Andrea Baccega)</author>
+      <category>nodejs</category>
+      <category>ai</category>
+      <category>containers</category>
+      <category>linux</category>
+      <category>web</category>
+      <guid>https://andreabaccega.com/blog/text-is-the-new-binary/</guid>
+      <pubDate>Wed, 29 Apr 2026 01:02:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Accidental Ancestor — How a Computer for Verifying Numbers Shaped Modern Hashing</title>
+      <link>https://0xkrt26.github.io/math_behind_security/2026/04/28/the-accidental-ancestor-Luhn-algorithm.html</link>
+      <description>1954, Hans Peter Luhn filed for a US patent on a Computer for Verifying Numbers. This is one of the earliest examples of using mathematical transformations to verify data integrity, a concept that became a foundation for modern hashes. Today you can find it under names Luhn Algorithm, Luhn Formula or Modulus 10 Algorithm.</description>
+      <category>sql</category>
+      <category>web</category>
+      <guid>https://0xkrt26.github.io/math_behind_security/2026/04/28/the-accidental-ancestor-Luhn-algorithm.html</guid>
+      <pubDate>Wed, 29 Apr 2026 01:02:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Realtek’s 10GbE NIC performance revisited</title>
+      <link>https://kohlschuetter.github.io/blog/posts/2026/04/28/rtl10/</link>
+      <description>The arrival of cheap 10GbE Realtek NICs changes the game; do we need to play it now?</description>
+      <category>linux</category>
+      <category>apple</category>
+      <category>gaming</category>
+      <category>vscode</category>
+      <guid>https://kohlschuetter.github.io/blog/posts/2026/04/28/rtl10/</guid>
+      <pubDate>Wed, 29 Apr 2026 01:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why We Measure Tickets, Not Problems Prevented — Vivian Voss</title>
+      <link>https://vivianvoss.net/blog/why-we-measure-tickets</link>
+      <description>Productivity is what one can count. The decision not to deploy on Friday afternoon does not log. The engineer who prevents three outages closes no tickets that quarter. The one who ships forty-seven is promoted. The dashboard goes up. The system goes down. The chair, somewhere, is not being built.</description>
+      <category>git</category>
+      <guid>https://vivianvoss.net/blog/why-we-measure-tickets</guid>
+      <pubDate>Wed, 29 Apr 2026 01:02:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I Forgot How to Code — Reggie Escobar</title>
+      <link>https://reggieescobar.com/blog/how-i-forgot-to-code</link>
+      <description>I went all in on AI coding tools and became incredibly productive. Then I lost my job and could not write a for loop.</description>
+      <category>ai</category>
+      <category>typescript</category>
+      <guid>https://reggieescobar.com/blog/how-i-forgot-to-code</guid>
+      <pubDate>Wed, 29 Apr 2026 01:02:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Agent Memory Patterns</title>
+      <link>https://timkellogg.me/blog/2026/04/27/memory-patterns</link>
+      <description>A short HOW TO guide for agent memory systems. Especially the difference between blocks, files and skills.</description>
+      <category>ai</category>
+      <category>sql</category>
+      <category>git</category>
+      <category>javascript</category>
+      <category>linux</category>
+      <guid>https://timkellogg.me/blog/2026/04/27/memory-patterns</guid>
+      <pubDate>Wed, 29 Apr 2026 01:02:22 GMT</pubDate>
+    </item>
+    <item>
       <title>Claude.ai unavailable and elevated errors on the API</title>
       <link>https://status.claude.com/incidents/9l93x2ht4s5w</link>
       <description>Claude's Status Page - Claude.ai unavailable and elevated errors on the API.</description>
