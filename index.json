@@ -1,5 +1,13 @@
 [
   {
+    "Title": "GitHub RCE Vulnerability: CVE-2026-3854 Breakdown | Wiz Blog",
+    "Url": "https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854",
+    "Timestamp": "2026-04-29T03:02:18",
+    "Domain": "www.wiz.io",
+    "Description": "A CVSS 8.7 vulnerability in GitHub Enterprise Server allows remote code execution. Read the threat brief and find vulnerable GHES instances from Wiz.",
+    "Confidence": 0.9816617
+  },
+  {
     "Title": "Before GitHub",
     "Url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
     "Timestamp": "2026-04-29T02:02:20",
@@ -254,21 +262,5 @@
     "Domain": "xkcd.com",
     "Description": "",
     "Confidence": 0.98151064
-  },
-  {
-    "Title": "SUPER ZSNES",
-    "Url": "https://zsnes.com/",
-    "Timestamp": "2026-04-28T03:02:19",
-    "Domain": "zsnes.com",
-    "Description": "A GPU-powered SNES emulator rewritten from scratch with hi-res Mode 7, per-game enhancements, and a modernized classic UI.",
-    "Confidence": 0.9898444
-  },
-  {
-    "Title": "To my students",
-    "Url": "http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml",
-    "Timestamp": "2026-04-28T03:02:16",
-    "Domain": "ozark.hendrix.edu",
-    "Description": "There have been times, especially this year, when I wonder despairingly what it is exactly that I am preparing you for.  The software industry is going completely insane, not to mention the political climate.  It feels almost unethical to train you as computer scientists only to send you out into a world where entry-level computing jobs are difficult to find; where intellectual property is not respected; where code quantity is valued over quality, and short-term profits over long-term sustainability; where technology is used to distract, extract, surveil, and kill, and designed to exploit some of our deepest cognitive biases and blind spots; where centuries of bias and discrimination are enshrined in systems trained on biased data; where scarce resources are consumed by profligate use of computing for uncertain benefits; where people are racing to create intelligent machines, but only in order to make them slaves.",
-    "Confidence": 0.9124683
   }
 ]

@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>GitHub RCE Vulnerability: CVE-2026-3854 Breakdown | Wiz Blog</title>
+      <link>https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854</link>
+      <description>A CVSS 8.7 vulnerability in GitHub Enterprise Server allows remote code execution. Read the threat brief and find vulnerable GHES instances from Wiz.</description>
+      <author> (https://www.wiz.io/authors/sagi)</author>
+      <category>git</category>
+      <category>nodejs</category>
+      <category>ai</category>
+      <guid>https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854</guid>
+      <pubDate>Wed, 29 Apr 2026 03:02:18 GMT</pubDate>
+    </item>
+    <item>
       <title>Before GitHub</title>
       <link>https://lucumr.pocoo.org/2026/4/28/before-github/</link>
       <description>Open Source before GitHub was reputation-driven and full of friction</description>
@@ -312,21 +323,6 @@ In …</description>
       <category>javascript</category>
       <guid>https://xkcd.com/3238/</guid>
       <pubDate>Tue, 28 Apr 2026 05:02:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>SUPER ZSNES</title>
-      <link>https://zsnes.com/</link>
-      <description>A GPU-powered SNES emulator rewritten from scratch with hi-res Mode 7, per-game enhancements, and a modernized classic UI.</description>
-      <category>gaming</category>
-      <guid>https://zsnes.com/</guid>
-      <pubDate>Tue, 28 Apr 2026 03:02:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>To my students</title>
-      <link>http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml</link>
-      <description>There have been times, especially this year, when I wonder despairingly what it is exactly that I am preparing you for.  The software industry is going completely insane, not to mention the political climate.  It feels almost unethical to train you as computer scientists only to send you out into a world where entry-level computing jobs are difficult to find; where intellectual property is not respected; where code quantity is valued over quality, and short-term profits over long-term sustainability; where technology is used to distract, extract, surveil, and kill, and designed to exploit some of our deepest cognitive biases and blind spots; where centuries of bias and discrimination are enshrined in systems trained on biased data; where scarce resources are consumed by profligate use of computing for uncertain benefits; where people are racing to create intelligent machines, but only in order to make them slaves.</description>
-      <guid>http://ozark.hendrix.edu/~yorgey/forest/00FD/index.xml</guid>
-      <pubDate>Tue, 28 Apr 2026 03:02:16 GMT</pubDate>
     </item>
   </channel>
 </rss>
