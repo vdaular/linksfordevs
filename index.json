@@ -262,13 +262,5 @@
     "Domain": "github.blog",
     "Description": "Here’s what we’ve done—and what we’re still doing—to improve our availability and reliability.",
     "Confidence": 0.9712144
-  },
-  {
-    "Title": "GTFOBins",
-    "Url": "https://gtfobins.org/",
-    "Timestamp": "2026-04-28T13:02:13",
-    "Domain": "gtfobins.org",
-    "Description": "GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.",
-    "Confidence": 0.98103523
   }
 ]

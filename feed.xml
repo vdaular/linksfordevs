@@ -321,17 +321,5 @@ In …</description>
       <guid>https://github.blog/news-insights/company-news/an-update-on-github-availability/</guid>
       <pubDate>Tue, 28 Apr 2026 17:02:17 GMT</pubDate>
     </item>
-    <item>
-      <title>GTFOBins</title>
-      <link>https://gtfobins.org/</link>
-      <description>GTFOBins is a curated list of Unix-like executables that can be used to bypass local security restrictions in misconfigured systems.</description>
-      <category>sql</category>
-      <category>ruby</category>
-      <category>cloud</category>
-      <category>containers</category>
-      <category>git</category>
-      <guid>https://gtfobins.org/</guid>
-      <pubDate>Tue, 28 Apr 2026 13:02:13 GMT</pubDate>
-    </item>
   </channel>
 </rss>
