@@ -294,13 +294,5 @@
     "Domain": "timkellogg.me",
     "Description": "A short HOW TO guide for agent memory systems. Especially the difference between blocks, files and skills.",
     "Confidence": 0.99727404
-  },
-  {
-    "Title": "Claude.ai unavailable and elevated errors on the API",
-    "Url": "https://status.claude.com/incidents/9l93x2ht4s5w",
-    "Timestamp": "2026-04-28T23:02:09",
-    "Domain": "status.claude.com",
-    "Description": "Claude's Status Page - Claude.ai unavailable and elevated errors on the API.",
-    "Confidence": 0.8982901
   }
 ]
