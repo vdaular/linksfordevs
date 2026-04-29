@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Remote agents in Vibe. Powered by Mistral Medium 3.5. | Mistral AI</title>
+      <link>https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5</link>
+      <description>Introducing Mistral Medium 3.5, remote coding agents in Vibe, plus new Work mode in Le Chat for complex tasks.</description>
+      <category>ai</category>
+      <guid>https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5</guid>
+      <pubDate>Wed, 29 Apr 2026 19:02:18 GMT</pubDate>
+    </item>
+    <item>
       <title>Raspberry Pi Connect may control Windows soon</title>
       <link>https://www.jeffgeerling.com/blog/2026/raspberry-pi-connect-may-control-windows-soon/</link>
       <description>Support for remote controlling Windows PCs may be added to Raspberry Pi Connect, Raspberry Pi's free remote access service.
