@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Raspberry Pi Connect may control Windows soon",
+    "Url": "https://www.jeffgeerling.com/blog/2026/raspberry-pi-connect-may-control-windows-soon/",
+    "Timestamp": "2026-04-29T18:02:08",
+    "Domain": "www.jeffgeerling.com",
+    "Description": "Support for remote controlling Windows PCs may be added to Raspberry Pi Connect, Raspberry Pi's free remote access service.\nWhen they announced Pi Connect in 2024, I speculated the service was launched in response to RealVNC's sluggish adoption of Wayland, leading to Pi users lacking a solid remote access solution after Pi OS 12 'Bookworm' was launched.\nThe service was helpful for those who had one or more Raspberry Pis to access, but the Pi Connect daemon didn't run on Windows or macOS at the time, so a true competitor to RealVNC (at least for basic use cases) it was not."
+  },
+  {
     "Title": "Simple Machines",
     "Url": "https://xkcd.com/3239/",
     "Timestamp": "2026-04-29T17:02:10",
