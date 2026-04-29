@@ -1,5 +1,21 @@
 [
   {
+    "Title": "An Interview with OpenAI CEO Sam Altman and AWS CEO Matt Garman About Bedrock Managed Agents",
+    "Url": "https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/",
+    "Timestamp": "2026-04-29T09:02:04",
+    "Domain": "stratechery.com",
+    "Description": "An interview with OpenAI CEO Sam Altman and AWS CEO Matt Garman about their new partnership, plus my thoughts on OpenAI and Microsoft’s new deal.",
+    "Confidence": 0.9846588
+  },
+  {
+    "Title": "Bugs Rust Won't Catch | corrode Rust Consulting",
+    "Url": "https://corrode.dev/blog/bugs-rust-wont-catch/",
+    "Timestamp": "2026-04-29T09:02:00",
+    "Domain": "corrode.dev",
+    "Description": "In April 2026, Canonical disclosed 44 CVEs in uutils, the Rust reimplementation of GNU coreutil…",
+    "Confidence": 0.99137765
+  },
+  {
     "Title": "How ChatGPT serves ads. Here's the full attribution loop.",
     "Url": "https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/",
     "Timestamp": "2026-04-29T07:02:01",
