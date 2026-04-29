@@ -7,6 +7,19 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Zed is 1.0 - Zed Blog</title>
+      <link>https://zed.dev/blog/zed-1-0</link>
+      <description>From the Zed Blog: The editor we set out to build is now 1.0.</description>
+      <author> (Nathan Sobo)</author>
+      <category>rust</category>
+      <category>ai</category>
+      <category>apple</category>
+      <category>linux</category>
+      <category>git</category>
+      <guid>https://zed.dev/blog/zed-1-0</guid>
+      <pubDate>Wed, 29 Apr 2026 16:02:11 GMT</pubDate>
+    </item>
+    <item>
       <title>Soft launch of open-source code platform for government - Digital Government</title>
       <link>https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/</link>
       <description>Code.overheid.nl platform is now live, enabling government organisations to jointly develop and publish open-source software independently.</description>
