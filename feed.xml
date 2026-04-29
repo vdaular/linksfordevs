@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Before GitHub</title>
+      <link>https://lucumr.pocoo.org/2026/4/28/before-github/</link>
+      <description>Open Source before GitHub was reputation-driven and full of friction</description>
+      <author> (Armin Ronacher)</author>
+      <category>nodejs</category>
+      <category>git</category>
+      <category>ai</category>
+      <guid>https://lucumr.pocoo.org/2026/4/28/before-github/</guid>
+      <pubDate>Wed, 29 Apr 2026 02:02:20 GMT</pubDate>
+    </item>
+    <item>
       <title>10Gb Ethernet: what I had to (re)learn</title>
       <link>https://www.gilesthomas.com/2026/04/10g-ethernet-what-i-relearned</link>
       <description>Wired networking in the home and small offices has been pretty stagnant for ages, so upgrading my home from 2.5Gb ethernet to 10Gb meant I had to (re)learn a few things.</description>
