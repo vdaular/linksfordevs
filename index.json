@@ -262,13 +262,5 @@
     "Domain": "neal.fun",
     "Description": "A campground for your cursor",
     "Confidence": 0.96862054
-  },
-  {
-    "Title": "Remote agents in Vibe. Powered by Mistral Medium 3.5. | Mistral AI",
-    "Url": "https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5",
-    "Timestamp": "2026-04-29T19:02:18",
-    "Domain": "mistral.ai",
-    "Description": "Introducing Mistral Medium 3.5, remote coding agents in Vibe, plus new Work mode in Le Chat for complex tasks.",
-    "Confidence": 0.9639194
   }
 ]
