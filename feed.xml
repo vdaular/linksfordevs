@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>OpenTrafficMap</title>
+      <link>https://opentrafficmap.org/</link>
+      <description>WebSocket verbunden</description>
+      <guid>https://opentrafficmap.org/</guid>
+      <pubDate>Thu, 30 Apr 2026 09:02:06 GMT</pubDate>
+    </item>
+    <item>
       <title>Where the goblins came from</title>
       <link>https://openai.com/index/where-the-goblins-came-from/</link>
       <description>How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.</description>
@@ -325,24 +332,6 @@ The service was helpful for those who had one or more Raspberry Pis to access, b
       <category>git</category>
       <guid>https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/</guid>
       <pubDate>Wed, 29 Apr 2026 14:02:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>An Interview with OpenAI CEO Sam Altman and AWS CEO Matt Garman About Bedrock Managed Agents</title>
-      <link>https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/</link>
-      <description>An interview with OpenAI CEO Sam Altman and AWS CEO Matt Garman about their new partnership, plus my thoughts on OpenAI and Microsoft’s new deal.</description>
-      <category>cloud</category>
-      <category>ai</category>
-      <guid>https://stratechery.com/2026/an-interview-with-openai-ceo-sam-altman-and-aws-ceo-matt-garman-about-bedrock-managed-agents/</guid>
-      <pubDate>Wed, 29 Apr 2026 09:02:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bugs Rust Won't Catch | corrode Rust Consulting</title>
-      <link>https://corrode.dev/blog/bugs-rust-wont-catch/</link>
-      <description>In April 2026, Canonical disclosed 44 CVEs in uutils, the Rust reimplementation of GNU coreutil…</description>
-      <category>rust</category>
-      <category>linux</category>
-      <guid>https://corrode.dev/blog/bugs-rust-wont-catch/</guid>
-      <pubDate>Wed, 29 Apr 2026 09:02:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

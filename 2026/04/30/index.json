@@ -1,5 +1,12 @@
 [
   {
+    "Title": "OpenTrafficMap",
+    "Url": "https://opentrafficmap.org/",
+    "Timestamp": "2026-04-30T09:02:06",
+    "Domain": "opentrafficmap.org",
+    "Description": "WebSocket verbunden"
+  },
+  {
     "Title": "Where the goblins came from",
     "Url": "https://openai.com/index/where-the-goblins-came-from/",
     "Timestamp": "2026-04-30T06:02:09",
