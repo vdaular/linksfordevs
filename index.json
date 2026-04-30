@@ -270,21 +270,5 @@
     "Domain": "www.jeffgeerling.com",
     "Description": "Support for remote controlling Windows PCs may be added to Raspberry Pi Connect, Raspberry Pi's free remote access service.\nWhen they announced Pi Connect in 2024, I speculated the service was launched in response to RealVNC's sluggish adoption of Wayland, leading to Pi users lacking a solid remote access solution after Pi OS 12 'Bookworm' was launched.\nThe service was helpful for those who had one or more Raspberry Pis to access, but the Pi Connect daemon didn't run on Windows or macOS at the time, so a true competitor to RealVNC (at least for basic use cases) it was not.",
     "Confidence": 0.9890809
-  },
-  {
-    "Title": "Simple Machines",
-    "Url": "https://xkcd.com/3239/",
-    "Timestamp": "2026-04-29T17:02:10",
-    "Domain": "xkcd.com",
-    "Description": "",
-    "Confidence": 0.98151064
-  },
-  {
-    "Title": "we need a federation of forges",
-    "Url": "https://blog.tangled.org/federation/",
-    "Timestamp": "2026-04-29T17:02:07",
-    "Domain": "blog.tangled.org",
-    "Description": "git is decentralized, but what of the rest?",
-    "Confidence": 0.99515706
   }
 ]

@@ -324,21 +324,5 @@ The service was helpful for those who had one or more Raspberry Pis to access, b
       <guid>https://www.jeffgeerling.com/blog/2026/raspberry-pi-connect-may-control-windows-soon/</guid>
       <pubDate>Wed, 29 Apr 2026 18:02:08 GMT</pubDate>
     </item>
-    <item>
-      <title>Simple Machines</title>
-      <link>https://xkcd.com/3239/</link>
-      <description></description>
-      <category>javascript</category>
-      <guid>https://xkcd.com/3239/</guid>
-      <pubDate>Wed, 29 Apr 2026 17:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>we need a federation of forges</title>
-      <link>https://blog.tangled.org/federation/</link>
-      <description>git is decentralized, but what of the rest?</description>
-      <category>git</category>
-      <guid>https://blog.tangled.org/federation/</guid>
-      <pubDate>Wed, 29 Apr 2026 17:02:07 GMT</pubDate>
-    </item>
   </channel>
 </rss>
