@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Where the goblins came from</title>
+      <link>https://openai.com/index/where-the-goblins-came-from/</link>
+      <description>How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.</description>
+      <category>ai</category>
+      <guid>https://openai.com/index/where-the-goblins-came-from/</guid>
+      <pubDate>Thu, 30 Apr 2026 06:02:09 GMT</pubDate>
+    </item>
+    <item>
       <title>FastCGI: 30 Years Old and Still the Better Protocol for Reverse Proxies</title>
       <link>https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies</link>
       <description>For FastCGI's 30th birthday, let's look at how it avoids the security problems inherent in HTTP reverse proxying</description>

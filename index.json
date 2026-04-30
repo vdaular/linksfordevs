@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Where the goblins came from",
+    "Url": "https://openai.com/index/where-the-goblins-came-from/",
+    "Timestamp": "2026-04-30T06:02:09",
+    "Domain": "openai.com",
+    "Description": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
+    "Confidence": 0.8633304
+  },
+  {
     "Title": "FastCGI: 30 Years Old and Still the Better Protocol for Reverse Proxies",
     "Url": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
     "Timestamp": "2026-04-30T03:02:27",
