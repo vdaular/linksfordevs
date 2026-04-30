@@ -1,5 +1,12 @@
 [
   {
+    "Title": "The Zig project's rationale for their firm anti-AI contribution policy",
+    "Url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
+    "Timestamp": "2026-04-30T10:01:59",
+    "Domain": "simonwillison.net",
+    "Description": "Zig has one of the most stringent anti-LLM policies of any major open source project: No LLMs for issues. No LLMs for pull requests. No LLMs for comments on the …"
+  },
+  {
     "Title": "OpenTrafficMap",
     "Url": "https://opentrafficmap.org/",
     "Timestamp": "2026-04-30T09:02:06",

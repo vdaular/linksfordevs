@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The Zig project's rationale for their firm anti-AI contribution policy</title>
+      <link>https://simonwillison.net/2026/Apr/30/zig-anti-ai/</link>
+      <description>Zig has one of the most stringent anti-LLM policies of any major open source project: No LLMs for issues. No LLMs for pull requests. No LLMs for comments on the …</description>
+      <category>ai</category>
+      <category>javascript</category>
+      <category>gaming</category>
+      <guid>https://simonwillison.net/2026/Apr/30/zig-anti-ai/</guid>
+      <pubDate>Thu, 30 Apr 2026 10:01:59 GMT</pubDate>
+    </item>
+    <item>
       <title>OpenTrafficMap</title>
       <link>https://opentrafficmap.org/</link>
       <description>WebSocket verbunden</description>
