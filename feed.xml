@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>J. Craig Venter, genomics pioneer and founder of JCVI and Diploid Genomics, Inc., dies at 79</title>
+      <link>https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79</link>
+      <description>La Jolla, California—April 29, 2026—The J. Craig Venter Institute (JCVI) announced that J. Craig Venter, Ph.D., the Institute’s founder, board...</description>
+      <guid>https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79</guid>
+      <pubDate>Thu, 30 Apr 2026 14:03:51 GMT</pubDate>
+    </item>
+    <item>
       <title>How to Make a 1990s Payphone Work in Your Garage!</title>
       <link>https://youtube.com/watch?v=j8DygtESGeE</link>
       <description>Find out what's inside a 1990s payphone and how to make one work in your own home or office.  Full working example and no unethical hacking!
@@ -345,14 +352,6 @@ The service was helpful for those who had one or more Raspberry Pis to access, b
       <category>git</category>
       <guid>https://zed.dev/blog/zed-1-0</guid>
       <pubDate>Wed, 29 Apr 2026 16:02:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Soft launch of open-source code platform for government - Digital Government</title>
-      <link>https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/</link>
-      <description>Code.overheid.nl platform is now live, enabling government organisations to jointly develop and publish open-source software independently.</description>
-      <category>git</category>
-      <guid>https://www.nldigitalgovernment.nl/news/soft-launch-for-government-open-source-code-platform/</guid>
-      <pubDate>Wed, 29 Apr 2026 14:02:27 GMT</pubDate>
     </item>
   </channel>
 </rss>
