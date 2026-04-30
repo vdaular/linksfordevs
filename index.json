@@ -1,5 +1,13 @@
 [
   {
+    "Title": "The Whistleblower Who Uncovered the NSA’s ‘Big Brother Machine’",
+    "Url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
+    "Timestamp": "2026-04-30T20:02:08",
+    "Domain": "thereader.mitpress.mit.edu",
+    "Description": "An unexpected visitor gave my team the evidence we needed to prove that the government was secretly wiretapping Americans.",
+    "Confidence": 0.74797565
+  },
+  {
     "Title": "GCC 16 Release Series — Changes, New Features, and Fixes",
     "Url": "https://gcc.gnu.org/gcc-16/changes.html",
     "Timestamp": "2026-04-30T18:02:11",
@@ -254,13 +262,5 @@
     "Domain": "copy.fail",
     "Description": "CVE-2026-31431. 100% Reliable Linux LPE — no race, no per-distro offsets, page-cache write that bypasses on-disk file-integrity tools and crosses containers. Found by Xint Code.",
     "Confidence": 0.98458827
-  },
-  {
-    "Title": "Cursor Camp",
-    "Url": "https://neal.fun/cursor-camp/",
-    "Timestamp": "2026-04-29T20:02:12",
-    "Domain": "neal.fun",
-    "Description": "A campground for your cursor",
-    "Confidence": 0.96862054
   }
 ]

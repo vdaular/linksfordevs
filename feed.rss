@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The Whistleblower Who Uncovered the NSA’s ‘Big Brother Machine’</title>
+      <link>https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/</link>
+      <description>An unexpected visitor gave my team the evidence we needed to prove that the government was secretly wiretapping Americans.</description>
+      <guid>https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/</guid>
+      <pubDate>Thu, 30 Apr 2026 20:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>GCC 16 Release Series — Changes, New Features, and Fixes</title>
       <link>https://gcc.gnu.org/gcc-16/changes.html</link>
       <description>This page is a "brief" summary of some of the huge number of improvements
@@ -312,13 +319,6 @@ While the tech world obsesses over large language models and neural networks, I 
       <category>python</category>
       <guid>https://copy.fail/</guid>
       <pubDate>Wed, 29 Apr 2026 21:02:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cursor Camp</title>
-      <link>https://neal.fun/cursor-camp/</link>
-      <description>A campground for your cursor</description>
-      <guid>https://neal.fun/cursor-camp/</guid>
-      <pubDate>Wed, 29 Apr 2026 20:02:12 GMT</pubDate>
     </item>
   </channel>
 </rss>
