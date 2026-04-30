@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library</title>
+      <link>https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/</link>
+      <description>The PyPI package lightning was compromised in versions 2.6.2 and 2.6.3 with Mini Shai-Hulud themed malicious code to execute credential-stealing malware on import.</description>
+      <category>vscode</category>
+      <category>nodejs</category>
+      <category>cloud</category>
+      <category>javascript</category>
+      <category>linux</category>
+      <guid>https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/</guid>
+      <pubDate>Thu, 30 Apr 2026 22:02:12 GMT</pubDate>
+    </item>
+    <item>
       <title>Fast .NET CLI ISO Downloader with Integrity Validation | no dogma blog</title>
       <link>https://nodogmablog.bryanhogan.net/2026/04/net-cli-iso-downloader/</link>
       <description>A fast .NET CLI tool for downloading ISO files with built-in integrity validation.</description>

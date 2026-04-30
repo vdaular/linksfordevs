@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
+    "Url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
+    "Timestamp": "2026-04-30T22:02:12",
+    "Domain": "semgrep.dev",
+    "Description": "The PyPI package lightning was compromised in versions 2.6.2 and 2.6.3 with Mini Shai-Hulud themed malicious code to execute credential-stealing malware on import."
+  },
+  {
     "Title": "Fast .NET CLI ISO Downloader with Integrity Validation | no dogma blog",
     "Url": "https://nodogmablog.bryanhogan.net/2026/04/net-cli-iso-downloader/",
     "Timestamp": "2026-04-30T21:02:19",
