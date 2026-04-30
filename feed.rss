@@ -344,14 +344,5 @@ The service was helpful for those who had one or more Raspberry Pis to access, b
       <guid>https://corrode.dev/blog/bugs-rust-wont-catch/</guid>
       <pubDate>Wed, 29 Apr 2026 09:02:00 GMT</pubDate>
     </item>
-    <item>
-      <title>How ChatGPT serves ads. Here's the full attribution loop.</title>
-      <link>https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/</link>
-      <description>OpenAI's ad platform has two halves. On the ChatGPT side, the backend injects structured single_advertiser_ad_unit objects into the conversation SSE stream while the model is responding. On the merchant side, a tracking SDK called OAIQ runs in the visitor's browser and reports product views back to OpenAI.</description>
-      <category>ai</category>
-      <category>javascript</category>
-      <guid>https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/</guid>
-      <pubDate>Wed, 29 Apr 2026 07:02:01 GMT</pubDate>
-    </item>
   </channel>
 </rss>
