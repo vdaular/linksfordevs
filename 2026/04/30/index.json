@@ -1,5 +1,19 @@
 [
   {
+    "Title": "Fast .NET CLI ISO Downloader with Integrity Validation | no dogma blog",
+    "Url": "https://nodogmablog.bryanhogan.net/2026/04/net-cli-iso-downloader/",
+    "Timestamp": "2026-04-30T21:02:19",
+    "Domain": "nodogmablog.bryanhogan.net",
+    "Description": "A fast .NET CLI tool for downloading ISO files with built-in integrity validation."
+  },
+  {
+    "Title": "security - Re: CVE-2026-31431: CopyFail: linux local privilege scalation",
+    "Url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
+    "Timestamp": "2026-04-30T21:02:15",
+    "Domain": "www.openwall.com",
+    "Description": "Powered by blists - more mailing lists"
+  },
+  {
     "Title": "The Whistleblower Who Uncovered the NSA’s ‘Big Brother Machine’",
     "Url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
     "Timestamp": "2026-04-30T20:02:08",

@@ -7,6 +7,25 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Fast .NET CLI ISO Downloader with Integrity Validation | no dogma blog</title>
+      <link>https://nodogmablog.bryanhogan.net/2026/04/net-cli-iso-downloader/</link>
+      <description>A fast .NET CLI tool for downloading ISO files with built-in integrity validation.</description>
+      <category>linux</category>
+      <category>encryption</category>
+      <guid>https://nodogmablog.bryanhogan.net/2026/04/net-cli-iso-downloader/</guid>
+      <pubDate>Thu, 30 Apr 2026 21:02:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>security - Re: CVE-2026-31431: CopyFail: linux local privilege scalation</title>
+      <link>https://www.openwall.com/lists/oss-security/2026/04/30/10</link>
+      <description>Powered by blists - more mailing lists</description>
+      <category>git</category>
+      <category>linux</category>
+      <category>ai</category>
+      <guid>https://www.openwall.com/lists/oss-security/2026/04/30/10</guid>
+      <pubDate>Thu, 30 Apr 2026 21:02:15 GMT</pubDate>
+    </item>
+    <item>
       <title>The Whistleblower Who Uncovered the NSA’s ‘Big Brother Machine’</title>
       <link>https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/</link>
       <description>An unexpected visitor gave my team the evidence we needed to prove that the government was secretly wiretapping Americans.</description>
@@ -307,18 +326,6 @@ While the tech world obsesses over large language models and neural networks, I 
       <category>ai</category>
       <guid>https://idiallo.com/blog/have-you-seen-the-new-xl-ai-parody?src=feed</guid>
       <pubDate>Thu, 30 Apr 2026 00:01:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Copy Fail — 732 Bytes to Root</title>
-      <link>https://copy.fail/</link>
-      <description>CVE-2026-31431. 100% Reliable Linux LPE — no race, no per-distro offsets, page-cache write that bypasses on-disk file-integrity tools and crosses containers. Found by Xint Code.</description>
-      <category>conference</category>
-      <category>containers</category>
-      <category>linux</category>
-      <category>git</category>
-      <category>python</category>
-      <guid>https://copy.fail/</guid>
-      <pubDate>Wed, 29 Apr 2026 21:02:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
