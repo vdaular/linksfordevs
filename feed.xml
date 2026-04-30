@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Have You Seen the New Excel?</title>
+      <link>https://idiallo.com/blog/have-you-seen-the-new-xl-ai-parody?src=feed</link>
+      <description>Stop coding. Stop hiring. Stop building. 
+
+While the tech world obsesses over large language models and neural networks, I discovered the real disruptor that has been hiding in plain sight. Mine was o</description>
+      <category>sql</category>
+      <category>ai</category>
+      <guid>https://idiallo.com/blog/have-you-seen-the-new-xl-ai-parody?src=feed</guid>
+      <pubDate>Thu, 30 Apr 2026 00:01:57 GMT</pubDate>
+    </item>
+    <item>
       <title>Copy Fail — 732 Bytes to Root</title>
       <link>https://copy.fail/</link>
       <description>CVE-2026-31431. 100% Reliable Linux LPE — no race, no per-distro offsets, page-cache write that bypasses on-disk file-integrity tools and crosses containers. Found by Xint Code.</description>
