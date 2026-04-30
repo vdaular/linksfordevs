@@ -7,6 +7,22 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>GCC 16 Release Series — Changes, New Features, and Fixes</title>
+      <link>https://gcc.gnu.org/gcc-16/changes.html</link>
+      <description>This page is a "brief" summary of some of the huge number of improvements
+in GCC 16.
+You may also want to check out our
+Porting to GCC 16 page and the
+full GCC documentation.</description>
+      <category>rust</category>
+      <category>nodejs</category>
+      <category>cloud</category>
+      <category>git</category>
+      <category>javascript</category>
+      <guid>https://gcc.gnu.org/gcc-16/changes.html</guid>
+      <pubDate>Thu, 30 Apr 2026 18:02:11 GMT</pubDate>
+    </item>
+    <item>
       <title>J. Craig Venter, genomics pioneer and founder of JCVI and Diploid Genomics, Inc., dies at 79</title>
       <link>https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79</link>
       <description>La Jolla, California—April 29, 2026—The J. Craig Venter Institute (JCVI) announced that J. Craig Venter, Ph.D., the Institute’s founder, board...</description>
@@ -311,18 +327,6 @@ While the tech world obsesses over large language models and neural networks, I 
       <category>ai</category>
       <guid>https://mistral.ai/news/vibe-remote-agents-mistral-medium-3-5</guid>
       <pubDate>Wed, 29 Apr 2026 19:02:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Raspberry Pi Connect may control Windows soon</title>
-      <link>https://www.jeffgeerling.com/blog/2026/raspberry-pi-connect-may-control-windows-soon/</link>
-      <description>Support for remote controlling Windows PCs may be added to Raspberry Pi Connect, Raspberry Pi's free remote access service.
-When they announced Pi Connect in 2024, I speculated the service was launched in response to RealVNC's sluggish adoption of Wayland, leading to Pi users lacking a solid remote access solution after Pi OS 12 'Bookworm' was launched.
-The service was helpful for those who had one or more Raspberry Pis to access, but the Pi Connect daemon didn't run on Windows or macOS at the time, so a true competitor to RealVNC (at least for basic use cases) it was not.</description>
-      <category>git</category>
-      <category>apple</category>
-      <category>linux</category>
-      <guid>https://www.jeffgeerling.com/blog/2026/raspberry-pi-connect-may-control-windows-soon/</guid>
-      <pubDate>Wed, 29 Apr 2026 18:02:08 GMT</pubDate>
     </item>
   </channel>
 </rss>

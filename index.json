@@ -1,5 +1,13 @@
 [
   {
+    "Title": "GCC 16 Release Series — Changes, New Features, and Fixes",
+    "Url": "https://gcc.gnu.org/gcc-16/changes.html",
+    "Timestamp": "2026-04-30T18:02:11",
+    "Domain": "gcc.gnu.org",
+    "Description": "This page is a \"brief\" summary of some of the huge number of improvements\nin GCC 16.\nYou may also want to check out our\nPorting to GCC 16 page and the\nfull GCC documentation.",
+    "Confidence": 0.9930137
+  },
+  {
     "Title": "J. Craig Venter, genomics pioneer and founder of JCVI and Diploid Genomics, Inc., dies at 79",
     "Url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
     "Timestamp": "2026-04-30T14:03:51",
@@ -262,13 +270,5 @@
     "Domain": "mistral.ai",
     "Description": "Introducing Mistral Medium 3.5, remote coding agents in Vibe, plus new Work mode in Le Chat for complex tasks.",
     "Confidence": 0.9639194
-  },
-  {
-    "Title": "Raspberry Pi Connect may control Windows soon",
-    "Url": "https://www.jeffgeerling.com/blog/2026/raspberry-pi-connect-may-control-windows-soon/",
-    "Timestamp": "2026-04-29T18:02:08",
-    "Domain": "www.jeffgeerling.com",
-    "Description": "Support for remote controlling Windows PCs may be added to Raspberry Pi Connect, Raspberry Pi's free remote access service.\nWhen they announced Pi Connect in 2024, I speculated the service was launched in response to RealVNC's sluggish adoption of Wayland, leading to Pi users lacking a solid remote access solution after Pi OS 12 'Bookworm' was launched.\nThe service was helpful for those who had one or more Raspberry Pis to access, but the Pi Connect daemon didn't run on Windows or macOS at the time, so a true competitor to RealVNC (at least for basic use cases) it was not.",
-    "Confidence": 0.9890809
   }
 ]
