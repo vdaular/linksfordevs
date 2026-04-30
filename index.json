@@ -286,13 +286,5 @@
     "Domain": "blog.tangled.org",
     "Description": "git is decentralized, but what of the rest?",
     "Confidence": 0.99515706
-  },
-  {
-    "Title": "Zed is 1.0 - Zed Blog",
-    "Url": "https://zed.dev/blog/zed-1-0",
-    "Timestamp": "2026-04-29T16:02:11",
-    "Domain": "zed.dev",
-    "Description": "From the Zed Blog: The editor we set out to build is now 1.0.",
-    "Confidence": 0.98678076
   }
 ]

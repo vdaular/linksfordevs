@@ -340,18 +340,5 @@ The service was helpful for those who had one or more Raspberry Pis to access, b
       <guid>https://blog.tangled.org/federation/</guid>
       <pubDate>Wed, 29 Apr 2026 17:02:07 GMT</pubDate>
     </item>
-    <item>
-      <title>Zed is 1.0 - Zed Blog</title>
-      <link>https://zed.dev/blog/zed-1-0</link>
-      <description>From the Zed Blog: The editor we set out to build is now 1.0.</description>
-      <author> (Nathan Sobo)</author>
-      <category>rust</category>
-      <category>ai</category>
-      <category>apple</category>
-      <category>linux</category>
-      <category>git</category>
-      <guid>https://zed.dev/blog/zed-1-0</guid>
-      <pubDate>Wed, 29 Apr 2026 16:02:11 GMT</pubDate>
-    </item>
   </channel>
 </rss>
