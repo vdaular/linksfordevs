@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>FastCGI: 30 Years Old and Still the Better Protocol for Reverse Proxies</title>
+      <link>https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies</link>
+      <description>For FastCGI's 30th birthday, let's look at how it avoids the security problems inherent in HTTP reverse proxying</description>
+      <guid>https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies</guid>
+      <pubDate>Thu, 30 Apr 2026 03:02:27 GMT</pubDate>
+    </item>
+    <item>
       <title>Verifying Humans Without Surrendering Identity: A Case Against Government-Issued Online Verification</title>
       <link>https://blog.trintler.me/2026/04/28/Verifying-Humans-Without-Surrendering-Identity/</link>
       <description>Although government-issued identity verification addresses the genuine challenge of distinguishing humans from automated systems, its widespread implementation commoditises personal identity data and exposes users to inconsistent privacy protections.</description>
@@ -337,17 +344,6 @@ The service was helpful for those who had one or more Raspberry Pis to access, b
       <category>javascript</category>
       <guid>https://www.buchodi.com/how-chatgpt-serves-ads-heres-the-full-attribution-loop/</guid>
       <pubDate>Wed, 29 Apr 2026 07:02:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub RCE Vulnerability: CVE-2026-3854 Breakdown | Wiz Blog</title>
-      <link>https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854</link>
-      <description>A CVSS 8.7 vulnerability in GitHub Enterprise Server allows remote code execution. Read the threat brief and find vulnerable GHES instances from Wiz.</description>
-      <author> (https://www.wiz.io/authors/sagi)</author>
-      <category>git</category>
-      <category>nodejs</category>
-      <category>ai</category>
-      <guid>https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854</guid>
-      <pubDate>Wed, 29 Apr 2026 03:02:18 GMT</pubDate>
     </item>
   </channel>
 </rss>

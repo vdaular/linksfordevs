@@ -1,5 +1,12 @@
 [
   {
+    "Title": "FastCGI: 30 Years Old and Still the Better Protocol for Reverse Proxies",
+    "Url": "https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies",
+    "Timestamp": "2026-04-30T03:02:27",
+    "Domain": "www.agwa.name",
+    "Description": "For FastCGI's 30th birthday, let's look at how it avoids the security problems inherent in HTTP reverse proxying"
+  },
+  {
     "Title": "Verifying Humans Without Surrendering Identity: A Case Against Government-Issued Online Verification",
     "Url": "https://blog.trintler.me/2026/04/28/Verifying-Humans-Without-Surrendering-Identity/",
     "Timestamp": "2026-04-30T01:04:20",
