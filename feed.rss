@@ -349,16 +349,5 @@ The service was helpful for those who had one or more Raspberry Pis to access, b
       <guid>https://www.wiz.io/blog/github-rce-vulnerability-cve-2026-3854</guid>
       <pubDate>Wed, 29 Apr 2026 03:02:18 GMT</pubDate>
     </item>
-    <item>
-      <title>Before GitHub</title>
-      <link>https://lucumr.pocoo.org/2026/4/28/before-github/</link>
-      <description>Open Source before GitHub was reputation-driven and full of friction</description>
-      <author> (Armin Ronacher)</author>
-      <category>nodejs</category>
-      <category>git</category>
-      <category>ai</category>
-      <guid>https://lucumr.pocoo.org/2026/4/28/before-github/</guid>
-      <pubDate>Wed, 29 Apr 2026 02:02:20 GMT</pubDate>
-    </item>
   </channel>
 </rss>

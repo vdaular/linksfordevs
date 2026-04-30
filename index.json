@@ -286,13 +286,5 @@
     "Domain": "www.wiz.io",
     "Description": "A CVSS 8.7 vulnerability in GitHub Enterprise Server allows remote code execution. Read the threat brief and find vulnerable GHES instances from Wiz.",
     "Confidence": 0.9816617
-  },
-  {
-    "Title": "Before GitHub",
-    "Url": "https://lucumr.pocoo.org/2026/4/28/before-github/",
-    "Timestamp": "2026-04-29T02:02:20",
-    "Domain": "lucumr.pocoo.org",
-    "Description": "Open Source before GitHub was reputation-driven and full of friction",
-    "Confidence": 0.9781061
   }
 ]
