@@ -302,13 +302,5 @@
     "Domain": "opentrafficmap.org",
     "Description": "WebSocket verbunden",
     "Confidence": 0.9420162
-  },
-  {
-    "Title": "Where the goblins came from",
-    "Url": "https://openai.com/index/where-the-goblins-came-from/",
-    "Timestamp": "2026-04-30T06:02:09",
-    "Domain": "openai.com",
-    "Description": "How goblin outputs spread in AI models: timeline, root cause, and fixes behind personality-driven quirks in GPT-5 behavior.",
-    "Confidence": 0.8633304
   }
 ]
