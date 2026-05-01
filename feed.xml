@@ -7,6 +7,24 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>GitHub - darrylmorley/whatcable: macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do</title>
+      <link>https://github.com/darrylmorley/whatcable</link>
+      <description>macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do - darrylmorley/whatcable</description>
+      <category>cloud</category>
+      <category>apple</category>
+      <category>javascript</category>
+      <guid>https://github.com/darrylmorley/whatcable</guid>
+      <pubDate>Fri, 01 May 2026 16:02:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Grok 4.3 | xAI Docs</title>
+      <link>https://docs.x.ai/developers/models/grok-4.3</link>
+      <description>Learn how to use our products and services</description>
+      <category>ai</category>
+      <guid>https://docs.x.ai/developers/models/grok-4.3</guid>
+      <pubDate>Fri, 01 May 2026 16:02:09 GMT</pubDate>
+    </item>
+    <item>
       <title>SBC Clusters are a terrible value, but they're fun anyway</title>
       <link>https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/</link>
       <description>Pictured above is the new DeskPi Super4C installed in an 8U mini rack. The Super4C is a 4-node Raspberry Pi CM5 cluster board that solves two pain points I had with the older Super6C.

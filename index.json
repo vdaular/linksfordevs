@@ -1,5 +1,21 @@
 [
   {
+    "Title": "GitHub - darrylmorley/whatcable: macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do",
+    "Url": "https://github.com/darrylmorley/whatcable",
+    "Timestamp": "2026-05-01T16:02:14",
+    "Domain": "github.com",
+    "Description": "macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do - darrylmorley/whatcable",
+    "Confidence": 0.98600864
+  },
+  {
+    "Title": "Grok 4.3 | xAI Docs",
+    "Url": "https://docs.x.ai/developers/models/grok-4.3",
+    "Timestamp": "2026-05-01T16:02:09",
+    "Domain": "docs.x.ai",
+    "Description": "Learn how to use our products and services",
+    "Confidence": 0.62172747
+  },
+  {
     "Title": "SBC Clusters are a terrible value, but they're fun anyway",
     "Url": "https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/",
     "Timestamp": "2026-05-01T15:02:11",
