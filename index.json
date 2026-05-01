@@ -302,13 +302,5 @@
     "Domain": "www.openwall.com",
     "Description": "Powered by blists - more mailing lists",
     "Confidence": 0.90751487
-  },
-  {
-    "Title": "The Whistleblower Who Uncovered the NSA’s ‘Big Brother Machine’",
-    "Url": "https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/",
-    "Timestamp": "2026-04-30T20:02:08",
-    "Domain": "thereader.mitpress.mit.edu",
-    "Description": "An unexpected visitor gave my team the evidence we needed to prove that the government was secretly wiretapping Americans.",
-    "Confidence": 0.74797565
   }
 ]
