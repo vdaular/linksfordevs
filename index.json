@@ -1,5 +1,13 @@
 [
   {
+    "Title": "appkittie — App Store Intelligence & Research",
+    "Url": "https://www.appkittie.com/",
+    "Timestamp": "2026-05-01T14:02:14",
+    "Domain": "www.appkittie.com",
+    "Description": "See any app's downloads, revenue, ads, and keywords. Track competitors, find winning niches, and grow your app on easy mode.",
+    "Confidence": 0.82023317
+  },
+  {
     "Title": "Microsoft open-sources \"the earliest DOS source code discovered to date\"",
     "Url": "https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/",
     "Timestamp": "2026-05-01T04:02:17",
@@ -270,13 +278,5 @@
     "Domain": "gcc.gnu.org",
     "Description": "This page is a \"brief\" summary of some of the huge number of improvements\nin GCC 16.\nYou may also want to check out our\nPorting to GCC 16 page and the\nfull GCC documentation.",
     "Confidence": 0.9930137
-  },
-  {
-    "Title": "J. Craig Venter, genomics pioneer and founder of JCVI and Diploid Genomics, Inc., dies at 79",
-    "Url": "https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79",
-    "Timestamp": "2026-04-30T14:03:51",
-    "Domain": "www.jcvi.org",
-    "Description": "La Jolla, California—April 29, 2026—The J. Craig Venter Institute (JCVI) announced that J. Craig Venter, Ph.D., the Institute’s founder, board...",
-    "Confidence": 0.5892557
   }
 ]

@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>appkittie — App Store Intelligence &amp; Research</title>
+      <link>https://www.appkittie.com/</link>
+      <description>See any app's downloads, revenue, ads, and keywords. Track competitors, find winning niches, and grow your app on easy mode.</description>
+      <category>ai</category>
+      <guid>https://www.appkittie.com/</guid>
+      <pubDate>Fri, 01 May 2026 14:02:14 GMT</pubDate>
+    </item>
+    <item>
       <title>Microsoft open-sources "the earliest DOS source code discovered to date"</title>
       <link>https://arstechnica.com/gadgets/2026/04/microsoft-open-sources-the-earliest-dos-source-code-discovered-to-date/</link>
       <description>Old 86-DOS source code dates back to the time before Microsoft bought it.</description>
@@ -343,13 +351,6 @@ full GCC documentation.</description>
       <category>javascript</category>
       <guid>https://gcc.gnu.org/gcc-16/changes.html</guid>
       <pubDate>Thu, 30 Apr 2026 18:02:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>J. Craig Venter, genomics pioneer and founder of JCVI and Diploid Genomics, Inc., dies at 79</title>
-      <link>https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79</link>
-      <description>La Jolla, California—April 29, 2026—The J. Craig Venter Institute (JCVI) announced that J. Craig Venter, Ph.D., the Institute’s founder, board...</description>
-      <guid>https://www.jcvi.org/media-center/j-craig-venter-genomics-pioneer-and-founder-jcvi-and-diploid-genomics-inc-dies-79</guid>
-      <pubDate>Thu, 30 Apr 2026 14:03:51 GMT</pubDate>
     </item>
   </channel>
 </rss>
