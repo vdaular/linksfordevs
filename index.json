@@ -278,21 +278,5 @@
     "Domain": "www.0xsid.com",
     "Description": "The familiar pacing of software development has been completely compressed by agentic coding because you no longer have those routine stretches of just wiring things together to catch your breath. Writing code by hand, or trad coding as Twitter likes to call it, forced me to respect the natural ebb and flow of the problem solving process and get into a much more steady, sustainable rhythm.",
     "Confidence": 0.9784158
-  },
-  {
-    "Title": "Rivian Support - Support Center - Rivian",
-    "Url": "https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle",
-    "Timestamp": "2026-04-30T23:02:02",
-    "Domain": "rivian.com",
-    "Description": "Vehicle connectivity is a core feature of Rivian vehicles. If you choose to disable all vehicle connectivity, it will prevent data from leaving the vehicle, but it will also limit or disable certain functionality in the vehicle (e.g., navigation, lane keeping assistance, and over-the-air updates, which provide new features, better performance, safety enhancements, and bug fixes).\n\nTo disable all cellular connectivity of the vehicle in Canadian vehicles, use the toggle in the “Data and Privacy” screen of the vehicle’s Settings menu. For non-Canadian vehicles, you may reach out to Rivian Service to request that we disable the eSIM card in the vehicle through a service appointment. Note that disabling connectivity will have no impact on any Rivian subscriptions you may have (e.g., Connect+) -- those will need to be cancelled separately.",
-    "Confidence": 0.6987629
-  },
-  {
-    "Title": "LinkedIn Is Scanning Your Browser Extensions. This Is How They Use the Data. — 404",
-    "Url": "https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/",
-    "Timestamp": "2026-04-30T23:01:57",
-    "Domain": "404privacy.com",
-    "Description": "When companies get caught doing this sort of thing, the response is almost always the same: \"we're using this technology to combat fraud,\" or \"ensure positive user experience,\" or \"save computing resources,\" or some other hog wash.\n\nThe simple truth, there's no reason to be collecting data that can be used to identify a user across the web if they're not signed in to your service.\n\nThe harm of companies like Experian or LinkedIn being able to correlate all of your web traffic back to you is not ",
-    "Confidence": 0.9840021
   }
 ]

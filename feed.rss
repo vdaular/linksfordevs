@@ -337,28 +337,5 @@ TUI fuzzer started to emerge.</description>
       <guid>https://www.0xsid.com/blog/agentic-coding-fatigue</guid>
       <pubDate>Fri, 01 May 2026 00:03:25 GMT</pubDate>
     </item>
-    <item>
-      <title>Rivian Support - Support Center - Rivian</title>
-      <link>https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle</link>
-      <description>Vehicle connectivity is a core feature of Rivian vehicles. If you choose to disable all vehicle connectivity, it will prevent data from leaving the vehicle, but it will also limit or disable certain functionality in the vehicle (e.g., navigation, lane keeping assistance, and over-the-air updates, which provide new features, better performance, safety enhancements, and bug fixes).
-
-To disable all cellular connectivity of the vehicle in Canadian vehicles, use the toggle in the “Data and Privacy” screen of the vehicle’s Settings menu. For non-Canadian vehicles, you may reach out to Rivian Service to request that we disable the eSIM card in the vehicle through a service appointment. Note that disabling connectivity will have no impact on any Rivian subscriptions you may have (e.g., Connect+) -- those will need to be cancelled separately.</description>
-      <guid>https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle</guid>
-      <pubDate>Thu, 30 Apr 2026 23:02:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>LinkedIn Is Scanning Your Browser Extensions. This Is How They Use the Data. — 404</title>
-      <link>https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/</link>
-      <description>When companies get caught doing this sort of thing, the response is almost always the same: "we're using this technology to combat fraud," or "ensure positive user experience," or "save computing resources," or some other hog wash.
-
-The simple truth, there's no reason to be collecting data that can be used to identify a user across the web if they're not signed in to your service.
-
-The harm of companies like Experian or LinkedIn being able to correlate all of your web traffic back to you is not </description>
-      <category>encryption</category>
-      <category>javascript</category>
-      <category>nodejs</category>
-      <guid>https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/</guid>
-      <pubDate>Thu, 30 Apr 2026 23:01:57 GMT</pubDate>
-    </item>
   </channel>
 </rss>
