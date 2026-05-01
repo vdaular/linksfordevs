@@ -294,13 +294,5 @@
     "Domain": "simonwillison.net",
     "Description": "Zig has one of the most stringent anti-LLM policies of any major open source project: No LLMs for issues. No LLMs for pull requests. No LLMs for comments on the …",
     "Confidence": 0.93846333
-  },
-  {
-    "Title": "OpenTrafficMap",
-    "Url": "https://opentrafficmap.org/",
-    "Timestamp": "2026-04-30T09:02:06",
-    "Domain": "opentrafficmap.org",
-    "Description": "WebSocket verbunden",
-    "Confidence": 0.9420162
   }
 ]
