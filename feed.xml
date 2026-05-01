@@ -7,6 +7,22 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>ZetaLib/The Gay Jailbreak/The Gay Jailbreak.md at main · Exocija/ZetaLib</title>
+      <link>https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md</link>
+      <description>🌙 ZetaLib - The only AI Library you need. Contribute to Exocija/ZetaLib development by creating an account on GitHub.</description>
+      <category>ai</category>
+      <guid>https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md</guid>
+      <pubDate>Fri, 01 May 2026 22:02:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI Water Use Distractions and Lessons for California - California WaterBlog</title>
+      <link>https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/</link>
+      <description>By Jay Lund . . . Artificial intelligence (AI) will affect many economic and natural resource sectors as these new technologies develop and mature. We are in the early years of this process. Like most new things, AI has become an object of small and great hopes and fears – from hopes for saving and</description>
+      <category>ai</category>
+      <guid>https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/</guid>
+      <pubDate>Fri, 01 May 2026 22:02:05 GMT</pubDate>
+    </item>
+    <item>
       <title>Bottle</title>
       <link>https://xkcd.com/3240/</link>
       <description></description>
@@ -343,18 +359,6 @@ The harm of companies like Experian or LinkedIn being able to correlate all of y
       <category>nodejs</category>
       <guid>https://404privacy.com/blog/linkedin-is-scanning-your-browser-extensions-this-is-how-they-use-the-data/</guid>
       <pubDate>Thu, 30 Apr 2026 23:01:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library</title>
-      <link>https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/</link>
-      <description>The PyPI package lightning was compromised in versions 2.6.2 and 2.6.3 with Mini Shai-Hulud themed malicious code to execute credential-stealing malware on import.</description>
-      <category>vscode</category>
-      <category>nodejs</category>
-      <category>cloud</category>
-      <category>javascript</category>
-      <category>linux</category>
-      <guid>https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/</guid>
-      <pubDate>Thu, 30 Apr 2026 22:02:12 GMT</pubDate>
     </item>
   </channel>
 </rss>

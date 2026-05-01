@@ -1,5 +1,21 @@
 [
   {
+    "Title": "ZetaLib/The Gay Jailbreak/The Gay Jailbreak.md at main · Exocija/ZetaLib",
+    "Url": "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md",
+    "Timestamp": "2026-05-01T22:02:11",
+    "Domain": "github.com",
+    "Description": "🌙 ZetaLib - The only AI Library you need. Contribute to Exocija/ZetaLib development by creating an account on GitHub.",
+    "Confidence": 0.9842536
+  },
+  {
+    "Title": "AI Water Use Distractions and Lessons for California - California WaterBlog",
+    "Url": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/",
+    "Timestamp": "2026-05-01T22:02:05",
+    "Domain": "californiawaterblog.com",
+    "Description": "By Jay Lund . . . Artificial intelligence (AI) will affect many economic and natural resource sectors as these new technologies develop and mature. We are in the early years of this process. Like most new things, AI has become an object of small and great hopes and fears – from hopes for saving and",
+    "Confidence": 0.86704236
+  },
+  {
     "Title": "Bottle",
     "Url": "https://xkcd.com/3240/",
     "Timestamp": "2026-05-01T19:02:09",
@@ -278,13 +294,5 @@
     "Domain": "404privacy.com",
     "Description": "When companies get caught doing this sort of thing, the response is almost always the same: \"we're using this technology to combat fraud,\" or \"ensure positive user experience,\" or \"save computing resources,\" or some other hog wash.\n\nThe simple truth, there's no reason to be collecting data that can be used to identify a user across the web if they're not signed in to your service.\n\nThe harm of companies like Experian or LinkedIn being able to correlate all of your web traffic back to you is not ",
     "Confidence": 0.9840021
-  },
-  {
-    "Title": "Shai-Hulud Themed Malware Found in the PyTorch Lightning AI Training Library",
-    "Url": "https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/",
-    "Timestamp": "2026-04-30T22:02:12",
-    "Domain": "semgrep.dev",
-    "Description": "The PyPI package lightning was compromised in versions 2.6.2 and 2.6.3 with Mini Shai-Hulud themed malicious code to execute credential-stealing malware on import.",
-    "Confidence": 0.9724085
   }
 ]
