@@ -365,21 +365,5 @@ The harm of companies like Experian or LinkedIn being able to correlate all of y
       <guid>https://thereader.mitpress.mit.edu/the-whistleblower-who-uncovered-the-nsas-big-brother-machine/</guid>
       <pubDate>Thu, 30 Apr 2026 20:02:08 GMT</pubDate>
     </item>
-    <item>
-      <title>GCC 16 Release Series — Changes, New Features, and Fixes</title>
-      <link>https://gcc.gnu.org/gcc-16/changes.html</link>
-      <description>This page is a "brief" summary of some of the huge number of improvements
-in GCC 16.
-You may also want to check out our
-Porting to GCC 16 page and the
-full GCC documentation.</description>
-      <category>rust</category>
-      <category>nodejs</category>
-      <category>cloud</category>
-      <category>git</category>
-      <category>javascript</category>
-      <guid>https://gcc.gnu.org/gcc-16/changes.html</guid>
-      <pubDate>Thu, 30 Apr 2026 18:02:11 GMT</pubDate>
-    </item>
   </channel>
 </rss>

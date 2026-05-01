@@ -294,13 +294,5 @@
     "Domain": "thereader.mitpress.mit.edu",
     "Description": "An unexpected visitor gave my team the evidence we needed to prove that the government was secretly wiretapping Americans.",
     "Confidence": 0.74797565
-  },
-  {
-    "Title": "GCC 16 Release Series — Changes, New Features, and Fixes",
-    "Url": "https://gcc.gnu.org/gcc-16/changes.html",
-    "Timestamp": "2026-04-30T18:02:11",
-    "Domain": "gcc.gnu.org",
-    "Description": "This page is a \"brief\" summary of some of the huge number of improvements\nin GCC 16.\nYou may also want to check out our\nPorting to GCC 16 page and the\nfull GCC documentation.",
-    "Confidence": 0.9930137
   }
 ]
