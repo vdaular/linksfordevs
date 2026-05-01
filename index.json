@@ -286,21 +286,5 @@
     "Domain": "semgrep.dev",
     "Description": "The PyPI package lightning was compromised in versions 2.6.2 and 2.6.3 with Mini Shai-Hulud themed malicious code to execute credential-stealing malware on import.",
     "Confidence": 0.9724085
-  },
-  {
-    "Title": "Fast .NET CLI ISO Downloader with Integrity Validation | no dogma blog",
-    "Url": "https://nodogmablog.bryanhogan.net/2026/04/net-cli-iso-downloader/",
-    "Timestamp": "2026-04-30T21:02:19",
-    "Domain": "nodogmablog.bryanhogan.net",
-    "Description": "A fast .NET CLI tool for downloading ISO files with built-in integrity validation.",
-    "Confidence": 0.997115
-  },
-  {
-    "Title": "security - Re: CVE-2026-31431: CopyFail: linux local privilege scalation",
-    "Url": "https://www.openwall.com/lists/oss-security/2026/04/30/10",
-    "Timestamp": "2026-04-30T21:02:15",
-    "Domain": "www.openwall.com",
-    "Description": "Powered by blists - more mailing lists",
-    "Confidence": 0.90751487
   }
 ]

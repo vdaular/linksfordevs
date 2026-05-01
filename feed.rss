@@ -356,24 +356,5 @@ The harm of companies like Experian or LinkedIn being able to correlate all of y
       <guid>https://semgrep.dev/blog/2026/malicious-dependency-in-pytorch-lightning-used-for-ai-training/</guid>
       <pubDate>Thu, 30 Apr 2026 22:02:12 GMT</pubDate>
     </item>
-    <item>
-      <title>Fast .NET CLI ISO Downloader with Integrity Validation | no dogma blog</title>
-      <link>https://nodogmablog.bryanhogan.net/2026/04/net-cli-iso-downloader/</link>
-      <description>A fast .NET CLI tool for downloading ISO files with built-in integrity validation.</description>
-      <category>linux</category>
-      <category>encryption</category>
-      <guid>https://nodogmablog.bryanhogan.net/2026/04/net-cli-iso-downloader/</guid>
-      <pubDate>Thu, 30 Apr 2026 21:02:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>security - Re: CVE-2026-31431: CopyFail: linux local privilege scalation</title>
-      <link>https://www.openwall.com/lists/oss-security/2026/04/30/10</link>
-      <description>Powered by blists - more mailing lists</description>
-      <category>git</category>
-      <category>linux</category>
-      <category>ai</category>
-      <guid>https://www.openwall.com/lists/oss-security/2026/04/30/10</guid>
-      <pubDate>Thu, 30 Apr 2026 21:02:15 GMT</pubDate>
-    </item>
   </channel>
 </rss>
