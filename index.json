@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Bottle",
+    "Url": "https://xkcd.com/3240/",
+    "Timestamp": "2026-05-01T19:02:09",
+    "Domain": "xkcd.com",
+    "Description": "",
+    "Confidence": 0.98151064
+  },
+  {
+    "Title": "Uber Spends Full 2026 AI Budget in 4 Months",
+    "Url": "https://www.briefs.co/news/uber-torches-entire-2026-ai-budget-on-claude-code-in-four-months/",
+    "Timestamp": "2026-05-01T19:02:06",
+    "Domain": "www.briefs.co",
+    "Description": "Uber burned its entire 2026 AI budget on Claude Code and Cursor in just 4 months. Engineers' API costs ranged from $500 to $2,000.",
+    "Confidence": 0.7797212
+  },
+  {
     "Title": "GitHub - darrylmorley/whatcable: macOS menu bar app that tells you, in plain English, what each USB-C cable plugged into your Mac can actually do",
     "Url": "https://github.com/darrylmorley/whatcable",
     "Timestamp": "2026-05-01T16:02:14",
