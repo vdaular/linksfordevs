@@ -1,5 +1,13 @@
 [
   {
+    "Title": "SBC Clusters are a terrible value, but they're fun anyway",
+    "Url": "https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/",
+    "Timestamp": "2026-05-01T15:02:11",
+    "Domain": "www.jeffgeerling.com",
+    "Description": "Pictured above is the new DeskPi Super4C installed in an 8U mini rack. The Super4C is a 4-node Raspberry Pi CM5 cluster board that solves two pain points I had with the older Super6C.\nI was testing this board around the same time I helped kick off the SBCC 2026, the Single Board Cluster Competition for students. A dozen or so university teams squared off to run the best mini HPC cluster with a budget of $6,000, and a couple days to benchmark six HPC workloads.",
+    "Confidence": 0.96535903
+  },
+  {
     "Title": "appkittie — App Store Intelligence & Research",
     "Url": "https://www.appkittie.com/",
     "Timestamp": "2026-05-01T14:02:14",
