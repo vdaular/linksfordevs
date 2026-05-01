@@ -7,6 +7,260 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>My Kindle turned 10 | Mikołaj Biernat</title>
+      <link>https://mikolajbiernat.com/blog/my-kindle-turned-10</link>
+      <description>I'm celebrating by sticking with it.</description>
+      <category>gaming</category>
+      <guid>https://mikolajbiernat.com/blog/my-kindle-turned-10</guid>
+      <pubDate>Fri, 01 May 2026 00:05:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Proxies all the way down.</title>
+      <link>https://dadrian.io/blog/posts/exe-github/</link>
+      <description>A couple of days ago, exe.dev raised a lot of money1. I decided to poke around with it a little, and signed up. Their trial is 7 days long, so despite having no actual plans, I just started doing stuff. In doing so, I noticed a few interesting things that I thought were worth a quick writeup:
+I didn’t have to configure an SSH key to be able to ssh exe.dev. I could SSH to my VM despite not having a unique IP and no support for SNI in SSH. The GitHub Integration, which allowed me to clone private repositories, didn’t require any host-side configuration. The second item, SSH with non-unique IPs, despite SSH having no host header or SNI equivalent, is already covered by exe.dev themselves, so I won’t go through it here2. The other two, I want to run through quickly.</description>
+      <category>git</category>
+      <guid>https://dadrian.io/blog/posts/exe-github/</guid>
+      <pubDate>Fri, 01 May 2026 00:05:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Oops, I invented REST APIs</title>
+      <link>https://clemorl.fr/Articles/Oops,-I-invented-REST-APIs</link>
+      <description>Now THAT’s a title. It’s a bit like saying “How I invented bit shifting” or, for the less technical people reading this “How I invented restaurants”.</description>
+      <category>javascript</category>
+      <category>gaming</category>
+      <category>sql</category>
+      <category>web</category>
+      <guid>https://clemorl.fr/Articles/Oops,-I-invented-REST-APIs</guid>
+      <pubDate>Fri, 01 May 2026 00:04:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Bombadil Terminal Experiment</title>
+      <link>https://wickstrom.tech/2026-04-30-bombadil-terminal-experiment.html</link>
+      <description>Last week at Bug Bash 2026,
+I had a bunch of interesting discussions about testing non-web
+interfaces with Bombadil, our new
+property-based testing framework for user interfaces. One direction that
+I already wanted to explore is terminal user interfaces (TUIs),
+and the hallway discussions gave me a nudge to get going. I started
+hacking on the flight back home, and a few days later that embryo of a
+TUI fuzzer started to emerge.</description>
+      <category>rust</category>
+      <category>gaming</category>
+      <category>web</category>
+      <guid>https://wickstrom.tech/2026-04-30-bombadil-terminal-experiment.html</guid>
+      <pubDate>Fri, 01 May 2026 00:04:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Spell-checking with LLMs</title>
+      <link>https://revise.io/blog/04-30-2026/spell-checking-with-llms</link>
+      <description>By Artur Sapek</description>
+      <category>nodejs</category>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://revise.io/blog/04-30-2026/spell-checking-with-llms</guid>
+      <pubDate>Fri, 01 May 2026 00:04:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>I'm finally Powered By Linux</title>
+      <link>https://forkingmad.blog/powered-by-linux/</link>
+      <description>I have officially made it to Linux. It's now my desktop of choice 99.9% of the time.</description>
+      <category>linux</category>
+      <category>apple</category>
+      <guid>https://forkingmad.blog/powered-by-linux/</guid>
+      <pubDate>Fri, 01 May 2026 00:04:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>A fully static Terraform registry</title>
+      <link>https://davidguerrero.fr/blog/fully-static-terraform-registry/</link>
+      <description>Explore the architecture of a purely static Terraform registry. Includes code examples for Cloudflare Workers, CloudFront Functions, and Bunny CDN.</description>
+      <author> (David Guerrero)</author>
+      <category>git</category>
+      <category>containers</category>
+      <category>cloud</category>
+      <category>javascript</category>
+      <category>web</category>
+      <guid>https://davidguerrero.fr/blog/fully-static-terraform-registry/</guid>
+      <pubDate>Fri, 01 May 2026 00:04:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>You’re probably taking the wrong painkiller</title>
+      <link>https://dynomight.net/painkillers/</link>
+      <description>acetaminophen vs. ibuprofen</description>
+      <category>encryption</category>
+      <guid>https://dynomight.net/painkillers/</guid>
+      <pubDate>Fri, 01 May 2026 00:04:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Full-Text Search with DuckDB - peterdohertys.website</title>
+      <link>https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html</link>
+      <description>Pete Doherty is a NYC based software developer</description>
+      <category>python</category>
+      <category>javascript</category>
+      <category>web</category>
+      <category>sql</category>
+      <guid>https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html</guid>
+      <pubDate>Fri, 01 May 2026 00:04:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>San Francisco streets with confusingly similar names</title>
+      <link>https://j-nelson.net/san-francisco-streets-with-similar-names/</link>
+      <description>A list and history of San Francisco's many humorously similar street names, which are liable to confuse both locals and out-of-towners.</description>
+      <author> (https://www.facebook.com/j.nelson.net)</author>
+      <guid>https://j-nelson.net/san-francisco-streets-with-similar-names/</guid>
+      <pubDate>Fri, 01 May 2026 00:04:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>My local agentic dev setup today — Willem van den Ende</title>
+      <link>https://willemvandenende.com/blog/engineering/my-local-agentic-dev-setup-today</link>
+      <description>I was planning to write about my local development setup at my leisure. Moving this forward as my post on LinkedIn the other day about cancelling my Claude Max $100 plan and going local raised a lot more interest and questions than I expected. This post attempts to answer the question: What hardware do you run, what software do you use (inference server and coding agent), and which models do you use?. I have put links to blog posts that may answer some of the other questions in the Further Reading section.</description>
+      <category>ai</category>
+      <category>apple</category>
+      <category>containers</category>
+      <category>git</category>
+      <category>javascript</category>
+      <guid>https://willemvandenende.com/blog/engineering/my-local-agentic-dev-setup-today</guid>
+      <pubDate>Fri, 01 May 2026 00:04:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>My calculator is a transformer</title>
+      <link>https://sinclairs.gitlab.io/blog/my-calculator-is-a-transformer/</link>
+      <description></description>
+      <category>nodejs</category>
+      <category>python</category>
+      <category>ai</category>
+      <category>encryption</category>
+      <guid>https://sinclairs.gitlab.io/blog/my-calculator-is-a-transformer/</guid>
+      <pubDate>Fri, 01 May 2026 00:04:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>My agent management software | Liam DeVoe</title>
+      <link>https://tybug.dev/plait/</link>
+      <description>I write a lot of code. Or rather, I used to write a lot of code. After Claude Opus ~4.5, it's now more accurate to say that I review and design a lot of code.</description>
+      <category>git</category>
+      <category>vscode</category>
+      <category>ai</category>
+      <guid>https://tybug.dev/plait/</guid>
+      <pubDate>Fri, 01 May 2026 00:04:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>On running creative online bots with ten thousand followers | Stefan Bohacek's Personal Website and Blog</title>
+      <link>https://stefanbohacek.com/blog/on-running-creative-online-bots-with-ten-thousand-followers/</link>
+      <description>A short look back on 10 years of making creative online bots.</description>
+      <guid>https://stefanbohacek.com/blog/on-running-creative-online-bots-with-ten-thousand-followers/</guid>
+      <pubDate>Fri, 01 May 2026 00:04:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tar Files Created on macOS Display Errors When Extracting on Linux</title>
+      <link>https://aruljohn.com/blog/macos-created-tar-files-linux-errors/</link>
+      <description>tar.gz files seem to include extra files starting with ._. When these are extracted on Linux, a bunch of errors are displayed.</description>
+      <category>apple</category>
+      <category>linux</category>
+      <category>web</category>
+      <guid>https://aruljohn.com/blog/macos-created-tar-files-linux-errors/</guid>
+      <pubDate>Fri, 01 May 2026 00:04:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Scaling Pain of Coding Agent Serving: Lessons from Debugging GLM-5 at Scale</title>
+      <link>https://z.ai/blog/scaling-pain</link>
+      <description>Our belief in Scaling Laws has not only driven continuous breakthroughs in model parameters and data scale, but has also pushed infrastructure engineering toward its limits. This process inevitably comes with growing pains, which we refer to as Scaling Pain.</description>
+      <category>nodejs</category>
+      <guid>https://z.ai/blog/scaling-pain</guid>
+      <pubDate>Fri, 01 May 2026 00:04:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sammy's Blog</title>
+      <link>https://www.sammystraus.com/#how-much-llms-is-too-much-llms?utm_source=hnblogs.substack.com</link>
+      <description>I finished reading On the Edge last week, and it was bad. Not that I don't respect Nate Silver. I respect him a lot. So when his seminal text on gambling and risk taking was a rambling mess, I was suprised and disappointed. Nevertheless, a completionist at heart, I trudged on, to the very end, where I was greeted with this message:</description>
+      <category>gaming</category>
+      <category>ai</category>
+      <guid>https://www.sammystraus.com/#how-much-llms-is-too-much-llms?utm_source=hnblogs.substack.com</guid>
+      <pubDate>Fri, 01 May 2026 00:03:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Rails Way in 2026</title>
+      <link>https://blog.arkency.com/the-rails-way-in-2026/</link>
+      <description></description>
+      <category>youtube</category>
+      <guid>https://blog.arkency.com/the-rails-way-in-2026/</guid>
+      <pubDate>Fri, 01 May 2026 00:03:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPT-5.5 authorship and order effects - Guillaume Valmont's Weblog</title>
+      <link>https://blog.valmont.dev/posts/gpt-5-5-authorship-and-order-effects/</link>
+      <description>While comparing medium, high, and extra-high reasoning modes on the same task, I uncovered consistent authorship and presentation-order effects in GPT-5.5’s evaluations.</description>
+      <author> (Guillaume Valmont)</author>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://blog.valmont.dev/posts/gpt-5-5-authorship-and-order-effects/</guid>
+      <pubDate>Fri, 01 May 2026 00:03:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rooting my IoT stand mixer</title>
+      <link>https://bensimms.moe/rooting-my-iot-stand-mixer/</link>
+      <description>../rooting-my-iot-stand-mixer</description>
+      <category>cloud</category>
+      <category>rust</category>
+      <guid>https://bensimms.moe/rooting-my-iot-stand-mixer/</guid>
+      <pubDate>Fri, 01 May 2026 00:03:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mark Ferraz — AI Infrastructure Architect · Builder · Author</title>
+      <link>https://markferraz.com/perspective#essay-009?utm_source=hnblogs.substack.com</link>
+      <description>AI Infrastructure Architect building production AI systems. CPO of Govern 365 at Netwoven. Founder of LittleGuy. Author, Microsoft Press.</description>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://markferraz.com/perspective#essay-009?utm_source=hnblogs.substack.com</guid>
+      <pubDate>Fri, 01 May 2026 00:03:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reddit is the most dangerous Social Media Platform for Human Creativity - Opinion</title>
+      <link>https://mirz.ai/post/reddit-is-the-most-dangerous-social-media-platform-for-human-creativity-opinion</link>
+      <description>OpenAI recently revealed why Goblins and Gremlins were featured more than they should have been in chats...</description>
+      <category>rust</category>
+      <category>ai</category>
+      <guid>https://mirz.ai/post/reddit-is-the-most-dangerous-social-media-platform-for-human-creativity-opinion</guid>
+      <pubDate>Fri, 01 May 2026 00:03:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Mutable Value Semantics (MVS): A Non-superficial Study</title>
+      <link>https://federicobruzzone.github.io/posts/eter/MVS.html</link>
+      <description>This post is part of The Eter programming
+                    Language series.</description>
+      <category>rust</category>
+      <category>ai</category>
+      <category>vscode</category>
+      <guid>https://federicobruzzone.github.io/posts/eter/MVS.html</guid>
+      <pubDate>Fri, 01 May 2026 00:03:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dynamic Software</title>
+      <link>https://www.ashpreetbedi.com/articles/dynamic-software</link>
+      <description>For fifty years, software has been static. Then 2024 happened. The control flow came alive and a new category of software was born.</description>
+      <author> (Ashpreet Bedi)</author>
+      <category>python</category>
+      <category>containers</category>
+      <category>sql</category>
+      <guid>https://www.ashpreetbedi.com/articles/dynamic-software</guid>
+      <pubDate>Fri, 01 May 2026 00:03:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Does Prop 13 explain California’s relatively lower birth rates?</title>
+      <link>https://maxmautner.com/2026/04/25/prop13-fertility.html</link>
+      <description>California’s total fertility rate dropped from 17th to 43rd in the country since 2008. It is easy to see: home prices predict birth rates with striking accuracy — and Prop 13 is what made California’s housing costs a political choice, not just a market outcome.</description>
+      <category>web</category>
+      <guid>https://maxmautner.com/2026/04/25/prop13-fertility.html</guid>
+      <pubDate>Fri, 01 May 2026 00:03:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Agentic Coding is Burning Me Out</title>
+      <link>https://www.0xsid.com/blog/agentic-coding-fatigue</link>
+      <description>The familiar pacing of software development has been completely compressed by agentic coding because you no longer have those routine stretches of just wiring things together to catch your breath. Writing code by hand, or trad coding as Twitter likes to call it, forced me to respect the natural ebb and flow of the problem solving process and get into a much more steady, sustainable rhythm.</description>
+      <category>ai</category>
+      <guid>https://www.0xsid.com/blog/agentic-coding-fatigue</guid>
+      <pubDate>Fri, 01 May 2026 00:03:25 GMT</pubDate>
+    </item>
+    <item>
       <title>Rivian Support - Support Center - Rivian</title>
       <link>https://rivian.com/support/article/can-i-disable-all-data-collection-from-my-vehicle</link>
       <description>Vehicle connectivity is a core feature of Rivian vehicles. If you choose to disable all vehicle connectivity, it will prevent data from leaving the vehicle, but it will also limit or disable certain functionality in the vehicle (e.g., navigation, lane keeping assistance, and over-the-air updates, which provide new features, better performance, safety enhancements, and bug fixes).
@@ -350,17 +604,6 @@ Build artifacts with signatures - a reproducibility issue Remote attestation is 
       <category>git</category>
       <guid>https://monokai.com/articles/how-i-moved-my-digital-stack-to-europe/</guid>
       <pubDate>Thu, 30 Apr 2026 01:02:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Have You Seen the New Excel?</title>
-      <link>https://idiallo.com/blog/have-you-seen-the-new-xl-ai-parody?src=feed</link>
-      <description>Stop coding. Stop hiring. Stop building. 
-
-While the tech world obsesses over large language models and neural networks, I discovered the real disruptor that has been hiding in plain sight. Mine was o</description>
-      <category>sql</category>
-      <category>ai</category>
-      <guid>https://idiallo.com/blog/have-you-seen-the-new-xl-ai-parody?src=feed</guid>
-      <pubDate>Thu, 30 Apr 2026 00:01:57 GMT</pubDate>
     </item>
   </channel>
 </rss>

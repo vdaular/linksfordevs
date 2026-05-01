@@ -1,0 +1,184 @@
+[
+  {
+    "Title": "My Kindle turned 10 | Mikołaj Biernat",
+    "Url": "https://mikolajbiernat.com/blog/my-kindle-turned-10",
+    "Timestamp": "2026-05-01T00:05:05",
+    "Domain": "mikolajbiernat.com",
+    "Description": "I'm celebrating by sticking with it."
+  },
+  {
+    "Title": "Proxies all the way down.",
+    "Url": "https://dadrian.io/blog/posts/exe-github/",
+    "Timestamp": "2026-05-01T00:05:02",
+    "Domain": "dadrian.io",
+    "Description": "A couple of days ago, exe.dev raised a lot of money1. I decided to poke around with it a little, and signed up. Their trial is 7 days long, so despite having no actual plans, I just started doing stuff. In doing so, I noticed a few interesting things that I thought were worth a quick writeup:\nI didn’t have to configure an SSH key to be able to ssh exe.dev. I could SSH to my VM despite not having a unique IP and no support for SNI in SSH. The GitHub Integration, which allowed me to clone private repositories, didn’t require any host-side configuration. The second item, SSH with non-unique IPs, despite SSH having no host header or SNI equivalent, is already covered by exe.dev themselves, so I won’t go through it here2. The other two, I want to run through quickly."
+  },
+  {
+    "Title": "Oops, I invented REST APIs",
+    "Url": "https://clemorl.fr/Articles/Oops,-I-invented-REST-APIs",
+    "Timestamp": "2026-05-01T00:04:58",
+    "Domain": "clemorl.fr",
+    "Description": "Now THAT’s a title. It’s a bit like saying “How I invented bit shifting” or, for the less technical people reading this “How I invented restaurants”."
+  },
+  {
+    "Title": "The Bombadil Terminal Experiment",
+    "Url": "https://wickstrom.tech/2026-04-30-bombadil-terminal-experiment.html",
+    "Timestamp": "2026-05-01T00:04:55",
+    "Domain": "wickstrom.tech",
+    "Description": "Last week at Bug Bash 2026,\nI had a bunch of interesting discussions about testing non-web\ninterfaces with Bombadil, our new\nproperty-based testing framework for user interfaces. One direction that\nI already wanted to explore is terminal user interfaces (TUIs),\nand the hallway discussions gave me a nudge to get going. I started\nhacking on the flight back home, and a few days later that embryo of a\nTUI fuzzer started to emerge."
+  },
+  {
+    "Title": "Spell-checking with LLMs",
+    "Url": "https://revise.io/blog/04-30-2026/spell-checking-with-llms",
+    "Timestamp": "2026-05-01T00:04:52",
+    "Domain": "revise.io",
+    "Description": "By Artur Sapek"
+  },
+  {
+    "Title": "I'm finally Powered By Linux",
+    "Url": "https://forkingmad.blog/powered-by-linux/",
+    "Timestamp": "2026-05-01T00:04:48",
+    "Domain": "forkingmad.blog",
+    "Description": "I have officially made it to Linux. It's now my desktop of choice 99.9% of the time."
+  },
+  {
+    "Title": "A fully static Terraform registry",
+    "Url": "https://davidguerrero.fr/blog/fully-static-terraform-registry/",
+    "Timestamp": "2026-05-01T00:04:44",
+    "Domain": "davidguerrero.fr",
+    "Description": "Explore the architecture of a purely static Terraform registry. Includes code examples for Cloudflare Workers, CloudFront Functions, and Bunny CDN."
+  },
+  {
+    "Title": "You’re probably taking the wrong painkiller",
+    "Url": "https://dynomight.net/painkillers/",
+    "Timestamp": "2026-05-01T00:04:41",
+    "Domain": "dynomight.net",
+    "Description": "acetaminophen vs. ibuprofen"
+  },
+  {
+    "Title": "Full-Text Search with DuckDB - peterdohertys.website",
+    "Url": "https://peterdohertys.website/blog-posts/full-text-search-w-duckdb.html",
+    "Timestamp": "2026-05-01T00:04:38",
+    "Domain": "peterdohertys.website",
+    "Description": "Pete Doherty is a NYC based software developer"
+  },
+  {
+    "Title": "San Francisco streets with confusingly similar names",
+    "Url": "https://j-nelson.net/san-francisco-streets-with-similar-names/",
+    "Timestamp": "2026-05-01T00:04:31",
+    "Domain": "j-nelson.net",
+    "Description": "A list and history of San Francisco's many humorously similar street names, which are liable to confuse both locals and out-of-towners."
+  },
+  {
+    "Title": "My local agentic dev setup today — Willem van den Ende",
+    "Url": "https://willemvandenende.com/blog/engineering/my-local-agentic-dev-setup-today",
+    "Timestamp": "2026-05-01T00:04:27",
+    "Domain": "willemvandenende.com",
+    "Description": "I was planning to write about my local development setup at my leisure. Moving this forward as my post on LinkedIn the other day about cancelling my Claude Max $100 plan and going local raised a lot more interest and questions than I expected. This post attempts to answer the question: What hardware do you run, what software do you use (inference server and coding agent), and which models do you use?. I have put links to blog posts that may answer some of the other questions in the Further Reading section."
+  },
+  {
+    "Title": "My calculator is a transformer",
+    "Url": "https://sinclairs.gitlab.io/blog/my-calculator-is-a-transformer/",
+    "Timestamp": "2026-05-01T00:04:22",
+    "Domain": "sinclairs.gitlab.io",
+    "Description": ""
+  },
+  {
+    "Title": "My agent management software | Liam DeVoe",
+    "Url": "https://tybug.dev/plait/",
+    "Timestamp": "2026-05-01T00:04:17",
+    "Domain": "tybug.dev",
+    "Description": "I write a lot of code. Or rather, I used to write a lot of code. After Claude Opus ~4.5, it's now more accurate to say that I review and design a lot of code."
+  },
+  {
+    "Title": "On running creative online bots with ten thousand followers | Stefan Bohacek's Personal Website and Blog",
+    "Url": "https://stefanbohacek.com/blog/on-running-creative-online-bots-with-ten-thousand-followers/",
+    "Timestamp": "2026-05-01T00:04:14",
+    "Domain": "stefanbohacek.com",
+    "Description": "A short look back on 10 years of making creative online bots."
+  },
+  {
+    "Title": "Tar Files Created on macOS Display Errors When Extracting on Linux",
+    "Url": "https://aruljohn.com/blog/macos-created-tar-files-linux-errors/",
+    "Timestamp": "2026-05-01T00:04:09",
+    "Domain": "aruljohn.com",
+    "Description": "tar.gz files seem to include extra files starting with ._. When these are extracted on Linux, a bunch of errors are displayed."
+  },
+  {
+    "Title": "Scaling Pain of Coding Agent Serving: Lessons from Debugging GLM-5 at Scale",
+    "Url": "https://z.ai/blog/scaling-pain",
+    "Timestamp": "2026-05-01T00:04:05",
+    "Domain": "z.ai",
+    "Description": "Our belief in Scaling Laws has not only driven continuous breakthroughs in model parameters and data scale, but has also pushed infrastructure engineering toward its limits. This process inevitably comes with growing pains, which we refer to as Scaling Pain."
+  },
+  {
+    "Title": "Sammy's Blog",
+    "Url": "https://www.sammystraus.com/#how-much-llms-is-too-much-llms?utm_source=hnblogs.substack.com",
+    "Timestamp": "2026-05-01T00:03:59",
+    "Domain": "www.sammystraus.com",
+    "Description": "I finished reading On the Edge last week, and it was bad. Not that I don't respect Nate Silver. I respect him a lot. So when his seminal text on gambling and risk taking was a rambling mess, I was suprised and disappointed. Nevertheless, a completionist at heart, I trudged on, to the very end, where I was greeted with this message:"
+  },
+  {
+    "Title": "The Rails Way in 2026",
+    "Url": "https://blog.arkency.com/the-rails-way-in-2026/",
+    "Timestamp": "2026-05-01T00:03:56",
+    "Domain": "blog.arkency.com",
+    "Description": ""
+  },
+  {
+    "Title": "GPT-5.5 authorship and order effects - Guillaume Valmont's Weblog",
+    "Url": "https://blog.valmont.dev/posts/gpt-5-5-authorship-and-order-effects/",
+    "Timestamp": "2026-05-01T00:03:52",
+    "Domain": "blog.valmont.dev",
+    "Description": "While comparing medium, high, and extra-high reasoning modes on the same task, I uncovered consistent authorship and presentation-order effects in GPT-5.5’s evaluations."
+  },
+  {
+    "Title": "Rooting my IoT stand mixer",
+    "Url": "https://bensimms.moe/rooting-my-iot-stand-mixer/",
+    "Timestamp": "2026-05-01T00:03:48",
+    "Domain": "bensimms.moe",
+    "Description": "../rooting-my-iot-stand-mixer"
+  },
+  {
+    "Title": "Mark Ferraz — AI Infrastructure Architect · Builder · Author",
+    "Url": "https://markferraz.com/perspective#essay-009?utm_source=hnblogs.substack.com",
+    "Timestamp": "2026-05-01T00:03:43",
+    "Domain": "markferraz.com",
+    "Description": "AI Infrastructure Architect building production AI systems. CPO of Govern 365 at Netwoven. Founder of LittleGuy. Author, Microsoft Press."
+  },
+  {
+    "Title": "Reddit is the most dangerous Social Media Platform for Human Creativity - Opinion",
+    "Url": "https://mirz.ai/post/reddit-is-the-most-dangerous-social-media-platform-for-human-creativity-opinion",
+    "Timestamp": "2026-05-01T00:03:39",
+    "Domain": "mirz.ai",
+    "Description": "OpenAI recently revealed why Goblins and Gremlins were featured more than they should have been in chats..."
+  },
+  {
+    "Title": "The Mutable Value Semantics (MVS): A Non-superficial Study",
+    "Url": "https://federicobruzzone.github.io/posts/eter/MVS.html",
+    "Timestamp": "2026-05-01T00:03:35",
+    "Domain": "federicobruzzone.github.io",
+    "Description": "This post is part of The Eter programming\n                    Language series."
+  },
+  {
+    "Title": "Dynamic Software",
+    "Url": "https://www.ashpreetbedi.com/articles/dynamic-software",
+    "Timestamp": "2026-05-01T00:03:32",
+    "Domain": "www.ashpreetbedi.com",
+    "Description": "For fifty years, software has been static. Then 2024 happened. The control flow came alive and a new category of software was born."
+  },
+  {
+    "Title": "Does Prop 13 explain California’s relatively lower birth rates?",
+    "Url": "https://maxmautner.com/2026/04/25/prop13-fertility.html",
+    "Timestamp": "2026-05-01T00:03:28",
+    "Domain": "maxmautner.com",
+    "Description": "California’s total fertility rate dropped from 17th to 43rd in the country since 2008. It is easy to see: home prices predict birth rates with striking accuracy — and Prop 13 is what made California’s housing costs a political choice, not just a market outcome."
+  },
+  {
+    "Title": "Agentic Coding is Burning Me Out",
+    "Url": "https://www.0xsid.com/blog/agentic-coding-fatigue",
+    "Timestamp": "2026-05-01T00:03:25",
+    "Domain": "www.0xsid.com",
+    "Description": "The familiar pacing of software development has been completely compressed by agentic coding because you no longer have those routine stretches of just wiring things together to catch your breath. Writing code by hand, or trad coding as Twitter likes to call it, forced me to respect the natural ebb and flow of the problem solving process and get into a much more steady, sustainable rhythm."
+  }
+]
