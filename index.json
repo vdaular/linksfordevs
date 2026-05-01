@@ -286,13 +286,5 @@
     "Domain": "youtube.com",
     "Description": "Find out what's inside a 1990s payphone and how to make one work in your own home or office.  Full working example and no unethical hacking!\n\nCheck out Shop Talk on Dave's Attic!  Post a question here and we answer them every Friday!  https://youtu.be/iT0T52OV9B8",
     "Confidence": 0.97439957
-  },
-  {
-    "Title": "The Zig project's rationale for their firm anti-AI contribution policy",
-    "Url": "https://simonwillison.net/2026/Apr/30/zig-anti-ai/",
-    "Timestamp": "2026-04-30T10:01:59",
-    "Domain": "simonwillison.net",
-    "Description": "Zig has one of the most stringent anti-LLM policies of any major open source project: No LLMs for issues. No LLMs for pull requests. No LLMs for comments on the …",
-    "Confidence": 0.93846333
   }
 ]
