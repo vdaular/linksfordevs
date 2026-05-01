@@ -380,12 +380,5 @@ Check out Shop Talk on Dave's Attic!  Post a question here and we answer them ev
       <guid>https://openai.com/index/where-the-goblins-came-from/</guid>
       <pubDate>Thu, 30 Apr 2026 06:02:09 GMT</pubDate>
     </item>
-    <item>
-      <title>FastCGI: 30 Years Old and Still the Better Protocol for Reverse Proxies</title>
-      <link>https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies</link>
-      <description>For FastCGI's 30th birthday, let's look at how it avoids the security problems inherent in HTTP reverse proxying</description>
-      <guid>https://www.agwa.name/blog/post/fastcgi_is_the_better_protocol_for_reverse_proxies</guid>
-      <pubDate>Thu, 30 Apr 2026 03:02:27 GMT</pubDate>
-    </item>
   </channel>
 </rss>
