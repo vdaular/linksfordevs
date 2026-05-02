@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Editing my LLM assisted articles</title>
+      <link>https://idiallo.com/byte-size/editing-llm-assisted-articles?src=feed</link>
+      <description>There is a price to pay when you use LLM generated articles. They may be functional, but they do not capture the human experience. I'm rewriting them all.</description>
+      <category>gaming</category>
+      <category>nodejs</category>
+      <category>cloud</category>
+      <category>sql</category>
+      <category>web</category>
+      <guid>https://idiallo.com/byte-size/editing-llm-assisted-articles?src=feed</guid>
+      <pubDate>Sat, 02 May 2026 03:02:06 GMT</pubDate>
+    </item>
+    <item>
       <title>TI-84 Evo Graphing Calculator | Texas Instruments</title>
       <link>https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo</link>
       <description>The TI-84 Evo is the most advanced graphing calculator in the TI-84 series. Ideal for algebra, geometry, calculus, and advanced math courses in secondary schools. Learn more.</description>
