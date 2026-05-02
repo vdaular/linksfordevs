@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Enabling ai co author by default by cwebster-99 · Pull Request #310226 · microsoft/vscode",
+    "Url": "https://github.com/microsoft/vscode/pull/310226",
+    "Timestamp": "2026-05-02T22:02:14",
+    "Domain": "github.com",
+    "Description": "Visual Studio Code. Contribute to microsoft/vscode development by creating an account on GitHub.",
+    "Confidence": 0.983365
+  },
+  {
     "Title": "NetHack 5.0.0: Release Notes",
     "Url": "https://nethack.org/v500/release.html",
     "Timestamp": "2026-05-02T21:02:04",
@@ -214,21 +222,5 @@
     "Domain": "blog.feld.me",
     "Description": "Open source software has existed long before the invention of the (D)VCS. The author likely hosted a barebones HTML webpage or a txt file describing the project. There definitely was an FTP server somewhere with tarballs. The author may have been reachable by email. If you were really lucky …",
     "Confidence": 0.959601
-  },
-  {
-    "Title": "ZetaLib/The Gay Jailbreak/The Gay Jailbreak.md at main · Exocija/ZetaLib",
-    "Url": "https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md",
-    "Timestamp": "2026-05-01T22:02:11",
-    "Domain": "github.com",
-    "Description": "🌙 ZetaLib - The only AI Library you need. Contribute to Exocija/ZetaLib development by creating an account on GitHub.",
-    "Confidence": 0.9842536
-  },
-  {
-    "Title": "AI Water Use Distractions and Lessons for California - California WaterBlog",
-    "Url": "https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/",
-    "Timestamp": "2026-05-01T22:02:05",
-    "Domain": "californiawaterblog.com",
-    "Description": "By Jay Lund . . . Artificial intelligence (AI) will affect many economic and natural resource sectors as these new technologies develop and mature. We are in the early years of this process. Like most new things, AI has become an object of small and great hopes and fears – from hopes for saving and",
-    "Confidence": 0.86704236
   }
 ]

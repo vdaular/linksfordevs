@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Enabling ai co author by default by cwebster-99 · Pull Request #310226 · microsoft/vscode</title>
+      <link>https://github.com/microsoft/vscode/pull/310226</link>
+      <description>Visual Studio Code. Contribute to microsoft/vscode development by creating an account on GitHub.</description>
+      <category>vscode</category>
+      <category>git</category>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://github.com/microsoft/vscode/pull/310226</guid>
+      <pubDate>Sat, 02 May 2026 22:02:14 GMT</pubDate>
+    </item>
+    <item>
       <title>NetHack 5.0.0: Release Notes</title>
       <link>https://nethack.org/v500/release.html</link>
       <description>NetHack 5.0 is an enhancement to the dungeon exploration game NetHack,
@@ -260,22 +271,6 @@ You do not know me, but I know of you. I</description>
       <category>web</category>
       <guid>https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/</guid>
       <pubDate>Sat, 02 May 2026 00:02:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>ZetaLib/The Gay Jailbreak/The Gay Jailbreak.md at main · Exocija/ZetaLib</title>
-      <link>https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md</link>
-      <description>🌙 ZetaLib - The only AI Library you need. Contribute to Exocija/ZetaLib development by creating an account on GitHub.</description>
-      <category>ai</category>
-      <guid>https://github.com/Exocija/ZetaLib/blob/main/The%20Gay%20Jailbreak/The%20Gay%20Jailbreak.md</guid>
-      <pubDate>Fri, 01 May 2026 22:02:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI Water Use Distractions and Lessons for California - California WaterBlog</title>
-      <link>https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/</link>
-      <description>By Jay Lund . . . Artificial intelligence (AI) will affect many economic and natural resource sectors as these new technologies develop and mature. We are in the early years of this process. Like most new things, AI has become an object of small and great hopes and fears – from hopes for saving and</description>
-      <category>ai</category>
-      <guid>https://californiawaterblog.com/2026/04/26/ai-water-use-distractions-and-lessons-for-california/</guid>
-      <pubDate>Fri, 01 May 2026 22:02:05 GMT</pubDate>
     </item>
   </channel>
 </rss>
