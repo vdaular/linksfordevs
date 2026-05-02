@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>How Container Filesystem Works: Building a Docker-like Container From Scratch | iximiuz Labs</title>
+      <link>https://labs.iximiuz.com/tutorials/container-filesystem-from-scratch</link>
+      <description>Learn how Linux containers are built from the ground up. Starting with the mount namespace and a root filesystem, see why PID, cgroup, UTS, and network namespaces naturally follow - and how this foundation makes concepts like bind mounts, volumes, and persistence in Docker or Kubernetes much easier to grasp.</description>
+      <category>containers</category>
+      <category>linux</category>
+      <category>encryption</category>
+      <category>cloud</category>
+      <category>git</category>
+      <guid>https://labs.iximiuz.com/tutorials/container-filesystem-from-scratch</guid>
+      <pubDate>Sat, 02 May 2026 13:02:14 GMT</pubDate>
+    </item>
+    <item>
       <title>Why does it take so long to release black fan versions? | Noctua</title>
       <link>https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions</link>
       <description>Wonder why chromax.black fans take longer to launch? Black colouring additives alter how advanced polymers mould, meaning they require entirely new toolings and months of testing.</description>
