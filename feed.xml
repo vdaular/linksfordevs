@@ -292,16 +292,5 @@ You do not know me, but I know of you. I</description>
       <guid>https://docs.x.ai/developers/models/grok-4.3</guid>
       <pubDate>Fri, 01 May 2026 16:02:09 GMT</pubDate>
     </item>
-    <item>
-      <title>SBC Clusters are a terrible value, but they're fun anyway</title>
-      <link>https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/</link>
-      <description>Pictured above is the new DeskPi Super4C installed in an 8U mini rack. The Super4C is a 4-node Raspberry Pi CM5 cluster board that solves two pain points I had with the older Super6C.
-I was testing this board around the same time I helped kick off the SBCC 2026, the Single Board Cluster Competition for students. A dozen or so university teams squared off to run the best mini HPC cluster with a budget of $6,000, and a couple days to benchmark six HPC workloads.</description>
-      <category>nodejs</category>
-      <category>ai</category>
-      <category>youtube</category>
-      <guid>https://www.jeffgeerling.com/blog/2026/deskpi-super4c-sbc-cluster/</guid>
-      <pubDate>Fri, 01 May 2026 15:02:11 GMT</pubDate>
-    </item>
   </channel>
 </rss>
