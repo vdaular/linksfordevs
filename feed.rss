@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>VideoLAN / dav2d · GitLab</title>
+      <link>https://code.videolan.org/videolan/dav2d</link>
+      <description>dav2d is the fastest AV2 decoder on all platforms :) Targeted to be small, portable and very fast; similar to dav1d, but for AV2.</description>
+      <category>git</category>
+      <guid>https://code.videolan.org/videolan/dav2d</guid>
+      <pubDate>Sat, 02 May 2026 23:02:06 GMT</pubDate>
+    </item>
+    <item>
       <title>Enabling ai co author by default by cwebster-99 · Pull Request #310226 · microsoft/vscode</title>
       <link>https://github.com/microsoft/vscode/pull/310226</link>
       <description>Visual Studio Code. Contribute to microsoft/vscode development by creating an account on GitHub.</description>
