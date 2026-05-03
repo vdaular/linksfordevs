@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>DO_NOT_TRACK</title>
+      <link>https://donottrack.sh/</link>
+      <description>A proposed standard environment variable for opting out of telemetry, analytics, and tracking in CLI and TUI applications.</description>
+      <category>cloud</category>
+      <category>dotnet</category>
+      <guid>https://donottrack.sh/</guid>
+      <pubDate>Sun, 03 May 2026 06:02:04 GMT</pubDate>
+    </item>
+    <item>
       <title>What do CPUs do when there's nothing to do?</title>
       <link>https://youtube.com/watch?v=UXd8MfTJQVg</link>
       <description>Dave explains what happens to unused cycles on your PC and why Task Manager can only display an approximation of the CPU used!</description>
