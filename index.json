@@ -182,13 +182,5 @@
     "Domain": "labs.iximiuz.com",
     "Description": "Learn how Linux containers are built from the ground up. Starting with the mount namespace and a root filesystem, see why PID, cgroup, UTS, and network namespaces naturally follow - and how this foundation makes concepts like bind mounts, volumes, and persistence in Docker or Kubernetes much easier to grasp.",
     "Confidence": 0.9924455
-  },
-  {
-    "Title": "Why does it take so long to release black fan versions? | Noctua",
-    "Url": "https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions",
-    "Timestamp": "2026-05-02T11:02:11",
-    "Domain": "www.noctua.at",
-    "Description": "Wonder why chromax.black fans take longer to launch? Black colouring additives alter how advanced polymers mould, meaning they require entirely new toolings and months of testing.",
-    "Confidence": 0.76254845
   }
 ]
