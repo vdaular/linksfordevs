@@ -1,5 +1,109 @@
 [
   {
+    "Title": "The Partition Problem",
+    "Url": "https://parrik.com/puzzles/the-partition-problem/",
+    "Timestamp": "2026-05-03T00:03:05",
+    "Domain": "parrik.com",
+    "Description": "A cancer cell is not a broken cell. It has lost context.",
+    "Confidence": 0.71804434
+  },
+  {
+    "Title": "We forgot how to write",
+    "Url": "https://www.timwehrle.de/blog/we-forgot-how-to-write/",
+    "Timestamp": "2026-05-03T00:03:01",
+    "Domain": "www.timwehrle.de",
+    "Description": "Words from me as developer, student and human.",
+    "Confidence": 0.9864831
+  },
+  {
+    "Title": "Well, I got hacked",
+    "Url": "https://blog.vasi.li/well-i-got-hacked/",
+    "Timestamp": "2026-05-03T00:02:57",
+    "Domain": "blog.vasi.li",
+    "Description": "It wasn't too serious, it didn't really break containment that much...\n\nI was noticing that the qBittorrent app in my TrueNAS is constantly sitting at elevated CPU usage even though it was idle, but restarting it was usually enough for it to go back to zero. But it would come",
+    "Confidence": 0.90463233
+  },
+  {
+    "Title": "wolfCOSE vs The Field: The Smallest, Most Complete COSE Implementation",
+    "Url": "https://aidangarske.github.io/wolfCOSE/blog/wolfcose-vs-the-field/",
+    "Timestamp": "2026-05-03T00:02:53",
+    "Domain": "aidangarske.github.io",
+    "Description": "The Smallest, Most Complete COSE Implementation",
+    "Confidence": 0.9965299
+  },
+  {
+    "Title": "Squaring the circle on employee equity",
+    "Url": "https://blog.baldassari.me/employee-equity/",
+    "Timestamp": "2026-05-03T00:02:50",
+    "Domain": "blog.baldassari.me",
+    "Description": "People work for startups for many reasons. They may like being part of a smaller\nteam, getting more responsibilities, working at a faster pace with less red\ntape, feeling more connected to the mission. But despite regular advice to\nignore equity, many employees greatly value access to startup equity and dream\nof an outsized outcome. This is why every startup talks up their equity package\nduring their hiring process.",
+    "Confidence": 0.9870581
+  },
+  {
+    "Title": "Path to Vibe Engineering",
+    "Url": "https://leandronsp.com/articles/path-to-vibe-engineering",
+    "Timestamp": "2026-05-03T00:02:46",
+    "Domain": "leandronsp.com",
+    "Description": "2026, what a year to be alive. AI, LLMs, agents, agentic coding. On one side, the hype train. On the other, narratives built to invalidate everything the hype",
+    "Confidence": 0.9785379
+  },
+  {
+    "Title": "Agentic Coding is Burning Me Out",
+    "Url": "https://0xsid.com/blog/agentic-coding-fatigue",
+    "Timestamp": "2026-05-03T00:02:43",
+    "Domain": "0xsid.com",
+    "Description": "The familiar pacing of software development has been completely compressed by agentic coding because you no longer have those routine stretches of just wiring things together to catch your breath. Writing code by hand, or trad coding as Twitter likes to call it, forced me to respect the natural ebb and flow of the problem solving process and get into a much more steady, sustainable rhythm.",
+    "Confidence": 0.9784158
+  },
+  {
+    "Title": "How a Broken Bike Sync Led Me to Reverse Engineering My Wahoo’s Hidden Debug Mode",
+    "Url": "https://noahclements.com/Wahoo-Bolt-Hidden-Debug-Mode/",
+    "Timestamp": "2026-05-03T00:02:40",
+    "Domain": "noahclements.com",
+    "Description": "Reverse engineering the Wahoo ELEMNT Bolt v3 BLE protocol to unlock a hidden developer debug mode",
+    "Confidence": 0.98461735
+  },
+  {
+    "Title": "Servers with Personality · Caolan",
+    "Url": "https://caolan.uk/links/servers/",
+    "Timestamp": "2026-05-03T00:02:36",
+    "Domain": "caolan.uk",
+    "Description": "By which, I mean: a server I can point to. Not just an anonymous\n    virtual machine but a physical device that somebody cares for.",
+    "Confidence": 0.98884696
+  },
+  {
+    "Title": "Six Years Perfecting Maps on watchOS",
+    "Url": "https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/",
+    "Timestamp": "2026-05-03T00:02:31",
+    "Domain": "www.david-smith.org",
+    "Description": "",
+    "Confidence": 0.97844416
+  },
+  {
+    "Title": "Why the Closest Large Galaxy Is Simultaneously 2.5 Million Years Away and Just Around the Corner – Josh Pearlson",
+    "Url": "https://joshpearlson.com/articles/posts/closest-galaxy-time-dilation/closest-galaxy-time-dilation.html",
+    "Timestamp": "2026-05-03T00:02:28",
+    "Domain": "joshpearlson.com",
+    "Description": "Andromeda is 2.5 million light-years away. At the speed of light, that’s a 2.5 million year trip. So why does the physics say the journey could feel like a short hop?",
+    "Confidence": 0.987551
+  },
+  {
+    "Title": "Why won't SQLite give back my disk space?",
+    "Url": "https://www.valiantlynx.com/blogs/why-wont-sqlite-give-back-my-disk-space",
+    "Timestamp": "2026-05-03T00:02:24",
+    "Domain": "www.valiantlynx.com",
+    "Description": "I found a 77GB database file that only had 145MB of real data. Here is why SQLite hoards space and how I finally forced it to let go. I thought I had plenty of space, but a single libSQL file was hoarding 77GB of \"nothing.\"",
+    "Confidence": 0.94973075
+  },
+  {
+    "Title": "Your App Should Ship an MCP Server",
+    "Url": "https://justin.poehnelt.com/posts/ship-mcp-server-native-app/",
+    "Timestamp": "2026-05-03T00:02:17",
+    "Domain": "justin.poehnelt.com",
+    "Description": "I embedded an MCP server inside a native Rust prose editor. It became the single most impactful architectural decision I've made, not for users, but for how I build the product itself.",
+    "Confidence": 0.99750644
+  },
+  {
     "Title": "VideoLAN / dav2d · GitLab",
     "Url": "https://code.videolan.org/videolan/dav2d",
     "Timestamp": "2026-05-02T23:02:06",
@@ -70,165 +174,5 @@
     "Domain": "idiallo.com",
     "Description": "How is it possible that a feature I use every day, in an app I rely on daily, entirely offline, just disappeared from my phone?\n\nI use a fitness app. My metrics, such as steps, workout routines, heart",
     "Confidence": 0.9935745
-  },
-  {
-    "Title": "Why I Don’t Vibe Code",
-    "Url": "https://jacobharr.is/personal/i-dont-vibe-code",
-    "Timestamp": "2026-05-02T00:03:47",
-    "Domain": "jacobharr.is",
-    "Description": "A “brief” accounting of various reasons why vibe coding has just never clicked for me personally as a developer.",
-    "Confidence": 0.97356683
-  },
-  {
-    "Title": "Strong types are a non-negotiable for LLMs | HireUp",
-    "Url": "https://hireup.team/articles/strong-types-for-llms",
-    "Timestamp": "2026-05-02T00:03:44",
-    "Domain": "hireup.team",
-    "Description": "Why HireUp leans hard on the type system to let AI agents ship features quickly and confidently.",
-    "Confidence": 0.94273734
-  },
-  {
-    "Title": "Using “underdrawings” for accurate text and numbers",
-    "Url": "https://samcollins.blog/underdrawings/",
-    "Timestamp": "2026-05-02T00:03:40",
-    "Domain": "samcollins.blog",
-    "Description": "A technique for accurate text and numbers in AI-generated images: generate the layout deterministically, then ask the image model to paint on top.",
-    "Confidence": 0.98686075
-  },
-  {
-    "Title": "A Sum of Errors",
-    "Url": "https://lyonhe.art/a-sum-of-errors/",
-    "Timestamp": "2026-05-02T00:03:37",
-    "Domain": "lyonhe.art",
-    "Description": "Or, how to lie with numeric affordances",
-    "Confidence": 0.95085377
-  },
-  {
-    "Title": "Running hackathons: startup&scaleup edition",
-    "Url": "https://matloka.com/blog/internal-hackathon-playbook",
-    "Timestamp": "2026-05-02T00:03:33",
-    "Domain": "matloka.com",
-    "Description": "Hackathons are a type of drug - once an addict, always an addict. Here’s my internal hackathon playbook for every startup/scaleup.",
-    "Confidence": 0.9629527
-  },
-  {
-    "Title": "The resonance of Berkshire Hathaway",
-    "Url": "https://tinkelenberg.com/posts/the-resonance-of-berkshire-hathaway/",
-    "Timestamp": "2026-05-02T00:03:27",
-    "Domain": "tinkelenberg.com",
-    "Description": "Brands can be simple. Why Warren Buffett's company stands as an example of low-key brilliance.",
-    "Confidence": 0.792381
-  },
-  {
-    "Title": "Evolving Agent Memory — BenEmson.com",
-    "Url": "https://benemson.com/blog/agents/elfmem-evolving-agent-memory",
-    "Timestamp": "2026-05-02T00:03:23",
-    "Domain": "benemson.com",
-    "Description": "How elfmem builds agent memory with a self, mind blocks for simulating other minds, and a peer protocol so agents in different projects can talk to each other.",
-    "Confidence": 0.97066087
-  },
-  {
-    "Title": "Budget LTE Home Network | World of Matthew",
-    "Url": "https://worldofmatthew.com/blog/budgetnetwork/",
-    "Timestamp": "2026-05-02T00:03:20",
-    "Domain": "worldofmatthew.com",
-    "Description": "My Blog",
-    "Confidence": 0.971711
-  },
-  {
-    "Title": "There’s No Minimum Angel Check Size",
-    "Url": "https://zachholman.com/posts/minimum-angel-check",
-    "Timestamp": "2026-05-02T00:03:16",
-    "Domain": "zachholman.com",
-    "Description": "Written pieces, talks, and other bits by Zach Holman.",
-    "Confidence": 0.92127466
-  },
-  {
-    "Title": "Product market fit isn't a stage, it's a gauntlet — jonno.nz",
-    "Url": "https://jonno.nz/posts/product-market-fit-is-a-gauntlet/",
-    "Timestamp": "2026-05-02T00:03:12",
-    "Domain": "jonno.nz",
-    "Description": "PMF gets sold as a milestone. It's actually a gauntlet that bends founders, breaks teams, and quietly poisons technical decisions. Most of the damage isn't from missing PMF — it's from how you behave while looking for it.",
-    "Confidence": 0.83038944
-  },
-  {
-    "Title": "KV Cache Locality: The Hidden Variable in Your LLM Serving Cost",
-    "Url": "https://ranvier.systems/2026/04/30/kv-cache-locality-the-hidden-variable-in-your-llm-serving-cost.html",
-    "Timestamp": "2026-05-02T00:03:06",
-    "Domain": "ranvier.systems",
-    "Description": "Every time your load balancer sends a request to the wrong GPU, that GPU recomputes a prefill it already computed somewhere else. The KV cache for that 4,000-token system prompt exists. It’s just sitting on a different card. Your load balancer doesn’t know. It can’t know. It’s counting connections, not tokens.",
-    "Confidence": 0.9883832
-  },
-  {
-    "Title": "If Claude Writes the Code, What Makes Me Still a Developer?",
-    "Url": "https://betweentheprompts.com/if-claude-writes-the-code/",
-    "Timestamp": "2026-05-02T00:02:54",
-    "Domain": "betweentheprompts.com",
-    "Description": "It’s been three months since I last wrote a line of code.\nI still deliver features. I still solve problems, tackle architecture challenges, review PRs. I’m not a PM. I’m not a tech lead with a team of agents. I still consider myself a developer. But I am not doing the same job I was doing a year ago.\nThe gradient, not the cliff There was no single moment where I thought “this isn’t the same job anymore.",
-    "Confidence": 0.995678
-  },
-  {
-    "Title": "Ryan Bigg - NPM: putting the brown in brownout",
-    "Url": "https://ryanbigg.com/2026/04/npm-putting-the-brown-in-brownout",
-    "Timestamp": "2026-05-02T00:02:51",
-    "Domain": "ryanbigg.com",
-    "Description": "NPM: putting the brown in brownout",
-    "Confidence": 0.996074
-  },
-  {
-    "Title": "Spicadust",
-    "Url": "https://spicadust.com/blog/the-docs-diff-is-the-plan",
-    "Timestamp": "2026-05-02T00:02:44",
-    "Domain": "spicadust.com",
-    "Description": "minimalistic software",
-    "Confidence": 0.9480585
-  },
-  {
-    "Title": "Cloud Skills Are Still Just Skills",
-    "Url": "https://vexjoy.com/posts/cloud-skills-are-still-just-skills/",
-    "Timestamp": "2026-05-02T00:02:41",
-    "Domain": "vexjoy.com",
-    "Description": "I A/B tested /ultrareview against my own pr-review skill. The ultra features add a verification step. That's it. The opacity is the product, not the skill.",
-    "Confidence": 0.983921
-  },
-  {
-    "Title": "I Have Lived in your Camp",
-    "Url": "https://green.spacedino.net/i-have-lived-in-your-camp/",
-    "Timestamp": "2026-05-02T00:02:38",
-    "Domain": "green.spacedino.net",
-    "Description": "You think you know me based on text on a screen. Within the context of a few blog posts, you believe to know my life history, my presumed entitlement, my naivety, my background, and my sum total of wisdom.\n\nYou do not know me, but I know of you. I",
-    "Confidence": 0.81101716
-  },
-  {
-    "Title": "You can just do things",
-    "Url": "https://bhagyeshpathak.com/uncategorized/2026/03/30/you-can-just-do-things/",
-    "Timestamp": "2026-05-02T00:02:33",
-    "Domain": "bhagyeshpathak.com",
-    "Description": "In the age of AI, you don’t need permission to start. Here’s why you can—and should—just do things without waiting for approval.",
-    "Confidence": 0.98881894
-  },
-  {
-    "Title": "Word Embedding is Magic!",
-    "Url": "https://joker666.github.io/blog/2025-11-12-word-embedding-is-magic",
-    "Timestamp": "2026-05-02T00:02:29",
-    "Domain": "joker666.github.io",
-    "Description": "Word embedding is a magic trick that allows computers to understand language.",
-    "Confidence": 0.9827419
-  },
-  {
-    "Title": "A Deep Dive into Email Addresses",
-    "Url": "https://lasans.blog/articles/misc/email-addresses-deep-dive/",
-    "Timestamp": "2026-05-02T00:02:26",
-    "Domain": "lasans.blog",
-    "Description": "Most people think an email address is just a username and a domain. It is a lot more than that. This covers structure, rule, edge case, and security trap worth knowing about.",
-    "Confidence": 0.9917875
-  },
-  {
-    "Title": "Open Source Does Not Imply Open Community",
-    "Url": "https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/",
-    "Timestamp": "2026-05-02T00:02:22",
-    "Domain": "blog.feld.me",
-    "Description": "Open source software has existed long before the invention of the (D)VCS. The author likely hosted a barebones HTML webpage or a txt file describing the project. There definitely was an FTP server somewhere with tarballs. The author may have been reachable by email. If you were really lucky …",
-    "Confidence": 0.959601
   }
 ]

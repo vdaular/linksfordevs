@@ -7,6 +7,133 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The Partition Problem</title>
+      <link>https://parrik.com/puzzles/the-partition-problem/</link>
+      <description>A cancer cell is not a broken cell. It has lost context.</description>
+      <guid>https://parrik.com/puzzles/the-partition-problem/</guid>
+      <pubDate>Sun, 03 May 2026 00:03:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>We forgot how to write</title>
+      <link>https://www.timwehrle.de/blog/we-forgot-how-to-write/</link>
+      <description>Words from me as developer, student and human.</description>
+      <category>ai</category>
+      <guid>https://www.timwehrle.de/blog/we-forgot-how-to-write/</guid>
+      <pubDate>Sun, 03 May 2026 00:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Well, I got hacked</title>
+      <link>https://blog.vasi.li/well-i-got-hacked/</link>
+      <description>It wasn't too serious, it didn't really break containment that much...
+
+I was noticing that the qBittorrent app in my TrueNAS is constantly sitting at elevated CPU usage even though it was idle, but restarting it was usually enough for it to go back to zero. But it would come</description>
+      <category>containers</category>
+      <guid>https://blog.vasi.li/well-i-got-hacked/</guid>
+      <pubDate>Sun, 03 May 2026 00:02:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>wolfCOSE vs The Field: The Smallest, Most Complete COSE Implementation</title>
+      <link>https://aidangarske.github.io/wolfCOSE/blog/wolfcose-vs-the-field/</link>
+      <description>The Smallest, Most Complete COSE Implementation</description>
+      <category>apple</category>
+      <category>encryption</category>
+      <category>vscode</category>
+      <category>linux</category>
+      <guid>https://aidangarske.github.io/wolfCOSE/blog/wolfcose-vs-the-field/</guid>
+      <pubDate>Sun, 03 May 2026 00:02:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Squaring the circle on employee equity</title>
+      <link>https://blog.baldassari.me/employee-equity/</link>
+      <description>People work for startups for many reasons. They may like being part of a smaller
+team, getting more responsibilities, working at a faster pace with less red
+tape, feeling more connected to the mission. But despite regular advice to
+ignore equity, many employees greatly value access to startup equity and dream
+of an outsized outcome. This is why every startup talks up their equity package
+during their hiring process.</description>
+      <category>ai</category>
+      <guid>https://blog.baldassari.me/employee-equity/</guid>
+      <pubDate>Sun, 03 May 2026 00:02:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Path to Vibe Engineering</title>
+      <link>https://leandronsp.com/articles/path-to-vibe-engineering</link>
+      <description>2026, what a year to be alive. AI, LLMs, agents, agentic coding. On one side, the hype train. On the other, narratives built to invalidate everything the hype</description>
+      <category>ai</category>
+      <category>conference</category>
+      <category>rust</category>
+      <category>gaming</category>
+      <guid>https://leandronsp.com/articles/path-to-vibe-engineering</guid>
+      <pubDate>Sun, 03 May 2026 00:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Agentic Coding is Burning Me Out</title>
+      <link>https://0xsid.com/blog/agentic-coding-fatigue</link>
+      <description>The familiar pacing of software development has been completely compressed by agentic coding because you no longer have those routine stretches of just wiring things together to catch your breath. Writing code by hand, or trad coding as Twitter likes to call it, forced me to respect the natural ebb and flow of the problem solving process and get into a much more steady, sustainable rhythm.</description>
+      <category>ai</category>
+      <guid>https://0xsid.com/blog/agentic-coding-fatigue</guid>
+      <pubDate>Sun, 03 May 2026 00:02:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>How a Broken Bike Sync Led Me to Reverse Engineering My Wahoo’s Hidden Debug Mode</title>
+      <link>https://noahclements.com/Wahoo-Bolt-Hidden-Debug-Mode/</link>
+      <description>Reverse engineering the Wahoo ELEMNT Bolt v3 BLE protocol to unlock a hidden developer debug mode</description>
+      <category>android</category>
+      <category>ai</category>
+      <category>python</category>
+      <category>sql</category>
+      <guid>https://noahclements.com/Wahoo-Bolt-Hidden-Debug-Mode/</guid>
+      <pubDate>Sun, 03 May 2026 00:02:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Servers with Personality · Caolan</title>
+      <link>https://caolan.uk/links/servers/</link>
+      <description>By which, I mean: a server I can point to. Not just an anonymous
+    virtual machine but a physical device that somebody cares for.</description>
+      <category>android</category>
+      <category>linux</category>
+      <category>web</category>
+      <guid>https://caolan.uk/links/servers/</guid>
+      <pubDate>Sun, 03 May 2026 00:02:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Six Years Perfecting Maps on watchOS</title>
+      <link>https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/</link>
+      <description></description>
+      <category>cloud</category>
+      <category>apple</category>
+      <guid>https://www.david-smith.org/blog/2026/04/29/maps-on-watchos/</guid>
+      <pubDate>Sun, 03 May 2026 00:02:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why the Closest Large Galaxy Is Simultaneously 2.5 Million Years Away and Just Around the Corner – Josh Pearlson</title>
+      <link>https://joshpearlson.com/articles/posts/closest-galaxy-time-dilation/closest-galaxy-time-dilation.html</link>
+      <description>Andromeda is 2.5 million light-years away. At the speed of light, that’s a 2.5 million year trip. So why does the physics say the journey could feel like a short hop?</description>
+      <guid>https://joshpearlson.com/articles/posts/closest-galaxy-time-dilation/closest-galaxy-time-dilation.html</guid>
+      <pubDate>Sun, 03 May 2026 00:02:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why won't SQLite give back my disk space?</title>
+      <link>https://www.valiantlynx.com/blogs/why-wont-sqlite-give-back-my-disk-space</link>
+      <description>I found a 77GB database file that only had 145MB of real data. Here is why SQLite hoards space and how I finally forced it to let go. I thought I had plenty of space, but a single libSQL file was hoarding 77GB of "nothing."</description>
+      <category>sql</category>
+      <category>containers</category>
+      <category>linux</category>
+      <guid>https://www.valiantlynx.com/blogs/why-wont-sqlite-give-back-my-disk-space</guid>
+      <pubDate>Sun, 03 May 2026 00:02:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Your App Should Ship an MCP Server</title>
+      <link>https://justin.poehnelt.com/posts/ship-mcp-server-native-app/</link>
+      <description>I embedded an MCP server inside a native Rust prose editor. It became the single most impactful architectural decision I've made, not for users, but for how I build the product itself.</description>
+      <author> (https://justin.poehnelt.com/)</author>
+      <category>rust</category>
+      <category>javascript</category>
+      <category>ai</category>
+      <guid>https://justin.poehnelt.com/posts/ship-mcp-server-native-app/</guid>
+      <pubDate>Sun, 03 May 2026 00:02:17 GMT</pubDate>
+    </item>
+    <item>
       <title>VideoLAN / dav2d · GitLab</title>
       <link>https://code.videolan.org/videolan/dav2d</link>
       <description>dav2d is the fastest AV2 decoder on all platforms :) Targeted to be small, portable and very fast; similar to dav1d, but for AV2.</description>
@@ -92,193 +219,6 @@ of NetHack 3.6.</description>
 I use a fitness app. My metrics, such as steps, workout routines, heart</description>
       <guid>https://idiallo.com/blog/disable-auto-update?src=feed</guid>
       <pubDate>Sat, 02 May 2026 01:01:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why I Don’t Vibe Code</title>
-      <link>https://jacobharr.is/personal/i-dont-vibe-code</link>
-      <description>A “brief” accounting of various reasons why vibe coding has just never clicked for me personally as a developer.</description>
-      <category>ai</category>
-      <guid>https://jacobharr.is/personal/i-dont-vibe-code</guid>
-      <pubDate>Sat, 02 May 2026 00:03:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Strong types are a non-negotiable for LLMs | HireUp</title>
-      <link>https://hireup.team/articles/strong-types-for-llms</link>
-      <description>Why HireUp leans hard on the type system to let AI agents ship features quickly and confidently.</description>
-      <category>ai</category>
-      <category>typescript</category>
-      <guid>https://hireup.team/articles/strong-types-for-llms</guid>
-      <pubDate>Sat, 02 May 2026 00:03:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Using “underdrawings” for accurate text and numbers</title>
-      <link>https://samcollins.blog/underdrawings/</link>
-      <description>A technique for accurate text and numbers in AI-generated images: generate the layout deterministically, then ask the image model to paint on top.</description>
-      <author> (Sam Collins)</author>
-      <category>visualstudio</category>
-      <category>python</category>
-      <category>gaming</category>
-      <category>ai</category>
-      <category>web</category>
-      <guid>https://samcollins.blog/underdrawings/</guid>
-      <pubDate>Sat, 02 May 2026 00:03:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>A Sum of Errors</title>
-      <link>https://lyonhe.art/a-sum-of-errors/</link>
-      <description>Or, how to lie with numeric affordances</description>
-      <guid>https://lyonhe.art/a-sum-of-errors/</guid>
-      <pubDate>Sat, 02 May 2026 00:03:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Running hackathons: startup&amp;scaleup edition</title>
-      <link>https://matloka.com/blog/internal-hackathon-playbook</link>
-      <description>Hackathons are a type of drug - once an addict, always an addict. Here’s my internal hackathon playbook for every startup/scaleup.</description>
-      <category>ai</category>
-      <category>containers</category>
-      <guid>https://matloka.com/blog/internal-hackathon-playbook</guid>
-      <pubDate>Sat, 02 May 2026 00:03:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>The resonance of Berkshire Hathaway</title>
-      <link>https://tinkelenberg.com/posts/the-resonance-of-berkshire-hathaway/</link>
-      <description>Brands can be simple. Why Warren Buffett's company stands as an example of low-key brilliance.</description>
-      <category>ai</category>
-      <guid>https://tinkelenberg.com/posts/the-resonance-of-berkshire-hathaway/</guid>
-      <pubDate>Sat, 02 May 2026 00:03:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Evolving Agent Memory — BenEmson.com</title>
-      <link>https://benemson.com/blog/agents/elfmem-evolving-agent-memory</link>
-      <description>How elfmem builds agent memory with a self, mind blocks for simulating other minds, and a peer protocol so agents in different projects can talk to each other.</description>
-      <category>encryption</category>
-      <category>cloud</category>
-      <category>ai</category>
-      <category>python</category>
-      <guid>https://benemson.com/blog/agents/elfmem-evolving-agent-memory</guid>
-      <pubDate>Sat, 02 May 2026 00:03:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Budget LTE Home Network | World of Matthew</title>
-      <link>https://worldofmatthew.com/blog/budgetnetwork/</link>
-      <description>My Blog</description>
-      <guid>https://worldofmatthew.com/blog/budgetnetwork/</guid>
-      <pubDate>Sat, 02 May 2026 00:03:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>There’s No Minimum Angel Check Size</title>
-      <link>https://zachholman.com/posts/minimum-angel-check</link>
-      <description>Written pieces, talks, and other bits by Zach Holman.</description>
-      <category>gaming</category>
-      <guid>https://zachholman.com/posts/minimum-angel-check</guid>
-      <pubDate>Sat, 02 May 2026 00:03:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Product market fit isn't a stage, it's a gauntlet — jonno.nz</title>
-      <link>https://jonno.nz/posts/product-market-fit-is-a-gauntlet/</link>
-      <description>PMF gets sold as a milestone. It's actually a gauntlet that bends founders, breaks teams, and quietly poisons technical decisions. Most of the damage isn't from missing PMF — it's from how you behave while looking for it.</description>
-      <author> (John Gregoriadis)</author>
-      <category>ai</category>
-      <category>git</category>
-      <guid>https://jonno.nz/posts/product-market-fit-is-a-gauntlet/</guid>
-      <pubDate>Sat, 02 May 2026 00:03:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>KV Cache Locality: The Hidden Variable in Your LLM Serving Cost</title>
-      <link>https://ranvier.systems/2026/04/30/kv-cache-locality-the-hidden-variable-in-your-llm-serving-cost.html</link>
-      <description>Every time your load balancer sends a request to the wrong GPU, that GPU recomputes a prefill it already computed somewhere else. The KV cache for that 4,000-token system prompt exists. It’s just sitting on a different card. Your load balancer doesn’t know. It can’t know. It’s counting connections, not tokens.</description>
-      <category>cloud</category>
-      <category>ai</category>
-      <category>encryption</category>
-      <category>vscode</category>
-      <category>nodejs</category>
-      <guid>https://ranvier.systems/2026/04/30/kv-cache-locality-the-hidden-variable-in-your-llm-serving-cost.html</guid>
-      <pubDate>Sat, 02 May 2026 00:03:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>If Claude Writes the Code, What Makes Me Still a Developer?</title>
-      <link>https://betweentheprompts.com/if-claude-writes-the-code/</link>
-      <description>It’s been three months since I last wrote a line of code.
-I still deliver features. I still solve problems, tackle architecture challenges, review PRs. I’m not a PM. I’m not a tech lead with a team of agents. I still consider myself a developer. But I am not doing the same job I was doing a year ago.
-The gradient, not the cliff There was no single moment where I thought “this isn’t the same job anymore.</description>
-      <category>ai</category>
-      <guid>https://betweentheprompts.com/if-claude-writes-the-code/</guid>
-      <pubDate>Sat, 02 May 2026 00:02:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ryan Bigg - NPM: putting the brown in brownout</title>
-      <link>https://ryanbigg.com/2026/04/npm-putting-the-brown-in-brownout</link>
-      <description>NPM: putting the brown in brownout</description>
-      <category>nodejs</category>
-      <category>javascript</category>
-      <category>git</category>
-      <guid>https://ryanbigg.com/2026/04/npm-putting-the-brown-in-brownout</guid>
-      <pubDate>Sat, 02 May 2026 00:02:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spicadust</title>
-      <link>https://spicadust.com/blog/the-docs-diff-is-the-plan</link>
-      <description>minimalistic software</description>
-      <category>ai</category>
-      <category>rust</category>
-      <guid>https://spicadust.com/blog/the-docs-diff-is-the-plan</guid>
-      <pubDate>Sat, 02 May 2026 00:02:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cloud Skills Are Still Just Skills</title>
-      <link>https://vexjoy.com/posts/cloud-skills-are-still-just-skills/</link>
-      <description>I A/B tested /ultrareview against my own pr-review skill. The ultra features add a verification step. That's it. The opacity is the product, not the skill.</description>
-      <category>ai</category>
-      <guid>https://vexjoy.com/posts/cloud-skills-are-still-just-skills/</guid>
-      <pubDate>Sat, 02 May 2026 00:02:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>I Have Lived in your Camp</title>
-      <link>https://green.spacedino.net/i-have-lived-in-your-camp/</link>
-      <description>You think you know me based on text on a screen. Within the context of a few blog posts, you believe to know my life history, my presumed entitlement, my naivety, my background, and my sum total of wisdom.
-
-You do not know me, but I know of you. I</description>
-      <category>ai</category>
-      <category>gaming</category>
-      <guid>https://green.spacedino.net/i-have-lived-in-your-camp/</guid>
-      <pubDate>Sat, 02 May 2026 00:02:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>You can just do things</title>
-      <link>https://bhagyeshpathak.com/uncategorized/2026/03/30/you-can-just-do-things/</link>
-      <description>In the age of AI, you don’t need permission to start. Here’s why you can—and should—just do things without waiting for approval.</description>
-      <category>ai</category>
-      <category>android</category>
-      <guid>https://bhagyeshpathak.com/uncategorized/2026/03/30/you-can-just-do-things/</guid>
-      <pubDate>Sat, 02 May 2026 00:02:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Word Embedding is Magic!</title>
-      <link>https://joker666.github.io/blog/2025-11-12-word-embedding-is-magic</link>
-      <description>Word embedding is a magic trick that allows computers to understand language.</description>
-      <author> (Rafi Hasan)</author>
-      <guid>https://joker666.github.io/blog/2025-11-12-word-embedding-is-magic</guid>
-      <pubDate>Sat, 02 May 2026 00:02:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>A Deep Dive into Email Addresses</title>
-      <link>https://lasans.blog/articles/misc/email-addresses-deep-dive/</link>
-      <description>Most people think an email address is just a username and a domain. It is a lot more than that. This covers structure, rule, edge case, and security trap worth knowing about.</description>
-      <author> (Lasan Nishshanka)</author>
-      <category>apple</category>
-      <guid>https://lasans.blog/articles/misc/email-addresses-deep-dive/</guid>
-      <pubDate>Sat, 02 May 2026 00:02:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Open Source Does Not Imply Open Community</title>
-      <link>https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/</link>
-      <description>Open source software has existed long before the invention of the (D)VCS. The author likely hosted a barebones HTML webpage or a txt file describing the project. There definitely was an FTP server somewhere with tarballs. The author may have been reachable by email. If you were really lucky …</description>
-      <author> (feld)</author>
-      <category>git</category>
-      <category>ai</category>
-      <category>web</category>
-      <guid>https://blog.feld.me/posts/2026/04/open-source-does-not-imply-open-community/</guid>
-      <pubDate>Sat, 02 May 2026 00:02:22 GMT</pubDate>
     </item>
   </channel>
 </rss>
