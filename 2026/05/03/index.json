@@ -1,5 +1,12 @@
 [
   {
+    "Title": "A Couple Million Lines of Haskell: Production Engineering at Mercury | The Haskell Programming Language's blog",
+    "Url": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
+    "Timestamp": "2026-05-03T12:02:21",
+    "Domain": "blog.haskell.org",
+    "Description": "What it takes to run 2 million lines of Haskell in production at a fintech company serving 300,000 businesses."
+  },
+  {
     "Title": "An open-weights Chinese model just beat Claude, GPT-5.5, and Gemini in a programming challenge - ThinkPol",
     "Url": "https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/",
     "Timestamp": "2026-05-03T09:01:56",

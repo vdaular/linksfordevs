@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>A Couple Million Lines of Haskell: Production Engineering at Mercury | The Haskell Programming Language's blog</title>
+      <link>https://blog.haskell.org/a-couple-million-lines-of-haskell/</link>
+      <description>What it takes to run 2 million lines of Haskell in production at a fintech company serving 300,000 businesses.</description>
+      <category>rust</category>
+      <category>sql</category>
+      <guid>https://blog.haskell.org/a-couple-million-lines-of-haskell/</guid>
+      <pubDate>Sun, 03 May 2026 12:02:21 GMT</pubDate>
+    </item>
+    <item>
       <title>An open-weights Chinese model just beat Claude, GPT-5.5, and Gemini in a programming challenge - ThinkPol</title>
       <link>https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/</link>
       <description>By Rohana Rezel I’m running the ongoing AI Coding Contest where I pit major language models against each other in real-time programming tasks with objective scoring. Day 12 was the Word Gem Puzzle. Ten models entered. The results were not what most people would have predicted. Kimi K2.6, an open-weights model from Chinese startup Moonshot</description>
