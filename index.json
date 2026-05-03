@@ -166,13 +166,5 @@
     "Domain": "code.videolan.org",
     "Description": "dav2d is the fastest AV2 decoder on all platforms :) Targeted to be small, portable and very fast; similar to dav1d, but for AV2.",
     "Confidence": 0.9765264
-  },
-  {
-    "Title": "Enabling ai co author by default by cwebster-99 · Pull Request #310226 · microsoft/vscode",
-    "Url": "https://github.com/microsoft/vscode/pull/310226",
-    "Timestamp": "2026-05-02T22:02:14",
-    "Domain": "github.com",
-    "Description": "Visual Studio Code. Contribute to microsoft/vscode development by creating an account on GitHub.",
-    "Confidence": 0.983365
   }
 ]

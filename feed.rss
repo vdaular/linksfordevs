@@ -206,16 +206,5 @@ during their hiring process.</description>
       <guid>https://code.videolan.org/videolan/dav2d</guid>
       <pubDate>Sat, 02 May 2026 23:02:06 GMT</pubDate>
     </item>
-    <item>
-      <title>Enabling ai co author by default by cwebster-99 · Pull Request #310226 · microsoft/vscode</title>
-      <link>https://github.com/microsoft/vscode/pull/310226</link>
-      <description>Visual Studio Code. Contribute to microsoft/vscode development by creating an account on GitHub.</description>
-      <category>vscode</category>
-      <category>git</category>
-      <category>ai</category>
-      <category>javascript</category>
-      <guid>https://github.com/microsoft/vscode/pull/310226</guid>
-      <pubDate>Sat, 02 May 2026 22:02:14 GMT</pubDate>
-    </item>
   </channel>
 </rss>
