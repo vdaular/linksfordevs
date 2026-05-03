@@ -1,5 +1,13 @@
 [
   {
+    "Title": "acai.sh",
+    "Url": "https://acai.sh/blog/specsmaxxing",
+    "Timestamp": "2026-05-03T21:02:03",
+    "Domain": "acai.sh",
+    "Description": "The toolkit for spec-driven development. Write feature specs, not prompts. Ship better software with AI agents that understand your requirements.",
+    "Confidence": 0.9952432
+  },
+  {
     "Title": "A Couple Million Lines of Haskell: Production Engineering at Mercury | The Haskell Programming Language's blog",
     "Url": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
     "Timestamp": "2026-05-03T12:02:21",
@@ -166,13 +174,5 @@
     "Domain": "github.com",
     "Description": "Visual Studio Code. Contribute to microsoft/vscode development by creating an account on GitHub.",
     "Confidence": 0.983365
-  },
-  {
-    "Title": "NetHack 5.0.0: Release Notes",
-    "Url": "https://nethack.org/v500/release.html",
-    "Timestamp": "2026-05-02T21:02:04",
-    "Domain": "nethack.org",
-    "Description": "NetHack 5.0 is an enhancement to the dungeon exploration game NetHack,\nwhich is a distant descendent of Rogue and Hack, and a direct descendent\nof NetHack 3.6.",
-    "Confidence": 0.9759139
   }
 ]

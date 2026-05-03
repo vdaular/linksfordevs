@@ -1,5 +1,12 @@
 [
   {
+    "Title": "acai.sh",
+    "Url": "https://acai.sh/blog/specsmaxxing",
+    "Timestamp": "2026-05-03T21:02:03",
+    "Domain": "acai.sh",
+    "Description": "The toolkit for spec-driven development. Write feature specs, not prompts. Ship better software with AI agents that understand your requirements."
+  },
+  {
     "Title": "A Couple Million Lines of Haskell: Production Engineering at Mercury | The Haskell Programming Language's blog",
     "Url": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
     "Timestamp": "2026-05-03T12:02:21",

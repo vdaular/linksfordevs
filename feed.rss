@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>acai.sh</title>
+      <link>https://acai.sh/blog/specsmaxxing</link>
+      <description>The toolkit for spec-driven development. Write feature specs, not prompts. Ship better software with AI agents that understand your requirements.</description>
+      <category>nodejs</category>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://acai.sh/blog/specsmaxxing</guid>
+      <pubDate>Sun, 03 May 2026 21:02:03 GMT</pubDate>
+    </item>
+    <item>
       <title>A Couple Million Lines of Haskell: Production Engineering at Mercury | The Haskell Programming Language's blog</title>
       <link>https://blog.haskell.org/a-couple-million-lines-of-haskell/</link>
       <description>What it takes to run 2 million lines of Haskell in production at a fintech company serving 300,000 businesses.</description>
@@ -206,17 +216,6 @@ during their hiring process.</description>
       <category>javascript</category>
       <guid>https://github.com/microsoft/vscode/pull/310226</guid>
       <pubDate>Sat, 02 May 2026 22:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>NetHack 5.0.0: Release Notes</title>
-      <link>https://nethack.org/v500/release.html</link>
-      <description>NetHack 5.0 is an enhancement to the dungeon exploration game NetHack,
-which is a distant descendent of Rogue and Hack, and a direct descendent
-of NetHack 3.6.</description>
-      <category>gaming</category>
-      <category>web</category>
-      <guid>https://nethack.org/v500/release.html</guid>
-      <pubDate>Sat, 02 May 2026 21:02:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
