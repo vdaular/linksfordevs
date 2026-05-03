@@ -7,6 +7,210 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Feedback Loops :: Faster Safely</title>
+      <link>https://fastersafely.com/lean-software-engineering/principles/feedback-loops/</link>
+      <description>Feedback loops are crucial when trying to modify a system or build something new. Engineers can only safely move as fast as their comprehension of how a change impacts a system. The abilities and limitations of how computers and humans process information is massively important here; including how feedback information is stored, retrieved, and presented to systems and engineers.</description>
+      <category>ai</category>
+      <category>git</category>
+      <category>sql</category>
+      <guid>https://fastersafely.com/lean-software-engineering/principles/feedback-loops/</guid>
+      <pubDate>Sun, 03 May 2026 23:03:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>5 Years of Freelancing: same work, better pay, and a ceiling – Dylan Castillo</title>
+      <link>https://dylancastillo.co/posts/5-years-freelancing-in-europe.html</link>
+      <description></description>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://dylancastillo.co/posts/5-years-freelancing-in-europe.html</guid>
+      <pubDate>Sun, 03 May 2026 23:03:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>When is Nextcloud Overkill? | Samuele Amato</title>
+      <link>https://samueleamato.xyz/2026/05/03/you-dont-need-nextcloud</link>
+      <description>When is Nextcloud Overkill?</description>
+      <guid>https://samueleamato.xyz/2026/05/03/you-dont-need-nextcloud</guid>
+      <pubDate>Sun, 03 May 2026 23:03:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Boolean logic operators are not intuitive. Let's do better</title>
+      <link>https://charon.konekopi.com/posts/boolean_logic_naming/</link>
+      <description>&lt;h2 id="quick-whats-the-truth-table-of-xnor"&gt;Quick! What&amp;rsquo;s the truth table of XNOR?&lt;/h2&gt;
+&lt;p&gt;If you don&amp;rsquo;t catch that, don&amp;rsquo;t worry. Hopefully by</description>
+      <author> (map[email:charon@konekopi.com name:Evans Jahja])</author>
+      <guid>https://charon.konekopi.com/posts/boolean_logic_naming/</guid>
+      <pubDate>Sun, 03 May 2026 23:03:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why you should still type code in 2026</title>
+      <link>https://www.slater.dev/2026/05/type-your-code/</link>
+      <description>Why you should still type code in 2026</description>
+      <category>ai</category>
+      <category>vscode</category>
+      <guid>https://www.slater.dev/2026/05/type-your-code/</guid>
+      <pubDate>Sun, 03 May 2026 23:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>March 2026 Top 40 New CRAN Packages – R Works</title>
+      <link>https://rworks.dev/posts/march-2026-top-40-new-cran-packages/</link>
+      <description>An idiosyncratic, unabashedly biased, time-constrained attempt to capture the depth and breadth of the new packages submitted to CRAN in a single month entirely without the use of AI: clearly unsustainable, but maybe entertaining and somewhat useful.</description>
+      <category>ai</category>
+      <category>git</category>
+      <category>cloud</category>
+      <category>sql</category>
+      <guid>https://rworks.dev/posts/march-2026-top-40-new-cran-packages/</guid>
+      <pubDate>Sun, 03 May 2026 23:02:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Babysitting the Agent · Two weeks in, even with all the hooks I've built, working with the agent has become a chore. Every shipped feature ends with me clicking through it to find out what didn't actually work.</title>
+      <link>https://christophermeiklejohn.com/ai/zabriskie/agents/reliability/2026/05/03/click-the-button.html</link>
+      <description>Two weeks in, even with all the hooks I've built, working with the agent has become a chore. Every shipped feature ends with me clicking through it to find out what didn't actually work.</description>
+      <author> (Christopher Meiklejohn)</author>
+      <category>ai</category>
+      <guid>https://christophermeiklejohn.com/ai/zabriskie/agents/reliability/2026/05/03/click-the-button.html</guid>
+      <pubDate>Sun, 03 May 2026 23:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Do LLMs Reason, or Do They Just Predict Math Text?</title>
+      <link>https://daridor.blog/2026/05/01/do-llms-reason-or-do-they-just-predict-math-text/</link>
+      <description>When “predicts the next number” gets published as “knows how to reason.” INGA314.ai analysis of KisMATH (Saha et al., TACL 2026) TL;DR. KisMATH is a real and useful dat…</description>
+      <category>encryption</category>
+      <category>ai</category>
+      <category>nodejs</category>
+      <guid>https://daridor.blog/2026/05/01/do-llms-reason-or-do-they-just-predict-math-text/</guid>
+      <pubDate>Sun, 03 May 2026 23:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I freed a pool heat pump from an unencrypted Chinese cloud server</title>
+      <link>https://thomas-witt.com/blog/how-to-free-a-pool-heat-pump-from-an-unencrypted-chinese-server/</link>
+      <description>I have a pre-installed pool heat pump - an “AcquaSource” branded unit, the kind you can buy at any pool store in Europe - which supports WiFi. The App called “Pool Panel” wasn’t pretty, but it worked and I didn’t give it much thought. At one time, the remote control of the pump stopped responding: The pump itself was fine; the panel worked, the temperature held. So I decided to take a deeper look at how it all works. It turned out to be a security nightmare.</description>
+      <category>ruby</category>
+      <category>apple</category>
+      <category>containers</category>
+      <category>javascript</category>
+      <category>ai</category>
+      <guid>https://thomas-witt.com/blog/how-to-free-a-pool-heat-pump-from-an-unencrypted-chinese-server/</guid>
+      <pubDate>Sun, 03 May 2026 23:02:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hit and Run and a Business Idea</title>
+      <link>https://rozumem.xyz/posts/15</link>
+      <description>Rental car insurance is broken in Dubai. After being the victim of a hit and run, I believe there's a business opportunity to make it better.</description>
+      <author> (rozumem)</author>
+      <guid>https://rozumem.xyz/posts/15</guid>
+      <pubDate>Sun, 03 May 2026 23:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>vLLM Real-World Lab Report</title>
+      <link>https://avkcode.github.io/blog/how-vllm-works.html</link>
+      <description>The vLLM real-world lab models mixed production traffic instead of a single throughput number. FCK generated the request mixes, ran the scheduler and routing profiles, captured build outcomes, and emitted the evidence used for the charts below. The lab covers six request classes: interactive chat, RAG with repeated prefixes, long-prefill requests, agent tool loops, batch summarization, and slow streaming clients.</description>
+      <category>git</category>
+      <category>python</category>
+      <category>ai</category>
+      <guid>https://avkcode.github.io/blog/how-vllm-works.html</guid>
+      <pubDate>Sun, 03 May 2026 23:02:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>erm: A Local CLI That Strips Ums, Uhs, and Erms From Speech</title>
+      <link>https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/</link>
+      <description>A tour of erm, a local CLI that removes disfluencies from English speech recordings using faster-whisper, a few detectors that look at the audio directly, and ffmpeg.</description>
+      <author> (Doug Calobrisi)</author>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/</guid>
+      <pubDate>Sun, 03 May 2026 23:02:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Using IDEs as a Harness for Thinking and Writing</title>
+      <link>https://ravivyas.com/2026/05/03/ide-as-thinking-harness/</link>
+      <description>Why your primary AI workflow should be notes and files in an IDE, not a chat window. The IDE has become the harness for serious human thinking and writing.</description>
+      <category>git</category>
+      <category>vscode</category>
+      <category>ai</category>
+      <guid>https://ravivyas.com/2026/05/03/ide-as-thinking-harness/</guid>
+      <pubDate>Sun, 03 May 2026 23:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>No smoking gun</title>
+      <link>https://notoriousbfg.com/no-smoking-gun/</link>
+      <description>The personal blog of Tim White, Software Engineer from Somerset, UK.</description>
+      <category>git</category>
+      <category>python</category>
+      <category>ai</category>
+      <guid>https://notoriousbfg.com/no-smoking-gun/</guid>
+      <pubDate>Sun, 03 May 2026 23:02:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Your Container Is Not a Sandbox</title>
+      <link>https://emirb.github.io/blog/microvm-2026/</link>
+      <description>The microVM ecosystem was battle-tested long before agentic AI created the demand. A landscape survey: every VMM, the shared Rust crate ecosystem, a dozen AI sandbox platforms, and honest trade-offs.</description>
+      <author> (Emir Beganović)</author>
+      <category>cloud</category>
+      <category>rust</category>
+      <category>containers</category>
+      <category>nodejs</category>
+      <category>linux</category>
+      <guid>https://emirb.github.io/blog/microvm-2026/</guid>
+      <pubDate>Sun, 03 May 2026 23:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>CPU work and GPU work · Tal Hoffman</title>
+      <link>https://www.talhoffman.com/2026/05/03/cpu-work-and-gpu-work/</link>
+      <description>The discourse around AI agents has gotten ahead of the practice. Most of what you read assumes we already know which work to point them at, and the rest treats the question as one of how aggressive to be rather than whether the task even fits. What's missing is not urgency but clarity about which work actually fits.</description>
+      <category>ai</category>
+      <guid>https://www.talhoffman.com/2026/05/03/cpu-work-and-gpu-work/</guid>
+      <pubDate>Sun, 03 May 2026 23:02:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lzon.ca. A personal blog, by a programmer and IT expert.</title>
+      <link>https://lzon.ca/posts/series/grateful/keep-android-open/</link>
+      <description>A personal blog, by a programmer and IT expert. Essays, Articles, Guides, and Recipes. As well as Code, Quotes, and Links.</description>
+      <category>android</category>
+      <category>apple</category>
+      <category>gaming</category>
+      <guid>https://lzon.ca/posts/series/grateful/keep-android-open/</guid>
+      <pubDate>Sun, 03 May 2026 23:02:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>My Agent Memory Library Helps Write Indie Articles</title>
+      <link>https://benemson.com/blog/agents/my-agent-memory-library-helps-write-indie-articles</link>
+      <description>Can a custom memory library help an agent write good indie dev articles? We test it live: elfmem-grounded research, vault recall, peer agent communication, and a human editor. Here is what came out.</description>
+      <author> (Ben Emson)</author>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://benemson.com/blog/agents/my-agent-memory-library-helps-write-indie-articles</guid>
+      <pubDate>Sun, 03 May 2026 23:02:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I Use Codex CLI to Write and Maintain a Book on Codex CLI</title>
+      <link>https://blog.danielvaughan.com/how-i-use-codex-cli-to-write-and-maintain-a-book-on-codex-cli-048084d9ab48</link>
+      <description>I have a 32-chapter book about Codex CLI that updates itself daily. An always-on agent named Andy (the default name in NanoClaw, because I…</description>
+      <author> (https://blog.danielvaughan.com)</author>
+      <category>encryption</category>
+      <category>ai</category>
+      <category>git</category>
+      <category>containers</category>
+      <category>youtube</category>
+      <guid>https://blog.danielvaughan.com/how-i-use-codex-cli-to-write-and-maintain-a-book-on-codex-cli-048084d9ab48</guid>
+      <pubDate>Sun, 03 May 2026 23:02:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Writing a bindless GPU abstraction layer</title>
+      <link>https://www.kevin-gibson.com/blog/writing-a-bindless-gpu-abstraction-layer/</link>
+      <description>Back in December 2025, Sebastian Aaltonen published a blog titled “No Graphics API” - it presented a great history of the evolution of GPU hardware, and gave an opinionated perspective on how we could simplify the modern graphics APIs on modern hardware. Like many graphics programmers, I read Sebastian’s blog post and really enjoyed it - I was inspired by it, and decided to see how close to the API he describes I could get today, layered on top of existing platform APIs. The answer turns out to be “pretty darn close”. The result is a project I’m calling Loon GPU, and I’ve put it up on Github. While the library is still rough, poorly tested and surely filled with bugs, it is usable and I wanted to share it early in case other folks were interested. Currently it has a Vulkan 1.3 and Metal 4 backend, and here I want to do a high-level walkthrough to see how the API design maps on to those backends.</description>
+      <guid>https://www.kevin-gibson.com/blog/writing-a-bindless-gpu-abstraction-layer/</guid>
+      <pubDate>Sun, 03 May 2026 23:02:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Prompt Engineering Is Permanent</title>
+      <link>https://yiblet.com/posts/prompt-engineering-is-permanent/</link>
+      <description>I thought better models would make prompt engineering disappear. Instead, they became even more important.</description>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://yiblet.com/posts/prompt-engineering-is-permanent/</guid>
+      <pubDate>Sun, 03 May 2026 23:02:05 GMT</pubDate>
+    </item>
+    <item>
       <title>acai.sh</title>
       <link>https://acai.sh/blog/specsmaxxing</link>
       <description>The toolkit for spec-driven development. Write feature specs, not prompts. Ship better software with AI agents that understand your requirements.</description>
@@ -197,14 +401,6 @@ during their hiring process.</description>
       <category>ai</category>
       <guid>https://justin.poehnelt.com/posts/ship-mcp-server-native-app/</guid>
       <pubDate>Sun, 03 May 2026 00:02:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>VideoLAN / dav2d · GitLab</title>
-      <link>https://code.videolan.org/videolan/dav2d</link>
-      <description>dav2d is the fastest AV2 decoder on all platforms :) Targeted to be small, portable and very fast; similar to dav1d, but for AV2.</description>
-      <category>git</category>
-      <guid>https://code.videolan.org/videolan/dav2d</guid>
-      <pubDate>Sat, 02 May 2026 23:02:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
