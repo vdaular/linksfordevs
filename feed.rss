@@ -201,17 +201,5 @@ of NetHack 3.6.</description>
       <guid>https://www.noctua.at/en/expertise/blog/how-can-it-take-so-long-to-release-black-fan-versions</guid>
       <pubDate>Sat, 02 May 2026 11:02:11 GMT</pubDate>
     </item>
-    <item>
-      <title>Editing my LLM assisted articles</title>
-      <link>https://idiallo.com/byte-size/editing-llm-assisted-articles?src=feed</link>
-      <description>There is a price to pay when you use LLM generated articles. They may be functional, but they do not capture the human experience. I'm rewriting them all.</description>
-      <category>gaming</category>
-      <category>nodejs</category>
-      <category>cloud</category>
-      <category>sql</category>
-      <category>web</category>
-      <guid>https://idiallo.com/byte-size/editing-llm-assisted-articles?src=feed</guid>
-      <pubDate>Sat, 02 May 2026 03:02:06 GMT</pubDate>
-    </item>
   </channel>
 </rss>
