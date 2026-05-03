@@ -1,5 +1,12 @@
 [
   {
+    "Title": "What do CPUs do when there's nothing to do?",
+    "Url": "https://youtube.com/watch?v=UXd8MfTJQVg",
+    "Timestamp": "2026-05-03T01:01:50",
+    "Domain": "youtube.com",
+    "Description": "Dave explains what happens to unused cycles on your PC and why Task Manager can only display an approximation of the CPU used!"
+  },
+  {
     "Title": "The Partition Problem",
     "Url": "https://parrik.com/puzzles/the-partition-problem/",
     "Timestamp": "2026-05-03T00:03:05",

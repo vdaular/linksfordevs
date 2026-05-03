@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>What do CPUs do when there's nothing to do?</title>
+      <link>https://youtube.com/watch?v=UXd8MfTJQVg</link>
+      <description>Dave explains what happens to unused cycles on your PC and why Task Manager can only display an approximation of the CPU used!</description>
+      <author> (Dave's Garage)</author>
+      <category>youtube</category>
+      <guid>https://youtube.com/watch?v=UXd8MfTJQVg</guid>
+      <pubDate>Sun, 03 May 2026 01:01:50 GMT</pubDate>
+    </item>
+    <item>
       <title>The Partition Problem</title>
       <link>https://parrik.com/puzzles/the-partition-problem/</link>
       <description>A cancer cell is not a broken cell. It has lost context.</description>
@@ -203,22 +212,6 @@ of NetHack 3.6.</description>
       <category>web</category>
       <guid>https://idiallo.com/byte-size/editing-llm-assisted-articles?src=feed</guid>
       <pubDate>Sat, 02 May 2026 03:02:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>TI-84 Evo Graphing Calculator | Texas Instruments</title>
-      <link>https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo</link>
-      <description>The TI-84 Evo is the most advanced graphing calculator in the TI-84 series. Ideal for algebra, geometry, calculus, and advanced math courses in secondary schools. Learn more.</description>
-      <guid>https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo</guid>
-      <pubDate>Sat, 02 May 2026 01:02:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Disable Auto-Update</title>
-      <link>https://idiallo.com/blog/disable-auto-update?src=feed</link>
-      <description>How is it possible that a feature I use every day, in an app I rely on daily, entirely offline, just disappeared from my phone?
-
-I use a fitness app. My metrics, such as steps, workout routines, heart</description>
-      <guid>https://idiallo.com/blog/disable-auto-update?src=feed</guid>
-      <pubDate>Sat, 02 May 2026 01:01:58 GMT</pubDate>
     </item>
   </channel>
 </rss>

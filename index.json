@@ -1,5 +1,13 @@
 [
   {
+    "Title": "What do CPUs do when there's nothing to do?",
+    "Url": "https://youtube.com/watch?v=UXd8MfTJQVg",
+    "Timestamp": "2026-05-03T01:01:50",
+    "Domain": "youtube.com",
+    "Description": "Dave explains what happens to unused cycles on your PC and why Task Manager can only display an approximation of the CPU used!",
+    "Confidence": 0.9020008
+  },
+  {
     "Title": "The Partition Problem",
     "Url": "https://parrik.com/puzzles/the-partition-problem/",
     "Timestamp": "2026-05-03T00:03:05",
@@ -158,21 +166,5 @@
     "Domain": "idiallo.com",
     "Description": "There is a price to pay when you use LLM generated articles. They may be functional, but they do not capture the human experience. I'm rewriting them all.",
     "Confidence": 0.98594433
-  },
-  {
-    "Title": "TI-84 Evo Graphing Calculator | Texas Instruments",
-    "Url": "https://education.ti.com/en/products/calculators/graphing-calculators/ti-84-evo",
-    "Timestamp": "2026-05-02T01:02:03",
-    "Domain": "education.ti.com",
-    "Description": "The TI-84 Evo is the most advanced graphing calculator in the TI-84 series. Ideal for algebra, geometry, calculus, and advanced math courses in secondary schools. Learn more.",
-    "Confidence": 0.955498
-  },
-  {
-    "Title": "Disable Auto-Update",
-    "Url": "https://idiallo.com/blog/disable-auto-update?src=feed",
-    "Timestamp": "2026-05-02T01:01:58",
-    "Domain": "idiallo.com",
-    "Description": "How is it possible that a feature I use every day, in an app I rely on daily, entirely offline, just disappeared from my phone?\n\nI use a fitness app. My metrics, such as steps, workout routines, heart",
-    "Confidence": 0.9935745
   }
 ]
