@@ -1,5 +1,13 @@
 [
   {
+    "Title": "The text mode lie: why modern TUIs are a nightmare for accessibility",
+    "Url": "https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility",
+    "Timestamp": "2026-05-04T14:02:11",
+    "Domain": "xogium.me",
+    "Description": "The mythical, it's text, so it's accessible  There is a persistent misconception among sighted developers: if an application runs in a te...",
+    "Confidence": 0.9865972
+  },
+  {
     "Title": "Trademark Violation: Fake Notepad++ for Mac",
     "Url": "https://notepad-plus-plus.org/news/npp-trademark-infringement/",
     "Timestamp": "2026-05-04T13:02:22",
