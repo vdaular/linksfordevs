@@ -1,5 +1,13 @@
 [
   {
+    "Title": "I am worried about Bun",
+    "Url": "https://wwj.dev/posts/i-am-worried-about-bun/",
+    "Timestamp": "2026-05-04T21:02:15",
+    "Domain": "wwj.dev",
+    "Description": "Bun is excellent software. Anthropic owns it now, Bun sits under Claude Code, and Claude Code getting worse makes me worried Bun could follow the same enshittification path.",
+    "Confidence": 0.9840592
+  },
+  {
     "Title": "Days Without GitHub Incident",
     "Url": "https://www.dayswithoutgithubincident.com/",
     "Timestamp": "2026-05-04T19:02:12",
@@ -286,13 +294,5 @@
     "Domain": "yiblet.com",
     "Description": "I thought better models would make prompt engineering disappear. Instead, they became even more important.",
     "Confidence": 0.96104234
-  },
-  {
-    "Title": "acai.sh",
-    "Url": "https://acai.sh/blog/specsmaxxing",
-    "Timestamp": "2026-05-03T21:02:03",
-    "Domain": "acai.sh",
-    "Description": "The toolkit for spec-driven development. Write feature specs, not prompts. Ship better software with AI agents that understand your requirements.",
-    "Confidence": 0.9952432
   }
 ]

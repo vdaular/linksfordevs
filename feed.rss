@@ -7,6 +7,19 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>I am worried about Bun</title>
+      <link>https://wwj.dev/posts/i-am-worried-about-bun/</link>
+      <description>Bun is excellent software. Anthropic owns it now, Bun sits under Claude Code, and Claude Code getting worse makes me worried Bun could follow the same enshittification path.</description>
+      <author> (William Johnston)</author>
+      <category>nodejs</category>
+      <category>typescript</category>
+      <category>ai</category>
+      <category>javascript</category>
+      <category>git</category>
+      <guid>https://wwj.dev/posts/i-am-worried-about-bun/</guid>
+      <pubDate>Mon, 04 May 2026 21:02:15 GMT</pubDate>
+    </item>
+    <item>
       <title>Days Without GitHub Incident</title>
       <link>https://www.dayswithoutgithubincident.com/</link>
       <description>Last Incident:</description>
@@ -353,16 +366,6 @@ https://shop.dataparty.xyz/products/byomesh
       <category>sql</category>
       <guid>https://yiblet.com/posts/prompt-engineering-is-permanent/</guid>
       <pubDate>Sun, 03 May 2026 23:02:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>acai.sh</title>
-      <link>https://acai.sh/blog/specsmaxxing</link>
-      <description>The toolkit for spec-driven development. Write feature specs, not prompts. Ship better software with AI agents that understand your requirements.</description>
-      <category>nodejs</category>
-      <category>ai</category>
-      <category>javascript</category>
-      <guid>https://acai.sh/blog/specsmaxxing</guid>
-      <pubDate>Sun, 03 May 2026 21:02:03 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,12 @@
 [
   {
+    "Title": "I am worried about Bun",
+    "Url": "https://wwj.dev/posts/i-am-worried-about-bun/",
+    "Timestamp": "2026-05-04T21:02:15",
+    "Domain": "wwj.dev",
+    "Description": "Bun is excellent software. Anthropic owns it now, Bun sits under Claude Code, and Claude Code getting worse makes me worried Bun could follow the same enshittification path."
+  },
+  {
     "Title": "Days Without GitHub Incident",
     "Url": "https://www.dayswithoutgithubincident.com/",
     "Timestamp": "2026-05-04T19:02:12",
