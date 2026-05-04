@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Metal Gear Solid 2's HD Port Just Had Its Entire Source Code Leaked",
+    "Url": "https://www.thegamer.com/mgs2-hd-edition-source-code-massive-leak/",
+    "Timestamp": "2026-05-04T07:02:06",
+    "Domain": "www.thegamer.com",
+    "Description": "The HD version, specifically its Vita port, has been busted wide open all these years later.",
+    "Confidence": 0.901431
+  },
+  {
     "Title": "Agentic Coding is a Trap | Lars Faye",
     "Url": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
     "Timestamp": "2026-05-04T06:02:20",
@@ -246,13 +254,5 @@
     "Domain": "www.seangoedecke.com",
     "Description": "The most influential piece of writing about staff engineers in the last decade has to be Will Larson’s Staff engineer archetypes. He argues that the “staff engineer” title covers at least four very different roles: the team lead, the architect, the solver, and the right hand. This taxonomy gets cited a lot as advice for people who are trying to become effective staff engineers. For both of my promotions to staff engineer, my manager at the time linked me to the “staff engineer archetypes” and asked me to consider which of these archetypes I was aiming towards.",
     "Confidence": 0.98064804
-  },
-  {
-    "Title": "This Month in Ladybird - April 2026 - Ladybird",
-    "Url": "https://ladybird.org/newsletter/2026-04-30/",
-    "Timestamp": "2026-05-03T07:02:44",
-    "Domain": "ladybird.org",
-    "Description": "Inline PDF viewer powered by pdf.js, GTK4 frontend, browsing history, speculative HTML parsing, off-thread JS compilation, async DNS, CSS anchor positioning, and more.",
-    "Confidence": 0.94043255
   }
 ]
