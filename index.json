@@ -1,5 +1,197 @@
 [
   {
+    "Title": "We Can Do Hard Things",
+    "Url": "https://allenpike.com/2026/we-can-do-hard-things/",
+    "Timestamp": "2026-05-04T23:03:50",
+    "Domain": "allenpike.com",
+    "Description": "On getting uncomfortable.",
+    "Confidence": 0.9740633
+  },
+  {
+    "Title": "Oomphalism",
+    "Url": "https://joeldueck.com/oomphalism.html",
+    "Timestamp": "2026-05-04T23:03:46",
+    "Domain": "joeldueck.com",
+    "Description": "Naming the corporate mode of perception",
+    "Confidence": 0.9086539
+  },
+  {
+    "Title": "What five years of solo development taught me — Tyler Boyd",
+    "Url": "https://www.tylerevan.dev/writing/five-years-solo",
+    "Timestamp": "2026-05-04T23:03:42",
+    "Domain": "www.tylerevan.dev",
+    "Description": "What I learned from five years as the only developer at a small, growing company — and what's already transferring now that I'm not solo anymore.",
+    "Confidence": 0.9902716
+  },
+  {
+    "Title": "Equal Ping for All",
+    "Url": "https://bagnalla.github.io/posts/ping-charity.html",
+    "Timestamp": "2026-05-04T23:03:39",
+    "Domain": "bagnalla.github.io",
+    "Description": "How does that “equal ping” thing work? It is not that complicated, but for now, I rather keep the secret buried in the source code (too lazy to explain it right now…).",
+    "Confidence": 0.986773
+  },
+  {
+    "Title": "What I Got Wrong Implementing Graph-Based Vector Search",
+    "Url": "https://dubeykartikay.com/posts/reading-algorithms-like-an-engineer/",
+    "Timestamp": "2026-05-04T23:03:35",
+    "Domain": "dubeykartikay.com",
+    "Description": "A dev log about implementing a Vamana-style ANN index from the DiskANN paper, why my first version was slower than brute force, and what it taught me about reading algorithms with implementation in mind.",
+    "Confidence": 0.9737958
+  },
+  {
+    "Title": "Growth engineering one pager | Jordan Lord",
+    "Url": "https://jordanlord.co.uk/blog/growth-engineering/",
+    "Timestamp": "2026-05-04T23:03:32",
+    "Domain": "jordanlord.co.uk",
+    "Description": "['Programmer', 'Computer nerd', 'Unix enthusiast'];",
+    "Confidence": 0.97643965
+  },
+  {
+    "Title": "AI didn't delete your database, you did",
+    "Url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did?src=feed",
+    "Timestamp": "2026-05-04T23:03:28",
+    "Domain": "idiallo.com",
+    "Description": "Last week, a tweet went viral showing a guy claiming that a Cursor/Claude agent deleted his company's production database. We watched from the sidelines as he tried to get a confession from the agent:",
+    "Confidence": 0.97214675
+  },
+  {
+    "Title": "Thoughts on the #slopdemic",
+    "Url": "https://cje.io/2026/05/04/thoughts-on-the-slopdemic/",
+    "Timestamp": "2026-05-04T23:03:25",
+    "Domain": "cje.io",
+    "Description": "Move over #vulnpocalypse — there's a new term we need to talk about: the #slopdemic. AI didn't invent low-quality vuln reports, but it just turbocharged them, and F/OSS is drowning.",
+    "Confidence": 0.9548243
+  },
+  {
+    "Title": "Infinite Image Grids are Flat Toruses",
+    "Url": "https://seththompson.com/articles/infinite-image-grids",
+    "Timestamp": "2026-05-04T23:03:21",
+    "Domain": "seththompson.com",
+    "Description": "Seth Thompson is a designer and software engineer in New York. His work engages with spatial representation and computational image-making.",
+    "Confidence": 0.9975059
+  },
+  {
+    "Title": "Verifying Poseidon in Clean: Why the Last 'sorry' Is About Primality",
+    "Url": "https://blog.zksecurity.xyz/posts/poseidon-clean/",
+    "Timestamp": "2026-05-04T23:03:17",
+    "Domain": "blog.zksecurity.xyz",
+    "Description": "We walk through a Lean 4 proof of correctness for a Clean model of circomlib's optimized Poseidon hash circuit at arity 1. The theorem says the modeled constraints are sound and complete with respect to the optimized Poseidon spec. After weeks of work, the only remaining `sorry` was a primality proof for the BN254 scalar field: a 254-bit number that no proof assistant can decide by trial division. Closing it requires a Pratt certificate, a recursive proof structure based on a theorem Lucas published in 1876.",
+    "Confidence": 0.9963525
+  },
+  {
+    "Title": "Don't fly if you can help it",
+    "Url": "https://michaelbluejay.com/airfare/dontfly.html",
+    "Timestamp": "2026-05-04T23:03:13",
+    "Domain": "michaelbluejay.com",
+    "Description": "Flying or frying?  Air trips release huge quantities of\n        greenhouse gases, and they do so up in the sky where they're more\n        damaging.  If you can, try to find an alternative to flying,\n          such as:",
+    "Confidence": 0.8991841
+  },
+  {
+    "Title": "14 Years of Mistakes to “Make Something People Want”",
+    "Url": "https://nmn.gl/blog/meditations-on-make-something-people-want",
+    "Timestamp": "2026-05-04T23:03:10",
+    "Domain": "nmn.gl",
+    "Description": "I just got accepted into Y Combinator. It feels like a dream, because their motto is something I’ve been turning over in my head since I was a kid reading Paul Graham’s essays on a CRT monitor. “Make something people want” sounds like simple four words, but it took me 14 years to unravel their deepest meaning.",
+    "Confidence": 0.9387151
+  },
+  {
+    "Title": "That time at Microsoft when I made part of Windows 100X faster...",
+    "Url": "https://youtube.com/watch?v=VYTF4KIF2z0",
+    "Timestamp": "2026-05-04T23:03:06",
+    "Domain": "youtube.com",
+    "Description": "When I was a Windows developer in 1994, I discovered a routine that was called continually but written very inefficiently; this is the story of how I fixed it!",
+    "Confidence": 0.8709274
+  },
+  {
+    "Title": "Screw you Realtek",
+    "Url": "https://www.growse.com/2026/05/02/screw-you-realtek.html",
+    "Timestamp": "2026-05-04T23:03:04",
+    "Domain": "www.growse.com",
+    "Description": "",
+    "Confidence": 0.9688879
+  },
+  {
+    "Title": "The Scooter and the Bike",
+    "Url": "https://maxmautner.com/2026/04/12/scooter-vs-bike.html",
+    "Timestamp": "2026-05-04T23:03:01",
+    "Domain": "maxmautner.com",
+    "Description": "A comparison of kickscooters and bicycles across learning curve, energy efficiency, cost, portability, and theft risk — and what the differences mean for urban transportation advocates and anyone trying to get out of their car.",
+    "Confidence": 0.8932507
+  },
+  {
+    "Title": "Parachuting In | Kevin London",
+    "Url": "https://www.kevinlondon.com/2026/04/15/parachuting-in/",
+    "Timestamp": "2026-05-04T23:02:57",
+    "Domain": "www.kevinlondon.com",
+    "Description": "I don't hand-write code anymore. The hard parts didn't go away.",
+    "Confidence": 0.9654505
+  },
+  {
+    "Title": "Nondeterminism's not the problem",
+    "Url": "https://isaacvando.com/nondeterminisms-not-the-problem",
+    "Timestamp": "2026-05-04T23:02:53",
+    "Domain": "isaacvando.com",
+    "Description": "Nondeterminism isn't why LLMs struggle",
+    "Confidence": 0.9860512
+  },
+  {
+    "Title": "The transmission",
+    "Url": "https://agourlay.github.io/the-transmission/",
+    "Timestamp": "2026-05-04T23:02:50",
+    "Domain": "agourlay.github.io",
+    "Description": "Yet another programming blog",
+    "Confidence": 0.7179382
+  },
+  {
+    "Title": "On versioning",
+    "Url": "https://ssg.dev/on-versioning/",
+    "Timestamp": "2026-05-04T23:02:42",
+    "Domain": "ssg.dev",
+    "Description": "I didn’t investigate the history of versioning per se, but I’m pretty sure first version numbers were just simple integers: 1, 2… Apollo…",
+    "Confidence": 0.9903307
+  },
+  {
+    "Title": "Not Shay",
+    "Url": "https://www.shaylivni.com/blog/make-architecture-context-queryable",
+    "Timestamp": "2026-05-04T23:02:39",
+    "Domain": "www.shaylivni.com",
+    "Description": "Portfolio of Not Shay. Building innovative solutions and creating impact.",
+    "Confidence": 0.9361284
+  },
+  {
+    "Title": "I Bought a Denon for My Wedding. Twelve Years Later, I Vibe-Coded Its Radio Back to Life.",
+    "Url": "https://victorantos.com/posts/i-bought-a-denon-for-my-wedding-then-i-vibe-coded-its-radio-back/",
+    "Timestamp": "2026-05-04T23:02:34",
+    "Domain": "victorantos.com",
+    "Description": "Twelve years ago today, I bought my first audio amplifier.",
+    "Confidence": 0.9519927
+  },
+  {
+    "Title": "How I Actually Automate Everything",
+    "Url": "https://effective-programmer.com/how-i-actually-automate-everything-0d97ed624a34?sk=f8a15ad7e32cde79a085bb4f40330eae",
+    "Timestamp": "2026-05-04T23:02:30",
+    "Domain": "effective-programmer.com",
+    "Description": "Without OpenClaw or Claude",
+    "Confidence": 0.97917974
+  },
+  {
+    "Title": "Ten Years of Frinkiac",
+    "Url": "https://langui.sh/2026/05/04/ten-years-of-frinkiac/",
+    "Timestamp": "2026-05-04T23:02:25",
+    "Domain": "langui.sh",
+    "Description": "It’s been just over ten years (February 2, 2016) since we launched Frinkiac to the public. In those first few months after release we added GIF support, some new sites (hello Morbotron), and then we mostly stopped working on it. Everything worked well enough for us and the code sat unchanged on the same architecture we’d built in 2015.",
+    "Confidence": 0.9615648
+  },
+  {
+    "Title": "Become a Product-First Software Engineer",
+    "Url": "https://www.jakeworth.com/posts/become-a-product-first-software-engineer/",
+    "Timestamp": "2026-05-04T23:02:22",
+    "Domain": "www.jakeworth.com",
+    "Description": "I think many engineers would be better contributors if they started to think more about the customer impact of their work.",
+    "Confidence": 0.98253644
+  },
+  {
     "Title": "I am worried about Bun",
     "Url": "https://wwj.dev/posts/i-am-worried-about-bun/",
     "Timestamp": "2026-05-04T21:02:15",
@@ -126,173 +318,5 @@
     "Domain": "wiki.alcidesfonseca.com",
     "Description": "Terminal User Interfaces (TUIs) are making a comeback. DHH’s Omarchy is made of three types of user interfaces: TUIs, for immediate feedback and bonus geek points, webapps because 37signals (his company) sells SAAS web applications and the unavoidable gnome-style native applications that really do not fit well in the style of the distro.",
     "Confidence": 0.99345976
-  },
-  {
-    "Title": "Feedback Loops :: Faster Safely",
-    "Url": "https://fastersafely.com/lean-software-engineering/principles/feedback-loops/",
-    "Timestamp": "2026-05-03T23:03:18",
-    "Domain": "fastersafely.com",
-    "Description": "Feedback loops are crucial when trying to modify a system or build something new. Engineers can only safely move as fast as their comprehension of how a change impacts a system. The abilities and limitations of how computers and humans process information is massively important here; including how feedback information is stored, retrieved, and presented to systems and engineers.",
-    "Confidence": 0.99430114
-  },
-  {
-    "Title": "5 Years of Freelancing: same work, better pay, and a ceiling – Dylan Castillo",
-    "Url": "https://dylancastillo.co/posts/5-years-freelancing-in-europe.html",
-    "Timestamp": "2026-05-03T23:03:15",
-    "Domain": "dylancastillo.co",
-    "Description": "",
-    "Confidence": 0.9501605
-  },
-  {
-    "Title": "When is Nextcloud Overkill? | Samuele Amato",
-    "Url": "https://samueleamato.xyz/2026/05/03/you-dont-need-nextcloud",
-    "Timestamp": "2026-05-03T23:03:11",
-    "Domain": "samueleamato.xyz",
-    "Description": "When is Nextcloud Overkill?",
-    "Confidence": 0.98990077
-  },
-  {
-    "Title": "Boolean logic operators are not intuitive. Let's do better",
-    "Url": "https://charon.konekopi.com/posts/boolean_logic_naming/",
-    "Timestamp": "2026-05-03T23:03:08",
-    "Domain": "charon.konekopi.com",
-    "Description": "<h2 id=\"quick-whats-the-truth-table-of-xnor\">Quick! What&rsquo;s the truth table of XNOR?</h2>\n<p>If you don&rsquo;t catch that, don&rsquo;t worry. Hopefully by",
-    "Confidence": 0.99081486
-  },
-  {
-    "Title": "Why you should still type code in 2026",
-    "Url": "https://www.slater.dev/2026/05/type-your-code/",
-    "Timestamp": "2026-05-03T23:03:01",
-    "Domain": "www.slater.dev",
-    "Description": "Why you should still type code in 2026",
-    "Confidence": 0.95603865
-  },
-  {
-    "Title": "March 2026 Top 40 New CRAN Packages – R Works",
-    "Url": "https://rworks.dev/posts/march-2026-top-40-new-cran-packages/",
-    "Timestamp": "2026-05-03T23:02:58",
-    "Domain": "rworks.dev",
-    "Description": "An idiosyncratic, unabashedly biased, time-constrained attempt to capture the depth and breadth of the new packages submitted to CRAN in a single month entirely without the use of AI: clearly unsustainable, but maybe entertaining and somewhat useful.",
-    "Confidence": 0.94898605
-  },
-  {
-    "Title": "Babysitting the Agent · Two weeks in, even with all the hooks I've built, working with the agent has become a chore. Every shipped feature ends with me clicking through it to find out what didn't actually work.",
-    "Url": "https://christophermeiklejohn.com/ai/zabriskie/agents/reliability/2026/05/03/click-the-button.html",
-    "Timestamp": "2026-05-03T23:02:54",
-    "Domain": "christophermeiklejohn.com",
-    "Description": "Two weeks in, even with all the hooks I've built, working with the agent has become a chore. Every shipped feature ends with me clicking through it to find out what didn't actually work.",
-    "Confidence": 0.95247126
-  },
-  {
-    "Title": "Do LLMs Reason, or Do They Just Predict Math Text?",
-    "Url": "https://daridor.blog/2026/05/01/do-llms-reason-or-do-they-just-predict-math-text/",
-    "Timestamp": "2026-05-03T23:02:51",
-    "Domain": "daridor.blog",
-    "Description": "When “predicts the next number” gets published as “knows how to reason.” INGA314.ai analysis of KisMATH (Saha et al., TACL 2026) TL;DR. KisMATH is a real and useful dat…",
-    "Confidence": 0.96742857
-  },
-  {
-    "Title": "How I freed a pool heat pump from an unencrypted Chinese cloud server",
-    "Url": "https://thomas-witt.com/blog/how-to-free-a-pool-heat-pump-from-an-unencrypted-chinese-server/",
-    "Timestamp": "2026-05-03T23:02:47",
-    "Domain": "thomas-witt.com",
-    "Description": "I have a pre-installed pool heat pump - an “AcquaSource” branded unit, the kind you can buy at any pool store in Europe - which supports WiFi. The App called “Pool Panel” wasn’t pretty, but it worked and I didn’t give it much thought. At one time, the remote control of the pump stopped responding: The pump itself was fine; the panel worked, the temperature held. So I decided to take a deeper look at how it all works. It turned out to be a security nightmare.",
-    "Confidence": 0.9783304
-  },
-  {
-    "Title": "Hit and Run and a Business Idea",
-    "Url": "https://rozumem.xyz/posts/15",
-    "Timestamp": "2026-05-03T23:02:44",
-    "Domain": "rozumem.xyz",
-    "Description": "Rental car insurance is broken in Dubai. After being the victim of a hit and run, I believe there's a business opportunity to make it better.",
-    "Confidence": 0.8932866
-  },
-  {
-    "Title": "vLLM Real-World Lab Report",
-    "Url": "https://avkcode.github.io/blog/how-vllm-works.html",
-    "Timestamp": "2026-05-03T23:02:40",
-    "Domain": "avkcode.github.io",
-    "Description": "The vLLM real-world lab models mixed production traffic instead of a single throughput number. FCK generated the request mixes, ran the scheduler and routing profiles, captured build outcomes, and emitted the evidence used for the charts below. The lab covers six request classes: interactive chat, RAG with repeated prefixes, long-prefill requests, agent tool loops, batch summarization, and slow streaming clients.",
-    "Confidence": 0.9473584
-  },
-  {
-    "Title": "erm: A Local CLI That Strips Ums, Uhs, and Erms From Speech",
-    "Url": "https://doug.sh/posts/erm-a-local-cli-that-strips-ums-uhs-and-erms-from-speech/",
-    "Timestamp": "2026-05-03T23:02:37",
-    "Domain": "doug.sh",
-    "Description": "A tour of erm, a local CLI that removes disfluencies from English speech recordings using faster-whisper, a few detectors that look at the audio directly, and ffmpeg.",
-    "Confidence": 0.97406536
-  },
-  {
-    "Title": "Using IDEs as a Harness for Thinking and Writing",
-    "Url": "https://ravivyas.com/2026/05/03/ide-as-thinking-harness/",
-    "Timestamp": "2026-05-03T23:02:34",
-    "Domain": "ravivyas.com",
-    "Description": "Why your primary AI workflow should be notes and files in an IDE, not a chat window. The IDE has become the harness for serious human thinking and writing.",
-    "Confidence": 0.99011225
-  },
-  {
-    "Title": "No smoking gun",
-    "Url": "https://notoriousbfg.com/no-smoking-gun/",
-    "Timestamp": "2026-05-03T23:02:31",
-    "Domain": "notoriousbfg.com",
-    "Description": "The personal blog of Tim White, Software Engineer from Somerset, UK.",
-    "Confidence": 0.9042203
-  },
-  {
-    "Title": "Your Container Is Not a Sandbox",
-    "Url": "https://emirb.github.io/blog/microvm-2026/",
-    "Timestamp": "2026-05-03T23:02:27",
-    "Domain": "emirb.github.io",
-    "Description": "The microVM ecosystem was battle-tested long before agentic AI created the demand. A landscape survey: every VMM, the shared Rust crate ecosystem, a dozen AI sandbox platforms, and honest trade-offs.",
-    "Confidence": 0.9894393
-  },
-  {
-    "Title": "CPU work and GPU work · Tal Hoffman",
-    "Url": "https://www.talhoffman.com/2026/05/03/cpu-work-and-gpu-work/",
-    "Timestamp": "2026-05-03T23:02:23",
-    "Domain": "www.talhoffman.com",
-    "Description": "The discourse around AI agents has gotten ahead of the practice. Most of what you read assumes we already know which work to point them at, and the rest treats the question as one of how aggressive to be rather than whether the task even fits. What's missing is not urgency but clarity about which work actually fits.",
-    "Confidence": 0.97470206
-  },
-  {
-    "Title": "Lzon.ca. A personal blog, by a programmer and IT expert.",
-    "Url": "https://lzon.ca/posts/series/grateful/keep-android-open/",
-    "Timestamp": "2026-05-03T23:02:21",
-    "Domain": "lzon.ca",
-    "Description": "A personal blog, by a programmer and IT expert. Essays, Articles, Guides, and Recipes. As well as Code, Quotes, and Links.",
-    "Confidence": 0.9886821
-  },
-  {
-    "Title": "My Agent Memory Library Helps Write Indie Articles",
-    "Url": "https://benemson.com/blog/agents/my-agent-memory-library-helps-write-indie-articles",
-    "Timestamp": "2026-05-03T23:02:17",
-    "Domain": "benemson.com",
-    "Description": "Can a custom memory library help an agent write good indie dev articles? We test it live: elfmem-grounded research, vault recall, peer agent communication, and a human editor. Here is what came out.",
-    "Confidence": 0.97475517
-  },
-  {
-    "Title": "How I Use Codex CLI to Write and Maintain a Book on Codex CLI",
-    "Url": "https://blog.danielvaughan.com/how-i-use-codex-cli-to-write-and-maintain-a-book-on-codex-cli-048084d9ab48",
-    "Timestamp": "2026-05-03T23:02:13",
-    "Domain": "blog.danielvaughan.com",
-    "Description": "I have a 32-chapter book about Codex CLI that updates itself daily. An always-on agent named Andy (the default name in NanoClaw, because I…",
-    "Confidence": 0.97853845
-  },
-  {
-    "Title": "Writing a bindless GPU abstraction layer",
-    "Url": "https://www.kevin-gibson.com/blog/writing-a-bindless-gpu-abstraction-layer/",
-    "Timestamp": "2026-05-03T23:02:08",
-    "Domain": "www.kevin-gibson.com",
-    "Description": "Back in December 2025, Sebastian Aaltonen published a blog titled “No Graphics API” - it presented a great history of the evolution of GPU hardware, and gave an opinionated perspective on how we could simplify the modern graphics APIs on modern hardware. Like many graphics programmers, I read Sebastian’s blog post and really enjoyed it - I was inspired by it, and decided to see how close to the API he describes I could get today, layered on top of existing platform APIs. The answer turns out to be “pretty darn close”. The result is a project I’m calling Loon GPU, and I’ve put it up on Github. While the library is still rough, poorly tested and surely filled with bugs, it is usable and I wanted to share it early in case other folks were interested. Currently it has a Vulkan 1.3 and Metal 4 backend, and here I want to do a high-level walkthrough to see how the API design maps on to those backends.",
-    "Confidence": 0.9967513
-  },
-  {
-    "Title": "Prompt Engineering Is Permanent",
-    "Url": "https://yiblet.com/posts/prompt-engineering-is-permanent/",
-    "Timestamp": "2026-05-03T23:02:05",
-    "Domain": "yiblet.com",
-    "Description": "I thought better models would make prompt engineering disappear. Instead, they became even more important.",
-    "Confidence": 0.96104234
   }
 ]

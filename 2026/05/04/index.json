@@ -1,5 +1,173 @@
 [
   {
+    "Title": "We Can Do Hard Things",
+    "Url": "https://allenpike.com/2026/we-can-do-hard-things/",
+    "Timestamp": "2026-05-04T23:03:50",
+    "Domain": "allenpike.com",
+    "Description": "On getting uncomfortable."
+  },
+  {
+    "Title": "Oomphalism",
+    "Url": "https://joeldueck.com/oomphalism.html",
+    "Timestamp": "2026-05-04T23:03:46",
+    "Domain": "joeldueck.com",
+    "Description": "Naming the corporate mode of perception"
+  },
+  {
+    "Title": "What five years of solo development taught me — Tyler Boyd",
+    "Url": "https://www.tylerevan.dev/writing/five-years-solo",
+    "Timestamp": "2026-05-04T23:03:42",
+    "Domain": "www.tylerevan.dev",
+    "Description": "What I learned from five years as the only developer at a small, growing company — and what's already transferring now that I'm not solo anymore."
+  },
+  {
+    "Title": "Equal Ping for All",
+    "Url": "https://bagnalla.github.io/posts/ping-charity.html",
+    "Timestamp": "2026-05-04T23:03:39",
+    "Domain": "bagnalla.github.io",
+    "Description": "How does that “equal ping” thing work? It is not that complicated, but for now, I rather keep the secret buried in the source code (too lazy to explain it right now…)."
+  },
+  {
+    "Title": "What I Got Wrong Implementing Graph-Based Vector Search",
+    "Url": "https://dubeykartikay.com/posts/reading-algorithms-like-an-engineer/",
+    "Timestamp": "2026-05-04T23:03:35",
+    "Domain": "dubeykartikay.com",
+    "Description": "A dev log about implementing a Vamana-style ANN index from the DiskANN paper, why my first version was slower than brute force, and what it taught me about reading algorithms with implementation in mind."
+  },
+  {
+    "Title": "Growth engineering one pager | Jordan Lord",
+    "Url": "https://jordanlord.co.uk/blog/growth-engineering/",
+    "Timestamp": "2026-05-04T23:03:32",
+    "Domain": "jordanlord.co.uk",
+    "Description": "['Programmer', 'Computer nerd', 'Unix enthusiast'];"
+  },
+  {
+    "Title": "AI didn't delete your database, you did",
+    "Url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did?src=feed",
+    "Timestamp": "2026-05-04T23:03:28",
+    "Domain": "idiallo.com",
+    "Description": "Last week, a tweet went viral showing a guy claiming that a Cursor/Claude agent deleted his company's production database. We watched from the sidelines as he tried to get a confession from the agent:"
+  },
+  {
+    "Title": "Thoughts on the #slopdemic",
+    "Url": "https://cje.io/2026/05/04/thoughts-on-the-slopdemic/",
+    "Timestamp": "2026-05-04T23:03:25",
+    "Domain": "cje.io",
+    "Description": "Move over #vulnpocalypse — there's a new term we need to talk about: the #slopdemic. AI didn't invent low-quality vuln reports, but it just turbocharged them, and F/OSS is drowning."
+  },
+  {
+    "Title": "Infinite Image Grids are Flat Toruses",
+    "Url": "https://seththompson.com/articles/infinite-image-grids",
+    "Timestamp": "2026-05-04T23:03:21",
+    "Domain": "seththompson.com",
+    "Description": "Seth Thompson is a designer and software engineer in New York. His work engages with spatial representation and computational image-making."
+  },
+  {
+    "Title": "Verifying Poseidon in Clean: Why the Last 'sorry' Is About Primality",
+    "Url": "https://blog.zksecurity.xyz/posts/poseidon-clean/",
+    "Timestamp": "2026-05-04T23:03:17",
+    "Domain": "blog.zksecurity.xyz",
+    "Description": "We walk through a Lean 4 proof of correctness for a Clean model of circomlib's optimized Poseidon hash circuit at arity 1. The theorem says the modeled constraints are sound and complete with respect to the optimized Poseidon spec. After weeks of work, the only remaining `sorry` was a primality proof for the BN254 scalar field: a 254-bit number that no proof assistant can decide by trial division. Closing it requires a Pratt certificate, a recursive proof structure based on a theorem Lucas published in 1876."
+  },
+  {
+    "Title": "Don't fly if you can help it",
+    "Url": "https://michaelbluejay.com/airfare/dontfly.html",
+    "Timestamp": "2026-05-04T23:03:13",
+    "Domain": "michaelbluejay.com",
+    "Description": "Flying or frying?  Air trips release huge quantities of\n        greenhouse gases, and they do so up in the sky where they're more\n        damaging.  If you can, try to find an alternative to flying,\n          such as:"
+  },
+  {
+    "Title": "14 Years of Mistakes to “Make Something People Want”",
+    "Url": "https://nmn.gl/blog/meditations-on-make-something-people-want",
+    "Timestamp": "2026-05-04T23:03:10",
+    "Domain": "nmn.gl",
+    "Description": "I just got accepted into Y Combinator. It feels like a dream, because their motto is something I’ve been turning over in my head since I was a kid reading Paul Graham’s essays on a CRT monitor. “Make something people want” sounds like simple four words, but it took me 14 years to unravel their deepest meaning."
+  },
+  {
+    "Title": "That time at Microsoft when I made part of Windows 100X faster...",
+    "Url": "https://youtube.com/watch?v=VYTF4KIF2z0",
+    "Timestamp": "2026-05-04T23:03:06",
+    "Domain": "youtube.com",
+    "Description": "When I was a Windows developer in 1994, I discovered a routine that was called continually but written very inefficiently; this is the story of how I fixed it!"
+  },
+  {
+    "Title": "Screw you Realtek",
+    "Url": "https://www.growse.com/2026/05/02/screw-you-realtek.html",
+    "Timestamp": "2026-05-04T23:03:04",
+    "Domain": "www.growse.com",
+    "Description": ""
+  },
+  {
+    "Title": "The Scooter and the Bike",
+    "Url": "https://maxmautner.com/2026/04/12/scooter-vs-bike.html",
+    "Timestamp": "2026-05-04T23:03:01",
+    "Domain": "maxmautner.com",
+    "Description": "A comparison of kickscooters and bicycles across learning curve, energy efficiency, cost, portability, and theft risk — and what the differences mean for urban transportation advocates and anyone trying to get out of their car."
+  },
+  {
+    "Title": "Parachuting In | Kevin London",
+    "Url": "https://www.kevinlondon.com/2026/04/15/parachuting-in/",
+    "Timestamp": "2026-05-04T23:02:57",
+    "Domain": "www.kevinlondon.com",
+    "Description": "I don't hand-write code anymore. The hard parts didn't go away."
+  },
+  {
+    "Title": "Nondeterminism's not the problem",
+    "Url": "https://isaacvando.com/nondeterminisms-not-the-problem",
+    "Timestamp": "2026-05-04T23:02:53",
+    "Domain": "isaacvando.com",
+    "Description": "Nondeterminism isn't why LLMs struggle"
+  },
+  {
+    "Title": "The transmission",
+    "Url": "https://agourlay.github.io/the-transmission/",
+    "Timestamp": "2026-05-04T23:02:50",
+    "Domain": "agourlay.github.io",
+    "Description": "Yet another programming blog"
+  },
+  {
+    "Title": "On versioning",
+    "Url": "https://ssg.dev/on-versioning/",
+    "Timestamp": "2026-05-04T23:02:42",
+    "Domain": "ssg.dev",
+    "Description": "I didn’t investigate the history of versioning per se, but I’m pretty sure first version numbers were just simple integers: 1, 2… Apollo…"
+  },
+  {
+    "Title": "Not Shay",
+    "Url": "https://www.shaylivni.com/blog/make-architecture-context-queryable",
+    "Timestamp": "2026-05-04T23:02:39",
+    "Domain": "www.shaylivni.com",
+    "Description": "Portfolio of Not Shay. Building innovative solutions and creating impact."
+  },
+  {
+    "Title": "I Bought a Denon for My Wedding. Twelve Years Later, I Vibe-Coded Its Radio Back to Life.",
+    "Url": "https://victorantos.com/posts/i-bought-a-denon-for-my-wedding-then-i-vibe-coded-its-radio-back/",
+    "Timestamp": "2026-05-04T23:02:34",
+    "Domain": "victorantos.com",
+    "Description": "Twelve years ago today, I bought my first audio amplifier."
+  },
+  {
+    "Title": "How I Actually Automate Everything",
+    "Url": "https://effective-programmer.com/how-i-actually-automate-everything-0d97ed624a34?sk=f8a15ad7e32cde79a085bb4f40330eae",
+    "Timestamp": "2026-05-04T23:02:30",
+    "Domain": "effective-programmer.com",
+    "Description": "Without OpenClaw or Claude"
+  },
+  {
+    "Title": "Ten Years of Frinkiac",
+    "Url": "https://langui.sh/2026/05/04/ten-years-of-frinkiac/",
+    "Timestamp": "2026-05-04T23:02:25",
+    "Domain": "langui.sh",
+    "Description": "It’s been just over ten years (February 2, 2016) since we launched Frinkiac to the public. In those first few months after release we added GIF support, some new sites (hello Morbotron), and then we mostly stopped working on it. Everything worked well enough for us and the code sat unchanged on the same architecture we’d built in 2015."
+  },
+  {
+    "Title": "Become a Product-First Software Engineer",
+    "Url": "https://www.jakeworth.com/posts/become-a-product-first-software-engineer/",
+    "Timestamp": "2026-05-04T23:02:22",
+    "Domain": "www.jakeworth.com",
+    "Description": "I think many engineers would be better contributors if they started to think more about the customer impact of their work."
+  },
+  {
     "Title": "I am worried about Bun",
     "Url": "https://wwj.dev/posts/i-am-worried-about-bun/",
     "Timestamp": "2026-05-04T21:02:15",
