@@ -7,6 +7,36 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>nullagent (@nullagent@partyon.xyz)</title>
+      <link>https://partyon.xyz/@nullagent/116499715071759135</link>
+      <description>Announcing the BYOMesh!
+
+We've been hard at work designing what I believe is now the worlds SMALLEST &amp; most CAPABLE LoRa companion dev kit ever!
+
+It combines the tried and true SX1276 allowing access to the full sub-1GHz ISM band all mesh enthusiast know and love, along with the SX1281 providing high speed 2.4GHz LoRa all on ONE tiny board.
+
+https://shop.dataparty.xyz/products/byomesh
+
+@dataparty @rfparty 
+
+#BYOMesh #LoRa #MeshCore #Meshtastic #MeshTNC #Reticulum #BLE #SnoopUntoThemAsTheySnoopUntoUs</description>
+      <category>ai</category>
+      <guid>https://partyon.xyz/@nullagent/116499715071759135</guid>
+      <pubDate>Mon, 04 May 2026 02:02:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why TUIs are back by Alcides Fonseca</title>
+      <link>https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/</link>
+      <description>Terminal User Interfaces (TUIs) are making a comeback. DHH’s Omarchy is made of three types of user interfaces: TUIs, for immediate feedback and bonus geek points, webapps because 37signals (his company) sells SAAS web applications and the unavoidable gnome-style native applications that really do not fit well in the style of the distro.</description>
+      <category>vscode</category>
+      <category>apple</category>
+      <category>dotnet</category>
+      <category>linux</category>
+      <category>ai</category>
+      <guid>https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/</guid>
+      <pubDate>Mon, 04 May 2026 02:02:16 GMT</pubDate>
+    </item>
+    <item>
       <title>Feedback Loops :: Faster Safely</title>
       <link>https://fastersafely.com/lean-software-engineering/principles/feedback-loops/</link>
       <description>Feedback loops are crucial when trying to modify a system or build something new. Engineers can only safely move as fast as their comprehension of how a change impacts a system. The abilities and limitations of how computers and humans process information is massively important here; including how feedback information is stored, retrieved, and presented to systems and engineers.</description>

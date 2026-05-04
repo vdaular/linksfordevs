@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "Title": "nullagent (@nullagent@partyon.xyz)",
+    "Url": "https://partyon.xyz/@nullagent/116499715071759135",
+    "Timestamp": "2026-05-04T02:02:20",
+    "Domain": "partyon.xyz",
+    "Description": "Announcing the BYOMesh!\n\nWe've been hard at work designing what I believe is now the worlds SMALLEST & most CAPABLE LoRa companion dev kit ever!\n\nIt combines the tried and true SX1276 allowing access to the full sub-1GHz ISM band all mesh enthusiast know and love, along with the SX1281 providing high speed 2.4GHz LoRa all on ONE tiny board.\n\nhttps://shop.dataparty.xyz/products/byomesh\n\n@dataparty @rfparty \n\n#BYOMesh #LoRa #MeshCore #Meshtastic #MeshTNC #Reticulum #BLE #SnoopUntoThemAsTheySnoopUntoUs"
+  },
+  {
+    "Title": "Why TUIs are back by Alcides Fonseca",
+    "Url": "https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/",
+    "Timestamp": "2026-05-04T02:02:16",
+    "Domain": "wiki.alcidesfonseca.com",
+    "Description": "Terminal User Interfaces (TUIs) are making a comeback. DHH’s Omarchy is made of three types of user interfaces: TUIs, for immediate feedback and bonus geek points, webapps because 37signals (his company) sells SAAS web applications and the unavoidable gnome-style native applications that really do not fit well in the style of the distro."
+  }
+]
