@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Days Without GitHub Incident</title>
+      <link>https://www.dayswithoutgithubincident.com/</link>
+      <description>Last Incident:</description>
+      <guid>https://www.dayswithoutgithubincident.com/</guid>
+      <pubDate>Mon, 04 May 2026 19:02:12 GMT</pubDate>
+    </item>
+    <item>
       <title>Incident with Issues and Webhooks</title>
       <link>https://www.githubstatus.com/incidents/72q3n8yxthcy</link>
       <description>GitHub's Status Page - Incident with Issues and Webhooks.</description>
