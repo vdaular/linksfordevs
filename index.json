@@ -1,5 +1,29 @@
 [
   {
+    "Title": "Agentic Coding is a Trap | Lars Faye",
+    "Url": "https://larsfaye.com/articles/agentic-coding-is-a-trap",
+    "Timestamp": "2026-05-04T06:02:20",
+    "Domain": "larsfaye.com",
+    "Description": "Remaining vigilant about cognitive debt and atrophy.",
+    "Confidence": 0.9809395
+  },
+  {
+    "Title": "Spirit 2.0 — The Airline Owned by the People, for the People",
+    "Url": "https://letsbuyspiritair.com/",
+    "Timestamp": "2026-05-04T06:02:16",
+    "Domain": "letsbuyspiritair.com",
+    "Description": "Spirit Airlines collapsed. Before private equity locks it up, the people can own it. Join the Spirit 2.0 founding coalition. One member, one vote. Profits shared by all.",
+    "Confidence": 0.7306819
+  },
+  {
+    "Title": "GitHub - aattaran/deepclaude: Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper.",
+    "Url": "https://github.com/aattaran/deepclaude",
+    "Timestamp": "2026-05-04T06:02:13",
+    "Domain": "github.com",
+    "Description": "Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper. - aattaran/deepclaude",
+    "Confidence": 0.998203
+  },
+  {
     "Title": "A desktop made for one",
     "Url": "https://isene.org/2026/05/Audience-of-One.html",
     "Timestamp": "2026-05-04T04:02:14",
@@ -230,13 +254,5 @@
     "Domain": "ladybird.org",
     "Description": "Inline PDF viewer powered by pdf.js, GTK4 frontend, browsing history, speculative HTML parsing, off-thread JS compilation, async DNS, CSS anchor positioning, and more.",
     "Confidence": 0.94043255
-  },
-  {
-    "Title": "DO_NOT_TRACK",
-    "Url": "https://donottrack.sh/",
-    "Timestamp": "2026-05-03T06:02:04",
-    "Domain": "donottrack.sh",
-    "Description": "A proposed standard environment variable for opting out of telemetry, analytics, and tracking in CLI and TUI applications.",
-    "Confidence": 0.9946328
   }
 ]
