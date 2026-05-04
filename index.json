@@ -246,13 +246,5 @@
     "Domain": "acai.sh",
     "Description": "The toolkit for spec-driven development. Write feature specs, not prompts. Ship better software with AI agents that understand your requirements.",
     "Confidence": 0.9952432
-  },
-  {
-    "Title": "A Couple Million Lines of Haskell: Production Engineering at Mercury | The Haskell Programming Language's blog",
-    "Url": "https://blog.haskell.org/a-couple-million-lines-of-haskell/",
-    "Timestamp": "2026-05-03T12:02:21",
-    "Domain": "blog.haskell.org",
-    "Description": "What it takes to run 2 million lines of Haskell in production at a fintech company serving 300,000 businesses.",
-    "Confidence": 0.98148
   }
 ]

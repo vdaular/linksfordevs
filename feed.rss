@@ -314,14 +314,5 @@ https://shop.dataparty.xyz/products/byomesh
       <guid>https://acai.sh/blog/specsmaxxing</guid>
       <pubDate>Sun, 03 May 2026 21:02:03 GMT</pubDate>
     </item>
-    <item>
-      <title>A Couple Million Lines of Haskell: Production Engineering at Mercury | The Haskell Programming Language's blog</title>
-      <link>https://blog.haskell.org/a-couple-million-lines-of-haskell/</link>
-      <description>What it takes to run 2 million lines of Haskell in production at a fintech company serving 300,000 businesses.</description>
-      <category>rust</category>
-      <category>sql</category>
-      <guid>https://blog.haskell.org/a-couple-million-lines-of-haskell/</guid>
-      <pubDate>Sun, 03 May 2026 12:02:21 GMT</pubDate>
-    </item>
   </channel>
 </rss>
