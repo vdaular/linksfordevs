@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Media Queries Range Syntax",
+    "Url": "https://ishadeed.com/article/range-syntax/",
+    "Timestamp": "2026-05-04T08:02:02",
+    "Domain": "ishadeed.com",
+    "Description": "",
+    "Confidence": 0.9980361
+  },
+  {
     "Title": "Metal Gear Solid 2's HD Port Just Had Its Entire Source Code Leaked",
     "Url": "https://www.thegamer.com/mgs2-hd-edition-source-code-massive-leak/",
     "Timestamp": "2026-05-04T07:02:06",
@@ -246,13 +254,5 @@
     "Domain": "thinkpol.ca",
     "Description": "By Rohana Rezel I’m running the ongoing AI Coding Contest where I pit major language models against each other in real-time programming tasks with objective scoring. Day 12 was the Word Gem Puzzle. Ten models entered. The results were not what most people would have predicted. Kimi K2.6, an open-weights model from Chinese startup Moonshot",
     "Confidence": 0.9210516
-  },
-  {
-    "Title": "Why I don't like the \"staff engineer archetypes\"",
-    "Url": "https://www.seangoedecke.com/staff-engineer-archetypes/",
-    "Timestamp": "2026-05-03T08:02:02",
-    "Domain": "www.seangoedecke.com",
-    "Description": "The most influential piece of writing about staff engineers in the last decade has to be Will Larson’s Staff engineer archetypes. He argues that the “staff engineer” title covers at least four very different roles: the team lead, the architect, the solver, and the right hand. This taxonomy gets cited a lot as advice for people who are trying to become effective staff engineers. For both of my promotions to staff engineer, my manager at the time linked me to the “staff engineer archetypes” and asked me to consider which of these archetypes I was aiming towards.",
-    "Confidence": 0.98064804
   }
 ]

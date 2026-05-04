@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Media Queries Range Syntax</title>
+      <link>https://ishadeed.com/article/range-syntax/</link>
+      <description></description>
+      <category>web</category>
+      <guid>https://ishadeed.com/article/range-syntax/</guid>
+      <pubDate>Mon, 04 May 2026 08:02:02 GMT</pubDate>
+    </item>
+    <item>
       <title>Metal Gear Solid 2's HD Port Just Had Its Entire Source Code Leaked</title>
       <link>https://www.thegamer.com/mgs2-hd-edition-source-code-massive-leak/</link>
       <description>The HD version, specifically its Vita port, has been busted wide open all these years later.</description>
@@ -316,13 +324,6 @@ https://shop.dataparty.xyz/products/byomesh
       <category>gaming</category>
       <guid>https://thinkpol.ca/2026/04/30/an-open-weights-chinese-model-just-beat-claude-gpt-5-5-and-gemini-in-a-programming-challenge/</guid>
       <pubDate>Sun, 03 May 2026 09:01:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why I don't like the "staff engineer archetypes"</title>
-      <link>https://www.seangoedecke.com/staff-engineer-archetypes/</link>
-      <description>The most influential piece of writing about staff engineers in the last decade has to be Will Larson’s Staff engineer archetypes. He argues that the “staff engineer” title covers at least four very different roles: the team lead, the architect, the solver, and the right hand. This taxonomy gets cited a lot as advice for people who are trying to become effective staff engineers. For both of my promotions to staff engineer, my manager at the time linked me to the “staff engineer archetypes” and asked me to consider which of these archetypes I was aiming towards.</description>
-      <guid>https://www.seangoedecke.com/staff-engineer-archetypes/</guid>
-      <pubDate>Sun, 03 May 2026 08:02:02 GMT</pubDate>
     </item>
   </channel>
 </rss>
