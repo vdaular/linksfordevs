@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Incident with Issues and Webhooks",
+    "Url": "https://www.githubstatus.com/incidents/72q3n8yxthcy",
+    "Timestamp": "2026-05-04T18:02:10",
+    "Domain": "www.githubstatus.com",
+    "Description": "GitHub's Status Page - Incident with Issues and Webhooks.",
+    "Confidence": 0.98110914
+  },
+  {
     "Title": "Removable batteries in smartphones will be mandatory starting in 2027",
     "Url": "https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/",
     "Timestamp": "2026-05-04T17:02:37",
