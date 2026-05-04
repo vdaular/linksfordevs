@@ -266,14 +266,5 @@
       <guid>https://donottrack.sh/</guid>
       <pubDate>Sun, 03 May 2026 06:02:04 GMT</pubDate>
     </item>
-    <item>
-      <title>What do CPUs do when there's nothing to do?</title>
-      <link>https://youtube.com/watch?v=UXd8MfTJQVg</link>
-      <description>Dave explains what happens to unused cycles on your PC and why Task Manager can only display an approximation of the CPU used!</description>
-      <author> (Dave's Garage)</author>
-      <category>youtube</category>
-      <guid>https://youtube.com/watch?v=UXd8MfTJQVg</guid>
-      <pubDate>Sun, 03 May 2026 01:01:50 GMT</pubDate>
-    </item>
   </channel>
 </rss>
