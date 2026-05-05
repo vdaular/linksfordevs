@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Agent Skills",
+    "Url": "https://addyosmani.com/blog/agent-skills/",
+    "Timestamp": "2026-05-05T10:02:01",
+    "Domain": "addyosmani.com",
+    "Description": "AI coding agents take the shortest path to done, which usually means skipping the specs, tests, and reviews that make software reliable at scale. Agent Skill...",
+    "Confidence": 0.9925239
+  },
+  {
     "Title": "Y Combinator’s Stake in OpenAI",
     "Url": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
     "Timestamp": "2026-05-05T07:02:07",
@@ -286,13 +294,5 @@
     "Domain": "notepad-plus-plus.org",
     "Description": "2026-05-01",
     "Confidence": 0.87675446
-  },
-  {
-    "Title": "Southwest Headquarters Tour",
-    "Url": "https://katherinemichel.github.io/blog/travel/southwest-headquarters-tour-2026.html",
-    "Timestamp": "2026-05-04T10:02:02",
-    "Domain": "katherinemichel.github.io",
-    "Description": "Table of Contents: Intro, Morning- Flight Attendant Training, Pilot Training., Lunch- Southwest Store, Social Media Serendipity., Afternoon- Network Operations Center, TechOps Hangar, Herb and Coll...",
-    "Confidence": 0.68843687
   }
 ]
