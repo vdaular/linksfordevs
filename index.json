@@ -310,13 +310,5 @@
     "Domain": "github.com",
     "Description": "Use Claude Code's autonomous agent loop with DeepSeek V4 Pro, OpenRouter, or any Anthropic-compatible backend. Same UX, 17x cheaper. - aattaran/deepclaude",
     "Confidence": 0.998203
-  },
-  {
-    "Title": "A desktop made for one",
-    "Url": "https://isene.org/2026/05/Audience-of-One.html",
-    "Timestamp": "2026-05-04T04:02:14",
-    "Domain": "isene.org",
-    "Description": "Philosophy - Sciences - Geekery - Art - Life - Coaching - Fun < Simplify Everything",
-    "Confidence": 0.9788157
   }
 ]
