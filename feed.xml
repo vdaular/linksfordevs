@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Async Rust never left the MVP state - Blog - Tweede golf</title>
+      <link>https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state</link>
+      <description>I've previously explained async bloat and some work-arounds for it, but would much prefer to solve the issue at the root, in the compiler. I've submitted a Project Goal, and am looking for help to ...</description>
+      <category>rust</category>
+      <guid>https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state</guid>
+      <pubDate>Tue, 05 May 2026 13:02:20 GMT</pubDate>
+    </item>
+    <item>
       <title>GitHub - angelos-p/llm-from-scratch</title>
       <link>https://github.com/angelos-p/llm-from-scratch</link>
       <description>Contribute to angelos-p/llm-from-scratch development by creating an account on GitHub.</description>
@@ -348,14 +356,6 @@
       <category>ai</category>
       <guid>https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility</guid>
       <pubDate>Mon, 04 May 2026 14:02:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trademark Violation: Fake Notepad++ for Mac</title>
-      <link>https://notepad-plus-plus.org/news/npp-trademark-infringement/</link>
-      <description>2026-05-01</description>
-      <category>apple</category>
-      <guid>https://notepad-plus-plus.org/news/npp-trademark-infringement/</guid>
-      <pubDate>Mon, 04 May 2026 13:02:22 GMT</pubDate>
     </item>
   </channel>
 </rss>

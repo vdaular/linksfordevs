@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Async Rust never left the MVP state - Blog - Tweede golf",
+    "Url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
+    "Timestamp": "2026-05-05T13:02:20",
+    "Domain": "tweedegolf.nl",
+    "Description": "I've previously explained async bloat and some work-arounds for it, but would much prefer to solve the issue at the root, in the compiler. I've submitted a Project Goal, and am looking for help to ..."
+  },
+  {
     "Title": "GitHub - angelos-p/llm-from-scratch",
     "Url": "https://github.com/angelos-p/llm-from-scratch",
     "Timestamp": "2026-05-05T11:02:18",

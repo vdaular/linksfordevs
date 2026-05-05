@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Async Rust never left the MVP state - Blog - Tweede golf",
+    "Url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
+    "Timestamp": "2026-05-05T13:02:20",
+    "Domain": "tweedegolf.nl",
+    "Description": "I've previously explained async bloat and some work-arounds for it, but would much prefer to solve the issue at the root, in the compiler. I've submitted a Project Goal, and am looking for help to ...",
+    "Confidence": 0.99801284
+  },
+  {
     "Title": "GitHub - angelos-p/llm-from-scratch",
     "Url": "https://github.com/angelos-p/llm-from-scratch",
     "Timestamp": "2026-05-05T11:02:18",
@@ -294,13 +302,5 @@
     "Domain": "xogium.me",
     "Description": "The mythical, it's text, so it's accessible  There is a persistent misconception among sighted developers: if an application runs in a te...",
     "Confidence": 0.9865972
-  },
-  {
-    "Title": "Trademark Violation: Fake Notepad++ for Mac",
-    "Url": "https://notepad-plus-plus.org/news/npp-trademark-infringement/",
-    "Timestamp": "2026-05-04T13:02:22",
-    "Domain": "notepad-plus-plus.org",
-    "Description": "2026-05-01",
-    "Confidence": 0.87675446
   }
 ]
