@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Y Combinator’s Stake in OpenAI",
+    "Url": "https://daringfireball.net/2026/05/y_combinators_stake_in_openai",
+    "Timestamp": "2026-05-05T07:02:07",
+    "Domain": "daringfireball.net",
+    "Description": "The fact that Paul Graham personally has billions of dollars at stake with OpenAI doesn’t mean that his public opinion on Sam Altman’s trustworthiness and leadership is invalid. But it certainly seems like the sort of thing that ought to be disclosed when quoting Graham as an Altman character reference.",
+    "Confidence": 0.80391777
+  },
+  {
     "Title": "docs: add Phase-A porting guide · oven-sh/bun@46d3bc2",
     "Url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
     "Timestamp": "2026-05-05T05:02:18",
@@ -294,13 +302,5 @@
     "Domain": "ishadeed.com",
     "Description": "",
     "Confidence": 0.9980361
-  },
-  {
-    "Title": "Metal Gear Solid 2's HD Port Just Had Its Entire Source Code Leaked",
-    "Url": "https://www.thegamer.com/mgs2-hd-edition-source-code-massive-leak/",
-    "Timestamp": "2026-05-04T07:02:06",
-    "Domain": "www.thegamer.com",
-    "Description": "The HD version, specifically its Vita port, has been busted wide open all these years later.",
-    "Confidence": 0.901431
   }
 ]

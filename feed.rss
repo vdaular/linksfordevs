@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Y Combinator’s Stake in OpenAI</title>
+      <link>https://daringfireball.net/2026/05/y_combinators_stake_in_openai</link>
+      <description>The fact that Paul Graham personally has billions of dollars at stake with OpenAI doesn’t mean that his public opinion on Sam Altman’s trustworthiness and leadership is invalid. But it certainly seems like the sort of thing that ought to be disclosed when quoting Graham as an Altman character reference.</description>
+      <category>ai</category>
+      <guid>https://daringfireball.net/2026/05/y_combinators_stake_in_openai</guid>
+      <pubDate>Tue, 05 May 2026 07:02:07 GMT</pubDate>
+    </item>
+    <item>
       <title>docs: add Phase-A porting guide · oven-sh/bun@46d3bc2</title>
       <link>https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5</link>
       <description>Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one - docs: add Phase-A porting guide · oven-sh/bun@46d3bc2</description>
@@ -342,15 +350,6 @@
       <category>web</category>
       <guid>https://ishadeed.com/article/range-syntax/</guid>
       <pubDate>Mon, 04 May 2026 08:02:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Metal Gear Solid 2's HD Port Just Had Its Entire Source Code Leaked</title>
-      <link>https://www.thegamer.com/mgs2-hd-edition-source-code-massive-leak/</link>
-      <description>The HD version, specifically its Vita port, has been busted wide open all these years later.</description>
-      <author> (Quinton O'Connor)</author>
-      <category>gaming</category>
-      <guid>https://www.thegamer.com/mgs2-hd-edition-source-code-massive-leak/</guid>
-      <pubDate>Mon, 04 May 2026 07:02:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
