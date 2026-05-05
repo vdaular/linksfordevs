@@ -1,5 +1,21 @@
 [
   {
+    "Title": "The best is over",
+    "Url": "https://muddy.jprs.me/posts/2026-05-03-the-best-is-over/",
+    "Timestamp": "2026-05-05T17:02:13",
+    "Domain": "muddy.jprs.me",
+    "Description": "The seed of this post was hearing “I Don’t Wanna Wait” on the radio while shopping for groceries. The song rips off “Dragostea Din Tei” by O-Zone, which anyone …",
+    "Confidence": 0.8705942
+  },
+  {
+    "Title": "iOS 27 is adding a 'Create a Pass' button to Apple Wallet",
+    "Url": "https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/",
+    "Timestamp": "2026-05-05T17:02:09",
+    "Domain": "walletwallet.alen.ro",
+    "Description": "Apple is letting users build their own Wallet passes in iOS 27. After 14 years of PassKit, the supply-side problem is finally being solved from the demand side.",
+    "Confidence": 0.965316
+  },
+  {
     "Title": "AI didn't delete your database, you did",
     "Url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
     "Timestamp": "2026-05-05T16:02:27",
@@ -286,13 +302,5 @@
     "Domain": "www.githubstatus.com",
     "Description": "GitHub's Status Page - Incident with Issues and Webhooks.",
     "Confidence": 0.98110914
-  },
-  {
-    "Title": "Removable batteries in smartphones will be mandatory starting in 2027",
-    "Url": "https://www.ecopv-eu.com/en/blog-en/replaceable-smartphone-batteries-2027-eu-regulation/",
-    "Timestamp": "2026-05-04T17:02:37",
-    "Domain": "www.ecopv-eu.com",
-    "Description": "Starting in 2027, smartphone batteries will once again be replaceable in the EU. Learn all about the new regulation and what this means for users.",
-    "Confidence": 0.964562
   }
 ]
