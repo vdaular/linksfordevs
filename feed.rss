@@ -351,13 +351,5 @@
       <guid>https://www.dayswithoutgithubincident.com/</guid>
       <pubDate>Mon, 04 May 2026 19:02:12 GMT</pubDate>
     </item>
-    <item>
-      <title>Incident with Issues and Webhooks</title>
-      <link>https://www.githubstatus.com/incidents/72q3n8yxthcy</link>
-      <description>GitHub's Status Page - Incident with Issues and Webhooks.</description>
-      <category>git</category>
-      <guid>https://www.githubstatus.com/incidents/72q3n8yxthcy</guid>
-      <pubDate>Mon, 04 May 2026 18:02:10 GMT</pubDate>
-    </item>
   </channel>
 </rss>
