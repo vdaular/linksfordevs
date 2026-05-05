@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>GitHub - angelos-p/llm-from-scratch</title>
+      <link>https://github.com/angelos-p/llm-from-scratch</link>
+      <description>Contribute to angelos-p/llm-from-scratch development by creating an account on GitHub.</description>
+      <category>ai</category>
+      <category>python</category>
+      <category>apple</category>
+      <category>linux</category>
+      <category>vscode</category>
+      <guid>https://github.com/angelos-p/llm-from-scratch</guid>
+      <pubDate>Tue, 05 May 2026 11:02:18 GMT</pubDate>
+    </item>
+    <item>
       <title>Agent Skills</title>
       <link>https://addyosmani.com/blog/agent-skills/</link>
       <description>AI coding agents take the shortest path to done, which usually means skipping the specs, tests, and reviews that make software reliable at scale. Agent Skill...</description>
