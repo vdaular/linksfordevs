@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>AI didn't delete your database, you did</title>
+      <link>https://idiallo.com/blog/ai-didnt-delete-your-database-you-did</link>
+      <description>Last week, a tweet went viral showing a guy claiming that a Cursor/Claude agent deleted his company's production database. We watched from the sidelines as he tried to get a confession from the agent:</description>
+      <category>ai</category>
+      <category>sql</category>
+      <category>git</category>
+      <guid>https://idiallo.com/blog/ai-didnt-delete-your-database-you-did</guid>
+      <pubDate>Tue, 05 May 2026 16:02:27 GMT</pubDate>
+    </item>
+    <item>
       <title>Async Rust never left the MVP state - Blog - Tweede golf</title>
       <link>https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state</link>
       <description>I've previously explained async bloat and some work-arounds for it, but would much prefer to solve the issue at the root, in the compiler. I've submitted a Project Goal, and am looking for help to ...</description>

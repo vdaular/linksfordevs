@@ -1,5 +1,12 @@
 [
   {
+    "Title": "AI didn't delete your database, you did",
+    "Url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
+    "Timestamp": "2026-05-05T16:02:27",
+    "Domain": "idiallo.com",
+    "Description": "Last week, a tweet went viral showing a guy claiming that a Cursor/Claude agent deleted his company's production database. We watched from the sidelines as he tried to get a confession from the agent:"
+  },
+  {
     "Title": "Async Rust never left the MVP state - Blog - Tweede golf",
     "Url": "https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state",
     "Timestamp": "2026-05-05T13:02:20",
