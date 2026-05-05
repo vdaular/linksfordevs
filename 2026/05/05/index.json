@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Branch‑Avoidant Programming",
+    "Url": "https://easylang.online/blog/branchless",
+    "Timestamp": "2026-05-05T02:02:26",
+    "Domain": "easylang.online",
+    "Description": "With modern CPUs, avoiding branch mispredictions is a key method for speeding up programs. One of the most effective ways to reduce mispredictions is to simply avoid branches."
+  },
+  {
     "Title": "How OpenAI delivers low-latency voice AI at scale",
     "Url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
     "Timestamp": "2026-05-05T01:02:08",

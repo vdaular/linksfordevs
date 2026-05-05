@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Branch‑Avoidant Programming</title>
+      <link>https://easylang.online/blog/branchless</link>
+      <description>With modern CPUs, avoiding branch mispredictions is a key method for speeding up programs. One of the most effective ways to reduce mispredictions is to simply avoid branches.</description>
+      <category>git</category>
+      <guid>https://easylang.online/blog/branchless</guid>
+      <pubDate>Tue, 05 May 2026 02:02:26 GMT</pubDate>
+    </item>
+    <item>
       <title>How OpenAI delivers low-latency voice AI at scale</title>
       <link>https://openai.com/index/delivering-low-latency-voice-ai-at-scale/</link>
       <description>How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.</description>
@@ -363,36 +371,6 @@
       <category>ai</category>
       <guid>https://isene.org/2026/05/Audience-of-One.html</guid>
       <pubDate>Mon, 04 May 2026 04:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>nullagent (@nullagent@partyon.xyz)</title>
-      <link>https://partyon.xyz/@nullagent/116499715071759135</link>
-      <description>Announcing the BYOMesh!
-
-We've been hard at work designing what I believe is now the worlds SMALLEST &amp; most CAPABLE LoRa companion dev kit ever!
-
-It combines the tried and true SX1276 allowing access to the full sub-1GHz ISM band all mesh enthusiast know and love, along with the SX1281 providing high speed 2.4GHz LoRa all on ONE tiny board.
-
-https://shop.dataparty.xyz/products/byomesh
-
-@dataparty @rfparty 
-
-#BYOMesh #LoRa #MeshCore #Meshtastic #MeshTNC #Reticulum #BLE #SnoopUntoThemAsTheySnoopUntoUs</description>
-      <category>ai</category>
-      <guid>https://partyon.xyz/@nullagent/116499715071759135</guid>
-      <pubDate>Mon, 04 May 2026 02:02:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why TUIs are back by Alcides Fonseca</title>
-      <link>https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/</link>
-      <description>Terminal User Interfaces (TUIs) are making a comeback. DHH’s Omarchy is made of three types of user interfaces: TUIs, for immediate feedback and bonus geek points, webapps because 37signals (his company) sells SAAS web applications and the unavoidable gnome-style native applications that really do not fit well in the style of the distro.</description>
-      <category>vscode</category>
-      <category>apple</category>
-      <category>dotnet</category>
-      <category>linux</category>
-      <category>ai</category>
-      <guid>https://wiki.alcidesfonseca.com/blog/why-tuis-are-back/</guid>
-      <pubDate>Mon, 04 May 2026 02:02:16 GMT</pubDate>
     </item>
   </channel>
 </rss>
