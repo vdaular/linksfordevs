@@ -302,13 +302,5 @@
     "Domain": "www.jakeworth.com",
     "Description": "I think many engineers would be better contributors if they started to think more about the customer impact of their work.",
     "Confidence": 0.98253644
-  },
-  {
-    "Title": "I am worried about Bun",
-    "Url": "https://wwj.dev/posts/i-am-worried-about-bun/",
-    "Timestamp": "2026-05-04T21:02:15",
-    "Domain": "wwj.dev",
-    "Description": "Bun is excellent software. Anthropic owns it now, Bun sits under Claude Code, and Claude Code getting worse makes me worried Bun could follow the same enshittification path.",
-    "Confidence": 0.9840592
   }
 ]

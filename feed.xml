@@ -357,18 +357,5 @@
       <guid>https://www.jakeworth.com/posts/become-a-product-first-software-engineer/</guid>
       <pubDate>Mon, 04 May 2026 23:02:22 GMT</pubDate>
     </item>
-    <item>
-      <title>I am worried about Bun</title>
-      <link>https://wwj.dev/posts/i-am-worried-about-bun/</link>
-      <description>Bun is excellent software. Anthropic owns it now, Bun sits under Claude Code, and Claude Code getting worse makes me worried Bun could follow the same enshittification path.</description>
-      <author> (William Johnston)</author>
-      <category>nodejs</category>
-      <category>typescript</category>
-      <category>ai</category>
-      <category>javascript</category>
-      <category>git</category>
-      <guid>https://wwj.dev/posts/i-am-worried-about-bun/</guid>
-      <pubDate>Mon, 04 May 2026 21:02:15 GMT</pubDate>
-    </item>
   </channel>
 </rss>
