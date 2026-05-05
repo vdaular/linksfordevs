@@ -1,5 +1,215 @@
 [
   {
+    "Title": "Computer use is 45x More Expensive Than Structured APIs",
+    "Url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
+    "Timestamp": "2026-05-05T23:06:48",
+    "Domain": "reflex.dev",
+    "Description": "We benchmarked computer use against auto-generated API endpoints on the same admin panel. 53 steps and 551k tokens vs 8 calls and 12k tokens."
+  },
+  {
+    "Title": "That's No Warehouse... It's a Space Station",
+    "Url": "https://blog.matterbeam.com/thats-no-warehouse-its-a-space-station/",
+    "Timestamp": "2026-05-05T23:06:38",
+    "Domain": "blog.matterbeam.com",
+    "Description": "“Fear leads to anger. Anger leads to hate. Hate leads to suffering. And centralized data architectures lead to a table called customer_revenue_final_v9_USE_THIS_ONE_SERIOUSLY.”\n\n— Yoda, leading a postmortem\n\nIn your company there is likely a data warehouse or data lake.\n\nOr a plan for one."
+  },
+  {
+    "Title": "You Don’t Review Your Compiler Output",
+    "Url": "https://scottrfrancis.wordpress.com/2026/02/13/you-dont-review-your-compiler-output/",
+    "Timestamp": "2026-05-05T23:06:32",
+    "Domain": "scottrfrancis.wordpress.com",
+    "Description": "Someone on LinkedIn posted that every line of AI-generated code should be reviewed with the same rigor you’d apply to a junior developer’s pull request. The reply that stopped the threa…"
+  },
+  {
+    "Title": "Rigorous Nonsense - Easy Random Trees",
+    "Url": "https://blog.wilsonb.com/posts/2026-02-27-easy-random-trees.html",
+    "Timestamp": "2026-05-05T23:06:25",
+    "Domain": "blog.wilsonb.com",
+    "Description": "Posted on February 27, 2026\n    \n        by Brandon Wilson"
+  },
+  {
+    "Title": "The Frog for Whom the Bell Tolls",
+    "Url": "https://sethmlarson.dev/the-frog-for-whom-the-bell-tolls",
+    "Timestamp": "2026-05-05T23:06:19",
+    "Domain": "sethmlarson.dev",
+    "Description": "\n\n\nKaeru no Tame ni Kane wa Naru\n(カエルの為(ため)に鐘(かね)は鳴(な)る)\nis a Japanese-only Game Boy title published in 1992 by Nintendo\nand developed by Intelligent Systems.\nThe title’s official English translati..."
+  },
+  {
+    "Title": "The Prompt API is now on by default in Chrome",
+    "Url": "https://adsm.dev/posts/prompt-api/",
+    "Timestamp": "2026-05-05T23:06:13",
+    "Domain": "adsm.dev",
+    "Description": "How to use the new Prompt API in Google Chrome"
+  },
+  {
+    "Title": "Building a MongoDB GUI Custom Table System: A 9 Month Journey",
+    "Url": "https://visualeaf.com/blog/why-my-custom-table-took-9-months/",
+    "Timestamp": "2026-05-05T23:06:08",
+    "Domain": "visualeaf.com",
+    "Description": "Learn how we built a high-performance MongoDB table view that handles nested, irregular documents at 60fps, even with 100k rows and 1000 columns."
+  },
+  {
+    "Title": "On the Economics of Truth",
+    "Url": "https://shadesofsingularity.com/essays/economics-of-truth/",
+    "Timestamp": "2026-05-05T23:06:00",
+    "Domain": "shadesofsingularity.com",
+    "Description": "The cost of fabrication has collapsed. The cost of verification has not. This essay traces the triple asymmetry degrading shared reality and what it means for every collective response we need."
+  },
+  {
+    "Title": "After 3 months of standing desk",
+    "Url": "https://darshanmakwana412.github.io/2026/05/standing-desk/",
+    "Timestamp": "2026-05-05T23:05:55",
+    "Domain": "darshanmakwana412.github.io",
+    "Description": "Since the last 2 months I had to change my environment in which I used to do my long hours of deep work. One of the things that was part of the change was a standing desk. Actually it was not a desk per se but just a platform on top of which I can keep my laptop and just start coding away, the platform was just tall enough that I can’t sit and do work and slightly short enought that I had to bend my knees, so I had to add a wooden plank on top of the platform to level it up."
+  },
+  {
+    "Title": "Bad bossing and the expertise byproduct",
+    "Url": "https://jakekara.com/blog/2026/05/04/expertise-byproduct",
+    "Timestamp": "2026-05-05T23:05:50",
+    "Domain": "jakekara.com",
+    "Description": "Human effort produces an output as its product and expertise as its byproduct. Bad bosses don't know how lucky they are."
+  },
+  {
+    "Title": "I've spent 10+ years helping Rails devs reach the App Store. Today, someone shipped without me. | Masilotti.com",
+    "Url": "https://masilotti.com/shipped-without-me/",
+    "Timestamp": "2026-05-05T23:05:43",
+    "Domain": "masilotti.com",
+    "Description": "Yesterday Ruby Native launched. Today the first customer app went live. And the developer never opened Xcode."
+  },
+  {
+    "Title": "A Guide of Poor Decision Practices in Management for Tech Leaders and Founders • placementist",
+    "Url": "https://placementist.com/insights/a-guide-of-poor-decision-practices-in-management-for-technical-leaders-and-founders-identifying-and-mitigating",
+    "Timestamp": "2026-05-05T23:05:38",
+    "Domain": "placementist.com",
+    "Description": "Best practices, past success and gut instinct: the three management beliefs costing startups the most and how to audit them."
+  },
+  {
+    "Title": "A Namecheap bug got my domain suspended",
+    "Url": "https://captnemo.in/blog/2026/05/05/namecheap-whois/",
+    "Timestamp": "2026-05-05T23:05:32",
+    "Domain": "captnemo.in",
+    "Description": "My primary domain (captnemo.in, where you’re reading this) was suspended by\nmy registry (.in) for 3 hours last night (4th May 2026)."
+  },
+  {
+    "Title": "krabr.com | How I organize my work",
+    "Url": "https://www.krabr.com/blog/how-i-organize-my-work/",
+    "Timestamp": "2026-05-05T23:05:28",
+    "Domain": "www.krabr.com",
+    "Description": "A plain-text, git-tracked worklog that keeps multiple jobs and side projects in sync without any task-management tooling."
+  },
+  {
+    "Title": "Pocket — Anthony Liddle",
+    "Url": "https://anthonyliddle.dev/work/pocket",
+    "Timestamp": "2026-05-05T23:05:23",
+    "Domain": "anthonyliddle.dev",
+    "Description": "The web home of Pocket, Mozilla's article-discovery service. 2M+ daily page views at peak. Co-architected across six years, two full rewrites."
+  },
+  {
+    "Title": "Why Coding Agents Need a Merge Queue - ctx",
+    "Url": "https://ctx.rs/blog/merge-queue-for-agents/",
+    "Timestamp": "2026-05-05T23:05:20",
+    "Domain": "ctx.rs",
+    "Description": "Parallel agents on separate worktrees need a local system to land changes cleanly without conflicts or regressions."
+  },
+  {
+    "Title": "SaaS Isn't Dying. Its Users Are.",
+    "Url": "https://tomashvili.com/posts/SaaS_Is_not_Dying_Its_Users_Are",
+    "Timestamp": "2026-05-05T23:05:15",
+    "Domain": "tomashvili.com",
+    "Description": "SaaS isn't dying but per-seat pricing, UX polish, and DAU metrics are. Here's what changes when agents become your product's primary user."
+  },
+  {
+    "Title": "I miss craft",
+    "Url": "https://eliothertenstein.com/notes/on-craft",
+    "Timestamp": "2026-05-05T23:05:10",
+    "Domain": "eliothertenstein.com",
+    "Description": "You can find more of my writing on"
+  },
+  {
+    "Title": "Don’t let your Mac’s storage fill up!",
+    "Url": "https://sixcolors.com/post/2026/05/dont-let-your-macs-storage-fill-up/",
+    "Timestamp": "2026-05-05T23:05:06",
+    "Domain": "sixcolors.com",
+    "Description": "Macs don’t do well when they start to approach full storage. The operating system doesn’t provide enough safeguards and backoff options to help you cope with what can become a disaster,…"
+  },
+  {
+    "Title": "When Too Many Maps Overlap on One Person | Yusuf Aytas",
+    "Url": "https://yusufaytas.com/when-too-many-maps-overlap-on-one-person",
+    "Timestamp": "2026-05-05T23:05:01",
+    "Domain": "yusufaytas.com",
+    "Description": "Why engineering teams turn one trusted person into a decision bottleneck. How informal authority, hidden context, and single points of failure slow delivery"
+  },
+  {
+    "Title": "Complete Guide: How to Integrate Beehiiv with Hugo via Cloudflare Workers",
+    "Url": "https://www.lucasaguiar.xyz/posts/newsletter-beehiiv-cloudflare-github/",
+    "Timestamp": "2026-05-05T23:04:57",
+    "Domain": "www.lucasaguiar.xyz",
+    "Description": "Learn how to integrate a custom Beehiiv form into a Hugo website on GitHub Pages, using Cloudflare Workers and monitoring via PostHog."
+  },
+  {
+    "Title": "Everything is a Superfood —",
+    "Url": "https://www.hughparry.com/blog/everything-is-a-superfood/",
+    "Timestamp": "2026-05-05T23:04:46",
+    "Domain": "www.hughparry.com",
+    "Description": "If everything is a superfood, then nothing is."
+  },
+  {
+    "Title": "Just one more prompt…",
+    "Url": "https://benjaminste.in/blog/2026/05/03/just-one-more-prompt/",
+    "Timestamp": "2026-05-05T23:04:41",
+    "Domain": "benjaminste.in",
+    "Description": "Claude Code gives me a constant stream of dopamine hits but also FOMO, guilt, and anxiety."
+  },
+  {
+    "Title": "Add Animal Crossing events to your digital calendar",
+    "Url": "https://sethmlarson.dev/animal-crossing-calendar",
+    "Timestamp": "2026-05-05T23:04:36",
+    "Domain": "sethmlarson.dev",
+    "Description": "Animal Forest (“Dōbutsu no Mori” or “どうぶつの森”) was released\nin Japan for the Nintendo 64 on April 14th, 2001:\nexactly 25 years ago today! To celebrate this beloved franchise I have \ncreated calendar..."
+  },
+  {
+    "Title": "When Knowledge Becomes Control",
+    "Url": "https://dylanconlin.com/blog/when-knowledge-becomes-control/",
+    "Timestamp": "2026-05-05T23:04:29",
+    "Domain": "dylanconlin.com",
+    "Description": "Instructions and governance are different things. I ran 265 experiments to find the boundary."
+  },
+  {
+    "Title": "My 1B tokens/day OpenAI Symphony setup",
+    "Url": "https://www.alessiofanelli.com/posts/my-1b-tokens-day-openai-symphony-setup/",
+    "Timestamp": "2026-05-05T23:04:26",
+    "Domain": "www.alessiofanelli.com",
+    "Description": "How I run OpenAI Symphony 24/7 on Zo Computer with Linear, project skills, and a token usage dashboard."
+  },
+  {
+    "Title": "Am I an LLM?",
+    "Url": "https://www.arturonereu.com/articles/am-i-an-llm/",
+    "Timestamp": "2026-05-05T23:04:22",
+    "Domain": "www.arturonereu.com",
+    "Description": "As I keep interacting with LLMs and learn how they work, I sometimes pause and wonder if there's a chance that I can be some sort of LLM."
+  },
+  {
+    "Title": "Your coding agent is under-specified",
+    "Url": "https://hsaghir.github.io/blog/2026-05-02-under-specified-coding-agent/",
+    "Timestamp": "2026-05-05T23:04:17",
+    "Domain": "hsaghir.github.io",
+    "Description": "Coding agents write impressive first drafts. But under the surface, corners are cut, details are missing, and technical debt accumulates with every change. The problem is not the model. It is that what we ask it to do is fundamentally under-specified."
+  },
+  {
+    "Title": "A Theory of Deep Learning",
+    "Url": "https://elonlit.com/scrivings/a-theory-of-deep-learning/",
+    "Timestamp": "2026-05-05T23:04:11",
+    "Domain": "elonlit.com",
+    "Description": "We finally know why deep learning works."
+  },
+  {
+    "Title": "charles leifer | Tokens and Dreams",
+    "Url": "https://charlesleifer.com/blog/tokens-and-dreams/",
+    "Timestamp": "2026-05-05T23:03:59",
+    "Domain": "charlesleifer.com",
+    "Description": "May 04, 2026 21:17\n      /\n      \n        ai\n      \n        thoughts\n      \n      /\n      1 comments"
+  },
+  {
     "Title": "A dispute over the TAB key highlights a mismatch between Microsoft and IBM organizational structures - The Old New Thing",
     "Url": "https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298",
     "Timestamp": "2026-05-05T22:02:12",

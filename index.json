@@ -1,5 +1,245 @@
 [
   {
+    "Title": "Computer use is 45x More Expensive Than Structured APIs",
+    "Url": "https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/",
+    "Timestamp": "2026-05-05T23:06:48",
+    "Domain": "reflex.dev",
+    "Description": "We benchmarked computer use against auto-generated API endpoints on the same admin panel. 53 steps and 551k tokens vs 8 calls and 12k tokens.",
+    "Confidence": 0.95792484
+  },
+  {
+    "Title": "That's No Warehouse... It's a Space Station",
+    "Url": "https://blog.matterbeam.com/thats-no-warehouse-its-a-space-station/",
+    "Timestamp": "2026-05-05T23:06:38",
+    "Domain": "blog.matterbeam.com",
+    "Description": "“Fear leads to anger. Anger leads to hate. Hate leads to suffering. And centralized data architectures lead to a table called customer_revenue_final_v9_USE_THIS_ONE_SERIOUSLY.”\n\n— Yoda, leading a postmortem\n\nIn your company there is likely a data warehouse or data lake.\n\nOr a plan for one.",
+    "Confidence": 0.9315526
+  },
+  {
+    "Title": "You Don’t Review Your Compiler Output",
+    "Url": "https://scottrfrancis.wordpress.com/2026/02/13/you-dont-review-your-compiler-output/",
+    "Timestamp": "2026-05-05T23:06:32",
+    "Domain": "scottrfrancis.wordpress.com",
+    "Description": "Someone on LinkedIn posted that every line of AI-generated code should be reviewed with the same rigor you’d apply to a junior developer’s pull request. The reply that stopped the threa…",
+    "Confidence": 0.84281975
+  },
+  {
+    "Title": "Rigorous Nonsense - Easy Random Trees",
+    "Url": "https://blog.wilsonb.com/posts/2026-02-27-easy-random-trees.html",
+    "Timestamp": "2026-05-05T23:06:25",
+    "Domain": "blog.wilsonb.com",
+    "Description": "Posted on February 27, 2026\n    \n        by Brandon Wilson",
+    "Confidence": 0.9622424
+  },
+  {
+    "Title": "The Frog for Whom the Bell Tolls",
+    "Url": "https://sethmlarson.dev/the-frog-for-whom-the-bell-tolls",
+    "Timestamp": "2026-05-05T23:06:19",
+    "Domain": "sethmlarson.dev",
+    "Description": "\n\n\nKaeru no Tame ni Kane wa Naru\n(カエルの為(ため)に鐘(かね)は鳴(な)る)\nis a Japanese-only Game Boy title published in 1992 by Nintendo\nand developed by Intelligent Systems.\nThe title’s official English translati...",
+    "Confidence": 0.7594054
+  },
+  {
+    "Title": "The Prompt API is now on by default in Chrome",
+    "Url": "https://adsm.dev/posts/prompt-api/",
+    "Timestamp": "2026-05-05T23:06:13",
+    "Domain": "adsm.dev",
+    "Description": "How to use the new Prompt API in Google Chrome",
+    "Confidence": 0.9958277
+  },
+  {
+    "Title": "Building a MongoDB GUI Custom Table System: A 9 Month Journey",
+    "Url": "https://visualeaf.com/blog/why-my-custom-table-took-9-months/",
+    "Timestamp": "2026-05-05T23:06:08",
+    "Domain": "visualeaf.com",
+    "Description": "Learn how we built a high-performance MongoDB table view that handles nested, irregular documents at 60fps, even with 100k rows and 1000 columns.",
+    "Confidence": 0.9905807
+  },
+  {
+    "Title": "On the Economics of Truth",
+    "Url": "https://shadesofsingularity.com/essays/economics-of-truth/",
+    "Timestamp": "2026-05-05T23:06:00",
+    "Domain": "shadesofsingularity.com",
+    "Description": "The cost of fabrication has collapsed. The cost of verification has not. This essay traces the triple asymmetry degrading shared reality and what it means for every collective response we need.",
+    "Confidence": 0.8904441
+  },
+  {
+    "Title": "After 3 months of standing desk",
+    "Url": "https://darshanmakwana412.github.io/2026/05/standing-desk/",
+    "Timestamp": "2026-05-05T23:05:55",
+    "Domain": "darshanmakwana412.github.io",
+    "Description": "Since the last 2 months I had to change my environment in which I used to do my long hours of deep work. One of the things that was part of the change was a standing desk. Actually it was not a desk per se but just a platform on top of which I can keep my laptop and just start coding away, the platform was just tall enough that I can’t sit and do work and slightly short enought that I had to bend my knees, so I had to add a wooden plank on top of the platform to level it up.",
+    "Confidence": 0.9029864
+  },
+  {
+    "Title": "Bad bossing and the expertise byproduct",
+    "Url": "https://jakekara.com/blog/2026/05/04/expertise-byproduct",
+    "Timestamp": "2026-05-05T23:05:50",
+    "Domain": "jakekara.com",
+    "Description": "Human effort produces an output as its product and expertise as its byproduct. Bad bosses don't know how lucky they are.",
+    "Confidence": 0.9347337
+  },
+  {
+    "Title": "I've spent 10+ years helping Rails devs reach the App Store. Today, someone shipped without me. | Masilotti.com",
+    "Url": "https://masilotti.com/shipped-without-me/",
+    "Timestamp": "2026-05-05T23:05:43",
+    "Domain": "masilotti.com",
+    "Description": "Yesterday Ruby Native launched. Today the first customer app went live. And the developer never opened Xcode.",
+    "Confidence": 0.9674133
+  },
+  {
+    "Title": "A Guide of Poor Decision Practices in Management for Tech Leaders and Founders • placementist",
+    "Url": "https://placementist.com/insights/a-guide-of-poor-decision-practices-in-management-for-technical-leaders-and-founders-identifying-and-mitigating",
+    "Timestamp": "2026-05-05T23:05:38",
+    "Domain": "placementist.com",
+    "Description": "Best practices, past success and gut instinct: the three management beliefs costing startups the most and how to audit them.",
+    "Confidence": 0.9425071
+  },
+  {
+    "Title": "A Namecheap bug got my domain suspended",
+    "Url": "https://captnemo.in/blog/2026/05/05/namecheap-whois/",
+    "Timestamp": "2026-05-05T23:05:32",
+    "Domain": "captnemo.in",
+    "Description": "My primary domain (captnemo.in, where you’re reading this) was suspended by\nmy registry (.in) for 3 hours last night (4th May 2026).",
+    "Confidence": 0.96766776
+  },
+  {
+    "Title": "krabr.com | How I organize my work",
+    "Url": "https://www.krabr.com/blog/how-i-organize-my-work/",
+    "Timestamp": "2026-05-05T23:05:28",
+    "Domain": "www.krabr.com",
+    "Description": "A plain-text, git-tracked worklog that keeps multiple jobs and side projects in sync without any task-management tooling.",
+    "Confidence": 0.9897402
+  },
+  {
+    "Title": "Pocket — Anthony Liddle",
+    "Url": "https://anthonyliddle.dev/work/pocket",
+    "Timestamp": "2026-05-05T23:05:23",
+    "Domain": "anthonyliddle.dev",
+    "Description": "The web home of Pocket, Mozilla's article-discovery service. 2M+ daily page views at peak. Co-architected across six years, two full rewrites.",
+    "Confidence": 0.9698218
+  },
+  {
+    "Title": "Why Coding Agents Need a Merge Queue - ctx",
+    "Url": "https://ctx.rs/blog/merge-queue-for-agents/",
+    "Timestamp": "2026-05-05T23:05:20",
+    "Domain": "ctx.rs",
+    "Description": "Parallel agents on separate worktrees need a local system to land changes cleanly without conflicts or regressions.",
+    "Confidence": 0.9865513
+  },
+  {
+    "Title": "SaaS Isn't Dying. Its Users Are.",
+    "Url": "https://tomashvili.com/posts/SaaS_Is_not_Dying_Its_Users_Are",
+    "Timestamp": "2026-05-05T23:05:15",
+    "Domain": "tomashvili.com",
+    "Description": "SaaS isn't dying but per-seat pricing, UX polish, and DAU metrics are. Here's what changes when agents become your product's primary user.",
+    "Confidence": 0.9300557
+  },
+  {
+    "Title": "I miss craft",
+    "Url": "https://eliothertenstein.com/notes/on-craft",
+    "Timestamp": "2026-05-05T23:05:10",
+    "Domain": "eliothertenstein.com",
+    "Description": "You can find more of my writing on",
+    "Confidence": 0.96851
+  },
+  {
+    "Title": "Don’t let your Mac’s storage fill up!",
+    "Url": "https://sixcolors.com/post/2026/05/dont-let-your-macs-storage-fill-up/",
+    "Timestamp": "2026-05-05T23:05:06",
+    "Domain": "sixcolors.com",
+    "Description": "Macs don’t do well when they start to approach full storage. The operating system doesn’t provide enough safeguards and backoff options to help you cope with what can become a disaster,…",
+    "Confidence": 0.93887484
+  },
+  {
+    "Title": "When Too Many Maps Overlap on One Person | Yusuf Aytas",
+    "Url": "https://yusufaytas.com/when-too-many-maps-overlap-on-one-person",
+    "Timestamp": "2026-05-05T23:05:01",
+    "Domain": "yusufaytas.com",
+    "Description": "Why engineering teams turn one trusted person into a decision bottleneck. How informal authority, hidden context, and single points of failure slow delivery",
+    "Confidence": 0.97804
+  },
+  {
+    "Title": "Complete Guide: How to Integrate Beehiiv with Hugo via Cloudflare Workers",
+    "Url": "https://www.lucasaguiar.xyz/posts/newsletter-beehiiv-cloudflare-github/",
+    "Timestamp": "2026-05-05T23:04:57",
+    "Domain": "www.lucasaguiar.xyz",
+    "Description": "Learn how to integrate a custom Beehiiv form into a Hugo website on GitHub Pages, using Cloudflare Workers and monitoring via PostHog.",
+    "Confidence": 0.9967088
+  },
+  {
+    "Title": "Everything is a Superfood —",
+    "Url": "https://www.hughparry.com/blog/everything-is-a-superfood/",
+    "Timestamp": "2026-05-05T23:04:46",
+    "Domain": "www.hughparry.com",
+    "Description": "If everything is a superfood, then nothing is.",
+    "Confidence": 0.8467689
+  },
+  {
+    "Title": "Just one more prompt…",
+    "Url": "https://benjaminste.in/blog/2026/05/03/just-one-more-prompt/",
+    "Timestamp": "2026-05-05T23:04:41",
+    "Domain": "benjaminste.in",
+    "Description": "Claude Code gives me a constant stream of dopamine hits but also FOMO, guilt, and anxiety.",
+    "Confidence": 0.95101047
+  },
+  {
+    "Title": "Add Animal Crossing events to your digital calendar",
+    "Url": "https://sethmlarson.dev/animal-crossing-calendar",
+    "Timestamp": "2026-05-05T23:04:36",
+    "Domain": "sethmlarson.dev",
+    "Description": "Animal Forest (“Dōbutsu no Mori” or “どうぶつの森”) was released\nin Japan for the Nintendo 64 on April 14th, 2001:\nexactly 25 years ago today! To celebrate this beloved franchise I have \ncreated calendar...",
+    "Confidence": 0.87265
+  },
+  {
+    "Title": "When Knowledge Becomes Control",
+    "Url": "https://dylanconlin.com/blog/when-knowledge-becomes-control/",
+    "Timestamp": "2026-05-05T23:04:29",
+    "Domain": "dylanconlin.com",
+    "Description": "Instructions and governance are different things. I ran 265 experiments to find the boundary.",
+    "Confidence": 0.9770701
+  },
+  {
+    "Title": "My 1B tokens/day OpenAI Symphony setup",
+    "Url": "https://www.alessiofanelli.com/posts/my-1b-tokens-day-openai-symphony-setup/",
+    "Timestamp": "2026-05-05T23:04:26",
+    "Domain": "www.alessiofanelli.com",
+    "Description": "How I run OpenAI Symphony 24/7 on Zo Computer with Linear, project skills, and a token usage dashboard.",
+    "Confidence": 0.9839976
+  },
+  {
+    "Title": "Am I an LLM?",
+    "Url": "https://www.arturonereu.com/articles/am-i-an-llm/",
+    "Timestamp": "2026-05-05T23:04:22",
+    "Domain": "www.arturonereu.com",
+    "Description": "As I keep interacting with LLMs and learn how they work, I sometimes pause and wonder if there's a chance that I can be some sort of LLM.",
+    "Confidence": 0.94032586
+  },
+  {
+    "Title": "Your coding agent is under-specified",
+    "Url": "https://hsaghir.github.io/blog/2026-05-02-under-specified-coding-agent/",
+    "Timestamp": "2026-05-05T23:04:17",
+    "Domain": "hsaghir.github.io",
+    "Description": "Coding agents write impressive first drafts. But under the surface, corners are cut, details are missing, and technical debt accumulates with every change. The problem is not the model. It is that what we ask it to do is fundamentally under-specified.",
+    "Confidence": 0.99308
+  },
+  {
+    "Title": "A Theory of Deep Learning",
+    "Url": "https://elonlit.com/scrivings/a-theory-of-deep-learning/",
+    "Timestamp": "2026-05-05T23:04:11",
+    "Domain": "elonlit.com",
+    "Description": "We finally know why deep learning works.",
+    "Confidence": 0.98240465
+  },
+  {
+    "Title": "charles leifer | Tokens and Dreams",
+    "Url": "https://charlesleifer.com/blog/tokens-and-dreams/",
+    "Timestamp": "2026-05-05T23:03:59",
+    "Domain": "charlesleifer.com",
+    "Description": "May 04, 2026 21:17\n      /\n      \n        ai\n      \n        thoughts\n      \n      /\n      1 comments",
+    "Confidence": 0.9746793
+  },
+  {
     "Title": "A dispute over the TAB key highlights a mismatch between Microsoft and IBM organizational structures - The Old New Thing",
     "Url": "https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298",
     "Timestamp": "2026-05-05T22:02:12",
@@ -118,197 +358,5 @@
     "Domain": "openai.com",
     "Description": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
     "Confidence": 0.9852773
-  },
-  {
-    "Title": "We Can Do Hard Things",
-    "Url": "https://allenpike.com/2026/we-can-do-hard-things/",
-    "Timestamp": "2026-05-04T23:03:50",
-    "Domain": "allenpike.com",
-    "Description": "On getting uncomfortable.",
-    "Confidence": 0.9740633
-  },
-  {
-    "Title": "Oomphalism",
-    "Url": "https://joeldueck.com/oomphalism.html",
-    "Timestamp": "2026-05-04T23:03:46",
-    "Domain": "joeldueck.com",
-    "Description": "Naming the corporate mode of perception",
-    "Confidence": 0.9086539
-  },
-  {
-    "Title": "What five years of solo development taught me — Tyler Boyd",
-    "Url": "https://www.tylerevan.dev/writing/five-years-solo",
-    "Timestamp": "2026-05-04T23:03:42",
-    "Domain": "www.tylerevan.dev",
-    "Description": "What I learned from five years as the only developer at a small, growing company — and what's already transferring now that I'm not solo anymore.",
-    "Confidence": 0.9902716
-  },
-  {
-    "Title": "Equal Ping for All",
-    "Url": "https://bagnalla.github.io/posts/ping-charity.html",
-    "Timestamp": "2026-05-04T23:03:39",
-    "Domain": "bagnalla.github.io",
-    "Description": "How does that “equal ping” thing work? It is not that complicated, but for now, I rather keep the secret buried in the source code (too lazy to explain it right now…).",
-    "Confidence": 0.986773
-  },
-  {
-    "Title": "What I Got Wrong Implementing Graph-Based Vector Search",
-    "Url": "https://dubeykartikay.com/posts/reading-algorithms-like-an-engineer/",
-    "Timestamp": "2026-05-04T23:03:35",
-    "Domain": "dubeykartikay.com",
-    "Description": "A dev log about implementing a Vamana-style ANN index from the DiskANN paper, why my first version was slower than brute force, and what it taught me about reading algorithms with implementation in mind.",
-    "Confidence": 0.9737958
-  },
-  {
-    "Title": "Growth engineering one pager | Jordan Lord",
-    "Url": "https://jordanlord.co.uk/blog/growth-engineering/",
-    "Timestamp": "2026-05-04T23:03:32",
-    "Domain": "jordanlord.co.uk",
-    "Description": "['Programmer', 'Computer nerd', 'Unix enthusiast'];",
-    "Confidence": 0.97643965
-  },
-  {
-    "Title": "AI didn't delete your database, you did",
-    "Url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did?src=feed",
-    "Timestamp": "2026-05-04T23:03:28",
-    "Domain": "idiallo.com",
-    "Description": "Last week, a tweet went viral showing a guy claiming that a Cursor/Claude agent deleted his company's production database. We watched from the sidelines as he tried to get a confession from the agent:",
-    "Confidence": 0.97214675
-  },
-  {
-    "Title": "Thoughts on the #slopdemic",
-    "Url": "https://cje.io/2026/05/04/thoughts-on-the-slopdemic/",
-    "Timestamp": "2026-05-04T23:03:25",
-    "Domain": "cje.io",
-    "Description": "Move over #vulnpocalypse — there's a new term we need to talk about: the #slopdemic. AI didn't invent low-quality vuln reports, but it just turbocharged them, and F/OSS is drowning.",
-    "Confidence": 0.9548243
-  },
-  {
-    "Title": "Infinite Image Grids are Flat Toruses",
-    "Url": "https://seththompson.com/articles/infinite-image-grids",
-    "Timestamp": "2026-05-04T23:03:21",
-    "Domain": "seththompson.com",
-    "Description": "Seth Thompson is a designer and software engineer in New York. His work engages with spatial representation and computational image-making.",
-    "Confidence": 0.9975059
-  },
-  {
-    "Title": "Verifying Poseidon in Clean: Why the Last 'sorry' Is About Primality",
-    "Url": "https://blog.zksecurity.xyz/posts/poseidon-clean/",
-    "Timestamp": "2026-05-04T23:03:17",
-    "Domain": "blog.zksecurity.xyz",
-    "Description": "We walk through a Lean 4 proof of correctness for a Clean model of circomlib's optimized Poseidon hash circuit at arity 1. The theorem says the modeled constraints are sound and complete with respect to the optimized Poseidon spec. After weeks of work, the only remaining `sorry` was a primality proof for the BN254 scalar field: a 254-bit number that no proof assistant can decide by trial division. Closing it requires a Pratt certificate, a recursive proof structure based on a theorem Lucas published in 1876.",
-    "Confidence": 0.9963525
-  },
-  {
-    "Title": "Don't fly if you can help it",
-    "Url": "https://michaelbluejay.com/airfare/dontfly.html",
-    "Timestamp": "2026-05-04T23:03:13",
-    "Domain": "michaelbluejay.com",
-    "Description": "Flying or frying?  Air trips release huge quantities of\n        greenhouse gases, and they do so up in the sky where they're more\n        damaging.  If you can, try to find an alternative to flying,\n          such as:",
-    "Confidence": 0.8991841
-  },
-  {
-    "Title": "14 Years of Mistakes to “Make Something People Want”",
-    "Url": "https://nmn.gl/blog/meditations-on-make-something-people-want",
-    "Timestamp": "2026-05-04T23:03:10",
-    "Domain": "nmn.gl",
-    "Description": "I just got accepted into Y Combinator. It feels like a dream, because their motto is something I’ve been turning over in my head since I was a kid reading Paul Graham’s essays on a CRT monitor. “Make something people want” sounds like simple four words, but it took me 14 years to unravel their deepest meaning.",
-    "Confidence": 0.9387151
-  },
-  {
-    "Title": "That time at Microsoft when I made part of Windows 100X faster...",
-    "Url": "https://youtube.com/watch?v=VYTF4KIF2z0",
-    "Timestamp": "2026-05-04T23:03:06",
-    "Domain": "youtube.com",
-    "Description": "When I was a Windows developer in 1994, I discovered a routine that was called continually but written very inefficiently; this is the story of how I fixed it!",
-    "Confidence": 0.8709274
-  },
-  {
-    "Title": "Screw you Realtek",
-    "Url": "https://www.growse.com/2026/05/02/screw-you-realtek.html",
-    "Timestamp": "2026-05-04T23:03:04",
-    "Domain": "www.growse.com",
-    "Description": "",
-    "Confidence": 0.9688879
-  },
-  {
-    "Title": "The Scooter and the Bike",
-    "Url": "https://maxmautner.com/2026/04/12/scooter-vs-bike.html",
-    "Timestamp": "2026-05-04T23:03:01",
-    "Domain": "maxmautner.com",
-    "Description": "A comparison of kickscooters and bicycles across learning curve, energy efficiency, cost, portability, and theft risk — and what the differences mean for urban transportation advocates and anyone trying to get out of their car.",
-    "Confidence": 0.8932507
-  },
-  {
-    "Title": "Parachuting In | Kevin London",
-    "Url": "https://www.kevinlondon.com/2026/04/15/parachuting-in/",
-    "Timestamp": "2026-05-04T23:02:57",
-    "Domain": "www.kevinlondon.com",
-    "Description": "I don't hand-write code anymore. The hard parts didn't go away.",
-    "Confidence": 0.9654505
-  },
-  {
-    "Title": "Nondeterminism's not the problem",
-    "Url": "https://isaacvando.com/nondeterminisms-not-the-problem",
-    "Timestamp": "2026-05-04T23:02:53",
-    "Domain": "isaacvando.com",
-    "Description": "Nondeterminism isn't why LLMs struggle",
-    "Confidence": 0.9860512
-  },
-  {
-    "Title": "The transmission",
-    "Url": "https://agourlay.github.io/the-transmission/",
-    "Timestamp": "2026-05-04T23:02:50",
-    "Domain": "agourlay.github.io",
-    "Description": "Yet another programming blog",
-    "Confidence": 0.7179382
-  },
-  {
-    "Title": "On versioning",
-    "Url": "https://ssg.dev/on-versioning/",
-    "Timestamp": "2026-05-04T23:02:42",
-    "Domain": "ssg.dev",
-    "Description": "I didn’t investigate the history of versioning per se, but I’m pretty sure first version numbers were just simple integers: 1, 2… Apollo…",
-    "Confidence": 0.9903307
-  },
-  {
-    "Title": "Not Shay",
-    "Url": "https://www.shaylivni.com/blog/make-architecture-context-queryable",
-    "Timestamp": "2026-05-04T23:02:39",
-    "Domain": "www.shaylivni.com",
-    "Description": "Portfolio of Not Shay. Building innovative solutions and creating impact.",
-    "Confidence": 0.9361284
-  },
-  {
-    "Title": "I Bought a Denon for My Wedding. Twelve Years Later, I Vibe-Coded Its Radio Back to Life.",
-    "Url": "https://victorantos.com/posts/i-bought-a-denon-for-my-wedding-then-i-vibe-coded-its-radio-back/",
-    "Timestamp": "2026-05-04T23:02:34",
-    "Domain": "victorantos.com",
-    "Description": "Twelve years ago today, I bought my first audio amplifier.",
-    "Confidence": 0.9519927
-  },
-  {
-    "Title": "How I Actually Automate Everything",
-    "Url": "https://effective-programmer.com/how-i-actually-automate-everything-0d97ed624a34?sk=f8a15ad7e32cde79a085bb4f40330eae",
-    "Timestamp": "2026-05-04T23:02:30",
-    "Domain": "effective-programmer.com",
-    "Description": "Without OpenClaw or Claude",
-    "Confidence": 0.97917974
-  },
-  {
-    "Title": "Ten Years of Frinkiac",
-    "Url": "https://langui.sh/2026/05/04/ten-years-of-frinkiac/",
-    "Timestamp": "2026-05-04T23:02:25",
-    "Domain": "langui.sh",
-    "Description": "It’s been just over ten years (February 2, 2016) since we launched Frinkiac to the public. In those first few months after release we added GIF support, some new sites (hello Morbotron), and then we mostly stopped working on it. Everything worked well enough for us and the code sat unchanged on the same architecture we’d built in 2015.",
-    "Confidence": 0.9615648
-  },
-  {
-    "Title": "Become a Product-First Software Engineer",
-    "Url": "https://www.jakeworth.com/posts/become-a-product-first-software-engineer/",
-    "Timestamp": "2026-05-04T23:02:22",
-    "Domain": "www.jakeworth.com",
-    "Description": "I think many engineers would be better contributors if they started to think more about the customer impact of their work.",
-    "Confidence": 0.98253644
   }
 ]
