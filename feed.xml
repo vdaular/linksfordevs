@@ -345,17 +345,5 @@
       <guid>https://thienantran.com/talking-to-35-strangers-at-the-gym/</guid>
       <pubDate>Mon, 04 May 2026 15:02:27 GMT</pubDate>
     </item>
-    <item>
-      <title>The text mode lie: why modern TUIs are a nightmare for accessibility</title>
-      <link>https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility</link>
-      <description>The mythical, it's text, so it's accessible  There is a persistent misconception among sighted developers: if an application runs in a te...</description>
-      <category>nodejs</category>
-      <category>javascript</category>
-      <category>linux</category>
-      <category>vscode</category>
-      <category>ai</category>
-      <guid>https://xogium.me/the-text-mode-lie-why-modern-tuis-are-a-nightmare-for-accessibility</guid>
-      <pubDate>Mon, 04 May 2026 14:02:11 GMT</pubDate>
-    </item>
   </channel>
 </rss>
