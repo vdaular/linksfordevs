@@ -7,6 +7,32 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Horizontal Stabilizers</title>
+      <link>https://xkcd.com/3241/</link>
+      <description></description>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3241/</guid>
+      <pubDate>Tue, 05 May 2026 20:02:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Accelerating Gemma 4: faster inference with  multi-token prediction drafters</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/</link>
+      <description>An overview of how Multi-Token Prediction (MTP) drafters are making Gemma 4 models up to 3x faster at inference.</description>
+      <category>ai</category>
+      <category>apple</category>
+      <category>android</category>
+      <guid>https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/</guid>
+      <pubDate>Tue, 05 May 2026 20:02:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Three Inverse Laws of AI</title>
+      <link>https://susam.net/inverse-laws-of-robotics.html</link>
+      <description>By Susam Pal on 12 Jan 2026</description>
+      <category>ai</category>
+      <guid>https://susam.net/inverse-laws-of-robotics.html</guid>
+      <pubDate>Tue, 05 May 2026 20:02:16 GMT</pubDate>
+    </item>
+    <item>
       <title>The best is over</title>
       <link>https://muddy.jprs.me/posts/2026-05-03-the-best-is-over/</link>
       <description>The seed of this post was hearing “I Don’t Wanna Wait” on the radio while shopping for groceries. The song rips off “Dragostea Din Tei” by O-Zone, which anyone …</description>
