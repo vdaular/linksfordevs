@@ -286,13 +286,5 @@
     "Domain": "wwj.dev",
     "Description": "Bun is excellent software. Anthropic owns it now, Bun sits under Claude Code, and Claude Code getting worse makes me worried Bun could follow the same enshittification path.",
     "Confidence": 0.9840592
-  },
-  {
-    "Title": "Days Without GitHub Incident",
-    "Url": "https://www.dayswithoutgithubincident.com/",
-    "Timestamp": "2026-05-04T19:02:12",
-    "Domain": "www.dayswithoutgithubincident.com",
-    "Description": "Last Incident:",
-    "Confidence": 0.85189676
   }
 ]
