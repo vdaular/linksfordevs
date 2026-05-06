@@ -342,13 +342,5 @@
     "Domain": "walletwallet.alen.ro",
     "Description": "Apple is letting users build their own Wallet passes in iOS 27. After 14 years of PassKit, the supply-side problem is finally being solved from the demand side.",
     "Confidence": 0.965316
-  },
-  {
-    "Title": "AI didn't delete your database, you did",
-    "Url": "https://idiallo.com/blog/ai-didnt-delete-your-database-you-did",
-    "Timestamp": "2026-05-05T16:02:27",
-    "Domain": "idiallo.com",
-    "Description": "Last week, a tweet went viral showing a guy claiming that a Cursor/Claude agent deleted his company's production database. We watched from the sidelines as he tried to get a confession from the agent:",
-    "Confidence": 0.9692948
   }
 ]

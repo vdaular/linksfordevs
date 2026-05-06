@@ -414,15 +414,5 @@ created calendar...</description>
       <guid>https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/</guid>
       <pubDate>Tue, 05 May 2026 17:02:09 GMT</pubDate>
     </item>
-    <item>
-      <title>AI didn't delete your database, you did</title>
-      <link>https://idiallo.com/blog/ai-didnt-delete-your-database-you-did</link>
-      <description>Last week, a tweet went viral showing a guy claiming that a Cursor/Claude agent deleted his company's production database. We watched from the sidelines as he tried to get a confession from the agent:</description>
-      <category>ai</category>
-      <category>sql</category>
-      <category>git</category>
-      <guid>https://idiallo.com/blog/ai-didnt-delete-your-database-you-did</guid>
-      <pubDate>Tue, 05 May 2026 16:02:27 GMT</pubDate>
-    </item>
   </channel>
 </rss>
