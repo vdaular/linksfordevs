@@ -350,13 +350,5 @@
     "Domain": "easylang.online",
     "Description": "With modern CPUs, avoiding branch mispredictions is a key method for speeding up programs. One of the most effective ways to reduce mispredictions is to simply avoid branches.",
     "Confidence": 0.9894105
-  },
-  {
-    "Title": "How OpenAI delivers low-latency voice AI at scale",
-    "Url": "https://openai.com/index/delivering-low-latency-voice-ai-at-scale/",
-    "Timestamp": "2026-05-05T01:02:08",
-    "Domain": "openai.com",
-    "Description": "How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.",
-    "Confidence": 0.9852773
   }
 ]

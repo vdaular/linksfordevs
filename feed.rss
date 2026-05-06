@@ -426,16 +426,5 @@ created calendar...</description>
       <guid>https://easylang.online/blog/branchless</guid>
       <pubDate>Tue, 05 May 2026 02:02:26 GMT</pubDate>
     </item>
-    <item>
-      <title>How OpenAI delivers low-latency voice AI at scale</title>
-      <link>https://openai.com/index/delivering-low-latency-voice-ai-at-scale/</link>
-      <description>How OpenAI rebuilt its WebRTC stack to power real-time Voice AI with low latency, global scale, and seamless conversational turn-taking.</description>
-      <category>containers</category>
-      <category>encryption</category>
-      <category>ai</category>
-      <category>linux</category>
-      <guid>https://openai.com/index/delivering-low-latency-voice-ai-at-scale/</guid>
-      <pubDate>Tue, 05 May 2026 01:02:08 GMT</pubDate>
-    </item>
   </channel>
 </rss>
