@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Appearing Productive in The Workplace — No One's Happy",
+    "Url": "https://nooneshappy.com/article/appearing-productive-in-the-workplace/",
+    "Timestamp": "2026-05-06T20:02:00",
+    "Domain": "nooneshappy.com",
+    "Description": "AI can produce work that looks expert without being expert. The failure arrives in two shapes, and both are reshaping the workplace.",
+    "Confidence": 0.9091238
+  },
+  {
     "Title": "Aperiodic Table",
     "Url": "https://xkcd.com/3242/",
     "Timestamp": "2026-05-06T19:02:06",
@@ -318,29 +326,5 @@
     "Domain": "devblogs.microsoft.com",
     "Description": "I want to speak to your manager.",
     "Confidence": 0.58110875
-  },
-  {
-    "Title": "Horizontal Stabilizers",
-    "Url": "https://xkcd.com/3241/",
-    "Timestamp": "2026-05-05T20:02:23",
-    "Domain": "xkcd.com",
-    "Description": "",
-    "Confidence": 0.98151064
-  },
-  {
-    "Title": "Accelerating Gemma 4: faster inference with  multi-token prediction drafters",
-    "Url": "https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/",
-    "Timestamp": "2026-05-05T20:02:20",
-    "Domain": "blog.google",
-    "Description": "An overview of how Multi-Token Prediction (MTP) drafters are making Gemma 4 models up to 3x faster at inference.",
-    "Confidence": 0.9717633
-  },
-  {
-    "Title": "Three Inverse Laws of AI",
-    "Url": "https://susam.net/inverse-laws-of-robotics.html",
-    "Timestamp": "2026-05-05T20:02:16",
-    "Domain": "susam.net",
-    "Description": "By Susam Pal on 12 Jan 2026",
-    "Confidence": 0.9778853
   }
 ]

@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Appearing Productive in The Workplace — No One's Happy</title>
+      <link>https://nooneshappy.com/article/appearing-productive-in-the-workplace/</link>
+      <description>AI can produce work that looks expert without being expert. The failure arrives in two shapes, and both are reshaping the workplace.</description>
+      <author> (No One's Happy)</author>
+      <category>ai</category>
+      <guid>https://nooneshappy.com/article/appearing-productive-in-the-workplace/</guid>
+      <pubDate>Wed, 06 May 2026 20:02:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Aperiodic Table</title>
       <link>https://xkcd.com/3242/</link>
       <description></description>
@@ -384,32 +393,6 @@ created calendar...</description>
       <description>I want to speak to your manager.</description>
       <guid>https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298</guid>
       <pubDate>Tue, 05 May 2026 22:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Horizontal Stabilizers</title>
-      <link>https://xkcd.com/3241/</link>
-      <description></description>
-      <category>javascript</category>
-      <guid>https://xkcd.com/3241/</guid>
-      <pubDate>Tue, 05 May 2026 20:02:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Accelerating Gemma 4: faster inference with  multi-token prediction drafters</title>
-      <link>https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/</link>
-      <description>An overview of how Multi-Token Prediction (MTP) drafters are making Gemma 4 models up to 3x faster at inference.</description>
-      <category>ai</category>
-      <category>apple</category>
-      <category>android</category>
-      <guid>https://blog.google/innovation-and-ai/technology/developers-tools/multi-token-prediction-gemma-4/</guid>
-      <pubDate>Tue, 05 May 2026 20:02:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Three Inverse Laws of AI</title>
-      <link>https://susam.net/inverse-laws-of-robotics.html</link>
-      <description>By Susam Pal on 12 Jan 2026</description>
-      <category>ai</category>
-      <guid>https://susam.net/inverse-laws-of-robotics.html</guid>
-      <pubDate>Tue, 05 May 2026 20:02:16 GMT</pubDate>
     </item>
   </channel>
 </rss>
