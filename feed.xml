@@ -418,14 +418,5 @@ created calendar...</description>
       <guid>https://github.com/angelos-p/llm-from-scratch</guid>
       <pubDate>Tue, 05 May 2026 11:02:18 GMT</pubDate>
     </item>
-    <item>
-      <title>Agent Skills</title>
-      <link>https://addyosmani.com/blog/agent-skills/</link>
-      <description>AI coding agents take the shortest path to done, which usually means skipping the specs, tests, and reviews that make software reliable at scale. Agent Skill...</description>
-      <category>ai</category>
-      <category>git</category>
-      <guid>https://addyosmani.com/blog/agent-skills/</guid>
-      <pubDate>Tue, 05 May 2026 10:02:01 GMT</pubDate>
-    </item>
   </channel>
 </rss>

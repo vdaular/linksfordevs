@@ -342,13 +342,5 @@
     "Domain": "github.com",
     "Description": "Contribute to angelos-p/llm-from-scratch development by creating an account on GitHub.",
     "Confidence": 0.9678296
-  },
-  {
-    "Title": "Agent Skills",
-    "Url": "https://addyosmani.com/blog/agent-skills/",
-    "Timestamp": "2026-05-05T10:02:01",
-    "Domain": "addyosmani.com",
-    "Description": "AI coding agents take the shortest path to done, which usually means skipping the specs, tests, and reviews that make software reliable at scale. Agent Skill...",
-    "Confidence": 0.9925239
   }
 ]
