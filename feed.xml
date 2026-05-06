@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Red Squares — the GitHub outage graph</title>
+      <link>https://red-squares.cian.lol/</link>
+      <description>A satirical contribution graph: red squares track GitHub.com platform outages instead of green squares tracking commits.</description>
+      <category>git</category>
+      <guid>https://red-squares.cian.lol/</guid>
+      <pubDate>Wed, 06 May 2026 13:02:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Asimov's three laws are merely a suggestion</title>
       <link>https://idiallo.com/blog/asimov-three-laws-dont-work-with-ai?src=feed</link>
       <description>Asimov's Three Laws of Robotics were designed as universal constraints for any thinking machine powerful enough to harm us:
@@ -407,14 +415,6 @@ created calendar...</description>
       <category>git</category>
       <guid>https://idiallo.com/blog/ai-didnt-delete-your-database-you-did</guid>
       <pubDate>Tue, 05 May 2026 16:02:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Async Rust never left the MVP state - Blog - Tweede golf</title>
-      <link>https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state</link>
-      <description>I've previously explained async bloat and some work-arounds for it, but would much prefer to solve the issue at the root, in the compiler. I've submitted a Project Goal, and am looking for help to ...</description>
-      <category>rust</category>
-      <guid>https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state</guid>
-      <pubDate>Tue, 05 May 2026 13:02:20 GMT</pubDate>
     </item>
   </channel>
 </rss>
