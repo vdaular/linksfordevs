@@ -406,17 +406,5 @@ created calendar...</description>
       <guid>https://tweedegolf.nl/en/blog/237/async-rust-never-left-the-mvp-state</guid>
       <pubDate>Tue, 05 May 2026 13:02:20 GMT</pubDate>
     </item>
-    <item>
-      <title>GitHub - angelos-p/llm-from-scratch</title>
-      <link>https://github.com/angelos-p/llm-from-scratch</link>
-      <description>Contribute to angelos-p/llm-from-scratch development by creating an account on GitHub.</description>
-      <category>ai</category>
-      <category>python</category>
-      <category>apple</category>
-      <category>linux</category>
-      <category>vscode</category>
-      <guid>https://github.com/angelos-p/llm-from-scratch</guid>
-      <pubDate>Tue, 05 May 2026 11:02:18 GMT</pubDate>
-    </item>
   </channel>
 </rss>

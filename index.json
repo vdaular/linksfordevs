@@ -334,13 +334,5 @@
     "Domain": "tweedegolf.nl",
     "Description": "I've previously explained async bloat and some work-arounds for it, but would much prefer to solve the issue at the root, in the compiler. I've submitted a Project Goal, and am looking for help to ...",
     "Confidence": 0.99801284
-  },
-  {
-    "Title": "GitHub - angelos-p/llm-from-scratch",
-    "Url": "https://github.com/angelos-p/llm-from-scratch",
-    "Timestamp": "2026-05-05T11:02:18",
-    "Domain": "github.com",
-    "Description": "Contribute to angelos-p/llm-from-scratch development by creating an account on GitHub.",
-    "Confidence": 0.9678296
   }
 ]
