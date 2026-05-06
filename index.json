@@ -326,21 +326,5 @@
     "Domain": "daringfireball.net",
     "Description": "The fact that Paul Graham personally has billions of dollars at stake with OpenAI doesn’t mean that his public opinion on Sam Altman’s trustworthiness and leadership is invalid. But it certainly seems like the sort of thing that ought to be disclosed when quoting Graham as an Altman character reference.",
     "Confidence": 0.80391777
-  },
-  {
-    "Title": "docs: add Phase-A porting guide · oven-sh/bun@46d3bc2",
-    "Url": "https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5",
-    "Timestamp": "2026-05-05T05:02:18",
-    "Domain": "github.com",
-    "Description": "Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one - docs: add Phase-A porting guide · oven-sh/bun@46d3bc2",
-    "Confidence": 0.98809534
-  },
-  {
-    "Title": "Stop big tech from making users behave in ways they don’t want to",
-    "Url": "https://www.economist.com/by-invitation/2026/04/29/stop-big-tech-from-making-users-behave-in-ways-they-dont-want-to",
-    "Timestamp": "2026-05-05T05:02:13",
-    "Domain": "www.economist.com",
-    "Description": "That means targeting mechanisms engineered to rewire the brain’s reward system, writes Marie Potel-Saville",
-    "Confidence": 0.658357
   }
 ]

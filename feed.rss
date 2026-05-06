@@ -398,25 +398,5 @@ created calendar...</description>
       <guid>https://daringfireball.net/2026/05/y_combinators_stake_in_openai</guid>
       <pubDate>Tue, 05 May 2026 07:02:07 GMT</pubDate>
     </item>
-    <item>
-      <title>docs: add Phase-A porting guide · oven-sh/bun@46d3bc2</title>
-      <link>https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5</link>
-      <description>Incredibly fast JavaScript runtime, bundler, test runner, and package manager – all in one - docs: add Phase-A porting guide · oven-sh/bun@46d3bc2</description>
-      <category>rust</category>
-      <category>nodejs</category>
-      <category>javascript</category>
-      <category>web</category>
-      <category>linux</category>
-      <guid>https://github.com/oven-sh/bun/commit/46d3bc29f270fa881dd5730ef1549e88407701a5</guid>
-      <pubDate>Tue, 05 May 2026 05:02:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stop big tech from making users behave in ways they don’t want to</title>
-      <link>https://www.economist.com/by-invitation/2026/04/29/stop-big-tech-from-making-users-behave-in-ways-they-dont-want-to</link>
-      <description>That means targeting mechanisms engineered to rewire the brain’s reward system, writes Marie Potel-Saville</description>
-      <category>youtube</category>
-      <guid>https://www.economist.com/by-invitation/2026/04/29/stop-big-tech-from-making-users-behave-in-ways-they-dont-want-to</guid>
-      <pubDate>Tue, 05 May 2026 05:02:13 GMT</pubDate>
-    </item>
   </channel>
 </rss>
