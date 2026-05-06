@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Vibe coding and agentic engineering are getting closer than I’d like</title>
+      <link>https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/</link>
+      <description>I recently talked with Joseph Ruscio about AI coding tools for Heavybit’s High Leverage podcast: Ep. #9, The AI Coding Paradigm Shift with Simon Willison. Here are some of my …</description>
+      <category>ai</category>
+      <category>git</category>
+      <category>javascript</category>
+      <category>sql</category>
+      <guid>https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/</guid>
+      <pubDate>Wed, 06 May 2026 22:02:07 GMT</pubDate>
+    </item>
+    <item>
       <title>Higher usage limits for Claude and a compute deal with SpaceX</title>
       <link>https://www.anthropic.com/news/higher-limits-spacex</link>
       <description>We’ve raised Claude's usage limits and agreed a new compute partnership with SpaceX that will substantially increase our capacity in the near term. </description>
@@ -395,13 +406,6 @@ created calendar...</description>
       <category>nodejs</category>
       <guid>https://charlesleifer.com/blog/tokens-and-dreams/</guid>
       <pubDate>Tue, 05 May 2026 23:03:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>A dispute over the TAB key highlights a mismatch between Microsoft and IBM organizational structures - The Old New Thing</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298</link>
-      <description>I want to speak to your manager.</description>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298</guid>
-      <pubDate>Tue, 05 May 2026 22:02:12 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Vibe coding and agentic engineering are getting closer than I’d like",
+    "Url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
+    "Timestamp": "2026-05-06T22:02:07",
+    "Domain": "simonwillison.net",
+    "Description": "I recently talked with Joseph Ruscio about AI coding tools for Heavybit’s High Leverage podcast: Ep. #9, The AI Coding Paradigm Shift with Simon Willison. Here are some of my …",
+    "Confidence": 0.9840546
+  },
+  {
     "Title": "Higher usage limits for Claude and a compute deal with SpaceX",
     "Url": "https://www.anthropic.com/news/higher-limits-spacex",
     "Timestamp": "2026-05-06T21:02:19",
@@ -326,13 +334,5 @@
     "Domain": "charlesleifer.com",
     "Description": "May 04, 2026 21:17\n      /\n      \n        ai\n      \n        thoughts\n      \n      /\n      1 comments",
     "Confidence": 0.9746793
-  },
-  {
-    "Title": "A dispute over the TAB key highlights a mismatch between Microsoft and IBM organizational structures - The Old New Thing",
-    "Url": "https://devblogs.microsoft.com/oldnewthing/20260505-00/?p=112298",
-    "Timestamp": "2026-05-05T22:02:12",
-    "Domain": "devblogs.microsoft.com",
-    "Description": "I want to speak to your manager.",
-    "Confidence": 0.58110875
   }
 ]
