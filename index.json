@@ -326,21 +326,5 @@
     "Domain": "susam.net",
     "Description": "By Susam Pal on 12 Jan 2026",
     "Confidence": 0.9778853
-  },
-  {
-    "Title": "The best is over",
-    "Url": "https://muddy.jprs.me/posts/2026-05-03-the-best-is-over/",
-    "Timestamp": "2026-05-05T17:02:13",
-    "Domain": "muddy.jprs.me",
-    "Description": "The seed of this post was hearing “I Don’t Wanna Wait” on the radio while shopping for groceries. The song rips off “Dragostea Din Tei” by O-Zone, which anyone …",
-    "Confidence": 0.8705942
-  },
-  {
-    "Title": "iOS 27 is adding a 'Create a Pass' button to Apple Wallet",
-    "Url": "https://walletwallet.alen.ro/blog/ios-27-wallet-create-pass/",
-    "Timestamp": "2026-05-05T17:02:09",
-    "Domain": "walletwallet.alen.ro",
-    "Description": "Apple is letting users build their own Wallet passes in iOS 27. After 14 years of PassKit, the supply-side problem is finally being solved from the demand side.",
-    "Confidence": 0.965316
   }
 ]
