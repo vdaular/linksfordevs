@@ -7,6 +7,193 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Desktop Tracking Software: The Smart Way to Track Your Activities at Work</title>
+      <link>https://yakihonne.com/article/naddr1qvzqqqr4gupzqvcy9tkh3xq8x5m7mdsqxx7mcylxxrj8hdj6psdy89g8jaa2e4mfqy88wumn8ghj7mn0wvhxcmmv9uq36amnwvaz7tmwdaehgu3dxqcju7tpdd5ksmmwdejjucm0d5hsq92829frzejpwym423mz0pf5xjrzx4c5wjzhgjeup6</link>
+      <description>In today’s fast-paced digital work environment, staying productive and maintaining accountability ca</description>
+      <guid>https://yakihonne.com/article/naddr1qvzqqqr4gupzqvcy9tkh3xq8x5m7mdsqxx7mcylxxrj8hdj6psdy89g8jaa2e4mfqy88wumn8ghj7mn0wvhxcmmv9uq36amnwvaz7tmwdaehgu3dxqcju7tpdd5ksmmwdejjucm0d5hsq92829frzejpwym423mz0pf5xjrzx4c5wjzhgjeup6</guid>
+      <pubDate>Wed, 06 May 2026 23:03:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Building the deployment tool I wish I had</title>
+      <link>https://ruuda.nl/2026/deptool</link>
+      <description>Deptool is a new declarative configuration deployment tool that I built for myself. In this post I describe the design, and I explain what problems it solves.</description>
+      <category>git</category>
+      <category>python</category>
+      <guid>https://ruuda.nl/2026/deptool</guid>
+      <pubDate>Wed, 06 May 2026 23:03:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Are we self-sovereign PKI yet? · Buffrr</title>
+      <link>https://buffrr.dev/blog/are-we-self-sovereign-pki-yet/</link>
+      <description>Notes on cryptography, naming, and self-sovereign systems.</description>
+      <category>nodejs</category>
+      <category>encryption</category>
+      <category>git</category>
+      <guid>https://buffrr.dev/blog/are-we-self-sovereign-pki-yet/</guid>
+      <pubDate>Wed, 06 May 2026 23:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Silent Jungles</title>
+      <link>https://suziepetryk.com/blog/jungles.html</link>
+      <description></description>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://suziepetryk.com/blog/jungles.html</guid>
+      <pubDate>Wed, 06 May 2026 23:03:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Don't become a wrapper</title>
+      <link>https://www.anantjain.xyz/posts/dont-become-a-wrapper</link>
+      <description>Remember ChatGPT wrappers? We now have Agent wrappers.</description>
+      <category>ai</category>
+      <guid>https://www.anantjain.xyz/posts/dont-become-a-wrapper</guid>
+      <pubDate>Wed, 06 May 2026 23:03:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Open weights are quietly closing up - and that's a problem</title>
+      <link>https://martinalderson.com/posts/open-weights-are-quietly-closing-up/</link>
+      <description>Open weights models keep frontier labs honest on price. If they disappear, we end up with a handful of oligopolists extracting consumer surplus.</description>
+      <author> (Martin Alderson)</author>
+      <category>ai</category>
+      <guid>https://martinalderson.com/posts/open-weights-are-quietly-closing-up/</guid>
+      <pubDate>Wed, 06 May 2026 23:03:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>From Tiny Seed to Towering Sequoia</title>
+      <link>https://www.jackhogan.me/blog/from-tiny-seed-to-towering-sequoia</link>
+      <description>How Purdue Hackers changed my life.</description>
+      <category>apple</category>
+      <category>conference</category>
+      <category>gaming</category>
+      <guid>https://www.jackhogan.me/blog/from-tiny-seed-to-towering-sequoia</guid>
+      <pubDate>Wed, 06 May 2026 23:03:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Learning the integral of a diffusion model</title>
+      <link>https://sander.ai/2026/05/06/flow-maps.html</link>
+      <description>A deep dive on flow maps.</description>
+      <category>ai</category>
+      <guid>https://sander.ai/2026/05/06/flow-maps.html</guid>
+      <pubDate>Wed, 06 May 2026 23:03:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Attention without value · daniel may</title>
+      <link>https://danielmay.co.uk/posts/attention-without-value/</link>
+      <description>On the pattern of intercepting attention without doing anything that earns it, what it has done to the open web, and why it is not insurmountable.</description>
+      <category>git</category>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://danielmay.co.uk/posts/attention-without-value/</guid>
+      <pubDate>Wed, 06 May 2026 23:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>You Don't Love systemd Timers Enough</title>
+      <link>https://blog.tjll.net/you-dont-love-systemd-timers-enough/</link>
+      <description>A cron job for every man, woman, and child.</description>
+      <author> (https://blog.tjll.net/about/)</author>
+      <guid>https://blog.tjll.net/you-dont-love-systemd-timers-enough/</guid>
+      <pubDate>Wed, 06 May 2026 23:02:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>OurCar: What I Learned Making an App for my Family | Mendel Greenberg</title>
+      <link>https://mendelgreenberg.com/posts/ourcar/</link>
+      <description>An adventure in making a utility</description>
+      <category>apple</category>
+      <category>android</category>
+      <category>ai</category>
+      <guid>https://mendelgreenberg.com/posts/ourcar/</guid>
+      <pubDate>Wed, 06 May 2026 23:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>From Probable to Provable: What Automated Reasoning Means for the Board</title>
+      <link>https://mariothomas.com/blog/automated-reasoning-explainer/</link>
+      <description>Boards face a firehose of information and AI that decides at machine speed. Automated reasoning offers something better than confidence: proof.</description>
+      <author> (Mario Thomas)</author>
+      <category>ai</category>
+      <guid>https://mariothomas.com/blog/automated-reasoning-explainer/</guid>
+      <pubDate>Wed, 06 May 2026 23:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Proof-of-Use Beats Proof-of-Vibe</title>
+      <link>https://fireharp.com/2026-05-06-proof-of-use-888c47815a</link>
+      <description>A response to Simon Willison on agentic engineering, runtime evidence, procurement risk, and why generated software needs operational history.</description>
+      <category>ai</category>
+      <guid>https://fireharp.com/2026-05-06-proof-of-use-888c47815a</guid>
+      <pubDate>Wed, 06 May 2026 23:02:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>IO is the Problem</title>
+      <link>https://xificurc.github.io/blog/io-is-the-problem/</link>
+      <description>Functional core, imperative shell. Haskell's IO monad. Clojure's immutable data structures. What's common in all of these?</description>
+      <category>sql</category>
+      <guid>https://xificurc.github.io/blog/io-is-the-problem/</guid>
+      <pubDate>Wed, 06 May 2026 23:02:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Store tags after payloads</title>
+      <link>https://www.scattered-thoughts.net/writing/store-tags-after-payloads/</link>
+      <description>The short version of this shower thought: storing the tags for sum types after the payload rather than before can save a surprising amount of space.</description>
+      <category>rust</category>
+      <guid>https://www.scattered-thoughts.net/writing/store-tags-after-payloads/</guid>
+      <pubDate>Wed, 06 May 2026 23:02:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>All means are fair except solving the problem</title>
+      <link>https://yosefk.com/blog/all-means-are-fair-except-solving-the-problem.html</link>
+      <description>An industry veteran in my circles has recently made the rookie mistake1 of printing a warning from his code upon misuse. Surprisingly to nobody experienced,
+critical workflows soon came to a screeching halt.</description>
+      <category>web</category>
+      <guid>https://yosefk.com/blog/all-means-are-fair-except-solving-the-problem.html</guid>
+      <pubDate>Wed, 06 May 2026 23:02:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>working was the beginning | themackabu.dev</title>
+      <link>https://themackabu.dev/blog/ant-part-two</link>
+      <description>In January, I wrote that I had built a JavaScript runtime in a month. The post was true, and at the time I thought it was the story...</description>
+      <category>nodejs</category>
+      <category>javascript</category>
+      <category>rust</category>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://themackabu.dev/blog/ant-part-two</guid>
+      <pubDate>Wed, 06 May 2026 23:02:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Analysis paralysis: folders</title>
+      <link>https://nonogra.ph/analysis-paralysis-folders-05-06-2026</link>
+      <description>Hierarchy in file system was a great invention, popularized by Unix. Files in directory, directory in directory. Creating a tree. Files get designated place in ...</description>
+      <author> (Anonymous)</author>
+      <guid>https://nonogra.ph/analysis-paralysis-folders-05-06-2026</guid>
+      <pubDate>Wed, 06 May 2026 23:02:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>"Open" doesn't mean what it used to</title>
+      <link>https://lr0.org/blog/p/open/</link>
+      <description>In the future I will storytell to my childern about how the word open in computing, someday, did actually mean things, some of them you could be certain about: source was there, or the protocol was something anyone could implement "freely", data could be pulled out of one system and dumped into another, I might also tell them that people didn't always honor that, but still, the word was at least under tension. Back in these days, when you see the word "open", you probably could clone something and run the export and you could also ask whether the spec was implementable without buying a license from one of its authors. People could lie to you about openness, and you could catch them lying.</description>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://lr0.org/blog/p/open/</guid>
+      <pubDate>Wed, 06 May 2026 23:02:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dogfooding Is the New Code Review</title>
+      <link>https://alexfurrier.dev/blog/2026-05-06-dogfooding-is-the-new-code-review/</link>
+      <description>AI agents can ship code faster than humans can review it. Correct code still needs human time to become good software.</description>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://alexfurrier.dev/blog/2026-05-06-dogfooding-is-the-new-code-review/</guid>
+      <pubDate>Wed, 06 May 2026 23:02:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Code never mattered in the first place</title>
+      <link>https://mar.coconauts.net/blog/posts/code-never-mattered/</link>
+      <description>The sung thoughts of Mar Bartolomé</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://mar.coconauts.net/blog/posts/code-never-mattered/</guid>
+      <pubDate>Wed, 06 May 2026 23:02:19 GMT</pubDate>
+    </item>
+    <item>
       <title>Vibe coding and agentic engineering are getting closer than I’d like</title>
       <link>https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/</link>
       <description>I recently talked with Joseph Ruscio about AI coding tools for Heavybit’s High Leverage podcast: Ep. #9, The AI Coding Paradigm Shift with Simon Willison. Here are some of my …</description>
@@ -113,299 +300,6 @@
       <category>vscode</category>
       <guid>https://blog.cloudflare.com/agents-stripe-projects/</guid>
       <pubDate>Wed, 06 May 2026 08:02:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Computer use is 45x More Expensive Than Structured APIs</title>
-      <link>https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/</link>
-      <description>We benchmarked computer use against auto-generated API endpoints on the same admin panel. 53 steps and 551k tokens vs 8 calls and 12k tokens.</description>
-      <category>ai</category>
-      <guid>https://reflex.dev/blog/computer-use-is-45x-more-expensive-than-structured-apis/</guid>
-      <pubDate>Tue, 05 May 2026 23:06:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>That's No Warehouse... It's a Space Station</title>
-      <link>https://blog.matterbeam.com/thats-no-warehouse-its-a-space-station/</link>
-      <description>“Fear leads to anger. Anger leads to hate. Hate leads to suffering. And centralized data architectures lead to a table called customer_revenue_final_v9_USE_THIS_ONE_SERIOUSLY.”
-
-— Yoda, leading a postmortem
-
-In your company there is likely a data warehouse or data lake.
-
-Or a plan for one.</description>
-      <category>ai</category>
-      <category>sql</category>
-      <guid>https://blog.matterbeam.com/thats-no-warehouse-its-a-space-station/</guid>
-      <pubDate>Tue, 05 May 2026 23:06:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>You Don’t Review Your Compiler Output</title>
-      <link>https://scottrfrancis.wordpress.com/2026/02/13/you-dont-review-your-compiler-output/</link>
-      <description>Someone on LinkedIn posted that every line of AI-generated code should be reviewed with the same rigor you’d apply to a junior developer’s pull request. The reply that stopped the threa…</description>
-      <category>ai</category>
-      <category>vscode</category>
-      <category>cloud</category>
-      <guid>https://scottrfrancis.wordpress.com/2026/02/13/you-dont-review-your-compiler-output/</guid>
-      <pubDate>Tue, 05 May 2026 23:06:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rigorous Nonsense - Easy Random Trees</title>
-      <link>https://blog.wilsonb.com/posts/2026-02-27-easy-random-trees.html</link>
-      <description>Posted on February 27, 2026
-    
-        by Brandon Wilson</description>
-      <category>nodejs</category>
-      <category>web</category>
-      <guid>https://blog.wilsonb.com/posts/2026-02-27-easy-random-trees.html</guid>
-      <pubDate>Tue, 05 May 2026 23:06:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Frog for Whom the Bell Tolls</title>
-      <link>https://sethmlarson.dev/the-frog-for-whom-the-bell-tolls</link>
-      <description>
-
-
-Kaeru no Tame ni Kane wa Naru
-(カエルの為(ため)に鐘(かね)は鳴(な)る)
-is a Japanese-only Game Boy title published in 1992 by Nintendo
-and developed by Intelligent Systems.
-The title’s official English translati...</description>
-      <category>gaming</category>
-      <category>javascript</category>
-      <guid>https://sethmlarson.dev/the-frog-for-whom-the-bell-tolls</guid>
-      <pubDate>Tue, 05 May 2026 23:06:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Prompt API is now on by default in Chrome</title>
-      <link>https://adsm.dev/posts/prompt-api/</link>
-      <description>How to use the new Prompt API in Google Chrome</description>
-      <category>cloud</category>
-      <category>ai</category>
-      <category>linux</category>
-      <category>android</category>
-      <category>javascript</category>
-      <guid>https://adsm.dev/posts/prompt-api/</guid>
-      <pubDate>Tue, 05 May 2026 23:06:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Building a MongoDB GUI Custom Table System: A 9 Month Journey</title>
-      <link>https://visualeaf.com/blog/why-my-custom-table-took-9-months/</link>
-      <description>Learn how we built a high-performance MongoDB table view that handles nested, irregular documents at 60fps, even with 100k rows and 1000 columns.</description>
-      <category>web</category>
-      <category>vscode</category>
-      <guid>https://visualeaf.com/blog/why-my-custom-table-took-9-months/</guid>
-      <pubDate>Tue, 05 May 2026 23:06:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>On the Economics of Truth</title>
-      <link>https://shadesofsingularity.com/essays/economics-of-truth/</link>
-      <description>The cost of fabrication has collapsed. The cost of verification has not. This essay traces the triple asymmetry degrading shared reality and what it means for every collective response we need.</description>
-      <category>ai</category>
-      <category>encryption</category>
-      <guid>https://shadesofsingularity.com/essays/economics-of-truth/</guid>
-      <pubDate>Tue, 05 May 2026 23:06:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>After 3 months of standing desk</title>
-      <link>https://darshanmakwana412.github.io/2026/05/standing-desk/</link>
-      <description>Since the last 2 months I had to change my environment in which I used to do my long hours of deep work. One of the things that was part of the change was a standing desk. Actually it was not a desk per se but just a platform on top of which I can keep my laptop and just start coding away, the platform was just tall enough that I can’t sit and do work and slightly short enought that I had to bend my knees, so I had to add a wooden plank on top of the platform to level it up.</description>
-      <guid>https://darshanmakwana412.github.io/2026/05/standing-desk/</guid>
-      <pubDate>Tue, 05 May 2026 23:05:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bad bossing and the expertise byproduct</title>
-      <link>https://jakekara.com/blog/2026/05/04/expertise-byproduct</link>
-      <description>Human effort produces an output as its product and expertise as its byproduct. Bad bosses don't know how lucky they are.</description>
-      <category>ai</category>
-      <category>web</category>
-      <guid>https://jakekara.com/blog/2026/05/04/expertise-byproduct</guid>
-      <pubDate>Tue, 05 May 2026 23:05:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>I've spent 10+ years helping Rails devs reach the App Store. Today, someone shipped without me. | Masilotti.com</title>
-      <link>https://masilotti.com/shipped-without-me/</link>
-      <description>Yesterday Ruby Native launched. Today the first customer app went live. And the developer never opened Xcode.</description>
-      <category>ruby</category>
-      <category>apple</category>
-      <guid>https://masilotti.com/shipped-without-me/</guid>
-      <pubDate>Tue, 05 May 2026 23:05:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>A Guide of Poor Decision Practices in Management for Tech Leaders and Founders • placementist</title>
-      <link>https://placementist.com/insights/a-guide-of-poor-decision-practices-in-management-for-technical-leaders-and-founders-identifying-and-mitigating</link>
-      <description>Best practices, past success and gut instinct: the three management beliefs costing startups the most and how to audit them.</description>
-      <category>encryption</category>
-      <category>gaming</category>
-      <category>ai</category>
-      <guid>https://placementist.com/insights/a-guide-of-poor-decision-practices-in-management-for-technical-leaders-and-founders-identifying-and-mitigating</guid>
-      <pubDate>Tue, 05 May 2026 23:05:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>A Namecheap bug got my domain suspended</title>
-      <link>https://captnemo.in/blog/2026/05/05/namecheap-whois/</link>
-      <description>My primary domain (captnemo.in, where you’re reading this) was suspended by
-my registry (.in) for 3 hours last night (4th May 2026).</description>
-      <guid>https://captnemo.in/blog/2026/05/05/namecheap-whois/</guid>
-      <pubDate>Tue, 05 May 2026 23:05:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>krabr.com | How I organize my work</title>
-      <link>https://www.krabr.com/blog/how-i-organize-my-work/</link>
-      <description>A plain-text, git-tracked worklog that keeps multiple jobs and side projects in sync without any task-management tooling.</description>
-      <category>git</category>
-      <category>ai</category>
-      <guid>https://www.krabr.com/blog/how-i-organize-my-work/</guid>
-      <pubDate>Tue, 05 May 2026 23:05:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pocket — Anthony Liddle</title>
-      <link>https://anthonyliddle.dev/work/pocket</link>
-      <description>The web home of Pocket, Mozilla's article-discovery service. 2M+ daily page views at peak. Co-architected across six years, two full rewrites.</description>
-      <category>conference</category>
-      <guid>https://anthonyliddle.dev/work/pocket</guid>
-      <pubDate>Tue, 05 May 2026 23:05:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why Coding Agents Need a Merge Queue - ctx</title>
-      <link>https://ctx.rs/blog/merge-queue-for-agents/</link>
-      <description>Parallel agents on separate worktrees need a local system to land changes cleanly without conflicts or regressions.</description>
-      <author> (Luca King)</author>
-      <category>git</category>
-      <guid>https://ctx.rs/blog/merge-queue-for-agents/</guid>
-      <pubDate>Tue, 05 May 2026 23:05:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>SaaS Isn't Dying. Its Users Are.</title>
-      <link>https://tomashvili.com/posts/SaaS_Is_not_Dying_Its_Users_Are</link>
-      <description>SaaS isn't dying but per-seat pricing, UX polish, and DAU metrics are. Here's what changes when agents become your product's primary user.</description>
-      <category>ai</category>
-      <guid>https://tomashvili.com/posts/SaaS_Is_not_Dying_Its_Users_Are</guid>
-      <pubDate>Tue, 05 May 2026 23:05:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>I miss craft</title>
-      <link>https://eliothertenstein.com/notes/on-craft</link>
-      <description>You can find more of my writing on</description>
-      <category>ai</category>
-      <category>gaming</category>
-      <guid>https://eliothertenstein.com/notes/on-craft</guid>
-      <pubDate>Tue, 05 May 2026 23:05:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Don’t let your Mac’s storage fill up!</title>
-      <link>https://sixcolors.com/post/2026/05/dont-let-your-macs-storage-fill-up/</link>
-      <description>Macs don’t do well when they start to approach full storage. The operating system doesn’t provide enough safeguards and backoff options to help you cope with what can become a disaster,…</description>
-      <category>apple</category>
-      <guid>https://sixcolors.com/post/2026/05/dont-let-your-macs-storage-fill-up/</guid>
-      <pubDate>Tue, 05 May 2026 23:05:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>When Too Many Maps Overlap on One Person | Yusuf Aytas</title>
-      <link>https://yusufaytas.com/when-too-many-maps-overlap-on-one-person</link>
-      <description>Why engineering teams turn one trusted person into a decision bottleneck. How informal authority, hidden context, and single points of failure slow delivery</description>
-      <author> (Yusuf Aytas)</author>
-      <category>git</category>
-      <guid>https://yusufaytas.com/when-too-many-maps-overlap-on-one-person</guid>
-      <pubDate>Tue, 05 May 2026 23:05:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Complete Guide: How to Integrate Beehiiv with Hugo via Cloudflare Workers</title>
-      <link>https://www.lucasaguiar.xyz/posts/newsletter-beehiiv-cloudflare-github/</link>
-      <description>Learn how to integrate a custom Beehiiv form into a Hugo website on GitHub Pages, using Cloudflare Workers and monitoring via PostHog.</description>
-      <category>cloud</category>
-      <category>web</category>
-      <category>javascript</category>
-      <category>git</category>
-      <guid>https://www.lucasaguiar.xyz/posts/newsletter-beehiiv-cloudflare-github/</guid>
-      <pubDate>Tue, 05 May 2026 23:04:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>Everything is a Superfood —</title>
-      <link>https://www.hughparry.com/blog/everything-is-a-superfood/</link>
-      <description>If everything is a superfood, then nothing is.</description>
-      <guid>https://www.hughparry.com/blog/everything-is-a-superfood/</guid>
-      <pubDate>Tue, 05 May 2026 23:04:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Just one more prompt…</title>
-      <link>https://benjaminste.in/blog/2026/05/03/just-one-more-prompt/</link>
-      <description>Claude Code gives me a constant stream of dopamine hits but also FOMO, guilt, and anxiety.</description>
-      <category>ai</category>
-      <guid>https://benjaminste.in/blog/2026/05/03/just-one-more-prompt/</guid>
-      <pubDate>Tue, 05 May 2026 23:04:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Add Animal Crossing events to your digital calendar</title>
-      <link>https://sethmlarson.dev/animal-crossing-calendar</link>
-      <description>Animal Forest (“Dōbutsu no Mori” or “どうぶつの森”) was released
-in Japan for the Nintendo 64 on April 14th, 2001:
-exactly 25 years ago today! To celebrate this beloved franchise I have 
-created calendar...</description>
-      <category>gaming</category>
-      <category>android</category>
-      <guid>https://sethmlarson.dev/animal-crossing-calendar</guid>
-      <pubDate>Tue, 05 May 2026 23:04:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>When Knowledge Becomes Control</title>
-      <link>https://dylanconlin.com/blog/when-knowledge-becomes-control/</link>
-      <description>Instructions and governance are different things. I ran 265 experiments to find the boundary.</description>
-      <category>encryption</category>
-      <category>git</category>
-      <category>vscode</category>
-      <guid>https://dylanconlin.com/blog/when-knowledge-becomes-control/</guid>
-      <pubDate>Tue, 05 May 2026 23:04:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>My 1B tokens/day OpenAI Symphony setup</title>
-      <link>https://www.alessiofanelli.com/posts/my-1b-tokens-day-openai-symphony-setup/</link>
-      <description>How I run OpenAI Symphony 24/7 on Zo Computer with Linear, project skills, and a token usage dashboard.</description>
-      <category>javascript</category>
-      <category>ai</category>
-      <guid>https://www.alessiofanelli.com/posts/my-1b-tokens-day-openai-symphony-setup/</guid>
-      <pubDate>Tue, 05 May 2026 23:04:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Am I an LLM?</title>
-      <link>https://www.arturonereu.com/articles/am-i-an-llm/</link>
-      <description>As I keep interacting with LLMs and learn how they work, I sometimes pause and wonder if there's a chance that I can be some sort of LLM.</description>
-      <category>gaming</category>
-      <category>ai</category>
-      <guid>https://www.arturonereu.com/articles/am-i-an-llm/</guid>
-      <pubDate>Tue, 05 May 2026 23:04:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Your coding agent is under-specified</title>
-      <link>https://hsaghir.github.io/blog/2026-05-02-under-specified-coding-agent/</link>
-      <description>Coding agents write impressive first drafts. But under the surface, corners are cut, details are missing, and technical debt accumulates with every change. The problem is not the model. It is that what we ask it to do is fundamentally under-specified.</description>
-      <category>ai</category>
-      <guid>https://hsaghir.github.io/blog/2026-05-02-under-specified-coding-agent/</guid>
-      <pubDate>Tue, 05 May 2026 23:04:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>A Theory of Deep Learning</title>
-      <link>https://elonlit.com/scrivings/a-theory-of-deep-learning/</link>
-      <description>We finally know why deep learning works.</description>
-      <author> (Elon Litman)</author>
-      <category>ai</category>
-      <guid>https://elonlit.com/scrivings/a-theory-of-deep-learning/</guid>
-      <pubDate>Tue, 05 May 2026 23:04:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>charles leifer | Tokens and Dreams</title>
-      <link>https://charlesleifer.com/blog/tokens-and-dreams/</link>
-      <description>May 04, 2026 21:17
-      /
-      
-        ai
-      
-        thoughts
-      
-      /
-      1 comments</description>
-      <category>ai</category>
-      <category>nodejs</category>
-      <guid>https://charlesleifer.com/blog/tokens-and-dreams/</guid>
-      <pubDate>Tue, 05 May 2026 23:03:59 GMT</pubDate>
     </item>
   </channel>
 </rss>
