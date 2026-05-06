@@ -418,13 +418,5 @@ created calendar...</description>
       <guid>https://www.economist.com/by-invitation/2026/04/29/stop-big-tech-from-making-users-behave-in-ways-they-dont-want-to</guid>
       <pubDate>Tue, 05 May 2026 05:02:13 GMT</pubDate>
     </item>
-    <item>
-      <title>Branch‑Avoidant Programming</title>
-      <link>https://easylang.online/blog/branchless</link>
-      <description>With modern CPUs, avoiding branch mispredictions is a key method for speeding up programs. One of the most effective ways to reduce mispredictions is to simply avoid branches.</description>
-      <category>git</category>
-      <guid>https://easylang.online/blog/branchless</guid>
-      <pubDate>Tue, 05 May 2026 02:02:26 GMT</pubDate>
-    </item>
   </channel>
 </rss>

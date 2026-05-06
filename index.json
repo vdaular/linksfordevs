@@ -342,13 +342,5 @@
     "Domain": "www.economist.com",
     "Description": "That means targeting mechanisms engineered to rewire the brain’s reward system, writes Marie Potel-Saville",
     "Confidence": 0.658357
-  },
-  {
-    "Title": "Branch‑Avoidant Programming",
-    "Url": "https://easylang.online/blog/branchless",
-    "Timestamp": "2026-05-05T02:02:26",
-    "Domain": "easylang.online",
-    "Description": "With modern CPUs, avoiding branch mispredictions is a key method for speeding up programs. One of the most effective ways to reduce mispredictions is to simply avoid branches.",
-    "Confidence": 0.9894105
   }
 ]
