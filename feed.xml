@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Marriage of adolescent girls in Nigeria reduced by 80% by ‘big push’ intervention</title>
+      <link>https://www.nature.com/articles/d41586-026-00720-8</link>
+      <description>A locally tailored, big-push intervention to educate unmarried adolescent girls in 18 communities in northern Nigeria reduced rates of marriage from 86% to just 21%. Interventions that address complex, entrenched social problems from various angles simultaneously might be considerably more effective than smaller-scale, cheaper alternatives are.</description>
+      <guid>https://www.nature.com/articles/d41586-026-00720-8</guid>
+      <pubDate>Thu, 07 May 2026 19:02:32 GMT</pubDate>
+    </item>
+    <item>
       <title>The map that keeps Burning Man honest</title>
       <link>https://www.not-ship.com/burning-man-moop/</link>
       <description>The event's Leave No Trace principle isn't just a promise — it's measured, mapped, and made public.</description>
@@ -275,14 +282,6 @@ critical workflows soon came to a screeching halt.</description>
       <category>ai</category>
       <guid>https://nooneshappy.com/article/appearing-productive-in-the-workplace/</guid>
       <pubDate>Wed, 06 May 2026 20:02:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Aperiodic Table</title>
-      <link>https://xkcd.com/3242/</link>
-      <description></description>
-      <category>javascript</category>
-      <guid>https://xkcd.com/3242/</guid>
-      <pubDate>Wed, 06 May 2026 19:02:06 GMT</pubDate>
     </item>
   </channel>
 </rss>

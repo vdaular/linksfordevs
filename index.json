@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Marriage of adolescent girls in Nigeria reduced by 80% by ‘big push’ intervention",
+    "Url": "https://www.nature.com/articles/d41586-026-00720-8",
+    "Timestamp": "2026-05-07T19:02:32",
+    "Domain": "www.nature.com",
+    "Description": "A locally tailored, big-push intervention to educate unmarried adolescent girls in 18 communities in northern Nigeria reduced rates of marriage from 86% to just 21%. Interventions that address complex, entrenched social problems from various angles simultaneously might be considerably more effective than smaller-scale, cheaper alternatives are.",
+    "Confidence": 0.7114556
+  },
+  {
     "Title": "The map that keeps Burning Man honest",
     "Url": "https://www.not-ship.com/burning-man-moop/",
     "Timestamp": "2026-05-07T17:02:03",
@@ -238,13 +246,5 @@
     "Domain": "nooneshappy.com",
     "Description": "AI can produce work that looks expert without being expert. The failure arrives in two shapes, and both are reshaping the workplace.",
     "Confidence": 0.9091238
-  },
-  {
-    "Title": "Aperiodic Table",
-    "Url": "https://xkcd.com/3242/",
-    "Timestamp": "2026-05-06T19:02:06",
-    "Domain": "xkcd.com",
-    "Description": "",
-    "Confidence": 0.98151064
   }
 ]
