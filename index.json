@@ -270,21 +270,5 @@
     "Domain": "status.denic.de",
     "Description": "Current system status. View active incidents or upcoming maintenance. Subscribe to receive status notifications.",
     "Confidence": 0.96217334
-  },
-  {
-    "Title": "Write some software, give it away for free",
-    "Url": "https://nonogra.ph/write-some-software-give-it-away-for-free-05-05-2026",
-    "Timestamp": "2026-05-06T08:02:22",
-    "Domain": "nonogra.ph",
-    "Description": "This website which you&#x27;re on right now is free (as in beer), free (as in freedom), open source software called Nonograph. It cost about $600 USD to release, mos...",
-    "Confidence": 0.99451417
-  },
-  {
-    "Title": "Agents can now create Cloudflare accounts, buy domains, and deploy",
-    "Url": "https://blog.cloudflare.com/agents-stripe-projects/",
-    "Timestamp": "2026-05-06T08:02:18",
-    "Domain": "blog.cloudflare.com",
-    "Description": "Starting today, agents can now be Cloudflare customers. They can create a Cloudflare account, start a paid subscription, register a domain, and get back an API token to deploy code right away. Humans can be in the loop to grant permission, but there’s no need to go to the dashboard, copy and paste API tokens, or enter credit card details.",
-    "Confidence": 0.98360366
   }
 ]
