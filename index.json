@@ -1,5 +1,21 @@
 [
   {
+    "Title": "security - Dirty Frag: Universal Linux LPE",
+    "Url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+    "Timestamp": "2026-05-07T23:02:13",
+    "Domain": "www.openwall.com",
+    "Description": "Powered by blists - more mailing lists",
+    "Confidence": 0.97738636
+  },
+  {
+    "Title": "agents need control flow, not more prompts",
+    "Url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+    "Timestamp": "2026-05-07T23:02:08",
+    "Domain": "bsuh.bearblog.dev",
+    "Description": "Thesis: reliable agents tackling complex tasks need deterministic control flow encoded in software, not increasingly elaborate prompt chains\n\nIf you’ve eve...",
+    "Confidence": 0.9945334
+  },
+  {
     "Title": "AI Slop is Killing Online Communities",
     "Url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
     "Timestamp": "2026-05-07T22:02:14",
@@ -70,173 +86,5 @@
     "Domain": "www.stvn.sh",
     "Description": "Sorry Peter. — I'm at a birthday party, and while most people here also work in tech, there's always a Guy with a Real Job. You know, a physical job, building some or other thing people need. And this Guy always asks some variant of the same question: aren't you worried AI is taking your job? I glance around and see a few faces turning around toward us, rolling their eyes ever so slightly before returning to their previous conversation. Yes, this question again.",
     "Confidence": 0.9324068
-  },
-  {
-    "Title": "Desktop Tracking Software: The Smart Way to Track Your Activities at Work",
-    "Url": "https://yakihonne.com/article/naddr1qvzqqqr4gupzqvcy9tkh3xq8x5m7mdsqxx7mcylxxrj8hdj6psdy89g8jaa2e4mfqy88wumn8ghj7mn0wvhxcmmv9uq36amnwvaz7tmwdaehgu3dxqcju7tpdd5ksmmwdejjucm0d5hsq92829frzejpwym423mz0pf5xjrzx4c5wjzhgjeup6",
-    "Timestamp": "2026-05-06T23:03:35",
-    "Domain": "yakihonne.com",
-    "Description": "In today’s fast-paced digital work environment, staying productive and maintaining accountability ca",
-    "Confidence": 0.9446777
-  },
-  {
-    "Title": "Building the deployment tool I wish I had",
-    "Url": "https://ruuda.nl/2026/deptool",
-    "Timestamp": "2026-05-06T23:03:29",
-    "Domain": "ruuda.nl",
-    "Description": "Deptool is a new declarative configuration deployment tool that I built for myself. In this post I describe the design, and I explain what problems it solves.",
-    "Confidence": 0.99508804
-  },
-  {
-    "Title": "Are we self-sovereign PKI yet? · Buffrr",
-    "Url": "https://buffrr.dev/blog/are-we-self-sovereign-pki-yet/",
-    "Timestamp": "2026-05-06T23:03:25",
-    "Domain": "buffrr.dev",
-    "Description": "Notes on cryptography, naming, and self-sovereign systems.",
-    "Confidence": 0.9782959
-  },
-  {
-    "Title": "Silent Jungles",
-    "Url": "https://suziepetryk.com/blog/jungles.html",
-    "Timestamp": "2026-05-06T23:03:22",
-    "Domain": "suziepetryk.com",
-    "Description": "",
-    "Confidence": 0.6295896
-  },
-  {
-    "Title": "Don't become a wrapper",
-    "Url": "https://www.anantjain.xyz/posts/dont-become-a-wrapper",
-    "Timestamp": "2026-05-06T23:03:18",
-    "Domain": "www.anantjain.xyz",
-    "Description": "Remember ChatGPT wrappers? We now have Agent wrappers.",
-    "Confidence": 0.95869946
-  },
-  {
-    "Title": "Open weights are quietly closing up - and that's a problem",
-    "Url": "https://martinalderson.com/posts/open-weights-are-quietly-closing-up/",
-    "Timestamp": "2026-05-06T23:03:15",
-    "Domain": "martinalderson.com",
-    "Description": "Open weights models keep frontier labs honest on price. If they disappear, we end up with a handful of oligopolists extracting consumer surplus.",
-    "Confidence": 0.96237653
-  },
-  {
-    "Title": "From Tiny Seed to Towering Sequoia",
-    "Url": "https://www.jackhogan.me/blog/from-tiny-seed-to-towering-sequoia",
-    "Timestamp": "2026-05-06T23:03:12",
-    "Domain": "www.jackhogan.me",
-    "Description": "How Purdue Hackers changed my life.",
-    "Confidence": 0.9345157
-  },
-  {
-    "Title": "Learning the integral of a diffusion model",
-    "Url": "https://sander.ai/2026/05/06/flow-maps.html",
-    "Timestamp": "2026-05-06T23:03:08",
-    "Domain": "sander.ai",
-    "Description": "A deep dive on flow maps.",
-    "Confidence": 0.9899963
-  },
-  {
-    "Title": "Attention without value · daniel may",
-    "Url": "https://danielmay.co.uk/posts/attention-without-value/",
-    "Timestamp": "2026-05-06T23:03:01",
-    "Domain": "danielmay.co.uk",
-    "Description": "On the pattern of intercepting attention without doing anything that earns it, what it has done to the open web, and why it is not insurmountable.",
-    "Confidence": 0.73306215
-  },
-  {
-    "Title": "You Don't Love systemd Timers Enough",
-    "Url": "https://blog.tjll.net/you-dont-love-systemd-timers-enough/",
-    "Timestamp": "2026-05-06T23:02:58",
-    "Domain": "blog.tjll.net",
-    "Description": "A cron job for every man, woman, and child.",
-    "Confidence": 0.9723663
-  },
-  {
-    "Title": "OurCar: What I Learned Making an App for my Family | Mendel Greenberg",
-    "Url": "https://mendelgreenberg.com/posts/ourcar/",
-    "Timestamp": "2026-05-06T23:02:54",
-    "Domain": "mendelgreenberg.com",
-    "Description": "An adventure in making a utility",
-    "Confidence": 0.98459256
-  },
-  {
-    "Title": "From Probable to Provable: What Automated Reasoning Means for the Board",
-    "Url": "https://mariothomas.com/blog/automated-reasoning-explainer/",
-    "Timestamp": "2026-05-06T23:02:51",
-    "Domain": "mariothomas.com",
-    "Description": "Boards face a firehose of information and AI that decides at machine speed. Automated reasoning offers something better than confidence: proof.",
-    "Confidence": 0.9826867
-  },
-  {
-    "Title": "Proof-of-Use Beats Proof-of-Vibe",
-    "Url": "https://fireharp.com/2026-05-06-proof-of-use-888c47815a",
-    "Timestamp": "2026-05-06T23:02:47",
-    "Domain": "fireharp.com",
-    "Description": "A response to Simon Willison on agentic engineering, runtime evidence, procurement risk, and why generated software needs operational history.",
-    "Confidence": 0.9765295
-  },
-  {
-    "Title": "IO is the Problem",
-    "Url": "https://xificurc.github.io/blog/io-is-the-problem/",
-    "Timestamp": "2026-05-06T23:02:43",
-    "Domain": "xificurc.github.io",
-    "Description": "Functional core, imperative shell. Haskell's IO monad. Clojure's immutable data structures. What's common in all of these?",
-    "Confidence": 0.9975778
-  },
-  {
-    "Title": "Store tags after payloads",
-    "Url": "https://www.scattered-thoughts.net/writing/store-tags-after-payloads/",
-    "Timestamp": "2026-05-06T23:02:39",
-    "Domain": "www.scattered-thoughts.net",
-    "Description": "The short version of this shower thought: storing the tags for sum types after the payload rather than before can save a surprising amount of space.",
-    "Confidence": 0.99025095
-  },
-  {
-    "Title": "All means are fair except solving the problem",
-    "Url": "https://yosefk.com/blog/all-means-are-fair-except-solving-the-problem.html",
-    "Timestamp": "2026-05-06T23:02:36",
-    "Domain": "yosefk.com",
-    "Description": "An industry veteran in my circles has recently made the rookie mistake1 of printing a warning from his code upon misuse. Surprisingly to nobody experienced,\ncritical workflows soon came to a screeching halt.",
-    "Confidence": 0.68907577
-  },
-  {
-    "Title": "working was the beginning | themackabu.dev",
-    "Url": "https://themackabu.dev/blog/ant-part-two",
-    "Timestamp": "2026-05-06T23:02:33",
-    "Domain": "themackabu.dev",
-    "Description": "In January, I wrote that I had built a JavaScript runtime in a month. The post was true, and at the time I thought it was the story...",
-    "Confidence": 0.97857606
-  },
-  {
-    "Title": "Analysis paralysis: folders",
-    "Url": "https://nonogra.ph/analysis-paralysis-folders-05-06-2026",
-    "Timestamp": "2026-05-06T23:02:29",
-    "Domain": "nonogra.ph",
-    "Description": "Hierarchy in file system was a great invention, popularized by Unix. Files in directory, directory in directory. Creating a tree. Files get designated place in ...",
-    "Confidence": 0.98955417
-  },
-  {
-    "Title": "\"Open\" doesn't mean what it used to",
-    "Url": "https://lr0.org/blog/p/open/",
-    "Timestamp": "2026-05-06T23:02:26",
-    "Domain": "lr0.org",
-    "Description": "In the future I will storytell to my childern about how the word open in computing, someday, did actually mean things, some of them you could be certain about: source was there, or the protocol was something anyone could implement \"freely\", data could be pulled out of one system and dumped into another, I might also tell them that people didn't always honor that, but still, the word was at least under tension. Back in these days, when you see the word \"open\", you probably could clone something and run the export and you could also ask whether the spec was implementable without buying a license from one of its authors. People could lie to you about openness, and you could catch them lying.",
-    "Confidence": 0.8748145
-  },
-  {
-    "Title": "Dogfooding Is the New Code Review",
-    "Url": "https://alexfurrier.dev/blog/2026-05-06-dogfooding-is-the-new-code-review/",
-    "Timestamp": "2026-05-06T23:02:23",
-    "Domain": "alexfurrier.dev",
-    "Description": "AI agents can ship code faster than humans can review it. Correct code still needs human time to become good software.",
-    "Confidence": 0.9597403
-  },
-  {
-    "Title": "Code never mattered in the first place",
-    "Url": "https://mar.coconauts.net/blog/posts/code-never-mattered/",
-    "Timestamp": "2026-05-06T23:02:19",
-    "Domain": "mar.coconauts.net",
-    "Description": "The sung thoughts of Mar Bartolomé",
-    "Confidence": 0.9460333
   }
 ]

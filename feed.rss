@@ -7,6 +7,24 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>security - Dirty Frag: Universal Linux LPE</title>
+      <link>https://www.openwall.com/lists/oss-security/2026/05/07/8</link>
+      <description>Powered by blists - more mailing lists</description>
+      <category>git</category>
+      <category>linux</category>
+      <guid>https://www.openwall.com/lists/oss-security/2026/05/07/8</guid>
+      <pubDate>Thu, 07 May 2026 23:02:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>agents need control flow, not more prompts</title>
+      <link>https://bsuh.bearblog.dev/agents-need-control-flow/</link>
+      <description>Thesis: reliable agents tackling complex tasks need deterministic control flow encoded in software, not increasingly elaborate prompt chains
+
+If you’ve eve...</description>
+      <guid>https://bsuh.bearblog.dev/agents-need-control-flow/</guid>
+      <pubDate>Thu, 07 May 2026 23:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>AI Slop is Killing Online Communities</title>
       <link>https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/</link>
       <description></description>
@@ -81,193 +99,6 @@
       <category>ai</category>
       <guid>https://www.stvn.sh/writing/programming-still-sucks-fqffhyp</guid>
       <pubDate>Thu, 07 May 2026 06:01:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Desktop Tracking Software: The Smart Way to Track Your Activities at Work</title>
-      <link>https://yakihonne.com/article/naddr1qvzqqqr4gupzqvcy9tkh3xq8x5m7mdsqxx7mcylxxrj8hdj6psdy89g8jaa2e4mfqy88wumn8ghj7mn0wvhxcmmv9uq36amnwvaz7tmwdaehgu3dxqcju7tpdd5ksmmwdejjucm0d5hsq92829frzejpwym423mz0pf5xjrzx4c5wjzhgjeup6</link>
-      <description>In today’s fast-paced digital work environment, staying productive and maintaining accountability ca</description>
-      <guid>https://yakihonne.com/article/naddr1qvzqqqr4gupzqvcy9tkh3xq8x5m7mdsqxx7mcylxxrj8hdj6psdy89g8jaa2e4mfqy88wumn8ghj7mn0wvhxcmmv9uq36amnwvaz7tmwdaehgu3dxqcju7tpdd5ksmmwdejjucm0d5hsq92829frzejpwym423mz0pf5xjrzx4c5wjzhgjeup6</guid>
-      <pubDate>Wed, 06 May 2026 23:03:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Building the deployment tool I wish I had</title>
-      <link>https://ruuda.nl/2026/deptool</link>
-      <description>Deptool is a new declarative configuration deployment tool that I built for myself. In this post I describe the design, and I explain what problems it solves.</description>
-      <category>git</category>
-      <category>python</category>
-      <guid>https://ruuda.nl/2026/deptool</guid>
-      <pubDate>Wed, 06 May 2026 23:03:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Are we self-sovereign PKI yet? · Buffrr</title>
-      <link>https://buffrr.dev/blog/are-we-self-sovereign-pki-yet/</link>
-      <description>Notes on cryptography, naming, and self-sovereign systems.</description>
-      <category>nodejs</category>
-      <category>encryption</category>
-      <category>git</category>
-      <guid>https://buffrr.dev/blog/are-we-self-sovereign-pki-yet/</guid>
-      <pubDate>Wed, 06 May 2026 23:03:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Silent Jungles</title>
-      <link>https://suziepetryk.com/blog/jungles.html</link>
-      <description></description>
-      <category>ai</category>
-      <category>sql</category>
-      <guid>https://suziepetryk.com/blog/jungles.html</guid>
-      <pubDate>Wed, 06 May 2026 23:03:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Don't become a wrapper</title>
-      <link>https://www.anantjain.xyz/posts/dont-become-a-wrapper</link>
-      <description>Remember ChatGPT wrappers? We now have Agent wrappers.</description>
-      <category>ai</category>
-      <guid>https://www.anantjain.xyz/posts/dont-become-a-wrapper</guid>
-      <pubDate>Wed, 06 May 2026 23:03:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Open weights are quietly closing up - and that's a problem</title>
-      <link>https://martinalderson.com/posts/open-weights-are-quietly-closing-up/</link>
-      <description>Open weights models keep frontier labs honest on price. If they disappear, we end up with a handful of oligopolists extracting consumer surplus.</description>
-      <author> (Martin Alderson)</author>
-      <category>ai</category>
-      <guid>https://martinalderson.com/posts/open-weights-are-quietly-closing-up/</guid>
-      <pubDate>Wed, 06 May 2026 23:03:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>From Tiny Seed to Towering Sequoia</title>
-      <link>https://www.jackhogan.me/blog/from-tiny-seed-to-towering-sequoia</link>
-      <description>How Purdue Hackers changed my life.</description>
-      <category>apple</category>
-      <category>conference</category>
-      <category>gaming</category>
-      <guid>https://www.jackhogan.me/blog/from-tiny-seed-to-towering-sequoia</guid>
-      <pubDate>Wed, 06 May 2026 23:03:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Learning the integral of a diffusion model</title>
-      <link>https://sander.ai/2026/05/06/flow-maps.html</link>
-      <description>A deep dive on flow maps.</description>
-      <category>ai</category>
-      <guid>https://sander.ai/2026/05/06/flow-maps.html</guid>
-      <pubDate>Wed, 06 May 2026 23:03:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Attention without value · daniel may</title>
-      <link>https://danielmay.co.uk/posts/attention-without-value/</link>
-      <description>On the pattern of intercepting attention without doing anything that earns it, what it has done to the open web, and why it is not insurmountable.</description>
-      <category>git</category>
-      <category>ai</category>
-      <category>gaming</category>
-      <guid>https://danielmay.co.uk/posts/attention-without-value/</guid>
-      <pubDate>Wed, 06 May 2026 23:03:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>You Don't Love systemd Timers Enough</title>
-      <link>https://blog.tjll.net/you-dont-love-systemd-timers-enough/</link>
-      <description>A cron job for every man, woman, and child.</description>
-      <author> (https://blog.tjll.net/about/)</author>
-      <guid>https://blog.tjll.net/you-dont-love-systemd-timers-enough/</guid>
-      <pubDate>Wed, 06 May 2026 23:02:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>OurCar: What I Learned Making an App for my Family | Mendel Greenberg</title>
-      <link>https://mendelgreenberg.com/posts/ourcar/</link>
-      <description>An adventure in making a utility</description>
-      <category>apple</category>
-      <category>android</category>
-      <category>ai</category>
-      <guid>https://mendelgreenberg.com/posts/ourcar/</guid>
-      <pubDate>Wed, 06 May 2026 23:02:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>From Probable to Provable: What Automated Reasoning Means for the Board</title>
-      <link>https://mariothomas.com/blog/automated-reasoning-explainer/</link>
-      <description>Boards face a firehose of information and AI that decides at machine speed. Automated reasoning offers something better than confidence: proof.</description>
-      <author> (Mario Thomas)</author>
-      <category>ai</category>
-      <guid>https://mariothomas.com/blog/automated-reasoning-explainer/</guid>
-      <pubDate>Wed, 06 May 2026 23:02:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Proof-of-Use Beats Proof-of-Vibe</title>
-      <link>https://fireharp.com/2026-05-06-proof-of-use-888c47815a</link>
-      <description>A response to Simon Willison on agentic engineering, runtime evidence, procurement risk, and why generated software needs operational history.</description>
-      <category>ai</category>
-      <guid>https://fireharp.com/2026-05-06-proof-of-use-888c47815a</guid>
-      <pubDate>Wed, 06 May 2026 23:02:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>IO is the Problem</title>
-      <link>https://xificurc.github.io/blog/io-is-the-problem/</link>
-      <description>Functional core, imperative shell. Haskell's IO monad. Clojure's immutable data structures. What's common in all of these?</description>
-      <category>sql</category>
-      <guid>https://xificurc.github.io/blog/io-is-the-problem/</guid>
-      <pubDate>Wed, 06 May 2026 23:02:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Store tags after payloads</title>
-      <link>https://www.scattered-thoughts.net/writing/store-tags-after-payloads/</link>
-      <description>The short version of this shower thought: storing the tags for sum types after the payload rather than before can save a surprising amount of space.</description>
-      <category>rust</category>
-      <guid>https://www.scattered-thoughts.net/writing/store-tags-after-payloads/</guid>
-      <pubDate>Wed, 06 May 2026 23:02:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>All means are fair except solving the problem</title>
-      <link>https://yosefk.com/blog/all-means-are-fair-except-solving-the-problem.html</link>
-      <description>An industry veteran in my circles has recently made the rookie mistake1 of printing a warning from his code upon misuse. Surprisingly to nobody experienced,
-critical workflows soon came to a screeching halt.</description>
-      <category>web</category>
-      <guid>https://yosefk.com/blog/all-means-are-fair-except-solving-the-problem.html</guid>
-      <pubDate>Wed, 06 May 2026 23:02:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>working was the beginning | themackabu.dev</title>
-      <link>https://themackabu.dev/blog/ant-part-two</link>
-      <description>In January, I wrote that I had built a JavaScript runtime in a month. The post was true, and at the time I thought it was the story...</description>
-      <category>nodejs</category>
-      <category>javascript</category>
-      <category>rust</category>
-      <category>ai</category>
-      <category>web</category>
-      <guid>https://themackabu.dev/blog/ant-part-two</guid>
-      <pubDate>Wed, 06 May 2026 23:02:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Analysis paralysis: folders</title>
-      <link>https://nonogra.ph/analysis-paralysis-folders-05-06-2026</link>
-      <description>Hierarchy in file system was a great invention, popularized by Unix. Files in directory, directory in directory. Creating a tree. Files get designated place in ...</description>
-      <author> (Anonymous)</author>
-      <guid>https://nonogra.ph/analysis-paralysis-folders-05-06-2026</guid>
-      <pubDate>Wed, 06 May 2026 23:02:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>"Open" doesn't mean what it used to</title>
-      <link>https://lr0.org/blog/p/open/</link>
-      <description>In the future I will storytell to my childern about how the word open in computing, someday, did actually mean things, some of them you could be certain about: source was there, or the protocol was something anyone could implement "freely", data could be pulled out of one system and dumped into another, I might also tell them that people didn't always honor that, but still, the word was at least under tension. Back in these days, when you see the word "open", you probably could clone something and run the export and you could also ask whether the spec was implementable without buying a license from one of its authors. People could lie to you about openness, and you could catch them lying.</description>
-      <category>ai</category>
-      <category>sql</category>
-      <guid>https://lr0.org/blog/p/open/</guid>
-      <pubDate>Wed, 06 May 2026 23:02:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dogfooding Is the New Code Review</title>
-      <link>https://alexfurrier.dev/blog/2026-05-06-dogfooding-is-the-new-code-review/</link>
-      <description>AI agents can ship code faster than humans can review it. Correct code still needs human time to become good software.</description>
-      <category>ai</category>
-      <category>git</category>
-      <guid>https://alexfurrier.dev/blog/2026-05-06-dogfooding-is-the-new-code-review/</guid>
-      <pubDate>Wed, 06 May 2026 23:02:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Code never mattered in the first place</title>
-      <link>https://mar.coconauts.net/blog/posts/code-never-mattered/</link>
-      <description>The sung thoughts of Mar Bartolomé</description>
-      <category>ai</category>
-      <category>gaming</category>
-      <guid>https://mar.coconauts.net/blog/posts/code-never-mattered/</guid>
-      <pubDate>Wed, 06 May 2026 23:02:19 GMT</pubDate>
     </item>
   </channel>
 </rss>

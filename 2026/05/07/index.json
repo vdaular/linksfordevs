@@ -1,5 +1,19 @@
 [
   {
+    "Title": "security - Dirty Frag: Universal Linux LPE",
+    "Url": "https://www.openwall.com/lists/oss-security/2026/05/07/8",
+    "Timestamp": "2026-05-07T23:02:13",
+    "Domain": "www.openwall.com",
+    "Description": "Powered by blists - more mailing lists"
+  },
+  {
+    "Title": "agents need control flow, not more prompts",
+    "Url": "https://bsuh.bearblog.dev/agents-need-control-flow/",
+    "Timestamp": "2026-05-07T23:02:08",
+    "Domain": "bsuh.bearblog.dev",
+    "Description": "Thesis: reliable agents tackling complex tasks need deterministic control flow encoded in software, not increasingly elaborate prompt chains\n\nIf you’ve eve..."
+  },
+  {
     "Title": "AI Slop is Killing Online Communities",
     "Url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
     "Timestamp": "2026-05-07T22:02:14",
