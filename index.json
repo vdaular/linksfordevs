@@ -254,21 +254,5 @@
     "Domain": "idiallo.com",
     "Description": "Asimov's Three Laws of Robotics were designed as universal constraints for any thinking machine powerful enough to harm us:\n",
     "Confidence": 0.9913246
-  },
-  {
-    "Title": "StarFighter 16-inch",
-    "Url": "https://us.starlabs.systems/pages/starfighter",
-    "Timestamp": "2026-05-06T09:02:10",
-    "Domain": "us.starlabs.systems",
-    "Description": "Exquisitely crafted exclusively for Linux; Delivering groundbreaking innovation in privacy and performance.",
-    "Confidence": 0.851342
-  },
-  {
-    "Title": "DENIC Status",
-    "Url": "https://status.denic.de/pages/incident/592577eab611ce1e0d00046f/69fa60ef9d12f5057a974f38",
-    "Timestamp": "2026-05-06T09:02:05",
-    "Domain": "status.denic.de",
-    "Description": "Current system status. View active incidents or upcoming maintenance. Subscribe to receive status notifications.",
-    "Confidence": 0.96217334
   }
 ]
