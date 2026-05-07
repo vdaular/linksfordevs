@@ -1,5 +1,13 @@
 [
   {
+    "Title": "LoC Recommended Storage Format",
+    "Url": "https://sqlite.org/locrsf.html",
+    "Timestamp": "2026-05-07T10:02:07",
+    "Domain": "sqlite.org",
+    "Description": "LoC Recommended Storage Format",
+    "Confidence": 0.98349273
+  },
+  {
     "Title": "Inkscape 1.4.4 Release Notes | Inkscape",
     "Url": "https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html",
     "Timestamp": "2026-05-07T06:02:06",

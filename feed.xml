@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>LoC Recommended Storage Format</title>
+      <link>https://sqlite.org/locrsf.html</link>
+      <description>LoC Recommended Storage Format</description>
+      <category>sql</category>
+      <category>encryption</category>
+      <category>javascript</category>
+      <category>web</category>
+      <guid>https://sqlite.org/locrsf.html</guid>
+      <pubDate>Thu, 07 May 2026 10:02:07 GMT</pubDate>
+    </item>
+    <item>
       <title>Inkscape 1.4.4 Release Notes | Inkscape</title>
       <link>https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html</link>
       <description>Released on May 6, 2026.</description>
