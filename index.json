@@ -238,13 +238,5 @@
     "Domain": "simonwillison.net",
     "Description": "I recently talked with Joseph Ruscio about AI coding tools for Heavybit’s High Leverage podcast: Ep. #9, The AI Coding Paradigm Shift with Simon Willison. Here are some of my …",
     "Confidence": 0.9840546
-  },
-  {
-    "Title": "Higher usage limits for Claude and a compute deal with SpaceX",
-    "Url": "https://www.anthropic.com/news/higher-limits-spacex",
-    "Timestamp": "2026-05-06T21:02:19",
-    "Domain": "www.anthropic.com",
-    "Description": "We’ve raised Claude's usage limits and agreed a new compute partnership with SpaceX that will substantially increase our capacity in the near term. ",
-    "Confidence": 0.8642292
   }
 ]

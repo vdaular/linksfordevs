@@ -272,14 +272,5 @@ critical workflows soon came to a screeching halt.</description>
       <guid>https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/</guid>
       <pubDate>Wed, 06 May 2026 22:02:07 GMT</pubDate>
     </item>
-    <item>
-      <title>Higher usage limits for Claude and a compute deal with SpaceX</title>
-      <link>https://www.anthropic.com/news/higher-limits-spacex</link>
-      <description>We’ve raised Claude's usage limits and agreed a new compute partnership with SpaceX that will substantially increase our capacity in the near term. </description>
-      <category>cloud</category>
-      <category>ai</category>
-      <guid>https://www.anthropic.com/news/higher-limits-spacex</guid>
-      <pubDate>Wed, 06 May 2026 21:02:19 GMT</pubDate>
-    </item>
   </channel>
 </rss>
