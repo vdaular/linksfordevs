@@ -1,5 +1,13 @@
 [
   {
+    "Title": "AI Slop is Killing Online Communities",
+    "Url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
+    "Timestamp": "2026-05-07T22:02:14",
+    "Domain": "rmoff.net",
+    "Description": "",
+    "Confidence": 0.9731098
+  },
+  {
     "Title": "Chrome removes claim of On-device Al not sending data to Google Servers.",
     "Url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
     "Timestamp": "2026-05-07T20:02:11",
@@ -230,13 +238,5 @@
     "Domain": "mar.coconauts.net",
     "Description": "The sung thoughts of Mar Bartolomé",
     "Confidence": 0.9460333
-  },
-  {
-    "Title": "Vibe coding and agentic engineering are getting closer than I’d like",
-    "Url": "https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/",
-    "Timestamp": "2026-05-06T22:02:07",
-    "Domain": "simonwillison.net",
-    "Description": "I recently talked with Joseph Ruscio about AI coding tools for Heavybit’s High Leverage podcast: Ep. #9, The AI Coding Paradigm Shift with Simon Willison. Here are some of my …",
-    "Confidence": 0.9840546
   }
 ]

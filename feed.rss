@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>AI Slop is Killing Online Communities</title>
+      <link>https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/</link>
+      <description></description>
+      <category>ai</category>
+      <guid>https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/</guid>
+      <pubDate>Thu, 07 May 2026 22:02:14 GMT</pubDate>
+    </item>
+    <item>
       <title>Chrome removes claim of On-device Al not sending data to Google Servers.</title>
       <link>https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/</link>
       <description>Posted in r/chrome by u/RaufLegend • 39 points and 11 comments</description>
@@ -260,17 +268,6 @@ critical workflows soon came to a screeching halt.</description>
       <category>gaming</category>
       <guid>https://mar.coconauts.net/blog/posts/code-never-mattered/</guid>
       <pubDate>Wed, 06 May 2026 23:02:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vibe coding and agentic engineering are getting closer than I’d like</title>
-      <link>https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/</link>
-      <description>I recently talked with Joseph Ruscio about AI coding tools for Heavybit’s High Leverage podcast: Ep. #9, The AI Coding Paradigm Shift with Simon Willison. Here are some of my …</description>
-      <category>ai</category>
-      <category>git</category>
-      <category>javascript</category>
-      <category>sql</category>
-      <guid>https://simonwillison.net/2026/May/6/vibe-coding-and-agentic-engineering/</guid>
-      <pubDate>Wed, 06 May 2026 22:02:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
