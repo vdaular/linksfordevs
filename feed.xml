@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Why hasn't longer-horizon training slowed AI progress?</title>
+      <link>https://www.seangoedecke.com/why-hasnt-longer-horizon-training-slowed-ai-progress/</link>
+      <description>Dwarkesh Patel1 recently posted an award for the best answers to four key questions about AI. It’s partly a challenge and partly a job interview, since some of the winners will get offered a role as a “research collaborator”. I don’t want the job, but I do want to write down my answer to his first question: why hasn’t AI progress slowed down more?</description>
+      <category>rust</category>
+      <category>ai</category>
+      <guid>https://www.seangoedecke.com/why-hasnt-longer-horizon-training-slowed-ai-progress/</guid>
+      <pubDate>Thu, 07 May 2026 13:02:19 GMT</pubDate>
+    </item>
+    <item>
       <title>LoC Recommended Storage Format</title>
       <link>https://sqlite.org/locrsf.html</link>
       <description>LoC Recommended Storage Format</description>
@@ -283,14 +292,6 @@ critical workflows soon came to a screeching halt.</description>
       <category>ai</category>
       <guid>https://katedaviesdesigns.com/2026/04/29/knitting-bullshit/</guid>
       <pubDate>Wed, 06 May 2026 15:01:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Red Squares — the GitHub outage graph</title>
-      <link>https://red-squares.cian.lol/</link>
-      <description>A satirical contribution graph: red squares track GitHub.com platform outages instead of green squares tracking commits.</description>
-      <category>git</category>
-      <guid>https://red-squares.cian.lol/</guid>
-      <pubDate>Wed, 06 May 2026 13:02:00 GMT</pubDate>
     </item>
   </channel>
 </rss>
