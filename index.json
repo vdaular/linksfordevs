@@ -246,13 +246,5 @@
     "Domain": "bsuh.bearblog.dev",
     "Description": "Thesis: reliable agents tackling complex tasks need deterministic control flow encoded in software, not increasingly elaborate prompt chains\n\nIf you’ve eve...",
     "Confidence": 0.9945334
-  },
-  {
-    "Title": "AI Slop is Killing Online Communities",
-    "Url": "https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/",
-    "Timestamp": "2026-05-07T22:02:14",
-    "Domain": "rmoff.net",
-    "Description": "",
-    "Confidence": 0.9731098
   }
 ]
