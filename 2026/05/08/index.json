@@ -1,5 +1,12 @@
 [
   {
+    "Title": "OpenAI's WebRTC Problem - Media over QUIC",
+    "Url": "https://moq.dev/blog/webrtc-is-the-problem/",
+    "Timestamp": "2026-05-08T16:02:24",
+    "Domain": "moq.dev",
+    "Description": "Media over QUIC: There are ways to do voice AI without being traumatized by WebRTC."
+  },
+  {
     "Title": "HomePod mini feels like magic, but it's just good timing",
     "Url": "https://www.jeffgeerling.com/blog/2026/homepod-mini-feels-like-magic--but-it-s-just-good-timing/",
     "Timestamp": "2026-05-08T15:02:18",
