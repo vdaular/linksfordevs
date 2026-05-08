@@ -1,5 +1,33 @@
 [
   {
+    "Title": "Crystal Gazing",
+    "Url": "https://xkcd.com/3243/",
+    "Timestamp": "2026-05-08T18:02:27",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "Google Cloud Fraud Defence is just WEI repackaged",
+    "Url": "https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/",
+    "Timestamp": "2026-05-08T18:02:24",
+    "Domain": "privatecaptcha.com",
+    "Description": "In May 2026, Google announced “Google Cloud Fraud Defense - the next evolution of reCAPTCHA.” The announcement described a QR code challenge where users scan a"
+  },
+  {
+    "Title": "taken.",
+    "Url": "https://sinceyouarrived.world/taken",
+    "Timestamp": "2026-05-08T18:02:21",
+    "Domain": "sinceyouarrived.world",
+    "Description": "A web page that tells you what your browser gave away the moment you arrived. No login, no form, no permission. Most pages do this. None of them tell you."
+  },
+  {
+    "Title": "Introduction | Meshtastic",
+    "Url": "https://meshtastic.org/docs/introduction/",
+    "Timestamp": "2026-05-08T18:02:17",
+    "Domain": "meshtastic.org",
+    "Description": "Discover Meshtastic: a community-driven, open-source project using LoRa radios for long-range, off-grid communication."
+  },
+  {
     "Title": "OpenAI's WebRTC Problem - Media over QUIC",
     "Url": "https://moq.dev/blog/webrtc-is-the-problem/",
     "Timestamp": "2026-05-08T16:02:24",
