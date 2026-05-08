@@ -1,0 +1,121 @@
+[
+  {
+    "Title": "Honey, I shrunk the circuits!",
+    "Url": "https://tokenbender.com/posts/honey-i-shrunk-the-circuits/",
+    "Timestamp": "2026-05-08T00:03:15",
+    "Domain": "tokenbender.com",
+    "Description": "Low-rank circuit conditioning makes an existing dense-model capability recoverable as a compact causal mask."
+  },
+  {
+    "Title": "I bought an analog watch and I love it",
+    "Url": "https://minimal.bearblog.dev/i-bought-an-analog-watch-and-i-love-it/",
+    "Timestamp": "2026-05-08T00:03:12",
+    "Domain": "minimal.bearblog.dev",
+    "Description": "I recently bought a new watch. It's the Casio MQ24-9B. I got it for ~20€. \nHere are some picture of it:\n\u0001\n\u0001\n\u0001\nI didn't expect much from the watch. It's ext..."
+  },
+  {
+    "Title": "The four horsemen behind thousands of Postgres outages - malisper.me",
+    "Url": "https://malisper.me/the-four-horsemen-behind-thousands-of-postgres-outages/",
+    "Timestamp": "2026-05-08T00:03:09",
+    "Domain": "malisper.me",
+    "Description": "Postgres is great, but there are some very common problems that people have that can pretty easily lead to outages with Postgres. These aren’t just theoretical issues. From talking to a lot of startups, these are the things that actually cause outages in production, especially on teams that don’t have a dedicated database person. These […]"
+  },
+  {
+    "Title": "Why Don’t Lowercase Letters Come Right After Uppercase Letters in ASCII? – Tyler Hillery",
+    "Url": "https://tylerhillery.com/blog/why-dont-lowercase-chars-come-after-upper/",
+    "Timestamp": "2026-05-08T00:03:04",
+    "Domain": "tylerhillery.com",
+    "Description": "Something finally clicked for me. When looking at an ASCII table, you will notice that after the uppercase Z, there are a few other characters before lowercase a:"
+  },
+  {
+    "Title": "Therapy for Startup Founders — Dr. Jené Verchick",
+    "Url": "https://www.drjeneverchick.com/founders",
+    "Timestamp": "2026-05-08T00:03:00",
+    "Domain": "www.drjeneverchick.com",
+    "Description": "Licensed psychologist for experienced with technical founders.  Depression, anxiety, burnout, isolation, relationship strain. 26+ years experience. Text me."
+  },
+  {
+    "Title": "Number of tokens shouldn't be the only metric",
+    "Url": "https://johnjwang.com/post/2026/05/06/tokens-shouldnt-be-the-only-metric/",
+    "Timestamp": "2026-05-08T00:02:57",
+    "Domain": "johnjwang.com",
+    "Description": "John Wang's personal website"
+  },
+  {
+    "Title": "The Serial TTL connector we deserve",
+    "Url": "https://kohlschuetter.github.io/blog/posts/2026/05/07/serial-ttl-connector/",
+    "Timestamp": "2026-05-08T00:02:54",
+    "Domain": "kohlschuetter.github.io",
+    "Description": "Goodbye dangling Dupont pins, hello Julet E-Bike connector. I have them now everywhere, from my router to my servers."
+  },
+  {
+    "Title": "How to Choose Good Chocolate (Without Being Fooled) | Chof",
+    "Url": "https://chof.nl/how-to-choose-chocolate",
+    "Timestamp": "2026-05-08T00:02:49",
+    "Domain": "chof.nl",
+    "Description": "How to choose good chocolate: read the wrapper, decode ingredients, fats, origin, and what cocoa percentage really means. By a certified taster and chocolate awards judge."
+  },
+  {
+    "Title": "Plastic Flowers to Protect the Hive - phildini.dev",
+    "Url": "https://phildini.dev/slopsquatting-for-good",
+    "Timestamp": "2026-05-08T00:02:46",
+    "Domain": "phildini.dev",
+    "Description": "Pre-register hallucinated package names. Fill them with guardrails. The devastating spell becomes homework."
+  },
+  {
+    "Title": "From Buffon's Needle to Buffon's Noodle",
+    "Url": "https://mbmccoy.dev/posts/buffons-noodle/",
+    "Timestamp": "2026-05-08T00:02:42",
+    "Domain": "mbmccoy.dev",
+    "Description": "Bending the needle with geometric probability"
+  },
+  {
+    "Title": "Distractions | Ankshilp",
+    "Url": "https://ankshilp.in/posts/distractions/",
+    "Timestamp": "2026-05-08T00:02:38",
+    "Domain": "ankshilp.in",
+    "Description": "Our age is age of distractions. Instant messages, notifications, breaking news, endless stories, cute pet videos, random comments on social media are all distractions of one form or other. These distractions are dividing our attention which is already in short supply. Due to this, anything real like relationships, our own problems and issues, our thoughts and ideas forever remain on back burner. We don’t have time to sit with our own thoughts and ideas. How can we be healthy if we remain disconnected from ourselves?"
+  },
+  {
+    "Title": "How I Spent Half a Day Fixing a WordPress Charset Problem (and What I Learned) | Kruno Golubić",
+    "Url": "https://kgolubic.com/posts/fixing-a-wordpress-charset-problem/",
+    "Timestamp": "2026-05-08T00:02:35",
+    "Domain": "kgolubic.com",
+    "Description": "A WooCommerce site with an ERP integration in progress. The external developer reported a mixed encoding in the database: latin1, utf8mb3, and utf8mb4. ALTER TABLE looked like the right move. But it wasn't so."
+  },
+  {
+    "Title": "Why Architecture Matters in Rails Applications",
+    "Url": "https://davidslv.uk/2026/05/05/why-architecture-matters.html",
+    "Timestamp": "2026-05-08T00:02:32",
+    "Domain": "davidslv.uk",
+    "Description": "This is an adapted excerpt from Chapter 1 of Modular Rails: Architecture for the Long Game, my book on building maintainable Ruby on Rails applications using..."
+  },
+  {
+    "Title": "Lessons From 6 Years of Local Advocacy",
+    "Url": "https://maxmautner.com/2026/04/30/what-i-have-learned.html",
+    "Timestamp": "2026-05-08T00:02:27",
+    "Domain": "maxmautner.com",
+    "Description": "Five lessons from 6 years of safe-streets, transit, and housing advocacy in my city — from why slow streets beat bike lanes to who actually shows up."
+  },
+  {
+    "Title": "Idempotency Is Easy Until the Second Request Is Different | Dochia CLI Blog",
+    "Url": "https://blog.dochia.dev/blog/idempotency/",
+    "Timestamp": "2026-05-08T00:02:24",
+    "Domain": "blog.dochia.dev",
+    "Description": "Idempotency is not just an HTTP header or a key lookup. This article covers the failure cases that bite real APIs: different requests with the same key, concurrent retries, partial success, downstream uncertainty, response replay, expiry, and duplicate message handling."
+  },
+  {
+    "Title": "Have you smiled at somebody today?",
+    "Url": "https://mylightstillshines.wordpress.com/2026/05/06/have-you-smiled-at-somebody-today/",
+    "Timestamp": "2026-05-08T00:02:20",
+    "Domain": "mylightstillshines.wordpress.com",
+    "Description": "A smile is the prettiest thing a person could ever wear. When you smile you are sharing positive energy, Love and it’s infectious. Have you smiled at somebody today? Nothing is more precious …"
+  },
+  {
+    "Title": "Creating for a niche",
+    "Url": "https://www.davesnider.com/posts/working-in-a-niche",
+    "Timestamp": "2026-05-08T00:02:17",
+    "Domain": "www.davesnider.com",
+    "Description": "The joys of a small, passionate audience"
+  }
+]
