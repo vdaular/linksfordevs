@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Notes on incidents",
+    "Url": "https://www.seangoedecke.com/notes-on-incidents/",
+    "Timestamp": "2026-05-08T08:02:09",
+    "Domain": "www.seangoedecke.com",
+    "Description": "Incidents are boring. Most of what you actually do during an incident is wait: for some other team to investigate, or for a deploy to finish, or for the result of some change to become apparent, or for someone else who’s been paged to come online. It’s stressful, but there’s often just not that much to do."
+  },
+  {
     "Title": "Natural Language Autoencoders",
     "Url": "https://www.anthropic.com/research/natural-language-autoencoders",
     "Timestamp": "2026-05-08T07:02:12",
