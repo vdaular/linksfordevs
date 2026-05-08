@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Maybe you shouldn't install new software for a bit",
+    "Url": "https://xeiaso.net/blog/2026/abstain-from-install/",
+    "Timestamp": "2026-05-08T05:02:18",
+    "Domain": "xeiaso.net",
+    "Description": "Oh boy yet more linux kernel vulns",
+    "Confidence": 0.5773328
+  },
+  {
     "Title": "Building For The Future",
     "Url": "https://blog.cloudflare.com/building-for-the-future/",
     "Timestamp": "2026-05-08T03:02:14",
