@@ -1,5 +1,12 @@
 [
   {
+    "Title": "C++ Style and Technique FAQ",
+    "Url": "https://www.stroustrup.com/bs_faq2.html#memory-leaks",
+    "Timestamp": "2026-05-08T19:02:15",
+    "Domain": "www.stroustrup.com",
+    "Description": "Modified February 26, 2022"
+  },
+  {
     "Title": "Crystal Gazing",
     "Url": "https://xkcd.com/3243/",
     "Timestamp": "2026-05-08T18:02:27",
