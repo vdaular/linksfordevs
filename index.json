@@ -254,13 +254,5 @@
     "Domain": "rmoff.net",
     "Description": "",
     "Confidence": 0.9731098
-  },
-  {
-    "Title": "Chrome removes claim of On-device Al not sending data to Google Servers.",
-    "Url": "https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/",
-    "Timestamp": "2026-05-07T20:02:11",
-    "Domain": "old.reddit.com",
-    "Description": "Posted in r/chrome by u/RaufLegend • 39 points and 11 comments",
-    "Confidence": 0.71809345
   }
 ]
