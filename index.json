@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Natural Language Autoencoders",
+    "Url": "https://www.anthropic.com/research/natural-language-autoencoders",
+    "Timestamp": "2026-05-08T07:02:12",
+    "Domain": "www.anthropic.com",
+    "Description": "Turning Claude's thoughts into text",
+    "Confidence": 0.9703881
+  },
+  {
     "Title": "Maybe you shouldn't install new software for a bit",
     "Url": "https://xeiaso.net/blog/2026/abstain-from-install/",
     "Timestamp": "2026-05-08T05:02:18",
