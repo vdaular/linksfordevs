@@ -243,40 +243,5 @@ adjacent slab memory.</description>
       <guid>https://www.stroustrup.com/bs_faq2.html#memory-leaks</guid>
       <pubDate>Fri, 08 May 2026 19:02:15 GMT</pubDate>
     </item>
-    <item>
-      <title>Crystal Gazing</title>
-      <link>https://xkcd.com/3243/</link>
-      <description></description>
-      <category>javascript</category>
-      <guid>https://xkcd.com/3243/</guid>
-      <pubDate>Fri, 08 May 2026 18:02:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google Cloud Fraud Defence is just WEI repackaged</title>
-      <link>https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/</link>
-      <description>In May 2026, Google announced “Google Cloud Fraud Defense - the next evolution of reCAPTCHA.” The announcement described a QR code challenge where users scan a</description>
-      <category>android</category>
-      <category>apple</category>
-      <category>ai</category>
-      <guid>https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/</guid>
-      <pubDate>Fri, 08 May 2026 18:02:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>taken.</title>
-      <link>https://sinceyouarrived.world/taken</link>
-      <description>A web page that tells you what your browser gave away the moment you arrived. No login, no form, no permission. Most pages do this. None of them tell you.</description>
-      <author> (Matt Wheeler)</author>
-      <category>javascript</category>
-      <guid>https://sinceyouarrived.world/taken</guid>
-      <pubDate>Fri, 08 May 2026 18:02:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Introduction | Meshtastic</title>
-      <link>https://meshtastic.org/docs/introduction/</link>
-      <description>Discover Meshtastic: a community-driven, open-source project using LoRa radios for long-range, off-grid communication.</description>
-      <category>ai</category>
-      <guid>https://meshtastic.org/docs/introduction/</guid>
-      <pubDate>Fri, 08 May 2026 18:02:17 GMT</pubDate>
-    </item>
   </channel>
 </rss>
