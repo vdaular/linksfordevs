@@ -278,13 +278,5 @@ Through the magic of buying two HomePods mini (pictured above), I found out. A v
       <guid>https://idiallo.com/blog/hi?src=feed</guid>
       <pubDate>Fri, 08 May 2026 14:02:04 GMT</pubDate>
     </item>
-    <item>
-      <title>Notes on incidents</title>
-      <link>https://www.seangoedecke.com/notes-on-incidents/</link>
-      <description>Incidents are boring. Most of what you actually do during an incident is wait: for some other team to investigate, or for a deploy to finish, or for the result of some change to become apparent, or for someone else who’s been paged to come online. It’s stressful, but there’s often just not that much to do.</description>
-      <category>containers</category>
-      <guid>https://www.seangoedecke.com/notes-on-incidents/</guid>
-      <pubDate>Fri, 08 May 2026 08:02:09 GMT</pubDate>
-    </item>
   </channel>
 </rss>
