@@ -7,98 +7,302 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
-      <title>security - Dirty Frag: Universal Linux LPE</title>
-      <link>https://www.openwall.com/lists/oss-security/2026/05/07/8</link>
-      <description>Powered by blists - more mailing lists</description>
+      <title>Cartoon Network Flash Games</title>
+      <link>https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games</link>
+      <description>Explore a collection of Cartoon Network browser games inspired by The Powerpuff Girls, Dexter’s Laboratory, Samurai Jack, and other fan-favorite series.</description>
+      <category>gaming</category>
+      <guid>https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games</guid>
+      <pubDate>Sat, 09 May 2026 00:02:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google Broke reCAPTCHA for De-Googled Android Users</title>
+      <link>https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users</link>
+      <description>The company that decides whether you're a bot now also requires you run its software to prove otherwise.</description>
+      <category>android</category>
+      <category>apple</category>
       <category>git</category>
-      <category>linux</category>
-      <guid>https://www.openwall.com/lists/oss-security/2026/05/07/8</guid>
-      <pubDate>Thu, 07 May 2026 23:02:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>agents need control flow, not more prompts</title>
-      <link>https://bsuh.bearblog.dev/agents-need-control-flow/</link>
-      <description>Thesis: reliable agents tackling complex tasks need deterministic control flow encoded in software, not increasingly elaborate prompt chains
-
-If you’ve eve...</description>
-      <guid>https://bsuh.bearblog.dev/agents-need-control-flow/</guid>
-      <pubDate>Thu, 07 May 2026 23:02:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI Slop is Killing Online Communities</title>
-      <link>https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/</link>
-      <description></description>
       <category>ai</category>
-      <guid>https://rmoff.net/2026/05/06/ai-slop-is-killing-online-communities/</guid>
-      <pubDate>Thu, 07 May 2026 22:02:14 GMT</pubDate>
+      <guid>https://reclaimthenet.org/google-broke-recaptcha-for-de-googled-android-users</guid>
+      <pubDate>Fri, 08 May 2026 23:03:37 GMT</pubDate>
     </item>
     <item>
-      <title>Chrome removes claim of On-device Al not sending data to Google Servers.</title>
-      <link>https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/</link>
-      <description>Posted in r/chrome by u/RaufLegend • 39 points and 11 comments</description>
-      <guid>https://old.reddit.com/r/chrome/comments/1t5qayz/chrome_removes_claim_of_ondevice_al_not_sending/</guid>
-      <pubDate>Thu, 07 May 2026 20:02:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Marriage of adolescent girls in Nigeria reduced by 80% by ‘big push’ intervention</title>
-      <link>https://www.nature.com/articles/d41586-026-00720-8</link>
-      <description>A locally tailored, big-push intervention to educate unmarried adolescent girls in 18 communities in northern Nigeria reduced rates of marriage from 86% to just 21%. Interventions that address complex, entrenched social problems from various angles simultaneously might be considerably more effective than smaller-scale, cheaper alternatives are.</description>
-      <guid>https://www.nature.com/articles/d41586-026-00720-8</guid>
-      <pubDate>Thu, 07 May 2026 19:02:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>The map that keeps Burning Man honest</title>
-      <link>https://www.not-ship.com/burning-man-moop/</link>
-      <description>The event's Leave No Trace principle isn't just a promise — it's measured, mapped, and made public.</description>
-      <guid>https://www.not-ship.com/burning-man-moop/</guid>
-      <pubDate>Thu, 07 May 2026 17:02:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why hasn't longer-horizon training slowed AI progress?</title>
-      <link>https://www.seangoedecke.com/why-hasnt-longer-horizon-training-slowed-ai-progress/</link>
-      <description>Dwarkesh Patel1 recently posted an award for the best answers to four key questions about AI. It’s partly a challenge and partly a job interview, since some of the winners will get offered a role as a “research collaborator”. I don’t want the job, but I do want to write down my answer to his first question: why hasn’t AI progress slowed down more?</description>
-      <category>rust</category>
+      <title>Code has always been worthless | Blog</title>
+      <link>https://roganov.me/blog/code-always-worthless/</link>
+      <description>For forty years we pretended software was the product. SaaS moved the price to the service. AI moved it past zero. The artefact is free now — what's worth paying for is knowing which code to write.</description>
+      <author> (Ivan Roganov)</author>
+      <category>gaming</category>
       <category>ai</category>
-      <guid>https://www.seangoedecke.com/why-hasnt-longer-horizon-training-slowed-ai-progress/</guid>
-      <pubDate>Thu, 07 May 2026 13:02:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>LoC Recommended Storage Format</title>
-      <link>https://sqlite.org/locrsf.html</link>
-      <description>LoC Recommended Storage Format</description>
       <category>sql</category>
-      <category>encryption</category>
-      <category>javascript</category>
-      <category>web</category>
-      <guid>https://sqlite.org/locrsf.html</guid>
-      <pubDate>Thu, 07 May 2026 10:02:07 GMT</pubDate>
+      <guid>https://roganov.me/blog/code-always-worthless/</guid>
+      <pubDate>Fri, 08 May 2026 23:03:33 GMT</pubDate>
     </item>
     <item>
-      <title>Inkscape 1.4.4 Release Notes | Inkscape</title>
-      <link>https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html</link>
-      <description>Released on May 6, 2026.</description>
-      <category>git</category>
+      <title>When is your birthday? - The Math Behind Hash Collisions</title>
+      <link>https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html</link>
+      <description>The mathematics behind why encryption works — and why it sometimes doesn’t.</description>
+      <guid>https://0xkrt26.github.io/math_behind_security/2026/05/08/birthday-problem.html</guid>
+      <pubDate>Fri, 08 May 2026 23:03:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>The React2Shell Story</title>
+      <link>https://lachlan.nz/blog/the-react2shell-story/</link>
+      <description>The story of CVE-2025-55182 (React2Shell)</description>
       <category>nodejs</category>
+      <category>cloud</category>
+      <category>javascript</category>
+      <category>typescript</category>
+      <category>gaming</category>
+      <guid>https://lachlan.nz/blog/the-react2shell-story/</guid>
+      <pubDate>Fri, 08 May 2026 23:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Growth Hacking was an awful idea</title>
+      <link>https://mrmarket.bearblog.dev/escape-growth-trap/</link>
+      <description>&lt;p&gt;&lt;i&gt;By Mr. Market&lt;/i&gt;&lt;/p&gt;
+&lt;p&gt;Brand has historically been considered an imprecise, flailing effort, only necessary once you hit a certain size and even the...</description>
+      <category>cloud</category>
+      <category>gaming</category>
+      <category>vscode</category>
+      <category>ai</category>
+      <category>nodejs</category>
+      <guid>https://mrmarket.bearblog.dev/escape-growth-trap/</guid>
+      <pubDate>Fri, 08 May 2026 23:03:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Human Typing Habits and Token Counts</title>
+      <link>https://pankajpipada.com/posts/2026-05-08-human-habits-tokens/</link>
+      <description>Normal human habits like swapped letters, fillers, shorthand, pasted IDs, boundary whitespace, and nearby word forms can change token count without changing intent much.</description>
+      <category>ai</category>
+      <guid>https://pankajpipada.com/posts/2026-05-08-human-habits-tokens/</guid>
+      <pubDate>Fri, 08 May 2026 23:03:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Humanity is self-deprecating</title>
+      <link>https://not-an-llm.bearblog.dev/humanity-is-self-deprecating/</link>
+      <description>A year ago agents were good, but comparing them today is a folly. Today, agents effectively replace junior developers and companies have realized that.
+
+I ...</description>
+      <guid>https://not-an-llm.bearblog.dev/humanity-is-self-deprecating/</guid>
+      <pubDate>Fri, 08 May 2026 23:03:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pair Your Coding Agent with a Reviewer</title>
+      <link>https://juanreyero.com/article/ai/two-agents-not-one</link>
+      <description>The simplest improvement you can make to your agentic programming workflow is to run two agents instead of one. One writes code in its own worktree; the other, in a parallel worktree, reviews it. They share a task list and talk after every TDD cycle. The reviewer is the holder of the lamp: it keeps the end goal fresh in context across the whole task, catching drift before it accumulates.</description>
+      <category>ai</category>
+      <guid>https://juanreyero.com/article/ai/two-agents-not-one</guid>
+      <pubDate>Fri, 08 May 2026 23:03:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Engineering Intelligence from Autocomplete</title>
+      <link>https://www.szia.ai/post/engineer-intelligence-from-autocomplete</link>
+      <description>LLMs don't think; they predict the next token. Discover the engineering tricks from RAG to Tree of Thoughts that force a simple autocomplete to behave intelligently.</description>
+      <author> (Marton Antal Szel)</author>
+      <category>sql</category>
+      <category>ai</category>
+      <category>cloud</category>
       <category>python</category>
+      <category>javascript</category>
+      <guid>https://www.szia.ai/post/engineer-intelligence-from-autocomplete</guid>
+      <pubDate>Fri, 08 May 2026 23:03:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>My first corrupted hard drive problem</title>
+      <link>https://blog.pavementlink.ch/2026/05/07/my-first-corrupted-hard-drive-problem/</link>
+      <description>How I had to deal with a corrupted hard drive on a production server.</description>
+      <category>sql</category>
+      <category>git</category>
+      <guid>https://blog.pavementlink.ch/2026/05/07/my-first-corrupted-hard-drive-problem/</guid>
+      <pubDate>Fri, 08 May 2026 23:03:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Can LLMs model real-world systems in TLA+? </title>
+      <link>https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/</link>
+      <description>Editors’ note: AI has been actively pushing the frontier of applied formal methods for computing systems. In this article, the Specula team wrote about their experience of evaluating LLMs on modeling system code, the basic capability for agentic model checking, using TLA+, a specification language f</description>
+      <category>ai</category>
+      <guid>https://www.sigops.org/2026/can-llms-model-real-world-systems-in-tla/</guid>
+      <pubDate>Fri, 08 May 2026 23:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>My Response to Open Web Censorship Calls-to-Action | Scott Larson</title>
+      <link>https://www.scottrlarson.com/blog/blog-response-open-web-action-calls/</link>
+      <description></description>
+      <category>youtube</category>
+      <guid>https://www.scottrlarson.com/blog/blog-response-open-web-action-calls/</guid>
+      <pubDate>Fri, 08 May 2026 23:02:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fixing Markdown Syntax Is a Nightmare | mdview.io</title>
+      <link>https://mdview.io/s/fixing-markdown-syntax-is-a-nightmare</link>
+      <description>Explore common Markdown syntax issues and solutions, focusing on rendering challenges across various dialects and fixing LaTeX and Mermaid errors effectively.</description>
+      <category>javascript</category>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://mdview.io/s/fixing-markdown-syntax-is-a-nightmare</guid>
+      <pubDate>Fri, 08 May 2026 23:02:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI makes weak engineers less harmful</title>
+      <link>https://www.seangoedecke.com/ai-makes-weak-engineers-less-harmful/</link>
+      <description>Like other kinds of puzzle-solving, software engineering ability is strongly heavy-tailed. The strongest engineers produce way more useful output than the average, and the weakest engineers often are actively net-negative: instead of moving projects along, they create problems that their colleagues have to spend time solving. That’s why many tech companies try to build a small, ludicrously well-paid team instead of a large team of more average engineers, and why so far this seems to be a winning strategy.</description>
+      <category>ai</category>
+      <guid>https://www.seangoedecke.com/ai-makes-weak-engineers-less-harmful/</guid>
+      <pubDate>Fri, 08 May 2026 23:02:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Beyond DevOps — Readables</title>
+      <link>https://debarshibasak.github.io/readables/blogs/beyond-devops.html</link>
+      <description>On letting Claude run my infra, and what I saw on the other side.</description>
+      <category>ai</category>
+      <category>containers</category>
+      <category>web</category>
+      <guid>https://debarshibasak.github.io/readables/blogs/beyond-devops.html</guid>
+      <pubDate>Fri, 08 May 2026 23:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Building a Harper Desktop App</title>
+      <link>https://elijahpotter.dev/articles/building-a-harper-desktop-app</link>
+      <description>We're dedicating the next month to just one thing: getting a Harper desktop app shipped.</description>
+      <category>javascript</category>
+      <guid>https://elijahpotter.dev/articles/building-a-harper-desktop-app</guid>
+      <pubDate>Fri, 08 May 2026 23:02:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zed is pretty nice | blog.kronis.dev</title>
+      <link>https://blog.kronis.dev/blog/zed-is-pretty-nice</link>
+      <description>My blog, where I attempt to collect my thoughts and share the occasional interesting topic with others</description>
+      <category>visualstudio</category>
+      <category>git</category>
+      <category>ai</category>
+      <category>nodejs</category>
+      <guid>https://blog.kronis.dev/blog/zed-is-pretty-nice</guid>
+      <pubDate>Fri, 08 May 2026 23:02:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>You gave me a u32. I gave you root. (io_uring ZCRX freelist LPE) · ze3ter</title>
+      <link>https://ze3tar.github.io/post-zcrx.html</link>
+      <description>Linux 6.15 shipped a new zero-copy receive subsystem for io_uring called ZCRX.
+It manages a pool of network I/O vectors (niovs) using a stack: freelist[]
+holds available slot indices, free_count is the depth. There is no upper
+bound check on free_count. Two separate kernel teardown paths both return
+niovs to the same freelist, and when they overlap, free_count exceeds the
+allocated array length. The result is a 4-byte out-of-bounds write into
+adjacent slab memory.</description>
+      <category>containers</category>
+      <guid>https://ze3tar.github.io/post-zcrx.html</guid>
+      <pubDate>Fri, 08 May 2026 23:02:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>C++ Style and Technique FAQ</title>
+      <link>https://www.stroustrup.com/bs_faq2.html#memory-leaks</link>
+      <description>Modified February 26, 2022</description>
+      <category>encryption</category>
+      <category>ai</category>
+      <guid>https://www.stroustrup.com/bs_faq2.html#memory-leaks</guid>
+      <pubDate>Fri, 08 May 2026 19:02:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Crystal Gazing</title>
+      <link>https://xkcd.com/3243/</link>
+      <description></description>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3243/</guid>
+      <pubDate>Fri, 08 May 2026 18:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google Cloud Fraud Defence is just WEI repackaged</title>
+      <link>https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/</link>
+      <description>In May 2026, Google announced “Google Cloud Fraud Defense - the next evolution of reCAPTCHA.” The announcement described a QR code challenge where users scan a</description>
+      <category>android</category>
+      <category>apple</category>
+      <category>ai</category>
+      <guid>https://privatecaptcha.com/blog/google-cloud-fraud-defence-wei/</guid>
+      <pubDate>Fri, 08 May 2026 18:02:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>taken.</title>
+      <link>https://sinceyouarrived.world/taken</link>
+      <description>A web page that tells you what your browser gave away the moment you arrived. No login, no form, no permission. Most pages do this. None of them tell you.</description>
+      <author> (Matt Wheeler)</author>
+      <category>javascript</category>
+      <guid>https://sinceyouarrived.world/taken</guid>
+      <pubDate>Fri, 08 May 2026 18:02:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Introduction | Meshtastic</title>
+      <link>https://meshtastic.org/docs/introduction/</link>
+      <description>Discover Meshtastic: a community-driven, open-source project using LoRa radios for long-range, off-grid communication.</description>
+      <category>ai</category>
+      <guid>https://meshtastic.org/docs/introduction/</guid>
+      <pubDate>Fri, 08 May 2026 18:02:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI's WebRTC Problem - Media over QUIC</title>
+      <link>https://moq.dev/blog/webrtc-is-the-problem/</link>
+      <description>Media over QUIC: There are ways to do voice AI without being traumatized by WebRTC.</description>
+      <category>conference</category>
+      <category>containers</category>
+      <category>ai</category>
+      <category>encryption</category>
+      <category>cloud</category>
+      <guid>https://moq.dev/blog/webrtc-is-the-problem/</guid>
+      <pubDate>Fri, 08 May 2026 16:02:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>HomePod mini feels like magic, but it's just good timing</title>
+      <link>https://www.jeffgeerling.com/blog/2026/homepod-mini-feels-like-magic--but-it-s-just-good-timing/</link>
+      <description>Apple introduced the HomePod mini six years ago, in 2020.
+I'm not one into smart speakers, but the feature that made me take a closer look was their ability to form stereo pairs, without any direct wired connection.
+I know there are other speaker manufacturers with wireless speakers, but to my knowledge, Apple was just using AirPlay over WiFi... so how does it work?
+Through the magic of buying two HomePods mini (pictured above), I found out. A video detailing the process is embedded below:</description>
+      <category>apple</category>
       <category>linux</category>
-      <guid>https://inkscape.org/doc/release_notes/1.4.4/Inkscape_1.4.4.html</guid>
-      <pubDate>Thu, 07 May 2026 06:02:06 GMT</pubDate>
+      <category>youtube</category>
+      <guid>https://www.jeffgeerling.com/blog/2026/homepod-mini-feels-like-magic--but-it-s-just-good-timing/</guid>
+      <pubDate>Fri, 08 May 2026 15:02:18 GMT</pubDate>
     </item>
     <item>
-      <title>Introducing Google Cloud Fraud Defense, the next evolution of reCAPTCHA | Google Cloud Blog</title>
-      <link>https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/</link>
-      <description>Today at Next ‘26, we’re launching Google Cloud Fraud Defense, the trust platform for the agentic web and the next evolution of reCAPTCHA.</description>
-      <category>ai</category>
-      <guid>https://cloud.google.com/blog/products/identity-security/introducing-google-cloud-fraud-defense-the-next-evolution-of-recaptcha/</guid>
-      <pubDate>Thu, 07 May 2026 06:02:03 GMT</pubDate>
+      <title>Hi stranger</title>
+      <link>https://idiallo.com/blog/hi?src=feed</link>
+      <description>I'm at home, sitting on the kitchen table. I just took my boys to school and I'm about to start my work. I'm writing this message directly to you. And you are reading it. Hello!
+</description>
+      <guid>https://idiallo.com/blog/hi?src=feed</guid>
+      <pubDate>Fri, 08 May 2026 14:02:04 GMT</pubDate>
     </item>
     <item>
-      <title>Programming Still Sucks. — Writing</title>
-      <link>https://www.stvn.sh/writing/programming-still-sucks-fqffhyp</link>
-      <description>Sorry Peter. — I'm at a birthday party, and while most people here also work in tech, there's always a Guy with a Real Job. You know, a physical job, building some or other thing people need. And this Guy always asks some variant of the same question: aren't you worried AI is taking your job? I glance around and see a few faces turning around toward us, rolling their eyes ever so slightly before returning to their previous conversation. Yes, this question again.</description>
+      <title>Notes on incidents</title>
+      <link>https://www.seangoedecke.com/notes-on-incidents/</link>
+      <description>Incidents are boring. Most of what you actually do during an incident is wait: for some other team to investigate, or for a deploy to finish, or for the result of some change to become apparent, or for someone else who’s been paged to come online. It’s stressful, but there’s often just not that much to do.</description>
+      <category>containers</category>
+      <guid>https://www.seangoedecke.com/notes-on-incidents/</guid>
+      <pubDate>Fri, 08 May 2026 08:02:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Natural Language Autoencoders</title>
+      <link>https://www.anthropic.com/research/natural-language-autoencoders</link>
+      <description>Turning Claude's thoughts into text</description>
       <category>ai</category>
-      <guid>https://www.stvn.sh/writing/programming-still-sucks-fqffhyp</guid>
-      <pubDate>Thu, 07 May 2026 06:01:58 GMT</pubDate>
+      <category>gaming</category>
+      <guid>https://www.anthropic.com/research/natural-language-autoencoders</guid>
+      <pubDate>Fri, 08 May 2026 07:02:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Maybe you shouldn't install new software for a bit</title>
+      <link>https://xeiaso.net/blog/2026/abstain-from-install/</link>
+      <description>Oh boy yet more linux kernel vulns</description>
+      <category>nodejs</category>
+      <category>linux</category>
+      <guid>https://xeiaso.net/blog/2026/abstain-from-install/</guid>
+      <pubDate>Fri, 08 May 2026 05:02:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Building For The Future</title>
+      <link>https://blog.cloudflare.com/building-for-the-future/</link>
+      <description>This afternoon, we sent the following email to our global team. One of our core values at Cloudflare is transparency, and we believe it's important that you hear this directly from us because it’s a major moment at Cloudflare. 
+</description>
+      <category>ai</category>
+      <guid>https://blog.cloudflare.com/building-for-the-future/</guid>
+      <pubDate>Fri, 08 May 2026 03:02:14 GMT</pubDate>
     </item>
   </channel>
 </rss>
