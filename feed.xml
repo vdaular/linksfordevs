@@ -282,18 +282,5 @@ adjacent slab memory.</description>
       <guid>https://moq.dev/blog/webrtc-is-the-problem/</guid>
       <pubDate>Fri, 08 May 2026 16:02:24 GMT</pubDate>
     </item>
-    <item>
-      <title>HomePod mini feels like magic, but it's just good timing</title>
-      <link>https://www.jeffgeerling.com/blog/2026/homepod-mini-feels-like-magic--but-it-s-just-good-timing/</link>
-      <description>Apple introduced the HomePod mini six years ago, in 2020.
-I'm not one into smart speakers, but the feature that made me take a closer look was their ability to form stereo pairs, without any direct wired connection.
-I know there are other speaker manufacturers with wireless speakers, but to my knowledge, Apple was just using AirPlay over WiFi... so how does it work?
-Through the magic of buying two HomePods mini (pictured above), I found out. A video detailing the process is embedded below:</description>
-      <category>apple</category>
-      <category>linux</category>
-      <category>youtube</category>
-      <guid>https://www.jeffgeerling.com/blog/2026/homepod-mini-feels-like-magic--but-it-s-just-good-timing/</guid>
-      <pubDate>Fri, 08 May 2026 15:02:18 GMT</pubDate>
-    </item>
   </channel>
 </rss>
