@@ -1,5 +1,165 @@
 [
   {
+    "Title": "Please Make Mistakes",
+    "Url": "https://vexjoy.com/posts/please-make-mistakes/",
+    "Timestamp": "2026-05-09T22:03:19",
+    "Domain": "vexjoy.com",
+    "Description": "When your team adopts AI, mistakes are inevitable and necessary. Your job as code owner is to catch them before customers see them, and improve your instruction files so they don't happen twice.",
+    "Confidence": 0.98344135
+  },
+  {
+    "Title": "Alex-Dahl",
+    "Url": "https://dahl.dev/capacity",
+    "Timestamp": "2026-05-09T22:03:16",
+    "Domain": "dahl.dev",
+    "Description": "I have been a manager for quite some time. I have seen plenty of different behaviors play out. Eagerness. Apathy. Rage. I thought I could navigate all of them and make sure they could direct their feelings to align with the organization's goals. I saw myself as a skilled corporate diplomat. Until I met Elias.",
+    "Confidence": 0.897077
+  },
+  {
+    "Title": "it's time to talk about agentic \"remote control\"",
+    "Url": "https://arpadvoros.com/posts/2026/05/08/its-time-to-talk-about-agentic-remote-control/",
+    "Timestamp": "2026-05-09T22:03:13",
+    "Domain": "arpadvoros.com",
+    "Description": "tldr: skip the vendor remote-control features. roll your own with wireguard, tmux, and ssh. cheaper, more flexible, and you stop handing third parties a live shell into your dev box.",
+    "Confidence": 0.98656917
+  },
+  {
+    "Title": "The Mirror Is Part of the Machine | Yusuf Aytas",
+    "Url": "https://yusufaytas.com/the-mirror-is-part-of-the-machine",
+    "Timestamp": "2026-05-09T22:03:09",
+    "Domain": "yusufaytas.com",
+    "Description": "Why telemetry explodes into cost and noise, and how to fix it: treat every signal as a decision, not exhaust, and govern ownership before it's too late.",
+    "Confidence": 0.9880319
+  },
+  {
+    "Title": "Write programs you can still hack when you feel dumb",
+    "Url": "https://www.draketo.de/software/programs-you-can-still-hack-when-dumb.html",
+    "Timestamp": "2026-05-09T22:03:06",
+    "Domain": "www.draketo.de",
+    "Description": "… so you can still understand and change them, when you can only work half an hour",
+    "Confidence": 0.9921744
+  },
+  {
+    "Title": "How to brush your teeth at work",
+    "Url": "https://joshlf.com/posts/brush-your-teeth/",
+    "Timestamp": "2026-05-09T22:03:02",
+    "Domain": "joshlf.com",
+    "Description": "The homepage of Joshua Liebow-Feeser",
+    "Confidence": 0.95261824
+  },
+  {
+    "Title": "I still like Jenkins",
+    "Url": "https://til.andrew-quinn.me/posts/i-still-like-jenkins/",
+    "Timestamp": "2026-05-09T22:02:59",
+    "Domain": "til.andrew-quinn.me",
+    "Description": "Before GitHub Actions,\nbefore GitLab CI/CD,\nand before the panoply of startups all promising\nto help you build your software faster and with\nless hassle, there was the humble,\nopen source\nJenkins.\nOr perhaps I should say is: Jenkins is still actively\nmaintained to this day, and has actually been in use\nin basically every single place I have worked since\ngraduating from high school, although not everyone\nwho was using it was exactly happy with it.",
+    "Confidence": 0.9873659
+  },
+  {
+    "Title": "The Morse Code Hack That Made an AI Agent Spend $200,000",
+    "Url": "https://youtube.com/watch?v=UQ4pSVS_mN0",
+    "Timestamp": "2026-05-09T22:02:55",
+    "Domain": "youtube.com",
+    "Description": "Dave explains the Grok/Bankrbot exploit that caused an AI Agent to spend almost $200K in tokens!",
+    "Confidence": 0.65278274
+  },
+  {
+    "Title": "Money is renewable. Time isn't.",
+    "Url": "https://get168.app/blog/money-is-renewable-time-isnt",
+    "Timestamp": "2026-05-09T22:02:54",
+    "Domain": "get168.app",
+    "Description": "We built a whole industry to count our dollars. We barely count our hours. The asymmetry is backwards.",
+    "Confidence": 0.8519894
+  },
+  {
+    "Title": "Learning Beyond Gradients",
+    "Url": "https://trinkle23897.github.io/learning-beyond-gradients/",
+    "Timestamp": "2026-05-09T22:02:51",
+    "Domain": "trinkle23897.github.io",
+    "Description": "Learning Beyond Gradients",
+    "Confidence": 0.98524374
+  },
+  {
+    "Title": "This blog post tells the time",
+    "Url": "https://alexsci.com/blog/this-blog-post-tells-the-time/",
+    "Timestamp": "2026-05-09T22:02:47",
+    "Domain": "alexsci.com",
+    "Description": "Using Cloudflare CDN to synchronize a clock",
+    "Confidence": 0.9556222
+  },
+  {
+    "Title": "A tale of two artisans – Koas.dev",
+    "Url": "https://koas.dev/a-tale-of-two-artisans/",
+    "Timestamp": "2026-05-09T22:02:43",
+    "Domain": "koas.dev",
+    "Description": "Let me tell you about what alcoholics refer to as a moment of clarity I had last night.",
+    "Confidence": 0.9700704
+  },
+  {
+    "Title": "The Mismeasure of Open Source",
+    "Url": "https://nesbitt.io/2026/05/09/the-mismeasure-of-open-source.html",
+    "Timestamp": "2026-05-09T22:02:38",
+    "Domain": "nesbitt.io",
+    "Description": "The streetlight effect in project-health scoring",
+    "Confidence": 0.893436
+  },
+  {
+    "Title": "How we accidentally recreated old FB",
+    "Url": "https://amrshawky.com/posts/we-accidentally-recreated-fb/",
+    "Timestamp": "2026-05-09T22:02:35",
+    "Domain": "amrshawky.com",
+    "Description": "Background We started off with a simple idea for a product; we wanted to re-use the chat interface for everything except chat. It was supposed to be just for photos but expandable later.\nThe idea was that most people already share their photos with others on WhatsApp or some other messaging service, which technically also ’tags’ the people who were there. So, why not turn the act of sharing into the act of organizing as well?",
+    "Confidence": 0.9357452
+  },
+  {
+    "Title": "Lies, damned lies, and Elastic's benchmarks",
+    "Url": "https://www.gouthamve.dev/lies-damned-lies-and-elastics-benchmarks/",
+    "Timestamp": "2026-05-09T22:02:31",
+    "Domain": "www.gouthamve.dev",
+    "Description": "It's a spicy title, but one that is warranted. Elastic recently published a blog post titled 30x faster than Prometheus, that claimed that Elastic's new TSDS timeseries engine is much better than Prometheus. When I started reading it, I was curious; maybe there are useful optimizations we can learn about.",
+    "Confidence": 0.9610623
+  },
+  {
+    "Title": "Yesterday I had some news that has left me feeling anxious, happy but also conflicted all at the same time.",
+    "Url": "https://mylightstillshines.wordpress.com/2026/05/09/yesterday-i-had-some-news-that-has-left-me-feeling-anxious-happy-but-also-conflicted-all-at-the-same-time/",
+    "Timestamp": "2026-05-09T22:02:28",
+    "Domain": "mylightstillshines.wordpress.com",
+    "Description": "My very first blog post was written the day before my last counselling session with, Angel,It is called The last day.My counselling sessions with her were a 100 percent positive experience and she …",
+    "Confidence": 0.86750305
+  },
+  {
+    "Title": "On becoming competitive when joining a new company",
+    "Url": "https://ludwigabap.com/posts/on-becoming-competitive-when-joining-a-new-company/",
+    "Timestamp": "2026-05-09T22:02:24",
+    "Domain": "ludwigabap.com",
+    "Description": "Essays, notes, papers, and resources by Ludwig Abap.",
+    "Confidence": 0.98667425
+  },
+  {
+    "Title": "Michael Tsai - Blog - Reddit Pushes Web Visitors to App",
+    "Url": "https://mjtsai.com/blog/2026/05/08/reddit-pushes-web-visitors-to-app/",
+    "Timestamp": "2026-05-09T22:02:21",
+    "Domain": "mjtsai.com",
+    "Description": "Nate Anderson:",
+    "Confidence": 0.56464255
+  },
+  {
+    "Title": "The Fast Way to Sweden - BGP Routing Experiments",
+    "Url": "https://alastairbarber.com/Fast-Way-to-Sweden-Optimal-BGP-Prefix-Announcement/",
+    "Timestamp": "2026-05-09T22:02:17",
+    "Domain": "alastairbarber.com",
+    "Description": "Learning about selectively announcing prefixes with BGP to get traffic to its destination faster",
+    "Confidence": 0.97554004
+  },
+  {
+    "Title": "Laptops all have built-in security tokens these days",
+    "Url": "https://ahelwer.ca/post/2026-05-08-builtin-u2f/",
+    "Timestamp": "2026-05-09T22:02:14",
+    "Domain": "ahelwer.ca",
+    "Description": "I’ve been a fan of security tokens for a decade now and have accrued quite a collection.\nThis redundancy isn’t a bad thing, as security tokens are easily misplaced and the only way to recover from a lost token is using a second token that is also registered with the service you’re trying to access.\nI use security tokens whenever I can!\nSSH authentication, universal two-factor (U2F) authentication, passwordless local login, sudo command elevation, and git commit signing are all things I use security tokens for every day.\nWhen I take my laptop traveling, there also travels a yubikey.\nHowever, it took me an oddly long time to realize that I’m a relic of a bygone era.\nLaptops and smartphones all have built-in security tokens these days!\nI’ve been carrying around yubikeys when an even better one is built right into my macbook.\nThis post is about how I use security tokens, and how I configured my laptop’s secure element to replace my yubikey collection.",
+    "Confidence": 0.99047256
+  },
+  {
     "Title": "Internet Archive Switzerland: Expanding a Global Mission to Preserve Knowledge",
     "Url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
     "Timestamp": "2026-05-09T20:02:43",
