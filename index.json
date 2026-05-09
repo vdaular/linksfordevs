@@ -1,5 +1,13 @@
 [
   {
+    "Title": "LLMs Corrupt Your Documents When You Delegate",
+    "Url": "https://arxiv.org/abs/2604.15597",
+    "Timestamp": "2026-05-09T19:02:05",
+    "Domain": "arxiv.org",
+    "Description": "Large Language Models (LLMs) are poised to disrupt knowledge work, with the emergence of delegated work as a new interaction paradigm (e.g., vibe coding). Delegation requires trust - the expectation that the LLM will faithfully execute the task without introducing errors into documents. We introduce DELEGATE-52 to study the readiness of AI systems in delegated workflows. DELEGATE-52 simulates long delegated workflows that require in-depth document editing across 52 professional domains, such as coding, crystallography, and music notation. Our large-scale experiment with 19 LLMs reveals that current models degrade documents during delegation: even frontier models (Gemini 3.1 Pro, Claude 4.6 Opus, GPT 5.4) corrupt an average of 25% of document content by the end of long workflows, with other models failing more severely. Additional experiments reveal that agentic tool use does not improve performance on DELEGATE-52, and that degradation severity is exacerbated by document size, length of interaction, or presence of distractor files. Our analysis shows that current LLMs are unreliable delegates: they introduce sparse but severe errors that silently corrupt documents, compounding over long interaction.",
+    "Confidence": 0.9818147
+  },
+  {
     "Title": "Internet Archive Switzerland",
     "Url": "https://internetarchive.ch/",
     "Timestamp": "2026-05-09T17:02:25",
@@ -190,13 +198,5 @@
     "Domain": "ze3tar.github.io",
     "Description": "Linux 6.15 shipped a new zero-copy receive subsystem for io_uring called ZCRX.\nIt manages a pool of network I/O vectors (niovs) using a stack: freelist[]\nholds available slot indices, free_count is the depth. There is no upper\nbound check on free_count. Two separate kernel teardown paths both return\nniovs to the same freelist, and when they overlap, free_count exceeds the\nallocated array length. The result is a 4-byte out-of-bounds write into\nadjacent slab memory.",
     "Confidence": 0.99339616
-  },
-  {
-    "Title": "C++ Style and Technique FAQ",
-    "Url": "https://www.stroustrup.com/bs_faq2.html#memory-leaks",
-    "Timestamp": "2026-05-08T19:02:15",
-    "Domain": "www.stroustrup.com",
-    "Description": "Modified February 26, 2022",
-    "Confidence": 0.99604446
   }
 ]

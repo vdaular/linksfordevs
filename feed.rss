@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>LLMs Corrupt Your Documents When You Delegate</title>
+      <link>https://arxiv.org/abs/2604.15597</link>
+      <description>Large Language Models (LLMs) are poised to disrupt knowledge work, with the emergence of delegated work as a new interaction paradigm (e.g., vibe coding). Delegation requires trust - the expectation that the LLM will faithfully execute the task without introducing errors into documents. We introduce DELEGATE-52 to study the readiness of AI systems in delegated workflows. DELEGATE-52 simulates long delegated workflows that require in-depth document editing across 52 professional domains, such as coding, crystallography, and music notation. Our large-scale experiment with 19 LLMs reveals that current models degrade documents during delegation: even frontier models (Gemini 3.1 Pro, Claude 4.6 Opus, GPT 5.4) corrupt an average of 25% of document content by the end of long workflows, with other models failing more severely. Additional experiments reveal that agentic tool use does not improve performance on DELEGATE-52, and that degradation severity is exacerbated by document size, length of interaction, or presence of distractor files. Our analysis shows that current LLMs are unreliable delegates: they introduce sparse but severe errors that silently corrupt documents, compounding over long interaction.</description>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://arxiv.org/abs/2604.15597</guid>
+      <pubDate>Sat, 09 May 2026 19:02:05 GMT</pubDate>
+    </item>
+    <item>
       <title>Internet Archive Switzerland</title>
       <link>https://internetarchive.ch/</link>
       <description>Welcome</description>
@@ -233,15 +242,6 @@ adjacent slab memory.</description>
       <category>containers</category>
       <guid>https://ze3tar.github.io/post-zcrx.html</guid>
       <pubDate>Fri, 08 May 2026 23:02:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>C++ Style and Technique FAQ</title>
-      <link>https://www.stroustrup.com/bs_faq2.html#memory-leaks</link>
-      <description>Modified February 26, 2022</description>
-      <category>encryption</category>
-      <category>ai</category>
-      <guid>https://www.stroustrup.com/bs_faq2.html#memory-leaks</guid>
-      <pubDate>Fri, 08 May 2026 19:02:15 GMT</pubDate>
     </item>
   </channel>
 </rss>
