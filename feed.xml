@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Internet Archive Switzerland</title>
+      <link>https://internetarchive.ch/</link>
+      <description>Welcome</description>
+      <category>ai</category>
+      <guid>https://internetarchive.ch/</guid>
+      <pubDate>Sat, 09 May 2026 17:02:25 GMT</pubDate>
+    </item>
+    <item>
       <title>EU calls VPNs “a loophole that needs closing” in age verification push</title>
       <link>https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/</link>
       <description>The European Parliamentary Research Service has warned that VPNs are increasingly being used to bypass online age-verification systems.</description>
