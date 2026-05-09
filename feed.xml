@@ -270,17 +270,5 @@ adjacent slab memory.</description>
       <guid>https://meshtastic.org/docs/introduction/</guid>
       <pubDate>Fri, 08 May 2026 18:02:17 GMT</pubDate>
     </item>
-    <item>
-      <title>OpenAI's WebRTC Problem - Media over QUIC</title>
-      <link>https://moq.dev/blog/webrtc-is-the-problem/</link>
-      <description>Media over QUIC: There are ways to do voice AI without being traumatized by WebRTC.</description>
-      <category>conference</category>
-      <category>containers</category>
-      <category>ai</category>
-      <category>encryption</category>
-      <category>cloud</category>
-      <guid>https://moq.dev/blog/webrtc-is-the-problem/</guid>
-      <pubDate>Fri, 08 May 2026 16:02:24 GMT</pubDate>
-    </item>
   </channel>
 </rss>

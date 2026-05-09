@@ -222,13 +222,5 @@
     "Domain": "meshtastic.org",
     "Description": "Discover Meshtastic: a community-driven, open-source project using LoRa radios for long-range, off-grid communication.",
     "Confidence": 0.99475443
-  },
-  {
-    "Title": "OpenAI's WebRTC Problem - Media over QUIC",
-    "Url": "https://moq.dev/blog/webrtc-is-the-problem/",
-    "Timestamp": "2026-05-08T16:02:24",
-    "Domain": "moq.dev",
-    "Description": "Media over QUIC: There are ways to do voice AI without being traumatized by WebRTC.",
-    "Confidence": 0.98873013
   }
 ]
