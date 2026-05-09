@@ -7,6 +7,24 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>A recent experience with ChatGPT 5.5 Pro</title>
+      <link>https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/</link>
+      <description>We are all having to keep revising upwards our assessments of the mathematical capabilities of large language models. I have just made a fairly large revision as a result of ChatGPT 5.5 Pro, to whi…</description>
+      <category>ai</category>
+      <category>encryption</category>
+      <guid>https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/</guid>
+      <pubDate>Sat, 09 May 2026 09:02:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Meta Shuts Down End-to-End Encryption for Instagram Messaging</title>
+      <link>https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging</link>
+      <description>'Very few people were opting in to end-to-end encrypted messaging in DMs,' Meta says.</description>
+      <author> (Will McCurdy)</author>
+      <category>encryption</category>
+      <guid>https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging</guid>
+      <pubDate>Sat, 09 May 2026 09:01:59 GMT</pubDate>
+    </item>
+    <item>
       <title>AI is Breaking Two Vulnerability Cultures</title>
       <link>https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures</link>
       <description>A week ago the  Copy Fail vulnerability came out, and Hyunwoo Kim immediately realized that the fixes were insufficient, sharing a patch the same day. In doing this he followed standard procedure for Linux, especially within networking: share the security impact with a closed list of Linux security engineers, while fixing the bug quietly and efficiently in the open. His goal was that with only the</description>
