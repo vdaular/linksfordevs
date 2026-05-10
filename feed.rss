@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>France Moves to Break Encrypted Messaging</title>
+      <link>https://reclaimthenet.org/france-moves-to-break-encrypted-messaging</link>
+      <description>France's parliament just endorsed the one idea every cryptographer on earth has already debunked and they're calling it a compromise.</description>
+      <category>encryption</category>
+      <guid>https://reclaimthenet.org/france-moves-to-break-encrypted-messaging</guid>
+      <pubDate>Sun, 10 May 2026 16:02:15 GMT</pubDate>
+    </item>
+    <item>
       <title>bits from the release team</title>
       <link>https://lists.debian.org/challenge.html?original=%2Fdebian-devel-announce%2F2026%2F05%2Fmsg00001.html</link>
       <description />
