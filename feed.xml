@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>GitHub - imtomt/ymawky: MacOS Web Server written entirely in ARM64 assembly</title>
+      <link>https://github.com/imtomt/ymawky</link>
+      <description>MacOS Web Server written entirely in ARM64 assembly - imtomt/ymawky</description>
+      <category>linux</category>
+      <category>web</category>
+      <category>javascript</category>
+      <guid>https://github.com/imtomt/ymawky</guid>
+      <pubDate>Sun, 10 May 2026 09:01:58 GMT</pubDate>
+    </item>
+    <item>
       <title>You should read Programming as Theory Building</title>
       <link>https://codeutopia.net/blog/2026/05/09/you-should-read-programming-as-theory-building/</link>
       <description>When I finished reading Peter Naur’s Programming as Theory Building my first thought was “How come nobody ever told me to read this?” I ended up reading it multiple times, as I attempted to collect my thoughts on why it makes so much sense.</description>
@@ -294,24 +304,6 @@ This post is about how I use security tokens, and how I configured my laptop’s
       <description>The European Parliamentary Research Service has warned that VPNs are increasingly being used to bypass online age-verification systems.</description>
       <guid>https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/</guid>
       <pubDate>Sat, 09 May 2026 12:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>A recent experience with ChatGPT 5.5 Pro</title>
-      <link>https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/</link>
-      <description>We are all having to keep revising upwards our assessments of the mathematical capabilities of large language models. I have just made a fairly large revision as a result of ChatGPT 5.5 Pro, to whi…</description>
-      <category>ai</category>
-      <category>encryption</category>
-      <guid>https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/</guid>
-      <pubDate>Sat, 09 May 2026 09:02:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Meta Shuts Down End-to-End Encryption for Instagram Messaging</title>
-      <link>https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging</link>
-      <description>'Very few people were opting in to end-to-end encrypted messaging in DMs,' Meta says.</description>
-      <author> (Will McCurdy)</author>
-      <category>encryption</category>
-      <guid>https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging</guid>
-      <pubDate>Sat, 09 May 2026 09:01:59 GMT</pubDate>
     </item>
   </channel>
 </rss>

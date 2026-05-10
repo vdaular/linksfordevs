@@ -1,5 +1,13 @@
 [
   {
+    "Title": "GitHub - imtomt/ymawky: MacOS Web Server written entirely in ARM64 assembly",
+    "Url": "https://github.com/imtomt/ymawky",
+    "Timestamp": "2026-05-10T09:01:58",
+    "Domain": "github.com",
+    "Description": "MacOS Web Server written entirely in ARM64 assembly - imtomt/ymawky",
+    "Confidence": 0.9896746
+  },
+  {
     "Title": "You should read Programming as Theory Building",
     "Url": "https://codeutopia.net/blog/2026/05/09/you-should-read-programming-as-theory-building/",
     "Timestamp": "2026-05-10T07:02:09",
@@ -230,21 +238,5 @@
     "Domain": "cyberinsider.com",
     "Description": "The European Parliamentary Research Service has warned that VPNs are increasingly being used to bypass online age-verification systems.",
     "Confidence": 0.8931966
-  },
-  {
-    "Title": "A recent experience with ChatGPT 5.5 Pro",
-    "Url": "https://gowers.wordpress.com/2026/05/08/a-recent-experience-with-chatgpt-5-5-pro/",
-    "Timestamp": "2026-05-09T09:02:04",
-    "Domain": "gowers.wordpress.com",
-    "Description": "We are all having to keep revising upwards our assessments of the mathematical capabilities of large language models. I have just made a fairly large revision as a result of ChatGPT 5.5 Pro, to whi…",
-    "Confidence": 0.98552495
-  },
-  {
-    "Title": "Meta Shuts Down End-to-End Encryption for Instagram Messaging",
-    "Url": "https://www.pcmag.com/news/meta-shuts-down-end-to-end-encryption-for-instagram-dms-messaging",
-    "Timestamp": "2026-05-09T09:01:59",
-    "Domain": "www.pcmag.com",
-    "Description": "'Very few people were opting in to end-to-end encrypted messaging in DMs,' Meta says.",
-    "Confidence": 0.5214306
   }
 ]
