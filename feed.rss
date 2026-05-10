@@ -314,13 +314,5 @@ This post is about how I use security tokens, and how I configured my laptop’s
       <guid>https://arxiv.org/abs/2604.15597</guid>
       <pubDate>Sat, 09 May 2026 19:02:05 GMT</pubDate>
     </item>
-    <item>
-      <title>Internet Archive Switzerland</title>
-      <link>https://internetarchive.ch/</link>
-      <description>Welcome</description>
-      <category>ai</category>
-      <guid>https://internetarchive.ch/</guid>
-      <pubDate>Sat, 09 May 2026 17:02:25 GMT</pubDate>
-    </item>
   </channel>
 </rss>
