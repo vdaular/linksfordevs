@@ -238,13 +238,5 @@
     "Domain": "internetarchive.ch",
     "Description": "Welcome",
     "Confidence": 0.97034985
-  },
-  {
-    "Title": "EU calls VPNs “a loophole that needs closing” in age verification push",
-    "Url": "https://cyberinsider.com/eu-calls-vpns-a-loophole-that-needs-closing-in-age-verification-push/",
-    "Timestamp": "2026-05-09T12:02:10",
-    "Domain": "cyberinsider.com",
-    "Description": "The European Parliamentary Research Service has warned that VPNs are increasingly being used to bypass online age-verification systems.",
-    "Confidence": 0.8931966
   }
 ]
