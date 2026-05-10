@@ -230,13 +230,5 @@
     "Domain": "www.pcmag.com",
     "Description": "'Very few people were opting in to end-to-end encrypted messaging in DMs,' Meta says.",
     "Confidence": 0.5214306
-  },
-  {
-    "Title": "AI is Breaking Two Vulnerability Cultures",
-    "Url": "https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures",
-    "Timestamp": "2026-05-09T03:02:17",
-    "Domain": "www.jefftk.com",
-    "Description": "A week ago the  Copy Fail vulnerability came out, and Hyunwoo Kim immediately realized that the fixes were insufficient, sharing a patch the same day. In doing this he followed standard procedure for Linux, especially within networking: share the security impact with a closed list of Linux security engineers, while fixing the bug quietly and efficiently in the open. His goal was that with only the",
-    "Confidence": 0.9010634
   }
 ]
