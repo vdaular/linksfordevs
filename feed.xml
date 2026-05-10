@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>COBOL Is the Asbestos of Programming Languages</title>
+      <link>https://www.wired.com/story/cobol-is-the-asbestos-of-programming-languages/</link>
+      <description>The most widely adopted computer language in history, COBOL is now causing a host of problems. It's also dangerously difficult to remove.</description>
+      <author> (Zeb Larson)</author>
+      <guid>https://www.wired.com/story/cobol-is-the-asbestos-of-programming-languages/</guid>
+      <pubDate>Sun, 10 May 2026 21:02:20 GMT</pubDate>
+    </item>
+    <item>
       <title>Space Cadet Pinball on Linux - Stephen Brennan</title>
       <link>https://brennan.io/2026/05/09/pinball-and-escrow/</link>
       <description>Stephen Brennan's personal website and blog.</description>
