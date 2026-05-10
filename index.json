@@ -246,13 +246,5 @@
     "Domain": "blog.archive.org",
     "Description": "Thirty years ago, Brewster Kahle founded the Internet Archive with an ambitious goal: Universal Access to All Knowledge. Today, that mission continues to grow with an exciting new chapter: the launch of the Internet Archive Switzerland, a non-profit foundation based in St. Gallen.",
     "Confidence": 0.8391573
-  },
-  {
-    "Title": "LLMs Corrupt Your Documents When You Delegate",
-    "Url": "https://arxiv.org/abs/2604.15597",
-    "Timestamp": "2026-05-09T19:02:05",
-    "Domain": "arxiv.org",
-    "Description": "Large Language Models (LLMs) are poised to disrupt knowledge work, with the emergence of delegated work as a new interaction paradigm (e.g., vibe coding). Delegation requires trust - the expectation that the LLM will faithfully execute the task without introducing errors into documents. We introduce DELEGATE-52 to study the readiness of AI systems in delegated workflows. DELEGATE-52 simulates long delegated workflows that require in-depth document editing across 52 professional domains, such as coding, crystallography, and music notation. Our large-scale experiment with 19 LLMs reveals that current models degrade documents during delegation: even frontier models (Gemini 3.1 Pro, Claude 4.6 Opus, GPT 5.4) corrupt an average of 25% of document content by the end of long workflows, with other models failing more severely. Additional experiments reveal that agentic tool use does not improve performance on DELEGATE-52, and that degradation severity is exacerbated by document size, length of interaction, or presence of distractor files. Our analysis shows that current LLMs are unreliable delegates: they introduce sparse but severe errors that silently corrupt documents, compounding over long interaction.",
-    "Confidence": 0.9818147
   }
 ]
