@@ -7,6 +7,36 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Space Cadet Pinball on Linux - Stephen Brennan</title>
+      <link>https://brennan.io/2026/05/09/pinball-and-escrow/</link>
+      <description>Stephen Brennan's personal website and blog.</description>
+      <category>gaming</category>
+      <category>linux</category>
+      <category>android</category>
+      <category>apple</category>
+      <guid>https://brennan.io/2026/05/09/pinball-and-escrow/</guid>
+      <pubDate>Sun, 10 May 2026 20:02:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Louis Rossmann tells 3D printer maker Bambu Lab to ‘Go (Bleep) yourself’ over its threatened lawsuit against enthusiast — Right to Repair advocate offers to pay the legal fees for a threatened OrcaSlicer developer</title>
+      <link>https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer</link>
+      <description>Bambu Labs controversy heats up.</description>
+      <author> (https://www.tomshardware.com/author/denise-bertacchi)</author>
+      <category>youtube</category>
+      <guid>https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer</guid>
+      <pubDate>Sun, 10 May 2026 20:02:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>GrapheneOS (@GrapheneOS@grapheneos.social)</title>
+      <link>https://grapheneos.social/@GrapheneOS/116550899908879585</link>
+      <description>Apple and Google are gradually expanding their use of hardware-based attestation. They're convincing a growing number of services to adopt it. Google's Play Integrity API and Apple's App Attest API are very similar. Apple brought it to the web via Privacy Pass, which Google intends on doing too.</description>
+      <category>android</category>
+      <category>apple</category>
+      <category>linux</category>
+      <guid>https://grapheneos.social/@GrapheneOS/116550899908879585</guid>
+      <pubDate>Sun, 10 May 2026 20:02:24 GMT</pubDate>
+    </item>
+    <item>
       <title>HomeGrown Devlog: Programming the Research System</title>
       <link>https://youtube.com/watch?v=NWOUna4fSEI</link>
       <description>Wishlist HomeGrown on Steam:
@@ -325,14 +355,6 @@ This post is about how I use security tokens, and how I configured my laptop’s
       <category>gaming</category>
       <guid>https://ahelwer.ca/post/2026-05-08-builtin-u2f/</guid>
       <pubDate>Sat, 09 May 2026 22:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Internet Archive Switzerland: Expanding a Global Mission to Preserve Knowledge</title>
-      <link>https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/</link>
-      <description>Thirty years ago, Brewster Kahle founded the Internet Archive with an ambitious goal: Universal Access to All Knowledge. Today, that mission continues to grow with an exciting new chapter: the launch of the Internet Archive Switzerland, a non-profit foundation based in St. Gallen.</description>
-      <category>ai</category>
-      <guid>https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/</guid>
-      <pubDate>Sat, 09 May 2026 20:02:43 GMT</pubDate>
     </item>
   </channel>
 </rss>

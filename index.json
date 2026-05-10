@@ -1,5 +1,29 @@
 [
   {
+    "Title": "Space Cadet Pinball on Linux - Stephen Brennan",
+    "Url": "https://brennan.io/2026/05/09/pinball-and-escrow/",
+    "Timestamp": "2026-05-10T20:02:58",
+    "Domain": "brennan.io",
+    "Description": "Stephen Brennan's personal website and blog.",
+    "Confidence": 0.9907209
+  },
+  {
+    "Title": "Louis Rossmann tells 3D printer maker Bambu Lab to ‘Go (Bleep) yourself’ over its threatened lawsuit against enthusiast — Right to Repair advocate offers to pay the legal fees for a threatened OrcaSlicer developer",
+    "Url": "https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer",
+    "Timestamp": "2026-05-10T20:02:55",
+    "Domain": "www.tomshardware.com",
+    "Description": "Bambu Labs controversy heats up.",
+    "Confidence": 0.6827525
+  },
+  {
+    "Title": "GrapheneOS (@GrapheneOS@grapheneos.social)",
+    "Url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
+    "Timestamp": "2026-05-10T20:02:24",
+    "Domain": "grapheneos.social",
+    "Description": "Apple and Google are gradually expanding their use of hardware-based attestation. They're convincing a growing number of services to adopt it. Google's Play Integrity API and Apple's App Attest API are very similar. Apple brought it to the web via Privacy Pass, which Google intends on doing too.",
+    "Confidence": 0.9670264
+  },
+  {
     "Title": "HomeGrown Devlog: Programming the Research System",
     "Url": "https://youtube.com/watch?v=NWOUna4fSEI",
     "Timestamp": "2026-05-10T18:01:56",
@@ -238,13 +262,5 @@
     "Domain": "ahelwer.ca",
     "Description": "I’ve been a fan of security tokens for a decade now and have accrued quite a collection.\nThis redundancy isn’t a bad thing, as security tokens are easily misplaced and the only way to recover from a lost token is using a second token that is also registered with the service you’re trying to access.\nI use security tokens whenever I can!\nSSH authentication, universal two-factor (U2F) authentication, passwordless local login, sudo command elevation, and git commit signing are all things I use security tokens for every day.\nWhen I take my laptop traveling, there also travels a yubikey.\nHowever, it took me an oddly long time to realize that I’m a relic of a bygone era.\nLaptops and smartphones all have built-in security tokens these days!\nI’ve been carrying around yubikeys when an even better one is built right into my macbook.\nThis post is about how I use security tokens, and how I configured my laptop’s secure element to replace my yubikey collection.",
     "Confidence": 0.99047256
-  },
-  {
-    "Title": "Internet Archive Switzerland: Expanding a Global Mission to Preserve Knowledge",
-    "Url": "https://blog.archive.org/2026/05/06/internet-archive-switzerland-expanding-a-global-mission-to-preserve-knowledge/",
-    "Timestamp": "2026-05-09T20:02:43",
-    "Domain": "blog.archive.org",
-    "Description": "Thirty years ago, Brewster Kahle founded the Internet Archive with an ambitious goal: Universal Access to All Knowledge. Today, that mission continues to grow with an exciting new chapter: the launch of the Internet Archive Switzerland, a non-profit foundation based in St. Gallen.",
-    "Confidence": 0.8391573
   }
 ]
