@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Apple is increasing my cortisol levels</title>
+      <link>https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels</link>
+      <description>My blog, where I attempt to collect my thoughts and share the occasional interesting topic with others</description>
+      <category>linux</category>
+      <category>ai</category>
+      <category>cloud</category>
+      <category>apple</category>
+      <category>android</category>
+      <guid>https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels</guid>
+      <pubDate>Sun, 10 May 2026 06:02:20 GMT</pubDate>
+    </item>
+    <item>
       <title>I’ve banned query strings — Chris Morgan</title>
       <link>https://chrismorgan.info/no-query-strings</link>
       <description>🗓️ 2026-05-08 • Tagged /web, /opinions, /meta=only</description>
