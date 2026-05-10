@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>GrapheneOS fixes Android VPN leak Google refused to patch</title>
+      <link>https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch/</link>
+      <description>GrapheneOS has released a new update that fixes a recently disclosed Android VPN bypass flaw capable of leaking a user’s real IP address.</description>
+      <category>android</category>
+      <category>linux</category>
+      <guid>https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch/</guid>
+      <pubDate>Sun, 10 May 2026 00:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>Please Make Mistakes</title>
       <link>https://vexjoy.com/posts/please-make-mistakes/</link>
       <description>When your team adopts AI, mistakes are inevitable and necessary. Your job as code owner is to catch them before customers see them, and improve your instruction files so they don't happen twice.</description>
@@ -275,14 +284,6 @@ This post is about how I use security tokens, and how I configured my laptop’s
       <category>linux</category>
       <guid>https://www.jefftk.com/p/ai-is-breaking-two-vulnerability-cultures</guid>
       <pubDate>Sat, 09 May 2026 03:02:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cartoon Network Flash Games</title>
-      <link>https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games</link>
-      <description>Explore a collection of Cartoon Network browser games inspired by The Powerpuff Girls, Dexter’s Laboratory, Samurai Jack, and other fan-favorite series.</description>
-      <category>gaming</category>
-      <guid>https://www.webdesignmuseum.org/flash-game-exhibitions/cartoon-network-flash-games</guid>
-      <pubDate>Sat, 09 May 2026 00:02:03 GMT</pubDate>
     </item>
   </channel>
 </rss>
