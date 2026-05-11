@@ -238,13 +238,5 @@
     "Domain": "www.echooff.dev",
     "Description": "Application performance is not something engineers can optimize in isolation. It is a product decision, a requirement and a trade-off that has to be made explicit.",
     "Confidence": 0.9950607
-  },
-  {
-    "Title": "COBOL Is the Asbestos of Programming Languages",
-    "Url": "https://www.wired.com/story/cobol-is-the-asbestos-of-programming-languages/",
-    "Timestamp": "2026-05-10T21:02:20",
-    "Domain": "www.wired.com",
-    "Description": "The most widely adopted computer language in history, COBOL is now causing a host of problems. It's also dangerously difficult to remove.",
-    "Confidence": 0.8924198
   }
 ]
