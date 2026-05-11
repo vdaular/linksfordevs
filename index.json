@@ -1,5 +1,29 @@
 [
   {
+    "Title": "Mythos 'Discovered' a CVE Already in Its Training Data - and That’s Still Worrying",
+    "Url": "https://rival.security/posts/mythos-discovered-a-cve-already-in-its-training-data---and-thats-still-worrying",
+    "Timestamp": "2026-05-11T13:02:21",
+    "Domain": "rival.security",
+    "Description": "Anthropic made headlines claiming Claude Mythos achieved the “first remote kernel exploit discovered and exploited by an AI.” We went looking for how - and found a 20-year-old bug hiding in plain sight.",
+    "Confidence": 0.9650876
+  },
+  {
+    "Title": "Obsidian Plugin Abused in Social Engineering Campaign to Deliver New PHANTOMPULSE RAT",
+    "Url": "https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/",
+    "Timestamp": "2026-05-11T13:02:18",
+    "Domain": "cyber.netsecops.io",
+    "Description": "A sophisticated campaign is abusing the Obsidian note-taking app to deliver a new RAT, PHANTOMPULSE, to targets in the finance and crypto sectors using social engineering and malicious plugins.",
+    "Confidence": 0.9885136
+  },
+  {
+    "Title": "Mythos finds a curl vulnerability",
+    "Url": "https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/",
+    "Timestamp": "2026-05-11T13:02:14",
+    "Domain": "daniel.haxx.se",
+    "Description": "yes, as in singular one. Back in April 2026 Anthropic caused a lot of media noise when they concluded that their new AI model Mythos is dangerously good at finding security flaws in source code. Apparently Mythos was so good at this that Anthropic would not release this model to the public yet but instead … Continue reading Mythos finds a curl vulnerability →",
+    "Confidence": 0.97061086
+  },
+  {
     "Title": "We Are Not Going to Agree on AI",
     "Url": "https://idiallo.com/blog/we-are-not-going-to-agree-on-ai?src=feed",
     "Timestamp": "2026-05-11T12:02:17",

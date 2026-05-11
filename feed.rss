@@ -7,6 +7,34 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Mythos 'Discovered' a CVE Already in Its Training Data - and That’s Still Worrying</title>
+      <link>https://rival.security/posts/mythos-discovered-a-cve-already-in-its-training-data---and-thats-still-worrying</link>
+      <description>Anthropic made headlines claiming Claude Mythos achieved the “first remote kernel exploit discovered and exploited by an AI.” We went looking for how - and found a 20-year-old bug hiding in plain sight.</description>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://rival.security/posts/mythos-discovered-a-cve-already-in-its-training-data---and-thats-still-worrying</guid>
+      <pubDate>Mon, 11 May 2026 13:02:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Obsidian Plugin Abused in Social Engineering Campaign to Deliver New PHANTOMPULSE RAT</title>
+      <link>https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/</link>
+      <description>A sophisticated campaign is abusing the Obsidian note-taking app to deliver a new RAT, PHANTOMPULSE, to targets in the finance and crypto sectors using social engineering and malicious plugins.</description>
+      <author> (CyberNetSec.io)</author>
+      <guid>https://cyber.netsecops.io/articles/obsidian-plugin-abused-in-campaign-to-deploy-phantom-pulse-rat/</guid>
+      <pubDate>Mon, 11 May 2026 13:02:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mythos finds a curl vulnerability</title>
+      <link>https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/</link>
+      <description>yes, as in singular one. Back in April 2026 Anthropic caused a lot of media noise when they concluded that their new AI model Mythos is dangerously good at finding security flaws in source code. Apparently Mythos was so good at this that Anthropic would not release this model to the public yet but instead … Continue reading Mythos finds a curl vulnerability →</description>
+      <author> (https://daniel.haxx.se/blog/author/daniel/)</author>
+      <category>ai</category>
+      <category>git</category>
+      <category>linux</category>
+      <guid>https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/</guid>
+      <pubDate>Mon, 11 May 2026 13:02:14 GMT</pubDate>
+    </item>
+    <item>
       <title>We Are Not Going to Agree on AI</title>
       <link>https://idiallo.com/blog/we-are-not-going-to-agree-on-ai?src=feed</link>
       <description>On one hand, I know a developer producing 30,000 lines of code a month. On the other, I know a developer who says AI is stupid. Each swears by their stance and has evidence to back it up. One has a wo</description>
