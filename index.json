@@ -1,5 +1,213 @@
 [
   {
+    "Title": "You can have your composer.lock and not make others eat it too! | Kevin Ullyott",
+    "Url": "https://kevinullyott.com/blog/2026-05-05-composer-lock-gitattributes/",
+    "Timestamp": "2026-05-11T23:04:50",
+    "Domain": "kevinullyott.com",
+    "Description": "How a one-line .gitattributes directive stops your PHP package's composer.lock from cluttering consumers' vendor/ directories and triggering false-positive vulnerability scans.",
+    "Confidence": 0.9914585
+  },
+  {
+    "Title": "The 45% Hidden ROI of Automation No One Puts in the Business Case: The Vertical Spillover Effect | Digital Leadership",
+    "Url": "https://sneakbug8.com/vertical-spillover-effect/",
+    "Timestamp": "2026-05-11T23:04:46",
+    "Domain": "sneakbug8.com",
+    "Description": "Research shows that nearly half the gain from capability-building flows upward to managers. The same “vertical spillover” applies even more strongly to",
+    "Confidence": 0.96246916
+  },
+  {
+    "Title": "OneDisplay",
+    "Url": "https://frankster0542.gumroad.com/l/saafi",
+    "Timestamp": "2026-05-11T23:04:41",
+    "Domain": "frankster0542.gumroad.com",
+    "Description": "You're using a MacBook with an external monitor. You want one screen. The big one.But macOS doesn't let you disable the built-in display without closing the lid.So you're stuck choosing between:Clamshell mode. Lid closed, charger always needed, worse airflow.Brightness to zero. Screen is still active, apps still open there.Terminal hacks. Require a reboot to undo.There had to be a better way.OneDisplay fixes this with one click.Click the menu bar icon and your MacBook display completely disconnects from macOS. Not just dark, gone. Only your external monitor stays on. Your keyboard, trackpad and camera all keep working perfectly. Click again to bring it back.Here is something most people don't realize. M1 and M2 MacBooks officially only support one external monitor. But when you disconnect the built-in display, macOS sees a free display slot. Plug in a second external monitor and suddenly your M1 or M2 is running two external monitors. Something Apple said was never possible.Who this is for:MacBook users with a desk setup and an external monitor. Developers, designers, and creators who want a clean single screen. M1 and M2 users who want to run two external monitors. Anyone tired of apps opening on the wrong display.What makes it different:One click on/off from the menu bar. Zero background processes when not in use. Does one thing perfectly. Works on Apple Silicon M1, M2, M3 and M4. Requires macOS Ventura or later.$9. One-time. Yours forever.If it doesn't work for your setup, email me and I'll refund you. No questions asked.That's the missing macOS feature. Finally.",
+    "Confidence": 0.99246544
+  },
+  {
+    "Title": "First impressions: NetBird - Jan-Lukas Else",
+    "Url": "https://janlukas.blog/thoughts/2026/05/netbird",
+    "Timestamp": "2026-05-11T23:04:37",
+    "Domain": "janlukas.blog",
+    "Description": "I’ve been a Tailscale user for almost five years. Today, I stumbled across NetBird again and largely replaced Tailscale with it.",
+    "Confidence": 0.9726822
+  },
+  {
+    "Title": "Self-upgradable software: A Pi setup · Mikkel Malmberg",
+    "Url": "https://mikkelmalmberg.com/2026/self-upgradable-software-a-pi-setup",
+    "Timestamp": "2026-05-11T23:04:33",
+    "Domain": "mikkelmalmberg.com",
+    "Description": "Before I tell you about my customized Pi coding agent setup, I want to briefly mention how any vanilla coding agent is more than enough. I built most of Tuna...",
+    "Confidence": 0.9871279
+  },
+  {
+    "Title": "Own Something and Be Happy",
+    "Url": "https://hunterirving.com/blog/own_something_and_be_happy",
+    "Timestamp": "2026-05-11T23:04:27",
+    "Domain": "hunterirving.com",
+    "Description": "Remember how fun it was to burn and trade mix CDs back in the day? What do you mean \"no\"?",
+    "Confidence": 0.9619517
+  },
+  {
+    "Title": "Rough Patches",
+    "Url": "https://nickchirls.com/2026/04/28/rough-patches/",
+    "Timestamp": "2026-05-11T23:04:23",
+    "Domain": "nickchirls.com",
+    "Description": "Only a few close friends and family know this, but in 2023, I was quite certain I was done with the venture and technology business. Despite our financial success, my first firm Notation did not su…",
+    "Confidence": 0.7994143
+  },
+  {
+    "Title": "Software Development Is Becoming a Factory Job",
+    "Url": "https://www.vincentschmalbach.com/software-development-is-becoming-a-factory-job/",
+    "Timestamp": "2026-05-11T23:04:19",
+    "Domain": "www.vincentschmalbach.com",
+    "Description": "When factories automated their assembly lines, the repetitive tasks went to machines, but humans stayed to oversee, fix problems, and make decisions. That’s exactly what’s happening to software…",
+    "Confidence": 0.9931509
+  },
+  {
+    "Title": "Tracing PostgreSQL Using eBPF and Hardware Breakpoints",
+    "Url": "https://jnidzwetzki.github.io/2026/05/08/ebpf-hw-breakpoints-postgresql.html",
+    "Timestamp": "2026-05-11T23:04:14",
+    "Domain": "jnidzwetzki.github.io",
+    "Description": "Hardware breakpoints can trigger eBPF programs when specific memory addresses are accessed, leveraging CPU hardware support for low overhead. By utilizing these hardware breakpoints, we can efficiently monitor PostgreSQL’s internal variable updates, such as transaction ID generation and OID assignment. In this post, we will discuss what hardware breakpoints are, whether they have less overhead than uprobes, and how to answer questions like “How many transactions are being executed per second?” or “Which backend is consuming the most OIDs?” with bpftrace.",
+    "Confidence": 0.99781847
+  },
+  {
+    "Title": "I disagree with Paul Graham",
+    "Url": "https://mrmarket.bearblog.dev/i-disagree-with-paul-graham/",
+    "Timestamp": "2026-05-11T23:04:10",
+    "Domain": "mrmarket.bearblog.dev",
+    "Description": "TL;DR: Paul Graham thinks it's bad when companies start competing on brand vs. functionality. I think he's wrong. It's actually good for consumers and innova...",
+    "Confidence": 0.9840709
+  },
+  {
+    "Title": "Success metric is the hammer — Hooda's blog",
+    "Url": "https://hooda.xyz/blog/success-metric-is-the-hammer/",
+    "Timestamp": "2026-05-11T23:04:07",
+    "Domain": "hooda.xyz",
+    "Description": "If you need just one metric to judge anything in your professional life, it's the success metric.",
+    "Confidence": 0.9769212
+  },
+  {
+    "Title": "The Final Form of Software Development",
+    "Url": "https://blog.zksecurity.xyz/posts/end-coding/",
+    "Timestamp": "2026-05-11T23:04:03",
+    "Domain": "blog.zksecurity.xyz",
+    "Description": "What if the final form of software development was just watching code and proof popping up while you sip a drink? Letting AI agents write assembly directly alongside Lean proofs sidesteps the whole compiler-trust problem. With a peek at real EVM 256-bit addition code and its specification, you'll see why the assembly + Lean paradigm is final in both the historical and category theoretic sense.",
+    "Confidence": 0.99315435
+  },
+  {
+    "Title": "The recursive descent",
+    "Url": "https://deadlime.hu/en/2026/05/05/the-recursive-descent/",
+    "Timestamp": "2026-05-11T23:03:59",
+    "Domain": "deadlime.hu",
+    "Description": "Traversing the syntax forest, getting lost in the depths of recursion",
+    "Confidence": 0.99748534
+  },
+  {
+    "Title": "The Last Company",
+    "Url": "https://catboosted.bearblog.dev/thelastcompany/",
+    "Timestamp": "2026-05-11T23:03:55",
+    "Domain": "catboosted.bearblog.dev",
+    "Description": ">“We have no idea how we one day may generate revenue… [but] once we build this generally intelligent system, we will ask it for a way” - Sam Altman\u2028\n\nFron...",
+    "Confidence": 0.96376544
+  },
+  {
+    "Title": "It doesn’t matter if it looks good",
+    "Url": "https://yosemitesam.ch/it-doesnt-matter-if-it-looks-good/",
+    "Timestamp": "2026-05-11T23:03:52",
+    "Domain": "yosemitesam.ch",
+    "Description": "Writing code using an AI agent is awesome and makes you super duper quick. Recent frontier LLMS write even somewhat decent code. So yey to that!",
+    "Confidence": 0.9943012
+  },
+  {
+    "Title": "How The Heck Do Solar Panels Work? (An Interactive Exploration)",
+    "Url": "https://perthirtysix.com/how-the-heck-do-solar-panels-work",
+    "Timestamp": "2026-05-11T23:03:44",
+    "Domain": "perthirtysix.com",
+    "Description": "An interactive exploration of how solar panels work: from photons and the bandgap of silicon to Wright’s Law and the political will problem.",
+    "Confidence": 0.75344324
+  },
+  {
+    "Title": "The Pace Of Feedback",
+    "Url": "https://thoughtbot.com/blog/the-pace-of-feedback",
+    "Timestamp": "2026-05-11T23:03:41",
+    "Domain": "thoughtbot.com",
+    "Description": "The hurrier I go, the behinder I get.",
+    "Confidence": 0.978023
+  },
+  {
+    "Title": "Hartwork Blog · Steven, please fix the 1% loss/gain graph!",
+    "Url": "https://blog.hartwork.org/posts/steven-please-fix-the-1-loss-gain-graph/",
+    "Timestamp": "2026-05-11T23:03:36",
+    "Domain": "blog.hartwork.org",
+    "Description": "Back in December 2023, I got curious about Steven Bartlett's then-new book\nThe Diary of a CEO: The 33 laws of business and life\nand ordered a copy for myself.\nI dived right in.\nOn page 184 this graph hit me:",
+    "Confidence": 0.9493893
+  },
+  {
+    "Title": "Run Claude Code For Free (for Fun and Profit)",
+    "Url": "https://www.tianjerry.com/blog/run-claude-code-for-free",
+    "Timestamp": "2026-05-11T23:03:31",
+    "Domain": "www.tianjerry.com",
+    "Description": "The best AI coding tool already supports open models. Two scripts and you're running Claude Code for free — locally or through OpenRouter.",
+    "Confidence": 0.96701485
+  },
+  {
+    "Title": "Is it still all about the people? - Holistic Testing with Lisa Crispin",
+    "Url": "https://lisacrispin.com/2026/04/29/is-it-still-all-about-the-people/",
+    "Timestamp": "2026-05-11T23:03:27",
+    "Domain": "lisacrispin.com",
+    "Description": "Modern agile software development was all about the people and led to high performing teams, where are the people in the AI discussions",
+    "Confidence": 0.957125
+  },
+  {
+    "Title": "Building a Memory Allocator from Scratch in C | 0xKiire",
+    "Url": "https://0xkiire.com/memory-allocators/",
+    "Timestamp": "2026-05-11T23:03:21",
+    "Domain": "0xkiire.com",
+    "Description": "Learn how memory allocation works by implementing your own malloc() and free() functions in C. A deep dive into heap management, fragmentation, and...",
+    "Confidence": 0.9961431
+  },
+  {
+    "Title": "LLMs find the right factors but miss the frame",
+    "Url": "https://ethanfast.com/llms-find-the-right-factors-but-miss-the-frame.html",
+    "Timestamp": "2026-05-11T23:03:18",
+    "Domain": "ethanfast.com",
+    "Description": "A clustered analysis of LLM-generated thesis statements for Dwarkesh Patel's AI Blog Prize questions.",
+    "Confidence": 0.87113625
+  },
+  {
+    "Title": "Michael Tsai - Blog - Mac App Store Review Times Increasing",
+    "Url": "https://mjtsai.com/blog/2026/03/02/mac-app-store-review-times-increasing/",
+    "Timestamp": "2026-05-11T23:03:14",
+    "Domain": "mjtsai.com",
+    "Description": "Spencer Dailey:",
+    "Confidence": 0.7433691
+  },
+  {
+    "Title": "Local LLM speed calculator",
+    "Url": "https://martinalderson.com/posts/local-llm-speed-calculator/",
+    "Timestamp": "2026-05-11T23:03:11",
+    "Domain": "martinalderson.com",
+    "Description": "A back-of-envelope tokens/sec estimator for running LLMs locally. Pick your memory, model size and quantization to see how fast it'll actually run.",
+    "Confidence": 0.9665602
+  },
+  {
+    "Title": "From Today, Software Engineering is Dead",
+    "Url": "https://building138.com/from-today-software-engineering-is-dead",
+    "Timestamp": "2026-05-11T23:03:08",
+    "Domain": "building138.com",
+    "Description": "When cameras were first introduced, French painter Paul Delaroche reportedly opined “From today, painting is dead.” That was nearly two hundred years ago, and painting is doing just fine. But the nature of painting changed. Photography took over the work of faithful reproduction, and painting became something else: more expressive, more conceptual, more human. I think something similar is happening with code.",
+    "Confidence": 0.991514
+  },
+  {
+    "Title": "Why I Do Not Recommend Fastmail for Primary Email",
+    "Url": "https://www.vincentschmalbach.com/why-i-do-not-recommend-fastmail-for-primary-email/",
+    "Timestamp": "2026-05-11T23:02:57",
+    "Domain": "www.vincentschmalbach.com",
+    "Description": "Ask for an email recommendation on Hacker News or Reddit, and everyone agrees that Google spies on you and Microsoft is clunky, so the default answer is always the same: Fastmail. AI tools will parrot…",
+    "Confidence": 0.973625
+  },
+  {
     "Title": "The cuda-oxide Book — cuda-oxide",
     "Url": "https://nvlabs.github.io/cuda-oxide/index.html",
     "Timestamp": "2026-05-11T20:02:12",
