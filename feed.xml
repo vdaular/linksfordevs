@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Maryland citizens slapped with $2 billion power grid upgrade bill for out-of-state AI data centers — state complains to federal energy regulators, says additional cost breaks ‘ratepayer protection pledge’ promises</title>
+      <link>https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises</link>
+      <description>Aren't AI hyperscalers supposed to pay for these upgrades?</description>
+      <author> (https://www.tomshardware.com/author/jowi-morales)</author>
+      <category>ai</category>
+      <guid>https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises</guid>
+      <pubDate>Mon, 11 May 2026 10:02:12 GMT</pubDate>
+    </item>
+    <item>
       <title>Im going back to writing code by hand</title>
       <link>https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/</link>
       <description>I vibe-coded a GPU-aware Kubernetes TUI for 7 months, archived it, and started over. Here's what AI gets wrong when projects grow complex.</description>
