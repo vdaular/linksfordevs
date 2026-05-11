@@ -246,13 +246,5 @@
     "Domain": "codeutopia.net",
     "Description": "When I finished reading Peter Naur’s Programming as Theory Building my first thought was “How come nobody ever told me to read this?” I ended up reading it multiple times, as I attempted to collect my thoughts on why it makes so much sense.",
     "Confidence": 0.9893404
-  },
-  {
-    "Title": "Apple is increasing my cortisol levels",
-    "Url": "https://blog.kronis.dev/blog/apple-is-increasing-my-cortisol-levels",
-    "Timestamp": "2026-05-10T06:02:20",
-    "Domain": "blog.kronis.dev",
-    "Description": "My blog, where I attempt to collect my thoughts and share the occasional interesting topic with others",
-    "Confidence": 0.97238374
   }
 ]
