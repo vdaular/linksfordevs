@@ -1,5 +1,12 @@
 [
   {
+    "Title": "The cuda-oxide Book — cuda-oxide",
+    "Url": "https://nvlabs.github.io/cuda-oxide/index.html",
+    "Timestamp": "2026-05-11T20:02:12",
+    "Domain": "nvlabs.github.io",
+    "Description": "cuda-oxide is an experimental Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language bindings, just Rust."
+  },
+  {
     "Title": "Ratty — A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀",
     "Url": "https://ratty-term.org/",
     "Timestamp": "2026-05-11T15:02:23",

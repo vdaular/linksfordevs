@@ -1,5 +1,13 @@
 [
   {
+    "Title": "The cuda-oxide Book — cuda-oxide",
+    "Url": "https://nvlabs.github.io/cuda-oxide/index.html",
+    "Timestamp": "2026-05-11T20:02:12",
+    "Domain": "nvlabs.github.io",
+    "Description": "cuda-oxide is an experimental Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language bindings, just Rust.",
+    "Confidence": 0.9983182
+  },
+  {
     "Title": "Ratty — A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀",
     "Url": "https://ratty-term.org/",
     "Timestamp": "2026-05-11T15:02:23",
@@ -238,29 +246,5 @@
     "Domain": "www.wired.com",
     "Description": "The most widely adopted computer language in history, COBOL is now causing a host of problems. It's also dangerously difficult to remove.",
     "Confidence": 0.8924198
-  },
-  {
-    "Title": "Space Cadet Pinball on Linux - Stephen Brennan",
-    "Url": "https://brennan.io/2026/05/09/pinball-and-escrow/",
-    "Timestamp": "2026-05-10T20:02:58",
-    "Domain": "brennan.io",
-    "Description": "Stephen Brennan's personal website and blog.",
-    "Confidence": 0.9907209
-  },
-  {
-    "Title": "Louis Rossmann tells 3D printer maker Bambu Lab to ‘Go (Bleep) yourself’ over its threatened lawsuit against enthusiast — Right to Repair advocate offers to pay the legal fees for a threatened OrcaSlicer developer",
-    "Url": "https://www.tomshardware.com/3d-printing/louis-rossmann-tells-3d-printer-maker-bambu-lab-to-go-bleep-yourself-over-its-lawsuit-against-enthusiast-right-to-repair-advocate-offers-to-pay-the-legal-fees-for-a-threatened-orcaslicer-developer",
-    "Timestamp": "2026-05-10T20:02:55",
-    "Domain": "www.tomshardware.com",
-    "Description": "Bambu Labs controversy heats up.",
-    "Confidence": 0.6827525
-  },
-  {
-    "Title": "GrapheneOS (@GrapheneOS@grapheneos.social)",
-    "Url": "https://grapheneos.social/@GrapheneOS/116550899908879585",
-    "Timestamp": "2026-05-10T20:02:24",
-    "Domain": "grapheneos.social",
-    "Description": "Apple and Google are gradually expanding their use of hardware-based attestation. They're convincing a growing number of services to adopt it. Google's Play Integrity API and Apple's App Attest API are very similar. Apple brought it to the web via Privacy Pass, which Google intends on doing too.",
-    "Confidence": 0.9670264
   }
 ]
