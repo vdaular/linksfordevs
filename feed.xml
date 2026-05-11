@@ -354,14 +354,5 @@ https://open.spotify.com/artist/50jTMgIPZrjKFgHbCvoeRt?si=Z-xfUXEXQCuGdGRy7qf9Ug
       <guid>https://matduggan.com/the-intolerable-hypocrisy-of-cyberlibertarianism/</guid>
       <pubDate>Sun, 10 May 2026 01:02:07 GMT</pubDate>
     </item>
-    <item>
-      <title>GrapheneOS fixes Android VPN leak Google refused to patch</title>
-      <link>https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch/</link>
-      <description>GrapheneOS has released a new update that fixes a recently disclosed Android VPN bypass flaw capable of leaking a user’s real IP address.</description>
-      <category>android</category>
-      <category>linux</category>
-      <guid>https://cyberinsider.com/grapheneos-fixes-android-vpn-leak-google-refused-to-patch/</guid>
-      <pubDate>Sun, 10 May 2026 00:02:08 GMT</pubDate>
-    </item>
   </channel>
 </rss>
