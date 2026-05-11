@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Ratty — A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀",
+    "Url": "https://ratty-term.org/",
+    "Timestamp": "2026-05-11T15:02:23",
+    "Domain": "ratty-term.org",
+    "Description": "Ratty is a GPU-rendered terminal emulator with a spinning rat cursor, multiple 3D presentation modes and support for inline 3D graphics. Inspired by TempleOS and built with Rust and Ratatui."
+  },
+  {
     "Title": "Mythos 'Discovered' a CVE Already in Its Training Data - and That’s Still Worrying",
     "Url": "https://rival.security/posts/mythos-discovered-a-cve-already-in-its-training-data---and-thats-still-worrying",
     "Timestamp": "2026-05-11T13:02:21",

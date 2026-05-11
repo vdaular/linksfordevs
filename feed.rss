@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Ratty — A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀</title>
+      <link>https://ratty-term.org/</link>
+      <description>Ratty is a GPU-rendered terminal emulator with a spinning rat cursor, multiple 3D presentation modes and support for inline 3D graphics. Inspired by TempleOS and built with Rust and Ratatui.</description>
+      <guid>https://ratty-term.org/</guid>
+      <pubDate>Mon, 11 May 2026 15:02:23 GMT</pubDate>
+    </item>
+    <item>
       <title>Mythos 'Discovered' a CVE Already in Its Training Data - and That’s Still Worrying</title>
       <link>https://rival.security/posts/mythos-discovered-a-cve-already-in-its-training-data---and-thats-still-worrying</link>
       <description>Anthropic made headlines claiming Claude Mythos achieved the “first remote kernel exploit discovered and exploited by an AI.” We went looking for how - and found a 20-year-old bug hiding in plain sight.</description>
@@ -359,14 +366,6 @@ https://open.spotify.com/artist/50jTMgIPZrjKFgHbCvoeRt?si=Z-xfUXEXQCuGdGRy7qf9Ug
       <category>encryption</category>
       <guid>https://reclaimthenet.org/france-moves-to-break-encrypted-messaging</guid>
       <pubDate>Sun, 10 May 2026 16:02:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>bits from the release team</title>
-      <link>https://lists.debian.org/challenge.html?original=%2Fdebian-devel-announce%2F2026%2F05%2Fmsg00001.html</link>
-      <description />
-      <category>web</category>
-      <guid>https://lists.debian.org/challenge.html?original=%2Fdebian-devel-announce%2F2026%2F05%2Fmsg00001.html</guid>
-      <pubDate>Sun, 10 May 2026 15:02:24 GMT</pubDate>
     </item>
   </channel>
 </rss>
