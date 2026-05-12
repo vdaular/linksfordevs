@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>On Rendering the Sky, Sunsets, and Planets - The Blog of Maxime Heckel</title>
+      <link>https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/</link>
+      <description>This article explores how to render realistic skies and atmospheres in real time in the browser with shaders, from simple sky domes, to entire planets using shaders, raymarching, Rayleigh and Mie scattering, and ozone absorption.</description>
+      <category>conference</category>
+      <category>javascript</category>
+      <guid>https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/</guid>
+      <pubDate>Tue, 12 May 2026 18:02:11 GMT</pubDate>
+    </item>
+    <item>
       <title>Bambu Lab is abusing the open source social contract</title>
       <link>https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/</link>
       <description>Last year I said I'd probably never recommend another Bambu Lab printer again.

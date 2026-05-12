@@ -1,5 +1,13 @@
 [
   {
+    "Title": "On Rendering the Sky, Sunsets, and Planets - The Blog of Maxime Heckel",
+    "Url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
+    "Timestamp": "2026-05-12T18:02:11",
+    "Domain": "blog.maximeheckel.com",
+    "Description": "This article explores how to render realistic skies and atmospheres in real time in the browser with shaders, from simple sky domes, to entire planets using shaders, raymarching, Rayleigh and Mie scattering, and ozone absorption.",
+    "Confidence": 0.9946784
+  },
+  {
     "Title": "Bambu Lab is abusing the open source social contract",
     "Url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
     "Timestamp": "2026-05-12T15:02:25",
