@@ -7,6 +7,29 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>GitHub - davmlaw/they_live_adblocker: Replace Ads with They Live style slogans</title>
+      <link>https://github.com/davmlaw/they_live_adblocker</link>
+      <description>Replace Ads with They Live style slogans. Contribute to davmlaw/they_live_adblocker development by creating an account on GitHub.</description>
+      <category>nodejs</category>
+      <category>web</category>
+      <category>javascript</category>
+      <category>git</category>
+      <guid>https://github.com/davmlaw/they_live_adblocker</guid>
+      <pubDate>Tue, 12 May 2026 11:02:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mass Supply Chain Attack Hits TanStack, Mistral AI npm and PyPI Packages</title>
+      <link>https://safedep.io/mass-npm-supply-chain-attack-tanstack-mistral/</link>
+      <description>Over 400 compromised npm package versions and at least 2 PyPI packages published in a coordinated supply chain attack targeting TanStack, Mistral AI, UiPath, OpenSearch, guardrails-ai, and dozens of other packages.</description>
+      <category>nodejs</category>
+      <category>vscode</category>
+      <category>git</category>
+      <category>ai</category>
+      <category>python</category>
+      <guid>https://safedep.io/mass-npm-supply-chain-attack-tanstack-mistral/</guid>
+      <pubDate>Tue, 12 May 2026 11:02:14 GMT</pubDate>
+    </item>
+    <item>
       <title>Replacing a 3 GB SQLite database with a 10 MB FST (finite state transducer) binary</title>
       <link>https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/</link>
       <description>Note for
