@@ -337,29 +337,5 @@ On page 184 this graph hit me:</description>
       <guid>https://www.tomshardware.com/tech-industry/artificial-intelligence/maryland-citizens-slapped-with-usd2-billion-grid-upgrade-bill-for-out-of-state-ai-data-centers-state-complains-to-federal-energy-regulators-says-additional-cost-breaks-ratepayer-protection-pledge-promises</guid>
       <pubDate>Mon, 11 May 2026 10:02:12 GMT</pubDate>
     </item>
-    <item>
-      <title>Im going back to writing code by hand</title>
-      <link>https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/</link>
-      <description>I vibe-coded a GPU-aware Kubernetes TUI for 7 months, archived it, and started over. Here's what AI gets wrong when projects grow complex.</description>
-      <category>containers</category>
-      <category>rust</category>
-      <category>ai</category>
-      <category>nodejs</category>
-      <category>javascript</category>
-      <guid>https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/</guid>
-      <pubDate>Mon, 11 May 2026 08:02:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Running local models on an M4 with 24GB memory | jola.dev</title>
-      <link>https://jola.dev/posts/running-local-models-on-m4</link>
-      <description>Experiments with getting usable outputs out of local models on a standard Macbook</description>
-      <author> (https://jola.dev/about)</author>
-      <category>git</category>
-      <category>javascript</category>
-      <category>nodejs</category>
-      <category>ai</category>
-      <guid>https://jola.dev/posts/running-local-models-on-m4</guid>
-      <pubDate>Mon, 11 May 2026 08:02:02 GMT</pubDate>
-    </item>
   </channel>
 </rss>

@@ -294,21 +294,5 @@
     "Domain": "www.tomshardware.com",
     "Description": "Aren't AI hyperscalers supposed to pay for these upgrades?",
     "Confidence": 0.536904
-  },
-  {
-    "Title": "Im going back to writing code by hand",
-    "Url": "https://blog.k10s.dev/im-going-back-to-writing-code-by-hand/",
-    "Timestamp": "2026-05-11T08:02:06",
-    "Domain": "blog.k10s.dev",
-    "Description": "I vibe-coded a GPU-aware Kubernetes TUI for 7 months, archived it, and started over. Here's what AI gets wrong when projects grow complex.",
-    "Confidence": 0.99600327
-  },
-  {
-    "Title": "Running local models on an M4 with 24GB memory | jola.dev",
-    "Url": "https://jola.dev/posts/running-local-models-on-m4",
-    "Timestamp": "2026-05-11T08:02:02",
-    "Domain": "jola.dev",
-    "Description": "Experiments with getting usable outputs out of local models on a standard Macbook",
-    "Confidence": 0.99783766
   }
 ]
