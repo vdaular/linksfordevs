@@ -7,6 +7,24 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Why senior developers fail to communicate their expertise</title>
+      <link>https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise</link>
+      <description>Why senior developers talk in terms of complexity while the rest of the business is worried about uncertainty — and what to do about it now that AI is in the picture.</description>
+      <author> (Tuhin Nair)</author>
+      <category>ai</category>
+      <guid>https://www.nair.sh/guides-and-opinions/communicating-your-expertise/why-senior-developers-fail-to-communicate-their-expertise</guid>
+      <pubDate>Tue, 12 May 2026 22:02:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Prime Line Cover — OEIS A373813</title>
+      <link>https://prime-line-cover.vercel.app/?article=</link>
+      <description>Research Article  ·  May 2026</description>
+      <category>nodejs</category>
+      <category>ai</category>
+      <guid>https://prime-line-cover.vercel.app/?article=</guid>
+      <pubDate>Tue, 12 May 2026 22:02:22 GMT</pubDate>
+    </item>
+    <item>
       <title>Googlebook: Designed for Gemini Intelligence | Coming Fall 2026</title>
       <link>https://googlebook.google/</link>
       <description>Meet Googlebook: A new kind of laptop designed for Gemini Intelligence. Built with heavyweight power and perfectly in sync with your Android Phone. Sign up for updates and stay in the know.</description>
