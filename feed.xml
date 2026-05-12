@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Retrotechnology Media - Typewritten Software</title>
+      <link>http://www.typewritten.org/Media/</link>
+      <description></description>
+      <category>apple</category>
+      <category>git</category>
+      <category>gaming</category>
+      <category>linux</category>
+      <guid>http://www.typewritten.org/Media/</guid>
+      <pubDate>Tue, 12 May 2026 12:02:17 GMT</pubDate>
+    </item>
+    <item>
       <title>GitHub - davmlaw/they_live_adblocker: Replace Ads with They Live style slogans</title>
       <link>https://github.com/davmlaw/they_live_adblocker</link>
       <description>Replace Ads with They Live style slogans. Contribute to davmlaw/they_live_adblocker development by creating an account on GitHub.</description>
@@ -368,14 +379,6 @@ On page 184 this graph hit me:</description>
       <category>linux</category>
       <guid>https://daniel.haxx.se/blog/2026/05/11/mythos-finds-a-curl-vulnerability/</guid>
       <pubDate>Mon, 11 May 2026 13:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>We Are Not Going to Agree on AI</title>
-      <link>https://idiallo.com/blog/we-are-not-going-to-agree-on-ai?src=feed</link>
-      <description>On one hand, I know a developer producing 30,000 lines of code a month. On the other, I know a developer who says AI is stupid. Each swears by their stance and has evidence to back it up. One has a wo</description>
-      <category>ai</category>
-      <guid>https://idiallo.com/blog/we-are-not-going-to-agree-on-ai?src=feed</guid>
-      <pubDate>Mon, 11 May 2026 12:02:17 GMT</pubDate>
     </item>
   </channel>
 </rss>

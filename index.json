@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Retrotechnology Media - Typewritten Software",
+    "Url": "http://www.typewritten.org/Media/",
+    "Timestamp": "2026-05-12T12:02:17",
+    "Domain": "www.typewritten.org",
+    "Description": "",
+    "Confidence": 0.9760607
+  },
+  {
     "Title": "GitHub - davmlaw/they_live_adblocker: Replace Ads with They Live style slogans",
     "Url": "https://github.com/davmlaw/they_live_adblocker",
     "Timestamp": "2026-05-12T11:02:20",
@@ -310,13 +318,5 @@
     "Domain": "daniel.haxx.se",
     "Description": "yes, as in singular one. Back in April 2026 Anthropic caused a lot of media noise when they concluded that their new AI model Mythos is dangerously good at finding security flaws in source code. Apparently Mythos was so good at this that Anthropic would not release this model to the public yet but instead … Continue reading Mythos finds a curl vulnerability →",
     "Confidence": 0.97061086
-  },
-  {
-    "Title": "We Are Not Going to Agree on AI",
-    "Url": "https://idiallo.com/blog/we-are-not-going-to-agree-on-ai?src=feed",
-    "Timestamp": "2026-05-11T12:02:17",
-    "Domain": "idiallo.com",
-    "Description": "On one hand, I know a developer producing 30,000 lines of code a month. On the other, I know a developer who says AI is stupid. Each swears by their stance and has evidence to back it up. One has a wo",
-    "Confidence": 0.83726764
   }
 ]
