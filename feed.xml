@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Bambu Lab is abusing the open source social contract</title>
+      <link>https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/</link>
+      <description>Last year I said I'd probably never recommend another Bambu Lab printer again.
+I still use my P1S, but after Bambu Lab started pushing their always-connected cloud solution as the new default:
+I blocked the printer from the Internet via my OPNsense Firewall I stopped updating the firmware I locked the printer into Developer mode I deleted Bambu Studio and started using OrcaSlicer I had to do that to keep it under my control, instead of Bambu's.</description>
+      <category>linux</category>
+      <guid>https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/</guid>
+      <pubDate>Tue, 12 May 2026 15:02:25 GMT</pubDate>
+    </item>
+    <item>
       <title>Learning Software Architecture</title>
       <link>https://matklad.github.io/2026/05/12/software-architecture.html</link>
       <description>In reply to an email asking about learning software design skills as a researcher physicist:</description>
@@ -354,13 +364,6 @@ On page 184 this graph hit me:</description>
       <category>web</category>
       <guid>https://nvlabs.github.io/cuda-oxide/index.html</guid>
       <pubDate>Mon, 11 May 2026 20:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ratty — A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀</title>
-      <link>https://ratty-term.org/</link>
-      <description>Ratty is a GPU-rendered terminal emulator with a spinning rat cursor, multiple 3D presentation modes and support for inline 3D graphics. Inspired by TempleOS and built with Rust and Ratatui.</description>
-      <guid>https://ratty-term.org/</guid>
-      <pubDate>Mon, 11 May 2026 15:02:23 GMT</pubDate>
     </item>
   </channel>
 </rss>

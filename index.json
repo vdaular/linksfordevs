@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Bambu Lab is abusing the open source social contract",
+    "Url": "https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/",
+    "Timestamp": "2026-05-12T15:02:25",
+    "Domain": "www.jeffgeerling.com",
+    "Description": "Last year I said I'd probably never recommend another Bambu Lab printer again.\nI still use my P1S, but after Bambu Lab started pushing their always-connected cloud solution as the new default:\nI blocked the printer from the Internet via my OPNsense Firewall I stopped updating the firmware I locked the printer into Developer mode I deleted Bambu Studio and started using OrcaSlicer I had to do that to keep it under my control, instead of Bambu's.",
+    "Confidence": 0.973771
+  },
+  {
     "Title": "Learning Software Architecture",
     "Url": "https://matklad.github.io/2026/05/12/software-architecture.html",
     "Timestamp": "2026-05-12T14:02:18",
@@ -294,13 +302,5 @@
     "Domain": "nvlabs.github.io",
     "Description": "cuda-oxide is an experimental Rust-to-CUDA compiler that lets you write (SIMT) GPU kernels in safe(ish), idiomatic Rust. It compiles standard Rust code directly to PTX — no DSLs, no foreign language bindings, just Rust.",
     "Confidence": 0.9983182
-  },
-  {
-    "Title": "Ratty — A GPU-rendered terminal emulator with inline 3D graphics 🐀🧀",
-    "Url": "https://ratty-term.org/",
-    "Timestamp": "2026-05-11T15:02:23",
-    "Domain": "ratty-term.org",
-    "Description": "Ratty is a GPU-rendered terminal emulator with a spinning rat cursor, multiple 3D presentation modes and support for inline 3D graphics. Inspired by TempleOS and built with Rust and Ratatui.",
-    "Confidence": 0.66563535
   }
 ]
