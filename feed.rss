@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Can Someone Please Explain Whether Cloudflare Blackmailed Canonical?</title>
+      <link>https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/</link>
+      <description>30 April 2026, 16:33:37 UTC. Canonical’s incident monitoring system marks blog.ubuntu.com as Service Down.</description>
+      <category>linux</category>
+      <category>encryption</category>
+      <guid>https://www.flyingpenguin.com/can-someone-please-explain-whether-cloudflare-blackmailed-canonical/</guid>
+      <pubDate>Tue, 12 May 2026 04:02:16 GMT</pubDate>
+    </item>
+    <item>
       <title>Thinking Machines and interaction models</title>
       <link>https://www.seangoedecke.com/interaction-models/</link>
       <description>Thinking Machines just released Interaction Models. This is their first real AI model release1 after a year of work and two billion dollars of capital. What is an “interaction model”? First, it’s not a frontier model. Thinking Machines is not yet competing with OpenAI, Anthropic and Google.</description>
