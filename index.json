@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Thinking Machines and interaction models",
+    "Url": "https://www.seangoedecke.com/interaction-models/",
+    "Timestamp": "2026-05-12T02:02:14",
+    "Domain": "www.seangoedecke.com",
+    "Description": "Thinking Machines just released Interaction Models. This is their first real AI model release1 after a year of work and two billion dollars of capital. What is an “interaction model”? First, it’s not a frontier model. Thinking Machines is not yet competing with OpenAI, Anthropic and Google.",
+    "Confidence": 0.98626643
+  },
+  {
     "Title": "GitLab Act 2",
     "Url": "https://about.gitlab.com/blog/gitlab-act-2/",
     "Timestamp": "2026-05-12T01:02:27",

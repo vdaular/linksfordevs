@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Thinking Machines and interaction models</title>
+      <link>https://www.seangoedecke.com/interaction-models/</link>
+      <description>Thinking Machines just released Interaction Models. This is their first real AI model release1 after a year of work and two billion dollars of capital. What is an “interaction model”? First, it’s not a frontier model. Thinking Machines is not yet competing with OpenAI, Anthropic and Google.</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://www.seangoedecke.com/interaction-models/</guid>
+      <pubDate>Tue, 12 May 2026 02:02:14 GMT</pubDate>
+    </item>
+    <item>
       <title>GitLab Act 2</title>
       <link>https://about.gitlab.com/blog/gitlab-act-2/</link>
       <description>A letter to our customers and our investors.</description>
