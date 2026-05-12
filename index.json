@@ -1,5 +1,21 @@
 [
   {
+    "Title": "GitLab Act 2",
+    "Url": "https://about.gitlab.com/blog/gitlab-act-2/",
+    "Timestamp": "2026-05-12T01:02:27",
+    "Domain": "about.gitlab.com",
+    "Description": "A letter to our customers and our investors.",
+    "Confidence": 0.9803525
+  },
+  {
+    "Title": "Postmortem: TanStack npm supply-chain compromise | TanStack Blog",
+    "Url": "https://tanstack.com/blog/npm-supply-chain-compromise-postmortem",
+    "Timestamp": "2026-05-12T01:02:22",
+    "Domain": "tanstack.com",
+    "Description": "On 2026-05-11, an attacker chained a pull_request_target Pwn Request, GitHub Actions cache poisoning across the fork↔base trust boundary, and OIDC token extraction from runner memory to publish 84 malicious versions across 42 @tanstack/* packages on npm. Full postmortem.",
+    "Confidence": 0.98202455
+  },
+  {
     "Title": "You can have your composer.lock and not make others eat it too! | Kevin Ullyott",
     "Url": "https://kevinullyott.com/blog/2026-05-05-composer-lock-gitattributes/",
     "Timestamp": "2026-05-11T23:04:50",
