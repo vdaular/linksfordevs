@@ -1,0 +1,177 @@
+[
+  {
+    "Title": "cost of enum-to-string: C++26 reflection vs the old ways",
+    "Url": "https://vittorioromeo.com/index/blog/refl_enum_to_string.html",
+    "Timestamp": "2026-05-13T00:04:30",
+    "Domain": "vittorioromeo.com",
+    "Description": "Article/tutorial on http://vittorioromeo.com"
+  },
+  {
+    "Title": "Vocal Mirror",
+    "Url": "https://danverbraganza.com/tools/vocal-mirror",
+    "Timestamp": "2026-05-13T00:04:25",
+    "Domain": "danverbraganza.com",
+    "Description": "Vocal Mirror is a tool for rapid hands-free vocal practice and feedback.When active, Vocal Mirror will listen for you to speak or sing, and then replay that to you as soon as silence is detected. It's like a variable-length echo."
+  },
+  {
+    "Title": "Why LLMs Make Learning to Code More Important, Not Less",
+    "Url": "https://senthil.learntosolveit.com/posts/2026/05/10/why-llms-make-learning-to-code-more-important-not-less.html",
+    "Timestamp": "2026-05-13T00:04:22",
+    "Domain": "senthil.learntosolveit.com",
+    "Description": "This is the transcript of my talk at OMSCS Conference 2026\nHello, everyone. I'm Senthil Kumaran, a software developer at Uber. I've been programming for more than 20 years. I completed my OMSCS specia"
+  },
+  {
+    "Title": "I hate the recent open-source rise · Jamie Tanna | Software Engineer",
+    "Url": "https://www.jvt.me/posts/2026/05/12/open-source/",
+    "Timestamp": "2026-05-13T00:04:18",
+    "Domain": "www.jvt.me",
+    "Description": "Why I'm worried about folks using the term `open-source` and some minimal research into why it's wrong."
+  },
+  {
+    "Title": "Artificial Intelligence and Quarterly Earnings Reports - The Big Picture",
+    "Url": "https://ritholtz.com/2026/05/ai-q-earnings/",
+    "Timestamp": "2026-05-13T00:04:12",
+    "Domain": "ritholtz.com",
+    "Description": "    A proposal from the current administration is working its way through the U.S. Securities and Exchange Commission to end quarterly corporate earnings. This is a good idea. Unfortunately, the frequency is in the wrong direction. Instead of replacing quarterly earnings releases with annual or semiannual ones, the SEC should be moving toward monthly,…Read More"
+  },
+  {
+    "Title": "I Bought a “Junk” PSP From Japan: Here’s How It Went",
+    "Url": "https://gardinerbryant.com/i-bought-a-junk-psp-from-japan-heres-how-it-went/",
+    "Timestamp": "2026-05-13T00:04:08",
+    "Domain": "gardinerbryant.com",
+    "Description": "While I spend most of my time reviewing modern ‘retro’ handhelds (devices built to emulate everything under the sun) I’ve found myself wanting to go back to the roots of everything. The first‑party machines that actually started it all. And for me, that always leads back to Sony’"
+  },
+  {
+    "Title": "About coding agents",
+    "Url": "https://fdeb.xyz/blog/2026-05-04-about-coding-agents.html",
+    "Timestamp": "2026-05-13T00:04:02",
+    "Domain": "fdeb.xyz",
+    "Description": "2026-05-04"
+  },
+  {
+    "Title": "I/O Multiplexing: select(), poll(), and epoll() | 0xKiire",
+    "Url": "https://0xkiire.com/io-multiplexing-guide/",
+    "Timestamp": "2026-05-13T00:03:57",
+    "Domain": "0xkiire.com",
+    "Description": "How do servers handle thousands of connections? Learn readiness-based I/O with select/poll/epoll, common edge cases, and build a tiny event loop in C, Zig, a..."
+  },
+  {
+    "Title": "Multilingual Ambiguity",
+    "Url": "https://blog.ptidej.net/multilingual-ambiguity/",
+    "Timestamp": "2026-05-13T00:03:53",
+    "Domain": "blog.ptidej.net",
+    "Description": "Saluuuut! At the very beginning of my research on \"Multilingual Concept\" in programming, I realised something interesting about this topic. To be honest, I just wanted to use some Python code within Java, however, in this way, I faced lots of different terminologies! They are completely confusing. And even worse,"
+  },
+  {
+    "Title": "Beyond software",
+    "Url": "https://www.kevinsdias.com/posts/beyond-software.html",
+    "Timestamp": "2026-05-13T00:03:49",
+    "Domain": "www.kevinsdias.com",
+    "Description": "Kevin Scott Dias - Beyond software"
+  },
+  {
+    "Title": "On the End of Work as We Know It",
+    "Url": "https://shadesofsingularity.com/essays/end-of-work/",
+    "Timestamp": "2026-05-13T00:03:45",
+    "Domain": "shadesofsingularity.com",
+    "Description": "The economy is learning to grow without hiring. This essay traces the evidence, the competing interpretations, and the structural transformation that follows."
+  },
+  {
+    "Title": "The Walled Garden of the Surveilled Web",
+    "Url": "https://kirill.korins.ky/articles/the-walled-garden-of-the-surveilled-web/",
+    "Timestamp": "2026-05-13T00:03:41",
+    "Domain": "kirill.korins.ky",
+    "Description": "The open web is not disappearing because publishing has become impossible; it is disappearing because discovery is being absorbed into vendor specific information environments. Google is the central case because of its dominance in web search, but the pattern is broader: crawlers, indexes, operating systems, browsers, assistants, DNS resolvers, VPNs, advertising systems, and policy processes are converging into private gardens that present themselves as the web. Findability inside these gardens depends less on public availability than on compatibility with their measurement, monetization, legal, and editorial machinery. Once LLMs train on and retrieve through those filtered layers, exclusion no longer affects only search traffic; it shapes the corpus from which future answers are generated."
+  },
+  {
+    "Title": "Claude Code RCE: Exploiting Deeplink Handlers via Settings Injection",
+    "Url": "https://0day.click/recipe/2026-05-12-cc-rce/",
+    "Timestamp": "2026-05-13T00:03:36",
+    "Domain": "0day.click",
+    "Description": "Of course I took a peek at the Claude Code source 🙈.\nWhat I found was a very entertaining vulnerability which is now fixed since Claude Code version 2.1.118.\nJust wading through the massive codebase manually wasn’t really a feasible approach. So took an army of AI Agents to…. no wait actually I did not do that, the following was all manual work. :P\nI started by looking at different configuration options and tried to see what’s actually “useful” from an attacker’s perspective. On the way, in main.tsx I came across eagerLoadSettings, it eagerly loads settings, obviously:\n"
+  },
+  {
+    "Title": "Don't Hijack My Mouse Pointer",
+    "Url": "https://ruky.me/dont-hijack-my-pointer/",
+    "Timestamp": "2026-05-13T00:03:32",
+    "Domain": "ruky.me",
+    "Description": "With vibe-coding, more and more websites I am visiting are changing my mouse pointer"
+  },
+  {
+    "Title": "SMART Goals Are Overrated — Arrow Coaching",
+    "Url": "https://arrowcoaching.net/blog/post.html?slug=smart-goals",
+    "Timestamp": "2026-05-13T00:03:28",
+    "Domain": "arrowcoaching.net",
+    "Description": "SMART goals are everywhere. Your manager has probably asked you to set them, whether as a genuinely useful exercise or to satisfy an HR checkbox."
+  },
+  {
+    "Title": "What is PicPocket.io?",
+    "Url": "https://amrshawky.com/posts/what-is-picpocket/",
+    "Timestamp": "2026-05-13T00:03:25",
+    "Domain": "amrshawky.com",
+    "Description": "Introduction PicPocket started as a project to help me organize my photos. I really disliked the available methods of finding photos, everything seemed to be moving in the direction of relying more and more heavily on AI. The problem would keep compounding the more photos I had, and it seemed like the entire tech solution was simply that, one day we would somehow figure it out using AI.\nWhat’s worse is that the main companies that deal with photo galleries, i.e. Google and Apple, have an interest in you, the user, having as many photos as possible on your phone so they can then charge you for cloud storage. If you could efficiently organize your photos based on what was important and what you don’t really need, your photo gallery would shrink from tens of thousands of photos to a few thousand at most."
+  },
+  {
+    "Title": "Treat Me Like an Investor",
+    "Url": "https://cameronwestland.com/treat-me-like-an-investor/",
+    "Timestamp": "2026-05-13T00:03:20",
+    "Domain": "cameronwestland.com",
+    "Description": "I had coffee today with a founder I see every 90 days. He’s pre-PMF, mostly solo, a couple friends helping. He always closes the same way, grateful for …"
+  },
+  {
+    "Title": "The Shape of Duplicate Detection: Benchmarking 4000+ Measurements Across Key Types and Backends",
+    "Url": "https://dubeykartikay.com/posts/the-shape-of-duplicate-detection/",
+    "Timestamp": "2026-05-13T00:03:16",
+    "Domain": "dubeykartikay.com",
+    "Description": "A benchmark-backed look at how the fastest duplicate-detection strategy changes depending on key shape, duplicate pattern, input size, and durability guarantees."
+  },
+  {
+    "Title": "The Most Emacs Bzr Saga",
+    "Url": "https://thanosapollo.org/posts/bzr-saga/",
+    "Timestamp": "2026-05-13T00:03:13",
+    "Domain": "thanosapollo.org",
+    "Description": "Since I had no interesting books to read today, nor interesting films to watch, I decided to scavenge for the most intriguing content one can find online. I ended up reading the Linux kernel mailing lists, but those discussions seemed to be 18+, so I settled for the comparatively civil emacs-devel.\nFor those unfamiliar, emacs-devel is the primary development discussion list for GNU Emacs – where design decisions get made, patches get reviewed, and occasionally where people spend 200 messages arguing about version control software. This is the story of that last one."
+  },
+  {
+    "Title": "I’m Making Strandfall, a Solarpunk Orienteering Larp",
+    "Url": "https://mssv.net/2026/04/29/im-making-strandfall-a-solarpunk-orienteering-larp/",
+    "Timestamp": "2026-05-13T00:03:08",
+    "Domain": "mssv.net",
+    "Description": "Blending the real and digital worlds, once more."
+  },
+  {
+    "Title": "How I Stumbled into the Perfect API Architecture",
+    "Url": "https://www.primatology.xyz/blog/how-i-stumbled-into-the-perfect-api-architecture",
+    "Timestamp": "2026-05-13T00:03:05",
+    "Domain": "www.primatology.xyz",
+    "Description": "I set out to build a fuel price API for the UK and convinced myself I'd need PostGIS, tile servers, and a small fleet of infrastructure to make it work. The actual answer was a script, a file, and a CDN. I just took the long way round to find it."
+  },
+  {
+    "Title": "charles leifer | Redis and the Cost of Ambition",
+    "Url": "https://charlesleifer.com/blog/redis-and-the-cost-of-ambition/",
+    "Timestamp": "2026-05-13T00:03:01",
+    "Domain": "charlesleifer.com",
+    "Description": "May 12, 2026 11:28\n      /\n      \n        redis\n      \n        thoughts\n      \n      /\n      1 comments"
+  },
+  {
+    "Title": "Why This Is Not a Newsletter – Writings and rehearsals by Nathan Schneider",
+    "Url": "https://nathanschneider.info/2026/05/why-this-is-not-a-newsletter/",
+    "Timestamp": "2026-05-13T00:02:57",
+    "Domain": "nathanschneider.info",
+    "Description": "This summer I intend to engage in a regular blogging practice—a sort of retro endeavor in 2026, I suppose, but it has arisen for me as a necessary one. It is not about any topic in particular. It is, rather, an exercise in offering a series of interventions that have been stewing in me for a while, as well as those that surface through the practice."
+  },
+  {
+    "Title": "Who Builds Your Judgment?",
+    "Url": "https://dekodiert.de/en/articles/wer-baut-eure-urteilskraft",
+    "Timestamp": "2026-05-13T00:02:52",
+    "Domain": "dekodiert.de",
+    "Description": "Many companies introduce AI as a productivity lever. In the process, they often automate exactly the layers of work on which later quality and judgment used to grow."
+  },
+  {
+    "Title": "Marco Polo",
+    "Url": "https://www.jackhogan.me/blog/marco-polo",
+    "Timestamp": "2026-05-13T00:02:45",
+    "Domain": "www.jackhogan.me",
+    "Description": "Finding a friend with only distance and motion."
+  }
+]

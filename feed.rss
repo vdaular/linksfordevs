@@ -7,6 +7,254 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>cost of enum-to-string: C++26 reflection vs the old ways</title>
+      <link>https://vittorioromeo.com/index/blog/refl_enum_to_string.html</link>
+      <description>Article/tutorial on http://vittorioromeo.com</description>
+      <category>rust</category>
+      <category>vscode</category>
+      <category>gaming</category>
+      <category>containers</category>
+      <guid>https://vittorioromeo.com/index/blog/refl_enum_to_string.html</guid>
+      <pubDate>Wed, 13 May 2026 00:04:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vocal Mirror</title>
+      <link>https://danverbraganza.com/tools/vocal-mirror</link>
+      <description>Vocal Mirror is a tool for rapid hands-free vocal practice and feedback.When active, Vocal Mirror will listen for you to speak or sing, and then replay that to you as soon as silence is detected. It's like a variable-length echo.</description>
+      <guid>https://danverbraganza.com/tools/vocal-mirror</guid>
+      <pubDate>Wed, 13 May 2026 00:04:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why LLMs Make Learning to Code More Important, Not Less</title>
+      <link>https://senthil.learntosolveit.com/posts/2026/05/10/why-llms-make-learning-to-code-more-important-not-less.html</link>
+      <description>This is the transcript of my talk at OMSCS Conference 2026
+Hello, everyone. I'm Senthil Kumaran, a software developer at Uber. I've been programming for more than 20 years. I completed my OMSCS specia</description>
+      <category>ai</category>
+      <guid>https://senthil.learntosolveit.com/posts/2026/05/10/why-llms-make-learning-to-code-more-important-not-less.html</guid>
+      <pubDate>Wed, 13 May 2026 00:04:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>I hate the recent open-source rise · Jamie Tanna | Software Engineer</title>
+      <link>https://www.jvt.me/posts/2026/05/12/open-source/</link>
+      <description>Why I'm worried about folks using the term `open-source` and some minimal research into why it's wrong.</description>
+      <category>ai</category>
+      <guid>https://www.jvt.me/posts/2026/05/12/open-source/</guid>
+      <pubDate>Wed, 13 May 2026 00:04:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Artificial Intelligence and Quarterly Earnings Reports - The Big Picture</title>
+      <link>https://ritholtz.com/2026/05/ai-q-earnings/</link>
+      <description>    A proposal from the current administration is working its way through the U.S. Securities and Exchange Commission to end quarterly corporate earnings. This is a good idea. Unfortunately, the frequency is in the wrong direction. Instead of replacing quarterly earnings releases with annual or semiannual ones, the SEC should be moving toward monthly,…Read More</description>
+      <category>ai</category>
+      <guid>https://ritholtz.com/2026/05/ai-q-earnings/</guid>
+      <pubDate>Wed, 13 May 2026 00:04:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>I Bought a “Junk” PSP From Japan: Here’s How It Went</title>
+      <link>https://gardinerbryant.com/i-bought-a-junk-psp-from-japan-heres-how-it-went/</link>
+      <description>While I spend most of my time reviewing modern ‘retro’ handhelds (devices built to emulate everything under the sun) I’ve found myself wanting to go back to the roots of everything. The first‑party machines that actually started it all. And for me, that always leads back to Sony’</description>
+      <category>gaming</category>
+      <category>android</category>
+      <guid>https://gardinerbryant.com/i-bought-a-junk-psp-from-japan-heres-how-it-went/</guid>
+      <pubDate>Wed, 13 May 2026 00:04:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>About coding agents</title>
+      <link>https://fdeb.xyz/blog/2026-05-04-about-coding-agents.html</link>
+      <description>2026-05-04</description>
+      <category>rust</category>
+      <category>ai</category>
+      <category>git</category>
+      <category>python</category>
+      <category>javascript</category>
+      <guid>https://fdeb.xyz/blog/2026-05-04-about-coding-agents.html</guid>
+      <pubDate>Wed, 13 May 2026 00:04:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>I/O Multiplexing: select(), poll(), and epoll() | 0xKiire</title>
+      <link>https://0xkiire.com/io-multiplexing-guide/</link>
+      <description>How do servers handle thousands of connections? Learn readiness-based I/O with select/poll/epoll, common edge cases, and build a tiny event loop in C, Zig, a...</description>
+      <author> (0xKiire)</author>
+      <category>sql</category>
+      <category>linux</category>
+      <category>nodejs</category>
+      <category>vscode</category>
+      <guid>https://0xkiire.com/io-multiplexing-guide/</guid>
+      <pubDate>Wed, 13 May 2026 00:03:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Multilingual Ambiguity</title>
+      <link>https://blog.ptidej.net/multilingual-ambiguity/</link>
+      <description>Saluuuut! At the very beginning of my research on "Multilingual Concept" in programming, I realised something interesting about this topic. To be honest, I just wanted to use some Python code within Java, however, in this way, I faced lots of different terminologies! They are completely confusing. And even worse,</description>
+      <category>nodejs</category>
+      <category>python</category>
+      <category>javascript</category>
+      <category>vscode</category>
+      <category>web</category>
+      <guid>https://blog.ptidej.net/multilingual-ambiguity/</guid>
+      <pubDate>Wed, 13 May 2026 00:03:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Beyond software</title>
+      <link>https://www.kevinsdias.com/posts/beyond-software.html</link>
+      <description>Kevin Scott Dias - Beyond software</description>
+      <category>web</category>
+      <guid>https://www.kevinsdias.com/posts/beyond-software.html</guid>
+      <pubDate>Wed, 13 May 2026 00:03:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>On the End of Work as We Know It</title>
+      <link>https://shadesofsingularity.com/essays/end-of-work/</link>
+      <description>The economy is learning to grow without hiring. This essay traces the evidence, the competing interpretations, and the structural transformation that follows.</description>
+      <category>ai</category>
+      <category>encryption</category>
+      <category>cloud</category>
+      <guid>https://shadesofsingularity.com/essays/end-of-work/</guid>
+      <pubDate>Wed, 13 May 2026 00:03:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Walled Garden of the Surveilled Web</title>
+      <link>https://kirill.korins.ky/articles/the-walled-garden-of-the-surveilled-web/</link>
+      <description>The open web is not disappearing because publishing has become impossible; it is disappearing because discovery is being absorbed into vendor specific information environments. Google is the central case because of its dominance in web search, but the pattern is broader: crawlers, indexes, operating systems, browsers, assistants, DNS resolvers, VPNs, advertising systems, and policy processes are converging into private gardens that present themselves as the web. Findability inside these gardens depends less on public availability than on compatibility with their measurement, monetization, legal, and editorial machinery. Once LLMs train on and retrieve through those filtered layers, exclusion no longer affects only search traffic; it shapes the corpus from which future answers are generated.</description>
+      <category>cloud</category>
+      <category>ai</category>
+      <category>android</category>
+      <category>javascript</category>
+      <category>git</category>
+      <guid>https://kirill.korins.ky/articles/the-walled-garden-of-the-surveilled-web/</guid>
+      <pubDate>Wed, 13 May 2026 00:03:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Code RCE: Exploiting Deeplink Handlers via Settings Injection</title>
+      <link>https://0day.click/recipe/2026-05-12-cc-rce/</link>
+      <description>Of course I took a peek at the Claude Code source 🙈.
+What I found was a very entertaining vulnerability which is now fixed since Claude Code version 2.1.118.
+Just wading through the massive codebase manually wasn’t really a feasible approach. So took an army of AI Agents to…. no wait actually I did not do that, the following was all manual work. :P
+I started by looking at different configuration options and tried to see what’s actually “useful” from an attacker’s perspective. On the way, in main.tsx I came across eagerLoadSettings, it eagerly loads settings, obviously:
+</description>
+      <category>javascript</category>
+      <category>git</category>
+      <category>ai</category>
+      <guid>https://0day.click/recipe/2026-05-12-cc-rce/</guid>
+      <pubDate>Wed, 13 May 2026 00:03:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Don't Hijack My Mouse Pointer</title>
+      <link>https://ruky.me/dont-hijack-my-pointer/</link>
+      <description>With vibe-coding, more and more websites I am visiting are changing my mouse pointer</description>
+      <guid>https://ruky.me/dont-hijack-my-pointer/</guid>
+      <pubDate>Wed, 13 May 2026 00:03:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>SMART Goals Are Overrated — Arrow Coaching</title>
+      <link>https://arrowcoaching.net/blog/post.html?slug=smart-goals</link>
+      <description>SMART goals are everywhere. Your manager has probably asked you to set them, whether as a genuinely useful exercise or to satisfy an HR checkbox.</description>
+      <category>web</category>
+      <guid>https://arrowcoaching.net/blog/post.html?slug=smart-goals</guid>
+      <pubDate>Wed, 13 May 2026 00:03:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>What is PicPocket.io?</title>
+      <link>https://amrshawky.com/posts/what-is-picpocket/</link>
+      <description>Introduction PicPocket started as a project to help me organize my photos. I really disliked the available methods of finding photos, everything seemed to be moving in the direction of relying more and more heavily on AI. The problem would keep compounding the more photos I had, and it seemed like the entire tech solution was simply that, one day we would somehow figure it out using AI.
+What’s worse is that the main companies that deal with photo galleries, i.e. Google and Apple, have an interest in you, the user, having as many photos as possible on your phone so they can then charge you for cloud storage. If you could efficiently organize your photos based on what was important and what you don’t really need, your photo gallery would shrink from tens of thousands of photos to a few thousand at most.</description>
+      <category>ai</category>
+      <category>apple</category>
+      <category>android</category>
+      <guid>https://amrshawky.com/posts/what-is-picpocket/</guid>
+      <pubDate>Wed, 13 May 2026 00:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Treat Me Like an Investor</title>
+      <link>https://cameronwestland.com/treat-me-like-an-investor/</link>
+      <description>I had coffee today with a founder I see every 90 days. He’s pre-PMF, mostly solo, a couple friends helping. He always closes the same way, grateful for …</description>
+      <category>ai</category>
+      <guid>https://cameronwestland.com/treat-me-like-an-investor/</guid>
+      <pubDate>Wed, 13 May 2026 00:03:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Shape of Duplicate Detection: Benchmarking 4000+ Measurements Across Key Types and Backends</title>
+      <link>https://dubeykartikay.com/posts/the-shape-of-duplicate-detection/</link>
+      <description>A benchmark-backed look at how the fastest duplicate-detection strategy changes depending on key shape, duplicate pattern, input size, and durability guarantees.</description>
+      <author> (Kartikay Dubey)</author>
+      <category>cloud</category>
+      <category>sql</category>
+      <guid>https://dubeykartikay.com/posts/the-shape-of-duplicate-detection/</guid>
+      <pubDate>Wed, 13 May 2026 00:03:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Most Emacs Bzr Saga</title>
+      <link>https://thanosapollo.org/posts/bzr-saga/</link>
+      <description>Since I had no interesting books to read today, nor interesting films to watch, I decided to scavenge for the most intriguing content one can find online. I ended up reading the Linux kernel mailing lists, but those discussions seemed to be 18+, so I settled for the comparatively civil emacs-devel.
+For those unfamiliar, emacs-devel is the primary development discussion list for GNU Emacs – where design decisions get made, patches get reviewed, and occasionally where people spend 200 messages arguing about version control software. This is the story of that last one.</description>
+      <category>git</category>
+      <category>vscode</category>
+      <category>linux</category>
+      <guid>https://thanosapollo.org/posts/bzr-saga/</guid>
+      <pubDate>Wed, 13 May 2026 00:03:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>I’m Making Strandfall, a Solarpunk Orienteering Larp</title>
+      <link>https://mssv.net/2026/04/29/im-making-strandfall-a-solarpunk-orienteering-larp/</link>
+      <description>Blending the real and digital worlds, once more.</description>
+      <category>gaming</category>
+      <guid>https://mssv.net/2026/04/29/im-making-strandfall-a-solarpunk-orienteering-larp/</guid>
+      <pubDate>Wed, 13 May 2026 00:03:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I Stumbled into the Perfect API Architecture</title>
+      <link>https://www.primatology.xyz/blog/how-i-stumbled-into-the-perfect-api-architecture</link>
+      <description>I set out to build a fuel price API for the UK and convinced myself I'd need PostGIS, tile servers, and a small fleet of infrastructure to make it work. The actual answer was a script, a file, and a CDN. I just took the long way round to find it.</description>
+      <category>cloud</category>
+      <category>javascript</category>
+      <category>sql</category>
+      <guid>https://www.primatology.xyz/blog/how-i-stumbled-into-the-perfect-api-architecture</guid>
+      <pubDate>Wed, 13 May 2026 00:03:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>charles leifer | Redis and the Cost of Ambition</title>
+      <link>https://charlesleifer.com/blog/redis-and-the-cost-of-ambition/</link>
+      <description>May 12, 2026 11:28
+      /
+      
+        redis
+      
+        thoughts
+      
+      /
+      1 comments</description>
+      <category>sql</category>
+      <category>ruby</category>
+      <category>javascript</category>
+      <category>ai</category>
+      <category>cloud</category>
+      <guid>https://charlesleifer.com/blog/redis-and-the-cost-of-ambition/</guid>
+      <pubDate>Wed, 13 May 2026 00:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why This Is Not a Newsletter – Writings and rehearsals by Nathan Schneider</title>
+      <link>https://nathanschneider.info/2026/05/why-this-is-not-a-newsletter/</link>
+      <description>This summer I intend to engage in a regular blogging practice—a sort of retro endeavor in 2026, I suppose, but it has arisen for me as a necessary one. It is not about any topic in particular. It is, rather, an exercise in offering a series of interventions that have been stewing in me for a while, as well as those that surface through the practice.</description>
+      <guid>https://nathanschneider.info/2026/05/why-this-is-not-a-newsletter/</guid>
+      <pubDate>Wed, 13 May 2026 00:02:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Who Builds Your Judgment?</title>
+      <link>https://dekodiert.de/en/articles/wer-baut-eure-urteilskraft</link>
+      <description>Many companies introduce AI as a productivity lever. In the process, they often automate exactly the layers of work on which later quality and judgment used to grow.</description>
+      <author> (Sven Döring)</author>
+      <category>ai</category>
+      <guid>https://dekodiert.de/en/articles/wer-baut-eure-urteilskraft</guid>
+      <pubDate>Wed, 13 May 2026 00:02:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Marco Polo</title>
+      <link>https://www.jackhogan.me/blog/marco-polo</link>
+      <description>Finding a friend with only distance and motion.</description>
+      <guid>https://www.jackhogan.me/blog/marco-polo</guid>
+      <pubDate>Wed, 13 May 2026 00:02:45 GMT</pubDate>
+    </item>
+    <item>
       <title>The future of Obsidian plugins</title>
       <link>https://obsidian.md/blog/future-of-plugins/</link>
       <description>Introducing the new Obsidian Community site and developer dashboard.</description>
