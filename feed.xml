@@ -394,26 +394,5 @@ does exactly what he needs it to and no more.”</description>
       <guid>https://www.seangoedecke.com/interaction-models/</guid>
       <pubDate>Tue, 12 May 2026 02:02:14 GMT</pubDate>
     </item>
-    <item>
-      <title>GitLab Act 2</title>
-      <link>https://about.gitlab.com/blog/gitlab-act-2/</link>
-      <description>A letter to our customers and our investors.</description>
-      <category>ai</category>
-      <category>git</category>
-      <guid>https://about.gitlab.com/blog/gitlab-act-2/</guid>
-      <pubDate>Tue, 12 May 2026 01:02:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Postmortem: TanStack npm supply-chain compromise | TanStack Blog</title>
-      <link>https://tanstack.com/blog/npm-supply-chain-compromise-postmortem</link>
-      <description>On 2026-05-11, an attacker chained a pull_request_target Pwn Request, GitHub Actions cache poisoning across the fork↔base trust boundary, and OIDC token extraction from runner memory to publish 84 malicious versions across 42 @tanstack/* packages on npm. Full postmortem.</description>
-      <category>nodejs</category>
-      <category>ai</category>
-      <category>javascript</category>
-      <category>containers</category>
-      <category>git</category>
-      <guid>https://tanstack.com/blog/npm-supply-chain-compromise-postmortem</guid>
-      <pubDate>Tue, 12 May 2026 01:02:22 GMT</pubDate>
-    </item>
   </channel>
 </rss>
