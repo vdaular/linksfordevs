@@ -1,5 +1,13 @@
 [
   {
+    "Title": "AI datacenters in space do not have a cooling problem",
+    "Url": "https://www.seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/",
+    "Timestamp": "2026-05-13T08:02:20",
+    "Domain": "www.seangoedecke.com",
+    "Description": "This year Elon Musk has started banging the drum about building AI datacenters in space. As the only person who owns a successful space company and a (moderately) successful AI company, this is a sensible way to boost his profile and net worth. Is it a sensible way to build datacenters?",
+    "Confidence": 0.96427363
+  },
+  {
     "Title": "Quack: The DuckDB Client-Server Protocol",
     "Url": "https://duckdb.org/2026/05/12/quack-remote-protocol",
     "Timestamp": "2026-05-13T07:02:00",
