@@ -7,6 +7,19 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>5 Years and $5M Later: Inventing a New Programming Language for Web Development Was a Mistake | Wasp</title>
+      <link>https://wasp.sh/blog/2026/05/13/new-language-for-web-dev-was-a-mistake</link>
+      <description>After 5 years and $5M building Wasp, we're replacing our custom config language with TypeScript. Here's why we thought a new language was a good idea, what we learned, and why TypeScript won.</description>
+      <author> (https://github.com/matijasos)</author>
+      <category>nodejs</category>
+      <category>typescript</category>
+      <category>cloud</category>
+      <category>rust</category>
+      <category>ai</category>
+      <guid>https://wasp.sh/blog/2026/05/13/new-language-for-web-dev-was-a-mistake</guid>
+      <pubDate>Wed, 13 May 2026 20:02:32 GMT</pubDate>
+    </item>
+    <item>
       <title>Results Age</title>
       <link>https://xkcd.com/3245/</link>
       <description></description>

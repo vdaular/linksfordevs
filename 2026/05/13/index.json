@@ -1,5 +1,12 @@
 [
   {
+    "Title": "5 Years and $5M Later: Inventing a New Programming Language for Web Development Was a Mistake | Wasp",
+    "Url": "https://wasp.sh/blog/2026/05/13/new-language-for-web-dev-was-a-mistake",
+    "Timestamp": "2026-05-13T20:02:32",
+    "Domain": "wasp.sh",
+    "Description": "After 5 years and $5M building Wasp, we're replacing our custom config language with TypeScript. Here's why we thought a new language was a good idea, what we learned, and why TypeScript won."
+  },
+  {
     "Title": "Results Age",
     "Url": "https://xkcd.com/3245/",
     "Timestamp": "2026-05-13T19:02:17",
