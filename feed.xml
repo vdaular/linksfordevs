@@ -402,15 +402,5 @@ For those unfamiliar, emacs-devel is the primary development discussion list for
       <guid>https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/</guid>
       <pubDate>Tue, 12 May 2026 18:02:11 GMT</pubDate>
     </item>
-    <item>
-      <title>Bambu Lab is abusing the open source social contract</title>
-      <link>https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/</link>
-      <description>Last year I said I'd probably never recommend another Bambu Lab printer again.
-I still use my P1S, but after Bambu Lab started pushing their always-connected cloud solution as the new default:
-I blocked the printer from the Internet via my OPNsense Firewall I stopped updating the firmware I locked the printer into Developer mode I deleted Bambu Studio and started using OrcaSlicer I had to do that to keep it under my control, instead of Bambu's.</description>
-      <category>linux</category>
-      <guid>https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/</guid>
-      <pubDate>Tue, 12 May 2026 15:02:25 GMT</pubDate>
-    </item>
   </channel>
 </rss>
