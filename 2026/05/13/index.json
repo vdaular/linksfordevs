@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Why I'm leaving GitHub for Forgejo | Jorijn Schrijvershof",
+    "Url": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
+    "Timestamp": "2026-05-13T16:02:24",
+    "Domain": "jorijn.com",
+    "Description": "I left GitHub for self-hosted Forgejo on a hardened NUC. The reason is digital sovereignty, not reliability outages. Here's the thinking and the architecture."
+  },
+  {
     "Title": "Best Practices in .NET I Don't Like Anymore",
     "Url": "https://youtube.com/watch?v=ULx9bEEknd4",
     "Timestamp": "2026-05-13T13:02:16",
