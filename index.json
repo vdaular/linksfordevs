@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Setting up a free *.city.state.us locality domain",
+    "Url": "https://fredchan.org/blog/locality-domains-guide/",
+    "Timestamp": "2026-05-13T18:02:25",
+    "Domain": "fredchan.org",
+    "Description": "In the US, you can get a domain name like `somename.city.state.us` for free. If your town has its own domain, you can get nameservers from Amazon Lightsail, send the *Interim .US Domain Template* to the delegated manager for your locality, then point DNS entries at your webhost.",
+    "Confidence": 0.9822211
+  },
+  {
     "Title": "Why I'm leaving GitHub for Forgejo | Jorijn Schrijvershof",
     "Url": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
     "Timestamp": "2026-05-13T16:02:24",
@@ -318,13 +326,5 @@
     "Domain": "googlebook.google",
     "Description": "Meet Googlebook: A new kind of laptop designed for Gemini Intelligence. Built with heavyweight power and perfectly in sync with your Android Phone. Sign up for updates and stay in the know.",
     "Confidence": 0.93881315
-  },
-  {
-    "Title": "On Rendering the Sky, Sunsets, and Planets - The Blog of Maxime Heckel",
-    "Url": "https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/",
-    "Timestamp": "2026-05-12T18:02:11",
-    "Domain": "blog.maximeheckel.com",
-    "Description": "This article explores how to render realistic skies and atmospheres in real time in the browser with shaders, from simple sky domes, to entire planets using shaders, raymarching, Rayleigh and Mie scattering, and ozone absorption.",
-    "Confidence": 0.9946784
   }
 ]

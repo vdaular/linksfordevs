@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Setting up a free *.city.state.us locality domain</title>
+      <link>https://fredchan.org/blog/locality-domains-guide/</link>
+      <description>In the US, you can get a domain name like `somename.city.state.us` for free. If your town has its own domain, you can get nameservers from Amazon Lightsail, send the *Interim .US Domain Template* to the delegated manager for your locality, then point DNS entries at your webhost.</description>
+      <category>cloud</category>
+      <guid>https://fredchan.org/blog/locality-domains-guide/</guid>
+      <pubDate>Wed, 13 May 2026 18:02:25 GMT</pubDate>
+    </item>
+    <item>
       <title>Why I'm leaving GitHub for Forgejo | Jorijn Schrijvershof</title>
       <link>https://jorijn.com/en/blog/leaving-github-for-forgejo/</link>
       <description>I left GitHub for self-hosted Forgejo on a hardened NUC. The reason is digital sovereignty, not reliability outages. Here's the thinking and the architecture.</description>
@@ -404,15 +412,6 @@ For those unfamiliar, emacs-devel is the primary development discussion list for
       <description>Meet Googlebook: A new kind of laptop designed for Gemini Intelligence. Built with heavyweight power and perfectly in sync with your Android Phone. Sign up for updates and stay in the know.</description>
       <guid>https://googlebook.google/</guid>
       <pubDate>Tue, 12 May 2026 21:02:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>On Rendering the Sky, Sunsets, and Planets - The Blog of Maxime Heckel</title>
-      <link>https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/</link>
-      <description>This article explores how to render realistic skies and atmospheres in real time in the browser with shaders, from simple sky domes, to entire planets using shaders, raymarching, Rayleigh and Mie scattering, and ozone absorption.</description>
-      <category>conference</category>
-      <category>javascript</category>
-      <guid>https://blog.maximeheckel.com/posts/on-rendering-the-sky-sunsets-and-planets/</guid>
-      <pubDate>Tue, 12 May 2026 18:02:11 GMT</pubDate>
     </item>
   </channel>
 </rss>

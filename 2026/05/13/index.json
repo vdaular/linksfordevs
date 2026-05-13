@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Setting up a free *.city.state.us locality domain",
+    "Url": "https://fredchan.org/blog/locality-domains-guide/",
+    "Timestamp": "2026-05-13T18:02:25",
+    "Domain": "fredchan.org",
+    "Description": "In the US, you can get a domain name like `somename.city.state.us` for free. If your town has its own domain, you can get nameservers from Amazon Lightsail, send the *Interim .US Domain Template* to the delegated manager for your locality, then point DNS entries at your webhost."
+  },
+  {
     "Title": "Why I'm leaving GitHub for Forgejo | Jorijn Schrijvershof",
     "Url": "https://jorijn.com/en/blog/leaving-github-for-forgejo/",
     "Timestamp": "2026-05-13T16:02:24",
