@@ -1,5 +1,13 @@
 [
   {
+    "Title": "SpaceX",
+    "Url": "https://www.spacex.com/updates#starship-v3",
+    "Timestamp": "2026-05-13T12:02:25",
+    "Domain": "www.spacex.com",
+    "Description": "SpaceX designs, manufactures and launches advanced rockets and spacecraft.",
+    "Confidence": 0.96850073
+  },
+  {
     "Title": "AI datacenters in space do not have a cooling problem",
     "Url": "https://www.seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/",
     "Timestamp": "2026-05-13T08:02:20",
@@ -318,13 +326,5 @@
     "Domain": "matklad.github.io",
     "Description": "In reply to an email asking about learning software design skills as a researcher physicist:",
     "Confidence": 0.9654484
-  },
-  {
-    "Title": "Retrotechnology Media - Typewritten Software",
-    "Url": "http://www.typewritten.org/Media/",
-    "Timestamp": "2026-05-12T12:02:17",
-    "Domain": "www.typewritten.org",
-    "Description": "",
-    "Confidence": 0.9760607
   }
 ]

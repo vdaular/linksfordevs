@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>SpaceX</title>
+      <link>https://www.spacex.com/updates#starship-v3</link>
+      <description>SpaceX designs, manufactures and launches advanced rockets and spacecraft.</description>
+      <category>cloud</category>
+      <category>android</category>
+      <category>git</category>
+      <guid>https://www.spacex.com/updates#starship-v3</guid>
+      <pubDate>Wed, 13 May 2026 12:02:25 GMT</pubDate>
+    </item>
+    <item>
       <title>AI datacenters in space do not have a cooling problem</title>
       <link>https://www.seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/</link>
       <description>This year Elon Musk has started banging the drum about building AI datacenters in space. As the only person who owns a successful space company and a (moderately) successful AI company, this is a sensible way to boost his profile and net worth. Is it a sensible way to build datacenters?</description>
@@ -388,17 +398,6 @@ I blocked the printer from the Internet via my OPNsense Firewall I stopped updat
       <category>linux</category>
       <guid>https://matklad.github.io/2026/05/12/software-architecture.html</guid>
       <pubDate>Tue, 12 May 2026 14:02:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Retrotechnology Media - Typewritten Software</title>
-      <link>http://www.typewritten.org/Media/</link>
-      <description></description>
-      <category>apple</category>
-      <category>git</category>
-      <category>gaming</category>
-      <category>linux</category>
-      <guid>http://www.typewritten.org/Media/</guid>
-      <pubDate>Tue, 12 May 2026 12:02:17 GMT</pubDate>
     </item>
   </channel>
 </rss>
