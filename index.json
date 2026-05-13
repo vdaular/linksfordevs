@@ -342,21 +342,5 @@
     "Domain": "safedep.io",
     "Description": "Over 400 compromised npm package versions and at least 2 PyPI packages published in a coordinated supply chain attack targeting TanStack, Mistral AI, UiPath, OpenSearch, guardrails-ai, and dozens of other packages.",
     "Confidence": 0.99414414
-  },
-  {
-    "Title": "Replacing a 3 GB SQLite database with a 10 MB FST (finite state transducer) binary",
-    "Url": "https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/",
-    "Timestamp": "2026-05-12T09:02:16",
-    "Domain": "til.andrew-quinn.me",
-    "Description": "Note for\nnumberphiles:\nall numbers have been rounded to their first significant\ndigit, because I’m a fan of Rob Eastaway’s\n“zequals” method\nof getting to the point when it comes to estimation. It’s much\nmore valuable to walk away with the heuristic “some dude got\na 300x memory reduction by swapping out a database he hacked\ntogether for a tiny, static, specialized data structure that\ndoes exactly what he needs it to and no more.”",
-    "Confidence": 0.9199115
-  },
-  {
-    "Title": "Pullback Drive",
-    "Url": "https://xkcd.com/3244/",
-    "Timestamp": "2026-05-12T09:02:13",
-    "Domain": "xkcd.com",
-    "Description": "",
-    "Confidence": 0.98151064
   }
 ]

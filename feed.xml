@@ -423,31 +423,5 @@ I blocked the printer from the Internet via my OPNsense Firewall I stopped updat
       <guid>https://safedep.io/mass-npm-supply-chain-attack-tanstack-mistral/</guid>
       <pubDate>Tue, 12 May 2026 11:02:14 GMT</pubDate>
     </item>
-    <item>
-      <title>Replacing a 3 GB SQLite database with a 10 MB FST (finite state transducer) binary</title>
-      <link>https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/</link>
-      <description>Note for
-numberphiles:
-all numbers have been rounded to their first significant
-digit, because I’m a fan of Rob Eastaway’s
-“zequals” method
-of getting to the point when it comes to estimation. It’s much
-more valuable to walk away with the heuristic “some dude got
-a 300x memory reduction by swapping out a database he hacked
-together for a tiny, static, specialized data structure that
-does exactly what he needs it to and no more.”</description>
-      <category>sql</category>
-      <category>rust</category>
-      <guid>https://til.andrew-quinn.me/posts/replacing-a-3-gb-sqlite-database-with-a-7-mb-fst-finite-state-trandsucer-binary/</guid>
-      <pubDate>Tue, 12 May 2026 09:02:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pullback Drive</title>
-      <link>https://xkcd.com/3244/</link>
-      <description></description>
-      <category>javascript</category>
-      <guid>https://xkcd.com/3244/</guid>
-      <pubDate>Tue, 12 May 2026 09:02:13 GMT</pubDate>
-    </item>
   </channel>
 </rss>
