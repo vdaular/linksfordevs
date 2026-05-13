@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Software Engineers are Obsolete</title>
+      <link>https://idiallo.com/blog/everyone-is-better-than-you?src=feed</link>
+      <description>In my first interview for a developer position, I shared a link to my personal project with the interviewer. It was a website for learning how to program. I created it from the ground up. I built the </description>
+      <category>ruby</category>
+      <category>cloud</category>
+      <category>ai</category>
+      <category>javascript</category>
+      <category>sql</category>
+      <guid>https://idiallo.com/blog/everyone-is-better-than-you?src=feed</guid>
+      <pubDate>Wed, 13 May 2026 23:02:12 GMT</pubDate>
+    </item>
+    <item>
       <title>5 Years and $5M Later: Inventing a New Programming Language for Web Development Was a Mistake | Wasp</title>
       <link>https://wasp.sh/blog/2026/05/13/new-language-for-web-dev-was-a-mistake</link>
       <description>After 5 years and $5M building Wasp, we're replacing our custom config language with TypeScript. Here's why we thought a new language was a good idea, what we learned, and why TypeScript won.</description>
@@ -371,8 +383,8 @@ For those unfamiliar, emacs-devel is the primary development discussion list for
       /
       1 comments</description>
       <category>sql</category>
-      <category>ruby</category>
       <category>javascript</category>
+      <category>ruby</category>
       <category>ai</category>
       <category>cloud</category>
       <guid>https://charlesleifer.com/blog/redis-and-the-cost-of-ambition/</guid>
@@ -400,14 +412,6 @@ For those unfamiliar, emacs-devel is the primary development discussion list for
       <description>Finding a friend with only distance and motion.</description>
       <guid>https://www.jackhogan.me/blog/marco-polo</guid>
       <pubDate>Wed, 13 May 2026 00:02:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>The future of Obsidian plugins</title>
-      <link>https://obsidian.md/blog/future-of-plugins/</link>
-      <description>Introducing the new Obsidian Community site and developer dashboard.</description>
-      <category>git</category>
-      <guid>https://obsidian.md/blog/future-of-plugins/</guid>
-      <pubDate>Tue, 12 May 2026 23:02:12 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Software Engineers are Obsolete",
+    "Url": "https://idiallo.com/blog/everyone-is-better-than-you?src=feed",
+    "Timestamp": "2026-05-13T23:02:12",
+    "Domain": "idiallo.com",
+    "Description": "In my first interview for a developer position, I shared a link to my personal project with the interviewer. It was a website for learning how to program. I created it from the ground up. I built the ",
+    "Confidence": 0.9731348
+  },
+  {
     "Title": "5 Years and $5M Later: Inventing a New Programming Language for Web Development Was a Mistake | Wasp",
     "Url": "https://wasp.sh/blog/2026/05/13/new-language-for-web-dev-was-a-mistake",
     "Timestamp": "2026-05-13T20:02:32",
@@ -310,13 +318,5 @@
     "Domain": "www.jackhogan.me",
     "Description": "Finding a friend with only distance and motion.",
     "Confidence": 0.98532087
-  },
-  {
-    "Title": "The future of Obsidian plugins",
-    "Url": "https://obsidian.md/blog/future-of-plugins/",
-    "Timestamp": "2026-05-12T23:02:12",
-    "Domain": "obsidian.md",
-    "Description": "Introducing the new Obsidian Community site and developer dashboard.",
-    "Confidence": 0.9922343
   }
 ]
