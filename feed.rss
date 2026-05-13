@@ -412,15 +412,5 @@ I blocked the printer from the Internet via my OPNsense Firewall I stopped updat
       <guid>https://www.jeffgeerling.com/blog/2026/bambu-lab-abusing-open-source-social-contract/</guid>
       <pubDate>Tue, 12 May 2026 15:02:25 GMT</pubDate>
     </item>
-    <item>
-      <title>Learning Software Architecture</title>
-      <link>https://matklad.github.io/2026/05/12/software-architecture.html</link>
-      <description>In reply to an email asking about learning software design skills as a researcher physicist:</description>
-      <category>rust</category>
-      <category>ai</category>
-      <category>linux</category>
-      <guid>https://matklad.github.io/2026/05/12/software-architecture.html</guid>
-      <pubDate>Tue, 12 May 2026 14:02:18 GMT</pubDate>
-    </item>
   </channel>
 </rss>

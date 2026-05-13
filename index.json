@@ -326,13 +326,5 @@
     "Domain": "www.jeffgeerling.com",
     "Description": "Last year I said I'd probably never recommend another Bambu Lab printer again.\nI still use my P1S, but after Bambu Lab started pushing their always-connected cloud solution as the new default:\nI blocked the printer from the Internet via my OPNsense Firewall I stopped updating the firmware I locked the printer into Developer mode I deleted Bambu Studio and started using OrcaSlicer I had to do that to keep it under my control, instead of Bambu's.",
     "Confidence": 0.973771
-  },
-  {
-    "Title": "Learning Software Architecture",
-    "Url": "https://matklad.github.io/2026/05/12/software-architecture.html",
-    "Timestamp": "2026-05-12T14:02:18",
-    "Domain": "matklad.github.io",
-    "Description": "In reply to an email asking about learning software design skills as a researcher physicist:",
-    "Confidence": 0.9654484
   }
 ]
