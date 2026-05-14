@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Introducing Claude for Small Business</title>
+      <link>https://www.anthropic.com/news/claude-for-small-business</link>
+      <description>We're launching Claude for Small Business, a package of connectors and ready-to-run workflows that put Claude inside the tools small businesses use every day.</description>
+      <category>ai</category>
+      <guid>https://www.anthropic.com/news/claude-for-small-business</guid>
+      <pubDate>Thu, 14 May 2026 11:02:12 GMT</pubDate>
+    </item>
+    <item>
       <title>Scorched Earth 2000 HTML Port</title>
       <link>http://www.scorch2000.com/web/</link>
       <description>Debug Console</description>
