@@ -7,6 +7,162 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Req Is All You Need</title>
+      <link>https://benreinhart.com/blog/req-is-all-you-need/</link>
+      <description>Req and ServerSentEvents cover all your Elixir AI needs.</description>
+      <category>javascript</category>
+      <category>ai</category>
+      <guid>https://benreinhart.com/blog/req-is-all-you-need/</guid>
+      <pubDate>Thu, 14 May 2026 23:03:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>How Poor Sleep Drove Me Insane, and My Long Path to Recovery</title>
+      <link>https://writing.samsonhu.com/how-poor-sleep-drove-me-insane-and-my-long-path-to-recovery/</link>
+      <description>I'm sharing my experience dealing with what might be the most underdiagnosed and under-treated health disorder today.</description>
+      <guid>https://writing.samsonhu.com/how-poor-sleep-drove-me-insane-and-my-long-path-to-recovery/</guid>
+      <pubDate>Thu, 14 May 2026 23:03:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>minimal structures</title>
+      <link>https://chefcinnamon.github.io/memo/posts/minimal-structures/</link>
+      <description>I build organic minimal structures.</description>
+      <category>containers</category>
+      <guid>https://chefcinnamon.github.io/memo/posts/minimal-structures/</guid>
+      <pubDate>Thu, 14 May 2026 23:03:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Four tech waves. Six companies. Here’s what I’m building next.</title>
+      <link>https://www.tamccann.com/four-tech-waves-six-companies-heres-what-im-building-next/</link>
+      <description>I’ve been lucky. Lucky to be building during four major technology shifts: the internet, SaaS/web services, mobile/social, and now AI, and to have learned something useful from each one. Not by being the smartest person in the room, but by being around others building at the same</description>
+      <category>ai</category>
+      <guid>https://www.tamccann.com/four-tech-waves-six-companies-heres-what-im-building-next/</guid>
+      <pubDate>Thu, 14 May 2026 23:03:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Working Hard | Joy of Reading</title>
+      <link>https://joy.ente.com/working-hard/</link>
+      <description>Before podcasts were a thing, Bill Simmons would trade e-mails with somebody successful for his piece on ESPN called "The Curious Guy". I ran into this excha...</description>
+      <category>gaming</category>
+      <guid>https://joy.ente.com/working-hard/</guid>
+      <pubDate>Thu, 14 May 2026 23:03:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>I owe my career to open-source communities. I'm not sure newcomers can say the same.</title>
+      <link>https://dhruvahuja.me/posts/ai-impact-on-oss/</link>
+      <description>Open-source communities shaped my career in ways no tutorial ever could. Now, as AI floods those same spaces with noise, I worry about the people arriving just a few years too late.</description>
+      <category>rust</category>
+      <category>ai</category>
+      <category>python</category>
+      <category>javascript</category>
+      <guid>https://dhruvahuja.me/posts/ai-impact-on-oss/</guid>
+      <pubDate>Thu, 14 May 2026 23:03:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Agents Can Reason. They Still Can't Really Search.</title>
+      <link>https://dipkumar.dev/posts/agents/agent-search-problem/</link>
+      <description>Agents have a search problem across the whole stack: web search, RAG, tool discovery, skills/workflow loading, and even context compaction.</description>
+      <author> (Dipkumar Patel)</author>
+      <category>cloud</category>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://dipkumar.dev/posts/agents/agent-search-problem/</guid>
+      <pubDate>Thu, 14 May 2026 23:03:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>May I recommend&amp;#x2026; understanding Emacs's patterns</title>
+      <link>https://www.chiply.dev/post-emacs-carnival-may</link>
+      <description>The above, unless I've completely forgotten my Shakespeare, was a soliloquy from Juliet Consulet regarding Romeo Montagnu</description>
+      <author> (Charlie Holland)</author>
+      <category>git</category>
+      <guid>https://www.chiply.dev/post-emacs-carnival-may</guid>
+      <pubDate>Thu, 14 May 2026 23:03:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>The End of Claude Code Automation</title>
+      <link>https://www.vincentschmalbach.com/the-end-of-claude-code-automation/</link>
+      <description>Starting June 15, Anthropic is moving automated Claude Code usage out of the normal subscription bucket. usage will now count against a separate monthly API-style credit that is much smaller than what…</description>
+      <category>ai</category>
+      <guid>https://www.vincentschmalbach.com/the-end-of-claude-code-automation/</guid>
+      <pubDate>Thu, 14 May 2026 23:03:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stop using user passwords for OpenStack automation</title>
+      <link>https://thobias.org/2026/05/10/openstack_app_credentials.html</link>
+      <description>10 May 2026</description>
+      <category>python</category>
+      <category>javascript</category>
+      <category>web</category>
+      <category>linux</category>
+      <guid>https://thobias.org/2026/05/10/openstack_app_credentials.html</guid>
+      <pubDate>Thu, 14 May 2026 23:03:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Simon Rodriguez</title>
+      <link>https://blog.simonrodriguez.fr/articles/2026/05/a_frame_analysis_of_dishonored_2.html</link>
+      <description>Renderistically - Simon Rodriguez</description>
+      <category>cloud</category>
+      <category>gaming</category>
+      <guid>https://blog.simonrodriguez.fr/articles/2026/05/a_frame_analysis_of_dishonored_2.html</guid>
+      <pubDate>Thu, 14 May 2026 23:03:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Noam Hurwitz</title>
+      <link>https://www.nhurwitz.com/writing/known-scaling-options-for-euv-lithography</link>
+      <description>Modern chips are produced in part through lithography: light is projected through a mask onto photosensitive material coating silicon to pattern transistors, contacts, vias, interconnects, and other structures. As Moore’s Law pushes on and chips continue to pack more computational capacity into smaller surface areas, lithography machines need increasingly fine precision.</description>
+      <category>git</category>
+      <guid>https://www.nhurwitz.com/writing/known-scaling-options-for-euv-lithography</guid>
+      <pubDate>Thu, 14 May 2026 23:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Internet is not dead</title>
+      <link>https://blog.woblick.dev/en/2026/the-internet-is-not-dead/</link>
+      <description></description>
+      <category>ai</category>
+      <category>youtube</category>
+      <guid>https://blog.woblick.dev/en/2026/the-internet-is-not-dead/</guid>
+      <pubDate>Thu, 14 May 2026 23:02:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>what's the ideal analogy</title>
+      <link>https://alok.github.io/2026/04/28/whats-the-ideal-analogy/</link>
+      <description>Alok Singh's Blog</description>
+      <guid>https://alok.github.io/2026/04/28/whats-the-ideal-analogy/</guid>
+      <pubDate>Thu, 14 May 2026 23:02:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Naturally Occurring Quasicrystals</title>
+      <link>https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/</link>
+      <description>I love quasicrystals—like crystals, but with patterns that never repeat, like Penrose tiles. But they’ve very rare in nature. They’re created only by the most exotic and violent e…</description>
+      <guid>https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/</guid>
+      <pubDate>Thu, 14 May 2026 23:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Small Model Forensics</title>
+      <link>https://blog.0xmmo.co/forensics/post.html</link>
+      <description>What ~2,000 timed API calls reveal about how closed-weight model providers scale inference, or fail to, in 2026.</description>
+      <category>ai</category>
+      <category>vscode</category>
+      <guid>https://blog.0xmmo.co/forensics/post.html</guid>
+      <pubDate>Thu, 14 May 2026 23:02:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cheap agents, alumni shirts, and Elias Thorne · Daniel May</title>
+      <link>https://danielmay.co.uk/posts/cheap-agents-alumni-shirts-and-elias-thorne/</link>
+      <description>On agent-coded cold outreach, the alumni t-shirt scam, the Elias Thorne convergence, and what gets visible when no one does the work.</description>
+      <category>ai</category>
+      <guid>https://danielmay.co.uk/posts/cheap-agents-alumni-shirts-and-elias-thorne/</guid>
+      <pubDate>Thu, 14 May 2026 23:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Don't Be Discouraged to Code by Hand</title>
+      <link>https://seongminpark.com/coding-by-hand/</link>
+      <description>Am allowed to learn Lua now?</description>
+      <category>ai</category>
+      <category>rust</category>
+      <guid>https://seongminpark.com/coding-by-hand/</guid>
+      <pubDate>Thu, 14 May 2026 23:02:21 GMT</pubDate>
+    </item>
+    <item>
       <title>God Damn AI is making me dumb</title>
       <link>https://jpain.io/god-damn-ai-is-making-me-dumb/</link>
       <description>It's so god damn tempting to use AI to write. Whether it is articles, code, or documents. I feel like using AI is diminishing my ability to write myself.
@@ -274,18 +430,6 @@ Everyone Did Their Part. Nobody Saw the Whole. You’ve been here. The prompt th
       <category>nodejs</category>
       <guid>https://philipotoole.com/taking-control-of-the-sqlite-wal/</guid>
       <pubDate>Thu, 14 May 2026 00:02:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Software Engineers are Obsolete</title>
-      <link>https://idiallo.com/blog/everyone-is-better-than-you?src=feed</link>
-      <description>In my first interview for a developer position, I shared a link to my personal project with the interviewer. It was a website for learning how to program. I created it from the ground up. I built the </description>
-      <category>ruby</category>
-      <category>cloud</category>
-      <category>ai</category>
-      <category>javascript</category>
-      <category>sql</category>
-      <guid>https://idiallo.com/blog/everyone-is-better-than-you?src=feed</guid>
-      <pubDate>Wed, 13 May 2026 23:02:12 GMT</pubDate>
     </item>
   </channel>
 </rss>

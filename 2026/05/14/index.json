@@ -1,5 +1,131 @@
 [
   {
+    "Title": "Req Is All You Need",
+    "Url": "https://benreinhart.com/blog/req-is-all-you-need/",
+    "Timestamp": "2026-05-14T23:03:40",
+    "Domain": "benreinhart.com",
+    "Description": "Req and ServerSentEvents cover all your Elixir AI needs."
+  },
+  {
+    "Title": "How Poor Sleep Drove Me Insane, and My Long Path to Recovery",
+    "Url": "https://writing.samsonhu.com/how-poor-sleep-drove-me-insane-and-my-long-path-to-recovery/",
+    "Timestamp": "2026-05-14T23:03:36",
+    "Domain": "writing.samsonhu.com",
+    "Description": "I'm sharing my experience dealing with what might be the most underdiagnosed and under-treated health disorder today."
+  },
+  {
+    "Title": "minimal structures",
+    "Url": "https://chefcinnamon.github.io/memo/posts/minimal-structures/",
+    "Timestamp": "2026-05-14T23:03:33",
+    "Domain": "chefcinnamon.github.io",
+    "Description": "I build organic minimal structures."
+  },
+  {
+    "Title": "Four tech waves. Six companies. Here’s what I’m building next.",
+    "Url": "https://www.tamccann.com/four-tech-waves-six-companies-heres-what-im-building-next/",
+    "Timestamp": "2026-05-14T23:03:30",
+    "Domain": "www.tamccann.com",
+    "Description": "I’ve been lucky. Lucky to be building during four major technology shifts: the internet, SaaS/web services, mobile/social, and now AI, and to have learned something useful from each one. Not by being the smartest person in the room, but by being around others building at the same"
+  },
+  {
+    "Title": "Working Hard | Joy of Reading",
+    "Url": "https://joy.ente.com/working-hard/",
+    "Timestamp": "2026-05-14T23:03:26",
+    "Domain": "joy.ente.com",
+    "Description": "Before podcasts were a thing, Bill Simmons would trade e-mails with somebody successful for his piece on ESPN called \"The Curious Guy\". I ran into this excha..."
+  },
+  {
+    "Title": "I owe my career to open-source communities. I'm not sure newcomers can say the same.",
+    "Url": "https://dhruvahuja.me/posts/ai-impact-on-oss/",
+    "Timestamp": "2026-05-14T23:03:23",
+    "Domain": "dhruvahuja.me",
+    "Description": "Open-source communities shaped my career in ways no tutorial ever could. Now, as AI floods those same spaces with noise, I worry about the people arriving just a few years too late."
+  },
+  {
+    "Title": "Agents Can Reason. They Still Can't Really Search.",
+    "Url": "https://dipkumar.dev/posts/agents/agent-search-problem/",
+    "Timestamp": "2026-05-14T23:03:19",
+    "Domain": "dipkumar.dev",
+    "Description": "Agents have a search problem across the whole stack: web search, RAG, tool discovery, skills/workflow loading, and even context compaction."
+  },
+  {
+    "Title": "May I recommend&#x2026; understanding Emacs's patterns",
+    "Url": "https://www.chiply.dev/post-emacs-carnival-may",
+    "Timestamp": "2026-05-14T23:03:16",
+    "Domain": "www.chiply.dev",
+    "Description": "The above, unless I've completely forgotten my Shakespeare, was a soliloquy from Juliet Consulet regarding Romeo Montagnu"
+  },
+  {
+    "Title": "The End of Claude Code Automation",
+    "Url": "https://www.vincentschmalbach.com/the-end-of-claude-code-automation/",
+    "Timestamp": "2026-05-14T23:03:11",
+    "Domain": "www.vincentschmalbach.com",
+    "Description": "Starting June 15, Anthropic is moving automated Claude Code usage out of the normal subscription bucket. usage will now count against a separate monthly API-style credit that is much smaller than what…"
+  },
+  {
+    "Title": "Stop using user passwords for OpenStack automation",
+    "Url": "https://thobias.org/2026/05/10/openstack_app_credentials.html",
+    "Timestamp": "2026-05-14T23:03:06",
+    "Domain": "thobias.org",
+    "Description": "10 May 2026"
+  },
+  {
+    "Title": "Simon Rodriguez",
+    "Url": "https://blog.simonrodriguez.fr/articles/2026/05/a_frame_analysis_of_dishonored_2.html",
+    "Timestamp": "2026-05-14T23:03:03",
+    "Domain": "blog.simonrodriguez.fr",
+    "Description": "Renderistically - Simon Rodriguez"
+  },
+  {
+    "Title": "Noam Hurwitz",
+    "Url": "https://www.nhurwitz.com/writing/known-scaling-options-for-euv-lithography",
+    "Timestamp": "2026-05-14T23:02:46",
+    "Domain": "www.nhurwitz.com",
+    "Description": "Modern chips are produced in part through lithography: light is projected through a mask onto photosensitive material coating silicon to pattern transistors, contacts, vias, interconnects, and other structures. As Moore’s Law pushes on and chips continue to pack more computational capacity into smaller surface areas, lithography machines need increasingly fine precision."
+  },
+  {
+    "Title": "The Internet is not dead",
+    "Url": "https://blog.woblick.dev/en/2026/the-internet-is-not-dead/",
+    "Timestamp": "2026-05-14T23:02:43",
+    "Domain": "blog.woblick.dev",
+    "Description": ""
+  },
+  {
+    "Title": "what's the ideal analogy",
+    "Url": "https://alok.github.io/2026/04/28/whats-the-ideal-analogy/",
+    "Timestamp": "2026-05-14T23:02:37",
+    "Domain": "alok.github.io",
+    "Description": "Alok Singh's Blog"
+  },
+  {
+    "Title": "Naturally Occurring Quasicrystals",
+    "Url": "https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/",
+    "Timestamp": "2026-05-14T23:02:34",
+    "Domain": "johncarlosbaez.wordpress.com",
+    "Description": "I love quasicrystals—like crystals, but with patterns that never repeat, like Penrose tiles. But they’ve very rare in nature. They’re created only by the most exotic and violent e…"
+  },
+  {
+    "Title": "Small Model Forensics",
+    "Url": "https://blog.0xmmo.co/forensics/post.html",
+    "Timestamp": "2026-05-14T23:02:30",
+    "Domain": "blog.0xmmo.co",
+    "Description": "What ~2,000 timed API calls reveal about how closed-weight model providers scale inference, or fail to, in 2026."
+  },
+  {
+    "Title": "Cheap agents, alumni shirts, and Elias Thorne · Daniel May",
+    "Url": "https://danielmay.co.uk/posts/cheap-agents-alumni-shirts-and-elias-thorne/",
+    "Timestamp": "2026-05-14T23:02:27",
+    "Domain": "danielmay.co.uk",
+    "Description": "On agent-coded cold outreach, the alumni t-shirt scam, the Elias Thorne convergence, and what gets visible when no one does the work."
+  },
+  {
+    "Title": "Don't Be Discouraged to Code by Hand",
+    "Url": "https://seongminpark.com/coding-by-hand/",
+    "Timestamp": "2026-05-14T23:02:21",
+    "Domain": "seongminpark.com",
+    "Description": "Am allowed to learn Lua now?"
+  },
+  {
     "Title": "God Damn AI is making me dumb",
     "Url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
     "Timestamp": "2026-05-14T21:02:11",
