@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Rewrite Bun in Rust by Jarred-Sumner · Pull Request #30412 · oven-sh/bun</title>
+      <link>https://github.com/oven-sh/bun/pull/30412</link>
+      <description>Blog post with details coming soon.
+It passes Bun&amp;#39;s pre-existing test suite on all platforms (and fixes several memory leaks and flaky tests), the binary size shrinks by 3 MB - 8 MB, the benchm...</description>
+      <category>rust</category>
+      <guid>https://github.com/oven-sh/bun/pull/30412</guid>
+      <pubDate>Thu, 14 May 2026 16:02:31 GMT</pubDate>
+    </item>
+    <item>
       <title>Introducing Claude for Small Business</title>
       <link>https://www.anthropic.com/news/claude-for-small-business</link>
       <description>We're launching Claude for Small Business, a package of connectors and ready-to-run workflows that put Claude inside the tools small businesses use every day.</description>
@@ -267,18 +276,6 @@ Everyone Did Their Part. Nobody Saw the Whole. You’ve been here. The prompt th
       <category>cloud</category>
       <guid>https://fredchan.org/blog/locality-domains-guide/</guid>
       <pubDate>Wed, 13 May 2026 18:02:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why I'm leaving GitHub for Forgejo | Jorijn Schrijvershof</title>
-      <link>https://jorijn.com/en/blog/leaving-github-for-forgejo/</link>
-      <description>I left GitHub for self-hosted Forgejo on a hardened NUC. The reason is digital sovereignty, not reliability outages. Here's the thinking and the architecture.</description>
-      <category>nodejs</category>
-      <category>ai</category>
-      <category>containers</category>
-      <category>linux</category>
-      <category>vscode</category>
-      <guid>https://jorijn.com/en/blog/leaving-github-for-forgejo/</guid>
-      <pubDate>Wed, 13 May 2026 16:02:24 GMT</pubDate>
     </item>
   </channel>
 </rss>
