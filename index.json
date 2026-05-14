@@ -270,13 +270,5 @@
     "Domain": "github.com",
     "Description": "Contribute to FULU-Foundation/OrcaSlicer-bambulab development by creating an account on GitHub.",
     "Confidence": 0.9922884
-  },
-  {
-    "Title": "[Dnsmasq-discuss] Security - IMPORTANT",
-    "Url": "https://lists.thekelleys.org.uk/pipermail/dnsmasq-discuss/2026q2/018471.html",
-    "Timestamp": "2026-05-13T04:02:18",
-    "Domain": "lists.thekelleys.org.uk",
-    "Description": null,
-    "Confidence": 0.94101363
   }
 ]
