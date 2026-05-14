@@ -222,13 +222,5 @@
     "Domain": "wasp.sh",
     "Description": "After 5 years and $5M building Wasp, we're replacing our custom config language with TypeScript. Here's why we thought a new language was a good idea, what we learned, and why TypeScript won.",
     "Confidence": 0.9822608
-  },
-  {
-    "Title": "Results Age",
-    "Url": "https://xkcd.com/3245/",
-    "Timestamp": "2026-05-13T19:02:17",
-    "Domain": "xkcd.com",
-    "Description": "",
-    "Confidence": 0.98151064
   }
 ]
