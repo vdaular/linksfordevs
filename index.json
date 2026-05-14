@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Bitcoin trader recovers $400,000 using Claude AI after getting 'stoned' and losing wallet password 11 years ago — bot tried 3.5 trillion passwords before decrypting an old wallet backup",
+    "Url": "https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup",
+    "Timestamp": "2026-05-14T20:02:20",
+    "Domain": "www.tomshardware.com",
+    "Description": "The user apparently changed the password while 'stoned.'",
+    "Confidence": 0.53982604
+  },
+  {
+    "Title": "RTX 5090 + M4 MacBook Air: Can it Game?",
+    "Url": "https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/",
+    "Timestamp": "2026-05-14T20:02:06",
+    "Domain": "scottjg.com",
+    "Description": "What if you could strap a full desktop GPU to your MacBook Air? Turns out, you can.",
+    "Confidence": 0.9929519
+  },
+  {
     "Title": "Video transcript: A message from President Kornbluth about funding and the talent pipeline | MIT Office of the President | MIT",
     "Url": "https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline",
     "Timestamp": "2026-05-14T17:02:16",
@@ -214,13 +230,5 @@
     "Domain": "idiallo.com",
     "Description": "In my first interview for a developer position, I shared a link to my personal project with the interviewer. It was a website for learning how to program. I created it from the ground up. I built the ",
     "Confidence": 0.9731348
-  },
-  {
-    "Title": "5 Years and $5M Later: Inventing a New Programming Language for Web Development Was a Mistake | Wasp",
-    "Url": "https://wasp.sh/blog/2026/05/13/new-language-for-web-dev-was-a-mistake",
-    "Timestamp": "2026-05-13T20:02:32",
-    "Domain": "wasp.sh",
-    "Description": "After 5 years and $5M building Wasp, we're replacing our custom config language with TypeScript. Here's why we thought a new language was a good idea, what we learned, and why TypeScript won.",
-    "Confidence": 0.9822608
   }
 ]

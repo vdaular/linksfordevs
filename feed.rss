@@ -7,6 +7,27 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Bitcoin trader recovers $400,000 using Claude AI after getting 'stoned' and losing wallet password 11 years ago — bot tried 3.5 trillion passwords before decrypting an old wallet backup</title>
+      <link>https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup</link>
+      <description>The user apparently changed the password while 'stoned.'</description>
+      <author> (https://www.tomshardware.com/author/jowi-morales)</author>
+      <category>ai</category>
+      <guid>https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup</guid>
+      <pubDate>Thu, 14 May 2026 20:02:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>RTX 5090 + M4 MacBook Air: Can it Game?</title>
+      <link>https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/</link>
+      <description>What if you could strap a full desktop GPU to your MacBook Air? Turns out, you can.</description>
+      <category>gaming</category>
+      <category>apple</category>
+      <category>linux</category>
+      <category>cloud</category>
+      <category>ai</category>
+      <guid>https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/</guid>
+      <pubDate>Thu, 14 May 2026 20:02:06 GMT</pubDate>
+    </item>
+    <item>
       <title>Video transcript: A message from President Kornbluth about funding and the talent pipeline | MIT Office of the President | MIT</title>
       <link>https://president.mit.edu/writing-speeches/video-transcript-message-president-kornbluth-about-funding-and-talent-pipeline</link>
       <description>Hello, everyone.</description>
@@ -255,19 +276,6 @@ Everyone Did Their Part. Nobody Saw the Whole. You’ve been here. The prompt th
       <category>sql</category>
       <guid>https://idiallo.com/blog/everyone-is-better-than-you?src=feed</guid>
       <pubDate>Wed, 13 May 2026 23:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>5 Years and $5M Later: Inventing a New Programming Language for Web Development Was a Mistake | Wasp</title>
-      <link>https://wasp.sh/blog/2026/05/13/new-language-for-web-dev-was-a-mistake</link>
-      <description>After 5 years and $5M building Wasp, we're replacing our custom config language with TypeScript. Here's why we thought a new language was a good idea, what we learned, and why TypeScript won.</description>
-      <author> (https://github.com/matijasos)</author>
-      <category>nodejs</category>
-      <category>typescript</category>
-      <category>cloud</category>
-      <category>rust</category>
-      <category>ai</category>
-      <guid>https://wasp.sh/blog/2026/05/13/new-language-for-web-dev-was-a-mistake</guid>
-      <pubDate>Wed, 13 May 2026 20:02:32 GMT</pubDate>
     </item>
   </channel>
 </rss>
