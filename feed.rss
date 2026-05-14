@@ -305,17 +305,5 @@ Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas
       <guid>https://www.seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/</guid>
       <pubDate>Wed, 13 May 2026 08:02:20 GMT</pubDate>
     </item>
-    <item>
-      <title>Quack: The DuckDB Client-Server Protocol</title>
-      <link>https://duckdb.org/2026/05/12/quack-remote-protocol</link>
-      <description>DuckDB instances can now talk to each other using the Quack remote protocol. This lets you run DuckDB in a client-server setup with multiple concurrent writers. In DuckDB's spirit, Quack is simple to set up and builds on proven technologies such as HTTP. It's also fast, which allows it to support workloads ranging from bulk operations to small transactions.</description>
-      <category>sql</category>
-      <category>linux</category>
-      <category>encryption</category>
-      <category>git</category>
-      <category>cloud</category>
-      <guid>https://duckdb.org/2026/05/12/quack-remote-protocol</guid>
-      <pubDate>Wed, 13 May 2026 07:02:00 GMT</pubDate>
-    </item>
   </channel>
 </rss>
