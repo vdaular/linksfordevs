@@ -1,5 +1,181 @@
 [
   {
+    "Title": "How Quickly do Browsers Implement Features?",
+    "Url": "https://sanand0.github.io/webfeatures/",
+    "Timestamp": "2026-05-14T00:03:50",
+    "Domain": "sanand0.github.io",
+    "Description": "19951996199719992000200120032004200520062007200820092010201120122013201420152016201720182019202020212022202320242025ieoperasafarifirefoxchromeedgewebview_iossafari_ioswebview_androidopera_androidfirefox_androidchrome_androidsamsunginternet_android",
+    "Confidence": 0.96100557
+  },
+  {
+    "Title": "Arrival of the Personal Cluster",
+    "Url": "https://aranya.tech/blog/arrival-of-the-personal-cluster",
+    "Timestamp": "2026-05-14T00:03:47",
+    "Domain": "aranya.tech",
+    "Description": "BACK TO BLOG",
+    "Confidence": 0.98725915
+  },
+  {
+    "Title": "The Per-Minute Calling Myth: The Hidden Economics of Voice and Video Calling APIs",
+    "Url": "https://blog.mesibo.com/per-minute-calling-myth-hidden-economics-voice-video-calling-apis/",
+    "Timestamp": "2026-05-14T00:03:39",
+    "Domain": "blog.mesibo.com",
+    "Description": "Why do most communication platforms charge per-minute fees even when peer-to-peer calls never traverse their infrastructure? A technical look at how modern WebRTC systems actually work, and why per-minute billing for internet communication is increasingly difficult to justify — technically and ethically.",
+    "Confidence": 0.97879845
+  },
+  {
+    "Title": "Adopting Helix-isms | Kris Tun",
+    "Url": "https://kristun.dev/posts/adopting-helix-isms/",
+    "Timestamp": "2026-05-14T00:03:35",
+    "Domain": "kristun.dev",
+    "Description": "An exploration of adopting Helix-isms into my Neovim workflow",
+    "Confidence": 0.99461955
+  },
+  {
+    "Title": "I Don't Even Know What To Build Anymore - Vance Lucas",
+    "Url": "https://vancelucas.com/blog/i-dont-even-know-what-to-build-anymore/",
+    "Timestamp": "2026-05-14T00:03:32",
+    "Domain": "vancelucas.com",
+    "Description": "UIs with buttons and charts are not cool anymore. All that matters is AI agents now. APIs, CLIs and MCPs. It's all about the data, bro. Where is your MCP? Or so the discourse goes...",
+    "Confidence": 0.99212134
+  },
+  {
+    "Title": "The hardware isn't broken, the documentation is !",
+    "Url": "https://essenceia.github.io/thoughts/broken_doc/",
+    "Timestamp": "2026-05-14T00:03:28",
+    "Domain": "essenceia.github.io",
+    "Description": "Silicon erratas or how my first analog ASIC is dead before arrival.",
+    "Confidence": 0.69297886
+  },
+  {
+    "Title": "The harness that lied — Are You There?",
+    "Url": "https://stuart-thomas.com/are-you-there/the-harness-that-lied/",
+    "Timestamp": "2026-05-14T00:03:25",
+    "Domain": "stuart-thomas.com",
+    "Description": "On the verdict-before-evidence pattern in security research — and how I caught my own PoC confirming itself regardless of the facts.",
+    "Confidence": 0.9728515
+  },
+  {
+    "Title": "Star Color and the Evolution of Space on the Screen",
+    "Url": "https://valhovey.github.io/blog/star-color-and-the-evolution-of-space-on-the-screen",
+    "Timestamp": "2026-05-14T00:03:21",
+    "Domain": "valhovey.github.io",
+    "Description": "How Project Hail Mary's faithful depiction of space changes science fiction forever.",
+    "Confidence": 0.7842331
+  },
+  {
+    "Title": "You need to calm down",
+    "Url": "https://petro.blog/you-need-to-calm-down-71a177c99c9f",
+    "Timestamp": "2026-05-14T00:03:17",
+    "Domain": "petro.blog",
+    "Description": "AI isn’t changing the fundamentals of building software. It’s changing the speed. Don’t confuse the two.",
+    "Confidence": 0.97870636
+  },
+  {
+    "Title": "Building for the joy of building | jola.dev",
+    "Url": "https://jola.dev/posts/building-for-the-joy-of-building",
+    "Timestamp": "2026-05-14T00:03:12",
+    "Domain": "jola.dev",
+    "Description": "My path into programming and why I've been obsessed for 20 years.",
+    "Confidence": 0.97404724
+  },
+  {
+    "Title": "How LLMs Really Work",
+    "Url": "https://arpitbhayani.me/blogs/how-llms-work/",
+    "Timestamp": "2026-05-14T00:03:09",
+    "Domain": "arpitbhayani.me",
+    "Description": "If you have used ChatGPT, Gemini, or Claude, you have already formed an intuition about what these systems do. You type something in, and text comes back that feels coherent, knowledgeable, and sometimes eerily human. But the machinery underneath is simultaneously simpler and stranger than most people expect.",
+    "Confidence": 0.9674486
+  },
+  {
+    "Title": "Removing the Modem and GPS from my 2024 RAV4 Hybrid",
+    "Url": "https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/",
+    "Timestamp": "2026-05-14T00:03:04",
+    "Domain": "arkadiyt.com",
+    "Description": "Modern cars are computers on wheels that send home nonstop telemetry about you. In this post I remove my 2024 RAV4 Hybrid's modem and GPS to prevent that :)",
+    "Confidence": 0.9564789
+  },
+  {
+    "Title": "I Read OpenSSL for Fun and Found a Nonce Leak",
+    "Url": "https://blog.himanshuanand.com/2026/05/i-read-openssl-for-fun-and-found-a-nonce-leak/",
+    "Timestamp": "2026-05-14T00:03:01",
+    "Domain": "blog.himanshuanand.com",
+    "Description": "I was poking around the OpenSSL source code recently. Not really hunting for anything specific (one of the most heavily audited codebases), just curious about how the new post-quantum crypto stuff was wired up in version 4.0.0. I went in expecting to find nothing interesting. Instead I tripped over a single-character logic bug that leaks cryptographic randomness onto the stack on every signing call.\nQuick disclaimer: I am not a crypto person.",
+    "Confidence": 0.9762787
+  },
+  {
+    "Title": "EventQL: A SQL-Inspired Query Language Designed for Event Sourcing",
+    "Url": "https://yoeight.github.io/blog/2025/12/21/EventQL_A_SQL_Inspired_Query_Language_Designed_For_Event_Sourcing.html",
+    "Timestamp": "2026-05-14T00:02:58",
+    "Domain": "yoeight.github.io",
+    "Description": "EventQL: A SQL-Inspired Query Language Designed for Event Sourcing",
+    "Confidence": 0.984784
+  },
+  {
+    "Title": "Rubenerd: Fractions in HTML",
+    "Url": "https://www.rubenerd.au/fractions-in-html/",
+    "Timestamp": "2026-05-14T00:02:54",
+    "Domain": "www.rubenerd.au",
+    "Description": "Expressing 1/3 with ⅓, and related adventures.",
+    "Confidence": 0.92029876
+  },
+  {
+    "Title": "Was my $48K GPU server worth it?",
+    "Url": "https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/",
+    "Timestamp": "2026-05-14T00:02:49",
+    "Domain": "rosmine.ai",
+    "Description": "In 2024 I quit my FAANG job to become an independent researcher. To do this I needed GPUs, so I built “grumbl”, a 6x 6000 Ada GPU server. This blog describes the build, some of the issu…",
+    "Confidence": 0.9585711
+  },
+  {
+    "Title": "On Planet Quantos, Programmers Flee",
+    "Url": "https://shukla.io/blog/2026-05/rank-select.html",
+    "Timestamp": "2026-05-14T00:02:46",
+    "Domain": "shukla.io",
+    "Description": "An interactive story about porting a classical rank-select function to a reversible (quantum-oracle-style) form. Step through five C implementations, each adding one constraint from the world of unitary computation.",
+    "Confidence": 0.98574907
+  },
+  {
+    "Title": "The Wide Paved Road versus the Narrow Footpath - Peter's Path",
+    "Url": "https://peterspath.net/blog/essay-the-wide-paved-road-versus-the-narrow-footpath/",
+    "Timestamp": "2026-05-14T00:02:42",
+    "Domain": "peterspath.net",
+    "Description": "Explore the wide paved road of ease leading to ruin versus the narrow footpath of hardship leading to redemption across stories, myths, and faiths.",
+    "Confidence": 0.81661123
+  },
+  {
+    "Title": "I was asked to install malware during a fake interview",
+    "Url": "https://ashishb.net/security/contagious-interview/",
+    "Timestamp": "2026-05-14T00:02:39",
+    "Domain": "ashishb.net",
+    "Description": "My experience with Contagious Interviews (Malware delivered through fake developer job interviews)",
+    "Confidence": 0.9941049
+  },
+  {
+    "Title": "Slowing Down My Coding Agents to Get More Done – Robert W",
+    "Url": "https://www.robw.fyi/2026/05/11/slowing-down-my-coding-agents-to-get-more-done/",
+    "Timestamp": "2026-05-14T00:02:34",
+    "Domain": "www.robw.fyi",
+    "Description": "Your backlog is sitting idle waiting to get worked on, and it could be showing up pre-baked, ready for verification.",
+    "Confidence": 0.9930392
+  },
+  {
+    "Title": "Prayer-Driven Development",
+    "Url": "https://digitaliziran.si/2026/05/08/prayer-driven-development.html",
+    "Timestamp": "2026-05-14T00:02:26",
+    "Domain": "digitaliziran.si",
+    "Description": "The term “Prayer-Driven Development” was coined by Davor Pavleković for deployments where hope is your only strategy. That was before AI agents made it an industry standard.\nEveryone Did Their Part. Nobody Saw the Whole. You’ve been here. The prompt that needs “MANDATORY” in all caps. The instruction that says “DO NOT SKIP” because the model skipped it three times already. The system prompt that reads like a legal contract because you can’t trust the other party.\n",
+    "Confidence": 0.9946512
+  },
+  {
+    "Title": "Taking control of the SQLite WAL – Philip O'Toole",
+    "Url": "https://philipotoole.com/taking-control-of-the-sqlite-wal/",
+    "Timestamp": "2026-05-14T00:02:20",
+    "Domain": "philipotoole.com",
+    "Description": "rqlite is a lightweight, open-source, fault-tolerant relational database built on SQLite and Raft. Version 10 is out now. rqlite has a particular relationship with the SQLite Write-Ahead Log (WAL). SQLite, left to itself, manages its own WAL: it checkpoints when the WAL grows, it checkpoints when the last connection closes, and it decides when frames move from…",
+    "Confidence": 0.9904539
+  },
+  {
     "Title": "Software Engineers are Obsolete",
     "Url": "https://idiallo.com/blog/everyone-is-better-than-you?src=feed",
     "Timestamp": "2026-05-13T23:02:12",
@@ -118,205 +294,5 @@
     "Domain": "www.eff.org",
     "Description": "Last year, the Canadian government pushed Bill C-2, which would erode Canadian digital rights in the name of “border security.” The bill was so bad it didn’t even make it to committee because of the backlash from the privacy community. Now, the spring’s worst sequel, Bill C-22, aka The Lawful Access Act, is trying it again.",
     "Confidence": 0.9128712
-  },
-  {
-    "Title": "cost of enum-to-string: C++26 reflection vs the old ways",
-    "Url": "https://vittorioromeo.com/index/blog/refl_enum_to_string.html",
-    "Timestamp": "2026-05-13T00:04:30",
-    "Domain": "vittorioromeo.com",
-    "Description": "Article/tutorial on http://vittorioromeo.com",
-    "Confidence": 0.9937736
-  },
-  {
-    "Title": "Vocal Mirror",
-    "Url": "https://danverbraganza.com/tools/vocal-mirror",
-    "Timestamp": "2026-05-13T00:04:25",
-    "Domain": "danverbraganza.com",
-    "Description": "Vocal Mirror is a tool for rapid hands-free vocal practice and feedback.When active, Vocal Mirror will listen for you to speak or sing, and then replay that to you as soon as silence is detected. It's like a variable-length echo.",
-    "Confidence": 0.8329608
-  },
-  {
-    "Title": "Why LLMs Make Learning to Code More Important, Not Less",
-    "Url": "https://senthil.learntosolveit.com/posts/2026/05/10/why-llms-make-learning-to-code-more-important-not-less.html",
-    "Timestamp": "2026-05-13T00:04:22",
-    "Domain": "senthil.learntosolveit.com",
-    "Description": "This is the transcript of my talk at OMSCS Conference 2026\nHello, everyone. I'm Senthil Kumaran, a software developer at Uber. I've been programming for more than 20 years. I completed my OMSCS specia",
-    "Confidence": 0.98657095
-  },
-  {
-    "Title": "I hate the recent open-source rise · Jamie Tanna | Software Engineer",
-    "Url": "https://www.jvt.me/posts/2026/05/12/open-source/",
-    "Timestamp": "2026-05-13T00:04:18",
-    "Domain": "www.jvt.me",
-    "Description": "Why I'm worried about folks using the term `open-source` and some minimal research into why it's wrong.",
-    "Confidence": 0.96222144
-  },
-  {
-    "Title": "Artificial Intelligence and Quarterly Earnings Reports - The Big Picture",
-    "Url": "https://ritholtz.com/2026/05/ai-q-earnings/",
-    "Timestamp": "2026-05-13T00:04:12",
-    "Domain": "ritholtz.com",
-    "Description": "    A proposal from the current administration is working its way through the U.S. Securities and Exchange Commission to end quarterly corporate earnings. This is a good idea. Unfortunately, the frequency is in the wrong direction. Instead of replacing quarterly earnings releases with annual or semiannual ones, the SEC should be moving toward monthly,…Read More",
-    "Confidence": 0.80262953
-  },
-  {
-    "Title": "I Bought a “Junk” PSP From Japan: Here’s How It Went",
-    "Url": "https://gardinerbryant.com/i-bought-a-junk-psp-from-japan-heres-how-it-went/",
-    "Timestamp": "2026-05-13T00:04:08",
-    "Domain": "gardinerbryant.com",
-    "Description": "While I spend most of my time reviewing modern ‘retro’ handhelds (devices built to emulate everything under the sun) I’ve found myself wanting to go back to the roots of everything. The first‑party machines that actually started it all. And for me, that always leads back to Sony’",
-    "Confidence": 0.9422639
-  },
-  {
-    "Title": "About coding agents",
-    "Url": "https://fdeb.xyz/blog/2026-05-04-about-coding-agents.html",
-    "Timestamp": "2026-05-13T00:04:02",
-    "Domain": "fdeb.xyz",
-    "Description": "2026-05-04",
-    "Confidence": 0.9923085
-  },
-  {
-    "Title": "I/O Multiplexing: select(), poll(), and epoll() | 0xKiire",
-    "Url": "https://0xkiire.com/io-multiplexing-guide/",
-    "Timestamp": "2026-05-13T00:03:57",
-    "Domain": "0xkiire.com",
-    "Description": "How do servers handle thousands of connections? Learn readiness-based I/O with select/poll/epoll, common edge cases, and build a tiny event loop in C, Zig, a...",
-    "Confidence": 0.9953266
-  },
-  {
-    "Title": "Multilingual Ambiguity",
-    "Url": "https://blog.ptidej.net/multilingual-ambiguity/",
-    "Timestamp": "2026-05-13T00:03:53",
-    "Domain": "blog.ptidej.net",
-    "Description": "Saluuuut! At the very beginning of my research on \"Multilingual Concept\" in programming, I realised something interesting about this topic. To be honest, I just wanted to use some Python code within Java, however, in this way, I faced lots of different terminologies! They are completely confusing. And even worse,",
-    "Confidence": 0.9953226
-  },
-  {
-    "Title": "Beyond software",
-    "Url": "https://www.kevinsdias.com/posts/beyond-software.html",
-    "Timestamp": "2026-05-13T00:03:49",
-    "Domain": "www.kevinsdias.com",
-    "Description": "Kevin Scott Dias - Beyond software",
-    "Confidence": 0.84365016
-  },
-  {
-    "Title": "On the End of Work as We Know It",
-    "Url": "https://shadesofsingularity.com/essays/end-of-work/",
-    "Timestamp": "2026-05-13T00:03:45",
-    "Domain": "shadesofsingularity.com",
-    "Description": "The economy is learning to grow without hiring. This essay traces the evidence, the competing interpretations, and the structural transformation that follows.",
-    "Confidence": 0.9344414
-  },
-  {
-    "Title": "The Walled Garden of the Surveilled Web",
-    "Url": "https://kirill.korins.ky/articles/the-walled-garden-of-the-surveilled-web/",
-    "Timestamp": "2026-05-13T00:03:41",
-    "Domain": "kirill.korins.ky",
-    "Description": "The open web is not disappearing because publishing has become impossible; it is disappearing because discovery is being absorbed into vendor specific information environments. Google is the central case because of its dominance in web search, but the pattern is broader: crawlers, indexes, operating systems, browsers, assistants, DNS resolvers, VPNs, advertising systems, and policy processes are converging into private gardens that present themselves as the web. Findability inside these gardens depends less on public availability than on compatibility with their measurement, monetization, legal, and editorial machinery. Once LLMs train on and retrieve through those filtered layers, exclusion no longer affects only search traffic; it shapes the corpus from which future answers are generated.",
-    "Confidence": 0.94271773
-  },
-  {
-    "Title": "Claude Code RCE: Exploiting Deeplink Handlers via Settings Injection",
-    "Url": "https://0day.click/recipe/2026-05-12-cc-rce/",
-    "Timestamp": "2026-05-13T00:03:36",
-    "Domain": "0day.click",
-    "Description": "Of course I took a peek at the Claude Code source 🙈.\nWhat I found was a very entertaining vulnerability which is now fixed since Claude Code version 2.1.118.\nJust wading through the massive codebase manually wasn’t really a feasible approach. So took an army of AI Agents to…. no wait actually I did not do that, the following was all manual work. :P\nI started by looking at different configuration options and tried to see what’s actually “useful” from an attacker’s perspective. On the way, in main.tsx I came across eagerLoadSettings, it eagerly loads settings, obviously:\n",
-    "Confidence": 0.99631727
-  },
-  {
-    "Title": "Don't Hijack My Mouse Pointer",
-    "Url": "https://ruky.me/dont-hijack-my-pointer/",
-    "Timestamp": "2026-05-13T00:03:32",
-    "Domain": "ruky.me",
-    "Description": "With vibe-coding, more and more websites I am visiting are changing my mouse pointer",
-    "Confidence": 0.98210967
-  },
-  {
-    "Title": "SMART Goals Are Overrated — Arrow Coaching",
-    "Url": "https://arrowcoaching.net/blog/post.html?slug=smart-goals",
-    "Timestamp": "2026-05-13T00:03:28",
-    "Domain": "arrowcoaching.net",
-    "Description": "SMART goals are everywhere. Your manager has probably asked you to set them, whether as a genuinely useful exercise or to satisfy an HR checkbox.",
-    "Confidence": 0.8707978
-  },
-  {
-    "Title": "What is PicPocket.io?",
-    "Url": "https://amrshawky.com/posts/what-is-picpocket/",
-    "Timestamp": "2026-05-13T00:03:25",
-    "Domain": "amrshawky.com",
-    "Description": "Introduction PicPocket started as a project to help me organize my photos. I really disliked the available methods of finding photos, everything seemed to be moving in the direction of relying more and more heavily on AI. The problem would keep compounding the more photos I had, and it seemed like the entire tech solution was simply that, one day we would somehow figure it out using AI.\nWhat’s worse is that the main companies that deal with photo galleries, i.e. Google and Apple, have an interest in you, the user, having as many photos as possible on your phone so they can then charge you for cloud storage. If you could efficiently organize your photos based on what was important and what you don’t really need, your photo gallery would shrink from tens of thousands of photos to a few thousand at most.",
-    "Confidence": 0.9707947
-  },
-  {
-    "Title": "Treat Me Like an Investor",
-    "Url": "https://cameronwestland.com/treat-me-like-an-investor/",
-    "Timestamp": "2026-05-13T00:03:20",
-    "Domain": "cameronwestland.com",
-    "Description": "I had coffee today with a founder I see every 90 days. He’s pre-PMF, mostly solo, a couple friends helping. He always closes the same way, grateful for …",
-    "Confidence": 0.93611103
-  },
-  {
-    "Title": "The Shape of Duplicate Detection: Benchmarking 4000+ Measurements Across Key Types and Backends",
-    "Url": "https://dubeykartikay.com/posts/the-shape-of-duplicate-detection/",
-    "Timestamp": "2026-05-13T00:03:16",
-    "Domain": "dubeykartikay.com",
-    "Description": "A benchmark-backed look at how the fastest duplicate-detection strategy changes depending on key shape, duplicate pattern, input size, and durability guarantees.",
-    "Confidence": 0.9898533
-  },
-  {
-    "Title": "The Most Emacs Bzr Saga",
-    "Url": "https://thanosapollo.org/posts/bzr-saga/",
-    "Timestamp": "2026-05-13T00:03:13",
-    "Domain": "thanosapollo.org",
-    "Description": "Since I had no interesting books to read today, nor interesting films to watch, I decided to scavenge for the most intriguing content one can find online. I ended up reading the Linux kernel mailing lists, but those discussions seemed to be 18+, so I settled for the comparatively civil emacs-devel.\nFor those unfamiliar, emacs-devel is the primary development discussion list for GNU Emacs – where design decisions get made, patches get reviewed, and occasionally where people spend 200 messages arguing about version control software. This is the story of that last one.",
-    "Confidence": 0.9659187
-  },
-  {
-    "Title": "I’m Making Strandfall, a Solarpunk Orienteering Larp",
-    "Url": "https://mssv.net/2026/04/29/im-making-strandfall-a-solarpunk-orienteering-larp/",
-    "Timestamp": "2026-05-13T00:03:08",
-    "Domain": "mssv.net",
-    "Description": "Blending the real and digital worlds, once more.",
-    "Confidence": 0.9769647
-  },
-  {
-    "Title": "How I Stumbled into the Perfect API Architecture",
-    "Url": "https://www.primatology.xyz/blog/how-i-stumbled-into-the-perfect-api-architecture",
-    "Timestamp": "2026-05-13T00:03:05",
-    "Domain": "www.primatology.xyz",
-    "Description": "I set out to build a fuel price API for the UK and convinced myself I'd need PostGIS, tile servers, and a small fleet of infrastructure to make it work. The actual answer was a script, a file, and a CDN. I just took the long way round to find it.",
-    "Confidence": 0.984896
-  },
-  {
-    "Title": "charles leifer | Redis and the Cost of Ambition",
-    "Url": "https://charlesleifer.com/blog/redis-and-the-cost-of-ambition/",
-    "Timestamp": "2026-05-13T00:03:01",
-    "Domain": "charlesleifer.com",
-    "Description": "May 12, 2026 11:28\n      /\n      \n        redis\n      \n        thoughts\n      \n      /\n      1 comments",
-    "Confidence": 0.9466838
-  },
-  {
-    "Title": "Why This Is Not a Newsletter – Writings and rehearsals by Nathan Schneider",
-    "Url": "https://nathanschneider.info/2026/05/why-this-is-not-a-newsletter/",
-    "Timestamp": "2026-05-13T00:02:57",
-    "Domain": "nathanschneider.info",
-    "Description": "This summer I intend to engage in a regular blogging practice—a sort of retro endeavor in 2026, I suppose, but it has arisen for me as a necessary one. It is not about any topic in particular. It is, rather, an exercise in offering a series of interventions that have been stewing in me for a while, as well as those that surface through the practice.",
-    "Confidence": 0.9399624
-  },
-  {
-    "Title": "Who Builds Your Judgment?",
-    "Url": "https://dekodiert.de/en/articles/wer-baut-eure-urteilskraft",
-    "Timestamp": "2026-05-13T00:02:52",
-    "Domain": "dekodiert.de",
-    "Description": "Many companies introduce AI as a productivity lever. In the process, they often automate exactly the layers of work on which later quality and judgment used to grow.",
-    "Confidence": 0.97357297
-  },
-  {
-    "Title": "Marco Polo",
-    "Url": "https://www.jackhogan.me/blog/marco-polo",
-    "Timestamp": "2026-05-13T00:02:45",
-    "Domain": "www.jackhogan.me",
-    "Description": "Finding a friend with only distance and motion.",
-    "Confidence": 0.98532087
   }
 ]
