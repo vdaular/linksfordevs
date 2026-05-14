@@ -277,13 +277,5 @@ Everyone Did Their Part. Nobody Saw the Whole. You’ve been here. The prompt th
       <guid>https://xkcd.com/3245/</guid>
       <pubDate>Wed, 13 May 2026 19:02:17 GMT</pubDate>
     </item>
-    <item>
-      <title>Setting up a free *.city.state.us locality domain</title>
-      <link>https://fredchan.org/blog/locality-domains-guide/</link>
-      <description>In the US, you can get a domain name like `somename.city.state.us` for free. If your town has its own domain, you can get nameservers from Amazon Lightsail, send the *Interim .US Domain Template* to the delegated manager for your locality, then point DNS entries at your webhost.</description>
-      <category>cloud</category>
-      <guid>https://fredchan.org/blog/locality-domains-guide/</guid>
-      <pubDate>Wed, 13 May 2026 18:02:25 GMT</pubDate>
-    </item>
   </channel>
 </rss>
