@@ -230,13 +230,5 @@
     "Domain": "www.spacex.com",
     "Description": "SpaceX designs, manufactures and launches advanced rockets and spacecraft.",
     "Confidence": 0.96850073
-  },
-  {
-    "Title": "AI datacenters in space do not have a cooling problem",
-    "Url": "https://www.seangoedecke.com/space-ai-datacenters-do-not-have-a-cooling-problem/",
-    "Timestamp": "2026-05-13T08:02:20",
-    "Domain": "www.seangoedecke.com",
-    "Description": "This year Elon Musk has started banging the drum about building AI datacenters in space. As the only person who owns a successful space company and a (moderately) successful AI company, this is a sensible way to boost his profile and net worth. Is it a sensible way to build datacenters?",
-    "Confidence": 0.96427363
   }
 ]
