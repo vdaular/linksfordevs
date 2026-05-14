@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Scorched Earth 2000 HTML Port</title>
+      <link>http://www.scorch2000.com/web/</link>
+      <description>Debug Console</description>
+      <category>ai</category>
+      <category>web</category>
+      <guid>http://www.scorch2000.com/web/</guid>
+      <pubDate>Thu, 14 May 2026 10:02:05 GMT</pubDate>
+    </item>
+    <item>
       <title>How Quickly do Browsers Implement Features?</title>
       <link>https://sanand0.github.io/webfeatures/</link>
       <description>19951996199719992000200120032004200520062007200820092010201120122013201420152016201720182019202020212022202320242025ieoperasafarifirefoxchromeedgewebview_iossafari_ioswebview_androidopera_androidfirefox_androidchrome_androidsamsunginternet_android</description>

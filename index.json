@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Scorched Earth 2000 HTML Port",
+    "Url": "http://www.scorch2000.com/web/",
+    "Timestamp": "2026-05-14T10:02:05",
+    "Domain": "www.scorch2000.com",
+    "Description": "Debug Console",
+    "Confidence": 0.98776495
+  },
+  {
     "Title": "How Quickly do Browsers Implement Features?",
     "Url": "https://sanand0.github.io/webfeatures/",
     "Timestamp": "2026-05-14T00:03:50",
