@@ -238,13 +238,5 @@
     "Domain": "youtube.com",
     "Description": "Online Workshop: Vibe Coding for Production: https://dometrain.com/workshop/vibe-coding-for-production/?ref=nick-chapsas&promo=mail-list&coupon_code=3YEARS\n\nGet every Dometrain 40% off with code 3YEARS: https://dometrain.com/courses/?ref=nick-chapsas&promo=youtube&coupon_code=3YEARS\n\nHello, everybody. I'm Nick, and in this video, I want to talk about previous .NET practices that I used to consider great, but I no longer use for one reason or another. In this video, I will explain why.\n\nDon't forget to comment, like and subscribe :)\n\nSocial Media:\nFollow me on GitHub: https://github.com/Elfocrash\nFollow me on Twitter: https://twitter.com/nickchapsas\nConnect on LinkedIn: https://www.linkedin.com/in/nick-chapsas\n\n#dotnet #csharp",
     "Confidence": 0.9987563
-  },
-  {
-    "Title": "SpaceX",
-    "Url": "https://www.spacex.com/updates#starship-v3",
-    "Timestamp": "2026-05-13T12:02:25",
-    "Domain": "www.spacex.com",
-    "Description": "SpaceX designs, manufactures and launches advanced rockets and spacecraft.",
-    "Confidence": 0.96850073
   }
 ]
