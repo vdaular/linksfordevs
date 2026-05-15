@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Browsers Treat Big Sites Differently",
+    "Url": "https://denodell.com/blog/browsers-treat-big-sites-differently",
+    "Timestamp": "2026-05-15T01:02:15",
+    "Domain": "denodell.com",
+    "Description": "Safari and Firefox change how big sites render based on the domain. TikTok, Netflix, Instagram… even SeatGuru. Chrome doesn’t. Why is that?"
+  },
+  {
     "Title": "GitHub - DepthFirstDisclosures/Nginx-Rift: exploit for CVE-2026-42945",
     "Url": "https://github.com/DepthFirstDisclosures/Nginx-Rift",
     "Timestamp": "2026-05-15T00:02:18",

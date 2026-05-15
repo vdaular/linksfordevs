@@ -7,6 +7,19 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Browsers Treat Big Sites Differently</title>
+      <link>https://denodell.com/blog/browsers-treat-big-sites-differently</link>
+      <description>Safari and Firefox change how big sites render based on the domain. TikTok, Netflix, Instagram… even SeatGuru. Chrome doesn’t. Why is that?</description>
+      <author> (Den Odell)</author>
+      <category>web</category>
+      <category>gaming</category>
+      <category>apple</category>
+      <category>git</category>
+      <category>vscode</category>
+      <guid>https://denodell.com/blog/browsers-treat-big-sites-differently</guid>
+      <pubDate>Fri, 15 May 2026 01:02:15 GMT</pubDate>
+    </item>
+    <item>
       <title>GitHub - DepthFirstDisclosures/Nginx-Rift: exploit for CVE-2026-42945</title>
       <link>https://github.com/DepthFirstDisclosures/Nginx-Rift</link>
       <description>exploit for CVE-2026-42945. Contribute to DepthFirstDisclosures/Nginx-Rift development by creating an account on GitHub.</description>
