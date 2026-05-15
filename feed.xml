@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Work with Codex from anywhere</title>
+      <link>https://openai.com/index/work-with-codex-from-anywhere/</link>
+      <description>Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.</description>
+      <category>ai</category>
+      <guid>https://openai.com/index/work-with-codex-from-anywhere/</guid>
+      <pubDate>Fri, 15 May 2026 05:02:34 GMT</pubDate>
+    </item>
+    <item>
       <title>Browsers Treat Big Sites Differently</title>
       <link>https://denodell.com/blog/browsers-treat-big-sites-differently</link>
       <description>Safari and Firefox change how big sites render based on the domain. TikTok, Netflix, Instagram… even SeatGuru. Chrome doesn’t. Why is that?</description>
