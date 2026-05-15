@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Wikipedia File Explorer — Browse Wikipedia on a Windows XP desktop</title>
+      <link>https://explorer.samismith.com/</link>
+      <description>A working Windows XP desktop in your browser. Wikipedia and Wikimedia Commons as folder trees, Earth as a scrapbook. By Sami Smith.</description>
+      <guid>https://explorer.samismith.com/</guid>
+      <pubDate>Fri, 15 May 2026 14:02:24 GMT</pubDate>
+    </item>
+    <item>
       <title>Mullvad exit IPs as a fingerprinting vector</title>
       <link>https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/</link>
       <description>Mullvad is one of the few VPN providers that offers multiple exit IPs for its servers. If two people connect to the same server, they will usually end up with different public IPs.
