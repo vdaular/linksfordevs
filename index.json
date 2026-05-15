@@ -1,5 +1,13 @@
 [
   {
+    "Title": "The Wonders of AI: We Are Retiring Our Bug Bounty Program",
+    "Url": "https://turso.tech/blog/the-wonders-of-ai",
+    "Timestamp": "2026-05-15T16:02:10",
+    "Domain": "turso.tech",
+    "Description": "For almost a year now, Turso has had a program that pays $1,000 for any bug that can be demonstrated to lead to data corruption. Today, we are retiring this program.",
+    "Confidence": 0.982865
+  },
+  {
     "Title": "GitHub - Andyyyy64/whichllm: Find the local LLM that actually runs — and performs best — on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
     "Url": "https://github.com/Andyyyy64/whichllm",
     "Timestamp": "2026-05-15T15:02:19",
@@ -230,13 +238,5 @@
     "Domain": "president.mit.edu",
     "Description": "Hello, everyone.",
     "Confidence": 0.87561554
-  },
-  {
-    "Title": "Rewrite Bun in Rust by Jarred-Sumner · Pull Request #30412 · oven-sh/bun",
-    "Url": "https://github.com/oven-sh/bun/pull/30412",
-    "Timestamp": "2026-05-14T16:02:31",
-    "Domain": "github.com",
-    "Description": "Blog post with details coming soon.\nIt passes Bun&#39;s pre-existing test suite on all platforms (and fixes several memory leaks and flaky tests), the binary size shrinks by 3 MB - 8 MB, the benchm...",
-    "Confidence": 0.9895231
   }
 ]

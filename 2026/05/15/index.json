@@ -1,5 +1,12 @@
 [
   {
+    "Title": "The Wonders of AI: We Are Retiring Our Bug Bounty Program",
+    "Url": "https://turso.tech/blog/the-wonders-of-ai",
+    "Timestamp": "2026-05-15T16:02:10",
+    "Domain": "turso.tech",
+    "Description": "For almost a year now, Turso has had a program that pays $1,000 for any bug that can be demonstrated to lead to data corruption. Today, we are retiring this program."
+  },
+  {
     "Title": "GitHub - Andyyyy64/whichllm: Find the local LLM that actually runs — and performs best — on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.",
     "Url": "https://github.com/Andyyyy64/whichllm",
     "Timestamp": "2026-05-15T15:02:19",
