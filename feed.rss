@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>U.S. DOJ demands Apple and Google unmask over 100,000 users of popular car-tinkering app in emissions crackdown</title>
+      <link>https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/</link>
+      <description>The U.S. Department of Justice is seeking personal data on potentially hundreds of thousands of drivers who downloaded EZ Lynk’s Auto Agent…</description>
+      <guid>https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/</guid>
+      <pubDate>Fri, 15 May 2026 21:02:06 GMT</pubDate>
+    </item>
+    <item>
       <title>A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens </title>
       <link>https://projectzero.google/2026/05/pixel-10-exploit.html</link>
       <description>We recently published an exploit chain for the Google Pixel 9 that demonstrated it was possible t...</description>
@@ -265,16 +272,6 @@ With only 578 servers (compared to Proton VPN’s 20,000), this kind of vertical
       <category>rust</category>
       <guid>https://seongminpark.com/coding-by-hand/</guid>
       <pubDate>Thu, 14 May 2026 23:02:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>God Damn AI is making me dumb</title>
-      <link>https://jpain.io/god-damn-ai-is-making-me-dumb/</link>
-      <description>It's so god damn tempting to use AI to write. Whether it is articles, code, or documents. I feel like using AI is diminishing my ability to write myself.
-
-...</description>
-      <category>ai</category>
-      <guid>https://jpain.io/god-damn-ai-is-making-me-dumb/</guid>
-      <pubDate>Thu, 14 May 2026 21:02:11 GMT</pubDate>
     </item>
   </channel>
 </rss>

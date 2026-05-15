@@ -1,5 +1,13 @@
 [
   {
+    "Title": "U.S. DOJ demands Apple and Google unmask over 100,000 users of popular car-tinkering app in emissions crackdown",
+    "Url": "https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/",
+    "Timestamp": "2026-05-15T21:02:06",
+    "Domain": "macdailynews.com",
+    "Description": "The U.S. Department of Justice is seeking personal data on potentially hundreds of thousands of drivers who downloaded EZ Lynk’s Auto Agent…",
+    "Confidence": 0.7491956
+  },
+  {
     "Title": "A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens ",
     "Url": "https://projectzero.google/2026/05/pixel-10-exploit.html",
     "Timestamp": "2026-05-15T20:02:17",
@@ -230,13 +238,5 @@
     "Domain": "seongminpark.com",
     "Description": "Am allowed to learn Lua now?",
     "Confidence": 0.98615605
-  },
-  {
-    "Title": "God Damn AI is making me dumb",
-    "Url": "https://jpain.io/god-damn-ai-is-making-me-dumb/",
-    "Timestamp": "2026-05-14T21:02:11",
-    "Domain": "jpain.io",
-    "Description": "It's so god damn tempting to use AI to write. Whether it is articles, code, or documents. I feel like using AI is diminishing my ability to write myself.\n\n...",
-    "Confidence": 0.9693554
   }
 ]
