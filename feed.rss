@@ -7,6 +7,167 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Most Meaningful Dates on the Web and for an LLM</title>
+      <link>https://venkatasg.net/blog/dates-2026-05-12.html</link>
+      <description>I recently read this blog post by David Hagen who figured out why the 11th of every month in ordinal form (‘February 11th’) occurs so much less often than every other date (except September of course) in xkcd #1140 (reproduced below):</description>
+      <category>web</category>
+      <guid>https://venkatasg.net/blog/dates-2026-05-12.html</guid>
+      <pubDate>Fri, 15 May 2026 23:03:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>What Value Do You Provide? | Ethan Carter Edwards</title>
+      <link>https://ethancedwards.com/blog/what-value-do-you-provide</link>
+      <description>In a world of increasingly capable AI, what value do you provide?</description>
+      <category>ai</category>
+      <guid>https://ethancedwards.com/blog/what-value-do-you-provide</guid>
+      <pubDate>Fri, 15 May 2026 23:03:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Everyone's a thought leader. Almost no one is thinking.</title>
+      <link>https://bernste.in/writings/everyones-a-thought-leader-almost-no-one-is-thinking/</link>
+      <description>Thought leadership got cheap. Thinking didn't.</description>
+      <category>ai</category>
+      <guid>https://bernste.in/writings/everyones-a-thought-leader-almost-no-one-is-thinking/</guid>
+      <pubDate>Fri, 15 May 2026 23:03:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Playing ATARI music on Amiga for free!</title>
+      <link>https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/</link>
+      <description>How to emulate an Atari YM2149 audio chip on Amiga at litteraly 0 CPU cost, by Arnaud Carré</description>
+      <category>gaming</category>
+      <guid>https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/</guid>
+      <pubDate>Fri, 15 May 2026 23:03:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I’m building a better way to understand and store legacy logs</title>
+      <link>https://www.mihirdeshpande.com/posts/logslim</link>
+      <description>Logslim is a log ingestion tool that runs the Drain log-parsing algorithm, separates repeating log templates from their variable parameters, and stores everything in compressed Parquet via DuckDB.</description>
+      <author> (Mihir Deshpande)</author>
+      <category>sql</category>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://www.mihirdeshpande.com/posts/logslim</guid>
+      <pubDate>Fri, 15 May 2026 23:03:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Agents have (Information) Needs — Joe Barrow</title>
+      <link>https://jbarrow.ai/2026-05-13-agentic-information-need/</link>
+      <description>.</description>
+      <category>ai</category>
+      <guid>https://jbarrow.ai/2026-05-13-agentic-information-need/</guid>
+      <pubDate>Fri, 15 May 2026 23:03:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Baba is Agent – Samplesurium</title>
+      <link>https://meffmadd.github.io/samplesurium/posts/baba_is_agent/</link>
+      <description>Can LLMs play Baba Is You?</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <category>vscode</category>
+      <category>javascript</category>
+      <guid>https://meffmadd.github.io/samplesurium/posts/baba_is_agent/</guid>
+      <pubDate>Fri, 15 May 2026 23:03:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hey you, start communicating! - Kev Quirk</title>
+      <link>https://kevquirk.com/hey-you-start-communicating</link>
+      <description>David talks about why it's good to reach out to authors when you read their content. Even if it's just to say hi.</description>
+      <guid>https://kevquirk.com/hey-you-start-communicating</guid>
+      <pubDate>Fri, 15 May 2026 23:03:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Systems are Everything, Software is Systems – Wilsons Blog</title>
+      <link>https://wilsoniumite.com/2026/05/15/systems-are-everything-software-is-systems/</link>
+      <description>I was talking to a friend of mine recently and asked them if they wanted to learn a bit more about how to code, they said they didn’t want to. I followed up by claiming that what you learn from designing software is very useful generally, but couldn’t really articulate why. I’ve since thought about it a bit and I have something more coherent which I thought I would write up.</description>
+      <category>gaming</category>
+      <guid>https://wilsoniumite.com/2026/05/15/systems-are-everything-software-is-systems/</guid>
+      <pubDate>Fri, 15 May 2026 23:02:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>A letter from 2040 · xydac</title>
+      <link>https://www.xydac.com/blog/a-letter-from-2040/</link>
+      <description>A speculative letter from 2040. Trees running computation, mortality as a choice, novelty as currency, and the quiet moment when humanity realized the universe had been waiting.</description>
+      <author> (Deepak Seth)</author>
+      <category>nodejs</category>
+      <category>ai</category>
+      <guid>https://www.xydac.com/blog/a-letter-from-2040/</guid>
+      <pubDate>Fri, 15 May 2026 23:02:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Scaling As-of Joins</title>
+      <link>https://www.daft.ai/blog/scaling-asof-joins</link>
+      <description>How we built, broke, and re-built our ASOF joins — 6x faster, half the memory of pandas, and scaled to a distributed cluster.</description>
+      <author> (Euan Lim)</author>
+      <category>python</category>
+      <category>cloud</category>
+      <category>nodejs</category>
+      <category>ai</category>
+      <guid>https://www.daft.ai/blog/scaling-asof-joins</guid>
+      <pubDate>Fri, 15 May 2026 23:02:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hauleth's blog - How do I write Elixir tests?</title>
+      <link>https://hauleth.dev/post/writing-tests/</link>
+      <description>Personal guides for writing tests that are readable and maintainable. Stuff to
+use, stuff to avoid, and how to organize stuff.
+
+Furthermore, I think that mocking must be destroyed.
+</description>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://hauleth.dev/post/writing-tests/</guid>
+      <pubDate>Fri, 15 May 2026 23:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>The language debate is back!</title>
+      <link>https://antejavor.github.io/blog/2026/infra-static-languages/</link>
+      <description>Notes on the programming language debate and why we may increasingly favor statically typed and compiled languages.</description>
+      <category>rust</category>
+      <category>ruby</category>
+      <category>python</category>
+      <category>javascript</category>
+      <guid>https://antejavor.github.io/blog/2026/infra-static-languages/</guid>
+      <pubDate>Fri, 15 May 2026 23:02:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Keys and Values Are All You Need | nevzheng</title>
+      <link>https://n8z.dev/posts/keys-and-values-are-all-you-need/</link>
+      <description>Bootstrapping a SQL catalog on a flat key-value store, end to end.</description>
+      <category>sql</category>
+      <category>javascript</category>
+      <category>vscode</category>
+      <guid>https://n8z.dev/posts/keys-and-values-are-all-you-need/</guid>
+      <pubDate>Fri, 15 May 2026 23:02:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Product Product Product</title>
+      <link>https://elijahpotter.dev/articles/product-product-product</link>
+      <description>Working this past week with Jason Adams has given me a brand-new appreciation for the category of ideas that we engineers call 'product.'</description>
+      <guid>https://elijahpotter.dev/articles/product-product-product</guid>
+      <pubDate>Fri, 15 May 2026 23:02:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Managed agents are the new Lambda</title>
+      <link>https://martinalderson.com/posts/managed-agents-are-the-new-lambda/</link>
+      <description>Managed agents (cloud-hosted agent harnesses) are powerful, but locking yourself into a frontier lab's platform now is risky - here's why and what to do instead.</description>
+      <author> (Martin Alderson)</author>
+      <category>cloud</category>
+      <category>containers</category>
+      <category>apple</category>
+      <category>ai</category>
+      <guid>https://martinalderson.com/posts/managed-agents-are-the-new-lambda/</guid>
+      <pubDate>Fri, 15 May 2026 23:02:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why Anthropic’s ultra-dirty deal shouldn’t surprise you at all</title>
+      <link>https://ketanjoshi.co/2026/05/13/why-anthropics-ultra-dirty-deal-shouldnt-surprise-you-at-all/</link>
+      <description>Perfect little Anthropic did the dirty with Elon Musk’s ultra-filthy pollution bomb fossil fuelled data centre. I am here to tell you why this is not surprising at all.</description>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://ketanjoshi.co/2026/05/13/why-anthropics-ultra-dirty-deal-shouldnt-surprise-you-at-all/</guid>
+      <pubDate>Fri, 15 May 2026 23:02:21 GMT</pubDate>
+    </item>
+    <item>
       <title>U.S. DOJ demands Apple and Google unmask over 100,000 users of popular car-tinkering app in emissions crackdown</title>
       <link>https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/</link>
       <description>The U.S. Department of Justice is seeking personal data on potentially hundreds of thousands of drivers who downloaded EZ Lynk’s Auto Agent…</description>
@@ -116,162 +277,6 @@ With only 578 servers (compared to Proton VPN’s 20,000), this kind of vertical
       <category>containers</category>
       <guid>https://github.com/DepthFirstDisclosures/Nginx-Rift</guid>
       <pubDate>Fri, 15 May 2026 00:02:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Req Is All You Need</title>
-      <link>https://benreinhart.com/blog/req-is-all-you-need/</link>
-      <description>Req and ServerSentEvents cover all your Elixir AI needs.</description>
-      <category>javascript</category>
-      <category>ai</category>
-      <guid>https://benreinhart.com/blog/req-is-all-you-need/</guid>
-      <pubDate>Thu, 14 May 2026 23:03:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>How Poor Sleep Drove Me Insane, and My Long Path to Recovery</title>
-      <link>https://writing.samsonhu.com/how-poor-sleep-drove-me-insane-and-my-long-path-to-recovery/</link>
-      <description>I'm sharing my experience dealing with what might be the most underdiagnosed and under-treated health disorder today.</description>
-      <guid>https://writing.samsonhu.com/how-poor-sleep-drove-me-insane-and-my-long-path-to-recovery/</guid>
-      <pubDate>Thu, 14 May 2026 23:03:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>minimal structures</title>
-      <link>https://chefcinnamon.github.io/memo/posts/minimal-structures/</link>
-      <description>I build organic minimal structures.</description>
-      <category>containers</category>
-      <guid>https://chefcinnamon.github.io/memo/posts/minimal-structures/</guid>
-      <pubDate>Thu, 14 May 2026 23:03:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Four tech waves. Six companies. Here’s what I’m building next.</title>
-      <link>https://www.tamccann.com/four-tech-waves-six-companies-heres-what-im-building-next/</link>
-      <description>I’ve been lucky. Lucky to be building during four major technology shifts: the internet, SaaS/web services, mobile/social, and now AI, and to have learned something useful from each one. Not by being the smartest person in the room, but by being around others building at the same</description>
-      <category>ai</category>
-      <guid>https://www.tamccann.com/four-tech-waves-six-companies-heres-what-im-building-next/</guid>
-      <pubDate>Thu, 14 May 2026 23:03:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Working Hard | Joy of Reading</title>
-      <link>https://joy.ente.com/working-hard/</link>
-      <description>Before podcasts were a thing, Bill Simmons would trade e-mails with somebody successful for his piece on ESPN called "The Curious Guy". I ran into this excha...</description>
-      <category>gaming</category>
-      <guid>https://joy.ente.com/working-hard/</guid>
-      <pubDate>Thu, 14 May 2026 23:03:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>I owe my career to open-source communities. I'm not sure newcomers can say the same.</title>
-      <link>https://dhruvahuja.me/posts/ai-impact-on-oss/</link>
-      <description>Open-source communities shaped my career in ways no tutorial ever could. Now, as AI floods those same spaces with noise, I worry about the people arriving just a few years too late.</description>
-      <category>rust</category>
-      <category>ai</category>
-      <category>python</category>
-      <category>javascript</category>
-      <guid>https://dhruvahuja.me/posts/ai-impact-on-oss/</guid>
-      <pubDate>Thu, 14 May 2026 23:03:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Agents Can Reason. They Still Can't Really Search.</title>
-      <link>https://dipkumar.dev/posts/agents/agent-search-problem/</link>
-      <description>Agents have a search problem across the whole stack: web search, RAG, tool discovery, skills/workflow loading, and even context compaction.</description>
-      <author> (Dipkumar Patel)</author>
-      <category>cloud</category>
-      <category>ai</category>
-      <category>javascript</category>
-      <guid>https://dipkumar.dev/posts/agents/agent-search-problem/</guid>
-      <pubDate>Thu, 14 May 2026 23:03:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>May I recommend&amp;#x2026; understanding Emacs's patterns</title>
-      <link>https://www.chiply.dev/post-emacs-carnival-may</link>
-      <description>The above, unless I've completely forgotten my Shakespeare, was a soliloquy from Juliet Consulet regarding Romeo Montagnu</description>
-      <author> (Charlie Holland)</author>
-      <category>git</category>
-      <guid>https://www.chiply.dev/post-emacs-carnival-may</guid>
-      <pubDate>Thu, 14 May 2026 23:03:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>The End of Claude Code Automation</title>
-      <link>https://www.vincentschmalbach.com/the-end-of-claude-code-automation/</link>
-      <description>Starting June 15, Anthropic is moving automated Claude Code usage out of the normal subscription bucket. usage will now count against a separate monthly API-style credit that is much smaller than what…</description>
-      <category>ai</category>
-      <guid>https://www.vincentschmalbach.com/the-end-of-claude-code-automation/</guid>
-      <pubDate>Thu, 14 May 2026 23:03:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stop using user passwords for OpenStack automation</title>
-      <link>https://thobias.org/2026/05/10/openstack_app_credentials.html</link>
-      <description>10 May 2026</description>
-      <category>python</category>
-      <category>javascript</category>
-      <category>web</category>
-      <category>linux</category>
-      <guid>https://thobias.org/2026/05/10/openstack_app_credentials.html</guid>
-      <pubDate>Thu, 14 May 2026 23:03:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Simon Rodriguez</title>
-      <link>https://blog.simonrodriguez.fr/articles/2026/05/a_frame_analysis_of_dishonored_2.html</link>
-      <description>Renderistically - Simon Rodriguez</description>
-      <category>cloud</category>
-      <category>gaming</category>
-      <guid>https://blog.simonrodriguez.fr/articles/2026/05/a_frame_analysis_of_dishonored_2.html</guid>
-      <pubDate>Thu, 14 May 2026 23:03:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Noam Hurwitz</title>
-      <link>https://www.nhurwitz.com/writing/known-scaling-options-for-euv-lithography</link>
-      <description>Modern chips are produced in part through lithography: light is projected through a mask onto photosensitive material coating silicon to pattern transistors, contacts, vias, interconnects, and other structures. As Moore’s Law pushes on and chips continue to pack more computational capacity into smaller surface areas, lithography machines need increasingly fine precision.</description>
-      <category>git</category>
-      <guid>https://www.nhurwitz.com/writing/known-scaling-options-for-euv-lithography</guid>
-      <pubDate>Thu, 14 May 2026 23:02:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Internet is not dead</title>
-      <link>https://blog.woblick.dev/en/2026/the-internet-is-not-dead/</link>
-      <description></description>
-      <category>ai</category>
-      <category>youtube</category>
-      <guid>https://blog.woblick.dev/en/2026/the-internet-is-not-dead/</guid>
-      <pubDate>Thu, 14 May 2026 23:02:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>what's the ideal analogy</title>
-      <link>https://alok.github.io/2026/04/28/whats-the-ideal-analogy/</link>
-      <description>Alok Singh's Blog</description>
-      <guid>https://alok.github.io/2026/04/28/whats-the-ideal-analogy/</guid>
-      <pubDate>Thu, 14 May 2026 23:02:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Naturally Occurring Quasicrystals</title>
-      <link>https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/</link>
-      <description>I love quasicrystals—like crystals, but with patterns that never repeat, like Penrose tiles. But they’ve very rare in nature. They’re created only by the most exotic and violent e…</description>
-      <guid>https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/</guid>
-      <pubDate>Thu, 14 May 2026 23:02:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Small Model Forensics</title>
-      <link>https://blog.0xmmo.co/forensics/post.html</link>
-      <description>What ~2,000 timed API calls reveal about how closed-weight model providers scale inference, or fail to, in 2026.</description>
-      <category>ai</category>
-      <category>vscode</category>
-      <guid>https://blog.0xmmo.co/forensics/post.html</guid>
-      <pubDate>Thu, 14 May 2026 23:02:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cheap agents, alumni shirts, and Elias Thorne · Daniel May</title>
-      <link>https://danielmay.co.uk/posts/cheap-agents-alumni-shirts-and-elias-thorne/</link>
-      <description>On agent-coded cold outreach, the alumni t-shirt scam, the Elias Thorne convergence, and what gets visible when no one does the work.</description>
-      <category>ai</category>
-      <guid>https://danielmay.co.uk/posts/cheap-agents-alumni-shirts-and-elias-thorne/</guid>
-      <pubDate>Thu, 14 May 2026 23:02:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Don't Be Discouraged to Code by Hand</title>
-      <link>https://seongminpark.com/coding-by-hand/</link>
-      <description>Am allowed to learn Lua now?</description>
-      <category>ai</category>
-      <category>rust</category>
-      <guid>https://seongminpark.com/coding-by-hand/</guid>
-      <pubDate>Thu, 14 May 2026 23:02:21 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,124 @@
 [
   {
+    "Title": "Most Meaningful Dates on the Web and for an LLM",
+    "Url": "https://venkatasg.net/blog/dates-2026-05-12.html",
+    "Timestamp": "2026-05-15T23:03:28",
+    "Domain": "venkatasg.net",
+    "Description": "I recently read this blog post by David Hagen who figured out why the 11th of every month in ordinal form (‘February 11th’) occurs so much less often than every other date (except September of course) in xkcd #1140 (reproduced below):"
+  },
+  {
+    "Title": "What Value Do You Provide? | Ethan Carter Edwards",
+    "Url": "https://ethancedwards.com/blog/what-value-do-you-provide",
+    "Timestamp": "2026-05-15T23:03:24",
+    "Domain": "ethancedwards.com",
+    "Description": "In a world of increasingly capable AI, what value do you provide?"
+  },
+  {
+    "Title": "Everyone's a thought leader. Almost no one is thinking.",
+    "Url": "https://bernste.in/writings/everyones-a-thought-leader-almost-no-one-is-thinking/",
+    "Timestamp": "2026-05-15T23:03:20",
+    "Domain": "bernste.in",
+    "Description": "Thought leadership got cheap. Thinking didn't."
+  },
+  {
+    "Title": "Playing ATARI music on Amiga for free!",
+    "Url": "https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/",
+    "Timestamp": "2026-05-15T23:03:17",
+    "Domain": "arnaud-carre.github.io",
+    "Description": "How to emulate an Atari YM2149 audio chip on Amiga at litteraly 0 CPU cost, by Arnaud Carré"
+  },
+  {
+    "Title": "How I’m building a better way to understand and store legacy logs",
+    "Url": "https://www.mihirdeshpande.com/posts/logslim",
+    "Timestamp": "2026-05-15T23:03:12",
+    "Domain": "www.mihirdeshpande.com",
+    "Description": "Logslim is a log ingestion tool that runs the Drain log-parsing algorithm, separates repeating log templates from their variable parameters, and stores everything in compressed Parquet via DuckDB."
+  },
+  {
+    "Title": "Agents have (Information) Needs — Joe Barrow",
+    "Url": "https://jbarrow.ai/2026-05-13-agentic-information-need/",
+    "Timestamp": "2026-05-15T23:03:09",
+    "Domain": "jbarrow.ai",
+    "Description": "."
+  },
+  {
+    "Title": "Baba is Agent – Samplesurium",
+    "Url": "https://meffmadd.github.io/samplesurium/posts/baba_is_agent/",
+    "Timestamp": "2026-05-15T23:03:05",
+    "Domain": "meffmadd.github.io",
+    "Description": "Can LLMs play Baba Is You?"
+  },
+  {
+    "Title": "Hey you, start communicating! - Kev Quirk",
+    "Url": "https://kevquirk.com/hey-you-start-communicating",
+    "Timestamp": "2026-05-15T23:03:02",
+    "Domain": "kevquirk.com",
+    "Description": "David talks about why it's good to reach out to authors when you read their content. Even if it's just to say hi."
+  },
+  {
+    "Title": "Systems are Everything, Software is Systems – Wilsons Blog",
+    "Url": "https://wilsoniumite.com/2026/05/15/systems-are-everything-software-is-systems/",
+    "Timestamp": "2026-05-15T23:02:57",
+    "Domain": "wilsoniumite.com",
+    "Description": "I was talking to a friend of mine recently and asked them if they wanted to learn a bit more about how to code, they said they didn’t want to. I followed up by claiming that what you learn from designing software is very useful generally, but couldn’t really articulate why. I’ve since thought about it a bit and I have something more coherent which I thought I would write up."
+  },
+  {
+    "Title": "A letter from 2040 · xydac",
+    "Url": "https://www.xydac.com/blog/a-letter-from-2040/",
+    "Timestamp": "2026-05-15T23:02:52",
+    "Domain": "www.xydac.com",
+    "Description": "A speculative letter from 2040. Trees running computation, mortality as a choice, novelty as currency, and the quiet moment when humanity realized the universe had been waiting."
+  },
+  {
+    "Title": "Scaling As-of Joins",
+    "Url": "https://www.daft.ai/blog/scaling-asof-joins",
+    "Timestamp": "2026-05-15T23:02:49",
+    "Domain": "www.daft.ai",
+    "Description": "How we built, broke, and re-built our ASOF joins — 6x faster, half the memory of pandas, and scaled to a distributed cluster."
+  },
+  {
+    "Title": "Hauleth's blog - How do I write Elixir tests?",
+    "Url": "https://hauleth.dev/post/writing-tests/",
+    "Timestamp": "2026-05-15T23:02:44",
+    "Domain": "hauleth.dev",
+    "Description": "Personal guides for writing tests that are readable and maintainable. Stuff to\nuse, stuff to avoid, and how to organize stuff.\n\nFurthermore, I think that mocking must be destroyed.\n"
+  },
+  {
+    "Title": "The language debate is back!",
+    "Url": "https://antejavor.github.io/blog/2026/infra-static-languages/",
+    "Timestamp": "2026-05-15T23:02:40",
+    "Domain": "antejavor.github.io",
+    "Description": "Notes on the programming language debate and why we may increasingly favor statically typed and compiled languages."
+  },
+  {
+    "Title": "Keys and Values Are All You Need | nevzheng",
+    "Url": "https://n8z.dev/posts/keys-and-values-are-all-you-need/",
+    "Timestamp": "2026-05-15T23:02:36",
+    "Domain": "n8z.dev",
+    "Description": "Bootstrapping a SQL catalog on a flat key-value store, end to end."
+  },
+  {
+    "Title": "Product Product Product",
+    "Url": "https://elijahpotter.dev/articles/product-product-product",
+    "Timestamp": "2026-05-15T23:02:30",
+    "Domain": "elijahpotter.dev",
+    "Description": "Working this past week with Jason Adams has given me a brand-new appreciation for the category of ideas that we engineers call 'product.'"
+  },
+  {
+    "Title": "Managed agents are the new Lambda",
+    "Url": "https://martinalderson.com/posts/managed-agents-are-the-new-lambda/",
+    "Timestamp": "2026-05-15T23:02:24",
+    "Domain": "martinalderson.com",
+    "Description": "Managed agents (cloud-hosted agent harnesses) are powerful, but locking yourself into a frontier lab's platform now is risky - here's why and what to do instead."
+  },
+  {
+    "Title": "Why Anthropic’s ultra-dirty deal shouldn’t surprise you at all",
+    "Url": "https://ketanjoshi.co/2026/05/13/why-anthropics-ultra-dirty-deal-shouldnt-surprise-you-at-all/",
+    "Timestamp": "2026-05-15T23:02:21",
+    "Domain": "ketanjoshi.co",
+    "Description": "Perfect little Anthropic did the dirty with Elon Musk’s ultra-filthy pollution bomb fossil fuelled data centre. I am here to tell you why this is not surprising at all."
+  },
+  {
     "Title": "U.S. DOJ demands Apple and Google unmask over 100,000 users of popular car-tinkering app in emissions crackdown",
     "Url": "https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/",
     "Timestamp": "2026-05-15T21:02:06",

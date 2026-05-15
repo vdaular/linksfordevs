@@ -1,5 +1,141 @@
 [
   {
+    "Title": "Most Meaningful Dates on the Web and for an LLM",
+    "Url": "https://venkatasg.net/blog/dates-2026-05-12.html",
+    "Timestamp": "2026-05-15T23:03:28",
+    "Domain": "venkatasg.net",
+    "Description": "I recently read this blog post by David Hagen who figured out why the 11th of every month in ordinal form (‘February 11th’) occurs so much less often than every other date (except September of course) in xkcd #1140 (reproduced below):",
+    "Confidence": 0.8869069
+  },
+  {
+    "Title": "What Value Do You Provide? | Ethan Carter Edwards",
+    "Url": "https://ethancedwards.com/blog/what-value-do-you-provide",
+    "Timestamp": "2026-05-15T23:03:24",
+    "Domain": "ethancedwards.com",
+    "Description": "In a world of increasingly capable AI, what value do you provide?",
+    "Confidence": 0.9750661
+  },
+  {
+    "Title": "Everyone's a thought leader. Almost no one is thinking.",
+    "Url": "https://bernste.in/writings/everyones-a-thought-leader-almost-no-one-is-thinking/",
+    "Timestamp": "2026-05-15T23:03:20",
+    "Domain": "bernste.in",
+    "Description": "Thought leadership got cheap. Thinking didn't.",
+    "Confidence": 0.9885221
+  },
+  {
+    "Title": "Playing ATARI music on Amiga for free!",
+    "Url": "https://arnaud-carre.github.io/2026-05-15-ym-fast-emu/",
+    "Timestamp": "2026-05-15T23:03:17",
+    "Domain": "arnaud-carre.github.io",
+    "Description": "How to emulate an Atari YM2149 audio chip on Amiga at litteraly 0 CPU cost, by Arnaud Carré",
+    "Confidence": 0.98815703
+  },
+  {
+    "Title": "How I’m building a better way to understand and store legacy logs",
+    "Url": "https://www.mihirdeshpande.com/posts/logslim",
+    "Timestamp": "2026-05-15T23:03:12",
+    "Domain": "www.mihirdeshpande.com",
+    "Description": "Logslim is a log ingestion tool that runs the Drain log-parsing algorithm, separates repeating log templates from their variable parameters, and stores everything in compressed Parquet via DuckDB.",
+    "Confidence": 0.9883989
+  },
+  {
+    "Title": "Agents have (Information) Needs — Joe Barrow",
+    "Url": "https://jbarrow.ai/2026-05-13-agentic-information-need/",
+    "Timestamp": "2026-05-15T23:03:09",
+    "Domain": "jbarrow.ai",
+    "Description": ".",
+    "Confidence": 0.9071657
+  },
+  {
+    "Title": "Baba is Agent – Samplesurium",
+    "Url": "https://meffmadd.github.io/samplesurium/posts/baba_is_agent/",
+    "Timestamp": "2026-05-15T23:03:05",
+    "Domain": "meffmadd.github.io",
+    "Description": "Can LLMs play Baba Is You?",
+    "Confidence": 0.9818973
+  },
+  {
+    "Title": "Hey you, start communicating! - Kev Quirk",
+    "Url": "https://kevquirk.com/hey-you-start-communicating",
+    "Timestamp": "2026-05-15T23:03:02",
+    "Domain": "kevquirk.com",
+    "Description": "David talks about why it's good to reach out to authors when you read their content. Even if it's just to say hi.",
+    "Confidence": 0.991517
+  },
+  {
+    "Title": "Systems are Everything, Software is Systems – Wilsons Blog",
+    "Url": "https://wilsoniumite.com/2026/05/15/systems-are-everything-software-is-systems/",
+    "Timestamp": "2026-05-15T23:02:57",
+    "Domain": "wilsoniumite.com",
+    "Description": "I was talking to a friend of mine recently and asked them if they wanted to learn a bit more about how to code, they said they didn’t want to. I followed up by claiming that what you learn from designing software is very useful generally, but couldn’t really articulate why. I’ve since thought about it a bit and I have something more coherent which I thought I would write up.",
+    "Confidence": 0.98822474
+  },
+  {
+    "Title": "A letter from 2040 · xydac",
+    "Url": "https://www.xydac.com/blog/a-letter-from-2040/",
+    "Timestamp": "2026-05-15T23:02:52",
+    "Domain": "www.xydac.com",
+    "Description": "A speculative letter from 2040. Trees running computation, mortality as a choice, novelty as currency, and the quiet moment when humanity realized the universe had been waiting.",
+    "Confidence": 0.96912754
+  },
+  {
+    "Title": "Scaling As-of Joins",
+    "Url": "https://www.daft.ai/blog/scaling-asof-joins",
+    "Timestamp": "2026-05-15T23:02:49",
+    "Domain": "www.daft.ai",
+    "Description": "How we built, broke, and re-built our ASOF joins — 6x faster, half the memory of pandas, and scaled to a distributed cluster.",
+    "Confidence": 0.9814205
+  },
+  {
+    "Title": "Hauleth's blog - How do I write Elixir tests?",
+    "Url": "https://hauleth.dev/post/writing-tests/",
+    "Timestamp": "2026-05-15T23:02:44",
+    "Domain": "hauleth.dev",
+    "Description": "Personal guides for writing tests that are readable and maintainable. Stuff to\nuse, stuff to avoid, and how to organize stuff.\n\nFurthermore, I think that mocking must be destroyed.\n",
+    "Confidence": 0.9919327
+  },
+  {
+    "Title": "The language debate is back!",
+    "Url": "https://antejavor.github.io/blog/2026/infra-static-languages/",
+    "Timestamp": "2026-05-15T23:02:40",
+    "Domain": "antejavor.github.io",
+    "Description": "Notes on the programming language debate and why we may increasingly favor statically typed and compiled languages.",
+    "Confidence": 0.9793308
+  },
+  {
+    "Title": "Keys and Values Are All You Need | nevzheng",
+    "Url": "https://n8z.dev/posts/keys-and-values-are-all-you-need/",
+    "Timestamp": "2026-05-15T23:02:36",
+    "Domain": "n8z.dev",
+    "Description": "Bootstrapping a SQL catalog on a flat key-value store, end to end.",
+    "Confidence": 0.99732864
+  },
+  {
+    "Title": "Product Product Product",
+    "Url": "https://elijahpotter.dev/articles/product-product-product",
+    "Timestamp": "2026-05-15T23:02:30",
+    "Domain": "elijahpotter.dev",
+    "Description": "Working this past week with Jason Adams has given me a brand-new appreciation for the category of ideas that we engineers call 'product.'",
+    "Confidence": 0.9224745
+  },
+  {
+    "Title": "Managed agents are the new Lambda",
+    "Url": "https://martinalderson.com/posts/managed-agents-are-the-new-lambda/",
+    "Timestamp": "2026-05-15T23:02:24",
+    "Domain": "martinalderson.com",
+    "Description": "Managed agents (cloud-hosted agent harnesses) are powerful, but locking yourself into a frontier lab's platform now is risky - here's why and what to do instead.",
+    "Confidence": 0.9900502
+  },
+  {
+    "Title": "Why Anthropic’s ultra-dirty deal shouldn’t surprise you at all",
+    "Url": "https://ketanjoshi.co/2026/05/13/why-anthropics-ultra-dirty-deal-shouldnt-surprise-you-at-all/",
+    "Timestamp": "2026-05-15T23:02:21",
+    "Domain": "ketanjoshi.co",
+    "Description": "Perfect little Anthropic did the dirty with Elon Musk’s ultra-filthy pollution bomb fossil fuelled data centre. I am here to tell you why this is not surprising at all.",
+    "Confidence": 0.85830283
+  },
+  {
     "Title": "U.S. DOJ demands Apple and Google unmask over 100,000 users of popular car-tinkering app in emissions crackdown",
     "Url": "https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/",
     "Timestamp": "2026-05-15T21:02:06",
@@ -94,149 +230,5 @@
     "Domain": "github.com",
     "Description": "exploit for CVE-2026-42945. Contribute to DepthFirstDisclosures/Nginx-Rift development by creating an account on GitHub.",
     "Confidence": 0.9876803
-  },
-  {
-    "Title": "Req Is All You Need",
-    "Url": "https://benreinhart.com/blog/req-is-all-you-need/",
-    "Timestamp": "2026-05-14T23:03:40",
-    "Domain": "benreinhart.com",
-    "Description": "Req and ServerSentEvents cover all your Elixir AI needs.",
-    "Confidence": 0.99548364
-  },
-  {
-    "Title": "How Poor Sleep Drove Me Insane, and My Long Path to Recovery",
-    "Url": "https://writing.samsonhu.com/how-poor-sleep-drove-me-insane-and-my-long-path-to-recovery/",
-    "Timestamp": "2026-05-14T23:03:36",
-    "Domain": "writing.samsonhu.com",
-    "Description": "I'm sharing my experience dealing with what might be the most underdiagnosed and under-treated health disorder today.",
-    "Confidence": 0.88155246
-  },
-  {
-    "Title": "minimal structures",
-    "Url": "https://chefcinnamon.github.io/memo/posts/minimal-structures/",
-    "Timestamp": "2026-05-14T23:03:33",
-    "Domain": "chefcinnamon.github.io",
-    "Description": "I build organic minimal structures.",
-    "Confidence": 0.9740164
-  },
-  {
-    "Title": "Four tech waves. Six companies. Here’s what I’m building next.",
-    "Url": "https://www.tamccann.com/four-tech-waves-six-companies-heres-what-im-building-next/",
-    "Timestamp": "2026-05-14T23:03:30",
-    "Domain": "www.tamccann.com",
-    "Description": "I’ve been lucky. Lucky to be building during four major technology shifts: the internet, SaaS/web services, mobile/social, and now AI, and to have learned something useful from each one. Not by being the smartest person in the room, but by being around others building at the same",
-    "Confidence": 0.96709704
-  },
-  {
-    "Title": "Working Hard | Joy of Reading",
-    "Url": "https://joy.ente.com/working-hard/",
-    "Timestamp": "2026-05-14T23:03:26",
-    "Domain": "joy.ente.com",
-    "Description": "Before podcasts were a thing, Bill Simmons would trade e-mails with somebody successful for his piece on ESPN called \"The Curious Guy\". I ran into this excha...",
-    "Confidence": 0.90985835
-  },
-  {
-    "Title": "I owe my career to open-source communities. I'm not sure newcomers can say the same.",
-    "Url": "https://dhruvahuja.me/posts/ai-impact-on-oss/",
-    "Timestamp": "2026-05-14T23:03:23",
-    "Domain": "dhruvahuja.me",
-    "Description": "Open-source communities shaped my career in ways no tutorial ever could. Now, as AI floods those same spaces with noise, I worry about the people arriving just a few years too late.",
-    "Confidence": 0.8420087
-  },
-  {
-    "Title": "Agents Can Reason. They Still Can't Really Search.",
-    "Url": "https://dipkumar.dev/posts/agents/agent-search-problem/",
-    "Timestamp": "2026-05-14T23:03:19",
-    "Domain": "dipkumar.dev",
-    "Description": "Agents have a search problem across the whole stack: web search, RAG, tool discovery, skills/workflow loading, and even context compaction.",
-    "Confidence": 0.98882145
-  },
-  {
-    "Title": "May I recommend&#x2026; understanding Emacs's patterns",
-    "Url": "https://www.chiply.dev/post-emacs-carnival-may",
-    "Timestamp": "2026-05-14T23:03:16",
-    "Domain": "www.chiply.dev",
-    "Description": "The above, unless I've completely forgotten my Shakespeare, was a soliloquy from Juliet Consulet regarding Romeo Montagnu",
-    "Confidence": 0.9874427
-  },
-  {
-    "Title": "The End of Claude Code Automation",
-    "Url": "https://www.vincentschmalbach.com/the-end-of-claude-code-automation/",
-    "Timestamp": "2026-05-14T23:03:11",
-    "Domain": "www.vincentschmalbach.com",
-    "Description": "Starting June 15, Anthropic is moving automated Claude Code usage out of the normal subscription bucket. usage will now count against a separate monthly API-style credit that is much smaller than what…",
-    "Confidence": 0.99889237
-  },
-  {
-    "Title": "Stop using user passwords for OpenStack automation",
-    "Url": "https://thobias.org/2026/05/10/openstack_app_credentials.html",
-    "Timestamp": "2026-05-14T23:03:06",
-    "Domain": "thobias.org",
-    "Description": "10 May 2026",
-    "Confidence": 0.9666798
-  },
-  {
-    "Title": "Simon Rodriguez",
-    "Url": "https://blog.simonrodriguez.fr/articles/2026/05/a_frame_analysis_of_dishonored_2.html",
-    "Timestamp": "2026-05-14T23:03:03",
-    "Domain": "blog.simonrodriguez.fr",
-    "Description": "Renderistically - Simon Rodriguez",
-    "Confidence": 0.9772646
-  },
-  {
-    "Title": "Noam Hurwitz",
-    "Url": "https://www.nhurwitz.com/writing/known-scaling-options-for-euv-lithography",
-    "Timestamp": "2026-05-14T23:02:46",
-    "Domain": "www.nhurwitz.com",
-    "Description": "Modern chips are produced in part through lithography: light is projected through a mask onto photosensitive material coating silicon to pattern transistors, contacts, vias, interconnects, and other structures. As Moore’s Law pushes on and chips continue to pack more computational capacity into smaller surface areas, lithography machines need increasingly fine precision.",
-    "Confidence": 0.9723771
-  },
-  {
-    "Title": "The Internet is not dead",
-    "Url": "https://blog.woblick.dev/en/2026/the-internet-is-not-dead/",
-    "Timestamp": "2026-05-14T23:02:43",
-    "Domain": "blog.woblick.dev",
-    "Description": "",
-    "Confidence": 0.9326046
-  },
-  {
-    "Title": "what's the ideal analogy",
-    "Url": "https://alok.github.io/2026/04/28/whats-the-ideal-analogy/",
-    "Timestamp": "2026-05-14T23:02:37",
-    "Domain": "alok.github.io",
-    "Description": "Alok Singh's Blog",
-    "Confidence": 0.94152343
-  },
-  {
-    "Title": "Naturally Occurring Quasicrystals",
-    "Url": "https://johncarlosbaez.wordpress.com/2026/05/14/naturally-occurring-quasicrystals/",
-    "Timestamp": "2026-05-14T23:02:34",
-    "Domain": "johncarlosbaez.wordpress.com",
-    "Description": "I love quasicrystals—like crystals, but with patterns that never repeat, like Penrose tiles. But they’ve very rare in nature. They’re created only by the most exotic and violent e…",
-    "Confidence": 0.9680909
-  },
-  {
-    "Title": "Small Model Forensics",
-    "Url": "https://blog.0xmmo.co/forensics/post.html",
-    "Timestamp": "2026-05-14T23:02:30",
-    "Domain": "blog.0xmmo.co",
-    "Description": "What ~2,000 timed API calls reveal about how closed-weight model providers scale inference, or fail to, in 2026.",
-    "Confidence": 0.97629386
-  },
-  {
-    "Title": "Cheap agents, alumni shirts, and Elias Thorne · Daniel May",
-    "Url": "https://danielmay.co.uk/posts/cheap-agents-alumni-shirts-and-elias-thorne/",
-    "Timestamp": "2026-05-14T23:02:27",
-    "Domain": "danielmay.co.uk",
-    "Description": "On agent-coded cold outreach, the alumni t-shirt scam, the Elias Thorne convergence, and what gets visible when no one does the work.",
-    "Confidence": 0.8917693
-  },
-  {
-    "Title": "Don't Be Discouraged to Code by Hand",
-    "Url": "https://seongminpark.com/coding-by-hand/",
-    "Timestamp": "2026-05-14T23:02:21",
-    "Domain": "seongminpark.com",
-    "Description": "Am allowed to learn Lua now?",
-    "Confidence": 0.98615605
   }
 ]
