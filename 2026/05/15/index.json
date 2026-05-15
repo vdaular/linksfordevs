@@ -1,5 +1,19 @@
 [
   {
+    "Title": "Mullvad exit IPs as a fingerprinting vector",
+    "Url": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
+    "Timestamp": "2026-05-15T07:02:16",
+    "Domain": "tmctmt.com",
+    "Description": "Mullvad is one of the few VPN providers that offers multiple exit IPs for its servers. If two people connect to the same server, they will usually end up with different public IPs.\nWith only 578 servers (compared to Proton VPN’s 20,000), this kind of vertical scaling makes sense to avoid cramming too many users onto one IP, which would be a problem on sites with overzealous IP blocks and ratelimits."
+  },
+  {
+    "Title": "A few words on DS4",
+    "Url": "https://antirez.com/news/165",
+    "Timestamp": "2026-05-15T07:02:13",
+    "Domain": "antirez.com",
+    "Description": ""
+  },
+  {
     "Title": "Work with Codex from anywhere",
     "Url": "https://openai.com/index/work-with-codex-from-anywhere/",
     "Timestamp": "2026-05-15T05:02:34",

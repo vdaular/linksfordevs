@@ -7,6 +7,25 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Mullvad exit IPs as a fingerprinting vector</title>
+      <link>https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/</link>
+      <description>Mullvad is one of the few VPN providers that offers multiple exit IPs for its servers. If two people connect to the same server, they will usually end up with different public IPs.
+With only 578 servers (compared to Proton VPN’s 20,000), this kind of vertical scaling makes sense to avoid cramming too many users onto one IP, which would be a problem on sites with overzealous IP blocks and ratelimits.</description>
+      <category>rust</category>
+      <guid>https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/</guid>
+      <pubDate>Fri, 15 May 2026 07:02:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>A few words on DS4</title>
+      <link>https://antirez.com/news/165</link>
+      <description></description>
+      <category>ai</category>
+      <category>apple</category>
+      <category>gaming</category>
+      <guid>https://antirez.com/news/165</guid>
+      <pubDate>Fri, 15 May 2026 07:02:13 GMT</pubDate>
+    </item>
+    <item>
       <title>Work with Codex from anywhere</title>
       <link>https://openai.com/index/work-with-codex-from-anywhere/</link>
       <description>Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.</description>
