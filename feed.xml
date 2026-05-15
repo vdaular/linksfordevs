@@ -7,6 +7,23 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>A 0-click exploit chain for the Pixel 10: When a Door Closes, a Window Opens </title>
+      <link>https://projectzero.google/2026/05/pixel-10-exploit.html</link>
+      <description>We recently published an exploit chain for the Google Pixel 9 that demonstrated it was possible t...</description>
+      <category>android</category>
+      <category>linux</category>
+      <guid>https://projectzero.google/2026/05/pixel-10-exploit.html</guid>
+      <pubDate>Fri, 15 May 2026 20:02:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Amazon workers are under pressure to up their AI usage—so they're making up extraneous tasks</title>
+      <link>https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks</link>
+      <description>In a new report, employees say Amazon tracks their consumption of 'AI tokens'—and they've been creating unproductive AI agents just to eat them up.</description>
+      <category>ai</category>
+      <guid>https://www.fastcompany.com/91541586/amazon-workers-pressured-to-up-ai-use-extraneous-tasks</guid>
+      <pubDate>Fri, 15 May 2026 20:02:13 GMT</pubDate>
+    </item>
+    <item>
       <title>Yellow Key: BitLocker has been Broken!  Don't lose your laptop!</title>
       <link>https://youtube.com/watch?v=I14yjt00Fl8</link>
       <description>Dave explains the new YellowKey exploit that can use a simple USB stick to unlock a BitLocker drive.</description>
@@ -258,27 +275,6 @@ With only 578 servers (compared to Proton VPN’s 20,000), this kind of vertical
       <category>ai</category>
       <guid>https://jpain.io/god-damn-ai-is-making-me-dumb/</guid>
       <pubDate>Thu, 14 May 2026 21:02:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bitcoin trader recovers $400,000 using Claude AI after getting 'stoned' and losing wallet password 11 years ago — bot tried 3.5 trillion passwords before decrypting an old wallet backup</title>
-      <link>https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup</link>
-      <description>The user apparently changed the password while 'stoned.'</description>
-      <author> (https://www.tomshardware.com/author/jowi-morales)</author>
-      <category>ai</category>
-      <guid>https://www.tomshardware.com/tech-industry/cryptocurrency/bitcoin-trader-recovers-usd400-000-using-claude-ai-after-losing-wallet-password-11-years-ago-bot-tried-3-5-trillion-passwords-before-decrypting-an-old-wallet-backup</guid>
-      <pubDate>Thu, 14 May 2026 20:02:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>RTX 5090 + M4 MacBook Air: Can it Game?</title>
-      <link>https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/</link>
-      <description>What if you could strap a full desktop GPU to your MacBook Air? Turns out, you can.</description>
-      <category>gaming</category>
-      <category>apple</category>
-      <category>linux</category>
-      <category>cloud</category>
-      <category>ai</category>
-      <guid>https://scottjg.com/posts/2026-05-05-egpu-mac-gaming/</guid>
-      <pubDate>Thu, 14 May 2026 20:02:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
