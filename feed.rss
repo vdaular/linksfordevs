@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>GitHub - DepthFirstDisclosures/Nginx-Rift: exploit for CVE-2026-42945</title>
+      <link>https://github.com/DepthFirstDisclosures/Nginx-Rift</link>
+      <description>exploit for CVE-2026-42945. Contribute to DepthFirstDisclosures/Nginx-Rift development by creating an account on GitHub.</description>
+      <category>cloud</category>
+      <category>linux</category>
+      <category>containers</category>
+      <guid>https://github.com/DepthFirstDisclosures/Nginx-Rift</guid>
+      <pubDate>Fri, 15 May 2026 00:02:18 GMT</pubDate>
+    </item>
+    <item>
       <title>Req Is All You Need</title>
       <link>https://benreinhart.com/blog/req-is-all-you-need/</link>
       <description>Req and ServerSentEvents cover all your Elixir AI needs.</description>
@@ -226,210 +236,6 @@ It passes Bun&amp;#39;s pre-existing test suite on all platforms (and fixes seve
       <category>web</category>
       <guid>http://www.scorch2000.com/web/</guid>
       <pubDate>Thu, 14 May 2026 10:02:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>How Quickly do Browsers Implement Features?</title>
-      <link>https://sanand0.github.io/webfeatures/</link>
-      <description>19951996199719992000200120032004200520062007200820092010201120122013201420152016201720182019202020212022202320242025ieoperasafarifirefoxchromeedgewebview_iossafari_ioswebview_androidopera_androidfirefox_androidchrome_androidsamsunginternet_android</description>
-      <category>cloud</category>
-      <category>android</category>
-      <category>apple</category>
-      <guid>https://sanand0.github.io/webfeatures/</guid>
-      <pubDate>Thu, 14 May 2026 00:03:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Arrival of the Personal Cluster</title>
-      <link>https://aranya.tech/blog/arrival-of-the-personal-cluster</link>
-      <description>BACK TO BLOG</description>
-      <category>containers</category>
-      <category>ai</category>
-      <category>linux</category>
-      <guid>https://aranya.tech/blog/arrival-of-the-personal-cluster</guid>
-      <pubDate>Thu, 14 May 2026 00:03:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Per-Minute Calling Myth: The Hidden Economics of Voice and Video Calling APIs</title>
-      <link>https://blog.mesibo.com/per-minute-calling-myth-hidden-economics-voice-video-calling-apis/</link>
-      <description>Why do most communication platforms charge per-minute fees even when peer-to-peer calls never traverse their infrastructure? A technical look at how modern WebRTC systems actually work, and why per-minute billing for internet communication is increasingly difficult to justify — technically and ethically.</description>
-      <guid>https://blog.mesibo.com/per-minute-calling-myth-hidden-economics-voice-video-calling-apis/</guid>
-      <pubDate>Thu, 14 May 2026 00:03:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Adopting Helix-isms | Kris Tun</title>
-      <link>https://kristun.dev/posts/adopting-helix-isms/</link>
-      <description>An exploration of adopting Helix-isms into my Neovim workflow</description>
-      <category>vscode</category>
-      <category>ai</category>
-      <category>linux</category>
-      <category>git</category>
-      <category>web</category>
-      <guid>https://kristun.dev/posts/adopting-helix-isms/</guid>
-      <pubDate>Thu, 14 May 2026 00:03:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>I Don't Even Know What To Build Anymore - Vance Lucas</title>
-      <link>https://vancelucas.com/blog/i-dont-even-know-what-to-build-anymore/</link>
-      <description>UIs with buttons and charts are not cool anymore. All that matters is AI agents now. APIs, CLIs and MCPs. It's all about the data, bro. Where is your MCP? Or so the discourse goes...</description>
-      <category>ai</category>
-      <guid>https://vancelucas.com/blog/i-dont-even-know-what-to-build-anymore/</guid>
-      <pubDate>Thu, 14 May 2026 00:03:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>The hardware isn't broken, the documentation is !</title>
-      <link>https://essenceia.github.io/thoughts/broken_doc/</link>
-      <description>Silicon erratas or how my first analog ASIC is dead before arrival.</description>
-      <guid>https://essenceia.github.io/thoughts/broken_doc/</guid>
-      <pubDate>Thu, 14 May 2026 00:03:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>The harness that lied — Are You There?</title>
-      <link>https://stuart-thomas.com/are-you-there/the-harness-that-lied/</link>
-      <description>On the verdict-before-evidence pattern in security research — and how I caught my own PoC confirming itself regardless of the facts.</description>
-      <guid>https://stuart-thomas.com/are-you-there/the-harness-that-lied/</guid>
-      <pubDate>Thu, 14 May 2026 00:03:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Star Color and the Evolution of Space on the Screen</title>
-      <link>https://valhovey.github.io/blog/star-color-and-the-evolution-of-space-on-the-screen</link>
-      <description>How Project Hail Mary's faithful depiction of space changes science fiction forever.</description>
-      <category>gaming</category>
-      <guid>https://valhovey.github.io/blog/star-color-and-the-evolution-of-space-on-the-screen</guid>
-      <pubDate>Thu, 14 May 2026 00:03:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>You need to calm down</title>
-      <link>https://petro.blog/you-need-to-calm-down-71a177c99c9f</link>
-      <description>AI isn’t changing the fundamentals of building software. It’s changing the speed. Don’t confuse the two.</description>
-      <author> (https://petro.blog)</author>
-      <category>ai</category>
-      <guid>https://petro.blog/you-need-to-calm-down-71a177c99c9f</guid>
-      <pubDate>Thu, 14 May 2026 00:03:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Building for the joy of building | jola.dev</title>
-      <link>https://jola.dev/posts/building-for-the-joy-of-building</link>
-      <description>My path into programming and why I've been obsessed for 20 years.</description>
-      <author> (https://jola.dev/about)</author>
-      <category>sql</category>
-      <category>javascript</category>
-      <category>linux</category>
-      <category>web</category>
-      <guid>https://jola.dev/posts/building-for-the-joy-of-building</guid>
-      <pubDate>Thu, 14 May 2026 00:03:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>How LLMs Really Work</title>
-      <link>https://arpitbhayani.me/blogs/how-llms-work/</link>
-      <description>If you have used ChatGPT, Gemini, or Claude, you have already formed an intuition about what these systems do. You type something in, and text comes back that feels coherent, knowledgeable, and sometimes eerily human. But the machinery underneath is simultaneously simpler and stranger than most people expect.</description>
-      <category>encryption</category>
-      <category>ai</category>
-      <category>python</category>
-      <guid>https://arpitbhayani.me/blogs/how-llms-work/</guid>
-      <pubDate>Thu, 14 May 2026 00:03:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Removing the Modem and GPS from my 2024 RAV4 Hybrid</title>
-      <link>https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/</link>
-      <description>Modern cars are computers on wheels that send home nonstop telemetry about you. In this post I remove my 2024 RAV4 Hybrid's modem and GPS to prevent that :)</description>
-      <category>git</category>
-      <guid>https://arkadiyt.com/2026/05/13/removing-the-modem-and-gps-from-my-rav4/</guid>
-      <pubDate>Thu, 14 May 2026 00:03:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>I Read OpenSSL for Fun and Found a Nonce Leak</title>
-      <link>https://blog.himanshuanand.com/2026/05/i-read-openssl-for-fun-and-found-a-nonce-leak/</link>
-      <description>I was poking around the OpenSSL source code recently. Not really hunting for anything specific (one of the most heavily audited codebases), just curious about how the new post-quantum crypto stuff was wired up in version 4.0.0. I went in expecting to find nothing interesting. Instead I tripped over a single-character logic bug that leaks cryptographic randomness onto the stack on every signing call.
-Quick disclaimer: I am not a crypto person.</description>
-      <category>encryption</category>
-      <guid>https://blog.himanshuanand.com/2026/05/i-read-openssl-for-fun-and-found-a-nonce-leak/</guid>
-      <pubDate>Thu, 14 May 2026 00:03:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>EventQL: A SQL-Inspired Query Language Designed for Event Sourcing</title>
-      <link>https://yoeight.github.io/blog/2025/12/21/EventQL_A_SQL_Inspired_Query_Language_Designed_For_Event_Sourcing.html</link>
-      <description>EventQL: A SQL-Inspired Query Language Designed for Event Sourcing</description>
-      <category>sql</category>
-      <category>rust</category>
-      <guid>https://yoeight.github.io/blog/2025/12/21/EventQL_A_SQL_Inspired_Query_Language_Designed_For_Event_Sourcing.html</guid>
-      <pubDate>Thu, 14 May 2026 00:02:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rubenerd: Fractions in HTML</title>
-      <link>https://www.rubenerd.au/fractions-in-html/</link>
-      <description>Expressing 1/3 with ⅓, and related adventures.</description>
-      <author> (Ruben Schade)</author>
-      <category>web</category>
-      <guid>https://www.rubenerd.au/fractions-in-html/</guid>
-      <pubDate>Thu, 14 May 2026 00:02:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Was my $48K GPU server worth it?</title>
-      <link>https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/</link>
-      <description>In 2024 I quit my FAANG job to become an independent researcher. To do this I needed GPUs, so I built “grumbl”, a 6x 6000 Ada GPU server. This blog describes the build, some of the issu…</description>
-      <category>vscode</category>
-      <category>ai</category>
-      <guid>https://rosmine.ai/2026/05/13/was-my-48k-gpu-worth-it/</guid>
-      <pubDate>Thu, 14 May 2026 00:02:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>On Planet Quantos, Programmers Flee</title>
-      <link>https://shukla.io/blog/2026-05/rank-select.html</link>
-      <description>An interactive story about porting a classical rank-select function to a reversible (quantum-oracle-style) form. Step through five C implementations, each adding one constraint from the world of unitary computation.</description>
-      <author> (Nishant Shukla)</author>
-      <category>web</category>
-      <guid>https://shukla.io/blog/2026-05/rank-select.html</guid>
-      <pubDate>Thu, 14 May 2026 00:02:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Wide Paved Road versus the Narrow Footpath - Peter's Path</title>
-      <link>https://peterspath.net/blog/essay-the-wide-paved-road-versus-the-narrow-footpath/</link>
-      <description>Explore the wide paved road of ease leading to ruin versus the narrow footpath of hardship leading to redemption across stories, myths, and faiths.</description>
-      <author> (Peter)</author>
-      <guid>https://peterspath.net/blog/essay-the-wide-paved-road-versus-the-narrow-footpath/</guid>
-      <pubDate>Thu, 14 May 2026 00:02:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>I was asked to install malware during a fake interview</title>
-      <link>https://ashishb.net/security/contagious-interview/</link>
-      <description>My experience with Contagious Interviews (Malware delivered through fake developer job interviews)</description>
-      <category>nodejs</category>
-      <category>vscode</category>
-      <category>javascript</category>
-      <category>ai</category>
-      <category>cloud</category>
-      <guid>https://ashishb.net/security/contagious-interview/</guid>
-      <pubDate>Thu, 14 May 2026 00:02:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Slowing Down My Coding Agents to Get More Done – Robert W</title>
-      <link>https://www.robw.fyi/2026/05/11/slowing-down-my-coding-agents-to-get-more-done/</link>
-      <description>Your backlog is sitting idle waiting to get worked on, and it could be showing up pre-baked, ready for verification.</description>
-      <category>git</category>
-      <guid>https://www.robw.fyi/2026/05/11/slowing-down-my-coding-agents-to-get-more-done/</guid>
-      <pubDate>Thu, 14 May 2026 00:02:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Prayer-Driven Development</title>
-      <link>https://digitaliziran.si/2026/05/08/prayer-driven-development.html</link>
-      <description>The term “Prayer-Driven Development” was coined by Davor Pavleković for deployments where hope is your only strategy. That was before AI agents made it an industry standard.
-Everyone Did Their Part. Nobody Saw the Whole. You’ve been here. The prompt that needs “MANDATORY” in all caps. The instruction that says “DO NOT SKIP” because the model skipped it three times already. The system prompt that reads like a legal contract because you can’t trust the other party.
-</description>
-      <category>python</category>
-      <category>nodejs</category>
-      <category>ai</category>
-      <category>javascript</category>
-      <guid>https://digitaliziran.si/2026/05/08/prayer-driven-development.html</guid>
-      <pubDate>Thu, 14 May 2026 00:02:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Taking control of the SQLite WAL – Philip O'Toole</title>
-      <link>https://philipotoole.com/taking-control-of-the-sqlite-wal/</link>
-      <description>rqlite is a lightweight, open-source, fault-tolerant relational database built on SQLite and Raft. Version 10 is out now. rqlite has a particular relationship with the SQLite Write-Ahead Log (WAL). SQLite, left to itself, manages its own WAL: it checkpoints when the WAL grows, it checkpoints when the last connection closes, and it decides when frames move from…</description>
-      <category>sql</category>
-      <category>git</category>
-      <category>nodejs</category>
-      <guid>https://philipotoole.com/taking-control-of-the-sqlite-wal/</guid>
-      <pubDate>Thu, 14 May 2026 00:02:20 GMT</pubDate>
     </item>
   </channel>
 </rss>
