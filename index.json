@@ -222,13 +222,5 @@
     "Domain": "github.com",
     "Description": "Blog post with details coming soon.\nIt passes Bun&#39;s pre-existing test suite on all platforms (and fixes several memory leaks and flaky tests), the binary size shrinks by 3 MB - 8 MB, the benchm...",
     "Confidence": 0.9895231
-  },
-  {
-    "Title": "Introducing Claude for Small Business",
-    "Url": "https://www.anthropic.com/news/claude-for-small-business",
-    "Timestamp": "2026-05-14T11:02:12",
-    "Domain": "www.anthropic.com",
-    "Description": "We're launching Claude for Small Business, a package of connectors and ready-to-run workflows that put Claude inside the tools small businesses use every day.",
-    "Confidence": 0.9294841
   }
 ]

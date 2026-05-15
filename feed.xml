@@ -260,13 +260,5 @@ It passes Bun&amp;#39;s pre-existing test suite on all platforms (and fixes seve
       <guid>https://github.com/oven-sh/bun/pull/30412</guid>
       <pubDate>Thu, 14 May 2026 16:02:31 GMT</pubDate>
     </item>
-    <item>
-      <title>Introducing Claude for Small Business</title>
-      <link>https://www.anthropic.com/news/claude-for-small-business</link>
-      <description>We're launching Claude for Small Business, a package of connectors and ready-to-run workflows that put Claude inside the tools small businesses use every day.</description>
-      <category>ai</category>
-      <guid>https://www.anthropic.com/news/claude-for-small-business</guid>
-      <pubDate>Thu, 14 May 2026 11:02:12 GMT</pubDate>
-    </item>
   </channel>
 </rss>
