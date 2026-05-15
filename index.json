@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Yellow Key: BitLocker has been Broken!  Don't lose your laptop!",
+    "Url": "https://youtube.com/watch?v=I14yjt00Fl8",
+    "Timestamp": "2026-05-15T19:02:44",
+    "Domain": "youtube.com",
+    "Description": "Dave explains the new YellowKey exploit that can use a simple USB stick to unlock a BitLocker drive.",
+    "Confidence": 0.92461324
+  },
+  {
     "Title": "The Wonders of AI: We Are Retiring Our Bug Bounty Program",
     "Url": "https://turso.tech/blog/the-wonders-of-ai",
     "Timestamp": "2026-05-15T16:02:10",
