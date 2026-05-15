@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>GitHub - Andyyyy64/whichllm: Find the local LLM that actually runs — and performs best — on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.</title>
+      <link>https://github.com/Andyyyy64/whichllm</link>
+      <description>Find the local LLM that actually runs — and performs best — on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly. - Andyyyy64/whichllm</description>
+      <category>cloud</category>
+      <category>javascript</category>
+      <category>python</category>
+      <category>vscode</category>
+      <category>git</category>
+      <guid>https://github.com/Andyyyy64/whichllm</guid>
+      <pubDate>Fri, 15 May 2026 15:02:19 GMT</pubDate>
+    </item>
+    <item>
       <title>Wikipedia File Explorer — Browse Wikipedia on a Windows XP desktop</title>
       <link>https://explorer.samismith.com/</link>
       <description>A working Windows XP desktop in your browser. Wikipedia and Wikimedia Commons as folder trees, Earth as a scrapbook. By Sami Smith.</description>
