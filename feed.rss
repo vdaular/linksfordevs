@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Bill to block publishers from killing online games advances in California</title>
+      <link>https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/</link>
+      <description>Publishers would have to offer "independent" play patch or refunds after server shutdowns.</description>
+      <category>gaming</category>
+      <guid>https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/</guid>
+      <pubDate>Sat, 16 May 2026 00:02:02 GMT</pubDate>
+    </item>
+    <item>
       <title>Most Meaningful Dates on the Web and for an LLM</title>
       <link>https://venkatasg.net/blog/dates-2026-05-12.html</link>
       <description>I recently read this blog post by David Hagen who figured out why the 11th of every month in ordinal form (‘February 11th’) occurs so much less often than every other date (except September of course) in xkcd #1140 (reproduced below):</description>
@@ -267,16 +275,6 @@ With only 578 servers (compared to Proton VPN’s 20,000), this kind of vertical
       <category>vscode</category>
       <guid>https://denodell.com/blog/browsers-treat-big-sites-differently</guid>
       <pubDate>Fri, 15 May 2026 01:02:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - DepthFirstDisclosures/Nginx-Rift: exploit for CVE-2026-42945</title>
-      <link>https://github.com/DepthFirstDisclosures/Nginx-Rift</link>
-      <description>exploit for CVE-2026-42945. Contribute to DepthFirstDisclosures/Nginx-Rift development by creating an account on GitHub.</description>
-      <category>cloud</category>
-      <category>linux</category>
-      <category>containers</category>
-      <guid>https://github.com/DepthFirstDisclosures/Nginx-Rift</guid>
-      <pubDate>Fri, 15 May 2026 00:02:18 GMT</pubDate>
     </item>
   </channel>
 </rss>
