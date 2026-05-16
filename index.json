@@ -238,13 +238,5 @@
     "Domain": "github.com",
     "Description": "Find the local LLM that actually runs — and performs best — on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly. - Andyyyy64/whichllm",
     "Confidence": 0.97745484
-  },
-  {
-    "Title": "Wikipedia File Explorer — Browse Wikipedia on a Windows XP desktop",
-    "Url": "https://explorer.samismith.com/",
-    "Timestamp": "2026-05-15T14:02:24",
-    "Domain": "explorer.samismith.com",
-    "Description": "A working Windows XP desktop in your browser. Wikipedia and Wikimedia Commons as folder trees, Earth as a scrapbook. By Sami Smith.",
-    "Confidence": 0.96733916
   }
 ]
