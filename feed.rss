@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Fecal transplants for autism deliver success in clinical trials</title>
+      <link>https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/</link>
+      <description>Scientific research continues to uncover interesting connections between the gut microbiome and human health, including everything from depression to PTSD to autoimmune disease. Another example of this are emerging ties between gut health and autism. Exciting new research, now moving to Phase 3…</description>
+      <author> (https://refractor.io/author/rich-haridy/)</author>
+      <category>git</category>
+      <guid>https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/</guid>
+      <pubDate>Sat, 16 May 2026 21:02:24 GMT</pubDate>
+    </item>
+    <item>
       <title>Moving away from Tailwind, and learning to structure my CSS</title>
       <link>https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/</link>
       <description>Moving away from Tailwind, and learning to structure my CSS</description>
@@ -264,13 +273,6 @@ Furthermore, I think that mocking must be destroyed.
       <category>sql</category>
       <guid>https://ketanjoshi.co/2026/05/13/why-anthropics-ultra-dirty-deal-shouldnt-surprise-you-at-all/</guid>
       <pubDate>Fri, 15 May 2026 23:02:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>U.S. DOJ demands Apple and Google unmask over 100,000 users of popular car-tinkering app in emissions crackdown</title>
-      <link>https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/</link>
-      <description>The U.S. Department of Justice is seeking personal data on potentially hundreds of thousands of drivers who downloaded EZ Lynk’s Auto Agent…</description>
-      <guid>https://macdailynews.com/2026/05/15/u-s-doj-demands-apple-and-google-unmask-over-100000-users-of-popular-car-tinkering-app-in-emissions-crackdown/</guid>
-      <pubDate>Fri, 15 May 2026 21:02:06 GMT</pubDate>
     </item>
   </channel>
 </rss>
