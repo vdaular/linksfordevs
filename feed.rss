@@ -7,6 +7,103 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Anecdotal definitions of success</title>
+      <link>https://nafe.es/writing/success/</link>
+      <description>The definition of success keeps changing as you progress in life. Something we should all be comfortable with.</description>
+      <guid>https://nafe.es/writing/success/</guid>
+      <pubDate>Sat, 16 May 2026 22:03:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Quiet Renovation at Bitwarden - ByteHaven - Where I ramble about bytes</title>
+      <link>https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden</link>
+      <description>Back in March, I wrote about Bitwarden doubling their Premium price — and specifically how they did it. Buried in a feature announcement. Priced in fake...</description>
+      <guid>https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden</guid>
+      <pubDate>Sat, 16 May 2026 22:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Halt and Catch Fire</title>
+      <link>https://unstack.io/halt-and-catch-fire</link>
+      <description>I have never watched the AMC show Halt and Catch Fire, and for a long time I only knew the title, but nothing about the show. Something about it always reminded...</description>
+      <author> (unstack.io)</author>
+      <guid>https://unstack.io/halt-and-catch-fire</guid>
+      <pubDate>Sat, 16 May 2026 22:02:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Products are out, brains are in</title>
+      <link>https://mrmarket.bearblog.dev/products-are-out-brains-are-in-new/</link>
+      <description>&lt;p&gt;Often, something that should be free is expensive. Ex: bottled water, pre-washed lettuce, filing your taxes, and a bunch more stuff.&lt;/p&gt;
+&lt;p&gt;Soon, softwar...</description>
+      <category>encryption</category>
+      <category>ai</category>
+      <guid>https://mrmarket.bearblog.dev/products-are-out-brains-are-in-new/</guid>
+      <pubDate>Sat, 16 May 2026 22:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Introducing jjw: a workspace manager for jj</title>
+      <link>https://aran.dev/posts/introducing-jjw-jj-workspace-manager/</link>
+      <description>Introducing jjw, a small Go CLI for managing jj workspaces with bookmarks and lifecycle hooks, built to make parallel LLM coding agent workflows easier.</description>
+      <category>git</category>
+      <category>sql</category>
+      <guid>https://aran.dev/posts/introducing-jjw-jj-workspace-manager/</guid>
+      <pubDate>Sat, 16 May 2026 22:02:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>I spawn interests randomly...</title>
+      <link>https://ssenthilnathan3.github.io/blog/spawning-random-interests/</link>
+      <description>Navigating random sidequests</description>
+      <guid>https://ssenthilnathan3.github.io/blog/spawning-random-interests/</guid>
+      <pubDate>Sat, 16 May 2026 22:02:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>You don’t know HTML Lists</title>
+      <link>https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/</link>
+      <description>This second installment in the "You don't know HTML" series is going to be all about the ways that we put collections of things together</description>
+      <author> (https://blog.frankmtaylor.com/author/paceaux/)</author>
+      <category>javascript</category>
+      <category>web</category>
+      <guid>https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/</guid>
+      <pubDate>Sat, 16 May 2026 22:02:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wrapping a C library in RAII: unique_ptr with custom deleters and why Subsystem can't be moveable</title>
+      <link>https://lmilz.dev/blog/2026/05/15/Wrapping-a-C-library-in-RAII-unique_ptr-with-custom-deleters-and-why-Subsystem-canot-be-moveable.html</link>
+      <description>I got into the habit of wrapping C libraries before I start working with them. Not out of principle, but because I have seen the same mistakes often enough.</description>
+      <category>web</category>
+      <guid>https://lmilz.dev/blog/2026/05/15/Wrapping-a-C-library-in-RAII-unique_ptr-with-custom-deleters-and-why-Subsystem-canot-be-moveable.html</guid>
+      <pubDate>Sat, 16 May 2026 22:02:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>My mental model of learning</title>
+      <link>https://gcapu.com/posts/on_learning.html</link>
+      <description>A mental model for how learning can both constrain and expand creativity.</description>
+      <category>ai</category>
+      <guid>https://gcapu.com/posts/on_learning.html</guid>
+      <pubDate>Sat, 16 May 2026 22:02:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I use LLMs as a staff engineer in 2026</title>
+      <link>https://www.seangoedecke.com/how-i-use-llms-in-2026/</link>
+      <description>A bit over a year ago I wrote How I use LLMs as a staff engineer. Here’s a brief summary of what I used AI for last year:</description>
+      <category>gaming</category>
+      <category>vscode</category>
+      <category>cloud</category>
+      <category>ai</category>
+      <category>nodejs</category>
+      <guid>https://www.seangoedecke.com/how-i-use-llms-in-2026/</guid>
+      <pubDate>Sat, 16 May 2026 22:02:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>What breaks when you ship Next.js on Cloudflare Workers</title>
+      <link>https://finterm.xyz/blog/nextjs-on-cloudflare-workers</link>
+      <description>A log of which npm packages don't survive the Workers runtime, what to swap them with, and the patterns that ended up mattering.</description>
+      <category>nodejs</category>
+      <category>javascript</category>
+      <category>git</category>
+      <category>web</category>
+      <guid>https://finterm.xyz/blog/nextjs-on-cloudflare-workers</guid>
+      <pubDate>Sat, 16 May 2026 22:02:27 GMT</pubDate>
+    </item>
+    <item>
       <title>Fecal transplants for autism deliver success in clinical trials</title>
       <link>https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/</link>
       <description>Scientific research continues to uncover interesting connections between the gut microbiome and human health, including everything from depression to PTSD to autoimmune disease. Another example of this are emerging ties between gut health and autism. Exciting new research, now moving to Phase 3…</description>
