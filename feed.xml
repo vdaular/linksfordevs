@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>DeepSeek-V4-Flash means LLM steering is interesting again</title>
+      <link>https://www.seangoedecke.com/steering-vectors/</link>
+      <description>Ever since Golden Gate Claude I’ve been fascinated with “steering”: the idea that you can guide LLM outputs by directly manipulating the activations of the model mid-flight.</description>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://www.seangoedecke.com/steering-vectors/</guid>
+      <pubDate>Sat, 16 May 2026 08:02:06 GMT</pubDate>
+    </item>
+    <item>
       <title>Announcing the Zulip Foundation</title>
       <link>https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/</link>
       <description>Today marks a major transition for the Zulip open-source project and for Kandra
