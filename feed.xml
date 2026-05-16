@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>‘No Way To Prevent This,’ Says Only Package Manager Where This Regularly Happens | Kevin Patel</title>
+      <link>https://kevinpatel.xyz/posts/no-way-to-prevent-this/</link>
+      <description>Kevin Patel - Application Security Engineer @ NISC</description>
+      <author> (Kevin Patel)</author>
+      <category>nodejs</category>
+      <category>cloud</category>
+      <category>rust</category>
+      <category>javascript</category>
+      <guid>https://kevinpatel.xyz/posts/no-way-to-prevent-this/</guid>
+      <pubDate>Sat, 16 May 2026 05:02:21 GMT</pubDate>
+    </item>
+    <item>
       <title>Speedrun</title>
       <link>https://xkcd.com/3246/</link>
       <description></description>
@@ -262,14 +274,6 @@ With only 578 servers (compared to Proton VPN’s 20,000), this kind of vertical
       <category>gaming</category>
       <guid>https://antirez.com/news/165</guid>
       <pubDate>Fri, 15 May 2026 07:02:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Work with Codex from anywhere</title>
-      <link>https://openai.com/index/work-with-codex-from-anywhere/</link>
-      <description>Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.</description>
-      <category>ai</category>
-      <guid>https://openai.com/index/work-with-codex-from-anywhere/</guid>
-      <pubDate>Fri, 15 May 2026 05:02:34 GMT</pubDate>
     </item>
   </channel>
 </rss>

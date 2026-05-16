@@ -1,5 +1,13 @@
 [
   {
+    "Title": "‘No Way To Prevent This,’ Says Only Package Manager Where This Regularly Happens | Kevin Patel",
+    "Url": "https://kevinpatel.xyz/posts/no-way-to-prevent-this/",
+    "Timestamp": "2026-05-16T05:02:21",
+    "Domain": "kevinpatel.xyz",
+    "Description": "Kevin Patel - Application Security Engineer @ NISC",
+    "Confidence": 0.7449206
+  },
+  {
     "Title": "Speedrun",
     "Url": "https://xkcd.com/3246/",
     "Timestamp": "2026-05-16T01:02:14",
@@ -222,13 +230,5 @@
     "Domain": "antirez.com",
     "Description": "",
     "Confidence": 0.98672575
-  },
-  {
-    "Title": "Work with Codex from anywhere",
-    "Url": "https://openai.com/index/work-with-codex-from-anywhere/",
-    "Timestamp": "2026-05-15T05:02:34",
-    "Domain": "openai.com",
-    "Description": "Use Codex anywhere with the ChatGPT mobile app. Monitor, steer, and approve coding tasks in real time across devices and remote environments.",
-    "Confidence": 0.9726624
   }
 ]
