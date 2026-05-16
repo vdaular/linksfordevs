@@ -1,5 +1,13 @@
 [
   {
+    "Title": "A History of IDEs at Google",
+    "Url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
+    "Timestamp": "2026-05-16T11:02:14",
+    "Domain": "laurent.le-brun.eu",
+    "Description": "Laurent Le Brun's blog",
+    "Confidence": 0.9911774
+  },
+  {
     "Title": "DeepSeek-V4-Flash means LLM steering is interesting again",
     "Url": "https://www.seangoedecke.com/steering-vectors/",
     "Timestamp": "2026-05-16T08:02:06",
