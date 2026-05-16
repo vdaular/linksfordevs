@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Malloc is NOT Magic: Let's Build it to Learn What's Inside!",
+    "Url": "https://youtube.com/watch?v=mYBxnojY-JA",
+    "Timestamp": "2026-05-16T15:02:07",
+    "Domain": "youtube.com",
+    "Description": "Every program you've ever written or run uses malloc behind the scenes; find out how it works and why it only akin to magic!"
+  },
+  {
     "Title": "Six SQL patterns I use to catch transaction fraud",
     "Url": "https://analytics.fixelsmith.com/posts/sql-fraud-patterns/",
     "Timestamp": "2026-05-16T12:02:14",

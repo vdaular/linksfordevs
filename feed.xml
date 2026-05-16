@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Malloc is NOT Magic: Let's Build it to Learn What's Inside!</title>
+      <link>https://youtube.com/watch?v=mYBxnojY-JA</link>
+      <description>Every program you've ever written or run uses malloc behind the scenes; find out how it works and why it only akin to magic!</description>
+      <author> (Dave's Garage)</author>
+      <category>youtube</category>
+      <guid>https://youtube.com/watch?v=mYBxnojY-JA</guid>
+      <pubDate>Sat, 16 May 2026 15:02:07 GMT</pubDate>
+    </item>
+    <item>
       <title>Six SQL patterns I use to catch transaction fraud</title>
       <link>https://analytics.fixelsmith.com/posts/sql-fraud-patterns/</link>
       <description>The actual queries I run when I'm hunting fraud in transaction data. Velocity, impossible distances, suspicious amounts, merchant clusters, off-hours buys, and window functions.</description>
@@ -276,18 +285,6 @@ Furthermore, I think that mocking must be destroyed.
       <category>ai</category>
       <guid>https://turso.tech/blog/the-wonders-of-ai</guid>
       <pubDate>Fri, 15 May 2026 16:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - Andyyyy64/whichllm: Find the local LLM that actually runs — and performs best — on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly.</title>
-      <link>https://github.com/Andyyyy64/whichllm</link>
-      <description>Find the local LLM that actually runs — and performs best — on your hardware. Ranked by real, recency-aware benchmarks, not parameter count. One command, run it instantly. - Andyyyy64/whichllm</description>
-      <category>cloud</category>
-      <category>javascript</category>
-      <category>python</category>
-      <category>vscode</category>
-      <category>git</category>
-      <guid>https://github.com/Andyyyy64/whichllm</guid>
-      <pubDate>Fri, 15 May 2026 15:02:19 GMT</pubDate>
     </item>
   </channel>
 </rss>
