@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Six SQL patterns I use to catch transaction fraud",
+    "Url": "https://analytics.fixelsmith.com/posts/sql-fraud-patterns/",
+    "Timestamp": "2026-05-16T12:02:14",
+    "Domain": "analytics.fixelsmith.com",
+    "Description": "The actual queries I run when I'm hunting fraud in transaction data. Velocity, impossible distances, suspicious amounts, merchant clusters, off-hours buys, and window functions."
+  },
+  {
     "Title": "A History of IDEs at Google",
     "Url": "https://laurent.le-brun.eu/blog/a-history-of-ides-at-google",
     "Timestamp": "2026-05-16T11:02:14",
