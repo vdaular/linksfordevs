@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Speedrun</title>
+      <link>https://xkcd.com/3246/</link>
+      <description></description>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3246/</guid>
+      <pubDate>Sat, 16 May 2026 01:02:14 GMT</pubDate>
+    </item>
+    <item>
       <title>Bill to block publishers from killing online games advances in California</title>
       <link>https://arstechnica.com/gaming/2026/05/bill-to-keep-online-games-playable-clears-key-hurdle-in-california/</link>
       <description>Publishers would have to offer "independent" play patch or refunds after server shutdowns.</description>
@@ -262,19 +270,6 @@ With only 578 servers (compared to Proton VPN’s 20,000), this kind of vertical
       <category>ai</category>
       <guid>https://openai.com/index/work-with-codex-from-anywhere/</guid>
       <pubDate>Fri, 15 May 2026 05:02:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Browsers Treat Big Sites Differently</title>
-      <link>https://denodell.com/blog/browsers-treat-big-sites-differently</link>
-      <description>Safari and Firefox change how big sites render based on the domain. TikTok, Netflix, Instagram… even SeatGuru. Chrome doesn’t. Why is that?</description>
-      <author> (Den Odell)</author>
-      <category>web</category>
-      <category>gaming</category>
-      <category>apple</category>
-      <category>git</category>
-      <category>vscode</category>
-      <guid>https://denodell.com/blog/browsers-treat-big-sites-differently</guid>
-      <pubDate>Fri, 15 May 2026 01:02:15 GMT</pubDate>
     </item>
   </channel>
 </rss>
