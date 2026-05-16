@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Moving away from Tailwind, and learning to structure my CSS",
+    "Url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
+    "Timestamp": "2026-05-16T19:02:16",
+    "Domain": "jvns.ca",
+    "Description": "Moving away from Tailwind, and learning to structure my CSS",
+    "Confidence": 0.9945486
+  },
+  {
     "Title": "The CTF scene is dead",
     "Url": "https://kabir.au/blog/the-ctf-scene-is-dead",
     "Timestamp": "2026-05-16T17:02:22",
@@ -230,13 +238,5 @@
     "Domain": "www.fastcompany.com",
     "Description": "In a new report, employees say Amazon tracks their consumption of 'AI tokens'—and they've been creating unproductive AI agents just to eat them up.",
     "Confidence": 0.5719195
-  },
-  {
-    "Title": "Yellow Key: BitLocker has been Broken!  Don't lose your laptop!",
-    "Url": "https://youtube.com/watch?v=I14yjt00Fl8",
-    "Timestamp": "2026-05-15T19:02:44",
-    "Domain": "youtube.com",
-    "Description": "Dave explains the new YellowKey exploit that can use a simple USB stick to unlock a BitLocker drive.",
-    "Confidence": 0.92461324
   }
 ]
