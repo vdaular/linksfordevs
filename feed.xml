@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The CTF scene is dead</title>
+      <link>https://kabir.au/blog/the-ctf-scene-is-dead</link>
+      <description>Why frontier AI has broken the open CTF format, hollowed out the scoreboard, and made competitive CTF performance a weaker signal than it used to be.</description>
+      <category>conference</category>
+      <category>ai</category>
+      <category>encryption</category>
+      <category>gaming</category>
+      <category>git</category>
+      <guid>https://kabir.au/blog/the-ctf-scene-is-dead</guid>
+      <pubDate>Sat, 16 May 2026 17:02:22 GMT</pubDate>
+    </item>
+    <item>
       <title>Malloc is NOT Magic: Let's Build it to Learn What's Inside!</title>
       <link>https://youtube.com/watch?v=mYBxnojY-JA</link>
       <description>Every program you've ever written or run uses malloc behind the scenes; find out how it works and why it only akin to magic!</description>

@@ -1,5 +1,13 @@
 [
   {
+    "Title": "The CTF scene is dead",
+    "Url": "https://kabir.au/blog/the-ctf-scene-is-dead",
+    "Timestamp": "2026-05-16T17:02:22",
+    "Domain": "kabir.au",
+    "Description": "Why frontier AI has broken the open CTF format, hollowed out the scoreboard, and made competitive CTF performance a weaker signal than it used to be.",
+    "Confidence": 0.9388999
+  },
+  {
     "Title": "Malloc is NOT Magic: Let's Build it to Learn What's Inside!",
     "Url": "https://youtube.com/watch?v=mYBxnojY-JA",
     "Timestamp": "2026-05-16T15:02:07",
