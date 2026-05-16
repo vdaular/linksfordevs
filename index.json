@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Announcing the Zulip Foundation",
+    "Url": "https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/",
+    "Timestamp": "2026-05-16T07:02:11",
+    "Domain": "blog.zulip.com",
+    "Description": "Today marks a major transition for the Zulip open-source project and for Kandra\nLabs, the company behind it: I’m stepping back from full-time Zulip leadership\nto join Anthropic, alongside three senior team members, and we’re donating the\ncompany to a newly created, independent, nonprofit Zulip Foundation. …",
+    "Confidence": 0.97037476
+  },
+  {
     "Title": "‘No Way To Prevent This,’ Says Only Package Manager Where This Regularly Happens | Kevin Patel",
     "Url": "https://kevinpatel.xyz/posts/no-way-to-prevent-this/",
     "Timestamp": "2026-05-16T05:02:21",
@@ -214,21 +222,5 @@
     "Domain": "explorer.samismith.com",
     "Description": "A working Windows XP desktop in your browser. Wikipedia and Wikimedia Commons as folder trees, Earth as a scrapbook. By Sami Smith.",
     "Confidence": 0.96733916
-  },
-  {
-    "Title": "Mullvad exit IPs as a fingerprinting vector",
-    "Url": "https://tmctmt.com/posts/mullvad-exit-ips-as-a-fingerprinting-vector/",
-    "Timestamp": "2026-05-15T07:02:16",
-    "Domain": "tmctmt.com",
-    "Description": "Mullvad is one of the few VPN providers that offers multiple exit IPs for its servers. If two people connect to the same server, they will usually end up with different public IPs.\nWith only 578 servers (compared to Proton VPN’s 20,000), this kind of vertical scaling makes sense to avoid cramming too many users onto one IP, which would be a problem on sites with overzealous IP blocks and ratelimits.",
-    "Confidence": 0.9895678
-  },
-  {
-    "Title": "A few words on DS4",
-    "Url": "https://antirez.com/news/165",
-    "Timestamp": "2026-05-15T07:02:13",
-    "Domain": "antirez.com",
-    "Description": "",
-    "Confidence": 0.98672575
   }
 ]
