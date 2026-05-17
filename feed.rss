@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>OpenAI and Malta partner to bring ChatGPT Plus to all citizens</title>
+      <link>https://openai.com/index/malta-chatgpt-plus-partnership/</link>
+      <description>OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.</description>
+      <category>ai</category>
+      <guid>https://openai.com/index/malta-chatgpt-plus-partnership/</guid>
+      <pubDate>Sun, 17 May 2026 15:02:23 GMT</pubDate>
+    </item>
+    <item>
       <title>In the Empire's Defense</title>
       <link>https://idiallo.com/blog/the-empire-won?src=feed</link>
       <description>I didn't watch Star Wars when it was released. I wasn't even born. By the time we popped the cassette tape in the VCR, it was at least 15 years old. But I liked the movie all the same. It was not my f</description>
@@ -174,15 +182,6 @@
       <category>git</category>
       <guid>https://kabir.au/blog/the-ctf-scene-is-dead</guid>
       <pubDate>Sat, 16 May 2026 17:02:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Malloc is NOT Magic: Let's Build it to Learn What's Inside!</title>
-      <link>https://youtube.com/watch?v=mYBxnojY-JA</link>
-      <description>Every program you've ever written or run uses malloc behind the scenes; find out how it works and why it only akin to magic!</description>
-      <author> (Dave's Garage)</author>
-      <category>youtube</category>
-      <guid>https://youtube.com/watch?v=mYBxnojY-JA</guid>
-      <pubDate>Sat, 16 May 2026 15:02:07 GMT</pubDate>
     </item>
   </channel>
 </rss>
