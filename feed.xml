@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>crates.io: Rust Package Registry</title>
+      <link>https://crates.io/crates/zerostack/1.0.0</link>
+      <description>crates.io serves as a central registry for sharing crates, which are packages or libraries written in Rust that you can use to enhance your projects</description>
+      <category>git</category>
+      <category>ai</category>
+      <category>rust</category>
+      <category>vscode</category>
+      <category>javascript</category>
+      <guid>https://crates.io/crates/zerostack/1.0.0</guid>
+      <pubDate>Sun, 17 May 2026 06:02:25 GMT</pubDate>
+    </item>
+    <item>
       <title>Accelerando</title>
       <link>https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html</link>
       <description>A novel by Charles Stross</description>
