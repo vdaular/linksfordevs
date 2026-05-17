@@ -181,14 +181,5 @@
       <guid>https://laurent.le-brun.eu/blog/a-history-of-ides-at-google</guid>
       <pubDate>Sat, 16 May 2026 11:02:14 GMT</pubDate>
     </item>
-    <item>
-      <title>DeepSeek-V4-Flash means LLM steering is interesting again</title>
-      <link>https://www.seangoedecke.com/steering-vectors/</link>
-      <description>Ever since Golden Gate Claude I’ve been fascinated with “steering”: the idea that you can guide LLM outputs by directly manipulating the activations of the model mid-flight.</description>
-      <category>ai</category>
-      <category>git</category>
-      <guid>https://www.seangoedecke.com/steering-vectors/</guid>
-      <pubDate>Sat, 16 May 2026 08:02:06 GMT</pubDate>
-    </item>
   </channel>
 </rss>
