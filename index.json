@@ -1,5 +1,29 @@
 [
   {
+    "Title": "Native all the way, until you need text | Artem Loenko",
+    "Url": "https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/",
+    "Timestamp": "2026-05-17T17:03:55",
+    "Domain": "justsitandgrin.im",
+    "Description": "Why building a rich, selectable, streaming Markdown chat UI on macOS still pushes you toward WebKit or Electron.",
+    "Confidence": 0.9983359
+  },
+  {
+    "Title": "I don't think AI will make your processes go faster",
+    "Url": "https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/",
+    "Timestamp": "2026-05-17T17:03:51",
+    "Domain": "frederickvanbrabant.com",
+    "Description": "Explore the delirious rantings of Frederick Vanbrabant. A blog focused on the intersection of Enterprise Architecture, product, and business strategy.",
+    "Confidence": 0.99860716
+  },
+  {
+    "Title": "A security researcher says Microsoft secretly built a backdoor into BitLocker, releases an exploit to prove it",
+    "Url": "https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html",
+    "Timestamp": "2026-05-17T17:03:47",
+    "Domain": "www.techspot.com",
+    "Description": "According to the researcher, YellowKey appears unusual for a previously unknown security bug. Nightmare-Eclipse explained that the flaw can be reproduced by copying an attached \"FsTx\" folder...",
+    "Confidence": 0.89117354
+  },
+  {
     "Title": "OpenAI and Malta partner to bring ChatGPT Plus to all citizens",
     "Url": "https://openai.com/index/malta-chatgpt-plus-partnership/",
     "Timestamp": "2026-05-17T15:02:23",
@@ -150,13 +174,5 @@
     "Domain": "jvns.ca",
     "Description": "Moving away from Tailwind, and learning to structure my CSS",
     "Confidence": 0.9945486
-  },
-  {
-    "Title": "The CTF scene is dead",
-    "Url": "https://kabir.au/blog/the-ctf-scene-is-dead",
-    "Timestamp": "2026-05-16T17:02:22",
-    "Domain": "kabir.au",
-    "Description": "Why frontier AI has broken the open CTF format, hollowed out the scoreboard, and made competitive CTF performance a weaker signal than it used to be.",
-    "Confidence": 0.9388999
   }
 ]
