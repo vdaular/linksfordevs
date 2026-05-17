@@ -190,17 +190,5 @@
       <guid>https://www.seangoedecke.com/steering-vectors/</guid>
       <pubDate>Sat, 16 May 2026 08:02:06 GMT</pubDate>
     </item>
-    <item>
-      <title>Announcing the Zulip Foundation</title>
-      <link>https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/</link>
-      <description>Today marks a major transition for the Zulip open-source project and for Kandra
-Labs, the company behind it: I’m stepping back from full-time Zulip leadership
-to join Anthropic, alongside three senior team members, and we’re donating the
-company to a newly created, independent, nonprofit Zulip Foundation. …</description>
-      <category>rust</category>
-      <category>ai</category>
-      <guid>https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/</guid>
-      <pubDate>Sat, 16 May 2026 07:02:11 GMT</pubDate>
-    </item>
   </channel>
 </rss>

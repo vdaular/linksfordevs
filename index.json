@@ -158,13 +158,5 @@
     "Domain": "www.seangoedecke.com",
     "Description": "Ever since Golden Gate Claude I’ve been fascinated with “steering”: the idea that you can guide LLM outputs by directly manipulating the activations of the model mid-flight.",
     "Confidence": 0.98360103
-  },
-  {
-    "Title": "Announcing the Zulip Foundation",
-    "Url": "https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/",
-    "Timestamp": "2026-05-16T07:02:11",
-    "Domain": "blog.zulip.com",
-    "Description": "Today marks a major transition for the Zulip open-source project and for Kandra\nLabs, the company behind it: I’m stepping back from full-time Zulip leadership\nto join Anthropic, alongside three senior team members, and we’re donating the\ncompany to a newly created, independent, nonprofit Zulip Foundation. …",
-    "Confidence": 0.97037476
   }
 ]
