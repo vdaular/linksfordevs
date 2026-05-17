@@ -1,5 +1,13 @@
 [
   {
+    "Title": "AI Is Technology, Not a Product",
+    "Url": "https://daringfireball.net/2026/05/ai_is_technology_not_a_product",
+    "Timestamp": "2026-05-17T22:02:27",
+    "Domain": "daringfireball.net",
+    "Description": "It’s not even a feature. It’s just technology.",
+    "Confidence": 0.92554545
+  },
+  {
     "Title": "Apple Silicon costs more than OpenRouter",
     "Url": "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html",
     "Timestamp": "2026-05-17T21:02:30",
@@ -94,93 +102,5 @@
     "Domain": "www.antipope.org",
     "Description": "A novel by Charles Stross",
     "Confidence": 0.8414442
-  },
-  {
-    "Title": "Anecdotal definitions of success",
-    "Url": "https://nafe.es/writing/success/",
-    "Timestamp": "2026-05-16T22:03:03",
-    "Domain": "nafe.es",
-    "Description": "The definition of success keeps changing as you progress in life. Something we should all be comfortable with.",
-    "Confidence": 0.9205106
-  },
-  {
-    "Title": "The Quiet Renovation at Bitwarden - ByteHaven - Where I ramble about bytes",
-    "Url": "https://blog.ppb1701.com/the-quiet-renovation-at-bitwarden",
-    "Timestamp": "2026-05-16T22:03:00",
-    "Domain": "blog.ppb1701.com",
-    "Description": "Back in March, I wrote about Bitwarden doubling their Premium price — and specifically how they did it. Buried in a feature announcement. Priced in fake...",
-    "Confidence": 0.90046924
-  },
-  {
-    "Title": "Halt and Catch Fire",
-    "Url": "https://unstack.io/halt-and-catch-fire",
-    "Timestamp": "2026-05-16T22:02:55",
-    "Domain": "unstack.io",
-    "Description": "I have never watched the AMC show Halt and Catch Fire, and for a long time I only knew the title, but nothing about the show. Something about it always reminded...",
-    "Confidence": 0.8920106
-  },
-  {
-    "Title": "Products are out, brains are in",
-    "Url": "https://mrmarket.bearblog.dev/products-are-out-brains-are-in-new/",
-    "Timestamp": "2026-05-16T22:02:51",
-    "Domain": "mrmarket.bearblog.dev",
-    "Description": "<p>Often, something that should be free is expensive. Ex: bottled water, pre-washed lettuce, filing your taxes, and a bunch more stuff.</p>\n<p>Soon, softwar...",
-    "Confidence": 0.9678092
-  },
-  {
-    "Title": "Introducing jjw: a workspace manager for jj",
-    "Url": "https://aran.dev/posts/introducing-jjw-jj-workspace-manager/",
-    "Timestamp": "2026-05-16T22:02:48",
-    "Domain": "aran.dev",
-    "Description": "Introducing jjw, a small Go CLI for managing jj workspaces with bookmarks and lifecycle hooks, built to make parallel LLM coding agent workflows easier.",
-    "Confidence": 0.99485844
-  },
-  {
-    "Title": "I spawn interests randomly...",
-    "Url": "https://ssenthilnathan3.github.io/blog/spawning-random-interests/",
-    "Timestamp": "2026-05-16T22:02:45",
-    "Domain": "ssenthilnathan3.github.io",
-    "Description": "Navigating random sidequests",
-    "Confidence": 0.85339266
-  },
-  {
-    "Title": "You don’t know HTML Lists",
-    "Url": "https://blog.frankmtaylor.com/2026/05/13/you-dont-know-html-lists/",
-    "Timestamp": "2026-05-16T22:02:42",
-    "Domain": "blog.frankmtaylor.com",
-    "Description": "This second installment in the \"You don't know HTML\" series is going to be all about the ways that we put collections of things together",
-    "Confidence": 0.979044
-  },
-  {
-    "Title": "Wrapping a C library in RAII: unique_ptr with custom deleters and why Subsystem can't be moveable",
-    "Url": "https://lmilz.dev/blog/2026/05/15/Wrapping-a-C-library-in-RAII-unique_ptr-with-custom-deleters-and-why-Subsystem-canot-be-moveable.html",
-    "Timestamp": "2026-05-16T22:02:38",
-    "Domain": "lmilz.dev",
-    "Description": "I got into the habit of wrapping C libraries before I start working with them. Not out of principle, but because I have seen the same mistakes often enough.",
-    "Confidence": 0.99201924
-  },
-  {
-    "Title": "My mental model of learning",
-    "Url": "https://gcapu.com/posts/on_learning.html",
-    "Timestamp": "2026-05-16T22:02:33",
-    "Domain": "gcapu.com",
-    "Description": "A mental model for how learning can both constrain and expand creativity.",
-    "Confidence": 0.9826683
-  },
-  {
-    "Title": "How I use LLMs as a staff engineer in 2026",
-    "Url": "https://www.seangoedecke.com/how-i-use-llms-in-2026/",
-    "Timestamp": "2026-05-16T22:02:30",
-    "Domain": "www.seangoedecke.com",
-    "Description": "A bit over a year ago I wrote How I use LLMs as a staff engineer. Here’s a brief summary of what I used AI for last year:",
-    "Confidence": 0.98316973
-  },
-  {
-    "Title": "What breaks when you ship Next.js on Cloudflare Workers",
-    "Url": "https://finterm.xyz/blog/nextjs-on-cloudflare-workers",
-    "Timestamp": "2026-05-16T22:02:27",
-    "Domain": "finterm.xyz",
-    "Description": "A log of which npm packages don't survive the Workers runtime, what to swap them with, and the patterns that ended up mattering.",
-    "Confidence": 0.9767661
   }
 ]
