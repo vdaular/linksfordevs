@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Apple Silicon costs more than OpenRouter</title>
+      <link>https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html</link>
+      <description>Local LLMs can be very very cheap</description>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html</guid>
+      <pubDate>Sun, 17 May 2026 21:02:30 GMT</pubDate>
+    </item>
+    <item>
       <title>Americans Are Smashing Flock Cameras. The Surveillance State Has a Sabotage Problem. - State of Surveillance</title>
       <link>https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/</link>
       <description>From California to Connecticut, people are cutting down and destroying Flock license plate cameras. At least 25 cameras destroyed in five states. One man faces charges for dismantling 13. Here's what's happening.</description>
@@ -197,15 +206,6 @@
       <category>web</category>
       <guid>https://finterm.xyz/blog/nextjs-on-cloudflare-workers</guid>
       <pubDate>Sat, 16 May 2026 22:02:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fecal transplants for autism deliver success in clinical trials</title>
-      <link>https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/</link>
-      <description>Scientific research continues to uncover interesting connections between the gut microbiome and human health, including everything from depression to PTSD to autoimmune disease. Another example of this are emerging ties between gut health and autism. Exciting new research, now moving to Phase 3…</description>
-      <author> (https://refractor.io/author/rich-haridy/)</author>
-      <category>git</category>
-      <guid>https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/</guid>
-      <pubDate>Sat, 16 May 2026 21:02:24 GMT</pubDate>
     </item>
   </channel>
 </rss>

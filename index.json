@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Apple Silicon costs more than OpenRouter",
+    "Url": "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html",
+    "Timestamp": "2026-05-17T21:02:30",
+    "Domain": "www.williamangel.net",
+    "Description": "Local LLMs can be very very cheap",
+    "Confidence": 0.97210014
+  },
+  {
     "Title": "Americans Are Smashing Flock Cameras. The Surveillance State Has a Sabotage Problem. - State of Surveillance",
     "Url": "https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/",
     "Timestamp": "2026-05-17T19:02:10",
@@ -174,13 +182,5 @@
     "Domain": "finterm.xyz",
     "Description": "A log of which npm packages don't survive the Workers runtime, what to swap them with, and the patterns that ended up mattering.",
     "Confidence": 0.9767661
-  },
-  {
-    "Title": "Fecal transplants for autism deliver success in clinical trials",
-    "Url": "https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/",
-    "Timestamp": "2026-05-16T21:02:24",
-    "Domain": "refractor.io",
-    "Description": "Scientific research continues to uncover interesting connections between the gut microbiome and human health, including everything from depression to PTSD to autoimmune disease. Another example of this are emerging ties between gut health and autism. Exciting new research, now moving to Phase 3…",
-    "Confidence": 0.56627524
   }
 ]
