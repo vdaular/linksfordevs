@@ -158,13 +158,5 @@
     "Domain": "blog.zulip.com",
     "Description": "Today marks a major transition for the Zulip open-source project and for Kandra\nLabs, the company behind it: I’m stepping back from full-time Zulip leadership\nto join Anthropic, alongside three senior team members, and we’re donating the\ncompany to a newly created, independent, nonprofit Zulip Foundation. …",
     "Confidence": 0.97037476
-  },
-  {
-    "Title": "‘No Way To Prevent This,’ Says Only Package Manager Where This Regularly Happens | Kevin Patel",
-    "Url": "https://kevinpatel.xyz/posts/no-way-to-prevent-this/",
-    "Timestamp": "2026-05-16T05:02:21",
-    "Domain": "kevinpatel.xyz",
-    "Description": "Kevin Patel - Application Security Engineer @ NISC",
-    "Confidence": 0.7449206
   }
 ]

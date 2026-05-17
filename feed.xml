@@ -190,17 +190,5 @@ company to a newly created, independent, nonprofit Zulip Foundation. …</descri
       <guid>https://blog.zulip.com/2026/05/15/announcing-zulip-foundation/</guid>
       <pubDate>Sat, 16 May 2026 07:02:11 GMT</pubDate>
     </item>
-    <item>
-      <title>‘No Way To Prevent This,’ Says Only Package Manager Where This Regularly Happens | Kevin Patel</title>
-      <link>https://kevinpatel.xyz/posts/no-way-to-prevent-this/</link>
-      <description>Kevin Patel - Application Security Engineer @ NISC</description>
-      <author> (Kevin Patel)</author>
-      <category>nodejs</category>
-      <category>cloud</category>
-      <category>rust</category>
-      <category>javascript</category>
-      <guid>https://kevinpatel.xyz/posts/no-way-to-prevent-this/</guid>
-      <pubDate>Sat, 16 May 2026 05:02:21 GMT</pubDate>
-    </item>
   </channel>
 </rss>
