@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Americans Are Smashing Flock Cameras. The Surveillance State Has a Sabotage Problem. - State of Surveillance",
+    "Url": "https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/",
+    "Timestamp": "2026-05-17T19:02:10",
+    "Domain": "stateofsurveillance.org",
+    "Description": "From California to Connecticut, people are cutting down and destroying Flock license plate cameras. At least 25 cameras destroyed in five states. One man faces charges for dismantling 13. Here's what's happening.",
+    "Confidence": 0.5523304
+  },
+  {
     "Title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
     "Url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
     "Timestamp": "2026-05-17T18:02:18",
@@ -174,13 +182,5 @@
     "Domain": "refractor.io",
     "Description": "Scientific research continues to uncover interesting connections between the gut microbiome and human health, including everything from depression to PTSD to autoimmune disease. Another example of this are emerging ties between gut health and autism. Exciting new research, now moving to Phase 3…",
     "Confidence": 0.56627524
-  },
-  {
-    "Title": "Moving away from Tailwind, and learning to structure my CSS",
-    "Url": "https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/",
-    "Timestamp": "2026-05-16T19:02:16",
-    "Domain": "jvns.ca",
-    "Description": "Moving away from Tailwind, and learning to structure my CSS",
-    "Confidence": 0.9945486
   }
 ]

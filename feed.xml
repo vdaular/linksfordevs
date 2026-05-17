@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Americans Are Smashing Flock Cameras. The Surveillance State Has a Sabotage Problem. - State of Surveillance</title>
+      <link>https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/</link>
+      <description>From California to Connecticut, people are cutting down and destroying Flock license plate cameras. At least 25 cameras destroyed in five states. One man faces charges for dismantling 13. Here's what's happening.</description>
+      <category>ai</category>
+      <guid>https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/</guid>
+      <pubDate>Sun, 17 May 2026 19:02:10 GMT</pubDate>
+    </item>
+    <item>
       <title>Every AI Subscription Is a Ticking Time Bomb for Enterprise</title>
       <link>https://www.thestateofbrand.com/news/ai-subscription-time-bomb</link>
       <description>Every AI lab is losing money serving your company right now. They know it. And they are doing it on purpose.</description>
@@ -198,15 +206,6 @@
       <category>git</category>
       <guid>https://refractor.io/adhd-autism/fecal-transplants-for-autism-delivers-success-in-clinical-trials/</guid>
       <pubDate>Sat, 16 May 2026 21:02:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Moving away from Tailwind, and learning to structure my CSS</title>
-      <link>https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/</link>
-      <description>Moving away from Tailwind, and learning to structure my CSS</description>
-      <category>web</category>
-      <category>javascript</category>
-      <guid>https://jvns.ca/blog/2026/05/15/moving-away-from-tailwind--and-learning-to-structure-my-css-/</guid>
-      <pubDate>Sat, 16 May 2026 19:02:16 GMT</pubDate>
     </item>
   </channel>
 </rss>
