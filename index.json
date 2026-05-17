@@ -158,13 +158,5 @@
     "Domain": "kevinpatel.xyz",
     "Description": "Kevin Patel - Application Security Engineer @ NISC",
     "Confidence": 0.7449206
-  },
-  {
-    "Title": "Speedrun",
-    "Url": "https://xkcd.com/3246/",
-    "Timestamp": "2026-05-16T01:02:14",
-    "Domain": "xkcd.com",
-    "Description": "",
-    "Confidence": 0.98151064
   }
 ]
