@@ -1,5 +1,21 @@
 [
   {
+    "Title": "In the Empire's Defense",
+    "Url": "https://idiallo.com/blog/the-empire-won?src=feed",
+    "Timestamp": "2026-05-17T12:02:23",
+    "Domain": "idiallo.com",
+    "Description": "I didn't watch Star Wars when it was released. I wasn't even born. By the time we popped the cassette tape in the VCR, it was at least 15 years old. But I liked the movie all the same. It was not my f",
+    "Confidence": 0.75866604
+  },
+  {
+    "Title": "Mozilla to UK regulators: VPNs are essential privacy and security tools and should not be undermined  – Open Policy & Advocacy",
+    "Url": "https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/",
+    "Timestamp": "2026-05-17T12:02:19",
+    "Domain": "blog.mozilla.org",
+    "Description": "In the context of concerns around young people’s interactions with digital technologies, the UK’s Department for Science, Innovation and Technology is consulting on additional measures to prepare young people for ...",
+    "Confidence": 0.8395692
+  },
+  {
     "Title": "Better fluid sizing with round()",
     "Url": "https://ishadeed.com/article/css-round/",
     "Timestamp": "2026-05-17T10:02:19",
@@ -142,13 +158,5 @@
     "Domain": "youtube.com",
     "Description": "Every program you've ever written or run uses malloc behind the scenes; find out how it works and why it only akin to magic!",
     "Confidence": 0.96173465
-  },
-  {
-    "Title": "Six SQL patterns I use to catch transaction fraud",
-    "Url": "https://analytics.fixelsmith.com/posts/sql-fraud-patterns/",
-    "Timestamp": "2026-05-16T12:02:14",
-    "Domain": "analytics.fixelsmith.com",
-    "Description": "The actual queries I run when I'm hunting fraud in transaction data. Velocity, impossible distances, suspicious amounts, merchant clusters, off-hours buys, and window functions.",
-    "Confidence": 0.976671
   }
 ]
