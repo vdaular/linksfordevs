@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Better fluid sizing with round()",
+    "Url": "https://ishadeed.com/article/css-round/",
+    "Timestamp": "2026-05-17T10:02:19",
+    "Domain": "ishadeed.com",
+    "Description": "Using the round() function to get a more predictable fluid sizing."
+  },
+  {
     "Title": "crates.io: Rust Package Registry",
     "Url": "https://crates.io/crates/zerostack/1.0.0",
     "Timestamp": "2026-05-17T06:02:25",

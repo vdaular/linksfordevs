@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Better fluid sizing with round()</title>
+      <link>https://ishadeed.com/article/css-round/</link>
+      <description>Using the round() function to get a more predictable fluid sizing.</description>
+      <category>web</category>
+      <guid>https://ishadeed.com/article/css-round/</guid>
+      <pubDate>Sun, 17 May 2026 10:02:19 GMT</pubDate>
+    </item>
+    <item>
       <title>crates.io: Rust Package Registry</title>
       <link>https://crates.io/crates/zerostack/1.0.0</link>
       <description>crates.io serves as a central registry for sharing crates, which are packages or libraries written in Rust that you can use to enhance your projects</description>
