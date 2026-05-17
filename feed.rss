@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Accelerando</title>
+      <link>https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html</link>
+      <description>A novel by Charles Stross</description>
+      <category>ai</category>
+      <guid>https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html</guid>
+      <pubDate>Sun, 17 May 2026 04:02:25 GMT</pubDate>
+    </item>
+    <item>
       <title>Anecdotal definitions of success</title>
       <link>https://nafe.es/writing/success/</link>
       <description>The definition of success keeps changing as you progress in life. Something we should all be comfortable with.</description>
