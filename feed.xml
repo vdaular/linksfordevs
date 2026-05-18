@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>GenCAD: Image-conditioned Computer-Aided Design Generation with Transformer-based Contrastive Representation and Diffusion Priors</title>
+      <link>https://gencad.github.io/</link>
+      <description>GenCAD</description>
+      <category>ai</category>
+      <guid>https://gencad.github.io/</guid>
+      <pubDate>Mon, 18 May 2026 08:02:53 GMT</pubDate>
+    </item>
+    <item>
       <title>The just-say-no engineer was a ZIRP phenomenon</title>
       <link>https://www.seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/</link>
       <description>The engineer who says no all the time is a real archetype among senior and staff engineers. Their role is to slow things down, to block the development of features that add complexity, and to ensure that as little code gets written as possible (since code is a liability).</description>
