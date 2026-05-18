@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The just-say-no engineer was a ZIRP phenomenon</title>
+      <link>https://www.seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/</link>
+      <description>The engineer who says no all the time is a real archetype among senior and staff engineers. Their role is to slow things down, to block the development of features that add complexity, and to ensure that as little code gets written as possible (since code is a liability).</description>
+      <category>ai</category>
+      <guid>https://www.seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/</guid>
+      <pubDate>Mon, 18 May 2026 07:03:04 GMT</pubDate>
+    </item>
+    <item>
       <title>GitHub - MinishLab/semble: Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read</title>
       <link>https://github.com/MinishLab/semble</link>
       <description>Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read - MinishLab/semble</description>

@@ -1,5 +1,12 @@
 [
   {
+    "Title": "The just-say-no engineer was a ZIRP phenomenon",
+    "Url": "https://www.seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/",
+    "Timestamp": "2026-05-18T07:03:04",
+    "Domain": "www.seangoedecke.com",
+    "Description": "The engineer who says no all the time is a real archetype among senior and staff engineers. Their role is to slow things down, to block the development of features that add complexity, and to ensure that as little code gets written as possible (since code is a liability)."
+  },
+  {
     "Title": "GitHub - MinishLab/semble: Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read",
     "Url": "https://github.com/MinishLab/semble",
     "Timestamp": "2026-05-18T06:02:55",
