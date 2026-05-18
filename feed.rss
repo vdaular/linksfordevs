@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Don't call yourself a Software Engineer, you are an AI Enabled Engineer.</title>
+      <link>https://idiallo.com/blog/you-are-an-ai-enabled-engineer-now?src=feed</link>
+      <description>I can only imagine what it's like learning the skill of programming in this day and age. What does an average college class look like? What is the CS professor teaching? And students, how do you recon</description>
+      <category>ai</category>
+      <category>vscode</category>
+      <guid>https://idiallo.com/blog/you-are-an-ai-enabled-engineer-now?src=feed</guid>
+      <pubDate>Mon, 18 May 2026 12:03:12 GMT</pubDate>
+    </item>
+    <item>
       <title>GenCAD: Image-conditioned Computer-Aided Design Generation with Transformer-based Contrastive Representation and Diffusion Priors</title>
       <link>https://gencad.github.io/</link>
       <description>GenCAD</description>
@@ -290,20 +299,6 @@ working, still mostly typing, programmer.</description>
       <category>ai</category>
       <guid>https://openai.com/index/malta-chatgpt-plus-partnership/</guid>
       <pubDate>Sun, 17 May 2026 15:02:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>In the Empire's Defense</title>
-      <link>https://idiallo.com/blog/the-empire-won?src=feed</link>
-      <description>I didn't watch Star Wars when it was released. I wasn't even born. By the time we popped the cassette tape in the VCR, it was at least 15 years old. But I liked the movie all the same. It was not my f</description>
-      <guid>https://idiallo.com/blog/the-empire-won?src=feed</guid>
-      <pubDate>Sun, 17 May 2026 12:02:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mozilla to UK regulators: VPNs are essential privacy and security tools and should not be undermined  – Open Policy &amp; Advocacy</title>
-      <link>https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/</link>
-      <description>In the context of concerns around young people’s interactions with digital technologies, the UK’s Department for Science, Innovation and Technology is consulting on additional measures to prepare young people for ...</description>
-      <guid>https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/</guid>
-      <pubDate>Sun, 17 May 2026 12:02:19 GMT</pubDate>
     </item>
   </channel>
 </rss>
