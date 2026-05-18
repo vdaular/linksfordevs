@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>GitHub - stephenlthorn/auto-identity-remove: Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule</title>
+      <link>https://github.com/stephenlthorn/auto-identity-remove</link>
+      <description>Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule - stephenlthorn/auto-identity-remove</description>
+      <category>nodejs</category>
+      <category>javascript</category>
+      <category>git</category>
+      <category>ai</category>
+      <guid>https://github.com/stephenlthorn/auto-identity-remove</guid>
+      <pubDate>Mon, 18 May 2026 15:09:42 GMT</pubDate>
+    </item>
+    <item>
       <title>Don't call yourself a Software Engineer, you are an AI Enabled Engineer.</title>
       <link>https://idiallo.com/blog/you-are-an-ai-enabled-engineer-now?src=feed</link>
       <description>I can only imagine what it's like learning the skill of programming in this day and age. What does an average college class look like? What is the CS professor teaching? And students, how do you recon</description>
@@ -291,14 +302,6 @@ working, still mostly typing, programmer.</description>
       <category>web</category>
       <guid>https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html</guid>
       <pubDate>Sun, 17 May 2026 17:03:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI and Malta partner to bring ChatGPT Plus to all citizens</title>
-      <link>https://openai.com/index/malta-chatgpt-plus-partnership/</link>
-      <description>OpenAI and Malta partner to expand AI access, offering ChatGPT Plus and training to help citizens build practical AI skills and use AI responsibly.</description>
-      <category>ai</category>
-      <guid>https://openai.com/index/malta-chatgpt-plus-partnership/</guid>
-      <pubDate>Sun, 17 May 2026 15:02:23 GMT</pubDate>
     </item>
   </channel>
 </rss>
