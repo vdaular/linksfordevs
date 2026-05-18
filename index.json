@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Let's talk about AI slop",
+    "Url": "https://archestra.ai/blog/only-responsible-ai",
+    "Timestamp": "2026-05-18T19:03:08",
+    "Domain": "archestra.ai",
+    "Description": "Is it the end of open source we know and love?",
+    "Confidence": 0.8816646
+  },
+  {
+    "Title": "Particle Census",
+    "Url": "https://xkcd.com/3247/",
+    "Timestamp": "2026-05-18T19:03:05",
+    "Domain": "xkcd.com",
+    "Description": "",
+    "Confidence": 0.98151064
+  },
+  {
     "Title": "GitHub - zakirullin/files.md: 🌱 Your life in plain .md files",
     "Url": "https://github.com/zakirullin/files.md",
     "Timestamp": "2026-05-18T17:03:09",
@@ -214,13 +230,5 @@
     "Domain": "www.williamangel.net",
     "Description": "Local LLMs can be very very cheap",
     "Confidence": 0.97210014
-  },
-  {
-    "Title": "Americans Are Smashing Flock Cameras. The Surveillance State Has a Sabotage Problem. - State of Surveillance",
-    "Url": "https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/",
-    "Timestamp": "2026-05-17T19:02:10",
-    "Domain": "stateofsurveillance.org",
-    "Description": "From California to Connecticut, people are cutting down and destroying Flock license plate cameras. At least 25 cameras destroyed in five states. One man faces charges for dismantling 13. Here's what's happening.",
-    "Confidence": 0.5523304
   }
 ]

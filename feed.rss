@@ -7,6 +7,24 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Let's talk about AI slop</title>
+      <link>https://archestra.ai/blog/only-responsible-ai</link>
+      <description>Is it the end of open source we know and love?</description>
+      <author> (Ildar Iskhakov, CTO)</author>
+      <category>git</category>
+      <category>ai</category>
+      <guid>https://archestra.ai/blog/only-responsible-ai</guid>
+      <pubDate>Mon, 18 May 2026 19:03:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Particle Census</title>
+      <link>https://xkcd.com/3247/</link>
+      <description></description>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3247/</guid>
+      <pubDate>Mon, 18 May 2026 19:03:05 GMT</pubDate>
+    </item>
+    <item>
       <title>GitHub - zakirullin/files.md: 🌱 Your life in plain .md files</title>
       <link>https://github.com/zakirullin/files.md</link>
       <description>🌱 Your life in plain .md files. Contribute to zakirullin/files.md development by creating an account on GitHub.</description>
@@ -269,14 +287,6 @@ working, still mostly typing, programmer.</description>
       <category>web</category>
       <guid>https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html</guid>
       <pubDate>Sun, 17 May 2026 21:02:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Americans Are Smashing Flock Cameras. The Surveillance State Has a Sabotage Problem. - State of Surveillance</title>
-      <link>https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/</link>
-      <description>From California to Connecticut, people are cutting down and destroying Flock license plate cameras. At least 25 cameras destroyed in five states. One man faces charges for dismantling 13. Here's what's happening.</description>
-      <category>ai</category>
-      <guid>https://stateofsurveillance.org/news/flock-cameras-destroyed-nationwide-ice-backlash-2026/</guid>
-      <pubDate>Sun, 17 May 2026 19:02:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
