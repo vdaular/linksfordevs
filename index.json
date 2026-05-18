@@ -222,13 +222,5 @@
     "Domain": "daringfireball.net",
     "Description": "It’s not even a feature. It’s just technology.",
     "Confidence": 0.92554545
-  },
-  {
-    "Title": "Apple Silicon costs more than OpenRouter",
-    "Url": "https://www.williamangel.net/blog/2026/05/17/offline-llm-energy-use.html",
-    "Timestamp": "2026-05-17T21:02:30",
-    "Domain": "www.williamangel.net",
-    "Description": "Local LLMs can be very very cheap",
-    "Confidence": 0.97210014
   }
 ]
