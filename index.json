@@ -246,13 +246,5 @@
     "Domain": "crates.io",
     "Description": "crates.io serves as a central registry for sharing crates, which are packages or libraries written in Rust that you can use to enhance your projects",
     "Confidence": 0.9906878
-  },
-  {
-    "Title": "Accelerando",
-    "Url": "https://www.antipope.org/charlie/blog-static/fiction/accelerando/accelerando.html",
-    "Timestamp": "2026-05-17T04:02:25",
-    "Domain": "www.antipope.org",
-    "Description": "A novel by Charles Stross",
-    "Confidence": 0.8414442
   }
 ]
