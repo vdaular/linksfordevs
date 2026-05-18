@@ -305,13 +305,5 @@ working, still mostly typing, programmer.</description>
       <guid>https://blog.mozilla.org/netpolicy/2026/05/15/mozilla-to-uk-regulators-vpns-are-essential-privacy-and-security-tools-and-should-not-be-undermined/</guid>
       <pubDate>Sun, 17 May 2026 12:02:19 GMT</pubDate>
     </item>
-    <item>
-      <title>Better fluid sizing with round()</title>
-      <link>https://ishadeed.com/article/css-round/</link>
-      <description>Using the round() function to get a more predictable fluid sizing.</description>
-      <category>web</category>
-      <guid>https://ishadeed.com/article/css-round/</guid>
-      <pubDate>Sun, 17 May 2026 10:02:19 GMT</pubDate>
-    </item>
   </channel>
 </rss>

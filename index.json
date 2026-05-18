@@ -254,13 +254,5 @@
     "Domain": "blog.mozilla.org",
     "Description": "In the context of concerns around young people’s interactions with digital technologies, the UK’s Department for Science, Innovation and Technology is consulting on additional measures to prepare young people for ...",
     "Confidence": 0.8395692
-  },
-  {
-    "Title": "Better fluid sizing with round()",
-    "Url": "https://ishadeed.com/article/css-round/",
-    "Timestamp": "2026-05-17T10:02:19",
-    "Domain": "ishadeed.com",
-    "Description": "Using the round() function to get a more predictable fluid sizing.",
-    "Confidence": 0.994221
   }
 ]
