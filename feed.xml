@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Anthropic acquires Stainless</title>
+      <link>https://www.anthropic.com/news/anthropic-acquires-stainless</link>
+      <description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
+      <category>typescript</category>
+      <category>python</category>
+      <category>ai</category>
+      <guid>https://www.anthropic.com/news/anthropic-acquires-stainless</guid>
+      <pubDate>Mon, 18 May 2026 22:03:27 GMT</pubDate>
+    </item>
+    <item>
       <title>Let's talk about AI slop</title>
       <link>https://archestra.ai/blog/only-responsible-ai</link>
       <description>Is it the end of open source we know and love?</description>
@@ -269,15 +279,6 @@ working, still mostly typing, programmer.</description>
       <category>web</category>
       <guid>https://mdk.fr/blog/django-debug-toolbar-checkbox.html</guid>
       <pubDate>Mon, 18 May 2026 00:03:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI Is Technology, Not a Product</title>
-      <link>https://daringfireball.net/2026/05/ai_is_technology_not_a_product</link>
-      <description>It’s not even a feature. It’s just technology.</description>
-      <category>ai</category>
-      <category>apple</category>
-      <guid>https://daringfireball.net/2026/05/ai_is_technology_not_a_product</guid>
-      <pubDate>Sun, 17 May 2026 22:02:27 GMT</pubDate>
     </item>
   </channel>
 </rss>
