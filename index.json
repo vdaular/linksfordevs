@@ -222,13 +222,5 @@
     "Domain": "stateofsurveillance.org",
     "Description": "From California to Connecticut, people are cutting down and destroying Flock license plate cameras. At least 25 cameras destroyed in five states. One man faces charges for dismantling 13. Here's what's happening.",
     "Confidence": 0.5523304
-  },
-  {
-    "Title": "Every AI Subscription Is a Ticking Time Bomb for Enterprise",
-    "Url": "https://www.thestateofbrand.com/news/ai-subscription-time-bomb",
-    "Timestamp": "2026-05-17T18:02:18",
-    "Domain": "www.thestateofbrand.com",
-    "Description": "Every AI lab is losing money serving your company right now. They know it. And they are doing it on purpose.",
-    "Confidence": 0.9254878
   }
 ]
