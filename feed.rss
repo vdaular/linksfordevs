@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>GitHub - zakirullin/files.md: 🌱 Your life in plain .md files</title>
+      <link>https://github.com/zakirullin/files.md</link>
+      <description>🌱 Your life in plain .md files. Contribute to zakirullin/files.md development by creating an account on GitHub.</description>
+      <category>javascript</category>
+      <category>conference</category>
+      <category>web</category>
+      <category>ai</category>
+      <category>typescript</category>
+      <guid>https://github.com/zakirullin/files.md</guid>
+      <pubDate>Mon, 18 May 2026 17:03:09 GMT</pubDate>
+    </item>
+    <item>
       <title>GitHub - stephenlthorn/auto-identity-remove: Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule</title>
       <link>https://github.com/stephenlthorn/auto-identity-remove</link>
       <description>Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule - stephenlthorn/auto-identity-remove</description>
@@ -273,35 +285,6 @@ working, still mostly typing, programmer.</description>
       <category>ai</category>
       <guid>https://www.thestateofbrand.com/news/ai-subscription-time-bomb</guid>
       <pubDate>Sun, 17 May 2026 18:02:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Native all the way, until you need text | Artem Loenko</title>
-      <link>https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/</link>
-      <description>Why building a rich, selectable, streaming Markdown chat UI on macOS still pushes you toward WebKit or Electron.</description>
-      <category>apple</category>
-      <category>git</category>
-      <category>nodejs</category>
-      <category>vscode</category>
-      <guid>https://justsitandgrin.im/posts/native-all-the-way-until-you-need-text/</guid>
-      <pubDate>Sun, 17 May 2026 17:03:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>I don't think AI will make your processes go faster</title>
-      <link>https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/</link>
-      <description>Explore the delirious rantings of Frederick Vanbrabant. A blog focused on the intersection of Enterprise Architecture, product, and business strategy.</description>
-      <category>ai</category>
-      <category>vscode</category>
-      <guid>https://frederickvanbrabant.com/blog/2026-05-15-i-dont-think-ai-will-make-your-processes-go-faster/</guid>
-      <pubDate>Sun, 17 May 2026 17:03:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>A security researcher says Microsoft secretly built a backdoor into BitLocker, releases an exploit to prove it</title>
-      <link>https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html</link>
-      <description>According to the researcher, YellowKey appears unusual for a previously unknown security bug. Nightmare-Eclipse explained that the flaw can be reproduced by copying an attached "FsTx" folder...</description>
-      <category>encryption</category>
-      <category>web</category>
-      <guid>https://www.techspot.com/news/112410-security-researcher-microsoft-secretly-built-backdoor-bitlocker-releases.html</guid>
-      <pubDate>Sun, 17 May 2026 17:03:47 GMT</pubDate>
     </item>
   </channel>
 </rss>
