@@ -7,6 +7,210 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Building Software Requires Digestion</title>
+      <link>https://blog.jim-nielsen.com/2026/software-requires-digestion/</link>
+      <description>Writing about the big beautiful mess that is making things for the world wide web.</description>
+      <guid>https://blog.jim-nielsen.com/2026/software-requires-digestion/</guid>
+      <pubDate>Mon, 18 May 2026 23:04:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>How To Make Your Coding Agent Look Like An Idiot - Carlo Capocasa Tech Blog</title>
+      <link>https://capocasa.dev/how-to-make-your-coding-agent-look-like-an-idiot</link>
+      <description>Sharing 20 years worth of my best technical knowledge</description>
+      <category>ai</category>
+      <guid>https://capocasa.dev/how-to-make-your-coding-agent-look-like-an-idiot</guid>
+      <pubDate>Mon, 18 May 2026 23:04:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Branding VS Good design · Reda Antar</title>
+      <link>https://antar.me/blog/branding-vs-good-design/</link>
+      <description>Branding isn't merely orthogonal to good design, but opposed to it. Branding by definition has to be distinctive. But good design, like math or science, seeks the right answer, and right answers tend to converge.</description>
+      <author> (Reda Antar)</author>
+      <guid>https://antar.me/blog/branding-vs-good-design/</guid>
+      <pubDate>Mon, 18 May 2026 23:03:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Snowboard Kids 2 is 100% Decompiled</title>
+      <link>https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/</link>
+      <description>Snowboard Kids 2 for the Nintendo 64 has reached 100% matching decompilation. A brief note on what that means, how we got here, and what comes next.</description>
+      <category>gaming</category>
+      <category>ai</category>
+      <guid>https://blog.chrislewis.au/snowboard-kids-2-is-100-decompiled/</guid>
+      <pubDate>Mon, 18 May 2026 23:03:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Codex-maxxing - Jason Liu</title>
+      <link>https://jxnl.co/writing/2026/05/10/codex-maxxing/</link>
+      <description>How I use Codex as a place where long-running work can live.</description>
+      <category>cloud</category>
+      <category>ai</category>
+      <category>rust</category>
+      <category>git</category>
+      <category>web</category>
+      <guid>https://jxnl.co/writing/2026/05/10/codex-maxxing/</guid>
+      <pubDate>Mon, 18 May 2026 23:03:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to Land a Frontier Lab Job</title>
+      <link>https://vladfeinberg.com/2026/05/10/how-to-land-a-job-at-a-frontier-lab.html</link>
+      <description>Vlad's Blog</description>
+      <author> (https://vladfeinberg.com/about/)</author>
+      <category>rust</category>
+      <category>ai</category>
+      <guid>https://vladfeinberg.com/2026/05/10/how-to-land-a-job-at-a-frontier-lab.html</guid>
+      <pubDate>Mon, 18 May 2026 23:03:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Floor Doesn't Exist</title>
+      <link>https://konstantintkachuk.com/writing/the-floor-doesnt-exist/</link>
+      <description>AI did not invent new attacks. It billed the old ones monthly. Crypto is the only place we can count it, and the early signals are in.</description>
+      <category>encryption</category>
+      <category>conference</category>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://konstantintkachuk.com/writing/the-floor-doesnt-exist/</guid>
+      <pubDate>Mon, 18 May 2026 23:03:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Three things about data</title>
+      <link>https://www.undermanager.com/three-things-about-data/</link>
+      <description>Some recent conversations have reminded me that I have opinions about data and its use inside organisations. Especially for marketing-type stuff.
+
+Here are three of those opinions
+
+
+Gather less of it
+
+A few years ago in a sales meeting some ad-tech person said 'I bet you wish you had more</description>
+      <guid>https://www.undermanager.com/three-things-about-data/</guid>
+      <pubDate>Mon, 18 May 2026 23:03:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>The 96% that doesn't depend on you: why GEO is fundamentally an off-page discipline</title>
+      <link>https://blog.estevecastells.com/ai/geo-96-percent-off-page/</link>
+      <description>On average, 96% of the citations that drive a brand's appearance in AI answers come from third-party sites. That single number is why GEO is fundamentally an off-page discipline — and why so many SEOs are struggling to embrace it.</description>
+      <category>ai</category>
+      <category>cloud</category>
+      <category>youtube</category>
+      <guid>https://blog.estevecastells.com/ai/geo-96-percent-off-page/</guid>
+      <pubDate>Mon, 18 May 2026 23:03:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>10Gb/s Ethernet: using mini-heatsinks with a 10GBASE-T SFP+ module</title>
+      <link>https://www.gilesthomas.com/2026/05/10g-ethernet-sfpplus-mini-heatsinks</link>
+      <description>A quick update to show the (smallish) benefit of adding mini-heatsinks to a 10GBASE-T SFP+ module</description>
+      <author> (Giles Thomas)</author>
+      <guid>https://www.gilesthomas.com/2026/05/10g-ethernet-sfpplus-mini-heatsinks</guid>
+      <pubDate>Mon, 18 May 2026 23:03:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Semantic IDs for vulnerable code: finding 100× more cross-project clones than VUDDY — Shrikar Archak</title>
+      <link>https://shrikar.com/writing/semantic-ids-for-vulnerable-code</link>
+      <description>Learned RQ-VAE Semantic IDs for C/C++ vulnerability clones. Borrowing the TIGER substrate from recsys: on a 5000-function CVE registry SecSid finds 112 cross-project clones; VUDDY finds 1.</description>
+      <category>vscode</category>
+      <category>encryption</category>
+      <category>linux</category>
+      <category>git</category>
+      <category>sql</category>
+      <guid>https://shrikar.com/writing/semantic-ids-for-vulnerable-code</guid>
+      <pubDate>Mon, 18 May 2026 23:03:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stripe seem friendly to "friendly fraud" - Gingerlime</title>
+      <link>https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/</link>
+      <description>Friendly fraud is the laundered name for something that the payment system is not really able to prevent. Even though I’m pretty sure they can do way better. Particularly big and sophisticated payment providers like Stripe, with a mountain of signals. I had a customer buy my product twice. It’s called Ciglue. It’s cigar glue.…</description>
+      <category>ai</category>
+      <category>apple</category>
+      <guid>https://www.gingerlime.com/2026/stripe-seem-friendly-to-friendly-fraud/</guid>
+      <pubDate>Mon, 18 May 2026 23:03:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Keeping the Cultural Uplands Alive</title>
+      <link>https://jaymollica.com/blog/keeping-the-cultural-uplands-alive/</link>
+      <description> Aerial view of Cape Coral, FL Sam Altman doesn’t understand the technology he’s building. In a recent New Yorker profile, neither he nor anyone …</description>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://jaymollica.com/blog/keeping-the-cultural-uplands-alive/</guid>
+      <pubDate>Mon, 18 May 2026 23:03:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Target Can't Measure Their Own Bins</title>
+      <link>https://ninjacheetah.dev/2026/05/17/target-cant-measure.html</link>
+      <description>I bought a plastic storage bin from Target, and the measurements listed were just incredibly off.</description>
+      <guid>https://ninjacheetah.dev/2026/05/17/target-cant-measure.html</guid>
+      <pubDate>Mon, 18 May 2026 23:03:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>The HTML Sanitizer API</title>
+      <link>https://alfy.blog/2026/05/07/html-sanitizer-api.html</link>
+      <description>The HTML Sanitizer API is a new browser feature that helps developers prevent XSS vulnerabilities by safely sanitizing HTML content.</description>
+      <author> (Ahmad Elalfy)</author>
+      <category>web</category>
+      <category>git</category>
+      <guid>https://alfy.blog/2026/05/07/html-sanitizer-api.html</guid>
+      <pubDate>Mon, 18 May 2026 23:03:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Handling the great code forge fragmentation</title>
+      <link>https://www.alexselimov.com/posts/forge_fragmentation/</link>
+      <description>
+      The kind of developer I hope to be someday
+    
+
+
+It seems like there are a lot of people either leaving or talking about leaving Github, a very prominent one being Mitchell Hashimoto.
+Fragmentation seems inevitable, as people/companies start to distribute among the various options (Codeberg, self-host Forgejo, Gitlab, etc…).
+I think the decision Hashimoto makes with ghostty will potentially set the tone for how the death of Github will happen.
+I have some scattered thoughts about the situation:</description>
+      <category>git</category>
+      <category>ai</category>
+      <guid>https://www.alexselimov.com/posts/forge_fragmentation/</guid>
+      <pubDate>Mon, 18 May 2026 23:03:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Joys of Free Cloudflare</title>
+      <link>https://dm13450.github.io/2026/05/18/the-joys-of-free-cloudflare.html</link>
+      <description>I’ve been tinkering around with the free tier on Cloudflare and have managed to churn out a couple of side projects. Of course, I had a little help with various AI systems, but it was assisted rather than vibe-coded.</description>
+      <category>sql</category>
+      <category>javascript</category>
+      <category>ai</category>
+      <category>web</category>
+      <category>git</category>
+      <guid>https://dm13450.github.io/2026/05/18/the-joys-of-free-cloudflare.html</guid>
+      <pubDate>Mon, 18 May 2026 23:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Moving my app subscriptions to Europe</title>
+      <link>https://rewiring.bearblog.dev/moving-my-subscriptions-to-europe/</link>
+      <description>Having talked about it for so long, it's finally time to put my money where my mouth is
+
+The movement for European tech sovereignty is picking up speed nic...</description>
+      <category>cloud</category>
+      <guid>https://rewiring.bearblog.dev/moving-my-subscriptions-to-europe/</guid>
+      <pubDate>Mon, 18 May 2026 23:02:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>I've Been Shipping 'Multi-Tenant' Wrong for a Decade | Adrià Cidre</title>
+      <link>https://adriacidre.com/blog/multi-tenant-isolation-vs-awareness/</link>
+      <description>Tenant-aware is not tenant-isolated. Postgres row-level security, a restricted database role, and default-deny: the four things I missed every previous time.</description>
+      <category>sql</category>
+      <category>vscode</category>
+      <guid>https://adriacidre.com/blog/multi-tenant-isolation-vs-awareness/</guid>
+      <pubDate>Mon, 18 May 2026 23:02:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Scripts and aliases for your linux</title>
+      <link>https://alexeev-dev.bearblog.dev/scripts-and-aliases-for-your-linux/</link>
+      <description>Every person who spends more than five minutes in a terminal runs into the same thing: the same long commands have to be typed over and over, and routine act...</description>
+      <category>conference</category>
+      <category>git</category>
+      <category>linux</category>
+      <category>sql</category>
+      <category>python</category>
+      <guid>https://alexeev-dev.bearblog.dev/scripts-and-aliases-for-your-linux/</guid>
+      <pubDate>Mon, 18 May 2026 23:02:45 GMT</pubDate>
+    </item>
+    <item>
       <title>Anthropic acquires Stainless</title>
       <link>https://www.anthropic.com/news/anthropic-acquires-stainless</link>
       <description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
