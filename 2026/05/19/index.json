@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Mini Shai-Hulud Strikes Again: 317 npm Packages Compromised",
+    "Url": "https://safedep.io/mini-shai-hulud-strikes-again-314-npm-packages-compromised/",
+    "Timestamp": "2026-05-19T08:02:09",
+    "Domain": "safedep.io",
+    "Description": "A compromised npm maintainer account published 637 malicious versions across 317 packages including size-sensor, echarts-for-react, timeago.js, and hundreds of @antv scoped packages, affecting 15M+ monthly downloads."
+  },
+  {
     "Title": "Nobody Pushed Back: Why Engineers Stay Silent Until It's Too Late",
     "Url": "https://howtocenterdiv.com/beyond-the-div/nobody-pushed-back",
     "Timestamp": "2026-05-19T07:02:14",
