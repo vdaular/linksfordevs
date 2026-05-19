@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Click click click</title>
+      <link>https://clickclickclick.click/</link>
+      <description>A browser-based game on online profiling.</description>
+      <guid>https://clickclickclick.click/</guid>
+      <pubDate>Tue, 19 May 2026 06:02:31 GMT</pubDate>
+    </item>
+    <item>
       <title>My Haiku arm64 Progress - Development / OS - Haiku Community</title>
       <link>https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2</link>
       <description>Got Haiku booting in UTM with some small fixes. Mouse movement is slow and choppy though, so it’s not especially fun to use</description>
@@ -294,17 +301,6 @@ The movement for European tech sovereignty is picking up speed nic...</descripti
       <category>ai</category>
       <guid>https://www.seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/</guid>
       <pubDate>Mon, 18 May 2026 07:03:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - MinishLab/semble: Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read</title>
-      <link>https://github.com/MinishLab/semble</link>
-      <description>Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read - MinishLab/semble</description>
-      <category>ai</category>
-      <category>git</category>
-      <category>javascript</category>
-      <category>python</category>
-      <guid>https://github.com/MinishLab/semble</guid>
-      <pubDate>Mon, 18 May 2026 06:02:55 GMT</pubDate>
     </item>
   </channel>
 </rss>

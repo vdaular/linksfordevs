@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Click click click",
+    "Url": "https://clickclickclick.click/",
+    "Timestamp": "2026-05-19T06:02:31",
+    "Domain": "clickclickclick.click",
+    "Description": "A browser-based game on online profiling.",
+    "Confidence": 0.9659567
+  },
+  {
     "Title": "My Haiku arm64 Progress - Development / OS - Haiku Community",
     "Url": "https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2",
     "Timestamp": "2026-05-19T00:02:31",
@@ -230,13 +238,5 @@
     "Domain": "www.seangoedecke.com",
     "Description": "The engineer who says no all the time is a real archetype among senior and staff engineers. Their role is to slow things down, to block the development of features that add complexity, and to ensure that as little code gets written as possible (since code is a liability).",
     "Confidence": 0.9712117
-  },
-  {
-    "Title": "GitHub - MinishLab/semble: Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read",
-    "Url": "https://github.com/MinishLab/semble",
-    "Timestamp": "2026-05-18T06:02:55",
-    "Domain": "github.com",
-    "Description": "Fast and Accurate Code Search for Agents. Uses ~98% fewer tokens than grep+read - MinishLab/semble",
-    "Confidence": 0.99013096
   }
 ]
