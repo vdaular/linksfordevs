@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>A Texas Drainage District Walked Its Ditch on a Routine Inspection. They Found a Pipe They Didn't Recognize Discharging Black Liquid From Tesla's $1 Billion Lithium Refinery</title>
+      <link>https://www.autonocion.com/us/tesla-lithium-refinery-texas/</link>
+      <description>The pipe belonged to Tesla. The dark liquid was wastewater from the company's nearly $1 billion lithium refinery, which began operations in December 2024 and</description>
+      <guid>https://www.autonocion.com/us/tesla-lithium-refinery-texas/</guid>
+      <pubDate>Tue, 19 May 2026 22:02:35 GMT</pubDate>
+    </item>
+    <item>
       <title>Gemini 3.5: frontier intelligence with action</title>
       <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/</link>
       <description>At Google I/O we released Gemini 3.5, our latest series of models combining frontier intelligence with action.</description>
@@ -325,16 +332,6 @@ The movement for European tech sovereignty is picking up speed nic...</descripti
       <category>python</category>
       <guid>https://alexeev-dev.bearblog.dev/scripts-and-aliases-for-your-linux/</guid>
       <pubDate>Mon, 18 May 2026 23:02:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anthropic acquires Stainless</title>
-      <link>https://www.anthropic.com/news/anthropic-acquires-stainless</link>
-      <description>Anthropic is an AI safety and research company that's working to build reliable, interpretable, and steerable AI systems.</description>
-      <category>typescript</category>
-      <category>python</category>
-      <category>ai</category>
-      <guid>https://www.anthropic.com/news/anthropic-acquires-stainless</guid>
-      <pubDate>Mon, 18 May 2026 22:03:27 GMT</pubDate>
     </item>
   </channel>
 </rss>
