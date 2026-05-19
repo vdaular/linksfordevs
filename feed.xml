@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Gemini 3.5: frontier intelligence with action</title>
+      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/</link>
+      <description>At Google I/O we released Gemini 3.5, our latest series of models combining frontier intelligence with action.</description>
+      <category>visualstudio</category>
+      <category>cloud</category>
+      <category>android</category>
+      <category>ai</category>
+      <guid>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/</guid>
+      <pubDate>Tue, 19 May 2026 21:02:32 GMT</pubDate>
+    </item>
+    <item>
       <title>The Virtual OS Museum</title>
       <link>https://virtualosmuseum.org/</link>
       <description>Over 1,700 pre-installed operating systems spanning 1948 to today, in a single Linux VM. Bundled QEMU, VirtualBox, and UTM. One-click launchers for Windows and Linux.</description>
