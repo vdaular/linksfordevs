@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Nobody Pushed Back: Why Engineers Stay Silent Until It's Too Late",
+    "Url": "https://howtocenterdiv.com/beyond-the-div/nobody-pushed-back",
+    "Timestamp": "2026-05-19T07:02:14",
+    "Domain": "howtocenterdiv.com",
+    "Description": "Nokia, TSB, Boeing, Microsoft — four companies, four disasters, one pattern. The engineers knew. They just didn't speak up. Here's why, and what it costs when nobody pushes back.",
+    "Confidence": 0.77249897
+  },
+  {
+    "Title": "The last six months in LLMs in five minutes",
+    "Url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
+    "Timestamp": "2026-05-19T07:02:09",
+    "Domain": "simonwillison.net",
+    "Description": "I put together these annotated slides from my five minute lightning talk at PyCon US 2026, using the latest iteration of my annotated presentation tool. # I presented this lightning …",
+    "Confidence": 0.8659777
+  },
+  {
     "Title": "Click click click",
     "Url": "https://clickclickclick.click/",
     "Timestamp": "2026-05-19T06:02:31",
@@ -230,13 +246,5 @@
     "Domain": "gencad.github.io",
     "Description": "GenCAD",
     "Confidence": 0.9700326
-  },
-  {
-    "Title": "The just-say-no engineer was a ZIRP phenomenon",
-    "Url": "https://www.seangoedecke.com/the-just-say-no-engineer-was-a-zirp-phenomenon/",
-    "Timestamp": "2026-05-18T07:03:04",
-    "Domain": "www.seangoedecke.com",
-    "Description": "The engineer who says no all the time is a real archetype among senior and staff engineers. Their role is to slow things down, to block the development of features that add complexity, and to ensure that as little code gets written as possible (since code is a liability).",
-    "Confidence": 0.9712117
   }
 ]
