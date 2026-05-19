@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>My Haiku arm64 Progress - Development / OS - Haiku Community</title>
+      <link>https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2</link>
+      <description>Got Haiku booting in UTM with some small fixes. Mouse movement is slow and choppy though, so it’s not especially fun to use</description>
+      <category>apple</category>
+      <category>git</category>
+      <guid>https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2</guid>
+      <pubDate>Tue, 19 May 2026 00:02:31 GMT</pubDate>
+    </item>
+    <item>
       <title>Building Software Requires Digestion</title>
       <link>https://blog.jim-nielsen.com/2026/software-requires-digestion/</link>
       <description>Writing about the big beautiful mess that is making things for the world wide web.</description>
@@ -307,182 +316,6 @@ The movement for European tech sovereignty is picking up speed nic...</descripti
       <category>ai</category>
       <guid>https://github.com/tech4bot/rk3562deb</guid>
       <pubDate>Mon, 18 May 2026 02:03:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Pirated Corpus Was Always a Balance-Sheet Item | Abhishek Shankar's Blog</title>
-      <link>https://abhishek-shankar.com/posts/the-pirated-corpus-was-always-a-balance-sheet-item</link>
-      <description>Anthropic's $1.5 billion settlement is being read as a deterrent. It is much closer to a tariff — a price tag on an arbitrage that produced an asset worth more than the tariff itself, and an arbitrage that is now closed for everyone else. The corpus is gone; the model remains; the second mover faces a different trade entirely.</description>
-      <category>ai</category>
-      <guid>https://abhishek-shankar.com/posts/the-pirated-corpus-was-always-a-balance-sheet-item</guid>
-      <pubDate>Mon, 18 May 2026 00:04:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reducing OpenClaw token usage</title>
-      <link>https://brtkwr.com/posts/2026-05-17-reducing-openclaw-token-usage/</link>
-      <description>TL;DR Link to heading I had reduced my OpenClaw heartbeat cadence a few weeks ago expecting a big drop in LLM credit usage. It barely moved the bill. Digging into the per-call usage logs, I found that every persistent session had compactionCount: 0, so each cron run and group chat reply was replaying its own growing transcript on top of a 12k-character bootstrap. The fixes that helped were elsewhere: a 500 KB compaction trigger, deduplicated overlap between the heartbeat and a daily cron, and a reset of the stale sessions. Together they took my daily token total from ~2.2M to ~256k. Slowing the heartbeat to once a day contributed a small share.</description>
-      <category>javascript</category>
-      <guid>https://brtkwr.com/posts/2026-05-17-reducing-openclaw-token-usage/</guid>
-      <pubDate>Mon, 18 May 2026 00:04:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Don't Outsource the Learning</title>
-      <link>https://addyosmani.com/blog/dont-outsource-learning/</link>
-      <description>Right now, it's too easy to let AI write the code while you skip the learning. The bug gets fixed. Your mental model doesn't move. We are silently trading fu...</description>
-      <category>ai</category>
-      <category>rust</category>
-      <category>python</category>
-      <category>vscode</category>
-      <guid>https://addyosmani.com/blog/dont-outsource-learning/</guid>
-      <pubDate>Mon, 18 May 2026 00:04:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Towards approachable observability with wide events</title>
-      <link>https://marending.dev/notes/wide-events/</link>
-      <description>A tragedy in four acts</description>
-      <category>web</category>
-      <category>javascript</category>
-      <guid>https://marending.dev/notes/wide-events/</guid>
-      <pubDate>Mon, 18 May 2026 00:04:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Killing a `Cow` made my JSON formatter 42% faster</title>
-      <link>https://jacobasper.com/blog/killing-a-cow-made-my-json-formatter-42-percent-faster/</link>
-      <description>Early optimization is bad</description>
-      <category>javascript</category>
-      <category>rust</category>
-      <guid>https://jacobasper.com/blog/killing-a-cow-made-my-json-formatter-42-percent-faster/</guid>
-      <pubDate>Mon, 18 May 2026 00:04:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Mitigating Ongoing Registry Supply Chain Attacks | Ethan Hawksley</title>
-      <link>https://hawksley.dev/blog/supply-chain-attacks/</link>
-      <description>They are only becoming more frequent and more damaging.</description>
-      <author> (https://hawksley.dev/)</author>
-      <category>nodejs</category>
-      <category>rust</category>
-      <category>javascript</category>
-      <guid>https://hawksley.dev/blog/supply-chain-attacks/</guid>
-      <pubDate>Mon, 18 May 2026 00:04:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bun's problem may be developing in the open</title>
-      <link>https://00f.net/2026/05/17/developping-in-the-open/</link>
-      <description>As soon as people found a Bun branch mentioning an experiment to use an LLM to port the existing Zig code to Rust, they went mad.</description>
-      <author> (Frank Denis (Jedi/Sector One))</author>
-      <category>rust</category>
-      <category>ai</category>
-      <category>git</category>
-      <guid>https://00f.net/2026/05/17/developping-in-the-open/</guid>
-      <pubDate>Mon, 18 May 2026 00:04:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Learning to write (again)</title>
-      <link>https://jampa.bearblog.dev/learning-to-write-again/</link>
-      <description>I saw a post on twitter/X that had a screenshot of a prompt that they gave to Claude. The prompt was something like "If you were a human, what is some small ...</description>
-      <category>ai</category>
-      <category>youtube</category>
-      <guid>https://jampa.bearblog.dev/learning-to-write-again/</guid>
-      <pubDate>Mon, 18 May 2026 00:04:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tokenomics: the 62.5-minute rule for Claude's cache | Ryan Skidmore</title>
-      <link>https://skids.dev/blog/anthropic-cache-tokenomics/</link>
-      <description>Is it more efficient to refresh the 5-min cache, let it expire, or just rely compaction?</description>
-      <author> (Ryan Skidmore)</author>
-      <category>ai</category>
-      <category>vscode</category>
-      <guid>https://skids.dev/blog/anthropic-cache-tokenomics/</guid>
-      <pubDate>Mon, 18 May 2026 00:03:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>What Do You Actually Want?</title>
-      <link>https://dekodiert.de/en/articles/was-wollt-ihr-eigentlich</link>
-      <description>Many companies treat AI as a tooling question. Often they cannot even state clearly what they actually want.</description>
-      <author> (Sven Döring)</author>
-      <category>ai</category>
-      <category>git</category>
-      <guid>https://dekodiert.de/en/articles/was-wollt-ihr-eigentlich</guid>
-      <pubDate>Mon, 18 May 2026 00:03:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Effective use of HTML with Agents</title>
-      <link>https://daanluttik.nl/blog/effective-use-of-html-with-agents</link>
-      <description>My thoughts after experimenting with HTML as the output format for AI.</description>
-      <category>ai</category>
-      <category>web</category>
-      <category>python</category>
-      <guid>https://daanluttik.nl/blog/effective-use-of-html-with-agents</guid>
-      <pubDate>Mon, 18 May 2026 00:03:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>We lost our imagination</title>
-      <link>https://onatm.dev/2026/05/17/we-lost-our-imagination/</link>
-      <description>We lost our imagination. It’s not because of AI. Not everybody had it before AI, but the people who had it lost it too.</description>
-      <category>ai</category>
-      <guid>https://onatm.dev/2026/05/17/we-lost-our-imagination/</guid>
-      <pubDate>Mon, 18 May 2026 00:03:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>What Matters in Production RAG</title>
-      <link>https://arpitbhayani.me/blogs/rag-production/</link>
-      <description>Most of us build RAG the same way: follow a tutorial that embeds a handful of PDFs, stores the vectors in a local Chroma instance, and chains everything together with LangChain (if that's still a thing). The demo works. The answer looks reasonable. Then you take it to production and it falls apart in quiet, hard-to-diagnose ways.</description>
-      <category>encryption</category>
-      <category>sql</category>
-      <category>ai</category>
-      <guid>https://arpitbhayani.me/blogs/rag-production/</guid>
-      <pubDate>Mon, 18 May 2026 00:03:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Wild Cyberwest - Trimming Circles</title>
-      <link>https://xm4ch1ne.github.io/2026-05-17-the-wild-cyberwest/</link>
-      <description></description>
-      <category>ai</category>
-      <category>encryption</category>
-      <guid>https://xm4ch1ne.github.io/2026-05-17-the-wild-cyberwest/</guid>
-      <pubDate>Mon, 18 May 2026 00:03:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Learning-focused CTFs are Facing a Restructure</title>
-      <link>https://exploiting.systems/posts/2026-05-17-learning-focused-ctfs-are-facing-a-restructure</link>
-      <description>As LLMs supercharge CTF automation, the community must adapt to ensure learning incentives remain effective.</description>
-      <category>ai</category>
-      <category>git</category>
-      <category>linux</category>
-      <guid>https://exploiting.systems/posts/2026-05-17-learning-focused-ctfs-are-facing-a-restructure</guid>
-      <pubDate>Mon, 18 May 2026 00:03:33 GMT</pubDate>
-    </item>
-    <item>
-      <title> AI Fundamentals: World Models for Planning Agents | Michal Pandy </title>
-      <link>https://mpmisko.github.io/ai-fundamentals-world-models-and-latent-dynamics/</link>
-      <description> Michal Pandy </description>
-      <author> (Michal Pándy)</author>
-      <category>git</category>
-      <category>ai</category>
-      <guid>https://mpmisko.github.io/ai-fundamentals-world-models-and-latent-dynamics/</guid>
-      <pubDate>Mon, 18 May 2026 00:03:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Coding on Paper</title>
-      <link>https://wickstrom.tech/2026-05-16-coding-on-paper.html</link>
-      <description>About three months ago, I bought the Onyx
-BOOX 25.3” Mira Pro Color, an e-ink monitor for desktop use. I’ve
-used it as my primary monitor since, and I’ve had a lot of questions
-about it. This is my experience report, from the perspective of a
-working, still mostly typing, programmer.</description>
-      <category>android</category>
-      <category>web</category>
-      <guid>https://wickstrom.tech/2026-05-16-coding-on-paper.html</guid>
-      <pubDate>Mon, 18 May 2026 00:03:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Julien Palard - A checkbox to enable the Django debug toolbar</title>
-      <link>https://mdk.fr/blog/django-debug-toolbar-checkbox.html</link>
-      <description>Python Developer and Trainer</description>
-      <category>python</category>
-      <category>git</category>
-      <category>web</category>
-      <guid>https://mdk.fr/blog/django-debug-toolbar-checkbox.html</guid>
-      <pubDate>Mon, 18 May 2026 00:03:23 GMT</pubDate>
     </item>
   </channel>
 </rss>

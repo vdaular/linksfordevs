@@ -1,5 +1,13 @@
 [
   {
+    "Title": "My Haiku arm64 Progress - Development / OS - Haiku Community",
+    "Url": "https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2",
+    "Timestamp": "2026-05-19T00:02:31",
+    "Domain": "discuss.haiku-os.org",
+    "Description": "Got Haiku booting in UTM with some small fixes. Mouse movement is slow and choppy though, so it’s not especially fun to use",
+    "Confidence": 0.98658496
+  },
+  {
     "Title": "Building Software Requires Digestion",
     "Url": "https://blog.jim-nielsen.com/2026/software-requires-digestion/",
     "Timestamp": "2026-05-18T23:04:05",
@@ -238,149 +246,5 @@
     "Domain": "github.com",
     "Description": "Contribute to tech4bot/rk3562deb development by creating an account on GitHub.",
     "Confidence": 0.9938074
-  },
-  {
-    "Title": "The Pirated Corpus Was Always a Balance-Sheet Item | Abhishek Shankar's Blog",
-    "Url": "https://abhishek-shankar.com/posts/the-pirated-corpus-was-always-a-balance-sheet-item",
-    "Timestamp": "2026-05-18T00:04:25",
-    "Domain": "abhishek-shankar.com",
-    "Description": "Anthropic's $1.5 billion settlement is being read as a deterrent. It is much closer to a tariff — a price tag on an arbitrage that produced an asset worth more than the tariff itself, and an arbitrage that is now closed for everyone else. The corpus is gone; the model remains; the second mover faces a different trade entirely.",
-    "Confidence": 0.8884351
-  },
-  {
-    "Title": "Reducing OpenClaw token usage",
-    "Url": "https://brtkwr.com/posts/2026-05-17-reducing-openclaw-token-usage/",
-    "Timestamp": "2026-05-18T00:04:21",
-    "Domain": "brtkwr.com",
-    "Description": "TL;DR Link to heading I had reduced my OpenClaw heartbeat cadence a few weeks ago expecting a big drop in LLM credit usage. It barely moved the bill. Digging into the per-call usage logs, I found that every persistent session had compactionCount: 0, so each cron run and group chat reply was replaying its own growing transcript on top of a 12k-character bootstrap. The fixes that helped were elsewhere: a 500 KB compaction trigger, deduplicated overlap between the heartbeat and a daily cron, and a reset of the stale sessions. Together they took my daily token total from ~2.2M to ~256k. Slowing the heartbeat to once a day contributed a small share.",
-    "Confidence": 0.86961603
-  },
-  {
-    "Title": "Don't Outsource the Learning",
-    "Url": "https://addyosmani.com/blog/dont-outsource-learning/",
-    "Timestamp": "2026-05-18T00:04:18",
-    "Domain": "addyosmani.com",
-    "Description": "Right now, it's too easy to let AI write the code while you skip the learning. The bug gets fixed. Your mental model doesn't move. We are silently trading fu...",
-    "Confidence": 0.9710358
-  },
-  {
-    "Title": "Towards approachable observability with wide events",
-    "Url": "https://marending.dev/notes/wide-events/",
-    "Timestamp": "2026-05-18T00:04:15",
-    "Domain": "marending.dev",
-    "Description": "A tragedy in four acts",
-    "Confidence": 0.9854532
-  },
-  {
-    "Title": "Killing a `Cow` made my JSON formatter 42% faster",
-    "Url": "https://jacobasper.com/blog/killing-a-cow-made-my-json-formatter-42-percent-faster/",
-    "Timestamp": "2026-05-18T00:04:10",
-    "Domain": "jacobasper.com",
-    "Description": "Early optimization is bad",
-    "Confidence": 0.9614965
-  },
-  {
-    "Title": "Mitigating Ongoing Registry Supply Chain Attacks | Ethan Hawksley",
-    "Url": "https://hawksley.dev/blog/supply-chain-attacks/",
-    "Timestamp": "2026-05-18T00:04:07",
-    "Domain": "hawksley.dev",
-    "Description": "They are only becoming more frequent and more damaging.",
-    "Confidence": 0.9676533
-  },
-  {
-    "Title": "Bun's problem may be developing in the open",
-    "Url": "https://00f.net/2026/05/17/developping-in-the-open/",
-    "Timestamp": "2026-05-18T00:04:04",
-    "Domain": "00f.net",
-    "Description": "As soon as people found a Bun branch mentioning an experiment to use an LLM to port the existing Zig code to Rust, they went mad.",
-    "Confidence": 0.99498016
-  },
-  {
-    "Title": "Learning to write (again)",
-    "Url": "https://jampa.bearblog.dev/learning-to-write-again/",
-    "Timestamp": "2026-05-18T00:04:00",
-    "Domain": "jampa.bearblog.dev",
-    "Description": "I saw a post on twitter/X that had a screenshot of a prompt that they gave to Claude. The prompt was something like \"If you were a human, what is some small ...",
-    "Confidence": 0.82292044
-  },
-  {
-    "Title": "Tokenomics: the 62.5-minute rule for Claude's cache | Ryan Skidmore",
-    "Url": "https://skids.dev/blog/anthropic-cache-tokenomics/",
-    "Timestamp": "2026-05-18T00:03:57",
-    "Domain": "skids.dev",
-    "Description": "Is it more efficient to refresh the 5-min cache, let it expire, or just rely compaction?",
-    "Confidence": 0.99435675
-  },
-  {
-    "Title": "What Do You Actually Want?",
-    "Url": "https://dekodiert.de/en/articles/was-wollt-ihr-eigentlich",
-    "Timestamp": "2026-05-18T00:03:54",
-    "Domain": "dekodiert.de",
-    "Description": "Many companies treat AI as a tooling question. Often they cannot even state clearly what they actually want.",
-    "Confidence": 0.98413587
-  },
-  {
-    "Title": "Effective use of HTML with Agents",
-    "Url": "https://daanluttik.nl/blog/effective-use-of-html-with-agents",
-    "Timestamp": "2026-05-18T00:03:48",
-    "Domain": "daanluttik.nl",
-    "Description": "My thoughts after experimenting with HTML as the output format for AI.",
-    "Confidence": 0.9922644
-  },
-  {
-    "Title": "We lost our imagination",
-    "Url": "https://onatm.dev/2026/05/17/we-lost-our-imagination/",
-    "Timestamp": "2026-05-18T00:03:44",
-    "Domain": "onatm.dev",
-    "Description": "We lost our imagination. It’s not because of AI. Not everybody had it before AI, but the people who had it lost it too.",
-    "Confidence": 0.83747846
-  },
-  {
-    "Title": "What Matters in Production RAG",
-    "Url": "https://arpitbhayani.me/blogs/rag-production/",
-    "Timestamp": "2026-05-18T00:03:41",
-    "Domain": "arpitbhayani.me",
-    "Description": "Most of us build RAG the same way: follow a tutorial that embeds a handful of PDFs, stores the vectors in a local Chroma instance, and chains everything together with LangChain (if that's still a thing). The demo works. The answer looks reasonable. Then you take it to production and it falls apart in quiet, hard-to-diagnose ways.",
-    "Confidence": 0.9935946
-  },
-  {
-    "Title": "The Wild Cyberwest - Trimming Circles",
-    "Url": "https://xm4ch1ne.github.io/2026-05-17-the-wild-cyberwest/",
-    "Timestamp": "2026-05-18T00:03:37",
-    "Domain": "xm4ch1ne.github.io",
-    "Description": "",
-    "Confidence": 0.7549722
-  },
-  {
-    "Title": "Learning-focused CTFs are Facing a Restructure",
-    "Url": "https://exploiting.systems/posts/2026-05-17-learning-focused-ctfs-are-facing-a-restructure",
-    "Timestamp": "2026-05-18T00:03:33",
-    "Domain": "exploiting.systems",
-    "Description": "As LLMs supercharge CTF automation, the community must adapt to ensure learning incentives remain effective.",
-    "Confidence": 0.94908535
-  },
-  {
-    "Title": " AI Fundamentals: World Models for Planning Agents | Michal Pandy ",
-    "Url": "https://mpmisko.github.io/ai-fundamentals-world-models-and-latent-dynamics/",
-    "Timestamp": "2026-05-18T00:03:30",
-    "Domain": "mpmisko.github.io",
-    "Description": " Michal Pandy ",
-    "Confidence": 0.986814
-  },
-  {
-    "Title": "Coding on Paper",
-    "Url": "https://wickstrom.tech/2026-05-16-coding-on-paper.html",
-    "Timestamp": "2026-05-18T00:03:26",
-    "Domain": "wickstrom.tech",
-    "Description": "About three months ago, I bought the Onyx\nBOOX 25.3” Mira Pro Color, an e-ink monitor for desktop use. I’ve\nused it as my primary monitor since, and I’ve had a lot of questions\nabout it. This is my experience report, from the perspective of a\nworking, still mostly typing, programmer.",
-    "Confidence": 0.98796505
-  },
-  {
-    "Title": "Julien Palard - A checkbox to enable the Django debug toolbar",
-    "Url": "https://mdk.fr/blog/django-debug-toolbar-checkbox.html",
-    "Timestamp": "2026-05-18T00:03:23",
-    "Domain": "mdk.fr",
-    "Description": "Python Developer and Trainer",
-    "Confidence": 0.98960894
   }
 ]
