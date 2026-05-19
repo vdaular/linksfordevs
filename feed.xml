@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>OpenBSD 7.9</title>
+      <link>https://www.openbsd.org/79.html</link>
+      <description>OpenBSD 7.9</description>
+      <category>linux</category>
+      <category>nodejs</category>
+      <guid>https://www.openbsd.org/79.html</guid>
+      <pubDate>Tue, 19 May 2026 17:02:25 GMT</pubDate>
+    </item>
+    <item>
       <title>Apple unveils new accessibility features, and updates with Apple Intelligence</title>
       <link>https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/</link>
       <description>Apple announced major accessibility updates powered by Apple Intelligence, including new capabilities for VoiceOver, Magnifier, and Voice Control.</description>
@@ -321,18 +330,6 @@ The movement for European tech sovereignty is picking up speed nic...</descripti
       <category>javascript</category>
       <guid>https://xkcd.com/3247/</guid>
       <pubDate>Mon, 18 May 2026 19:03:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - zakirullin/files.md: 🌱 Your life in plain .md files</title>
-      <link>https://github.com/zakirullin/files.md</link>
-      <description>🌱 Your life in plain .md files. Contribute to zakirullin/files.md development by creating an account on GitHub.</description>
-      <category>javascript</category>
-      <category>conference</category>
-      <category>web</category>
-      <category>ai</category>
-      <category>typescript</category>
-      <guid>https://github.com/zakirullin/files.md</guid>
-      <pubDate>Mon, 18 May 2026 17:03:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
