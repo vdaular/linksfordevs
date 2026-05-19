@@ -238,13 +238,5 @@
     "Domain": "github.com",
     "Description": "Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule - stephenlthorn/auto-identity-remove",
     "Confidence": 0.9847592
-  },
-  {
-    "Title": "Don't call yourself a Software Engineer, you are an AI Enabled Engineer.",
-    "Url": "https://idiallo.com/blog/you-are-an-ai-enabled-engineer-now?src=feed",
-    "Timestamp": "2026-05-18T12:03:12",
-    "Domain": "idiallo.com",
-    "Description": "I can only imagine what it's like learning the skill of programming in this day and age. What does an average college class look like? What is the CS professor teaching? And students, how do you recon",
-    "Confidence": 0.9864656
   }
 ]
