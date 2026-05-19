@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Apple unveils new accessibility features, and updates with Apple Intelligence</title>
+      <link>https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/</link>
+      <description>Apple announced major accessibility updates powered by Apple Intelligence, including new capabilities for VoiceOver, Magnifier, and Voice Control.</description>
+      <category>visualstudio</category>
+      <category>apple</category>
+      <category>gaming</category>
+      <guid>https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/</guid>
+      <pubDate>Tue, 19 May 2026 16:02:27 GMT</pubDate>
+    </item>
+    <item>
       <title>Strawberry - SuperSplat</title>
       <link>https://superspl.at/scene/84df8849</link>
       <description>Shot from 90 perspectives, 88 focus stacked images each. Nikon Z8, full frame, f/7.1, exposure 1/160, ISO 100, Laowa 180mm macro lens, with LED light and blu...</description>
@@ -323,17 +333,6 @@ The movement for European tech sovereignty is picking up speed nic...</descripti
       <category>typescript</category>
       <guid>https://github.com/zakirullin/files.md</guid>
       <pubDate>Mon, 18 May 2026 17:03:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - stephenlthorn/auto-identity-remove: Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule</title>
-      <link>https://github.com/stephenlthorn/auto-identity-remove</link>
-      <description>Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule - stephenlthorn/auto-identity-remove</description>
-      <category>nodejs</category>
-      <category>javascript</category>
-      <category>git</category>
-      <category>ai</category>
-      <guid>https://github.com/stephenlthorn/auto-identity-remove</guid>
-      <pubDate>Mon, 18 May 2026 15:09:42 GMT</pubDate>
     </item>
   </channel>
 </rss>

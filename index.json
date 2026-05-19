@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Apple unveils new accessibility features, and updates with Apple Intelligence",
+    "Url": "https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/",
+    "Timestamp": "2026-05-19T16:02:27",
+    "Domain": "www.apple.com",
+    "Description": "Apple announced major accessibility updates powered by Apple Intelligence, including new capabilities for VoiceOver, Magnifier, and Voice Control.",
+    "Confidence": 0.75379
+  },
+  {
     "Title": "Strawberry - SuperSplat",
     "Url": "https://superspl.at/scene/84df8849",
     "Timestamp": "2026-05-19T15:02:47",
@@ -254,13 +262,5 @@
     "Domain": "github.com",
     "Description": "🌱 Your life in plain .md files. Contribute to zakirullin/files.md development by creating an account on GitHub.",
     "Confidence": 0.9866825
-  },
-  {
-    "Title": "GitHub - stephenlthorn/auto-identity-remove: Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule",
-    "Url": "https://github.com/stephenlthorn/auto-identity-remove",
-    "Timestamp": "2026-05-18T15:09:42",
-    "Domain": "github.com",
-    "Description": "Automated data broker opt-out runner — removes your personal info from 30+ people-search sites on a monthly schedule - stephenlthorn/auto-identity-remove",
-    "Confidence": 0.9847592
   }
 ]
