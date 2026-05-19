@@ -7,6 +7,23 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Strawberry - SuperSplat</title>
+      <link>https://superspl.at/scene/84df8849</link>
+      <description>Shot from 90 perspectives, 88 focus stacked images each. Nikon Z8, full frame, f/7.1, exposure 1/160, ISO 100, Laowa 180mm macro lens, with LED light and blu...</description>
+      <guid>https://superspl.at/scene/84df8849</guid>
+      <pubDate>Tue, 19 May 2026 15:02:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wi-Wi Is Wireless Time Sync at 1 nanosecond</title>
+      <link>https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/</link>
+      <description>At NAB, I found a demo of Wi-Wi STAMP, a wireless time synchronization protocol that came out of Japan's NICT.
+Wi-Wi stands for Wireless 2Way interferometry, and it uses the 900 MHz band for picosecond-level time sync, and mm-level distance accuracy, in a tiny box, currently the size of a smartphone.
+The system is still in development, but existing prototypes have 20ps of phase synchronization jitter, and time synchronization down to 30ns. The next generation will have time down to 5ns in real-world use.</description>
+      <category>gaming</category>
+      <guid>https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/</guid>
+      <pubDate>Tue, 19 May 2026 15:02:42 GMT</pubDate>
+    </item>
+    <item>
       <title>GitHub - grayj/Jedi-Academy: Star Wars Jedi Knight: Jedi Academy</title>
       <link>https://github.com/grayj/Jedi-Academy</link>
       <description>Star Wars Jedi Knight: Jedi Academy. Contribute to grayj/Jedi-Academy development by creating an account on GitHub.</description>

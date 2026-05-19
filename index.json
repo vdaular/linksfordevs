@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Strawberry - SuperSplat",
+    "Url": "https://superspl.at/scene/84df8849",
+    "Timestamp": "2026-05-19T15:02:47",
+    "Domain": "superspl.at",
+    "Description": "Shot from 90 perspectives, 88 focus stacked images each. Nikon Z8, full frame, f/7.1, exposure 1/160, ISO 100, Laowa 180mm macro lens, with LED light and blu...",
+    "Confidence": 0.97797805
+  },
+  {
+    "Title": "Wi-Wi Is Wireless Time Sync at 1 nanosecond",
+    "Url": "https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/",
+    "Timestamp": "2026-05-19T15:02:42",
+    "Domain": "www.jeffgeerling.com",
+    "Description": "At NAB, I found a demo of Wi-Wi STAMP, a wireless time synchronization protocol that came out of Japan's NICT.\nWi-Wi stands for Wireless 2Way interferometry, and it uses the 900 MHz band for picosecond-level time sync, and mm-level distance accuracy, in a tiny box, currently the size of a smartphone.\nThe system is still in development, but existing prototypes have 20ps of phase synchronization jitter, and time synchronization down to 30ns. The next generation will have time down to 5ns in real-world use.",
+    "Confidence": 0.93764883
+  },
+  {
     "Title": "GitHub - grayj/Jedi-Academy: Star Wars Jedi Knight: Jedi Academy",
     "Url": "https://github.com/grayj/Jedi-Academy",
     "Timestamp": "2026-05-19T14:02:45",
