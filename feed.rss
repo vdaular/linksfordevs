@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Qwen Studio</title>
+      <link>https://qwen.ai/blog?id=qwen3.7</link>
+      <description>DISCORD Today we introduce Qwen3.7-Max, our latest proprietary model designed for the agent era. Qwen3.7-Max is built to be a versatile agent foundation — equally capable of writing and debugging code, automating office workflows, and sustaining autonomous execution across hundreds or thousands of steps.
+What sets Qwen3.7-Max apart is the breadth and depth of its agent capabilities. It excels as a coding agent, from frontend prototyping to complex multi-file engineering.</description>
+      <category>vscode</category>
+      <category>nodejs</category>
+      <category>ai</category>
+      <guid>https://qwen.ai/blog?id=qwen3.7</guid>
+      <pubDate>Wed, 20 May 2026 16:02:21 GMT</pubDate>
+    </item>
+    <item>
       <title>Adieu Visa et Mastercard : 130 millions d'Européens basculent vers un paiement 100 % souverain dès 2026</title>
       <link>https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html</link>
       <description>L'Europe lance enfin sa riposte technologique face à l'hégémonie américaine. Cinq géants du paiement mobile continental viennent de sceller une alliance historique pour unifier leurs réseaux. Dès l'année prochaine, les transactions quotidiennes de millions d'utilisateurs s'affranchiront des circu...</description>
@@ -375,16 +386,6 @@ Thinking this way, I cannot think of configurations as just simple inputs. That 
       <category>nodejs</category>
       <guid>https://www.openbsd.org/79.html</guid>
       <pubDate>Tue, 19 May 2026 17:02:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple unveils new accessibility features, and updates with Apple Intelligence</title>
-      <link>https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/</link>
-      <description>Apple announced major accessibility updates powered by Apple Intelligence, including new capabilities for VoiceOver, Magnifier, and Voice Control.</description>
-      <category>visualstudio</category>
-      <category>apple</category>
-      <category>gaming</category>
-      <guid>https://www.apple.com/newsroom/2026/05/apple-unveils-new-accessibility-features-and-updates-with-apple-intelligence/</guid>
-      <pubDate>Tue, 19 May 2026 16:02:27 GMT</pubDate>
     </item>
   </channel>
 </rss>

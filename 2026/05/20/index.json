@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Qwen Studio",
+    "Url": "https://qwen.ai/blog?id=qwen3.7",
+    "Timestamp": "2026-05-20T16:02:21",
+    "Domain": "qwen.ai",
+    "Description": "DISCORD Today we introduce Qwen3.7-Max, our latest proprietary model designed for the agent era. Qwen3.7-Max is built to be a versatile agent foundation — equally capable of writing and debugging code, automating office workflows, and sustaining autonomous execution across hundreds or thousands of steps.\nWhat sets Qwen3.7-Max apart is the breadth and depth of its agent capabilities. It excels as a coding agent, from frontend prototyping to complex multi-file engineering."
+  },
+  {
     "Title": "Adieu Visa et Mastercard : 130 millions d'Européens basculent vers un paiement 100 % souverain dès 2026",
     "Url": "https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html",
     "Timestamp": "2026-05-20T15:02:52",
