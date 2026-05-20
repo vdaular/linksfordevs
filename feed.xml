@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>fivethirtyeightindex.com</title>
+      <link>https://fivethirtyeightindex.com/</link>
+      <description>An index of every fivethirtyeight.com article preserved by the Internet Archive.</description>
+      <guid>https://fivethirtyeightindex.com/</guid>
+      <pubDate>Wed, 20 May 2026 14:02:35 GMT</pubDate>
+    </item>
+    <item>
       <title>No, You Really Don't Need MediatR in .NET</title>
       <link>https://youtube.com/watch?v=2xiHO1tv4Cc</link>
       <description>Online Workshop: Vibe Coding for Production: https://dometrain.com/workshop/vibe-coding-for-production/?ref=nick-chapsas&amp;promo=mail-list&amp;coupon_code=3YEARS
@@ -383,14 +390,6 @@ The system is still in development, but existing prototypes have 20ps of phase s
       <category>gaming</category>
       <guid>https://www.jeffgeerling.com/blog/2026/wi-wi-is-wireless-time-sync-less-than-5ns/</guid>
       <pubDate>Tue, 19 May 2026 15:02:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - grayj/Jedi-Academy: Star Wars Jedi Knight: Jedi Academy</title>
-      <link>https://github.com/grayj/Jedi-Academy</link>
-      <description>Star Wars Jedi Knight: Jedi Academy. Contribute to grayj/Jedi-Academy development by creating an account on GitHub.</description>
-      <category>git</category>
-      <guid>https://github.com/grayj/Jedi-Academy</guid>
-      <pubDate>Tue, 19 May 2026 14:02:45 GMT</pubDate>
     </item>
   </channel>
 </rss>
