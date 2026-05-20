@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Map of Metal",
+    "Url": "https://mapofmetal.com/",
+    "Timestamp": "2026-05-20T17:02:26",
+    "Domain": "mapofmetal.com",
+    "Description": "An interactive map of Metal history and the influential bands that helped shaped the genres we know today",
+    "Confidence": 0.99546987
+  },
+  {
     "Title": "Qwen Studio",
     "Url": "https://qwen.ai/blog?id=qwen3.7",
     "Timestamp": "2026-05-20T16:02:21",
@@ -302,13 +310,5 @@
     "Domain": "virtualosmuseum.org",
     "Description": "Over 1,700 pre-installed operating systems spanning 1948 to today, in a single Linux VM. Bundled QEMU, VirtualBox, and UTM. One-click launchers for Windows and Linux.",
     "Confidence": 0.9889833
-  },
-  {
-    "Title": "OpenBSD 7.9",
-    "Url": "https://www.openbsd.org/79.html",
-    "Timestamp": "2026-05-19T17:02:25",
-    "Domain": "www.openbsd.org",
-    "Description": "OpenBSD 7.9",
-    "Confidence": 0.9894586
   }
 ]

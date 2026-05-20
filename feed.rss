@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Map of Metal</title>
+      <link>https://mapofmetal.com/</link>
+      <description>An interactive map of Metal history and the influential bands that helped shaped the genres we know today</description>
+      <guid>https://mapofmetal.com/</guid>
+      <pubDate>Wed, 20 May 2026 17:02:26 GMT</pubDate>
+    </item>
+    <item>
       <title>Qwen Studio</title>
       <link>https://qwen.ai/blog?id=qwen3.7</link>
       <description>DISCORD Today we introduce Qwen3.7-Max, our latest proprietary model designed for the agent era. Qwen3.7-Max is built to be a versatile agent foundation — equally capable of writing and debugging code, automating office workflows, and sustaining autonomous execution across hundreds or thousands of steps.
@@ -377,15 +384,6 @@ Thinking this way, I cannot think of configurations as just simple inputs. That 
       <category>youtube</category>
       <guid>https://virtualosmuseum.org/</guid>
       <pubDate>Tue, 19 May 2026 19:02:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenBSD 7.9</title>
-      <link>https://www.openbsd.org/79.html</link>
-      <description>OpenBSD 7.9</description>
-      <category>linux</category>
-      <category>nodejs</category>
-      <guid>https://www.openbsd.org/79.html</guid>
-      <pubDate>Tue, 19 May 2026 17:02:25 GMT</pubDate>
     </item>
   </channel>
 </rss>
