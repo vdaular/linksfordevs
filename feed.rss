@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Gemini Omni</title>
+      <link>https://deepmind.google/models/gemini-omni/</link>
+      <description>Create anything from anything from any input – starting with video</description>
+      <category>youtube</category>
+      <category>ai</category>
+      <guid>https://deepmind.google/models/gemini-omni/</guid>
+      <pubDate>Wed, 20 May 2026 01:02:09 GMT</pubDate>
+    </item>
+    <item>
       <title>Spring cleaning — bayindirh</title>
       <link>https://blog.bayindirh.io/blog/spring-cleaning/</link>
       <description>As life progresses, it naturally creates a lot of challenges. Regardless of their size, they always pack more than they show. Handling them the way they deserve requires more effort than blindly fighting them until they give, and trying to handle these challenges to prevent them from repeating resulted in something unexpected: Burnout.</description>
