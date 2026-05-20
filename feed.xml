@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Incident Report: May 19, 2026 - GCP Account Suspension</title>
+      <link>https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage</link>
+      <description>Railway experienced a platform-wide service disruption due to Google Cloud incorrectly placing our account in a suspended status. This resulted in a temporary loss of service for all GCP hosted infrastructure.</description>
+      <author> (Chandrika Khanduri &amp; Cody De Arkland)</author>
+      <category>cloud</category>
+      <category>sql</category>
+      <guid>https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage</guid>
+      <pubDate>Wed, 20 May 2026 09:02:13 GMT</pubDate>
+    </item>
+    <item>
       <title>GitHub - wiltodelta/remove-ai-watermarks: CLI and library for removing visible (Gemini) and invisible (SynthID, C2PA, EXIF) AI watermarks from images</title>
       <link>https://github.com/wiltodelta/remove-ai-watermarks</link>
       <description>CLI and library for removing visible (Gemini) and invisible (SynthID, C2PA, EXIF) AI watermarks from images - wiltodelta/remove-ai-watermarks</description>
