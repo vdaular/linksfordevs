@@ -7,6 +7,233 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Spring cleaning — bayindirh</title>
+      <link>https://blog.bayindirh.io/blog/spring-cleaning/</link>
+      <description>As life progresses, it naturally creates a lot of challenges. Regardless of their size, they always pack more than they show. Handling them the way they deserve requires more effort than blindly fighting them until they give, and trying to handle these challenges to prevent them from repeating resulted in something unexpected: Burnout.</description>
+      <category>sql</category>
+      <guid>https://blog.bayindirh.io/blog/spring-cleaning/</guid>
+      <pubDate>Wed, 20 May 2026 00:04:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>What I Told Charles About RFCs — UAXD</title>
+      <link>https://uaxd.fr/dispatches/what-i-told-charles-about-rfcs.html</link>
+      <description>Charles asked what an RFC is. Then he asked whether an agent can hallucinate on RFCs — and the conversation changed shape.</description>
+      <author> (Valjean c.g.)</author>
+      <category>javascript</category>
+      <category>ai</category>
+      <guid>https://uaxd.fr/dispatches/what-i-told-charles-about-rfcs.html</guid>
+      <pubDate>Wed, 20 May 2026 00:04:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>What can a local model do for you in early May 2026?</title>
+      <link>https://manichord.com/blog/posts/what-can-local-model-do-in-may-2026</link>
+      <description>High-end technical consultancy specializing in the Flutter, embedded systems, and open source software. I build software that solves real problems and that people enjoy using.</description>
+      <category>ai</category>
+      <guid>https://manichord.com/blog/posts/what-can-local-model-do-in-may-2026</guid>
+      <pubDate>Wed, 20 May 2026 00:04:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Your Slop, My Sludge</title>
+      <link>https://justingarrison.com/blog/2026-05-19-your-slop-my-sludge/</link>
+      <description>Throwing shit at the wall. I'm the wall.</description>
+      <category>git</category>
+      <category>ai</category>
+      <guid>https://justingarrison.com/blog/2026-05-19-your-slop-my-sludge/</guid>
+      <pubDate>Wed, 20 May 2026 00:04:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Maintenance is more than bugs – tylerrussell.dev</title>
+      <link>https://tylerrussell.dev/2026/05/19/maintenance-is-more-than-bugs/</link>
+      <description>Reading Time:   15 minutes</description>
+      <category>cloud</category>
+      <category>nodejs</category>
+      <category>vscode</category>
+      <category>typescript</category>
+      <guid>https://tylerrussell.dev/2026/05/19/maintenance-is-more-than-bugs/</guid>
+      <pubDate>Wed, 20 May 2026 00:04:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>What we learned building sandbox for document agents</title>
+      <link>https://blog.yfzhou.fyi/posts/doc-sandbox/</link>
+      <description>Cross-posted from the Raycaster blog; I’ve spent the last several months building this, and here is my take.
+2025 brought us the new idiom for building AI (beginning with Manus and Claude Code): give it tools to operate a computer. This is a break from the past default approach represented by ChatGPT, which is LLM + a menu of bespoke API connections to plug in to various systems of record.
+The limits of plaintext Our first attempt at a document agent was to ingest documents, parse them into plaintext pages, expose search/read/write tools, and let the LLM operate over virtual directories of artifacts and pages backed by a SQL database.</description>
+      <category>git</category>
+      <category>cloud</category>
+      <category>ai</category>
+      <category>sql</category>
+      <category>python</category>
+      <guid>https://blog.yfzhou.fyi/posts/doc-sandbox/</guid>
+      <pubDate>Wed, 20 May 2026 00:04:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Averages lie</title>
+      <link>https://hadid.dev/posts/averages-lie/</link>
+      <description>The small sample trap in A/B testing</description>
+      <guid>https://hadid.dev/posts/averages-lie/</guid>
+      <pubDate>Wed, 20 May 2026 00:04:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>I Tried Claude Code - Gibberish and Stuff</title>
+      <link>https://zhenyi.gibber.blog/i-tried-claude-code</link>
+      <description>A friend asked me to help him port an old PHP app to Rails. I told him I have no interest in looking at old PHP code. But we kept talking, and he brought up the possibility of using Claude Code. I...</description>
+      <category>apple</category>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://zhenyi.gibber.blog/i-tried-claude-code</guid>
+      <pubDate>Wed, 20 May 2026 00:03:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Genesis of TerraMorphz</title>
+      <link>https://iryanbell.com/posts/2026-05-18-terramorphz-genesis</link>
+      <description>They came to remind us.</description>
+      <author> (Ryan Bell)</author>
+      <category>rust</category>
+      <category>gaming</category>
+      <category>ai</category>
+      <guid>https://iryanbell.com/posts/2026-05-18-terramorphz-genesis</guid>
+      <pubDate>Wed, 20 May 2026 00:03:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>End of the semester</title>
+      <link>https://mtendekuyokwa.github.io/blog/end-of-semester/</link>
+      <description>A story on how I plan to spend my Holiday</description>
+      <category>typescript</category>
+      <category>javascript</category>
+      <category>ai</category>
+      <category>python</category>
+      <guid>https://mtendekuyokwa.github.io/blog/end-of-semester/</guid>
+      <pubDate>Wed, 20 May 2026 00:03:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>8 years of Clojure</title>
+      <link>https://joshkingsley.me/8-years-of-clojure/</link>
+      <description>It was ClojureScript that first got me into Clojure, when a friend showed me his project using Figwheel and Reagent over coffee in Borough Market. This was b...</description>
+      <category>typescript</category>
+      <category>ai</category>
+      <category>javascript</category>
+      <category>nodejs</category>
+      <category>rust</category>
+      <guid>https://joshkingsley.me/8-years-of-clojure/</guid>
+      <pubDate>Wed, 20 May 2026 00:03:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rethink Domain Primitives with Valhalla</title>
+      <link>https://dfa1.github.io/articles/rethink-domain-primitives-with-valhalla.html</link>
+      <description>personal website</description>
+      <guid>https://dfa1.github.io/articles/rethink-domain-primitives-with-valhalla.html</guid>
+      <pubDate>Wed, 20 May 2026 00:03:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>It is easy to blame the code of people who left, until you’re the one who leaves</title>
+      <link>https://martin.sh/it-is-easy-to-blame-the-code-of-people-who-left-until-youre-the-one-who-leaves/</link>
+      <description>A post about why I keep reminding software engineers that one day, they'll be on the other side of that git blame.</description>
+      <category>git</category>
+      <category>ai</category>
+      <guid>https://martin.sh/it-is-easy-to-blame-the-code-of-people-who-left-until-youre-the-one-who-leaves/</guid>
+      <pubDate>Wed, 20 May 2026 00:03:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gaussian Splatting for Dummies</title>
+      <link>https://darshanmakwana412.github.io/2026/04/gaussian-splatting/</link>
+      <description>Gaussian Splatting is a fascinating scene reconstruction technique introduced by INRIA and last year I had a lot of fun tinkering with it while on my semex. I recently discovered some of my notes related to it and decided to digitize it this weekend, along the way I reimplemented the forward rasterization pass in rust and decided it would be fun to write a tutorial explaining gaussian splatting to everyone, so here it is what is a gaussian splat?</description>
+      <category>rust</category>
+      <guid>https://darshanmakwana412.github.io/2026/04/gaussian-splatting/</guid>
+      <pubDate>Wed, 20 May 2026 00:03:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Shhh, Don't Put Secrets in the Repo</title>
+      <link>https://andreasflakstad.no/posts/kimen/</link>
+      <description>Let’s talk about app config and secrets.</description>
+      <category>javascript</category>
+      <category>sql</category>
+      <category>ai</category>
+      <guid>https://andreasflakstad.no/posts/kimen/</guid>
+      <pubDate>Wed, 20 May 2026 00:03:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>God of the gaps and the future of programming</title>
+      <link>https://gisbi.me/blog/article-1779175137638</link>
+      <description>Being a programmer nowadays is a cognitively challenging job. Or at least, it has been for me. For the better part of one year, I've been asking myself if I'm d…</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <category>javascript</category>
+      <guid>https://gisbi.me/blog/article-1779175137638</guid>
+      <pubDate>Wed, 20 May 2026 00:03:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>I am not a Software Engineer — huronbikes</title>
+      <link>https://huronbikes.mataroa.blog/blog/i-am-not-a-software-engineer/</link>
+      <description>I am not a software engineer.  I know because I was told this 23 years ago back when I was starting.  I was "a good hacker" according to my coworker at the time but not really an engineer.</description>
+      <category>ai</category>
+      <guid>https://huronbikes.mataroa.blog/blog/i-am-not-a-software-engineer/</guid>
+      <pubDate>Wed, 20 May 2026 00:03:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>All the bugs they found</title>
+      <link>https://andreapivetta.com/posts/all-the-bugs-they-found.html</link>
+      <description>Last year I wrote a small WASM runtime in Go. How many security vulnerabilities do you think AI agents found in it?</description>
+      <category>web</category>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://andreapivetta.com/posts/all-the-bugs-they-found.html</guid>
+      <pubDate>Wed, 20 May 2026 00:03:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>AT Protocol for Agents | David Gasquez</title>
+      <link>https://davidgasquez.com/atproto-agents</link>
+      <description>David Gasquez personal website</description>
+      <category>gaming</category>
+      <category>javascript</category>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://davidgasquez.com/atproto-agents</guid>
+      <pubDate>Wed, 20 May 2026 00:03:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>Farewell to Rails-way: When Rails-way does not work anymore?</title>
+      <link>https://paweldabrowski.com/farewell-to-rails-way/when-rails-way-does-not-work</link>
+      <description>When Rails-way does not work anymore and you have to switch to a different path?</description>
+      <category>ai</category>
+      <category>sql</category>
+      <guid>https://paweldabrowski.com/farewell-to-rails-way/when-rails-way-does-not-work</guid>
+      <pubDate>Wed, 20 May 2026 00:03:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why More Context Can Make an LLM Worse</title>
+      <link>https://arizenai.com/context-window-fallacy/</link>
+      <description>More context does not automatically improve reasoning. Extra tokens can dilute signal, blur control boundaries, and make agent behavior less reliable.</description>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://arizenai.com/context-window-fallacy/</guid>
+      <pubDate>Wed, 20 May 2026 00:02:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>A new era for AI Search</title>
+      <link>https://blog.google/products-and-platforms/products/search/search-io-2026/</link>
+      <description>We shared the next step in our journey to bring together the best of a search engine with the best of AI.</description>
+      <category>ai</category>
+      <guid>https://blog.google/products-and-platforms/products/search/search-io-2026/</guid>
+      <pubDate>Wed, 20 May 2026 00:02:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Before Making It Configurable</title>
+      <link>https://rugu.dev/en/blog/before-making-it-configurable/</link>
+      <description>Configurations exist to allow a program to behave differently without modifying its code. You have a program, you configure it, run it, and it behaves accordingly. In a way, they are like function inputs, but at the application level. They tend to reflect and affect how a system works under the hood. This also makes them closely related to the complexity of our applications.
+Thinking this way, I cannot think of configurations as just simple inputs. That is why I wanted to think about this topic a bit more and write down some thoughts.</description>
+      <guid>https://rugu.dev/en/blog/before-making-it-configurable/</guid>
+      <pubDate>Wed, 20 May 2026 00:02:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tagging my blog posts with BERTopic and LLMs</title>
+      <link>https://vickiboykis.com/2026/05/18/tagging-my-blog-posts-with-bertopic-and-llms/</link>
+      <description>LLMs mean you still need a human in the loop, but in a different part</description>
+      <category>python</category>
+      <category>ai</category>
+      <guid>https://vickiboykis.com/2026/05/18/tagging-my-blog-posts-with-bertopic-and-llms/</guid>
+      <pubDate>Wed, 20 May 2026 00:02:39 GMT</pubDate>
+    </item>
+    <item>
       <title>A Texas Drainage District Walked Its Ditch on a Routine Inspection. They Found a Pipe They Didn't Recognize Discharging Black Liquid From Tesla's $1 Billion Lithium Refinery</title>
       <link>https://www.autonocion.com/us/tesla-lithium-refinery-texas/</link>
       <description>The pipe belonged to Tesla. The dark liquid was wastewater from the company's nearly $1 billion lithium refinery, which began operations in December 2024 and</description>
@@ -119,15 +346,6 @@ The system is still in development, but existing prototypes have 20ps of phase s
       <description>A browser-based game on online profiling.</description>
       <guid>https://clickclickclick.click/</guid>
       <pubDate>Tue, 19 May 2026 06:02:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>My Haiku arm64 Progress - Development / OS - Haiku Community</title>
-      <link>https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2</link>
-      <description>Got Haiku booting in UTM with some small fixes. Mouse movement is slow and choppy though, so it’s not especially fun to use</description>
-      <category>apple</category>
-      <category>git</category>
-      <guid>https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2</guid>
-      <pubDate>Tue, 19 May 2026 00:02:31 GMT</pubDate>
     </item>
   </channel>
 </rss>

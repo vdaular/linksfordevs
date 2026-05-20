@@ -1,5 +1,197 @@
 [
   {
+    "Title": "Spring cleaning — bayindirh",
+    "Url": "https://blog.bayindirh.io/blog/spring-cleaning/",
+    "Timestamp": "2026-05-20T00:04:27",
+    "Domain": "blog.bayindirh.io",
+    "Description": "As life progresses, it naturally creates a lot of challenges. Regardless of their size, they always pack more than they show. Handling them the way they deserve requires more effort than blindly fighting them until they give, and trying to handle these challenges to prevent them from repeating resulted in something unexpected: Burnout.",
+    "Confidence": 0.94417
+  },
+  {
+    "Title": "What I Told Charles About RFCs — UAXD",
+    "Url": "https://uaxd.fr/dispatches/what-i-told-charles-about-rfcs.html",
+    "Timestamp": "2026-05-20T00:04:22",
+    "Domain": "uaxd.fr",
+    "Description": "Charles asked what an RFC is. Then he asked whether an agent can hallucinate on RFCs — and the conversation changed shape.",
+    "Confidence": 0.9599188
+  },
+  {
+    "Title": "What can a local model do for you in early May 2026?",
+    "Url": "https://manichord.com/blog/posts/what-can-local-model-do-in-may-2026",
+    "Timestamp": "2026-05-20T00:04:17",
+    "Domain": "manichord.com",
+    "Description": "High-end technical consultancy specializing in the Flutter, embedded systems, and open source software. I build software that solves real problems and that people enjoy using.",
+    "Confidence": 0.9800515
+  },
+  {
+    "Title": "Your Slop, My Sludge",
+    "Url": "https://justingarrison.com/blog/2026-05-19-your-slop-my-sludge/",
+    "Timestamp": "2026-05-20T00:04:13",
+    "Domain": "justingarrison.com",
+    "Description": "Throwing shit at the wall. I'm the wall.",
+    "Confidence": 0.8894332
+  },
+  {
+    "Title": "Maintenance is more than bugs – tylerrussell.dev",
+    "Url": "https://tylerrussell.dev/2026/05/19/maintenance-is-more-than-bugs/",
+    "Timestamp": "2026-05-20T00:04:10",
+    "Domain": "tylerrussell.dev",
+    "Description": "Reading Time:   15 minutes",
+    "Confidence": 0.99226993
+  },
+  {
+    "Title": "What we learned building sandbox for document agents",
+    "Url": "https://blog.yfzhou.fyi/posts/doc-sandbox/",
+    "Timestamp": "2026-05-20T00:04:06",
+    "Domain": "blog.yfzhou.fyi",
+    "Description": "Cross-posted from the Raycaster blog; I’ve spent the last several months building this, and here is my take.\n2025 brought us the new idiom for building AI (beginning with Manus and Claude Code): give it tools to operate a computer. This is a break from the past default approach represented by ChatGPT, which is LLM + a menu of bespoke API connections to plug in to various systems of record.\nThe limits of plaintext Our first attempt at a document agent was to ingest documents, parse them into plaintext pages, expose search/read/write tools, and let the LLM operate over virtual directories of artifacts and pages backed by a SQL database.",
+    "Confidence": 0.9475368
+  },
+  {
+    "Title": "Averages lie",
+    "Url": "https://hadid.dev/posts/averages-lie/",
+    "Timestamp": "2026-05-20T00:04:00",
+    "Domain": "hadid.dev",
+    "Description": "The small sample trap in A/B testing",
+    "Confidence": 0.9941179
+  },
+  {
+    "Title": "I Tried Claude Code - Gibberish and Stuff",
+    "Url": "https://zhenyi.gibber.blog/i-tried-claude-code",
+    "Timestamp": "2026-05-20T00:03:53",
+    "Domain": "zhenyi.gibber.blog",
+    "Description": "A friend asked me to help him port an old PHP app to Rails. I told him I have no interest in looking at old PHP code. But we kept talking, and he brought up the possibility of using Claude Code. I...",
+    "Confidence": 0.97030103
+  },
+  {
+    "Title": "The Genesis of TerraMorphz",
+    "Url": "https://iryanbell.com/posts/2026-05-18-terramorphz-genesis",
+    "Timestamp": "2026-05-20T00:03:46",
+    "Domain": "iryanbell.com",
+    "Description": "They came to remind us.",
+    "Confidence": 0.88565004
+  },
+  {
+    "Title": "End of the semester",
+    "Url": "https://mtendekuyokwa.github.io/blog/end-of-semester/",
+    "Timestamp": "2026-05-20T00:03:43",
+    "Domain": "mtendekuyokwa.github.io",
+    "Description": "A story on how I plan to spend my Holiday",
+    "Confidence": 0.94584787
+  },
+  {
+    "Title": "8 years of Clojure",
+    "Url": "https://joshkingsley.me/8-years-of-clojure/",
+    "Timestamp": "2026-05-20T00:03:37",
+    "Domain": "joshkingsley.me",
+    "Description": "It was ClojureScript that first got me into Clojure, when a friend showed me his project using Figwheel and Reagent over coffee in Borough Market. This was b...",
+    "Confidence": 0.98560274
+  },
+  {
+    "Title": "Rethink Domain Primitives with Valhalla",
+    "Url": "https://dfa1.github.io/articles/rethink-domain-primitives-with-valhalla.html",
+    "Timestamp": "2026-05-20T00:03:33",
+    "Domain": "dfa1.github.io",
+    "Description": "personal website",
+    "Confidence": 0.98417735
+  },
+  {
+    "Title": "It is easy to blame the code of people who left, until you’re the one who leaves",
+    "Url": "https://martin.sh/it-is-easy-to-blame-the-code-of-people-who-left-until-youre-the-one-who-leaves/",
+    "Timestamp": "2026-05-20T00:03:30",
+    "Domain": "martin.sh",
+    "Description": "A post about why I keep reminding software engineers that one day, they'll be on the other side of that git blame.",
+    "Confidence": 0.95603293
+  },
+  {
+    "Title": "Gaussian Splatting for Dummies",
+    "Url": "https://darshanmakwana412.github.io/2026/04/gaussian-splatting/",
+    "Timestamp": "2026-05-20T00:03:25",
+    "Domain": "darshanmakwana412.github.io",
+    "Description": "Gaussian Splatting is a fascinating scene reconstruction technique introduced by INRIA and last year I had a lot of fun tinkering with it while on my semex. I recently discovered some of my notes related to it and decided to digitize it this weekend, along the way I reimplemented the forward rasterization pass in rust and decided it would be fun to write a tutorial explaining gaussian splatting to everyone, so here it is what is a gaussian splat?",
+    "Confidence": 0.9981159
+  },
+  {
+    "Title": "Shhh, Don't Put Secrets in the Repo",
+    "Url": "https://andreasflakstad.no/posts/kimen/",
+    "Timestamp": "2026-05-20T00:03:21",
+    "Domain": "andreasflakstad.no",
+    "Description": "Let’s talk about app config and secrets.",
+    "Confidence": 0.99406177
+  },
+  {
+    "Title": "God of the gaps and the future of programming",
+    "Url": "https://gisbi.me/blog/article-1779175137638",
+    "Timestamp": "2026-05-20T00:03:18",
+    "Domain": "gisbi.me",
+    "Description": "Being a programmer nowadays is a cognitively challenging job. Or at least, it has been for me. For the better part of one year, I've been asking myself if I'm d…",
+    "Confidence": 0.97756016
+  },
+  {
+    "Title": "I am not a Software Engineer — huronbikes",
+    "Url": "https://huronbikes.mataroa.blog/blog/i-am-not-a-software-engineer/",
+    "Timestamp": "2026-05-20T00:03:12",
+    "Domain": "huronbikes.mataroa.blog",
+    "Description": "I am not a software engineer.  I know because I was told this 23 years ago back when I was starting.  I was \"a good hacker\" according to my coworker at the time but not really an engineer.",
+    "Confidence": 0.9921879
+  },
+  {
+    "Title": "All the bugs they found",
+    "Url": "https://andreapivetta.com/posts/all-the-bugs-they-found.html",
+    "Timestamp": "2026-05-20T00:03:08",
+    "Domain": "andreapivetta.com",
+    "Description": "Last year I wrote a small WASM runtime in Go. How many security vulnerabilities do you think AI agents found in it?",
+    "Confidence": 0.99698323
+  },
+  {
+    "Title": "AT Protocol for Agents | David Gasquez",
+    "Url": "https://davidgasquez.com/atproto-agents",
+    "Timestamp": "2026-05-20T00:03:05",
+    "Domain": "davidgasquez.com",
+    "Description": "David Gasquez personal website",
+    "Confidence": 0.98163724
+  },
+  {
+    "Title": "Farewell to Rails-way: When Rails-way does not work anymore?",
+    "Url": "https://paweldabrowski.com/farewell-to-rails-way/when-rails-way-does-not-work",
+    "Timestamp": "2026-05-20T00:03:02",
+    "Domain": "paweldabrowski.com",
+    "Description": "When Rails-way does not work anymore and you have to switch to a different path?",
+    "Confidence": 0.9924445
+  },
+  {
+    "Title": "Why More Context Can Make an LLM Worse",
+    "Url": "https://arizenai.com/context-window-fallacy/",
+    "Timestamp": "2026-05-20T00:02:57",
+    "Domain": "arizenai.com",
+    "Description": "More context does not automatically improve reasoning. Extra tokens can dilute signal, blur control boundaries, and make agent behavior less reliable.",
+    "Confidence": 0.9853274
+  },
+  {
+    "Title": "A new era for AI Search",
+    "Url": "https://blog.google/products-and-platforms/products/search/search-io-2026/",
+    "Timestamp": "2026-05-20T00:02:53",
+    "Domain": "blog.google",
+    "Description": "We shared the next step in our journey to bring together the best of a search engine with the best of AI.",
+    "Confidence": 0.94759625
+  },
+  {
+    "Title": "Before Making It Configurable",
+    "Url": "https://rugu.dev/en/blog/before-making-it-configurable/",
+    "Timestamp": "2026-05-20T00:02:48",
+    "Domain": "rugu.dev",
+    "Description": "Configurations exist to allow a program to behave differently without modifying its code. You have a program, you configure it, run it, and it behaves accordingly. In a way, they are like function inputs, but at the application level. They tend to reflect and affect how a system works under the hood. This also makes them closely related to the complexity of our applications.\nThinking this way, I cannot think of configurations as just simple inputs. That is why I wanted to think about this topic a bit more and write down some thoughts.",
+    "Confidence": 0.9952796
+  },
+  {
+    "Title": "Tagging my blog posts with BERTopic and LLMs",
+    "Url": "https://vickiboykis.com/2026/05/18/tagging-my-blog-posts-with-bertopic-and-llms/",
+    "Timestamp": "2026-05-20T00:02:39",
+    "Domain": "vickiboykis.com",
+    "Description": "LLMs mean you still need a human in the loop, but in a different part",
+    "Confidence": 0.96088564
+  },
+  {
     "Title": "A Texas Drainage District Walked Its Ditch on a Routine Inspection. They Found a Pipe They Didn't Recognize Discharging Black Liquid From Tesla's $1 Billion Lithium Refinery",
     "Url": "https://www.autonocion.com/us/tesla-lithium-refinery-texas/",
     "Timestamp": "2026-05-19T22:02:35",
@@ -94,13 +286,5 @@
     "Domain": "clickclickclick.click",
     "Description": "A browser-based game on online profiling.",
     "Confidence": 0.9659567
-  },
-  {
-    "Title": "My Haiku arm64 Progress - Development / OS - Haiku Community",
-    "Url": "https://discuss.haiku-os.org/t/my-haiku-arm64-progress/19044?page=2",
-    "Timestamp": "2026-05-19T00:02:31",
-    "Domain": "discuss.haiku-os.org",
-    "Description": "Got Haiku booting in UTM with some small fixes. Mouse movement is slow and choppy though, so it’s not especially fun to use",
-    "Confidence": 0.98658496
   }
 ]
