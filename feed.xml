@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>An OpenAI model has disproved a central conjecture in discrete geometry</title>
+      <link>https://openai.com/index/model-disproves-discrete-geometry-conjecture/</link>
+      <description>An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.</description>
+      <category>ai</category>
+      <guid>https://openai.com/index/model-disproves-discrete-geometry-conjecture/</guid>
+      <pubDate>Wed, 20 May 2026 21:02:36 GMT</pubDate>
+    </item>
+    <item>
       <title>Map of Metal</title>
       <link>https://mapofmetal.com/</link>
       <description>An interactive map of Metal history and the influential bands that helped shaped the genres we know today</description>
@@ -361,17 +369,6 @@ Thinking this way, I cannot think of configurations as just simple inputs. That 
       <description>The pipe belonged to Tesla. The dark liquid was wastewater from the company's nearly $1 billion lithium refinery, which began operations in December 2024 and</description>
       <guid>https://www.autonocion.com/us/tesla-lithium-refinery-texas/</guid>
       <pubDate>Tue, 19 May 2026 22:02:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gemini 3.5: frontier intelligence with action</title>
-      <link>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/</link>
-      <description>At Google I/O we released Gemini 3.5, our latest series of models combining frontier intelligence with action.</description>
-      <category>visualstudio</category>
-      <category>cloud</category>
-      <category>android</category>
-      <category>ai</category>
-      <guid>https://blog.google/innovation-and-ai/models-and-research/gemini-models/gemini-3-5/</guid>
-      <pubDate>Tue, 19 May 2026 21:02:32 GMT</pubDate>
     </item>
   </channel>
 </rss>
