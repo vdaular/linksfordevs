@@ -7,6 +7,29 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>No, You Really Don't Need MediatR in .NET</title>
+      <link>https://youtube.com/watch?v=2xiHO1tv4Cc</link>
+      <description>Online Workshop: Vibe Coding for Production: https://dometrain.com/workshop/vibe-coding-for-production/?ref=nick-chapsas&amp;promo=mail-list&amp;coupon_code=3YEARS
+
+Get every Dometrain 40% off with code 3YEARS: https://dometrain.com/courses/?ref=nick-chapsas&amp;promo=youtube&amp;coupon_code=3YEARS
+
+Hello, everybody. I'm Nick, and in this video, I want to talk about MediatR and how you can remove it from your project without losing the functionality of the pipeline behaviors that it provides.
+
+Don't forget to comment, like and subscribe :)
+
+Social Media:
+Follow me on GitHub: https://github.com/Elfocrash
+Follow me on Twitter: https://twitter.com/nickchapsas
+Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas
+
+#dotnet #csharp</description>
+      <author> (Nick Chapsas)</author>
+      <category>dotnet</category>
+      <category>youtube</category>
+      <guid>https://youtube.com/watch?v=2xiHO1tv4Cc</guid>
+      <pubDate>Wed, 20 May 2026 13:01:32 GMT</pubDate>
+    </item>
+    <item>
       <title>Everything in C is undefined behavior</title>
       <link>https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html</link>
       <description>If he had been a programmer, Cardinal Richelieu would have said “Give me six lines written by the hand of the most expert C programmer in the world, and I wi...</description>

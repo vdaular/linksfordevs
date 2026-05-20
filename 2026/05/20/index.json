@@ -1,5 +1,12 @@
 [
   {
+    "Title": "No, You Really Don't Need MediatR in .NET",
+    "Url": "https://youtube.com/watch?v=2xiHO1tv4Cc",
+    "Timestamp": "2026-05-20T13:01:32",
+    "Domain": "youtube.com",
+    "Description": "Online Workshop: Vibe Coding for Production: https://dometrain.com/workshop/vibe-coding-for-production/?ref=nick-chapsas&promo=mail-list&coupon_code=3YEARS\n\nGet every Dometrain 40% off with code 3YEARS: https://dometrain.com/courses/?ref=nick-chapsas&promo=youtube&coupon_code=3YEARS\n\nHello, everybody. I'm Nick, and in this video, I want to talk about MediatR and how you can remove it from your project without losing the functionality of the pipeline behaviors that it provides.\n\nDon't forget to comment, like and subscribe :)\n\nSocial Media:\nFollow me on GitHub: https://github.com/Elfocrash\nFollow me on Twitter: https://twitter.com/nickchapsas\nConnect on LinkedIn: https://www.linkedin.com/in/nick-chapsas\n\n#dotnet #csharp"
+  },
+  {
     "Title": "Everything in C is undefined behavior",
     "Url": "https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html",
     "Timestamp": "2026-05-20T12:02:13",
