@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Advancing content provenance for a safer, more transparent AI ecosystem",
+    "Url": "https://openai.com/index/advancing-content-provenance/",
+    "Timestamp": "2026-05-20T07:02:10",
+    "Domain": "openai.com",
+    "Description": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
+    "Confidence": 0.9885672
+  },
+  {
     "Title": "Railway Status",
     "Url": "https://status.railway.com/?date=20260519",
     "Timestamp": "2026-05-20T04:02:18",
@@ -278,21 +286,5 @@
     "Domain": "safedep.io",
     "Description": "A compromised npm maintainer account published 637 malicious versions across 317 packages including size-sensor, echarts-for-react, timeago.js, and hundreds of @antv scoped packages, affecting 15M+ monthly downloads.",
     "Confidence": 0.9957212
-  },
-  {
-    "Title": "Nobody Pushed Back: Why Engineers Stay Silent Until It's Too Late",
-    "Url": "https://howtocenterdiv.com/beyond-the-div/nobody-pushed-back",
-    "Timestamp": "2026-05-19T07:02:14",
-    "Domain": "howtocenterdiv.com",
-    "Description": "Nokia, TSB, Boeing, Microsoft — four companies, four disasters, one pattern. The engineers knew. They just didn't speak up. Here's why, and what it costs when nobody pushes back.",
-    "Confidence": 0.77249897
-  },
-  {
-    "Title": "The last six months in LLMs in five minutes",
-    "Url": "https://simonwillison.net/2026/May/19/5-minute-llms/",
-    "Timestamp": "2026-05-19T07:02:09",
-    "Domain": "simonwillison.net",
-    "Description": "I put together these annotated slides from my five minute lightning talk at PyCon US 2026, using the latest iteration of my annotated presentation tool. # I presented this lightning …",
-    "Confidence": 0.8659777
   }
 ]
