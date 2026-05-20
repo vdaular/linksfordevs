@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Everything in C is undefined behavior",
+    "Url": "https://blog.habets.se/2026/05/Everything-in-C-is-undefined-behavior.html",
+    "Timestamp": "2026-05-20T12:02:13",
+    "Domain": "blog.habets.se",
+    "Description": "If he had been a programmer, Cardinal Richelieu would have said “Give me six lines written by the hand of the most expert C programmer in the world, and I wi...",
+    "Confidence": 0.99752563
+  },
+  {
     "Title": "Prompts are technical debt too",
     "Url": "https://www.seangoedecke.com/prompts-are-technical-debt-too/",
     "Timestamp": "2026-05-20T10:02:06",
