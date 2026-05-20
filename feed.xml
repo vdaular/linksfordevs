@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Prompts are technical debt too</title>
+      <link>https://www.seangoedecke.com/prompts-are-technical-debt-too/</link>
+      <description>It’s common and correct to say that “all code is technical debt”. Adding code is a necessary evil for developing new features: you almost always have to do it, but each line of code adds to the complexity and maintenance burden of the system. All future changes to the system have to work with the existing code, or at least avoid breaking it. Once systems accumulate enough code, they become impossible for a single person to understand: instead of reading the code and understanding what it does, you must rely on guesses, theories and heuristics1. Sensible engineers write as little code as possible.</description>
+      <category>ai</category>
+      <guid>https://www.seangoedecke.com/prompts-are-technical-debt-too/</guid>
+      <pubDate>Wed, 20 May 2026 10:02:06 GMT</pubDate>
+    </item>
+    <item>
       <title>Incident Report: May 19, 2026 - GCP Account Suspension</title>
       <link>https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage</link>
       <description>Railway experienced a platform-wide service disruption due to Google Cloud incorrectly placing our account in a suspended status. This resulted in a temporary loss of service for all GCP hosted infrastructure.</description>
