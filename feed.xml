@@ -7,6 +7,21 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Google's Antigravity Bait and Switch</title>
+      <link>https://www.0xsid.com/blog/antigravity-bait-n-switch</link>
+      <description>The day was to begin like any other, with Antigravity open, expecting to get some work done before my attention fragments. But Google had other plans. They had rolled out a new version of Antigravity the day before, at I/O 2026, presenting it as a shiny, standalone Codex-style experience.</description>
+      <category>ai</category>
+      <guid>https://www.0xsid.com/blog/antigravity-bait-n-switch</guid>
+      <pubDate>Thu, 21 May 2026 17:02:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>no slop grenade</title>
+      <link>https://noslopgrenade.com/</link>
+      <description>Stop throwing AI-generated walls of text into conversations. If they wanted an AI essay, they would have asked ChatGPT themselves.</description>
+      <guid>https://noslopgrenade.com/</guid>
+      <pubDate>Thu, 21 May 2026 17:02:26 GMT</pubDate>
+    </item>
+    <item>
       <title>AI is just unauthorised plagiarism at a bigger scale</title>
       <link>https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/</link>
       <description>AI takes in all the input, whether the original authors have consented or not, and do some "learning", and then the AI companies sell these learned result to...</description>
@@ -302,13 +317,6 @@ So here is the proposal.</description>
       <category>ai</category>
       <guid>https://openai.com/index/model-disproves-discrete-geometry-conjecture/</guid>
       <pubDate>Wed, 20 May 2026 21:02:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Map of Metal</title>
-      <link>https://mapofmetal.com/</link>
-      <description>An interactive map of Metal history and the influential bands that helped shaped the genres we know today</description>
-      <guid>https://mapofmetal.com/</guid>
-      <pubDate>Wed, 20 May 2026 17:02:26 GMT</pubDate>
     </item>
   </channel>
 </rss>

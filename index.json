@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Google's Antigravity Bait and Switch",
+    "Url": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
+    "Timestamp": "2026-05-21T17:02:29",
+    "Domain": "www.0xsid.com",
+    "Description": "The day was to begin like any other, with Antigravity open, expecting to get some work done before my attention fragments. But Google had other plans. They had rolled out a new version of Antigravity the day before, at I/O 2026, presenting it as a shiny, standalone Codex-style experience.",
+    "Confidence": 0.9776592
+  },
+  {
+    "Title": "no slop grenade",
+    "Url": "https://noslopgrenade.com/",
+    "Timestamp": "2026-05-21T17:02:26",
+    "Domain": "noslopgrenade.com",
+    "Description": "Stop throwing AI-generated walls of text into conversations. If they wanted an AI essay, they would have asked ChatGPT themselves.",
+    "Confidence": 0.94994366
+  },
+  {
     "Title": "AI is just unauthorised plagiarism at a bigger scale",
     "Url": "https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/",
     "Timestamp": "2026-05-21T15:02:26",
@@ -246,13 +262,5 @@
     "Domain": "openai.com",
     "Description": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
     "Confidence": 0.86543345
-  },
-  {
-    "Title": "Map of Metal",
-    "Url": "https://mapofmetal.com/",
-    "Timestamp": "2026-05-20T17:02:26",
-    "Domain": "mapofmetal.com",
-    "Description": "An interactive map of Metal history and the influential bands that helped shaped the genres we know today",
-    "Confidence": 0.99546987
   }
 ]
