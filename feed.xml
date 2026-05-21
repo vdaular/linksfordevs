@@ -310,16 +310,5 @@ So here is the proposal.</description>
       <guid>https://mapofmetal.com/</guid>
       <pubDate>Wed, 20 May 2026 17:02:26 GMT</pubDate>
     </item>
-    <item>
-      <title>Qwen Studio</title>
-      <link>https://qwen.ai/blog?id=qwen3.7</link>
-      <description>DISCORD Today we introduce Qwen3.7-Max, our latest proprietary model designed for the agent era. Qwen3.7-Max is built to be a versatile agent foundation — equally capable of writing and debugging code, automating office workflows, and sustaining autonomous execution across hundreds or thousands of steps.
-What sets Qwen3.7-Max apart is the breadth and depth of its agent capabilities. It excels as a coding agent, from frontend prototyping to complex multi-file engineering.</description>
-      <category>vscode</category>
-      <category>nodejs</category>
-      <category>ai</category>
-      <guid>https://qwen.ai/blog?id=qwen3.7</guid>
-      <pubDate>Wed, 20 May 2026 16:02:21 GMT</pubDate>
-    </item>
   </channel>
 </rss>

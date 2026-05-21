@@ -254,13 +254,5 @@
     "Domain": "mapofmetal.com",
     "Description": "An interactive map of Metal history and the influential bands that helped shaped the genres we know today",
     "Confidence": 0.99546987
-  },
-  {
-    "Title": "Qwen Studio",
-    "Url": "https://qwen.ai/blog?id=qwen3.7",
-    "Timestamp": "2026-05-20T16:02:21",
-    "Domain": "qwen.ai",
-    "Description": "DISCORD Today we introduce Qwen3.7-Max, our latest proprietary model designed for the agent era. Qwen3.7-Max is built to be a versatile agent foundation — equally capable of writing and debugging code, automating office workflows, and sustaining autonomous execution across hundreds or thousands of steps.\nWhat sets Qwen3.7-Max apart is the breadth and depth of its agent capabilities. It excels as a coding agent, from frontend prototyping to complex multi-file engineering.",
-    "Confidence": 0.97412866
   }
 ]
