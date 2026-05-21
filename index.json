@@ -1,5 +1,13 @@
 [
   {
+    "Title": "The famous o3 \"GeoGuessr\" prompt did not work",
+    "Url": "https://www.seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/",
+    "Timestamp": "2026-05-21T08:02:08",
+    "Domain": "www.seangoedecke.com",
+    "Description": "In April last year, Kelsey Piper discovered that OpenAI’s o3 model was surprisingly good at figuring out where a photo was taken from. Like human “geoguessr” pros, o3 could sometimes take a nondescript photo of a beach and tell you exactly where it is. Here’s the example Kelsey gave:",
+    "Confidence": 0.9650669
+  },
+  {
     "Title": "Magic the Gathering format: Fun 40",
     "Url": "https://fabiensanglard.net/mtg/fun//index.html",
     "Timestamp": "2026-05-21T04:02:19",
@@ -262,13 +270,5 @@
     "Domain": "blog.railway.com",
     "Description": "Railway experienced a platform-wide service disruption due to Google Cloud incorrectly placing our account in a suspended status. This resulted in a temporary loss of service for all GCP hosted infrastructure.",
     "Confidence": 0.9537552
-  },
-  {
-    "Title": "GitHub - wiltodelta/remove-ai-watermarks: CLI and library for removing visible (Gemini) and invisible (SynthID, C2PA, EXIF) AI watermarks from images",
-    "Url": "https://github.com/wiltodelta/remove-ai-watermarks",
-    "Timestamp": "2026-05-20T08:02:13",
-    "Domain": "github.com",
-    "Description": "CLI and library for removing visible (Gemini) and invisible (SynthID, C2PA, EXIF) AI watermarks from images - wiltodelta/remove-ai-watermarks",
-    "Confidence": 0.996196
   }
 ]

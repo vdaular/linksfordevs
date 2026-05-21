@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The famous o3 "GeoGuessr" prompt did not work</title>
+      <link>https://www.seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/</link>
+      <description>In April last year, Kelsey Piper discovered that OpenAI’s o3 model was surprisingly good at figuring out where a photo was taken from. Like human “geoguessr” pros, o3 could sometimes take a nondescript photo of a beach and tell you exactly where it is. Here’s the example Kelsey gave:</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://www.seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/</guid>
+      <pubDate>Thu, 21 May 2026 08:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>Magic the Gathering format: Fun 40</title>
       <link>https://fabiensanglard.net/mtg/fun//index.html</link>
       <description>May 1, 2025</description>
@@ -334,17 +343,6 @@ Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas
       <category>sql</category>
       <guid>https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage</guid>
       <pubDate>Wed, 20 May 2026 09:02:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - wiltodelta/remove-ai-watermarks: CLI and library for removing visible (Gemini) and invisible (SynthID, C2PA, EXIF) AI watermarks from images</title>
-      <link>https://github.com/wiltodelta/remove-ai-watermarks</link>
-      <description>CLI and library for removing visible (Gemini) and invisible (SynthID, C2PA, EXIF) AI watermarks from images - wiltodelta/remove-ai-watermarks</description>
-      <category>cloud</category>
-      <category>git</category>
-      <category>python</category>
-      <category>ai</category>
-      <guid>https://github.com/wiltodelta/remove-ai-watermarks</guid>
-      <pubDate>Wed, 20 May 2026 08:02:13 GMT</pubDate>
     </item>
   </channel>
 </rss>
