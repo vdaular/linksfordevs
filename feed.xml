@@ -7,6 +7,33 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>AI is just unauthorised plagiarism at a bigger scale</title>
+      <link>https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/</link>
+      <description>AI takes in all the input, whether the original authors have consented or not, and do some "learning", and then the AI companies sell these learned result to...</description>
+      <category>ai</category>
+      <guid>https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/</guid>
+      <pubDate>Thu, 21 May 2026 15:02:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Flipper One — we need your help</title>
+      <link>https://blog.flipper.net/flipper-one-we-need-your-help/</link>
+      <description>With Flipper One, we're reimagining what a Linux cyberdeck can be — it's a huge project. We're opening up the development process and asking the community for help.</description>
+      <author> (https://www.facebook.com/zhovner)</author>
+      <category>linux</category>
+      <category>conference</category>
+      <category>ai</category>
+      <guid>https://blog.flipper.net/flipper-one-we-need-your-help/</guid>
+      <pubDate>Thu, 21 May 2026 15:02:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>A new generation of ads for the AI era of Search</title>
+      <link>https://blog.google/products/ads-commerce/google-marketing-live-search-ads/</link>
+      <description>Google is introducing new ad formats built with Gemini in Search and expanding the Direct Offers pilot for shoppers.</description>
+      <category>ai</category>
+      <guid>https://blog.google/products/ads-commerce/google-marketing-live-search-ads/</guid>
+      <pubDate>Thu, 21 May 2026 15:02:18 GMT</pubDate>
+    </item>
+    <item>
       <title>DOS Zone | DOS games in browser</title>
       <link>https://dos.zone/</link>
       <description>Ultimate collection of free dos games to play online in browser. No registration needed, no advertisment, just play!</description>
@@ -293,18 +320,6 @@ What sets Qwen3.7-Max apart is the breadth and depth of its agent capabilities. 
       <category>ai</category>
       <guid>https://qwen.ai/blog?id=qwen3.7</guid>
       <pubDate>Wed, 20 May 2026 16:02:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Adieu Visa et Mastercard : 130 millions d'Européens basculent vers un paiement 100 % souverain dès 2026</title>
-      <link>https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html</link>
-      <description>L'Europe lance enfin sa riposte technologique face à l'hégémonie américaine. Cinq géants du paiement mobile continental viennent de sceller une alliance historique pour unifier leurs réseaux. Dès l'année prochaine, les transactions quotidiennes de millions d'utilisateurs s'affranchiront des circu...</description>
-      <category>android</category>
-      <category>apple</category>
-      <category>cloud</category>
-      <category>ai</category>
-      <category>web</category>
-      <guid>https://www.lesnumeriques.com/banque-en-ligne/adieu-visa-et-mastercard-130-millions-d-europeens-basculent-vers-un-paiement-100-souverain-des-2026-n250918.html</guid>
-      <pubDate>Wed, 20 May 2026 15:02:52 GMT</pubDate>
     </item>
   </channel>
 </rss>
