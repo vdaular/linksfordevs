@@ -1,5 +1,141 @@
 [
   {
+    "Title": "Hail Mary - Star Map",
+    "Url": "https://valhovey.github.io/gaia-mary/",
+    "Timestamp": "2026-05-21T21:03:30",
+    "Domain": "valhovey.github.io",
+    "Description": "See a recreation of the Project Hail Mary in-ship navigation computer with accurate star data from the GAIA DR3 mission.",
+    "Confidence": 0.9020705
+  },
+  {
+    "Title": "Why Patagonia? — Edward Champion",
+    "Url": "https://hec.works/blog/why-patagonia/",
+    "Timestamp": "2026-05-21T21:03:27",
+    "Domain": "hec.works",
+    "Description": "I feel awkward about my body, I don't feel like the picture of an outdoorsy person, and I work indoors for a living. Why do I buy Patagonia clothes? A mix of quality, warranty, and the company's commitment to its products. I like a little ethics in my clothes.",
+    "Confidence": 0.90774494
+  },
+  {
+    "Title": "Does using LLMs make me dumber? - Wilsons Blog",
+    "Url": "https://wilsoniumite.com/2026/05/21/does-using-llms-make-me-dumber/",
+    "Timestamp": "2026-05-21T21:03:21",
+    "Domain": "wilsoniumite.com",
+    "Description": "So this is something I’ve heard a lot and have thought about a lot. First I want to re-frame the question from what I usually read to what I think is actually a good question: “How does using LLMs change the way I learn?” I think this is better because 1. the dumb-intelligent axis is […]",
+    "Confidence": 0.98175114
+  },
+  {
+    "Title": "Agents Are Not One Thing",
+    "Url": "https://jlmr.dev/posts/agents-are-not-one-thing/",
+    "Timestamp": "2026-05-21T21:03:16",
+    "Domain": "jlmr.dev",
+    "Description": "Software Engineer writing about infrastructure, Kubernetes, and Go",
+    "Confidence": 0.9450732
+  },
+  {
+    "Title": "SpaceX's IPO Bagship carries full payload of Elon's mistakes",
+    "Url": "https://jamesthomason.com/spacex-ipo-bagship-carries-full-payload-of-elons-mistakes/",
+    "Timestamp": "2026-05-21T21:03:13",
+    "Domain": "jamesthomason.com",
+    "Description": "In which the great American space dream, it turns out, is just another vehicle where the greater fool flies coach.",
+    "Confidence": 0.8881352
+  },
+  {
+    "Title": "Understanding KV Cache: The Hidden Memory Cost of Serving LLMs",
+    "Url": "https://melchi.me/posts/kv-cache/",
+    "Timestamp": "2026-05-21T21:03:10",
+    "Domain": "melchi.me",
+    "Description": "A deep dive into KV cache — the hidden memory bottleneck of LLM inference. Learn how KV cache grows with context length and concurrency, why it matters for self-hosted models, and how attention innovations like GQA, MQA, MLA, sliding-window attention, hybrid architectures, quantization, PagedAttention, and prefix caching reduce memory pressure.",
+    "Confidence": 0.99089587
+  },
+  {
+    "Title": "Human Bottlenecks",
+    "Url": "https://borretti.me/article/human-bottlenecks",
+    "Timestamp": "2026-05-21T21:03:06",
+    "Domain": "borretti.me",
+    "Description": "Why AI won't augment human capabilities much.",
+    "Confidence": 0.9836386
+  },
+  {
+    "Title": "Highest Random Weight in Elixir | jola.dev",
+    "Url": "https://jola.dev/posts/highest-random-weight-in-elixir",
+    "Timestamp": "2026-05-21T21:03:03",
+    "Domain": "jola.dev",
+    "Description": "A description of HRW/rendezvous hashing and the HRW elixir library.",
+    "Confidence": 0.99591744
+  },
+  {
+    "Title": "Intelligence",
+    "Url": "https://ankitmaloo.com/intelligence/",
+    "Timestamp": "2026-05-21T21:02:57",
+    "Domain": "ankitmaloo.com",
+    "Description": "Some problems don’t get solved in your head, they get solved in someone else’s while you watch or read their solution. You might feel it before you understand it. A small calibration. A quiet “Oh!”",
+    "Confidence": 0.9851201
+  },
+  {
+    "Title": "Matterhorn pandas",
+    "Url": "https://mz.prose.sh/matterhorn-pandas",
+    "Timestamp": "2026-05-21T21:02:53",
+    "Domain": "mz.prose.sh",
+    "Description": "Matterhorn summit window from 50 years of historical weather + pandas.",
+    "Confidence": 0.9918596
+  },
+  {
+    "Title": "50 Hours to Draw Some Lines - Doug MacDowell",
+    "Url": "https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html",
+    "Timestamp": "2026-05-21T21:02:50",
+    "Domain": "www.dougmacdowell.com",
+    "Description": "Hand drawn data visualizations by artist Doug MacDowell.",
+    "Confidence": 0.9668764
+  },
+  {
+    "Title": "Fixing LLM writing with Distribution Fine Tuning",
+    "Url": "https://rosmine.ai/2026/05/18/fixing-llm-writing-with-distribution-fine-tuning/",
+    "Timestamp": "2026-05-21T21:02:46",
+    "Domain": "rosmine.ai",
+    "Description": "Technical Report: How Distribution Fine Tuning (DFT) improves LLM writing quality",
+    "Confidence": 0.97038025
+  },
+  {
+    "Title": "The Maintainer's Dilemma | spf13",
+    "Url": "https://spf13.com/p/the-maintainers-dilemma/",
+    "Timestamp": "2026-05-21T21:02:43",
+    "Domain": "spf13.com",
+    "Description": "Open source maintenance is breaking at scale. Can AI code review can help maintainers without breaking trust, judgment, or community.",
+    "Confidence": 0.95407563
+  },
+  {
+    "Title": "Containers Are a Security Boundary (some assembly required) ┈ Tianon's Ramblings ✿",
+    "Url": "https://ram.tianon.xyz/post/2026/05/20/container-security.html",
+    "Timestamp": "2026-05-21T21:02:37",
+    "Domain": "ram.tianon.xyz",
+    "Description": "I've heard \"containers are not a security boundary\" enough times that it's started to feel like received wisdom, and my honest read (after 13+ years) is that it's technically defensible but practically sloppy – and the sloppiness matters.",
+    "Confidence": 0.9731926
+  },
+  {
+    "Title": "Adults Have Lost the Ability to Smile, Why?",
+    "Url": "https://livingkindfully.bearblog.dev/adults-have-lost-the-ability-to-smile-why/",
+    "Timestamp": "2026-05-21T21:02:34",
+    "Domain": "livingkindfully.bearblog.dev",
+    "Description": "Today at the supermarket, I was smiling at a baby. The baby saw my smile and she smiled back. I did a few more times with older kids and they all smiled back...",
+    "Confidence": 0.80393887
+  },
+  {
+    "Title": "Lessons I Learned from Creating Searx",
+    "Url": "https://hister.org/posts/lessons-i-learned-from-creating-searx",
+    "Timestamp": "2026-05-21T21:02:31",
+    "Domain": "hister.org",
+    "Description": "Seven years of maintaining a popular open source metasearch engine taught me a great deal about privacy, community, and the fundamental limits of the metasearch approach. Here is what led me to build Hister.",
+    "Confidence": 0.943278
+  },
+  {
+    "Title": "Back up your TOTP codes by just printing them",
+    "Url": "https://til.andrew-quinn.me/posts/back-up-your-totp-codes-by-just-printing-them/",
+    "Timestamp": "2026-05-21T21:02:26",
+    "Domain": "til.andrew-quinn.me",
+    "Description": "\n\nScan the Quick Response (QR) code above with your favorite Two-Factor Authentication (2FA) app.\nYou should get a six digit number, rotating every\n30 seconds, that looks something like\n\n\n1\n2\n\n\n237601\n# as of Wed May 20 09:44:53 AM EEST 2026\n\n\nIf you then take the secret key that QR code maps to,\nsay",
+    "Confidence": 0.9762235
+  },
+  {
     "Title": "Google's Antigravity Bait and Switch",
     "Url": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
     "Timestamp": "2026-05-21T17:02:29",
@@ -254,13 +390,5 @@
     "Domain": "jxself.org",
     "Description": "Back in 2009, Richard Stallman warned us about The\n        JavaScript Trap. The pitch was simple, and it's aged\n        horrifyingly well. Every time you visit a modern website,\n        your browser silently downloads and executes a pile of\n        non-free JavaScript on your computer. You didn't choose this\n        software. It runs anyway, on your hardware, in your name, and\n        the moment your tab closes, it pretends nothing happened.\n        It's the perfect non-free program: invisible, ephemeral, and\n        authored by someone who would very much like you not to think\n        about it at all.",
     "Confidence": 0.98662454
-  },
-  {
-    "Title": "An OpenAI model has disproved a central conjecture in discrete geometry",
-    "Url": "https://openai.com/index/model-disproves-discrete-geometry-conjecture/",
-    "Timestamp": "2026-05-20T21:02:36",
-    "Domain": "openai.com",
-    "Description": "An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.",
-    "Confidence": 0.86543345
   }
 ]

@@ -7,6 +7,165 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Hail Mary - Star Map</title>
+      <link>https://valhovey.github.io/gaia-mary/</link>
+      <description>See a recreation of the Project Hail Mary in-ship navigation computer with accurate star data from the GAIA DR3 mission.</description>
+      <guid>https://valhovey.github.io/gaia-mary/</guid>
+      <pubDate>Thu, 21 May 2026 21:03:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why Patagonia? — Edward Champion</title>
+      <link>https://hec.works/blog/why-patagonia/</link>
+      <description>I feel awkward about my body, I don't feel like the picture of an outdoorsy person, and I work indoors for a living. Why do I buy Patagonia clothes? A mix of quality, warranty, and the company's commitment to its products. I like a little ethics in my clothes.</description>
+      <guid>https://hec.works/blog/why-patagonia/</guid>
+      <pubDate>Thu, 21 May 2026 21:03:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Does using LLMs make me dumber? - Wilsons Blog</title>
+      <link>https://wilsoniumite.com/2026/05/21/does-using-llms-make-me-dumber/</link>
+      <description>So this is something I’ve heard a lot and have thought about a lot. First I want to re-frame the question from what I usually read to what I think is actually a good question: “How does using LLMs change the way I learn?” I think this is better because 1. the dumb-intelligent axis is […]</description>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://wilsoniumite.com/2026/05/21/does-using-llms-make-me-dumber/</guid>
+      <pubDate>Thu, 21 May 2026 21:03:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Agents Are Not One Thing</title>
+      <link>https://jlmr.dev/posts/agents-are-not-one-thing/</link>
+      <description>Software Engineer writing about infrastructure, Kubernetes, and Go</description>
+      <guid>https://jlmr.dev/posts/agents-are-not-one-thing/</guid>
+      <pubDate>Thu, 21 May 2026 21:03:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>SpaceX's IPO Bagship carries full payload of Elon's mistakes</title>
+      <link>https://jamesthomason.com/spacex-ipo-bagship-carries-full-payload-of-elons-mistakes/</link>
+      <description>In which the great American space dream, it turns out, is just another vehicle where the greater fool flies coach.</description>
+      <category>ai</category>
+      <guid>https://jamesthomason.com/spacex-ipo-bagship-carries-full-payload-of-elons-mistakes/</guid>
+      <pubDate>Thu, 21 May 2026 21:03:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Understanding KV Cache: The Hidden Memory Cost of Serving LLMs</title>
+      <link>https://melchi.me/posts/kv-cache/</link>
+      <description>A deep dive into KV cache — the hidden memory bottleneck of LLM inference. Learn how KV cache grows with context length and concurrency, why it matters for self-hosted models, and how attention innovations like GQA, MQA, MLA, sliding-window attention, hybrid architectures, quantization, PagedAttention, and prefix caching reduce memory pressure.</description>
+      <category>cloud</category>
+      <category>ai</category>
+      <guid>https://melchi.me/posts/kv-cache/</guid>
+      <pubDate>Thu, 21 May 2026 21:03:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Human Bottlenecks</title>
+      <link>https://borretti.me/article/human-bottlenecks</link>
+      <description>Why AI won't augment human capabilities much.</description>
+      <category>encryption</category>
+      <category>ai</category>
+      <category>rust</category>
+      <guid>https://borretti.me/article/human-bottlenecks</guid>
+      <pubDate>Thu, 21 May 2026 21:03:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Highest Random Weight in Elixir | jola.dev</title>
+      <link>https://jola.dev/posts/highest-random-weight-in-elixir</link>
+      <description>A description of HRW/rendezvous hashing and the HRW elixir library.</description>
+      <author> (https://jola.dev/about)</author>
+      <category>nodejs</category>
+      <guid>https://jola.dev/posts/highest-random-weight-in-elixir</guid>
+      <pubDate>Thu, 21 May 2026 21:03:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Intelligence</title>
+      <link>https://ankitmaloo.com/intelligence/</link>
+      <description>Some problems don’t get solved in your head, they get solved in someone else’s while you watch or read their solution. You might feel it before you understand it. A small calibration. A quiet “Oh!”</description>
+      <category>cloud</category>
+      <category>ai</category>
+      <guid>https://ankitmaloo.com/intelligence/</guid>
+      <pubDate>Thu, 21 May 2026 21:02:57 GMT</pubDate>
+    </item>
+    <item>
+      <title>Matterhorn pandas</title>
+      <link>https://mz.prose.sh/matterhorn-pandas</link>
+      <description>Matterhorn summit window from 50 years of historical weather + pandas.</description>
+      <category>javascript</category>
+      <category>python</category>
+      <category>web</category>
+      <guid>https://mz.prose.sh/matterhorn-pandas</guid>
+      <pubDate>Thu, 21 May 2026 21:02:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>50 Hours to Draw Some Lines - Doug MacDowell</title>
+      <link>https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html</link>
+      <description>Hand drawn data visualizations by artist Doug MacDowell.</description>
+      <category>ai</category>
+      <category>python</category>
+      <guid>https://www.dougmacdowell.com/50-hours-to-draw-some-lines.html</guid>
+      <pubDate>Thu, 21 May 2026 21:02:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fixing LLM writing with Distribution Fine Tuning</title>
+      <link>https://rosmine.ai/2026/05/18/fixing-llm-writing-with-distribution-fine-tuning/</link>
+      <description>Technical Report: How Distribution Fine Tuning (DFT) improves LLM writing quality</description>
+      <category>ai</category>
+      <guid>https://rosmine.ai/2026/05/18/fixing-llm-writing-with-distribution-fine-tuning/</guid>
+      <pubDate>Thu, 21 May 2026 21:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Maintainer's Dilemma | spf13</title>
+      <link>https://spf13.com/p/the-maintainers-dilemma/</link>
+      <description>Open source maintenance is breaking at scale. Can AI code review can help maintainers without breaking trust, judgment, or community.</description>
+      <category>ai</category>
+      <category>containers</category>
+      <guid>https://spf13.com/p/the-maintainers-dilemma/</guid>
+      <pubDate>Thu, 21 May 2026 21:02:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Containers Are a Security Boundary (some assembly required) ┈ Tianon's Ramblings ✿</title>
+      <link>https://ram.tianon.xyz/post/2026/05/20/container-security.html</link>
+      <description>I've heard "containers are not a security boundary" enough times that it's started to feel like received wisdom, and my honest read (after 13+ years) is that it's technically defensible but practically sloppy – and the sloppiness matters.</description>
+      <category>containers</category>
+      <category>ai</category>
+      <category>javascript</category>
+      <category>web</category>
+      <guid>https://ram.tianon.xyz/post/2026/05/20/container-security.html</guid>
+      <pubDate>Thu, 21 May 2026 21:02:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adults Have Lost the Ability to Smile, Why?</title>
+      <link>https://livingkindfully.bearblog.dev/adults-have-lost-the-ability-to-smile-why/</link>
+      <description>Today at the supermarket, I was smiling at a baby. The baby saw my smile and she smiled back. I did a few more times with older kids and they all smiled back...</description>
+      <guid>https://livingkindfully.bearblog.dev/adults-have-lost-the-ability-to-smile-why/</guid>
+      <pubDate>Thu, 21 May 2026 21:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lessons I Learned from Creating Searx</title>
+      <link>https://hister.org/posts/lessons-i-learned-from-creating-searx</link>
+      <description>Seven years of maintaining a popular open source metasearch engine taught me a great deal about privacy, community, and the fundamental limits of the metasearch approach. Here is what led me to build Hister.</description>
+      <guid>https://hister.org/posts/lessons-i-learned-from-creating-searx</guid>
+      <pubDate>Thu, 21 May 2026 21:02:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Back up your TOTP codes by just printing them</title>
+      <link>https://til.andrew-quinn.me/posts/back-up-your-totp-codes-by-just-printing-them/</link>
+      <description>
+
+Scan the Quick Response (QR) code above with your favorite Two-Factor Authentication (2FA) app.
+You should get a six digit number, rotating every
+30 seconds, that looks something like
+
+
+1
+2
+
+
+237601
+# as of Wed May 20 09:44:53 AM EEST 2026
+
+
+If you then take the secret key that QR code maps to,
+say</description>
+      <guid>https://til.andrew-quinn.me/posts/back-up-your-totp-codes-by-just-printing-them/</guid>
+      <pubDate>Thu, 21 May 2026 21:02:26 GMT</pubDate>
+    </item>
+    <item>
       <title>Google's Antigravity Bait and Switch</title>
       <link>https://www.0xsid.com/blog/antigravity-bait-n-switch</link>
       <description>The day was to begin like any other, with Antigravity open, expecting to get some work done before my attention fragments. But Google had other plans. They had rolled out a new version of Antigravity the day before, at I/O 2026, presenting it as a shiny, standalone Codex-style experience.</description>
@@ -309,14 +468,6 @@ So here is the proposal.</description>
       <category>youtube</category>
       <guid>https://jxself.org/shifting-the-trap.shtml</guid>
       <pubDate>Wed, 20 May 2026 23:02:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>An OpenAI model has disproved a central conjecture in discrete geometry</title>
-      <link>https://openai.com/index/model-disproves-discrete-geometry-conjecture/</link>
-      <description>An OpenAI model solved the 80-year-old unit distance problem, disproving a major conjecture in discrete geometry and marking a milestone in AI-driven mathematics.</description>
-      <category>ai</category>
-      <guid>https://openai.com/index/model-disproves-discrete-geometry-conjecture/</guid>
-      <pubDate>Wed, 20 May 2026 21:02:36 GMT</pubDate>
     </item>
   </channel>
 </rss>
