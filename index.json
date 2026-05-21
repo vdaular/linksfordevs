@@ -246,13 +246,5 @@
     "Domain": "www.lesnumeriques.com",
     "Description": "L'Europe lance enfin sa riposte technologique face à l'hégémonie américaine. Cinq géants du paiement mobile continental viennent de sceller une alliance historique pour unifier leurs réseaux. Dès l'année prochaine, les transactions quotidiennes de millions d'utilisateurs s'affranchiront des circu...",
     "Confidence": 0.9389579
-  },
-  {
-    "Title": "fivethirtyeightindex.com",
-    "Url": "https://fivethirtyeightindex.com/",
-    "Timestamp": "2026-05-20T14:02:35",
-    "Domain": "fivethirtyeightindex.com",
-    "Description": "An index of every fivethirtyeight.com article preserved by the Internet Archive.",
-    "Confidence": 0.5256109
   }
 ]
