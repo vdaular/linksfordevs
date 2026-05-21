@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Tech specs - Flipper One Documentation</title>
+      <link>https://docs.flipper.net/one/general/tech-specs</link>
+      <description>Flipper One Documentation</description>
+      <category>linux</category>
+      <guid>https://docs.flipper.net/one/general/tech-specs</guid>
+      <pubDate>Thu, 21 May 2026 02:02:02 GMT</pubDate>
+    </item>
+    <item>
       <title>On Google declaring war on the Web</title>
       <link>https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/</link>
       <description>In Yesterday’s IO Keynote Google declared war on the remnants of the Web. (See longer description on their website.) TL;DR: They are pushing Search more into the “here’s your processed answer” direction that “AI Overviews” have established (you know, those AI snippets in current Search that are wrong about 10% of the time). So they […]</description>
