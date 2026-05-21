@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>GitHub - kageroumado/phosphene: A video wallpaper engine for macOS Tahoe</title>
+      <link>https://github.com/kageroumado/phosphene</link>
+      <description>A video wallpaper engine for macOS Tahoe. Contribute to kageroumado/phosphene development by creating an account on GitHub.</description>
+      <category>cloud</category>
+      <category>git</category>
+      <category>vscode</category>
+      <category>gaming</category>
+      <guid>https://github.com/kageroumado/phosphene</guid>
+      <pubDate>Thu, 21 May 2026 09:02:18 GMT</pubDate>
+    </item>
+    <item>
       <title>The famous o3 "GeoGuessr" prompt did not work</title>
       <link>https://www.seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/</link>
       <description>In April last year, Kelsey Piper discovered that OpenAI’s o3 model was surprisingly good at figuring out where a photo was taken from. Like human “geoguessr” pros, o3 could sometimes take a nondescript photo of a beach and tell you exactly where it is. Here’s the example Kelsey gave:</description>
@@ -333,16 +344,6 @@ Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas
       <category>ai</category>
       <guid>https://www.seangoedecke.com/prompts-are-technical-debt-too/</guid>
       <pubDate>Wed, 20 May 2026 10:02:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Incident Report: May 19, 2026 - GCP Account Suspension</title>
-      <link>https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage</link>
-      <description>Railway experienced a platform-wide service disruption due to Google Cloud incorrectly placing our account in a suspended status. This resulted in a temporary loss of service for all GCP hosted infrastructure.</description>
-      <author> (Chandrika Khanduri &amp; Cody De Arkland)</author>
-      <category>cloud</category>
-      <category>sql</category>
-      <guid>https://blog.railway.com/p/incident-report-may-19-2026-gcp-account-outage</guid>
-      <pubDate>Wed, 20 May 2026 09:02:13 GMT</pubDate>
     </item>
   </channel>
 </rss>
