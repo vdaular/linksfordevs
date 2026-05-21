@@ -270,13 +270,5 @@
     "Domain": "github.com",
     "Description": "CLI and library for removing visible (Gemini) and invisible (SynthID, C2PA, EXIF) AI watermarks from images - wiltodelta/remove-ai-watermarks",
     "Confidence": 0.996196
-  },
-  {
-    "Title": "Advancing content provenance for a safer, more transparent AI ecosystem",
-    "Url": "https://openai.com/index/advancing-content-provenance/",
-    "Timestamp": "2026-05-20T07:02:10",
-    "Domain": "openai.com",
-    "Description": "OpenAI advances AI content provenance with Content Credentials, SynthID, and a verification tool to help people identify and trust AI-generated media.",
-    "Confidence": 0.9885672
   }
 ]
