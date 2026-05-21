@@ -1,5 +1,13 @@
 [
   {
+    "Title": "On Google declaring war on the Web",
+    "Url": "https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/",
+    "Timestamp": "2026-05-21T01:02:11",
+    "Domain": "tante.cc",
+    "Description": "In Yesterday’s IO Keynote Google declared war on the remnants of the Web. (See longer description on their website.) TL;DR: They are pushing Search more into the “here’s your processed answer” direction that “AI Overviews” have established (you know, those AI snippets in current Search that are wrong about 10% of the time). So they […]",
+    "Confidence": 0.9529515
+  },
+  {
     "Title": "Why a healthy breath is a piece of engineering we don't appreciate",
     "Url": "https://shiihaa.app/blog/it-breathes-i-breathe/",
     "Timestamp": "2026-05-20T23:03:42",
@@ -246,13 +254,5 @@
     "Domain": "status.railway.com",
     "Description": "Railway Service Disruption\n            Major Outage",
     "Confidence": 0.9639845
-  },
-  {
-    "Title": "Gemini Omni",
-    "Url": "https://deepmind.google/models/gemini-omni/",
-    "Timestamp": "2026-05-20T01:02:09",
-    "Domain": "deepmind.google",
-    "Description": "Create anything from anything from any input – starting with video",
-    "Confidence": 0.89752275
   }
 ]

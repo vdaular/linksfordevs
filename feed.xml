@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>On Google declaring war on the Web</title>
+      <link>https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/</link>
+      <description>In Yesterday’s IO Keynote Google declared war on the remnants of the Web. (See longer description on their website.) TL;DR: They are pushing Search more into the “here’s your processed answer” direction that “AI Overviews” have established (you know, those AI snippets in current Search that are wrong about 10% of the time). So they […]</description>
+      <author> (https://facebook.com/JGeuter)</author>
+      <category>ai</category>
+      <guid>https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/</guid>
+      <pubDate>Thu, 21 May 2026 01:02:11 GMT</pubDate>
+    </item>
+    <item>
       <title>Why a healthy breath is a piece of engineering we don't appreciate</title>
       <link>https://shiihaa.app/blog/it-breathes-i-breathe/</link>
       <description>A primary-care doctor on the paradox in every breath, and what intensive care medicine teaches about it.</description>
@@ -318,15 +327,6 @@ Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas
             Major Outage</description>
       <guid>https://status.railway.com/?date=20260519</guid>
       <pubDate>Wed, 20 May 2026 04:02:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Gemini Omni</title>
-      <link>https://deepmind.google/models/gemini-omni/</link>
-      <description>Create anything from anything from any input – starting with video</description>
-      <category>youtube</category>
-      <category>ai</category>
-      <guid>https://deepmind.google/models/gemini-omni/</guid>
-      <pubDate>Wed, 20 May 2026 01:02:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
