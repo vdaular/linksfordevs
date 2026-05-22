@@ -1,5 +1,12 @@
 [
   {
+    "Title": "This blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
+    "Url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
+    "Timestamp": "2026-05-22T08:02:05",
+    "Domain": "crocidb.com",
+    "Description": "After a decade on Ubuntu 16.04, I migrated my blog to FreeBSD on Hetzner. Some notes on setting up a VPS with FreeBSD, Jails, Bastille, Caddy reverse proxies, and load testing and benchmarking the blog from four continents."
+  },
+  {
     "Title": "Technical Interviews Reject the Wrong Engineers",
     "Url": "https://fagnerbrack.com/technical-interviews-reject-the-wrong-engineers-a8e78ca04b2e",
     "Timestamp": "2026-05-22T04:02:21",

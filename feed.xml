@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>This blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD</title>
+      <link>https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/</link>
+      <description>After a decade on Ubuntu 16.04, I migrated my blog to FreeBSD on Hetzner. Some notes on setting up a VPS with FreeBSD, Jails, Bastille, Caddy reverse proxies, and load testing and benchmarking the blog from four continents.</description>
+      <category>conference</category>
+      <category>git</category>
+      <category>containers</category>
+      <category>ai</category>
+      <category>linux</category>
+      <guid>https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/</guid>
+      <pubDate>Fri, 22 May 2026 08:02:05 GMT</pubDate>
+    </item>
+    <item>
       <title>Technical Interviews Reject the Wrong Engineers</title>
       <link>https://fagnerbrack.com/technical-interviews-reject-the-wrong-engineers-a8e78ca04b2e</link>
       <description>20 years of observation, 50 years of research, and a framework for measuring the interview instead of the candidate</description>
@@ -257,15 +269,6 @@ say</description>
       <category>gaming</category>
       <guid>https://github.com/kageroumado/phosphene</guid>
       <pubDate>Thu, 21 May 2026 09:02:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>The famous o3 "GeoGuessr" prompt did not work</title>
-      <link>https://www.seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/</link>
-      <description>In April last year, Kelsey Piper discovered that OpenAI’s o3 model was surprisingly good at figuring out where a photo was taken from. Like human “geoguessr” pros, o3 could sometimes take a nondescript photo of a beach and tell you exactly where it is. Here’s the example Kelsey gave:</description>
-      <category>ai</category>
-      <category>gaming</category>
-      <guid>https://www.seangoedecke.com/the-o3-geoguessr-prompt-did-not-work/</guid>
-      <pubDate>Thu, 21 May 2026 08:02:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
