@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>BBEdit 16 is here! | Bare Bones Software</title>
+      <link>https://www.barebones.com/products/bbedit/bbedit16.html</link>
+      <description>There are more than a hundred new feature additions, changes, and refinements, including forward-looking foundational work which brings order-of-magnitude performance improvements in some parts of the product.</description>
+      <category>cloud</category>
+      <category>git</category>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://www.barebones.com/products/bbedit/bbedit16.html</guid>
+      <pubDate>Fri, 22 May 2026 01:01:51 GMT</pubDate>
+    </item>
+    <item>
       <title>Hail Mary - Star Map</title>
       <link>https://valhovey.github.io/gaia-mary/</link>
       <description>See a recreation of the Project Hail Mary in-ship navigation computer with accurate star data from the GAIA DR3 mission.</description>
@@ -267,15 +278,6 @@ say</description>
       <category>linux</category>
       <guid>https://docs.flipper.net/one/general/tech-specs</guid>
       <pubDate>Thu, 21 May 2026 02:02:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>On Google declaring war on the Web</title>
-      <link>https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/</link>
-      <description>In Yesterday’s IO Keynote Google declared war on the remnants of the Web. (See longer description on their website.) TL;DR: They are pushing Search more into the “here’s your processed answer” direction that “AI Overviews” have established (you know, those AI snippets in current Search that are wrong about 10% of the time). So they […]</description>
-      <author> (https://facebook.com/JGeuter)</author>
-      <category>ai</category>
-      <guid>https://tante.cc/2026/05/20/on-google-declaring-war-on-the-web/</guid>
-      <pubDate>Thu, 21 May 2026 01:02:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
