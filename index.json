@@ -174,21 +174,5 @@
     "Domain": "til.andrew-quinn.me",
     "Description": "\n\nScan the Quick Response (QR) code above with your favorite Two-Factor Authentication (2FA) app.\nYou should get a six digit number, rotating every\n30 seconds, that looks something like\n\n\n1\n2\n\n\n237601\n# as of Wed May 20 09:44:53 AM EEST 2026\n\n\nIf you then take the secret key that QR code maps to,\nsay",
     "Confidence": 0.9762235
-  },
-  {
-    "Title": "Google's Antigravity Bait and Switch",
-    "Url": "https://www.0xsid.com/blog/antigravity-bait-n-switch",
-    "Timestamp": "2026-05-21T17:02:29",
-    "Domain": "www.0xsid.com",
-    "Description": "The day was to begin like any other, with Antigravity open, expecting to get some work done before my attention fragments. But Google had other plans. They had rolled out a new version of Antigravity the day before, at I/O 2026, presenting it as a shiny, standalone Codex-style experience.",
-    "Confidence": 0.9776592
-  },
-  {
-    "Title": "no slop grenade",
-    "Url": "https://noslopgrenade.com/",
-    "Timestamp": "2026-05-21T17:02:26",
-    "Domain": "noslopgrenade.com",
-    "Description": "Stop throwing AI-generated walls of text into conversations. If they wanted an AI essay, they would have asked ChatGPT themselves.",
-    "Confidence": 0.94994366
   }
 ]
