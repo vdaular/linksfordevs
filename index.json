@@ -206,13 +206,5 @@
     "Domain": "blog.google",
     "Description": "Google is introducing new ad formats built with Gemini in Search and expanding the Direct Offers pilot for shoppers.",
     "Confidence": 0.96991235
-  },
-  {
-    "Title": "DOS Zone | DOS games in browser",
-    "Url": "https://dos.zone/",
-    "Timestamp": "2026-05-21T10:02:11",
-    "Domain": "dos.zone",
-    "Description": "Ultimate collection of free dos games to play online in browser. No registration needed, no advertisment, just play!",
-    "Confidence": 0.92217857
   }
 ]
