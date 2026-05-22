@@ -214,13 +214,5 @@
     "Domain": "dos.zone",
     "Description": "Ultimate collection of free dos games to play online in browser. No registration needed, no advertisment, just play!",
     "Confidence": 0.92217857
-  },
-  {
-    "Title": "GitHub - kageroumado/phosphene: A video wallpaper engine for macOS Tahoe",
-    "Url": "https://github.com/kageroumado/phosphene",
-    "Timestamp": "2026-05-21T09:02:18",
-    "Domain": "github.com",
-    "Description": "A video wallpaper engine for macOS Tahoe. Contribute to kageroumado/phosphene development by creating an account on GitHub.",
-    "Confidence": 0.98123425
   }
 ]
