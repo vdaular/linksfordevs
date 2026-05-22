@@ -1,5 +1,12 @@
 [
   {
+    "Title": "How to Call an API from an Email",
+    "Url": "https://redo.com/eng-blog/how-to-call-an-api-from-an-email/",
+    "Timestamp": "2026-05-22T14:02:07",
+    "Domain": "redo.com",
+    "Description": "Emails can’t run JavaScript, but by selling your soul to the CSS devil you can get pretty close."
+  },
+  {
     "Title": "This blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
     "Url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
     "Timestamp": "2026-05-22T08:02:05",
