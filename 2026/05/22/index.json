@@ -1,5 +1,12 @@
 [
   {
+    "Title": "OpenSCAD LLM Benchmark: Building the Pantheon | ModelRift Blog",
+    "Url": "https://modelrift.com/blog/openscad-llm-benchmark/",
+    "Timestamp": "2026-05-22T18:02:29",
+    "Domain": "modelrift.com",
+    "Description": "A practical OpenSCAD LLM benchmark comparing Codex 5.5 High, Claude Sonnet, Claude Opus, Cursor Composer, Google Antigravity, and ModelRift on a detailed Pantheon model."
+  },
+  {
     "Title": "How to Call an API from an Email",
     "Url": "https://redo.com/eng-blog/how-to-call-an-api-from-an-email/",
     "Timestamp": "2026-05-22T14:02:07",

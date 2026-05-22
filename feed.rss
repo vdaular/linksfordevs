@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>OpenSCAD LLM Benchmark: Building the Pantheon | ModelRift Blog</title>
+      <link>https://modelrift.com/blog/openscad-llm-benchmark/</link>
+      <description>A practical OpenSCAD LLM benchmark comparing Codex 5.5 High, Claude Sonnet, Claude Opus, Cursor Composer, Google Antigravity, and ModelRift on a detailed Pantheon model.</description>
+      <category>ai</category>
+      <category>apple</category>
+      <guid>https://modelrift.com/blog/openscad-llm-benchmark/</guid>
+      <pubDate>Fri, 22 May 2026 18:02:29 GMT</pubDate>
+    </item>
+    <item>
       <title>How to Call an API from an Email</title>
       <link>https://redo.com/eng-blog/how-to-call-an-api-from-an-email/</link>
       <description>Emails can’t run JavaScript, but by selling your soul to the CSS devil you can get pretty close.</description>
