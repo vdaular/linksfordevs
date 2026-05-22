@@ -230,13 +230,5 @@
     "Domain": "www.sec.gov",
     "Description": "As filed with the U.S. Securities and Exchange Commission on May 20, 2026",
     "Confidence": 0.9226247
-  },
-  {
-    "Title": "Tech specs - Flipper One Documentation",
-    "Url": "https://docs.flipper.net/one/general/tech-specs",
-    "Timestamp": "2026-05-21T02:02:02",
-    "Domain": "docs.flipper.net",
-    "Description": "Flipper One Documentation",
-    "Confidence": 0.9899872
   }
 ]
