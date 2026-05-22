@@ -234,32 +234,5 @@ say</description>
       <guid>https://noslopgrenade.com/</guid>
       <pubDate>Thu, 21 May 2026 17:02:26 GMT</pubDate>
     </item>
-    <item>
-      <title>AI is just unauthorised plagiarism at a bigger scale</title>
-      <link>https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/</link>
-      <description>AI takes in all the input, whether the original authors have consented or not, and do some "learning", and then the AI companies sell these learned result to...</description>
-      <category>ai</category>
-      <guid>https://axelk.ee/ai-is-just-unauthorised-plagiarism-at-a-bigger-scale/</guid>
-      <pubDate>Thu, 21 May 2026 15:02:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Flipper One — we need your help</title>
-      <link>https://blog.flipper.net/flipper-one-we-need-your-help/</link>
-      <description>With Flipper One, we're reimagining what a Linux cyberdeck can be — it's a huge project. We're opening up the development process and asking the community for help.</description>
-      <author> (https://www.facebook.com/zhovner)</author>
-      <category>linux</category>
-      <category>conference</category>
-      <category>ai</category>
-      <guid>https://blog.flipper.net/flipper-one-we-need-your-help/</guid>
-      <pubDate>Thu, 21 May 2026 15:02:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>A new generation of ads for the AI era of Search</title>
-      <link>https://blog.google/products/ads-commerce/google-marketing-live-search-ads/</link>
-      <description>Google is introducing new ad formats built with Gemini in Search and expanding the Direct Offers pilot for shoppers.</description>
-      <category>ai</category>
-      <guid>https://blog.google/products/ads-commerce/google-marketing-live-search-ads/</guid>
-      <pubDate>Thu, 21 May 2026 15:02:18 GMT</pubDate>
-    </item>
   </channel>
 </rss>
