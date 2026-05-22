@@ -1,5 +1,19 @@
 [
   {
+    "Title": "Technical Interviews Reject the Wrong Engineers",
+    "Url": "https://fagnerbrack.com/technical-interviews-reject-the-wrong-engineers-a8e78ca04b2e",
+    "Timestamp": "2026-05-22T04:02:21",
+    "Domain": "fagnerbrack.com",
+    "Description": "20 years of observation, 50 years of research, and a framework for measuring the interview instead of the candidate"
+  },
+  {
+    "Title": "We replaced Redis with MySQL for inventory reservations—and it scaled (2026) - Shopify",
+    "Url": "https://shopify.engineering/scaling-inventory-reservations",
+    "Timestamp": "2026-05-22T04:02:15",
+    "Domain": "shopify.engineering",
+    "Description": "How we used SKIP LOCKED, composite primary keys, and connection visibility to hit our scale targets."
+  },
+  {
     "Title": "BBEdit 16 is here! | Bare Bones Software",
     "Url": "https://www.barebones.com/products/bbedit/bbedit16.html",
     "Timestamp": "2026-05-22T01:01:51",

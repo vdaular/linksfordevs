@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Technical Interviews Reject the Wrong Engineers",
+    "Url": "https://fagnerbrack.com/technical-interviews-reject-the-wrong-engineers-a8e78ca04b2e",
+    "Timestamp": "2026-05-22T04:02:21",
+    "Domain": "fagnerbrack.com",
+    "Description": "20 years of observation, 50 years of research, and a framework for measuring the interview instead of the candidate",
+    "Confidence": 0.92480975
+  },
+  {
+    "Title": "We replaced Redis with MySQL for inventory reservations—and it scaled (2026) - Shopify",
+    "Url": "https://shopify.engineering/scaling-inventory-reservations",
+    "Timestamp": "2026-05-22T04:02:15",
+    "Domain": "shopify.engineering",
+    "Description": "How we used SKIP LOCKED, composite primary keys, and connection visibility to hit our scale targets.",
+    "Confidence": 0.98093873
+  },
+  {
     "Title": "BBEdit 16 is here! | Bare Bones Software",
     "Url": "https://www.barebones.com/products/bbedit/bbedit16.html",
     "Timestamp": "2026-05-22T01:01:51",
@@ -206,21 +222,5 @@
     "Domain": "www.seangoedecke.com",
     "Description": "In April last year, Kelsey Piper discovered that OpenAI’s o3 model was surprisingly good at figuring out where a photo was taken from. Like human “geoguessr” pros, o3 could sometimes take a nondescript photo of a beach and tell you exactly where it is. Here’s the example Kelsey gave:",
     "Confidence": 0.9650669
-  },
-  {
-    "Title": "Magic the Gathering format: Fun 40",
-    "Url": "https://fabiensanglard.net/mtg/fun//index.html",
-    "Timestamp": "2026-05-21T04:02:19",
-    "Domain": "fabiensanglard.net",
-    "Description": "May 1, 2025",
-    "Confidence": 0.79965925
-  },
-  {
-    "Title": "182.8 Meters",
-    "Url": "https://xkcd.com/3248/",
-    "Timestamp": "2026-05-21T04:02:15",
-    "Domain": "xkcd.com",
-    "Description": "",
-    "Confidence": 0.98151064
   }
 ]
