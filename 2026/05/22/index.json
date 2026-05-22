@@ -1,5 +1,19 @@
 [
   {
+    "Title": "Neutrino Project",
+    "Url": "https://xkcd.com/3249/",
+    "Timestamp": "2026-05-22T19:02:20",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "How to Talk to Your Coworkers",
+    "Url": "https://idiallo.com/blog/how-to-talk-to-your-coworkers?src=feed",
+    "Timestamp": "2026-05-22T19:02:16",
+    "Domain": "idiallo.com",
+    "Description": "You know you explained the same issue before in two or three different places, yet here they are asking again. Why don't they understand you? Why do they ask the same question when you've already give"
+  },
+  {
     "Title": "OpenSCAD LLM Benchmark: Building the Pantheon | ModelRift Blog",
     "Url": "https://modelrift.com/blog/openscad-llm-benchmark/",
     "Timestamp": "2026-05-22T18:02:29",
