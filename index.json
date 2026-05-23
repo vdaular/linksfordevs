@@ -238,13 +238,5 @@
     "Domain": "shopify.engineering",
     "Description": "How we used SKIP LOCKED, composite primary keys, and connection visibility to hit our scale targets.",
     "Confidence": 0.98093873
-  },
-  {
-    "Title": "BBEdit 16 is here! | Bare Bones Software",
-    "Url": "https://www.barebones.com/products/bbedit/bbedit16.html",
-    "Timestamp": "2026-05-22T01:01:51",
-    "Domain": "www.barebones.com",
-    "Description": "There are more than a hundred new feature additions, changes, and refinements, including forward-looking foundational work which brings order-of-magnitude performance improvements in some parts of the product.",
-    "Confidence": 0.9691462
   }
 ]
