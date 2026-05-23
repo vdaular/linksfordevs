@@ -299,27 +299,5 @@ a Bluetooth keyboard to use with my phone.</description>
       <guid>https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/</guid>
       <pubDate>Fri, 22 May 2026 08:02:05 GMT</pubDate>
     </item>
-    <item>
-      <title>Technical Interviews Reject the Wrong Engineers</title>
-      <link>https://fagnerbrack.com/technical-interviews-reject-the-wrong-engineers-a8e78ca04b2e</link>
-      <description>20 years of observation, 50 years of research, and a framework for measuring the interview instead of the candidate</description>
-      <author> (https://fagnerbrack.com)</author>
-      <category>encryption</category>
-      <category>ai</category>
-      <category>rust</category>
-      <category>typescript</category>
-      <guid>https://fagnerbrack.com/technical-interviews-reject-the-wrong-engineers-a8e78ca04b2e</guid>
-      <pubDate>Fri, 22 May 2026 04:02:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>We replaced Redis with MySQL for inventory reservations—and it scaled (2026) - Shopify</title>
-      <link>https://shopify.engineering/scaling-inventory-reservations</link>
-      <description>How we used SKIP LOCKED, composite primary keys, and connection visibility to hit our scale targets.</description>
-      <category>cloud</category>
-      <category>ruby</category>
-      <category>sql</category>
-      <guid>https://shopify.engineering/scaling-inventory-reservations</guid>
-      <pubDate>Fri, 22 May 2026 04:02:15 GMT</pubDate>
-    </item>
   </channel>
 </rss>
