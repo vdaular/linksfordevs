@@ -230,13 +230,5 @@
     "Domain": "modelrift.com",
     "Description": "A practical OpenSCAD LLM benchmark comparing Codex 5.5 High, Claude Sonnet, Claude Opus, Cursor Composer, Google Antigravity, and ModelRift on a detailed Pantheon model.",
     "Confidence": 0.9743368
-  },
-  {
-    "Title": "How to Call an API from an Email",
-    "Url": "https://redo.com/eng-blog/how-to-call-an-api-from-an-email/",
-    "Timestamp": "2026-05-22T14:02:07",
-    "Domain": "redo.com",
-    "Description": "Emails can’t run JavaScript, but by selling your soul to the CSS devil you can get pretty close.",
-    "Confidence": 0.9919239
   }
 ]
