@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Creator of C++: Bell Labs, Negative Overhead Abstraction, Mistakes | Bjarne Stroustrup",
+    "Url": "https://youtube.com/watch?v=U46fJ2bJ-co&amp;t=2780s",
+    "Timestamp": "2026-05-23T22:02:32",
+    "Domain": "youtube.com",
+    "Description": "Bjarne Stroustrup is the creator of the C++ programming language and a former researcher at Bell Labs. We talked about what Bell Labs was like, programming language design, and interesting anecdotes from his experience.\n\n• My ergonomic keyboard project I mentioned, you can follow along here: https://read.compose.llc/\n\n𝗣𝗼𝗱𝗰𝗮𝘀𝘁 𝗹𝗶𝗻𝗸𝘀:\n\n• Spotify: https://open.spotify.com/episode/52pEgoAglP6iPSNCxNeEvi?si=20L-_ZwnQyK_PzqaK0zNZQ\n• Apple: https://podcasts.apple.com/us/podcast/the-peterman-pod/id1777363835\n• Transcript: https://www.developing.dev/p/creator-of-c-bell-labs-negative-overhead\n\n𝗧𝗵𝗮𝗻𝗸 𝘆𝗼𝘂 𝘁𝗼 𝘁𝗵𝗶𝘀 𝗲𝗽𝗶𝘀𝗼𝗱𝗲'𝘀 𝘀𝗽𝗼𝗻𝘀𝗼𝗿𝘀 𝗳𝗼𝗿 𝘀𝘂𝗽𝗽𝗼𝗿𝘁𝗶𝗻𝗴 𝗺𝘆 𝘄𝗼𝗿𝗸:\n\n• Cursor 3: a unified workspace for building software with agents, check it out at https://cursor.com/\n• WorkOS: makes your app Enterprise Ready with easy to use APIs to add SSO, SCIM, RBAC, and more in just a few lines of code, check them out at https://workos.com/\n\n𝗧𝗶𝗺𝗲𝘀𝘁𝗮𝗺𝗽𝘀:\n\n0:00 - Intro\n0:50 - C++ origin story\n8:46 - What Bell Labs was like\n17:24 - Dennis Ritchie\n24:00 - When to build a programming language\n31:59 - Bootstrapping a language\n33:58 - C++ is not object-oriented\n37:32 - Discussing type systems\n46:20 - Memory safety\n49:26 - Standards committee anecdotes\n1:09:40 - C++ automatic garbage collection\n1:18:25 - Template instantiation is Turing complete\n1:21:57 - Abstraction and performance\n1:28:51 - AI writing code\n1:35:54 - His motivation\n1:39:18 - Famous quotes\n1:46:48 - C++ reflections after building\n1:49:12 - Top C++ book recommendation\n1:50:59 - Advice for his younger self\n1:58:06 - Outro\n\n𝗪𝗵𝗲𝗿𝗲 𝘁𝗼 𝗳𝗶𝗻𝗱 𝗕𝗷𝗮𝗿𝗻𝗲:\n\n• Wikipedia: https://en.wikipedia.org/wiki/Bjarne_Stroustrup\n• Personal Website: https://www.stroustrup.com/\n\n𝗪𝗵𝗲𝗿𝗲 𝘁𝗼 𝗳𝗶𝗻𝗱 𝗥𝘆𝗮𝗻:\n\n• Newsletter: https://www.developing.dev/\n• X/Twitter: https://x.com/ryanlpeterman\n• LinkedIn: https://www.linkedin.com/in/ryanlpeterman/\n• Threads: https://www.threads.com/@ryanlpeterman\n• Instagram: https://www.instagram.com/ryanlpeterman\n• TikTok: https://www.tiktok.com/@ryanlpeterman\n\n𝗥𝗲𝗳𝗲𝗿𝗲𝗻𝗰𝗲𝗱 𝗶𝗻 𝘁𝗵𝗶𝘀 𝗲𝗽𝗶𝘀𝗼𝗱𝗲:\n\n• \"A History of C++\": https://www.stroustrup.com/hopl2.pdf\n• \"Evolving a language in and for the real world\": https://www.stroustrup.com/hopl-almost-final.pdf\n• \"Thriving in a Crowded and Changing World\": https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2020/p2184r0.pdf\n• The lecture where he mentioned he lost half his hair: https://youtu.be/69edOm889V4?si=IAZxYNwlUALodEV7&t=474\n• Quotes I pulled: https://www.stroustrup.com/quotes.html",
+    "Confidence": 0.99690634
+  },
+  {
     "Title": "Megalodon chums the waters in 5.5K+ GitHub repo poisonings",
     "Url": "https://www.theregister.com/security/2026/05/22/megalodon-chums-the-waters-in-55k-github-repo-poisonings/5245342",
     "Timestamp": "2026-05-23T20:02:09",
@@ -214,13 +222,5 @@
     "Domain": "faingezicht.com",
     "Description": "It does not take greed, genius, or exploitation for a society to become unequal; randomness can be enough.",
     "Confidence": 0.94651985
-  },
-  {
-    "Title": "The elephant in the room • Josh W. Comeau",
-    "Url": "https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/",
-    "Timestamp": "2026-05-22T22:02:09",
-    "Domain": "www.joshwcomeau.com",
-    "Description": "Friendly articles and tutorials for front-end web developers. ❤️",
-    "Confidence": 0.97711295
   }
 ]

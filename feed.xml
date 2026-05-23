@@ -7,6 +7,75 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Creator of C++: Bell Labs, Negative Overhead Abstraction, Mistakes | Bjarne Stroustrup</title>
+      <link>https://youtube.com/watch?v=U46fJ2bJ-co&amp;amp;t=2780s</link>
+      <description>Bjarne Stroustrup is the creator of the C++ programming language and a former researcher at Bell Labs. We talked about what Bell Labs was like, programming language design, and interesting anecdotes from his experience.
+
+• My ergonomic keyboard project I mentioned, you can follow along here: https://read.compose.llc/
+
+𝗣𝗼𝗱𝗰𝗮𝘀𝘁 𝗹𝗶𝗻𝗸𝘀:
+
+• Spotify: https://open.spotify.com/episode/52pEgoAglP6iPSNCxNeEvi?si=20L-_ZwnQyK_PzqaK0zNZQ
+• Apple: https://podcasts.apple.com/us/podcast/the-peterman-pod/id1777363835
+• Transcript: https://www.developing.dev/p/creator-of-c-bell-labs-negative-overhead
+
+𝗧𝗵𝗮𝗻𝗸 𝘆𝗼𝘂 𝘁𝗼 𝘁𝗵𝗶𝘀 𝗲𝗽𝗶𝘀𝗼𝗱𝗲'𝘀 𝘀𝗽𝗼𝗻𝘀𝗼𝗿𝘀 𝗳𝗼𝗿 𝘀𝘂𝗽𝗽𝗼𝗿𝘁𝗶𝗻𝗴 𝗺𝘆 𝘄𝗼𝗿𝗸:
+
+• Cursor 3: a unified workspace for building software with agents, check it out at https://cursor.com/
+• WorkOS: makes your app Enterprise Ready with easy to use APIs to add SSO, SCIM, RBAC, and more in just a few lines of code, check them out at https://workos.com/
+
+𝗧𝗶𝗺𝗲𝘀𝘁𝗮𝗺𝗽𝘀:
+
+0:00 - Intro
+0:50 - C++ origin story
+8:46 - What Bell Labs was like
+17:24 - Dennis Ritchie
+24:00 - When to build a programming language
+31:59 - Bootstrapping a language
+33:58 - C++ is not object-oriented
+37:32 - Discussing type systems
+46:20 - Memory safety
+49:26 - Standards committee anecdotes
+1:09:40 - C++ automatic garbage collection
+1:18:25 - Template instantiation is Turing complete
+1:21:57 - Abstraction and performance
+1:28:51 - AI writing code
+1:35:54 - His motivation
+1:39:18 - Famous quotes
+1:46:48 - C++ reflections after building
+1:49:12 - Top C++ book recommendation
+1:50:59 - Advice for his younger self
+1:58:06 - Outro
+
+𝗪𝗵𝗲𝗿𝗲 𝘁𝗼 𝗳𝗶𝗻𝗱 𝗕𝗷𝗮𝗿𝗻𝗲:
+
+• Wikipedia: https://en.wikipedia.org/wiki/Bjarne_Stroustrup
+• Personal Website: https://www.stroustrup.com/
+
+𝗪𝗵𝗲𝗿𝗲 𝘁𝗼 𝗳𝗶𝗻𝗱 𝗥𝘆𝗮𝗻:
+
+• Newsletter: https://www.developing.dev/
+• X/Twitter: https://x.com/ryanlpeterman
+• LinkedIn: https://www.linkedin.com/in/ryanlpeterman/
+• Threads: https://www.threads.com/@ryanlpeterman
+• Instagram: https://www.instagram.com/ryanlpeterman
+• TikTok: https://www.tiktok.com/@ryanlpeterman
+
+𝗥𝗲𝗳𝗲𝗿𝗲𝗻𝗰𝗲𝗱 𝗶𝗻 𝘁𝗵𝗶𝘀 𝗲𝗽𝗶𝘀𝗼𝗱𝗲:
+
+• "A History of C++": https://www.stroustrup.com/hopl2.pdf
+• "Evolving a language in and for the real world": https://www.stroustrup.com/hopl-almost-final.pdf
+• "Thriving in a Crowded and Changing World": https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2020/p2184r0.pdf
+• The lecture where he mentioned he lost half his hair: https://youtu.be/69edOm889V4?si=IAZxYNwlUALodEV7&amp;t=474
+• Quotes I pulled: https://www.stroustrup.com/quotes.html</description>
+      <author> (Ryan Peterman)</author>
+      <category>ai</category>
+      <category>youtube</category>
+      <category>web</category>
+      <guid>https://youtube.com/watch?v=U46fJ2bJ-co&amp;amp;t=2780s</guid>
+      <pubDate>Sat, 23 May 2026 22:02:32 GMT</pubDate>
+    </item>
+    <item>
       <title>Megalodon chums the waters in 5.5K+ GitHub repo poisonings</title>
       <link>https://www.theregister.com/security/2026/05/22/megalodon-chums-the-waters-in-55k-github-repo-poisonings/5245342</link>
       <description>Will Jason Statham save us?</description>
@@ -275,15 +344,6 @@ a Bluetooth keyboard to use with my phone.</description>
       <category>javascript</category>
       <guid>https://faingezicht.com/articles/2026/04/14/emergent-inequality/</guid>
       <pubDate>Fri, 22 May 2026 23:02:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>The elephant in the room • Josh W. Comeau</title>
-      <link>https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/</link>
-      <description>Friendly articles and tutorials for front-end web developers. ❤️</description>
-      <category>ai</category>
-      <category>gaming</category>
-      <guid>https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/</guid>
-      <pubDate>Fri, 22 May 2026 22:02:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
