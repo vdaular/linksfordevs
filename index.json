@@ -238,13 +238,5 @@
     "Domain": "redo.com",
     "Description": "Emails can’t run JavaScript, but by selling your soul to the CSS devil you can get pretty close.",
     "Confidence": 0.9919239
-  },
-  {
-    "Title": "This blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD",
-    "Url": "https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/",
-    "Timestamp": "2026-05-22T08:02:05",
-    "Domain": "crocidb.com",
-    "Description": "After a decade on Ubuntu 16.04, I migrated my blog to FreeBSD on Hetzner. Some notes on setting up a VPS with FreeBSD, Jails, Bastille, Caddy reverse proxies, and load testing and benchmarking the blog from four continents.",
-    "Confidence": 0.99513966
   }
 ]

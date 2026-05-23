@@ -296,17 +296,5 @@ a Bluetooth keyboard to use with my phone.</description>
       <guid>https://redo.com/eng-blog/how-to-call-an-api-from-an-email/</guid>
       <pubDate>Fri, 22 May 2026 14:02:07 GMT</pubDate>
     </item>
-    <item>
-      <title>This blog ran on Ubuntu 16.04 for 10 years. I migrated it to FreeBSD</title>
-      <link>https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/</link>
-      <description>After a decade on Ubuntu 16.04, I migrated my blog to FreeBSD on Hetzner. Some notes on setting up a VPS with FreeBSD, Jails, Bastille, Caddy reverse proxies, and load testing and benchmarking the blog from four continents.</description>
-      <category>conference</category>
-      <category>git</category>
-      <category>containers</category>
-      <category>ai</category>
-      <category>linux</category>
-      <guid>https://crocidb.com/post/this-blog-ran-on-ubuntu-16-04-for-10-years-i-migrated-it-to-freebsd/</guid>
-      <pubDate>Fri, 22 May 2026 08:02:05 GMT</pubDate>
-    </item>
   </channel>
 </rss>
