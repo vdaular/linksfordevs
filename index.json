@@ -222,13 +222,5 @@
     "Domain": "idiallo.com",
     "Description": "You know you explained the same issue before in two or three different places, yet here they are asking again. Why don't they understand you? Why do they ask the same question when you've already give",
     "Confidence": 0.9754359
-  },
-  {
-    "Title": "OpenSCAD LLM Benchmark: Building the Pantheon | ModelRift Blog",
-    "Url": "https://modelrift.com/blog/openscad-llm-benchmark/",
-    "Timestamp": "2026-05-22T18:02:29",
-    "Domain": "modelrift.com",
-    "Description": "A practical OpenSCAD LLM benchmark comparing Codex 5.5 High, Claude Sonnet, Claude Opus, Cursor Composer, Google Antigravity, and ModelRift on a detailed Pantheon model.",
-    "Confidence": 0.9743368
   }
 ]

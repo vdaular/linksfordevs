@@ -278,14 +278,5 @@ a Bluetooth keyboard to use with my phone.</description>
       <guid>https://idiallo.com/blog/how-to-talk-to-your-coworkers?src=feed</guid>
       <pubDate>Fri, 22 May 2026 19:02:16 GMT</pubDate>
     </item>
-    <item>
-      <title>OpenSCAD LLM Benchmark: Building the Pantheon | ModelRift Blog</title>
-      <link>https://modelrift.com/blog/openscad-llm-benchmark/</link>
-      <description>A practical OpenSCAD LLM benchmark comparing Codex 5.5 High, Claude Sonnet, Claude Opus, Cursor Composer, Google Antigravity, and ModelRift on a detailed Pantheon model.</description>
-      <category>ai</category>
-      <category>apple</category>
-      <guid>https://modelrift.com/blog/openscad-llm-benchmark/</guid>
-      <pubDate>Fri, 22 May 2026 18:02:29 GMT</pubDate>
-    </item>
   </channel>
 </rss>
