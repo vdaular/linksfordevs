@@ -7,6 +7,19 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Megalodon chums the waters in 5.5K+ GitHub repo poisonings</title>
+      <link>https://www.theregister.com/security/2026/05/22/megalodon-chums-the-waters-in-55k-github-repo-poisonings/5245342</link>
+      <description>Will Jason Statham save us?</description>
+      <author> (Jessica Lyons)</author>
+      <category>nodejs</category>
+      <category>cloud</category>
+      <category>containers</category>
+      <category>encryption</category>
+      <category>ai</category>
+      <guid>https://www.theregister.com/security/2026/05/22/megalodon-chums-the-waters-in-55k-github-repo-poisonings/5245342</guid>
+      <pubDate>Sat, 23 May 2026 20:02:09 GMT</pubDate>
+    </item>
+    <item>
       <title>On the ‹dl›</title>
       <link>https://benmyers.dev/blog/on-the-dl/</link>
       <description>The semantics you didn’t know you needed.</description>
