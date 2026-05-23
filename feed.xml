@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>On the ‹dl›</title>
+      <link>https://benmyers.dev/blog/on-the-dl/</link>
+      <description>The semantics you didn’t know you needed.</description>
+      <category>rust</category>
+      <category>nodejs</category>
+      <category>web</category>
+      <guid>https://benmyers.dev/blog/on-the-dl/</guid>
+      <pubDate>Sat, 23 May 2026 19:02:13 GMT</pubDate>
+    </item>
+    <item>
       <title>Shipping a Laptop to a Refugee Camp in Uganda</title>
       <link>https://notesbylex.com/shipping-a-laptop-to-a-refugee-camp-in-uganda</link>
       <description>For the last few years, while finally earning my belated Bachelor's Degree in the University of London's World Class program, I've met some amazing people from all across the world, completing...</description>
@@ -261,22 +271,6 @@ a Bluetooth keyboard to use with my phone.</description>
       <category>gaming</category>
       <guid>https://www.joshwcomeau.com/email/wham-launch-005-elephant-2-p/</guid>
       <pubDate>Fri, 22 May 2026 22:02:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Neutrino Project</title>
-      <link>https://xkcd.com/3249/</link>
-      <description></description>
-      <category>javascript</category>
-      <guid>https://xkcd.com/3249/</guid>
-      <pubDate>Fri, 22 May 2026 19:02:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>How to Talk to Your Coworkers</title>
-      <link>https://idiallo.com/blog/how-to-talk-to-your-coworkers?src=feed</link>
-      <description>You know you explained the same issue before in two or three different places, yet here they are asking again. Why don't they understand you? Why do they ask the same question when you've already give</description>
-      <category>sql</category>
-      <guid>https://idiallo.com/blog/how-to-talk-to-your-coworkers?src=feed</guid>
-      <pubDate>Fri, 22 May 2026 19:02:16 GMT</pubDate>
     </item>
   </channel>
 </rss>
