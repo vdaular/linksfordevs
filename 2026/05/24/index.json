@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Declarative partial updates  |  Blog  |  Chrome for Developers",
+    "Url": "https://developer.chrome.com/blog/declarative-partial-updates",
+    "Timestamp": "2026-05-24T12:02:17",
+    "Domain": "developer.chrome.com",
+    "Description": "Learn about new out-of-order streaming capabilities and the renewed HTML insertion and streaming methods available for testing from Chrome 148"
+  },
+  {
     "Title": "wake up! 16b",
     "Url": "https://hellmood.111mb.de/wake_up_16b_writeup.html",
     "Timestamp": "2026-05-24T11:02:22",

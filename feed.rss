@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Declarative partial updates  |  Blog  |  Chrome for Developers</title>
+      <link>https://developer.chrome.com/blog/declarative-partial-updates</link>
+      <description>Learn about new out-of-order streaming capabilities and the renewed HTML insertion and streaming methods available for testing from Chrome 148</description>
+      <category>nodejs</category>
+      <category>javascript</category>
+      <category>web</category>
+      <guid>https://developer.chrome.com/blog/declarative-partial-updates</guid>
+      <pubDate>Sun, 24 May 2026 12:02:17 GMT</pubDate>
+    </item>
+    <item>
       <title>wake up! 16b</title>
       <link>https://hellmood.111mb.de/wake_up_16b_writeup.html</link>
       <description>Released at the Outline Demoparty in May 2026, Ommen, NL
