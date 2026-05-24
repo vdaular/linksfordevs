@@ -1,5 +1,181 @@
 [
   {
+    "Title": "davepeck.org",
+    "Url": "https://davepeck.org/2026/05/23/how-i-host/",
+    "Timestamp": "2026-05-24T22:03:47",
+    "Domain": "davepeck.org",
+    "Description": "Dave Peck's home on the web. Dave is an independent software developer, investor, and civic technologist.",
+    "Confidence": 0.95088834
+  },
+  {
+    "Title": "Garrett Peake",
+    "Url": "https://gpeake.com/blog/abstraction",
+    "Timestamp": "2026-05-24T22:03:43",
+    "Domain": "gpeake.com",
+    "Description": "Software engineer building things on the internet.",
+    "Confidence": 0.9673055
+  },
+  {
+    "Title": "Your Clippy Config Should Be Stricter",
+    "Url": "https://emschwartz.me/your-clippy-config-should-be-stricter/",
+    "Timestamp": "2026-05-24T22:03:40",
+    "Domain": "emschwartz.me",
+    "Description": "“If it compiles, it works.” This feeling is one of the main things Rust engineers love most about Rust, and a reason why using it with coding agents is espec...",
+    "Confidence": 0.98609203
+  },
+  {
+    "Title": "Watching for file changes on macOS",
+    "Url": "https://alexwlchan.net/2026/watch-files-on-macos/",
+    "Timestamp": "2026-05-24T22:03:37",
+    "Domain": "alexwlchan.net",
+    "Description": "I've written a Swift script that uses the FSEvents API to get notified of file changes, then I'm using stdout as a bridge to forward those notifications to Python.",
+    "Confidence": 0.9956376
+  },
+  {
+    "Title": "Why the gradient is a list of partial derivatives | Michał Prządka - Blog",
+    "Url": "https://blog.michalprzadka.com/posts/list-of-partial-derivatives/",
+    "Timestamp": "2026-05-24T22:03:32",
+    "Domain": "blog.michalprzadka.com",
+    "Description": "Building the gradient formula from scratch using a ski-slope picture, with minimal calculus assumed.",
+    "Confidence": 0.9756678
+  },
+  {
+    "Title": "Keep Your Slop to Yourself | David Gasquez",
+    "Url": "https://davidgasquez.com/keep-your-slop-to-yourself",
+    "Timestamp": "2026-05-24T22:03:29",
+    "Domain": "davidgasquez.com",
+    "Description": "David Gasquez personal website",
+    "Confidence": 0.94481814
+  },
+  {
+    "Title": "Extending MySQL with VillageSQL",
+    "Url": "https://maxdemarzi.com/2026/05/21/extending-mysql-with-villagesql/",
+    "Timestamp": "2026-05-24T22:03:25",
+    "Domain": "maxdemarzi.com",
+    "Description": "One of the things that made me fall head over heals for Neo4j so many years ago was just how extensible it was. If the database engineering team was busy rebuilding the clustering feature for the t…",
+    "Confidence": 0.99223286
+  },
+  {
+    "Title": "The Rise of the Backwards Deployed Engineer | Sagiv Ofek",
+    "Url": "https://sagivo.com/blog/the-rise-of-the-backwards-deployed-engineer",
+    "Timestamp": "2026-05-24T22:03:22",
+    "Domain": "sagivo.com",
+    "Description": "The forward deployed engineer embeds with customers to drive revenue. The backwards deployed engineer embeds inward to eliminate SaaS bloat - and might be the most leveraged role in tech right now.",
+    "Confidence": 0.9384047
+  },
+  {
+    "Title": "The tech industry as a grass fire – Writings and rehearsals by Nathan Schneider",
+    "Url": "https://nathanschneider.info/2026/05/the-tech-industry-as-a-grass-fire/",
+    "Timestamp": "2026-05-24T22:03:18",
+    "Domain": "nathanschneider.info",
+    "Description": "I have spent a lot of my career trying to envision and build better versions of the tech industry. To my face, people often say that I’m optimistic, though I suspect what they mean is that I’m engaged in an act of futility. I consider this work neither optimistic nor futile; I think of it more as a matter of persistence.",
+    "Confidence": 0.8980802
+  },
+  {
+    "Title": "Prompt engineering is dead, but Claude still tries - exe.dev blog",
+    "Url": "https://blog.exe.dev/prompt-engineering-is-dead",
+    "Timestamp": "2026-05-24T22:03:13",
+    "Domain": "blog.exe.dev",
+    "Description": "Agents have good judgment now. Delegation beats micromanagement.",
+    "Confidence": 0.988223
+  },
+  {
+    "Title": "Quiet in the Zoo | A Danver Braganza Extravaganza",
+    "Url": "https://danverbraganza.com/writings/quiet-in-the-zoo",
+    "Timestamp": "2026-05-24T22:03:10",
+    "Domain": "danverbraganza.com",
+    "Description": "A reminder (to myself, mostly) on the importance of stepping away from the agents to make time for reflection",
+    "Confidence": 0.9238176
+  },
+  {
+    "Title": "Claude doesn't know what time it is",
+    "Url": "https://blog.danielyj.com/blog/please-give-it-a-clock",
+    "Timestamp": "2026-05-24T22:03:07",
+    "Domain": "blog.danielyj.com",
+    "Description": "Gemini has a clock. ChatGPT has the date. Claude has neither, and the obvious fix isn't as obvious as it looks.",
+    "Confidence": 0.95804363
+  },
+  {
+    "Title": "agents don't actually want VMs",
+    "Url": "https://zachsmith.ai/blog/agents-dont-want-vms/",
+    "Timestamp": "2026-05-24T22:03:03",
+    "Domain": "zachsmith.ai",
+    "Description": "Every cloud provider is racing to sell agents a VM. But agents don't want a box to rent — they want a cloud to own. Here's why the next primitive is the Agent Cloud, and why Kubernetes has to be rebuilt to deliver it.",
+    "Confidence": 0.98916495
+  },
+  {
+    "Title": "I am Not a Black Belt",
+    "Url": "https://rodolphoarruda.pro.br/i-am-not-a-black-belt/",
+    "Timestamp": "2026-05-24T22:03:00",
+    "Domain": "rodolphoarruda.pro.br",
+    "Description": "I am a black belt. I am a second dan (nidan 二段) Aikido black belt with the original school of Aikido, the Aikikai foundation. I started Aikido practice in early 1997 after a holiday trip to the US. When Aikido was introduced in Brazil, it had inherited local rules from the Judo federation back then, [...]",
+    "Confidence": 0.9544747
+  },
+  {
+    "Title": "What we lost when we stopped programming",
+    "Url": "https://hermanschaaf.com/what-we-lost-when-we-stopped-programming/",
+    "Timestamp": "2026-05-24T22:02:55",
+    "Domain": "hermanschaaf.com",
+    "Description": "A personal reflection on programming after generative AI.",
+    "Confidence": 0.96629417
+  },
+  {
+    "Title": "beware of EU-washing",
+    "Url": "https://blog.avas.space/eu-washing/",
+    "Timestamp": "2026-05-24T22:02:50",
+    "Domain": "blog.avas.space",
+    "Description": "Buy from EU, but pay attention to what you buy.",
+    "Confidence": 0.8586359
+  },
+  {
+    "Title": "Bad Agent | scobt",
+    "Url": "https://scobt.com/posts/bad-agent/",
+    "Timestamp": "2026-05-24T22:02:44",
+    "Domain": "scobt.com",
+    "Description": "At work, I have this growing anxiety that one of the LLM agents I'm encouraged to use is absolutely, positively going to delete something important and irretrievable.",
+    "Confidence": 0.9470402
+  },
+  {
+    "Title": "Fork your conversations and rebase your prompts",
+    "Url": "https://fedemagnani.github.io/cs/2026/05/24/fork-your-conversations-and-rebase-your-prompts.html",
+    "Timestamp": "2026-05-24T22:02:40",
+    "Domain": "fedemagnani.github.io",
+    "Description": "One of the skillsets that the AI phenomenon has quietly boosted is the capability of explaining yourself: putting into words what you actually want, and providing methodologies that can unambiguously verify the implementation against your expectations. Turns out that if you can’t describe your intent in a way that survives a stranger reading it cold, the agent can’t either. The good news is that this skill compounds. The bad news is that most of us discover we suck at it the first time we type a prompt and the agent produces something that sounds aligned with your intent, but is fragile and full of disliked side effects. Your prompt is a lossy encoding of your intent",
+    "Confidence": 0.97541517
+  },
+  {
+    "Title": "Don't Read the Comments",
+    "Url": "https://kennethreitz.org/essays/2026-04-10-dont_read_the_comments",
+    "Timestamp": "2026-05-24T22:02:36",
+    "Domain": "kennethreitz.org",
+    "Description": "Aaron Swartz told us not to read the comments. He was right. The comment section of the early-to-mid internet was a place where nuance went to die and bad...",
+    "Confidence": 0.98257345
+  },
+  {
+    "Title": "This model is currently experiencing high demand",
+    "Url": "https://mayberay.bearblog.dev/this-model-is-currently-experiencing-high-demand/",
+    "Timestamp": "2026-05-24T22:02:33",
+    "Domain": "mayberay.bearblog.dev",
+    "Description": "Recently, I have been running into the \"This model is currently experiencing high demand\" message using the Gemini API. This is frustrating since my side-pro...",
+    "Confidence": 0.95970017
+  },
+  {
+    "Title": "Talk for Stanford's EE 292J",
+    "Url": "https://blog.dshr.org/2026/05/talk-jonathan-dotans-class.html",
+    "Timestamp": "2026-05-24T22:02:30",
+    "Domain": "blog.dshr.org",
+    "Description": "Via John Markoff, I was invited to a conversation with Jonathan Dotan and the students of his  EE292J  course entitled Designing for Authent...",
+    "Confidence": 0.68776095
+  },
+  {
+    "Title": "Codex CLI Goal Mode: Define Done, Not Next",
+    "Url": "https://blog.danielvaughan.com/codex-cli-goal-mode-define-done-not-next-c8d13213ea7c?postPublishedType=repub",
+    "Timestamp": "2026-05-24T22:02:26",
+    "Domain": "blog.danielvaughan.com",
+    "Description": "Before v0.128.0, every Codex CLI interaction ended the same way: the agent finished a turn, and you typed the next prompt. For a…",
+    "Confidence": 0.99340296
+  },
+  {
     "Title": "Reasonix — DeepSeek-native AI coding agent",
     "Url": "https://esengine.github.io/DeepSeek-Reasonix/",
     "Timestamp": "2026-05-24T20:02:17",
@@ -86,13 +262,5 @@
     "Domain": "this.weekinsecurity.com",
     "Description": "Oura users' data is not end-to-end encrypted and can be handed to the government. Will the wearable tech maker say how often it turns over data?",
     "Confidence": 0.76053
-  },
-  {
-    "Title": "Creator of C++: Bell Labs, Negative Overhead Abstraction, Mistakes | Bjarne Stroustrup",
-    "Url": "https://youtube.com/watch?v=U46fJ2bJ-co&amp;t=2780s",
-    "Timestamp": "2026-05-23T22:02:32",
-    "Domain": "youtube.com",
-    "Description": "Bjarne Stroustrup is the creator of the C++ programming language and a former researcher at Bell Labs. We talked about what Bell Labs was like, programming language design, and interesting anecdotes from his experience.\n\n• My ergonomic keyboard project I mentioned, you can follow along here: https://read.compose.llc/\n\n𝗣𝗼𝗱𝗰𝗮𝘀𝘁 𝗹𝗶𝗻𝗸𝘀:\n\n• Spotify: https://open.spotify.com/episode/52pEgoAglP6iPSNCxNeEvi?si=20L-_ZwnQyK_PzqaK0zNZQ\n• Apple: https://podcasts.apple.com/us/podcast/the-peterman-pod/id1777363835\n• Transcript: https://www.developing.dev/p/creator-of-c-bell-labs-negative-overhead\n\n𝗧𝗵𝗮𝗻𝗸 𝘆𝗼𝘂 𝘁𝗼 𝘁𝗵𝗶𝘀 𝗲𝗽𝗶𝘀𝗼𝗱𝗲'𝘀 𝘀𝗽𝗼𝗻𝘀𝗼𝗿𝘀 𝗳𝗼𝗿 𝘀𝘂𝗽𝗽𝗼𝗿𝘁𝗶𝗻𝗴 𝗺𝘆 𝘄𝗼𝗿𝗸:\n\n• Cursor 3: a unified workspace for building software with agents, check it out at https://cursor.com/\n• WorkOS: makes your app Enterprise Ready with easy to use APIs to add SSO, SCIM, RBAC, and more in just a few lines of code, check them out at https://workos.com/\n\n𝗧𝗶𝗺𝗲𝘀𝘁𝗮𝗺𝗽𝘀:\n\n0:00 - Intro\n0:50 - C++ origin story\n8:46 - What Bell Labs was like\n17:24 - Dennis Ritchie\n24:00 - When to build a programming language\n31:59 - Bootstrapping a language\n33:58 - C++ is not object-oriented\n37:32 - Discussing type systems\n46:20 - Memory safety\n49:26 - Standards committee anecdotes\n1:09:40 - C++ automatic garbage collection\n1:18:25 - Template instantiation is Turing complete\n1:21:57 - Abstraction and performance\n1:28:51 - AI writing code\n1:35:54 - His motivation\n1:39:18 - Famous quotes\n1:46:48 - C++ reflections after building\n1:49:12 - Top C++ book recommendation\n1:50:59 - Advice for his younger self\n1:58:06 - Outro\n\n𝗪𝗵𝗲𝗿𝗲 𝘁𝗼 𝗳𝗶𝗻𝗱 𝗕𝗷𝗮𝗿𝗻𝗲:\n\n• Wikipedia: https://en.wikipedia.org/wiki/Bjarne_Stroustrup\n• Personal Website: https://www.stroustrup.com/\n\n𝗪𝗵𝗲𝗿𝗲 𝘁𝗼 𝗳𝗶𝗻𝗱 𝗥𝘆𝗮𝗻:\n\n• Newsletter: https://www.developing.dev/\n• X/Twitter: https://x.com/ryanlpeterman\n• LinkedIn: https://www.linkedin.com/in/ryanlpeterman/\n• Threads: https://www.threads.com/@ryanlpeterman\n• Instagram: https://www.instagram.com/ryanlpeterman\n• TikTok: https://www.tiktok.com/@ryanlpeterman\n\n𝗥𝗲𝗳𝗲𝗿𝗲𝗻𝗰𝗲𝗱 𝗶𝗻 𝘁𝗵𝗶𝘀 𝗲𝗽𝗶𝘀𝗼𝗱𝗲:\n\n• \"A History of C++\": https://www.stroustrup.com/hopl2.pdf\n• \"Evolving a language in and for the real world\": https://www.stroustrup.com/hopl-almost-final.pdf\n• \"Thriving in a Crowded and Changing World\": https://www.open-std.org/jtc1/sc22/wg21/docs/papers/2020/p2184r0.pdf\n• The lecture where he mentioned he lost half his hair: https://youtu.be/69edOm889V4?si=IAZxYNwlUALodEV7&t=474\n• Quotes I pulled: https://www.stroustrup.com/quotes.html",
-    "Confidence": 0.99690634
   }
 ]
