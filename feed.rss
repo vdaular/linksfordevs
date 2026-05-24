@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>AI Chip Component Costs: Memory at 63% | Epoch AI</title>
+      <link>https://epoch.ai/data-insights/ai-chip-component-cost-shares</link>
+      <description>High-bandwidth memory (HBM) accounts for 63% of AI chip component costs, up from 52% in Q1 2024. Epoch AI's breakdown of component cost shifts across major chip designers.</description>
+      <author> (Venkat Somala)</author>
+      <category>ai</category>
+      <guid>https://epoch.ai/data-insights/ai-chip-component-cost-shares</guid>
+      <pubDate>Sun, 24 May 2026 23:02:02 GMT</pubDate>
+    </item>
+    <item>
       <title>davepeck.org</title>
       <link>https://davepeck.org/2026/05/23/how-i-host/</link>
       <description>Dave Peck's home on the web. Dave is an independent software developer, investor, and civic technologist.</description>
