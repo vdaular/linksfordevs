@@ -94,13 +94,5 @@
     "Domain": "www.theregister.com",
     "Description": "Will Jason Statham save us?",
     "Confidence": 0.52692497
-  },
-  {
-    "Title": "On the ‹dl›",
-    "Url": "https://benmyers.dev/blog/on-the-dl/",
-    "Timestamp": "2026-05-23T19:02:13",
-    "Domain": "benmyers.dev",
-    "Description": "The semantics you didn’t know you needed.",
-    "Confidence": 0.8752968
   }
 ]

@@ -189,15 +189,5 @@ This past year, while I was doing my best to make AWS play nice in open source c
       <guid>https://www.theregister.com/security/2026/05/22/megalodon-chums-the-waters-in-55k-github-repo-poisonings/5245342</guid>
       <pubDate>Sat, 23 May 2026 20:02:09 GMT</pubDate>
     </item>
-    <item>
-      <title>On the ‹dl›</title>
-      <link>https://benmyers.dev/blog/on-the-dl/</link>
-      <description>The semantics you didn’t know you needed.</description>
-      <category>rust</category>
-      <category>nodejs</category>
-      <category>web</category>
-      <guid>https://benmyers.dev/blog/on-the-dl/</guid>
-      <pubDate>Sat, 23 May 2026 19:02:13 GMT</pubDate>
-    </item>
   </channel>
 </rss>
