@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Reasonix — DeepSeek-native AI coding agent</title>
+      <link>https://esengine.github.io/DeepSeek-Reasonix/</link>
+      <description>Open-source AI coding agent for your terminal. Engineered around DeepSeek's prefix-cache. MCP first-class · plan mode · MIT.</description>
+      <category>git</category>
+      <category>ai</category>
+      <category>nodejs</category>
+      <category>typescript</category>
+      <category>javascript</category>
+      <guid>https://esengine.github.io/DeepSeek-Reasonix/</guid>
+      <pubDate>Sun, 24 May 2026 20:02:17 GMT</pubDate>
+    </item>
+    <item>
       <title>Why is Vivado 2026.1 Dropping Linux Support for Free Tier ?</title>
       <link>https://adaptivesupport.amd.com/s/question/0D5Pd00001YQLdMKAX/why-is-vivado-20261-dropping-linux-support-for-free-tier-?language=en_US</link>
       <description>Hello @filisavi (Member)​ ,</description>
@@ -175,19 +187,6 @@ This past year, while I was doing my best to make AWS play nice in open source c
       <category>web</category>
       <guid>https://youtube.com/watch?v=U46fJ2bJ-co&amp;amp;t=2780s</guid>
       <pubDate>Sat, 23 May 2026 22:02:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Megalodon chums the waters in 5.5K+ GitHub repo poisonings</title>
-      <link>https://www.theregister.com/security/2026/05/22/megalodon-chums-the-waters-in-55k-github-repo-poisonings/5245342</link>
-      <description>Will Jason Statham save us?</description>
-      <author> (Jessica Lyons)</author>
-      <category>nodejs</category>
-      <category>cloud</category>
-      <category>containers</category>
-      <category>encryption</category>
-      <category>ai</category>
-      <guid>https://www.theregister.com/security/2026/05/22/megalodon-chums-the-waters-in-55k-github-repo-poisonings/5245342</guid>
-      <pubDate>Sat, 23 May 2026 20:02:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
