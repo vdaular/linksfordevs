@@ -1,1 +1,16 @@
-[]
+[
+  {
+    "Title": "It's time to talk about my writerdeck",
+    "Url": "https://veronicaexplains.net/my-first-writerdeck/",
+    "Timestamp": "2026-05-24T01:02:16",
+    "Domain": "veronicaexplains.net",
+    "Description": "tldr:\n\n\n * I installed console-only Debian on an old laptop (no desktop OS at all)\n * I added some packages to make it work better for writing:\n    * network-manager for connecting to hotspots while I'm away\n    * kmscon for custom fonts and more than 16 colors in the tty\n    * tmux for a nice status"
+  },
+  {
+    "Title": "Oura says it gets government demands for user data. Will it share how many?",
+    "Url": "https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/",
+    "Timestamp": "2026-05-24T01:02:12",
+    "Domain": "this.weekinsecurity.com",
+    "Description": "Oura users' data is not end-to-end encrypted and can be handed to the government. Will the wearable tech maker say how often it turns over data?"
+  }
+]

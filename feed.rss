@@ -7,6 +7,30 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>It's time to talk about my writerdeck</title>
+      <link>https://veronicaexplains.net/my-first-writerdeck/</link>
+      <description>tldr:
+
+
+ * I installed console-only Debian on an old laptop (no desktop OS at all)
+ * I added some packages to make it work better for writing:
+    * network-manager for connecting to hotspots while I'm away
+    * kmscon for custom fonts and more than 16 colors in the tty
+    * tmux for a nice status</description>
+      <category>encryption</category>
+      <category>linux</category>
+      <category>apple</category>
+      <guid>https://veronicaexplains.net/my-first-writerdeck/</guid>
+      <pubDate>Sun, 24 May 2026 01:02:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Oura says it gets government demands for user data. Will it share how many?</title>
+      <link>https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/</link>
+      <description>Oura users' data is not end-to-end encrypted and can be handed to the government. Will the wearable tech maker say how often it turns over data?</description>
+      <guid>https://this.weekinsecurity.com/oura-says-it-gets-government-demands-for-user-data-will-it-share-how-many/</guid>
+      <pubDate>Sun, 24 May 2026 01:02:12 GMT</pubDate>
+    </item>
+    <item>
       <title>Creator of C++: Bell Labs, Negative Overhead Abstraction, Mistakes | Bjarne Stroustrup</title>
       <link>https://youtube.com/watch?v=U46fJ2bJ-co&amp;amp;t=2780s</link>
       <description>Bjarne Stroustrup is the creator of the C++ programming language and a former researcher at Bell Labs. We talked about what Bell Labs was like, programming language design, and interesting anecdotes from his experience.
