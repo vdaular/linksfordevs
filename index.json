@@ -46,13 +46,5 @@
     "Domain": "idiallo.com",
     "Description": "There he was, the man at the helm of innovation. Eric Schmidt, the former CEO of Google. The man who once said, google doesn't need to record your conversation, it already knows everything about you. ",
     "Confidence": 0.9617992
-  },
-  {
-    "Title": "Project Glasswing: An initial update",
-    "Url": "https://www.anthropic.com/research/glasswing-initial-update",
-    "Timestamp": "2026-05-23T00:02:11",
-    "Domain": "www.anthropic.com",
-    "Description": "An early update on what we've learned from Project Glasswing. ",
-    "Confidence": 0.96963555
   }
 ]
