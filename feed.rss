@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The Eternal Sloptember</title>
+      <link>https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html</link>
+      <description>I’m calling it now, the adoption of AI agents into software development will be one of the most costly mistakes in the field’s history. Agents cannot program, and it’s taking longer and longer to realize that they can’t. They are a highly sophisticated statistical model designed to mimic the distribution of programming. The output is broken, but in a way that’s getting harder and harder to detect. Which is exactly what you’d expect from an increasingly accurate statistical model.</description>
+      <category>ai</category>
+      <guid>https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html</guid>
+      <pubDate>Mon, 25 May 2026 07:02:06 GMT</pubDate>
+    </item>
+    <item>
       <title>AudioMass</title>
       <link>https://audiomass.co/?multitrack=1</link>
       <description>AudioMass is a free full-featured web-based audio &amp; waveform editing tool</description>
@@ -295,15 +303,6 @@ This past year, while I was doing my best to make AWS play nice in open source c
       <description>Rome shifts course: six Airbus A330 MRTT tanker aircraft, worth around €1.39 billion in total, to bolster the European pillar in NATO. #EuropeNews</description>
       <guid>https://www.euronews.com/my-europe/2026/05/21/italy-moves-to-airbus-a330-tankers-in-major-nato-aligned-shift</guid>
       <pubDate>Sun, 24 May 2026 08:02:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jira is Turing-Complete</title>
-      <link>https://seriot.ch/computation/jira.html</link>
-      <description>Building a Minsky Machine in Atlassian Automation
-22nd May 2026</description>
-      <category>web</category>
-      <guid>https://seriot.ch/computation/jira.html</guid>
-      <pubDate>Sun, 24 May 2026 07:02:07 GMT</pubDate>
     </item>
   </channel>
 </rss>

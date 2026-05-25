@@ -1,5 +1,13 @@
 [
   {
+    "Title": "The Eternal Sloptember",
+    "Url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
+    "Timestamp": "2026-05-25T07:02:06",
+    "Domain": "geohot.github.io",
+    "Description": "I’m calling it now, the adoption of AI agents into software development will be one of the most costly mistakes in the field’s history. Agents cannot program, and it’s taking longer and longer to realize that they can’t. They are a highly sophisticated statistical model designed to mimic the distribution of programming. The output is broken, but in a way that’s getting harder and harder to detect. Which is exactly what you’d expect from an increasingly accurate statistical model.",
+    "Confidence": 0.98430836
+  },
+  {
     "Title": "AudioMass",
     "Url": "https://audiomass.co/?multitrack=1",
     "Timestamp": "2026-05-25T05:02:26",
@@ -246,13 +254,5 @@
     "Domain": "www.euronews.com",
     "Description": "Rome shifts course: six Airbus A330 MRTT tanker aircraft, worth around €1.39 billion in total, to bolster the European pillar in NATO. #EuropeNews",
     "Confidence": 0.5268861
-  },
-  {
-    "Title": "Jira is Turing-Complete",
-    "Url": "https://seriot.ch/computation/jira.html",
-    "Timestamp": "2026-05-24T07:02:07",
-    "Domain": "seriot.ch",
-    "Description": "Building a Minsky Machine in Atlassian Automation\n22nd May 2026",
-    "Confidence": 0.9966076
   }
 ]
