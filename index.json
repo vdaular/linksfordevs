@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Encyclical Letter of His Holiness Leo XIV Magnifica Humanitas (15 May 2026)",
+    "Url": "https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html",
+    "Timestamp": "2026-05-25T14:02:08",
+    "Domain": "www.vatican.va",
+    "Description": "ENCYCLICAL LETTER MAGNIFICA HUMANITAS OF HIS HOLINESS POPE LEO XIV ON SAFEGUARDING THE HUMAN PERSON IN THE TIME OF ARTIFICIAL INTELLIGENCE [ Multimedia ] ___________________________",
+    "Confidence": 0.9388003
+  },
+  {
     "Title": "Migrating from Go to Rust | corrode Rust Consulting",
     "Url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
     "Timestamp": "2026-05-25T09:01:59",
@@ -230,13 +238,5 @@
     "Domain": "hftuniversity.com",
     "Description": "# The C++ standard library has been walking itself back for fifteen years, and the receipts are public Sandor Dargo's [post this month on `std::copyable_function`](https://www.sandordargo.com/blog/2026/05/20/cpp26-copyable-function) closes with a quick-reference table. Four call...",
     "Confidence": 0.96872234
-  },
-  {
-    "Title": "Amazon Web Services - Four Years and Out",
-    "Url": "https://www.adventuresinoss.com/aws-four-years/",
-    "Timestamp": "2026-05-24T14:02:08",
-    "Domain": "www.adventuresinoss.com",
-    "Description": "Today marks four years since I joined AWS. My last day will be Friday.\nI have to say being fired from AWS is actually a relief. There have been a lot of changes to the company since I joined in 2022, and the company I wanted to work for is no longer the same company.\nThis past year, while I was doing my best to make AWS play nice in open source communities, there were two main drivers making me unhappy with my job: organizational change and the acceleration of the focus on Generative AI.\n",
-    "Confidence": 0.93130624
   }
 ]

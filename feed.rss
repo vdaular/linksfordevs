@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Encyclical Letter of His Holiness Leo XIV Magnifica Humanitas (15 May 2026)</title>
+      <link>https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html</link>
+      <description>ENCYCLICAL LETTER MAGNIFICA HUMANITAS OF HIS HOLINESS POPE LEO XIV ON SAFEGUARDING THE HUMAN PERSON IN THE TIME OF ARTIFICIAL INTELLIGENCE [ Multimedia ] ___________________________</description>
+      <category>gaming</category>
+      <category>ai</category>
+      <guid>https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html</guid>
+      <pubDate>Mon, 25 May 2026 14:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>Migrating from Go to Rust | corrode Rust Consulting</title>
       <link>https://corrode.dev/learn/migration-guides/go-to-rust/</link>
       <description>Out of all the migrations I help teams with, Go to Rust is a bit of an outlier.
@@ -278,19 +287,6 @@ The discussion is mostly about correctness guar…</description>
       <category>javascript</category>
       <guid>https://hftuniversity.com/post/the-c-standard-library-has-been-walking-itself-back-for-fifteen-years-and-the-receipts-are-public</guid>
       <pubDate>Sun, 24 May 2026 16:02:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Amazon Web Services - Four Years and Out</title>
-      <link>https://www.adventuresinoss.com/aws-four-years/</link>
-      <description>Today marks four years since I joined AWS. My last day will be Friday.
-I have to say being fired from AWS is actually a relief. There have been a lot of changes to the company since I joined in 2022, and the company I wanted to work for is no longer the same company.
-This past year, while I was doing my best to make AWS play nice in open source communities, there were two main drivers making me unhappy with my job: organizational change and the acceleration of the focus on Generative AI.
-</description>
-      <category>cloud</category>
-      <category>encryption</category>
-      <category>ai</category>
-      <guid>https://www.adventuresinoss.com/aws-four-years/</guid>
-      <pubDate>Sun, 24 May 2026 14:02:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
