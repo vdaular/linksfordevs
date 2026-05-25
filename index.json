@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Migrating from Go to Rust | corrode Rust Consulting",
+    "Url": "https://corrode.dev/learn/migration-guides/go-to-rust/",
+    "Timestamp": "2026-05-25T09:01:59",
+    "Domain": "corrode.dev",
+    "Description": "Out of all the migrations I help teams with, Go to Rust is a bit of an outlier.\nIt’s not a question of “is Rust faster?” or “does Rust have types?”, Go already gets you most of the way there.\nThe discussion is mostly about correctness guar…",
+    "Confidence": 0.9920413
+  },
+  {
     "Title": "The Eternal Sloptember",
     "Url": "https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html",
     "Timestamp": "2026-05-25T07:02:06",

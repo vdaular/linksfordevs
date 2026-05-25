@@ -7,6 +7,20 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Migrating from Go to Rust | corrode Rust Consulting</title>
+      <link>https://corrode.dev/learn/migration-guides/go-to-rust/</link>
+      <description>Out of all the migrations I help teams with, Go to Rust is a bit of an outlier.
+It’s not a question of “is Rust faster?” or “does Rust have types?”, Go already gets you most of the way there.
+The discussion is mostly about correctness guar…</description>
+      <category>rust</category>
+      <category>vscode</category>
+      <category>javascript</category>
+      <category>ai</category>
+      <category>containers</category>
+      <guid>https://corrode.dev/learn/migration-guides/go-to-rust/</guid>
+      <pubDate>Mon, 25 May 2026 09:01:59 GMT</pubDate>
+    </item>
+    <item>
       <title>The Eternal Sloptember</title>
       <link>https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html</link>
       <description>I’m calling it now, the adoption of AI agents into software development will be one of the most costly mistakes in the field’s history. Agents cannot program, and it’s taking longer and longer to realize that they can’t. They are a highly sophisticated statistical model designed to mimic the distribution of programming. The output is broken, but in a way that’s getting harder and harder to detect. Which is exactly what you’d expect from an increasingly accurate statistical model.</description>
