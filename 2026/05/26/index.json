@@ -4,191 +4,167 @@
     "Url": "https://blog.denv.it/posts/i-was-likely-targeted-by-dprk-in-a-sophisticated-developer-malware-campaign/",
     "Timestamp": "2026-05-26T18:38:44",
     "Domain": "blog.denv.it",
-    "Description": "Posted on\nMay 25, 2026\n3144 words\n~15mins",
-    "Confidence": 0.98019725
+    "Description": "Posted on\nMay 25, 2026\n3144 words\n~15mins"
   },
   {
     "Title": "My First PyCon (2026)",
     "Url": "https://jayshah.fyi/articles/my_first_pycon_experience.html",
     "Timestamp": "2026-05-26T18:38:41",
     "Domain": "jayshah.fyi",
-    "Description": "Published: May 13, 2026",
-    "Confidence": 0.94148886
+    "Description": "Published: May 13, 2026"
   },
   {
     "Title": "Flag Design",
     "Url": "https://xkcd.com/3250/",
     "Timestamp": "2026-05-26T18:38:38",
     "Domain": "xkcd.com",
-    "Description": "",
-    "Confidence": 0.98151064
+    "Description": ""
   },
   {
     "Title": "Ugly by Design",
     "Url": "https://essenceia.github.io/thoughts/ugly_by_design/",
     "Timestamp": "2026-05-26T18:38:35",
     "Domain": "essenceia.github.io",
-    "Description": "An odd to ugly web design.",
-    "Confidence": 0.85163057
+    "Description": "An odd to ugly web design."
   },
   {
     "Title": "The social contract of writing | jola.dev",
     "Url": "https://jola.dev/posts/the-social-contract-of-writing",
     "Timestamp": "2026-05-26T18:38:31",
     "Domain": "jola.dev",
-    "Description": "About the value of genuine writing in a world being drowned in slop.",
-    "Confidence": 0.9753746
+    "Description": "About the value of genuine writing in a world being drowned in slop."
   },
   {
     "Title": "On vibe coding your infrastructure | ivan.codes",
     "Url": "https://www.ivan.codes/blog/vibe-coding-infrastructure",
     "Timestamp": "2026-05-26T18:38:28",
     "Domain": "www.ivan.codes",
-    "Description": "What happens when you point AI at your Terraform, and why infra-from-code frameworks are the structural fix.",
-    "Confidence": 0.97934383
+    "Description": "What happens when you point AI at your Terraform, and why infra-from-code frameworks are the structural fix."
   },
   {
     "Title": "The Saboteur's Guide to Software Projects",
     "Url": "https://kkovacs.eu/saboteurs-guide-to-software-projects/",
     "Timestamp": "2026-05-26T18:38:25",
     "Domain": "kkovacs.eu",
-    "Description": "One of the funniest reads for large orgs is the declassified \"Simple Sabotage Field Manual\" (1944): the CIA (then OSS) guidelines for the Resistance on underhandedly destroying productivity.\nA few years back, I took a sharpie and highlighted for a friendly client which destructive ideas (especially in chapter 11) are deeply ingrained in their corporate policies and culture. 😅\nBased on that, let me introduce the \"Saboteur's Guide to Software Projects\": a tongue-in-cheek playbook for 100% guaranteed project failure.",
-    "Confidence": 0.98952353
+    "Description": "One of the funniest reads for large orgs is the declassified \"Simple Sabotage Field Manual\" (1944): the CIA (then OSS) guidelines for the Resistance on underhandedly destroying productivity.\nA few years back, I took a sharpie and highlighted for a friendly client which destructive ideas (especially in chapter 11) are deeply ingrained in their corporate policies and culture. 😅\nBased on that, let me introduce the \"Saboteur's Guide to Software Projects\": a tongue-in-cheek playbook for 100% guaranteed project failure."
   },
   {
     "Title": "The Ask",
     "Url": "https://randsinrepose.com/archives/the-ask/",
     "Timestamp": "2026-05-26T18:38:22",
     "Domain": "randsinrepose.com",
-    "Description": "Coffee in hand, I sit down in the Cave. Any Tuesday during the work week, a sip, and I parse the calendar.\n\n\n\n1:1 — he's fine. Status meeting — listen. Staff me",
-    "Confidence": 0.9694557
+    "Description": "Coffee in hand, I sit down in the Cave. Any Tuesday during the work week, a sip, and I parse the calendar.\n\n\n\n1:1 — he's fine. Status meeting — listen. Staff me"
   },
   {
     "Title": "Don't fear the Dark Factory",
     "Url": "https://mattwynne.net/dont-fear-the-dark-factory",
     "Timestamp": "2026-05-26T18:38:18",
     "Domain": "mattwynne.net",
-    "Description": "A few months ago our boss challenged us to adopt the Dark Factory pattern for agentic software development. Inspired by the work of Justi...",
-    "Confidence": 0.98355603
+    "Description": "A few months ago our boss challenged us to adopt the Dark Factory pattern for agentic software development. Inspired by the work of Justi..."
   },
   {
     "Title": "PEEK: Give Your Agent an Orientation Cache",
     "Url": "https://zhuohangu.github.io/blog-post-peek/",
     "Timestamp": "2026-05-26T18:38:15",
     "Domain": "zhuohangu.github.io",
-    "Description": "We introduce PEEK, a system that caches reusable orientation knowledge about a recurring external context as a small, prompt-resident context map.",
-    "Confidence": 0.96680015
+    "Description": "We introduce PEEK, a system that caches reusable orientation knowledge about a recurring external context as a small, prompt-resident context map."
   },
   {
     "Title": "Fully in-browser container builds",
     "Url": "https://ochagavia.nl/blog/fully-in-browser-container-builds/",
     "Timestamp": "2026-05-26T18:38:11",
     "Domain": "ochagavia.nl",
-    "Description": "Containers are fun. The ecosystem is incredibly open, with the internals right there for anyone to explore. Once you wrap your head around the specifications, you unlock the power to build custom tools and may even discover unexpected use cases1. Speaking of “unexpected use cases”, today I have a demo to share: a web application that builds containers right in your browser, relying only on client-side code.\nTry it out Seeing is believing, so why don’t you head to the demo and build a container?",
-    "Confidence": 0.9850301
+    "Description": "Containers are fun. The ecosystem is incredibly open, with the internals right there for anyone to explore. Once you wrap your head around the specifications, you unlock the power to build custom tools and may even discover unexpected use cases1. Speaking of “unexpected use cases”, today I have a demo to share: a web application that builds containers right in your browser, relying only on client-side code.\nTry it out Seeing is believing, so why don’t you head to the demo and build a container?"
   },
   {
     "Title": "May 24 | amor fati",
     "Url": "https://www.sashankaryal.com/posts/2026-05/24",
     "Timestamp": "2026-05-26T18:38:08",
     "Domain": "www.sashankaryal.com",
-    "Description": "a blog",
-    "Confidence": 0.9018793
+    "Description": "a blog"
   },
   {
     "Title": "Monads are Easy",
     "Url": "https://krishna.github.io/posts/monads-are-easy/",
     "Timestamp": "2026-05-26T18:38:05",
     "Domain": "krishna.github.io",
-    "Description": "Monads don't have to be mysterious. Using a book warehouse analogy, this post explains what a monad is, what flatMap does, and how to spot one in the wild.",
-    "Confidence": 0.9954937
+    "Description": "Monads don't have to be mysterious. Using a book warehouse analogy, this post explains what a monad is, what flatMap does, and how to spot one in the wild."
   },
   {
     "Title": "How an e-reader became my favorite web browser",
     "Url": "https://alexandrevicente.net/posts/2026/05/25/how-an-e-reader-became-my-favorite-web-browser",
     "Timestamp": "2026-05-26T18:38:02",
     "Domain": "alexandrevicente.net",
-    "Description": "Turns out the web can still be something more enjoyable than a bunch of engagement-farming walled gardens.",
-    "Confidence": 0.97742534
+    "Description": "Turns out the web can still be something more enjoyable than a bunch of engagement-farming walled gardens."
   },
   {
     "Title": "So, Where Does Next-Token Prediction Leave Us?",
     "Url": "https://pop.rdi.sh/where-does-next-token-prediction-leave-us/",
     "Timestamp": "2026-05-26T18:37:58",
     "Domain": "pop.rdi.sh",
-    "Description": "Your favourite ROP gadget",
-    "Confidence": 0.929933
+    "Description": "Your favourite ROP gadget"
   },
   {
     "Title": "Model Provider Variance in Structured Extraction",
     "Url": "https://guilhermesfc.com/provider-variance-structured-extraction.html",
     "Timestamp": "2026-05-26T18:37:54",
     "Domain": "guilhermesfc.com",
-    "Description": "A technical note on OpenRouter model provider variance in structured extraction workloads.",
-    "Confidence": 0.9754164
+    "Description": "A technical note on OpenRouter model provider variance in structured extraction workloads."
   },
   {
     "Title": "You Need a PC for PC Games: Sunsoft's Shanghai",
     "Url": "https://nicole.express/2026/the-other-type-of-mahjong.html",
     "Timestamp": "2026-05-26T18:37:50",
     "Domain": "nicole.express",
-    "Description": "There’s a problem with my current series on mahjong games– when I say “mahjong”, people in my home country of the United States of America probably don’t thi...",
-    "Confidence": 0.99155444
+    "Description": "There’s a problem with my current series on mahjong games– when I say “mahjong”, people in my home country of the United States of America probably don’t thi..."
   },
   {
     "Title": "Amber Alert with Spam URL?",
     "Url": "https://idiallo.com/byte-size/amber-alert-with-spam-link?src=feed",
     "Timestamp": "2026-05-26T18:37:45",
     "Domain": "idiallo.com",
-    "Description": "I received an amber alert, but the link seems to redirect to a spam page. Important services need to be fault tolerant. The shorted link needs to be tested.",
-    "Confidence": 0.9235381
+    "Description": "I received an amber alert, but the link seems to redirect to a spam page. Important services need to be fault tolerant. The shorted link needs to be tested."
   },
   {
     "Title": "Blog - Airistotle",
     "Url": "https://blog.airistotle.org/vibe-learning",
     "Timestamp": "2026-05-26T18:37:41",
     "Domain": "blog.airistotle.org",
-    "Description": "Before recently, tech debt was the main form of time plague that tormented development projects. The ever-tempting sacrifice of a functional, but imperfect, “temporary” implementation to the dark lord in exchange for some free time now; a simple equation that has forever haunted the codebases of hobbyists and professional software engineers alike.",
-    "Confidence": 0.9654545
+    "Description": "Before recently, tech debt was the main form of time plague that tormented development projects. The ever-tempting sacrifice of a functional, but imperfect, “temporary” implementation to the dark lord in exchange for some free time now; a simple equation that has forever haunted the codebases of hobbyists and professional software engineers alike."
   },
   {
     "Title": "Building a Design System from scratch - The Blog of Maxime Heckel",
     "Url": "https://blog.maximeheckel.com/posts/building-a-design-system-from-scratch/",
     "Timestamp": "2026-05-26T18:37:38",
     "Domain": "blog.maximeheckel.com",
-    "Description": "A deep dive into my experience building my own design system that documents my process of defining tokens, creating efficient components, and shipping them as a package.",
-    "Confidence": 0.99280155
+    "Description": "A deep dive into my experience building my own design system that documents my process of defining tokens, creating efficient components, and shipping them as a package."
   },
   {
     "Title": "On-premises for legal is not a good business",
     "Url": "https://robertkarl.net/blog/2026/May/25/on-premises-for-legal-is-not-a-good-business.html",
     "Timestamp": "2026-05-26T18:37:35",
     "Domain": "robertkarl.net",
-    "Description": "Invalidating a business idea in three weeks of market research",
-    "Confidence": 0.8832732
+    "Description": "Invalidating a business idea in three weeks of market research"
   },
   {
     "Title": "Why Ctrl+V won’t paste images in Claude Code on WSL, with a fix",
     "Url": "https://rajveerbachkaniwala.com/blog/2026/05/24/on-the-difficulty-of-pasting-a-picture/",
     "Timestamp": "2026-05-26T18:37:32",
     "Domain": "rajveerbachkaniwala.com",
-    "Description": "Three small problems pile up between the Windows clipboard and Claude Code. Each one is harmless alone. Together they make image paste fail completely. Here’s what’s happening and how to fix it.",
-    "Confidence": 0.99051535
+    "Description": "Three small problems pile up between the Windows clipboard and Claude Code. Each one is harmless alone. Together they make image paste fail completely. Here’s what’s happening and how to fix it."
   },
   {
     "Title": "What Are Atoms Made Of?",
     "Url": "https://johncarlosbaez.wordpress.com/2026/05/24/what-are-atoms-made-of/",
     "Timestamp": "2026-05-26T18:37:29",
     "Domain": "johncarlosbaez.wordpress.com",
-    "Description": "This post starts with the the slides of an elementary talk I gave at Sloans Bar and Grill, in Glasgow, as part of a wonderful series called A Pint of Science. At the end I include some fascinating …",
-    "Confidence": 0.846782
+    "Description": "This post starts with the the slides of an elementary talk I gave at Sloans Bar and Grill, in Glasgow, as part of a wonderful series called A Pint of Science. At the end I include some fascinating …"
   },
   {
     "Title": "The generation vs verification delta explains why LLM's are useful",
     "Url": "https://simianwords.bearblog.dev/the-generation-vs-verification-delta-explains-why-llms-are-useful/",
     "Timestamp": "2026-05-26T18:37:26",
     "Domain": "simianwords.bearblog.dev",
-    "Description": "Ever heard that you still need to verify what an LLM says so it implies that LLMs are as good as useless? I always felt that it was a lazy argument. I gave t...",
-    "Confidence": 0.9875732
+    "Description": "Ever heard that you still need to verify what an LLM says so it implies that LLMs are as good as useless? I always felt that it was a lazy argument. I gave t..."
   }
 ]

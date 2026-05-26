@@ -7,274 +7,225 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
-      <title>Six search engines worth trying now that Google isn’t really Google anymore | TechCrunch</title>
-      <link>https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/</link>
-      <description>Google is about to look really different, and if you're not a fan of the AI overview feature, then you're not going to like what's coming.</description>
-      <category>ai</category>
-      <guid>https://techcrunch.com/2026/05/21/six-search-engines-worth-trying-now-that-google-isnt-really-google-anymore/</guid>
-      <pubDate>Mon, 25 May 2026 15:02:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Encyclical Letter of His Holiness Leo XIV Magnifica Humanitas (15 May 2026)</title>
-      <link>https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html</link>
-      <description>ENCYCLICAL LETTER MAGNIFICA HUMANITAS OF HIS HOLINESS POPE LEO XIV ON SAFEGUARDING THE HUMAN PERSON IN THE TIME OF ARTIFICIAL INTELLIGENCE [ Multimedia ] ___________________________</description>
-      <category>gaming</category>
-      <category>ai</category>
-      <guid>https://www.vatican.va/content/leo-xiv/en/encyclicals/documents/20260515-magnifica-humanitas.html</guid>
-      <pubDate>Mon, 25 May 2026 14:02:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Migrating from Go to Rust | corrode Rust Consulting</title>
-      <link>https://corrode.dev/learn/migration-guides/go-to-rust/</link>
-      <description>Out of all the migrations I help teams with, Go to Rust is a bit of an outlier.
-It’s not a question of “is Rust faster?” or “does Rust have types?”, Go already gets you most of the way there.
-The discussion is mostly about correctness guar…</description>
-      <category>rust</category>
+      <title>I was likely targeted by DPRK in a sophisticated developer malware campaign</title>
+      <link>https://blog.denv.it/posts/i-was-likely-targeted-by-dprk-in-a-sophisticated-developer-malware-campaign/</link>
+      <description>Posted on
+May 25, 2026
+3144 words
+~15mins</description>
       <category>vscode</category>
-      <category>javascript</category>
-      <category>ai</category>
-      <category>containers</category>
-      <guid>https://corrode.dev/learn/migration-guides/go-to-rust/</guid>
-      <pubDate>Mon, 25 May 2026 09:01:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Eternal Sloptember</title>
-      <link>https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html</link>
-      <description>I’m calling it now, the adoption of AI agents into software development will be one of the most costly mistakes in the field’s history. Agents cannot program, and it’s taking longer and longer to realize that they can’t. They are a highly sophisticated statistical model designed to mimic the distribution of programming. The output is broken, but in a way that’s getting harder and harder to detect. Which is exactly what you’d expect from an increasingly accurate statistical model.</description>
-      <category>ai</category>
-      <guid>https://geohot.github.io//blog/jekyll/update/2026/05/24/the-eternal-sloptember.html</guid>
-      <pubDate>Mon, 25 May 2026 07:02:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>AudioMass</title>
-      <link>https://audiomass.co/?multitrack=1</link>
-      <description>AudioMass is a free full-featured web-based audio &amp; waveform editing tool</description>
-      <guid>https://audiomass.co/?multitrack=1</guid>
-      <pubDate>Mon, 25 May 2026 05:02:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI Chip Component Costs: Memory at 63% | Epoch AI</title>
-      <link>https://epoch.ai/data-insights/ai-chip-component-cost-shares</link>
-      <description>High-bandwidth memory (HBM) accounts for 63% of AI chip component costs, up from 52% in Q1 2024. Epoch AI's breakdown of component cost shifts across major chip designers.</description>
-      <author> (Venkat Somala)</author>
-      <category>ai</category>
-      <guid>https://epoch.ai/data-insights/ai-chip-component-cost-shares</guid>
-      <pubDate>Sun, 24 May 2026 23:02:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>davepeck.org</title>
-      <link>https://davepeck.org/2026/05/23/how-i-host/</link>
-      <description>Dave Peck's home on the web. Dave is an independent software developer, investor, and civic technologist.</description>
-      <category>linux</category>
-      <category>cloud</category>
-      <category>containers</category>
-      <guid>https://davepeck.org/2026/05/23/how-i-host/</guid>
-      <pubDate>Sun, 24 May 2026 22:03:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Garrett Peake</title>
-      <link>https://gpeake.com/blog/abstraction</link>
-      <description>Software engineer building things on the internet.</description>
-      <category>ai</category>
-      <guid>https://gpeake.com/blog/abstraction</guid>
-      <pubDate>Sun, 24 May 2026 22:03:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Your Clippy Config Should Be Stricter</title>
-      <link>https://emschwartz.me/your-clippy-config-should-be-stricter/</link>
-      <description>“If it compiles, it works.” This feeling is one of the main things Rust engineers love most about Rust, and a reason why using it with coding agents is espec...</description>
-      <category>rust</category>
-      <category>vscode</category>
-      <guid>https://emschwartz.me/your-clippy-config-should-be-stricter/</guid>
-      <pubDate>Sun, 24 May 2026 22:03:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Watching for file changes on macOS</title>
-      <link>https://alexwlchan.net/2026/watch-files-on-macos/</link>
-      <description>I've written a Swift script that uses the FSEvents API to get notified of file changes, then I'm using stdout as a bridge to forward those notifications to Python.</description>
-      <category>python</category>
-      <category>apple</category>
-      <guid>https://alexwlchan.net/2026/watch-files-on-macos/</guid>
-      <pubDate>Sun, 24 May 2026 22:03:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why the gradient is a list of partial derivatives | Michał Prządka - Blog</title>
-      <link>https://blog.michalprzadka.com/posts/list-of-partial-derivatives/</link>
-      <description>Building the gradient formula from scratch using a ski-slope picture, with minimal calculus assumed.</description>
-      <guid>https://blog.michalprzadka.com/posts/list-of-partial-derivatives/</guid>
-      <pubDate>Sun, 24 May 2026 22:03:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Keep Your Slop to Yourself | David Gasquez</title>
-      <link>https://davidgasquez.com/keep-your-slop-to-yourself</link>
-      <description>David Gasquez personal website</description>
-      <category>ai</category>
-      <guid>https://davidgasquez.com/keep-your-slop-to-yourself</guid>
-      <pubDate>Sun, 24 May 2026 22:03:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Extending MySQL with VillageSQL</title>
-      <link>https://maxdemarzi.com/2026/05/21/extending-mysql-with-villagesql/</link>
-      <description>One of the things that made me fall head over heals for Neo4j so many years ago was just how extensible it was. If the database engineering team was busy rebuilding the clustering feature for the t…</description>
-      <category>cloud</category>
-      <category>sql</category>
+      <category>conference</category>
       <category>visualstudio</category>
-      <category>vscode</category>
-      <category>ai</category>
-      <guid>https://maxdemarzi.com/2026/05/21/extending-mysql-with-villagesql/</guid>
-      <pubDate>Sun, 24 May 2026 22:03:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Rise of the Backwards Deployed Engineer | Sagiv Ofek</title>
-      <link>https://sagivo.com/blog/the-rise-of-the-backwards-deployed-engineer</link>
-      <description>The forward deployed engineer embeds with customers to drive revenue. The backwards deployed engineer embeds inward to eliminate SaaS bloat - and might be the most leveraged role in tech right now.</description>
-      <category>ai</category>
-      <category>sql</category>
-      <guid>https://sagivo.com/blog/the-rise-of-the-backwards-deployed-engineer</guid>
-      <pubDate>Sun, 24 May 2026 22:03:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>The tech industry as a grass fire – Writings and rehearsals by Nathan Schneider</title>
-      <link>https://nathanschneider.info/2026/05/the-tech-industry-as-a-grass-fire/</link>
-      <description>I have spent a lot of my career trying to envision and build better versions of the tech industry. To my face, people often say that I’m optimistic, though I suspect what they mean is that I’m engaged in an act of futility. I consider this work neither optimistic nor futile; I think of it more as a matter of persistence.</description>
-      <category>ai</category>
-      <guid>https://nathanschneider.info/2026/05/the-tech-industry-as-a-grass-fire/</guid>
-      <pubDate>Sun, 24 May 2026 22:03:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Prompt engineering is dead, but Claude still tries - exe.dev blog</title>
-      <link>https://blog.exe.dev/prompt-engineering-is-dead</link>
-      <description>Agents have good judgment now. Delegation beats micromanagement.</description>
-      <author> (Josh Bleecher Snyder)</author>
-      <category>ai</category>
-      <category>sql</category>
+      <category>linux</category>
       <category>git</category>
-      <category>gaming</category>
-      <guid>https://blog.exe.dev/prompt-engineering-is-dead</guid>
-      <pubDate>Sun, 24 May 2026 22:03:13 GMT</pubDate>
+      <guid>https://blog.denv.it/posts/i-was-likely-targeted-by-dprk-in-a-sophisticated-developer-malware-campaign/</guid>
+      <pubDate>Tue, 26 May 2026 18:38:44 GMT</pubDate>
     </item>
     <item>
-      <title>Quiet in the Zoo | A Danver Braganza Extravaganza</title>
-      <link>https://danverbraganza.com/writings/quiet-in-the-zoo</link>
-      <description>A reminder (to myself, mostly) on the importance of stepping away from the agents to make time for reflection</description>
-      <category>ai</category>
-      <guid>https://danverbraganza.com/writings/quiet-in-the-zoo</guid>
-      <pubDate>Sun, 24 May 2026 22:03:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude doesn't know what time it is</title>
-      <link>https://blog.danielyj.com/blog/please-give-it-a-clock</link>
-      <description>Gemini has a clock. ChatGPT has the date. Claude has neither, and the obvious fix isn't as obvious as it looks.</description>
-      <author> (Daniel Jeong)</author>
-      <category>ai</category>
-      <guid>https://blog.danielyj.com/blog/please-give-it-a-clock</guid>
-      <pubDate>Sun, 24 May 2026 22:03:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>agents don't actually want VMs</title>
-      <link>https://zachsmith.ai/blog/agents-dont-want-vms/</link>
-      <description>Every cloud provider is racing to sell agents a VM. But agents don't want a box to rent — they want a cloud to own. Here's why the next primitive is the Agent Cloud, and why Kubernetes has to be rebuilt to deliver it.</description>
-      <category>cloud</category>
-      <category>containers</category>
-      <category>nodejs</category>
-      <category>ai</category>
-      <guid>https://zachsmith.ai/blog/agents-dont-want-vms/</guid>
-      <pubDate>Sun, 24 May 2026 22:03:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>I am Not a Black Belt</title>
-      <link>https://rodolphoarruda.pro.br/i-am-not-a-black-belt/</link>
-      <description>I am a black belt. I am a second dan (nidan 二段) Aikido black belt with the original school of Aikido, the Aikikai foundation. I started Aikido practice in early 1997 after a holiday trip to the US. When Aikido was introduced in Brazil, it had inherited local rules from the Judo federation back then, [...]</description>
-      <author> (https://rodolphoarruda.pro.br/author/rodolpho/)</author>
-      <category>ai</category>
-      <guid>https://rodolphoarruda.pro.br/i-am-not-a-black-belt/</guid>
-      <pubDate>Sun, 24 May 2026 22:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>What we lost when we stopped programming</title>
-      <link>https://hermanschaaf.com/what-we-lost-when-we-stopped-programming/</link>
-      <description>A personal reflection on programming after generative AI.</description>
-      <category>ai</category>
-      <category>rust</category>
-      <guid>https://hermanschaaf.com/what-we-lost-when-we-stopped-programming/</guid>
-      <pubDate>Sun, 24 May 2026 22:02:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>beware of EU-washing</title>
-      <link>https://blog.avas.space/eu-washing/</link>
-      <description>Buy from EU, but pay attention to what you buy.</description>
-      <category>cloud</category>
-      <guid>https://blog.avas.space/eu-washing/</guid>
-      <pubDate>Sun, 24 May 2026 22:02:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bad Agent | scobt</title>
-      <link>https://scobt.com/posts/bad-agent/</link>
-      <description>At work, I have this growing anxiety that one of the LLM agents I'm encouraged to use is absolutely, positively going to delete something important and irretrievable.</description>
-      <category>ai</category>
-      <category>typescript</category>
-      <category>sql</category>
-      <category>javascript</category>
-      <guid>https://scobt.com/posts/bad-agent/</guid>
-      <pubDate>Sun, 24 May 2026 22:02:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fork your conversations and rebase your prompts</title>
-      <link>https://fedemagnani.github.io/cs/2026/05/24/fork-your-conversations-and-rebase-your-prompts.html</link>
-      <description>One of the skillsets that the AI phenomenon has quietly boosted is the capability of explaining yourself: putting into words what you actually want, and providing methodologies that can unambiguously verify the implementation against your expectations. Turns out that if you can’t describe your intent in a way that survives a stranger reading it cold, the agent can’t either. The good news is that this skill compounds. The bad news is that most of us discover we suck at it the first time we type a prompt and the agent produces something that sounds aligned with your intent, but is fragile and full of disliked side effects. Your prompt is a lossy encoding of your intent</description>
-      <category>ai</category>
-      <category>vscode</category>
-      <guid>https://fedemagnani.github.io/cs/2026/05/24/fork-your-conversations-and-rebase-your-prompts.html</guid>
-      <pubDate>Sun, 24 May 2026 22:02:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Don't Read the Comments</title>
-      <link>https://kennethreitz.org/essays/2026-04-10-dont_read_the_comments</link>
-      <description>Aaron Swartz told us not to read the comments. He was right. The comment section of the early-to-mid internet was a place where nuance went to die and bad...</description>
+      <title>My First PyCon (2026)</title>
+      <link>https://jayshah.fyi/articles/my_first_pycon_experience.html</link>
+      <description>Published: May 13, 2026</description>
       <category>python</category>
-      <guid>https://kennethreitz.org/essays/2026-04-10-dont_read_the_comments</guid>
-      <pubDate>Sun, 24 May 2026 22:02:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>This model is currently experiencing high demand</title>
-      <link>https://mayberay.bearblog.dev/this-model-is-currently-experiencing-high-demand/</link>
-      <description>Recently, I have been running into the "This model is currently experiencing high demand" message using the Gemini API. This is frustrating since my side-pro...</description>
       <category>ai</category>
-      <guid>https://mayberay.bearblog.dev/this-model-is-currently-experiencing-high-demand/</guid>
-      <pubDate>Sun, 24 May 2026 22:02:33 GMT</pubDate>
+      <category>gaming</category>
+      <guid>https://jayshah.fyi/articles/my_first_pycon_experience.html</guid>
+      <pubDate>Tue, 26 May 2026 18:38:41 GMT</pubDate>
     </item>
     <item>
-      <title>Talk for Stanford's EE 292J</title>
-      <link>https://blog.dshr.org/2026/05/talk-jonathan-dotans-class.html</link>
-      <description>Via John Markoff, I was invited to a conversation with Jonathan Dotan and the students of his  EE292J  course entitled Designing for Authent...</description>
+      <title>Flag Design</title>
+      <link>https://xkcd.com/3250/</link>
+      <description></description>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3250/</guid>
+      <pubDate>Tue, 26 May 2026 18:38:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ugly by Design</title>
+      <link>https://essenceia.github.io/thoughts/ugly_by_design/</link>
+      <description>An odd to ugly web design.</description>
       <category>ai</category>
-      <guid>https://blog.dshr.org/2026/05/talk-jonathan-dotans-class.html</guid>
-      <pubDate>Sun, 24 May 2026 22:02:30 GMT</pubDate>
+      <category>javascript</category>
+      <guid>https://essenceia.github.io/thoughts/ugly_by_design/</guid>
+      <pubDate>Tue, 26 May 2026 18:38:35 GMT</pubDate>
     </item>
     <item>
-      <title>Codex CLI Goal Mode: Define Done, Not Next</title>
-      <link>https://blog.danielvaughan.com/codex-cli-goal-mode-define-done-not-next-c8d13213ea7c?postPublishedType=repub</link>
-      <description>Before v0.128.0, every Codex CLI interaction ended the same way: the agent finished a turn, and you typed the next prompt. For a…</description>
-      <author> (https://blog.danielvaughan.com)</author>
-      <category>nodejs</category>
-      <category>encryption</category>
+      <title>The social contract of writing | jola.dev</title>
+      <link>https://jola.dev/posts/the-social-contract-of-writing</link>
+      <description>About the value of genuine writing in a world being drowned in slop.</description>
+      <author> (https://jola.dev/about)</author>
+      <category>ai</category>
+      <guid>https://jola.dev/posts/the-social-contract-of-writing</guid>
+      <pubDate>Tue, 26 May 2026 18:38:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>On vibe coding your infrastructure | ivan.codes</title>
+      <link>https://www.ivan.codes/blog/vibe-coding-infrastructure</link>
+      <description>What happens when you point AI at your Terraform, and why infra-from-code frameworks are the structural fix.</description>
+      <category>typescript</category>
+      <category>cloud</category>
+      <category>sql</category>
+      <category>ai</category>
+      <guid>https://www.ivan.codes/blog/vibe-coding-infrastructure</guid>
+      <pubDate>Tue, 26 May 2026 18:38:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Saboteur's Guide to Software Projects</title>
+      <link>https://kkovacs.eu/saboteurs-guide-to-software-projects/</link>
+      <description>One of the funniest reads for large orgs is the declassified "Simple Sabotage Field Manual" (1944): the CIA (then OSS) guidelines for the Resistance on underhandedly destroying productivity.
+A few years back, I took a sharpie and highlighted for a friendly client which destructive ideas (especially in chapter 11) are deeply ingrained in their corporate policies and culture. 😅
+Based on that, let me introduce the "Saboteur's Guide to Software Projects": a tongue-in-cheek playbook for 100% guaranteed project failure.</description>
+      <guid>https://kkovacs.eu/saboteurs-guide-to-software-projects/</guid>
+      <pubDate>Tue, 26 May 2026 18:38:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Ask</title>
+      <link>https://randsinrepose.com/archives/the-ask/</link>
+      <description>Coffee in hand, I sit down in the Cave. Any Tuesday during the work week, a sip, and I parse the calendar.
+
+
+
+1:1 — he's fine. Status meeting — listen. Staff me</description>
+      <guid>https://randsinrepose.com/archives/the-ask/</guid>
+      <pubDate>Tue, 26 May 2026 18:38:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Don't fear the Dark Factory</title>
+      <link>https://mattwynne.net/dont-fear-the-dark-factory</link>
+      <description>A few months ago our boss challenged us to adopt the Dark Factory pattern for agentic software development. Inspired by the work of Justi...</description>
+      <category>ai</category>
+      <guid>https://mattwynne.net/dont-fear-the-dark-factory</guid>
+      <pubDate>Tue, 26 May 2026 18:38:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>PEEK: Give Your Agent an Orientation Cache</title>
+      <link>https://zhuohangu.github.io/blog-post-peek/</link>
+      <description>We introduce PEEK, a system that caches reusable orientation knowledge about a recurring external context as a small, prompt-resident context map.</description>
+      <category>ai</category>
       <category>vscode</category>
-      <category>git</category>
-      <category>containers</category>
-      <guid>https://blog.danielvaughan.com/codex-cli-goal-mode-define-done-not-next-c8d13213ea7c?postPublishedType=repub</guid>
-      <pubDate>Sun, 24 May 2026 22:02:26 GMT</pubDate>
+      <guid>https://zhuohangu.github.io/blog-post-peek/</guid>
+      <pubDate>Tue, 26 May 2026 18:38:15 GMT</pubDate>
     </item>
     <item>
-      <title>Reasonix — DeepSeek-native AI coding agent</title>
-      <link>https://esengine.github.io/DeepSeek-Reasonix/</link>
-      <description>Open-source AI coding agent for your terminal. Engineered around DeepSeek's prefix-cache. MCP first-class · plan mode · MIT.</description>
-      <category>git</category>
+      <title>Fully in-browser container builds</title>
+      <link>https://ochagavia.nl/blog/fully-in-browser-container-builds/</link>
+      <description>Containers are fun. The ecosystem is incredibly open, with the internals right there for anyone to explore. Once you wrap your head around the specifications, you unlock the power to build custom tools and may even discover unexpected use cases1. Speaking of “unexpected use cases”, today I have a demo to share: a web application that builds containers right in your browser, relying only on client-side code.
+Try it out Seeing is believing, so why don’t you head to the demo and build a container?</description>
+      <category>containers</category>
+      <guid>https://ochagavia.nl/blog/fully-in-browser-container-builds/</guid>
+      <pubDate>Tue, 26 May 2026 18:38:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>May 24 | amor fati</title>
+      <link>https://www.sashankaryal.com/posts/2026-05/24</link>
+      <description>a blog</description>
+      <guid>https://www.sashankaryal.com/posts/2026-05/24</guid>
+      <pubDate>Tue, 26 May 2026 18:38:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Monads are Easy</title>
+      <link>https://krishna.github.io/posts/monads-are-easy/</link>
+      <description>Monads don't have to be mysterious. Using a book warehouse analogy, this post explains what a monad is, what flatMap does, and how to spot one in the wild.</description>
+      <category>javascript</category>
+      <category>sql</category>
+      <guid>https://krishna.github.io/posts/monads-are-easy/</guid>
+      <pubDate>Tue, 26 May 2026 18:38:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>How an e-reader became my favorite web browser</title>
+      <link>https://alexandrevicente.net/posts/2026/05/25/how-an-e-reader-became-my-favorite-web-browser</link>
+      <description>Turns out the web can still be something more enjoyable than a bunch of engagement-farming walled gardens.</description>
+      <category>web</category>
+      <guid>https://alexandrevicente.net/posts/2026/05/25/how-an-e-reader-became-my-favorite-web-browser</guid>
+      <pubDate>Tue, 26 May 2026 18:38:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>So, Where Does Next-Token Prediction Leave Us?</title>
+      <link>https://pop.rdi.sh/where-does-next-token-prediction-leave-us/</link>
+      <description>Your favourite ROP gadget</description>
       <category>ai</category>
+      <category>encryption</category>
       <category>nodejs</category>
+      <guid>https://pop.rdi.sh/where-does-next-token-prediction-leave-us/</guid>
+      <pubDate>Tue, 26 May 2026 18:37:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Model Provider Variance in Structured Extraction</title>
+      <link>https://guilhermesfc.com/provider-variance-structured-extraction.html</link>
+      <description>A technical note on OpenRouter model provider variance in structured extraction workloads.</description>
+      <category>ai</category>
+      <guid>https://guilhermesfc.com/provider-variance-structured-extraction.html</guid>
+      <pubDate>Tue, 26 May 2026 18:37:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>You Need a PC for PC Games: Sunsoft's Shanghai</title>
+      <link>https://nicole.express/2026/the-other-type-of-mahjong.html</link>
+      <description>There’s a problem with my current series on mahjong games– when I say “mahjong”, people in my home country of the United States of America probably don’t thi...</description>
+      <category>android</category>
+      <category>gaming</category>
+      <guid>https://nicole.express/2026/the-other-type-of-mahjong.html</guid>
+      <pubDate>Tue, 26 May 2026 18:37:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Amber Alert with Spam URL?</title>
+      <link>https://idiallo.com/byte-size/amber-alert-with-spam-link?src=feed</link>
+      <description>I received an amber alert, but the link seems to redirect to a spam page. Important services need to be fault tolerant. The shorted link needs to be tested.</description>
+      <category>android</category>
+      <guid>https://idiallo.com/byte-size/amber-alert-with-spam-link?src=feed</guid>
+      <pubDate>Tue, 26 May 2026 18:37:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Blog - Airistotle</title>
+      <link>https://blog.airistotle.org/vibe-learning</link>
+      <description>Before recently, tech debt was the main form of time plague that tormented development projects. The ever-tempting sacrifice of a functional, but imperfect, “temporary” implementation to the dark lord in exchange for some free time now; a simple equation that has forever haunted the codebases of hobbyists and professional software engineers alike.</description>
+      <category>ai</category>
+      <guid>https://blog.airistotle.org/vibe-learning</guid>
+      <pubDate>Tue, 26 May 2026 18:37:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>Building a Design System from scratch - The Blog of Maxime Heckel</title>
+      <link>https://blog.maximeheckel.com/posts/building-a-design-system-from-scratch/</link>
+      <description>A deep dive into my experience building my own design system that documents my process of defining tokens, creating efficient components, and shipping them as a package.</description>
+      <category>web</category>
       <category>typescript</category>
       <category>javascript</category>
-      <guid>https://esengine.github.io/DeepSeek-Reasonix/</guid>
-      <pubDate>Sun, 24 May 2026 20:02:17 GMT</pubDate>
+      <category>nodejs</category>
+      <guid>https://blog.maximeheckel.com/posts/building-a-design-system-from-scratch/</guid>
+      <pubDate>Tue, 26 May 2026 18:37:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>On-premises for legal is not a good business</title>
+      <link>https://robertkarl.net/blog/2026/May/25/on-premises-for-legal-is-not-a-good-business.html</link>
+      <description>Invalidating a business idea in three weeks of market research</description>
+      <category>ai</category>
+      <guid>https://robertkarl.net/blog/2026/May/25/on-premises-for-legal-is-not-a-good-business.html</guid>
+      <pubDate>Tue, 26 May 2026 18:37:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why Ctrl+V won’t paste images in Claude Code on WSL, with a fix</title>
+      <link>https://rajveerbachkaniwala.com/blog/2026/05/24/on-the-difficulty-of-pasting-a-picture/</link>
+      <description>Three small problems pile up between the Windows clipboard and Claude Code. Each one is harmless alone. Together they make image paste fail completely. Here’s what’s happening and how to fix it.</description>
+      <category>ai</category>
+      <category>linux</category>
+      <category>javascript</category>
+      <category>git</category>
+      <category>web</category>
+      <guid>https://rajveerbachkaniwala.com/blog/2026/05/24/on-the-difficulty-of-pasting-a-picture/</guid>
+      <pubDate>Tue, 26 May 2026 18:37:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>What Are Atoms Made Of?</title>
+      <link>https://johncarlosbaez.wordpress.com/2026/05/24/what-are-atoms-made-of/</link>
+      <description>This post starts with the the slides of an elementary talk I gave at Sloans Bar and Grill, in Glasgow, as part of a wonderful series called A Pint of Science. At the end I include some fascinating …</description>
+      <guid>https://johncarlosbaez.wordpress.com/2026/05/24/what-are-atoms-made-of/</guid>
+      <pubDate>Tue, 26 May 2026 18:37:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>The generation vs verification delta explains why LLM's are useful</title>
+      <link>https://simianwords.bearblog.dev/the-generation-vs-verification-delta-explains-why-llms-are-useful/</link>
+      <description>Ever heard that you still need to verify what an LLM says so it implies that LLMs are as good as useless? I always felt that it was a lazy argument. I gave t...</description>
+      <category>ai</category>
+      <guid>https://simianwords.bearblog.dev/the-generation-vs-verification-delta-explains-why-llms-are-useful/</guid>
+      <pubDate>Tue, 26 May 2026 18:37:26 GMT</pubDate>
     </item>
   </channel>
 </rss>
