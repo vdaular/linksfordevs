@@ -1,5 +1,181 @@
 [
   {
+    "Title": "I Vibe-Coded SwiperTab While Watching TV",
+    "Url": "https://marindedic.com/swipertab/",
+    "Timestamp": "2026-05-27T22:05:02",
+    "Domain": "marindedic.com",
+    "Description": "Building SwiperTab (a browser extension) without manually writing a single line of code",
+    "Confidence": 0.9818679
+  },
+  {
+    "Title": "Automating ADHD | 0xFF",
+    "Url": "https://0xff.nu/automating-adhd/",
+    "Timestamp": "2026-05-27T22:04:58",
+    "Domain": "0xff.nu",
+    "Description": "Important",
+    "Confidence": 0.97363234
+  },
+  {
+    "Title": "Search engine results are truly terrible (Maurycy's blog)",
+    "Url": "https://maurycyz.com/misc/search/",
+    "Timestamp": "2026-05-27T22:04:53",
+    "Domain": "maurycyz.com",
+    "Description": "A few months ago, I had the displeasure of trying to use the modern web without an ad-blocker.",
+    "Confidence": 0.9615587
+  },
+  {
+    "Title": "Linux was accidentally designed for agents",
+    "Url": "https://danieldelaney.net/fourth-era/",
+    "Timestamp": "2026-05-27T22:04:49",
+    "Domain": "danieldelaney.net",
+    "Description": "Beautiful, human-centered design isn’t appreciated by an agent.",
+    "Confidence": 0.9907729
+  },
+  {
+    "Title": "I had Codex iterate on its own AGENTS.md 8 times and measured each version against real PRs. The best one still regressed on a clean holdout.",
+    "Url": "https://www.stet.sh/blog/how-i-used-codex-to-improve-its-own-agents-md",
+    "Timestamp": "2026-05-27T22:04:45",
+    "Domain": "www.stet.sh",
+    "Description": "Codex optimized its own AGENTS.md against real Stet repo tasks. The best candidate improved the training slice, then regressed enough on a clean holdout that it was not safe to ship.",
+    "Confidence": 0.9768468
+  },
+  {
+    "Title": "The Untold Story About W Social: Unconventional Beginnings, Strategic Pitches and Conflicting Signals",
+    "Url": "https://blog.elenarossini.com/the-untold-story-about-w-social-unconventional-beginnings-strategic-pitches-conflicting-signals/",
+    "Timestamp": "2026-05-27T22:04:42",
+    "Domain": "blog.elenarossini.com",
+    "Description": "A deep dive into the origin story of W Social, an analysis of the strategic arguments they have been using to appeal to government officials, media companies and advertisers... and the discussion of conflicting signals they have been sending",
+    "Confidence": 0.86603785
+  },
+  {
+    "Title": "Avoid Hasty Caching",
+    "Url": "https://www.jakeworth.com/posts/avoid-hasty-caching/",
+    "Timestamp": "2026-05-27T22:04:38",
+    "Domain": "www.jakeworth.com",
+    "Description": "Approach caching with caution.",
+    "Confidence": 0.99719936
+  },
+  {
+    "Title": "Where are those goalposts? I’m sure I put them here somewhere",
+    "Url": "https://nickdrozd.github.io/2026/05/26/goalposts-math.html",
+    "Timestamp": "2026-05-27T22:04:35",
+    "Domain": "nickdrozd.github.io",
+    "Description": "It’s been a few months since I personally ran out of places to move the AI goalposts to. And the news keeps coming. An internal model from OpenAI just refuted a long-standing mathematical conjecture. For the first time, AI has produced an indisputably novel and significant piece of mathematical knowledge. Several years ago, a lot of people would have said, yes, this is definitely intelligence. But now that it has happened, the goalposts need to get moved. Where to?",
+    "Confidence": 0.9357394
+  },
+  {
+    "Title": "One million beings",
+    "Url": "https://sub.davidoreilly.com/p/one-million-beings",
+    "Timestamp": "2026-05-27T22:04:31",
+    "Domain": "sub.davidoreilly.com",
+    "Description": "It’s been a while.",
+    "Confidence": 0.83184594
+  },
+  {
+    "Title": "How to Weigh a Cell",
+    "Url": "https://burrito.bio/essays/how-to-weigh-a-cell",
+    "Timestamp": "2026-05-27T22:04:27",
+    "Domain": "burrito.bio",
+    "Description": "A single yeast cell weighs about one million times less than a grain of sand. How do we know this?",
+    "Confidence": 0.8767378
+  },
+  {
+    "Title": "Why I Write | Hacky Experiments",
+    "Url": "https://www.hackyexperiments.com/blog/why-i-write",
+    "Timestamp": "2026-05-27T22:04:23",
+    "Domain": "www.hackyexperiments.com",
+    "Description": "I used to write for myself, but am doing it increasingly more for the machines.",
+    "Confidence": 0.97692686
+  },
+  {
+    "Title": "Your Skills Folder Is a Junk Drawer",
+    "Url": "https://james-pritchard.com/blog/skills-junk-drawer",
+    "Timestamp": "2026-05-27T22:04:19",
+    "Domain": "james-pritchard.com",
+    "Description": "Most skills shouldn't exist. The energy the community is pouring into building and collecting them is mostly wasted.",
+    "Confidence": 0.98770595
+  },
+  {
+    "Title": "My Deaf Experience in Japan",
+    "Url": "https://www.tokyodev.com/articles/my-deaf-experience-in-japan",
+    "Timestamp": "2026-05-27T22:04:16",
+    "Domain": "www.tokyodev.com",
+    "Description": "Living with deafness in Japan for nearly 20 years — navigating work, communication, accessibility, and daily life as a deaf resident.",
+    "Confidence": 0.95352143
+  },
+  {
+    "Title": "Time Machine Conversation",
+    "Url": "https://xkcd.com/3251/",
+    "Timestamp": "2026-05-27T22:04:12",
+    "Domain": "xkcd.com",
+    "Description": "",
+    "Confidence": 0.98151064
+  },
+  {
+    "Title": "Improving AI labels for viewers and creators",
+    "Url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
+    "Timestamp": "2026-05-27T22:04:09",
+    "Domain": "blog.youtube",
+    "Description": "We've heard consistently from our community that they value transparency when it comes to generative AI content. Two new updates will make this process much simpler and more intuitive for creators and viewers on YouTube.",
+    "Confidence": 0.9730079
+  },
+  {
+    "Title": "Using My Fucking Brain",
+    "Url": "https://terriblesoftware.org/2026/05/27/using-my-fucking-brain/",
+    "Timestamp": "2026-05-27T22:04:06",
+    "Domain": "terriblesoftware.org",
+    "Description": "AI is great when it extends your brain. It gets dangerous when it quietly replaces the part that was supposed to think.",
+    "Confidence": 0.9806426
+  },
+  {
+    "Title": "Show Me Less Output",
+    "Url": "https://blog.yqiao.me/2026/05/show-me-less-output.html",
+    "Timestamp": "2026-05-27T22:04:02",
+    "Domain": "blog.yqiao.me",
+    "Description": "The last time I saw someone showing off AI-generated reports, trying to present it as something insightful and helpful, I was really  annoye...",
+    "Confidence": 0.89054996
+  },
+  {
+    "Title": "Getting Claude to extract data from a 1997 football manager game",
+    "Url": "https://bennuttall.com/blog/2026/04/fsm97/",
+    "Timestamp": "2026-05-27T22:03:59",
+    "Domain": "bennuttall.com",
+    "Description": "There's a football manager game I got for my birthday when I was nine years old: FIFA Soccer Manager 97. I spent countless hours playing it as a child, trying to win the league, the cup or just avoid getting the sack! Two years later I got a newer manager game with better graphics and more...",
+    "Confidence": 0.9260833
+  },
+  {
+    "Title": "The Best Engineers Write Less Code",
+    "Url": "https://shvetsm.github.io/posts/the-best-engineers-write-less-code/",
+    "Timestamp": "2026-05-27T22:03:54",
+    "Domain": "shvetsm.github.io",
+    "Description": "We are living in an age of mass denial. Some very smart people are telling us that we no longer need to write good software because LLMs can generate code now. But terrible software is still terrible software, whether it was written by Claude Code or by a human who did not know what they were doing. The computers running it are still real. Latency is still real. Complexity is still real. Maintenance is still real. All the old rules still apply. There is going to be an enormous amount of work fixing the slop now being pushed into production. But I digress.",
+    "Confidence": 0.9918971
+  },
+  {
+    "Title": "An Engineering Leader’s Playbook for Delivering High Ambiguity and Rapidly Changing Product",
+    "Url": "https://prabhatkjha.com/leadership/execution/2026/05/24/Delivering-Under-High-Uncertainty.html",
+    "Timestamp": "2026-05-27T22:03:51",
+    "Domain": "prabhatkjha.com",
+    "Description": "A couple of weeks ago I gave an internal talk at IBM to the next batch of soon to be distinguished engineers. Distinguished engineer designation at IBM a highly coveted recognition. This blog is a brief summary of that hour long talk.",
+    "Confidence": 0.98476326
+  },
+  {
+    "Title": "Running llama.cpp on a Mac Pro 6,1 with Dual FirePro D700s on Ubuntu",
+    "Url": "https://matthewgribben.com/blog/mac-pro-6-1-llama-cpp-firepro-d700-vulkan-ubuntu",
+    "Timestamp": "2026-05-27T22:03:48",
+    "Domain": "matthewgribben.com",
+    "Description": "A D700-specific guide to running llama.cpp with Vulkan on the 2013 Mac Pro: dual 6 GB FirePro cards, Ubuntu, RADV, full GPU offload, cooling, and the traps that make old GCN hardware look slower than it is.",
+    "Confidence": 0.9961443
+  },
+  {
+    "Title": "Whistle",
+    "Url": "https://abson.bearblog.dev/whistle/",
+    "Timestamp": "2026-05-27T22:03:42",
+    "Domain": "abson.bearblog.dev",
+    "Description": "I just realized people don’t whistle anymore.\n\nI might even say they’ve forgotten about it.\nEven worse, if they hear someone whistling, they’ll probably b...",
+    "Confidence": 0.79857135
+  },
+  {
     "Title": "I think Anthropic and OpenAI have found product-market fit",
     "Url": "https://simonwillison.net/2026/May/27/product-market-fit/",
     "Timestamp": "2026-05-27T20:02:06",
@@ -270,13 +446,5 @@
     "Domain": "matthiasott.com",
     "Description": "Web design engineer, UX designer, teacher, and speaker – helping teams build websites and digital products with a focus on CSS, accessibility, and performance.",
     "Confidence": 0.93503606
-  },
-  {
-    "Title": "1980s: Learning To Code Back in the '80s!",
-    "Url": "https://youtube.com/watch?v=vEAjtOI-Oaw",
-    "Timestamp": "2026-05-26T22:02:01",
-    "Domain": "youtube.com",
-    "Description": "Dave explains the challenges and benefits of learning to code back in the 80s, and what we can learn from it today!",
-    "Confidence": 0.9830617
   }
 ]
