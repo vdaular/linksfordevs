@@ -7,6 +7,39 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>How Private Equity Bought America’s Essential Services</title>
+      <link>https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/</link>
+      <description>When a fire truck fails to deploy in a burning building and four people die, the cause isn’t just mechanical failure. It’s a business model.</description>
+      <guid>https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/</guid>
+      <pubDate>Wed, 27 May 2026 16:02:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cloudflare Flagship</title>
+      <link>https://developers.cloudflare.com/flagship/</link>
+      <description>Ship features safely with Flagship, Cloudflare's feature flag service for controlling feature visibility without redeploying code.</description>
+      <category>nodejs</category>
+      <category>javascript</category>
+      <guid>https://developers.cloudflare.com/flagship/</guid>
+      <pubDate>Wed, 27 May 2026 13:02:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>I’m tired of talking to AI</title>
+      <link>https://orchidfiles.com/im-tired-of-ai-generated-answers/</link>
+      <description>I found GitHub repositories that were spreading malware. I asked AI what to do about it, but it gave me nothing useful. So I opened a discussion on GitHub. Someone replied. It was the exact same text the AI had given me. I called it out and the comment was</description>
+      <category>ai</category>
+      <guid>https://orchidfiles.com/im-tired-of-ai-generated-answers/</guid>
+      <pubDate>Wed, 27 May 2026 13:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>The pressure</title>
+      <link>https://daniel.haxx.se/blog/2026/05/26/the-pressure/</link>
+      <description>I'm doing Open Source primarily because I love it. The social aspects, the for-the-good angle and for the challenge of engineering this to work for everyone. I also do it because it is my full-time job and getting food on the table and provide for my family is not unimportant. It may come as a … Continue reading The pressure →</description>
+      <author> (https://daniel.haxx.se/blog/author/daniel/)</author>
+      <category>gaming</category>
+      <guid>https://daniel.haxx.se/blog/2026/05/26/the-pressure/</guid>
+      <pubDate>Wed, 27 May 2026 11:02:22 GMT</pubDate>
+    </item>
+    <item>
       <title>That Methyl Methacrylate Tank</title>
       <link>https://www.science.org/content/blog-post/methyl-methacrylate-tank</link>
       <description></description>
@@ -274,7 +307,7 @@ It caught my eye because it felt weirdly alive. There was a specific, imperfect 
 May 25, 2026
 3144 words
 ~15mins</description>
-      <category>vscode</category>
+      <category>ides</category>
       <category>conference</category>
       <category>visualstudio</category>
       <category>linux</category>
@@ -296,6 +329,7 @@ May 25, 2026
       <title>Flag Design</title>
       <link>https://xkcd.com/3250/</link>
       <description></description>
+      <category>apple</category>
       <category>javascript</category>
       <guid>https://xkcd.com/3250/</guid>
       <pubDate>Tue, 26 May 2026 18:38:38 GMT</pubDate>
@@ -362,7 +396,7 @@ Based on that, let me introduce the "Saboteur's Guide to Software Projects": a t
       <link>https://zhuohangu.github.io/blog-post-peek/</link>
       <description>We introduce PEEK, a system that caches reusable orientation knowledge about a recurring external context as a small, prompt-resident context map.</description>
       <category>ai</category>
-      <category>vscode</category>
+      <category>ides</category>
       <guid>https://zhuohangu.github.io/blog-post-peek/</guid>
       <pubDate>Tue, 26 May 2026 18:38:15 GMT</pubDate>
     </item>
@@ -423,6 +457,7 @@ Try it out Seeing is believing, so why don’t you head to the demo and build a 
       <description>There’s a problem with my current series on mahjong games– when I say “mahjong”, people in my home country of the United States of America probably don’t thi...</description>
       <category>android</category>
       <category>gaming</category>
+      <category>apple</category>
       <guid>https://nicole.express/2026/the-other-type-of-mahjong.html</guid>
       <pubDate>Tue, 26 May 2026 18:37:50 GMT</pubDate>
     </item>
