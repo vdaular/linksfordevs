@@ -1,5 +1,13 @@
 [
   {
+    "Title": "I patched iozone for better disk benchmarks on modern macOS",
+    "Url": "https://www.jeffgeerling.com/blog/2026/i-patched-iozone-for-better-disk-benchmarks-on-modern-macos/",
+    "Timestamp": "2026-05-27T02:02:16",
+    "Domain": "www.jeffgeerling.com",
+    "Description": "A decade ago, I settled on iozone for disk benchmarking on all my systems. Tools like fio ('Flexible IO' tester) are a little more capable for raw disk performance testing, and other tools test network-scale filesystems better, but iozone gives me an easy overview of real-world disk performance across hard drives and SSDs, and runs on Mac, Windows, and Linux (and a smattering of other OSes).\nIt's been around since 1991, and is still updated today—in fact, the two latest updates (version 509 and 510) contain patches I sent in to get iozone to compile on Apple Silicon Macs running newer releases of macOS.",
+    "Confidence": 0.963166
+  },
+  {
     "Title": "How Many Tokens Did You Burn Today",
     "Url": "https://idiallo.com/blog/how-many-tokens-did-you-burn-today?src=feed",
     "Timestamp": "2026-05-27T01:02:16",

@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>I patched iozone for better disk benchmarks on modern macOS</title>
+      <link>https://www.jeffgeerling.com/blog/2026/i-patched-iozone-for-better-disk-benchmarks-on-modern-macos/</link>
+      <description>A decade ago, I settled on iozone for disk benchmarking on all my systems. Tools like fio ('Flexible IO' tester) are a little more capable for raw disk performance testing, and other tools test network-scale filesystems better, but iozone gives me an easy overview of real-world disk performance across hard drives and SSDs, and runs on Mac, Windows, and Linux (and a smattering of other OSes).
+It's been around since 1991, and is still updated today—in fact, the two latest updates (version 509 and 510) contain patches I sent in to get iozone to compile on Apple Silicon Macs running newer releases of macOS.</description>
+      <category>apple</category>
+      <category>linux</category>
+      <guid>https://www.jeffgeerling.com/blog/2026/i-patched-iozone-for-better-disk-benchmarks-on-modern-macos/</guid>
+      <pubDate>Wed, 27 May 2026 02:02:16 GMT</pubDate>
+    </item>
+    <item>
       <title>How Many Tokens Did You Burn Today</title>
       <link>https://idiallo.com/blog/how-many-tokens-did-you-burn-today?src=feed</link>
       <description>Early in my career, a manager at one of the big firms where I worked made a request so absurd it remains etched in my memory. I walked back to the team, repeated what he had asked, and couldn't finish</description>
