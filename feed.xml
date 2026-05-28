@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>What Apple and Google are doing to your push notifications | Jacques Corby-Tuech</title>
+      <link>https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications</link>
+      <description>I wrote recently about what Google, Yahoo, Microsoft, and Apple are doing to your email: how four providers stopped being transport layers and turned into active intermediaries between brands and their customers, parsing, ranking, summarising, and increasingly answering on the recipient's behalf.</description>
+      <category>android</category>
+      <category>apple</category>
+      <category>git</category>
+      <category>conference</category>
+      <category>ai</category>
+      <guid>https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications</guid>
+      <pubDate>Thu, 28 May 2026 08:01:56 GMT</pubDate>
+    </item>
+    <item>
       <title>Can we have the day off?</title>
       <link>https://mlsu.io/posts/day-off/</link>
       <description>So, apparently we are at the cusp of the entire world’s white collar workforce (and, by extension, much of the US workforce) undergoing a revolution in productivity. AI is the technology that is going to revolutionize the way we work, the way we interact with the world, the way we learn, the way we socialize, and all of this. This sounds great. Really, it does. Everything getting faster and easier would be an extraordinary boon to all of our lives.</description>
