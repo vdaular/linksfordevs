@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Hallucinate - Massively Multiplayer Online Rave",
+    "Url": "https://hallucinate.site/",
+    "Timestamp": "2026-05-28T13:02:28",
+    "Domain": "hallucinate.site",
+    "Description": "78hair color",
+    "Confidence": 0.5805532
+  },
+  {
     "Title": "What Apple and Google are doing to your push notifications | Jacques Corby-Tuech",
     "Url": "https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications",
     "Timestamp": "2026-05-28T08:01:56",
@@ -230,21 +238,5 @@
     "Domain": "rubbishtalk.com",
     "Description": "When a fire truck fails to deploy in a burning building and four people die, the cause isn’t just mechanical failure. It’s a business model.",
     "Confidence": 0.5678566
-  },
-  {
-    "Title": "Cloudflare Flagship",
-    "Url": "https://developers.cloudflare.com/flagship/",
-    "Timestamp": "2026-05-27T13:02:30",
-    "Domain": "developers.cloudflare.com",
-    "Description": "Ship features safely with Flagship, Cloudflare's feature flag service for controlling feature visibility without redeploying code.",
-    "Confidence": 0.99844325
-  },
-  {
-    "Title": "I’m tired of talking to AI",
-    "Url": "https://orchidfiles.com/im-tired-of-ai-generated-answers/",
-    "Timestamp": "2026-05-27T13:02:27",
-    "Domain": "orchidfiles.com",
-    "Description": "I found GitHub repositories that were spreading malware. I asked AI what to do about it, but it gave me nothing useful. So I opened a discussion on GitHub. Someone replied. It was the exact same text the AI had given me. I called it out and the comment was",
-    "Confidence": 0.95553905
   }
 ]
