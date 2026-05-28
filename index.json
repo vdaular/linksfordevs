@@ -246,13 +246,5 @@
     "Domain": "abson.bearblog.dev",
     "Description": "I just realized people don’t whistle anymore.\n\nI might even say they’ve forgotten about it.\nEven worse, if they hear someone whistling, they’ll probably b...",
     "Confidence": 0.79857135
-  },
-  {
-    "Title": "I think Anthropic and OpenAI have found product-market fit",
-    "Url": "https://simonwillison.net/2026/May/27/product-market-fit/",
-    "Timestamp": "2026-05-27T20:02:06",
-    "Domain": "simonwillison.net",
-    "Description": "Anthropic are strongly rumored to be about to have their first profitable quarter. Stories are circulating of companies surprised at how expensive their LLM bills are becoming from usage by …",
-    "Confidence": 0.8865986
   }
 ]
