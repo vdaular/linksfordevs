@@ -7,6 +7,23 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>AMD Pulls a Bait-and-Switch on Linux Users with Vivado Licensing Changes</title>
+      <link>https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/</link>
+      <description>Tells Linux users to either pay up or get stuck on an aging, unsupported version forever.</description>
+      <category>linux</category>
+      <guid>https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/</guid>
+      <pubDate>Thu, 28 May 2026 16:02:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Autism Works - Neurodiversity in the Workplace</title>
+      <link>https://youtube.com/watch?v=kLcpCqLwNU8</link>
+      <description>Dave explains the benefits and responsibilities of autism in the workforce, with a focus on industrial scenarios.</description>
+      <author> (Dave's Garage)</author>
+      <category>youtube</category>
+      <guid>https://youtube.com/watch?v=kLcpCqLwNU8</guid>
+      <pubDate>Thu, 28 May 2026 16:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>Beyond Benchmarks: Frontier LLM Disagreement on Fact-Checks</title>
       <link>https://lenz.io/research/llm-disagreement</link>
       <description>67% of real-world claims expose disagreement among the five top frontier LLMs. Methodology, breakdowns, and data CSV.</description>
@@ -283,13 +300,6 @@ Even worse, if they hear someone whistling, they’ll probably b...</description
       <description>Today, Last.fm begins a new chapter as an independent company. Ownership has changed,  but the product you use every day has not.  Your account, your listening history, and your data remain exactly where they are. The team  building Last.fm is the same. The service continues as normal.  What stays the same  Your account and scrobbles Your data and privacy settings Your Pro subscription and billing (if you're a member) The people behind the product  We'll share more about what comes next in the w...</description>
       <guid>https://support.last.fm/t/last-fm-is-now-independent/118591</guid>
       <pubDate>Wed, 27 May 2026 18:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>How Private Equity Bought America’s Essential Services</title>
-      <link>https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/</link>
-      <description>When a fire truck fails to deploy in a burning building and four people die, the cause isn’t just mechanical failure. It’s a business model.</description>
-      <guid>https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/</guid>
-      <pubDate>Wed, 27 May 2026 16:02:22 GMT</pubDate>
     </item>
   </channel>
 </rss>

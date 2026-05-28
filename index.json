@@ -1,5 +1,21 @@
 [
   {
+    "Title": "AMD Pulls a Bait-and-Switch on Linux Users with Vivado Licensing Changes",
+    "Url": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
+    "Timestamp": "2026-05-28T16:02:16",
+    "Domain": "itsfoss.com",
+    "Description": "Tells Linux users to either pay up or get stuck on an aging, unsupported version forever.",
+    "Confidence": 0.5715982
+  },
+  {
+    "Title": "Autism Works - Neurodiversity in the Workplace",
+    "Url": "https://youtube.com/watch?v=kLcpCqLwNU8",
+    "Timestamp": "2026-05-28T16:02:08",
+    "Domain": "youtube.com",
+    "Description": "Dave explains the benefits and responsibilities of autism in the workforce, with a focus on industrial scenarios.",
+    "Confidence": 0.67001134
+  },
+  {
     "Title": "Beyond Benchmarks: Frontier LLM Disagreement on Fact-Checks",
     "Url": "https://lenz.io/research/llm-disagreement",
     "Timestamp": "2026-05-28T15:02:32",
@@ -246,13 +262,5 @@
     "Domain": "support.last.fm",
     "Description": "Today, Last.fm begins a new chapter as an independent company. Ownership has changed,  but the product you use every day has not.  Your account, your listening history, and your data remain exactly where they are. The team  building Last.fm is the same. The service continues as normal.  What stays the same  Your account and scrobbles Your data and privacy settings Your Pro subscription and billing (if you're a member) The people behind the product  We'll share more about what comes next in the w...",
     "Confidence": 0.9882676
-  },
-  {
-    "Title": "How Private Equity Bought America’s Essential Services",
-    "Url": "https://rubbishtalk.com/economy/how-private-equity-bought-americas-essential-services/",
-    "Timestamp": "2026-05-27T16:02:22",
-    "Domain": "rubbishtalk.com",
-    "Description": "When a fire truck fails to deploy in a burning building and four people die, the cause isn’t just mechanical failure. It’s a business model.",
-    "Confidence": 0.5678566
   }
 ]
