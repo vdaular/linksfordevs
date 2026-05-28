@@ -7,6 +7,26 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Beyond Benchmarks: Frontier LLM Disagreement on Fact-Checks</title>
+      <link>https://lenz.io/research/llm-disagreement</link>
+      <description>67% of real-world claims expose disagreement among the five top frontier LLMs. Methodology, breakdowns, and data CSV.</description>
+      <category>ai</category>
+      <category>ides</category>
+      <category>git</category>
+      <guid>https://lenz.io/research/llm-disagreement</guid>
+      <pubDate>Thu, 28 May 2026 15:02:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tuning in FM Radio on a 3D Printer Heatbed</title>
+      <link>https://www.jeffgeerling.com/blog/2026/tuning-in-fm-radio-on-a-3d-printer-heatbed/</link>
+      <description>Pooch from Repkord dropped by my studio while he was in St. Louis, and asked a simple question:
+Can a 3D printer's heatbed act as an antenna?
+A fair question, as many an antenna is embedded in a PCB these days... and the traces on a PCB heatbed like the one used in Prusa's Core One look kinda like an antenna, if you squint the right way.
+Really, anything (or anyone) can be an antenna, given enough power.</description>
+      <guid>https://www.jeffgeerling.com/blog/2026/tuning-in-fm-radio-on-a-3d-printer-heatbed/</guid>
+      <pubDate>Thu, 28 May 2026 15:02:28 GMT</pubDate>
+    </item>
+    <item>
       <title>Hallucinate - Massively Multiplayer Online Rave</title>
       <link>https://hallucinate.site/</link>
       <description>78hair color</description>
