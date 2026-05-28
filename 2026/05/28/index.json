@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Introducing Claude Opus 4.8",
+    "Url": "https://www.anthropic.com/news/claude-opus-4-8",
+    "Timestamp": "2026-05-28T18:02:29",
+    "Domain": "www.anthropic.com",
+    "Description": "Our latest model, Claude Opus 4.8, is an upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work."
+  },
+  {
     "Title": "AMD Pulls a Bait-and-Switch on Linux Users with Vivado Licensing Changes",
     "Url": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
     "Timestamp": "2026-05-28T16:02:16",

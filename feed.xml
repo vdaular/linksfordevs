@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Introducing Claude Opus 4.8</title>
+      <link>https://www.anthropic.com/news/claude-opus-4-8</link>
+      <description>Our latest model, Claude Opus 4.8, is an upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work.</description>
+      <category>rust</category>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://www.anthropic.com/news/claude-opus-4-8</guid>
+      <pubDate>Thu, 28 May 2026 18:02:29 GMT</pubDate>
+    </item>
+    <item>
       <title>AMD Pulls a Bait-and-Switch on Linux Users with Vivado Licensing Changes</title>
       <link>https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/</link>
       <description>Tells Linux users to either pay up or get stuck on an aging, unsupported version forever.</description>
@@ -293,13 +303,6 @@ Even worse, if they hear someone whistling, they’ll probably b...</description
       <category>gaming</category>
       <guid>https://www.pcgamer.com/hardware/duckduckgos-ai-free-search-saw-nearly-28-percent-more-visits-in-the-week-following-googles-insistence-that-people-love-ai-mode/</guid>
       <pubDate>Wed, 27 May 2026 19:02:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Last.fm is now independent - Announcements - Last.fm Support Community</title>
-      <link>https://support.last.fm/t/last-fm-is-now-independent/118591</link>
-      <description>Today, Last.fm begins a new chapter as an independent company. Ownership has changed,  but the product you use every day has not.  Your account, your listening history, and your data remain exactly where they are. The team  building Last.fm is the same. The service continues as normal.  What stays the same  Your account and scrobbles Your data and privacy settings Your Pro subscription and billing (if you're a member) The people behind the product  We'll share more about what comes next in the w...</description>
-      <guid>https://support.last.fm/t/last-fm-is-now-independent/118591</guid>
-      <pubDate>Wed, 27 May 2026 18:02:14 GMT</pubDate>
     </item>
   </channel>
 </rss>

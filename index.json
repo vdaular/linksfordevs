@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Introducing Claude Opus 4.8",
+    "Url": "https://www.anthropic.com/news/claude-opus-4-8",
+    "Timestamp": "2026-05-28T18:02:29",
+    "Domain": "www.anthropic.com",
+    "Description": "Our latest model, Claude Opus 4.8, is an upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work.",
+    "Confidence": 0.9718649
+  },
+  {
     "Title": "AMD Pulls a Bait-and-Switch on Linux Users with Vivado Licensing Changes",
     "Url": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
     "Timestamp": "2026-05-28T16:02:16",
@@ -254,13 +262,5 @@
     "Domain": "www.pcgamer.com",
     "Description": "\"People just want a choice.\"",
     "Confidence": 0.96144265
-  },
-  {
-    "Title": "Last.fm is now independent - Announcements - Last.fm Support Community",
-    "Url": "https://support.last.fm/t/last-fm-is-now-independent/118591",
-    "Timestamp": "2026-05-27T18:02:14",
-    "Domain": "support.last.fm",
-    "Description": "Today, Last.fm begins a new chapter as an independent company. Ownership has changed,  but the product you use every day has not.  Your account, your listening history, and your data remain exactly where they are. The team  building Last.fm is the same. The service continues as normal.  What stays the same  Your account and scrobbles Your data and privacy settings Your Pro subscription and billing (if you're a member) The people behind the product  We'll share more about what comes next in the w...",
-    "Confidence": 0.9882676
   }
 ]
