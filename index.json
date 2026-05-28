@@ -246,13 +246,5 @@
     "Domain": "orchidfiles.com",
     "Description": "I found GitHub repositories that were spreading malware. I asked AI what to do about it, but it gave me nothing useful. So I opened a discussion on GitHub. Someone replied. It was the exact same text the AI had given me. I called it out and the comment was",
     "Confidence": 0.95553905
-  },
-  {
-    "Title": "The pressure",
-    "Url": "https://daniel.haxx.se/blog/2026/05/26/the-pressure/",
-    "Timestamp": "2026-05-27T11:02:22",
-    "Domain": "daniel.haxx.se",
-    "Description": "I'm doing Open Source primarily because I love it. The social aspects, the for-the-good angle and for the challenge of engineering this to work for everyone. I also do it because it is my full-time job and getting food on the table and provide for my family is not unimportant. It may come as a … Continue reading The pressure →",
-    "Confidence": 0.9650646
   }
 ]
