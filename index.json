@@ -1,5 +1,173 @@
 [
   {
+    "Title": "How others build agent memory, and what I took from each | Falconer Notes",
+    "Url": "https://falconer.com/notes/how-others-build-agent-memory/",
+    "Timestamp": "2026-05-28T22:03:37",
+    "Domain": "falconer.com",
+    "Description": "ChatGPT, Claude Code, and Letta have each built production memory systems for AI agents. Looking at the differences shaped how I built agent signals for Falconer.",
+    "Confidence": 0.9699534
+  },
+  {
+    "Title": "Moving from Bitwarden to Proton Pass",
+    "Url": "https://rewiring.bearblog.dev/moving-from-bitwarden-to-proton-pass/",
+    "Timestamp": "2026-05-28T22:03:34",
+    "Domain": "rewiring.bearblog.dev",
+    "Description": "Now that my photos and emails have been relocated to Europe, it's time to move my credentials too.\n\nBitwarden has been my password manager for many years. ...",
+    "Confidence": 0.9895729
+  },
+  {
+    "Title": "GenZ Neoengineers",
+    "Url": "https://lukaswerner.com/post/2026-05-27@genz-neoengineer",
+    "Timestamp": "2026-05-28T22:03:31",
+    "Domain": "lukaswerner.com",
+    "Description": "I’ve started to notice a trend in some of the students I have met through university, a handful that have decided to get really good at software engineering. It is almost hard to describe, but these students have a degree of confidence in their work that reminds me of some of the great software engineers.",
+    "Confidence": 0.9399899
+  },
+  {
+    "Title": "Things I Think I Think... about Coding Agents and IDEs",
+    "Url": "https://blogs.newardassociates.com/blog/2026/titit-agents-as-ides.html",
+    "Timestamp": "2026-05-28T22:03:27",
+    "Domain": "blogs.newardassociates.com",
+    "Description": "Mulling out loud (and defending) why I think coding agents are here to stay, just as IDEs came to be as well.",
+    "Confidence": 0.9495054
+  },
+  {
+    "Title": "Embeddings: LLM's best kept secret?",
+    "Url": "https://matthew-johnston.com/embeddings-llm-best-kept-secret/",
+    "Timestamp": "2026-05-28T22:03:23",
+    "Domain": "matthew-johnston.com",
+    "Description": "Combining LLMs with traditional AI to solve new problems in minutes for pennies\n\n",
+    "Confidence": 0.9630579
+  },
+  {
+    "Title": "Patrick  - What's missing in CSS layout",
+    "Url": "https://patrickbrosset.com/articles/2026-05-20-whats-missing-in-css-layout/",
+    "Timestamp": "2026-05-28T22:03:20",
+    "Domain": "patrickbrosset.com",
+    "Description": "An interpretation of the pain points and missing features which developers face with CSS layout, based on the 2025 State of CSS survey and a mini survey I ran on social media.",
+    "Confidence": 0.9939224
+  },
+  {
+    "Title": "Email triage with an embedding-based classifier · Adam Wiggins",
+    "Url": "https://adamwiggins.com/posts/triage-embedding-classifier/",
+    "Timestamp": "2026-05-28T22:03:15",
+    "Domain": "adamwiggins.com",
+    "Description": "I built a machine learning pipeline for email triage. Includes a hand-labeled golden set, training the model in the browser, and evals. Plus options for local vs cloud embeddings.",
+    "Confidence": 0.9854738
+  },
+  {
+    "Title": "A Double Shot of DuckDB",
+    "Url": "https://peterdohertys.website/blog-posts/double-shot-of-duck.html",
+    "Timestamp": "2026-05-28T22:03:10",
+    "Domain": "peterdohertys.website",
+    "Description": "Pete Doherty is a NYC based software developer",
+    "Confidence": 0.9895383
+  },
+  {
+    "Title": "How to declare taxes in Germany as an App Developer – Mert Bulan",
+    "Url": "https://mertbulan.com/2026/05/28/how-to-declare-taxes-in-germany-as-an-app-developer/",
+    "Timestamp": "2026-05-28T22:03:06",
+    "Domain": "mertbulan.com",
+    "Description": "A practical guide to filing your taxes on Elster as an app developer in Germany, covering the three forms you need to submit every year.",
+    "Confidence": 0.98736006
+  },
+  {
+    "Title": "Let Equals Equal Equals",
+    "Url": "https://bennypowers.dev/posts/let-equals-equal-equals/",
+    "Timestamp": "2026-05-28T22:03:02",
+    "Domain": "bennypowers.dev",
+    "Description": "Setting `ariaDescribedByElements` on a node silently fails when the\ntarget is in a different shadow root. The spec broke `=` to preserve\nencapsulation purity. This violates the Priority of Constituencies,\nharms AT users, and should be fixed immediately. Reference Target is\ncomplementary and welcome, but it is not a substitute for making\nimperative assignment work.\n",
+    "Confidence": 0.99073493
+  },
+  {
+    "Title": "The Art Of Keeping Business Logic Honest — JustSteveKing",
+    "Url": "https://www.juststeveking.com/articles/the-art-of-keeping-business-logic-honest/",
+    "Timestamp": "2026-05-28T22:02:58",
+    "Domain": "www.juststeveking.com",
+    "Description": "Use state machines and workflow engines in Laravel to keep business rules explicit, auditable, and resilient across async processes.",
+    "Confidence": 0.99581754
+  },
+  {
+    "Title": "Adding reflection to C",
+    "Url": "https://www.davidpriver.com/adding-reflection-to-C.html",
+    "Timestamp": "2026-05-28T22:02:55",
+    "Domain": "www.davidpriver.com",
+    "Description": "Reflection in programming is the ability for a program to introspect its own\ndatastructures and procedures, either at compile time or at run time. This is a\nkey building block of metaprogramming. This is frequently used for\nautomatically generating serialization and deserialization code, in-app\ndebuggers and structure explorers.",
+    "Confidence": 0.9974333
+  },
+  {
+    "Title": "We need to own our computing experience • AndreGarzia.com",
+    "Url": "https://andregarzia.com/2026/05/we-need-to-own-our-computing-experience.html",
+    "Timestamp": "2026-05-28T22:02:52",
+    "Domain": "andregarzia.com",
+    "Description": "AndreGarzia.com website",
+    "Confidence": 0.987609
+  },
+  {
+    "Title": "The Spec Is the New Source Code",
+    "Url": "https://blog.yushi91.com/blog/spec-is-the-new-source-code/",
+    "Timestamp": "2026-05-28T22:02:47",
+    "Domain": "blog.yushi91.com",
+    "Description": "How coding agents changed the way I think about source code, specs, PRDs, and the developer's role in building software.",
+    "Confidence": 0.9933063
+  },
+  {
+    "Title": "The end of free tokens",
+    "Url": "https://douwe.com/blog/2026/0518/",
+    "Timestamp": "2026-05-28T22:02:43",
+    "Domain": "douwe.com",
+    "Description": "In 2018 I took an UberPool across Manhattan for $1.78, cheaper than the subway. Today the same ride is about $20 and nobody is surprised. Last month ccusage estimated I burned $5,098.85 of Claude tokens on a $200 plan. Three reasons it is finally coming for AI, and what to do about it.",
+    "Confidence": 0.82055855
+  },
+  {
+    "Title": "Haven Blog: Retro-Tech Parenting",
+    "Url": "https://havenweb.org/2026/05/28/retro-tech.html",
+    "Timestamp": "2026-05-28T22:02:39",
+    "Domain": "havenweb.org",
+    "Description": "We can embrace the magic of technology without fear by looking for inspiration from a previous generation of technology.",
+    "Confidence": 0.91406345
+  },
+  {
+    "Title": "What happens to a gift economy when the gift gets cheap?",
+    "Url": "https://davepaola.com/writing/the-gift-economy-when-code-is-free/",
+    "Timestamp": "2026-05-28T22:02:36",
+    "Domain": "davepaola.com",
+    "Description": "A hypothesis from The Cathedral and the Bazaar: the thing to watch isn't whether code is abundant, but whether the makers are.",
+    "Confidence": 0.9328986
+  },
+  {
+    "Title": "CVE-2026-28910: Breaking macOS App Sandbox Data Containers, TCC, and Hijacking Apps Using Archive Utility",
+    "Url": "https://mysk.blog/2026/05/19/cve-2026-28910/",
+    "Timestamp": "2026-05-28T22:02:32",
+    "Domain": "mysk.blog",
+    "Description": "Until macOS 26.4, Archive Utility had nearly unrestricted filesystem access. Combined with a drag-and-drop sandbox quirk, this let an attacker bypass App Sandbox data containers, Transparency, Consent, and Control (TCC) protections, and hijack third-party apps — all without special permissions or elevated privileges.",
+    "Confidence": 0.9851719
+  },
+  {
+    "Title": "Bricks & Minifigs Stole a Man's $200,000 LEGO Collection | MyBrickLog",
+    "Url": "https://mybricklog.com/blog/bricks-minifigs-corporate-stole-old-mans-200000-lego-collection",
+    "Timestamp": "2026-05-28T22:02:27",
+    "Domain": "mybricklog.com",
+    "Description": "Bryan Mansell built the largest personal LEGO Star Wars collection in history. Over $200,000 worth of sets. Bricks & Minifigs is trying to steal his collection.",
+    "Confidence": 0.7358742
+  },
+  {
+    "Title": "Empirical saved my ass.",
+    "Url": "https://empirical.gauzza.com/blog/empirical-ui-recovery-memory-recall-lost-ui-rework-recovered-with-empirical-memory/",
+    "Timestamp": "2026-05-28T22:02:24",
+    "Domain": "empirical.gauzza.com",
+    "Description": "First-person incident report on recovering lost frontend work by querying Empirical memory, locating an unreachable WIP commit, and restoring the missing public-site redesign. Empirical saved my ass.",
+    "Confidence": 0.94126344
+  },
+  {
+    "Title": "Two Ways to Draw Infinite Jest's Sierpinski Gasket",
+    "Url": "https://www.chiply.dev/post-ij-sierpinski",
+    "Timestamp": "2026-05-28T22:02:20",
+    "Domain": "www.chiply.dev",
+    "Description": "In a 1996 Bookworm interview with Michael Silverblatt, David Foster Wallace confirmed something Silverblatt had spotted about Infinite Jest:",
+    "Confidence": 0.9507612
+  },
+  {
     "Title": "Introducing Claude Opus 4.8",
     "Url": "https://www.anthropic.com/news/claude-opus-4-8",
     "Timestamp": "2026-05-28T18:02:29",
@@ -70,181 +238,5 @@
     "Domain": "www.thran.uk",
     "Description": "SimCity 3000 is the best SimCity. Its only problem is that it doesn't run well on contemporary systems. Not to worry, here's a complete guide to a perfect game of SimCity 3000 on modern Windows:...",
     "Confidence": 0.9950892
-  },
-  {
-    "Title": "I Vibe-Coded SwiperTab While Watching TV",
-    "Url": "https://marindedic.com/swipertab/",
-    "Timestamp": "2026-05-27T22:05:02",
-    "Domain": "marindedic.com",
-    "Description": "Building SwiperTab (a browser extension) without manually writing a single line of code",
-    "Confidence": 0.9818679
-  },
-  {
-    "Title": "Automating ADHD | 0xFF",
-    "Url": "https://0xff.nu/automating-adhd/",
-    "Timestamp": "2026-05-27T22:04:58",
-    "Domain": "0xff.nu",
-    "Description": "Important",
-    "Confidence": 0.97363234
-  },
-  {
-    "Title": "Search engine results are truly terrible (Maurycy's blog)",
-    "Url": "https://maurycyz.com/misc/search/",
-    "Timestamp": "2026-05-27T22:04:53",
-    "Domain": "maurycyz.com",
-    "Description": "A few months ago, I had the displeasure of trying to use the modern web without an ad-blocker.",
-    "Confidence": 0.9615587
-  },
-  {
-    "Title": "Linux was accidentally designed for agents",
-    "Url": "https://danieldelaney.net/fourth-era/",
-    "Timestamp": "2026-05-27T22:04:49",
-    "Domain": "danieldelaney.net",
-    "Description": "Beautiful, human-centered design isn’t appreciated by an agent.",
-    "Confidence": 0.9907729
-  },
-  {
-    "Title": "I had Codex iterate on its own AGENTS.md 8 times and measured each version against real PRs. The best one still regressed on a clean holdout.",
-    "Url": "https://www.stet.sh/blog/how-i-used-codex-to-improve-its-own-agents-md",
-    "Timestamp": "2026-05-27T22:04:45",
-    "Domain": "www.stet.sh",
-    "Description": "Codex optimized its own AGENTS.md against real Stet repo tasks. The best candidate improved the training slice, then regressed enough on a clean holdout that it was not safe to ship.",
-    "Confidence": 0.9768468
-  },
-  {
-    "Title": "The Untold Story About W Social: Unconventional Beginnings, Strategic Pitches and Conflicting Signals",
-    "Url": "https://blog.elenarossini.com/the-untold-story-about-w-social-unconventional-beginnings-strategic-pitches-conflicting-signals/",
-    "Timestamp": "2026-05-27T22:04:42",
-    "Domain": "blog.elenarossini.com",
-    "Description": "A deep dive into the origin story of W Social, an analysis of the strategic arguments they have been using to appeal to government officials, media companies and advertisers... and the discussion of conflicting signals they have been sending",
-    "Confidence": 0.86603785
-  },
-  {
-    "Title": "Avoid Hasty Caching",
-    "Url": "https://www.jakeworth.com/posts/avoid-hasty-caching/",
-    "Timestamp": "2026-05-27T22:04:38",
-    "Domain": "www.jakeworth.com",
-    "Description": "Approach caching with caution.",
-    "Confidence": 0.99719936
-  },
-  {
-    "Title": "Where are those goalposts? I’m sure I put them here somewhere",
-    "Url": "https://nickdrozd.github.io/2026/05/26/goalposts-math.html",
-    "Timestamp": "2026-05-27T22:04:35",
-    "Domain": "nickdrozd.github.io",
-    "Description": "It’s been a few months since I personally ran out of places to move the AI goalposts to. And the news keeps coming. An internal model from OpenAI just refuted a long-standing mathematical conjecture. For the first time, AI has produced an indisputably novel and significant piece of mathematical knowledge. Several years ago, a lot of people would have said, yes, this is definitely intelligence. But now that it has happened, the goalposts need to get moved. Where to?",
-    "Confidence": 0.9357394
-  },
-  {
-    "Title": "One million beings",
-    "Url": "https://sub.davidoreilly.com/p/one-million-beings",
-    "Timestamp": "2026-05-27T22:04:31",
-    "Domain": "sub.davidoreilly.com",
-    "Description": "It’s been a while.",
-    "Confidence": 0.83184594
-  },
-  {
-    "Title": "How to Weigh a Cell",
-    "Url": "https://burrito.bio/essays/how-to-weigh-a-cell",
-    "Timestamp": "2026-05-27T22:04:27",
-    "Domain": "burrito.bio",
-    "Description": "A single yeast cell weighs about one million times less than a grain of sand. How do we know this?",
-    "Confidence": 0.8767378
-  },
-  {
-    "Title": "Why I Write | Hacky Experiments",
-    "Url": "https://www.hackyexperiments.com/blog/why-i-write",
-    "Timestamp": "2026-05-27T22:04:23",
-    "Domain": "www.hackyexperiments.com",
-    "Description": "I used to write for myself, but am doing it increasingly more for the machines.",
-    "Confidence": 0.97692686
-  },
-  {
-    "Title": "Your Skills Folder Is a Junk Drawer",
-    "Url": "https://james-pritchard.com/blog/skills-junk-drawer",
-    "Timestamp": "2026-05-27T22:04:19",
-    "Domain": "james-pritchard.com",
-    "Description": "Most skills shouldn't exist. The energy the community is pouring into building and collecting them is mostly wasted.",
-    "Confidence": 0.98770595
-  },
-  {
-    "Title": "My Deaf Experience in Japan",
-    "Url": "https://www.tokyodev.com/articles/my-deaf-experience-in-japan",
-    "Timestamp": "2026-05-27T22:04:16",
-    "Domain": "www.tokyodev.com",
-    "Description": "Living with deafness in Japan for nearly 20 years — navigating work, communication, accessibility, and daily life as a deaf resident.",
-    "Confidence": 0.95352143
-  },
-  {
-    "Title": "Time Machine Conversation",
-    "Url": "https://xkcd.com/3251/",
-    "Timestamp": "2026-05-27T22:04:12",
-    "Domain": "xkcd.com",
-    "Description": "",
-    "Confidence": 0.98151064
-  },
-  {
-    "Title": "Improving AI labels for viewers and creators",
-    "Url": "https://blog.youtube/news-and-events/improving-ai-labels-viewers-creators/",
-    "Timestamp": "2026-05-27T22:04:09",
-    "Domain": "blog.youtube",
-    "Description": "We've heard consistently from our community that they value transparency when it comes to generative AI content. Two new updates will make this process much simpler and more intuitive for creators and viewers on YouTube.",
-    "Confidence": 0.9730079
-  },
-  {
-    "Title": "Using My Fucking Brain",
-    "Url": "https://terriblesoftware.org/2026/05/27/using-my-fucking-brain/",
-    "Timestamp": "2026-05-27T22:04:06",
-    "Domain": "terriblesoftware.org",
-    "Description": "AI is great when it extends your brain. It gets dangerous when it quietly replaces the part that was supposed to think.",
-    "Confidence": 0.9806426
-  },
-  {
-    "Title": "Show Me Less Output",
-    "Url": "https://blog.yqiao.me/2026/05/show-me-less-output.html",
-    "Timestamp": "2026-05-27T22:04:02",
-    "Domain": "blog.yqiao.me",
-    "Description": "The last time I saw someone showing off AI-generated reports, trying to present it as something insightful and helpful, I was really  annoye...",
-    "Confidence": 0.89054996
-  },
-  {
-    "Title": "Getting Claude to extract data from a 1997 football manager game",
-    "Url": "https://bennuttall.com/blog/2026/04/fsm97/",
-    "Timestamp": "2026-05-27T22:03:59",
-    "Domain": "bennuttall.com",
-    "Description": "There's a football manager game I got for my birthday when I was nine years old: FIFA Soccer Manager 97. I spent countless hours playing it as a child, trying to win the league, the cup or just avoid getting the sack! Two years later I got a newer manager game with better graphics and more...",
-    "Confidence": 0.9260833
-  },
-  {
-    "Title": "The Best Engineers Write Less Code",
-    "Url": "https://shvetsm.github.io/posts/the-best-engineers-write-less-code/",
-    "Timestamp": "2026-05-27T22:03:54",
-    "Domain": "shvetsm.github.io",
-    "Description": "We are living in an age of mass denial. Some very smart people are telling us that we no longer need to write good software because LLMs can generate code now. But terrible software is still terrible software, whether it was written by Claude Code or by a human who did not know what they were doing. The computers running it are still real. Latency is still real. Complexity is still real. Maintenance is still real. All the old rules still apply. There is going to be an enormous amount of work fixing the slop now being pushed into production. But I digress.",
-    "Confidence": 0.9918971
-  },
-  {
-    "Title": "An Engineering Leader’s Playbook for Delivering High Ambiguity and Rapidly Changing Product",
-    "Url": "https://prabhatkjha.com/leadership/execution/2026/05/24/Delivering-Under-High-Uncertainty.html",
-    "Timestamp": "2026-05-27T22:03:51",
-    "Domain": "prabhatkjha.com",
-    "Description": "A couple of weeks ago I gave an internal talk at IBM to the next batch of soon to be distinguished engineers. Distinguished engineer designation at IBM a highly coveted recognition. This blog is a brief summary of that hour long talk.",
-    "Confidence": 0.98476326
-  },
-  {
-    "Title": "Running llama.cpp on a Mac Pro 6,1 with Dual FirePro D700s on Ubuntu",
-    "Url": "https://matthewgribben.com/blog/mac-pro-6-1-llama-cpp-firepro-d700-vulkan-ubuntu",
-    "Timestamp": "2026-05-27T22:03:48",
-    "Domain": "matthewgribben.com",
-    "Description": "A D700-specific guide to running llama.cpp with Vulkan on the 2013 Mac Pro: dual 6 GB FirePro cards, Ubuntu, RADV, full GPU offload, cooling, and the traps that make old GCN hardware look slower than it is.",
-    "Confidence": 0.9961443
-  },
-  {
-    "Title": "Whistle",
-    "Url": "https://abson.bearblog.dev/whistle/",
-    "Timestamp": "2026-05-27T22:03:42",
-    "Domain": "abson.bearblog.dev",
-    "Description": "I just realized people don’t whistle anymore.\n\nI might even say they’ve forgotten about it.\nEven worse, if they hear someone whistling, they’ll probably b...",
-    "Confidence": 0.79857135
   }
 ]
