@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+    "Url": "https://www.anthropic.com/news/series-h",
+    "Timestamp": "2026-05-29T02:03:18",
+    "Domain": "www.anthropic.com",
+    "Description": "Anthropic has raised $65 billion in Series H funding led by Altimeter Capital, Dragoneer, Greenoaks, and Sequoia Capital."
+  },
+  {
     "Title": "Postgres-backed Durable Workflow Execution | DBOS",
     "Url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
     "Timestamp": "2026-05-29T01:01:55",

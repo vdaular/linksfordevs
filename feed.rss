@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Anthropic raises $65B in Series H funding at $965B post-money valuation</title>
+      <link>https://www.anthropic.com/news/series-h</link>
+      <description>Anthropic has raised $65 billion in Series H funding led by Altimeter Capital, Dragoneer, Greenoaks, and Sequoia Capital.</description>
+      <category>cloud</category>
+      <category>ai</category>
+      <guid>https://www.anthropic.com/news/series-h</guid>
+      <pubDate>Fri, 29 May 2026 02:03:18 GMT</pubDate>
+    </item>
+    <item>
       <title>Postgres-backed Durable Workflow Execution | DBOS</title>
       <link>https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution</link>
       <description>Explaining the concept of a Postgres-backed durable execution system like DBOS and comparing it to external workflow orchestration systems like Temporal.</description>
@@ -292,14 +301,6 @@ Really, anything (or anyone) can be an antenna, given enough power.</description
       <category>ai</category>
       <guid>https://www.jacquescorbytuech.com/writing/what-apple-and-google-are-doing-your-push-notifications</guid>
       <pubDate>Thu, 28 May 2026 08:01:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Can we have the day off?</title>
-      <link>https://mlsu.io/posts/day-off/</link>
-      <description>So, apparently we are at the cusp of the entire world’s white collar workforce (and, by extension, much of the US workforce) undergoing a revolution in productivity. AI is the technology that is going to revolutionize the way we work, the way we interact with the world, the way we learn, the way we socialize, and all of this. This sounds great. Really, it does. Everything getting faster and easier would be an extraordinary boon to all of our lives.</description>
-      <category>ai</category>
-      <guid>https://mlsu.io/posts/day-off/</guid>
-      <pubDate>Thu, 28 May 2026 02:02:21 GMT</pubDate>
     </item>
   </channel>
 </rss>

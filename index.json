@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Anthropic raises $65B in Series H funding at $965B post-money valuation",
+    "Url": "https://www.anthropic.com/news/series-h",
+    "Timestamp": "2026-05-29T02:03:18",
+    "Domain": "www.anthropic.com",
+    "Description": "Anthropic has raised $65 billion in Series H funding led by Altimeter Capital, Dragoneer, Greenoaks, and Sequoia Capital.",
+    "Confidence": 0.7266934
+  },
+  {
     "Title": "Postgres-backed Durable Workflow Execution | DBOS",
     "Url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
     "Timestamp": "2026-05-29T01:01:55",
@@ -230,13 +238,5 @@
     "Domain": "www.jacquescorbytuech.com",
     "Description": "I wrote recently about what Google, Yahoo, Microsoft, and Apple are doing to your email: how four providers stopped being transport layers and turned into active intermediaries between brands and their customers, parsing, ranking, summarising, and increasingly answering on the recipient's behalf.",
     "Confidence": 0.86430395
-  },
-  {
-    "Title": "Can we have the day off?",
-    "Url": "https://mlsu.io/posts/day-off/",
-    "Timestamp": "2026-05-28T02:02:21",
-    "Domain": "mlsu.io",
-    "Description": "So, apparently we are at the cusp of the entire world’s white collar workforce (and, by extension, much of the US workforce) undergoing a revolution in productivity. AI is the technology that is going to revolutionize the way we work, the way we interact with the world, the way we learn, the way we socialize, and all of this. This sounds great. Really, it does. Everything getting faster and easier would be an extraordinary boon to all of our lives.",
-    "Confidence": 0.96257085
   }
 ]
