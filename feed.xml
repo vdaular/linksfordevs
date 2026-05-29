@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Notes from the AI Now Summit by Mistral</title>
+      <link>https://koenvangilst.nl/lab/mistral-ai-now-summit</link>
+      <description>A few days in Paris for the Mistral AI Now Summit: open models, on-prem deployment, agentic harnesses, and why Mistral wants to be the European full-stack AI partner.</description>
+      <author> (Koen van Gilst)</author>
+      <category>ai</category>
+      <guid>https://koenvangilst.nl/lab/mistral-ai-now-summit</guid>
+      <pubDate>Fri, 29 May 2026 21:02:26 GMT</pubDate>
+    </item>
+    <item>
       <title>The Dead Economy Theory</title>
       <link>https://www.owenmcgrann.com/p/the-dead-economy-theory</link>
       <description>We can laugh at them but we have to take this seriously</description>
