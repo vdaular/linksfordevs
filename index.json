@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Postgres-backed Durable Workflow Execution | DBOS",
+    "Url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
+    "Timestamp": "2026-05-29T01:01:55",
+    "Domain": "www.dbos.dev",
+    "Description": "Explaining the concept of a Postgres-backed durable execution system like DBOS and comparing it to external workflow orchestration systems like Temporal.",
+    "Confidence": 0.99626756
+  },
+  {
     "Title": "How others build agent memory, and what I took from each | Falconer Notes",
     "Url": "https://falconer.com/notes/how-others-build-agent-memory/",
     "Timestamp": "2026-05-28T22:03:37",

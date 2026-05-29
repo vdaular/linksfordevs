@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Postgres-backed Durable Workflow Execution | DBOS</title>
+      <link>https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution</link>
+      <description>Explaining the concept of a Postgres-backed durable execution system like DBOS and comparing it to external workflow orchestration systems like Temporal.</description>
+      <category>sql</category>
+      <category>cloud</category>
+      <category>gaming</category>
+      <guid>https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution</guid>
+      <pubDate>Fri, 29 May 2026 01:01:55 GMT</pubDate>
+    </item>
+    <item>
       <title>How others build agent memory, and what I took from each | Falconer Notes</title>
       <link>https://falconer.com/notes/how-others-build-agent-memory/</link>
       <description>ChatGPT, Claude Code, and Letta have each built production memory systems for AI agents. Looking at the differences shaped how I built agent signals for Falconer.</description>

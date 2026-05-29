@@ -1,1 +1,9 @@
-[]
+[
+  {
+    "Title": "Postgres-backed Durable Workflow Execution | DBOS",
+    "Url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
+    "Timestamp": "2026-05-29T01:01:55",
+    "Domain": "www.dbos.dev",
+    "Description": "Explaining the concept of a Postgres-backed durable execution system like DBOS and comparing it to external workflow orchestration systems like Temporal."
+  }
+]
