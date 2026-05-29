@@ -1,5 +1,12 @@
 [
   {
+    "Title": "SQLite is All You Need for Durable Workflows",
+    "Url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
+    "Timestamp": "2026-05-29T23:02:12",
+    "Domain": "obeli.sk",
+    "Description": "DBOS recently argued that\nPostgres\nis all you need for durable execution: if you already trust your database, you do not need a\nseparate orchestration tier. I a…"
+  },
+  {
     "Title": "Notes from the AI Now Summit by Mistral",
     "Url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
     "Timestamp": "2026-05-29T21:02:26",
