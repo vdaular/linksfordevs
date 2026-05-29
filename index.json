@@ -1,5 +1,13 @@
 [
   {
+    "Title": "I Am Retiring from Tech to Live Offline",
+    "Url": "https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/",
+    "Timestamp": "2026-05-29T16:02:03",
+    "Domain": "openpath.quest",
+    "Description": "AI took the last of the wind out of my Open Source sails. I wish you all the best!",
+    "Confidence": 0.91856354
+  },
+  {
     "Title": "It's hard to justify buying a Framework 12",
     "Url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
     "Timestamp": "2026-05-29T15:02:22",
@@ -214,21 +222,5 @@
     "Domain": "www.anthropic.com",
     "Description": "Our latest model, Claude Opus 4.8, is an upgrade to our Opus class of models, with stronger performance across coding, agentic tasks, and professional work, and the consistency to handle long-running work.",
     "Confidence": 0.9718649
-  },
-  {
-    "Title": "AMD Pulls a Bait-and-Switch on Linux Users with Vivado Licensing Changes",
-    "Url": "https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/",
-    "Timestamp": "2026-05-28T16:02:16",
-    "Domain": "itsfoss.com",
-    "Description": "Tells Linux users to either pay up or get stuck on an aging, unsupported version forever.",
-    "Confidence": 0.5715982
-  },
-  {
-    "Title": "Autism Works - Neurodiversity in the Workplace",
-    "Url": "https://youtube.com/watch?v=kLcpCqLwNU8",
-    "Timestamp": "2026-05-28T16:02:08",
-    "Domain": "youtube.com",
-    "Description": "Dave explains the benefits and responsibilities of autism in the workforce, with a focus on industrial scenarios.",
-    "Confidence": 0.67001134
   }
 ]

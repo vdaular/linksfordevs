@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>I Am Retiring from Tech to Live Offline</title>
+      <link>https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/</link>
+      <description>AI took the last of the wind out of my Open Source sails. I wish you all the best!</description>
+      <category>ai</category>
+      <guid>https://openpath.quest/2026/i-am-retiring-from-tech-to-live-offline/</guid>
+      <pubDate>Fri, 29 May 2026 16:02:03 GMT</pubDate>
+    </item>
+    <item>
       <title>It's hard to justify buying a Framework 12</title>
       <link>https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/</link>
       <description>My nephew just graduated high school, and wants a laptop. When he decides what computer to buy, price (or more precisely, value) is the most important attribute.
@@ -279,23 +287,6 @@ debuggers and structure explorers.</description>
       <category>git</category>
       <guid>https://www.anthropic.com/news/claude-opus-4-8</guid>
       <pubDate>Thu, 28 May 2026 18:02:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>AMD Pulls a Bait-and-Switch on Linux Users with Vivado Licensing Changes</title>
-      <link>https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/</link>
-      <description>Tells Linux users to either pay up or get stuck on an aging, unsupported version forever.</description>
-      <category>linux</category>
-      <guid>https://itsfoss.com/news/amd-vivado-bait-and-switch-on-linux-users/</guid>
-      <pubDate>Thu, 28 May 2026 16:02:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Autism Works - Neurodiversity in the Workplace</title>
-      <link>https://youtube.com/watch?v=kLcpCqLwNU8</link>
-      <description>Dave explains the benefits and responsibilities of autism in the workforce, with a focus on industrial scenarios.</description>
-      <author> (Dave's Garage)</author>
-      <category>youtube</category>
-      <guid>https://youtube.com/watch?v=kLcpCqLwNU8</guid>
-      <pubDate>Thu, 28 May 2026 16:02:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
