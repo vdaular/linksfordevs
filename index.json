@@ -238,13 +238,5 @@
     "Domain": "www.jeffgeerling.com",
     "Description": "Pooch from Repkord dropped by my studio while he was in St. Louis, and asked a simple question:\nCan a 3D printer's heatbed act as an antenna?\nA fair question, as many an antenna is embedded in a PCB these days... and the traces on a PCB heatbed like the one used in Prusa's Core One look kinda like an antenna, if you squint the right way.\nReally, anything (or anyone) can be an antenna, given enough power.",
     "Confidence": 0.71096736
-  },
-  {
-    "Title": "Hallucinate - Massively Multiplayer Online Rave",
-    "Url": "https://hallucinate.site/",
-    "Timestamp": "2026-05-28T13:02:28",
-    "Domain": "hallucinate.site",
-    "Description": "78hair color",
-    "Confidence": 0.5805532
   }
 ]
