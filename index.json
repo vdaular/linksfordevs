@@ -1,5 +1,13 @@
 [
   {
+    "Title": "OpenRouter Raises $113M Series B | OpenRouter",
+    "Url": "https://openrouter.ai/announcements/series-b",
+    "Timestamp": "2026-05-30T22:02:31",
+    "Domain": "openrouter.ai",
+    "Description": "OpenRouter has raised a $113M Series B led by CapitalG, with participation from NVentures, ServiceNow Ventures, MongoDB Ventures, Snowflake Ventures, Databricks",
+    "Confidence": 0.96214706
+  },
+  {
     "Title": "GitHub - kristapsdz/openrsync: BSD-licensed implementation of rsync",
     "Url": "https://github.com/kristapsdz/openrsync",
     "Timestamp": "2026-05-30T20:02:26",
