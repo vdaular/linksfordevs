@@ -198,13 +198,5 @@
     "Domain": "openpath.quest",
     "Description": "AI took the last of the wind out of my Open Source sails. I wish you all the best!",
     "Confidence": 0.91856354
-  },
-  {
-    "Title": "It's hard to justify buying a Framework 12",
-    "Url": "https://www.jeffgeerling.com/blog/2026/its-hard-to-justify-framework-12/",
-    "Timestamp": "2026-05-29T15:02:22",
-    "Domain": "www.jeffgeerling.com",
-    "Description": "My nephew just graduated high school, and wants a laptop. When he decides what computer to buy, price (or more precisely, value) is the most important attribute.\nApple's MacBook Neo upended the 'value laptop' equation—Apple's not supposed to be both the cheapest option and the best value... but it seems like that's squarely where the Neo landed for the good-but-cheap laptop category.\nMy nephew is also my godson, and to kick off his computing journey, I thought I'd let him choose from a Framework 12 I bought to test, or the MacBook Neo I bought a couple months ago to use around the studio.",
-    "Confidence": 0.9497548
   }
 ]
