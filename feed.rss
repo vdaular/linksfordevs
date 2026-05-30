@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Devlog ⚡ Zig Programming Language</title>
+      <link>https://ziglang.org/devlog/2026/#2026-05-26</link>
+      <description>This page contains a curated list of recent changes to main branch Zig.</description>
+      <category>git</category>
+      <guid>https://ziglang.org/devlog/2026/#2026-05-26</guid>
+      <pubDate>Sat, 30 May 2026 18:02:17 GMT</pubDate>
+    </item>
+    <item>
       <title>pandoc-templates.org</title>
       <link>https://pandoc-templates.org/</link>
       <description>Pandoc templates for PDF, LaTeX, HTML and Word. Easily convert documents with customizable templates for reports, articles, and more.</description>
@@ -239,23 +247,6 @@ separate orchestration tier. I a…</description>
       <category>ai</category>
       <guid>https://www.owenmcgrann.com/p/the-dead-economy-theory</guid>
       <pubDate>Fri, 29 May 2026 19:02:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ancestral Genomes</title>
-      <link>https://xkcd.com/3252/</link>
-      <description></description>
-      <category>apple</category>
-      <category>javascript</category>
-      <guid>https://xkcd.com/3252/</guid>
-      <pubDate>Fri, 29 May 2026 18:02:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>GTA 6 Developers Announce Rockstar Games Union - RockstarINTEL</title>
-      <link>https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/</link>
-      <description>GTA 6 developers have formally announced a union to combat Rockstar Games’ actions which will be debated in court. On Thursday, the Independent Workers’ Union of Great Britain (IWGB) and Rockstar staff members announced the Rockstar Game Workers Union. This union will be part of the IWGB. The reveal came in the form of an</description>
-      <category>gaming</category>
-      <guid>https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/</guid>
-      <pubDate>Fri, 29 May 2026 18:02:12 GMT</pubDate>
     </item>
   </channel>
 </rss>

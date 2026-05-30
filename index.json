@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Devlog ⚡ Zig Programming Language",
+    "Url": "https://ziglang.org/devlog/2026/#2026-05-26",
+    "Timestamp": "2026-05-30T18:02:17",
+    "Domain": "ziglang.org",
+    "Description": "This page contains a curated list of recent changes to main branch Zig.",
+    "Confidence": 0.99615294
+  },
+  {
     "Title": "pandoc-templates.org",
     "Url": "https://pandoc-templates.org/",
     "Timestamp": "2026-05-30T17:02:28",
@@ -182,21 +190,5 @@
     "Domain": "www.owenmcgrann.com",
     "Description": "We can laugh at them but we have to take this seriously",
     "Confidence": 0.71225554
-  },
-  {
-    "Title": "Ancestral Genomes",
-    "Url": "https://xkcd.com/3252/",
-    "Timestamp": "2026-05-29T18:02:15",
-    "Domain": "xkcd.com",
-    "Description": "",
-    "Confidence": 0.98151064
-  },
-  {
-    "Title": "GTA 6 Developers Announce Rockstar Games Union - RockstarINTEL",
-    "Url": "https://rockstarintel.com/gta-6-developers-announce-rockstar-games-union/",
-    "Timestamp": "2026-05-29T18:02:12",
-    "Domain": "rockstarintel.com",
-    "Description": "GTA 6 developers have formally announced a union to combat Rockstar Games’ actions which will be debated in court. On Thursday, the Independent Workers’ Union of Great Britain (IWGB) and Rockstar staff members announced the Rockstar Game Workers Union. This union will be part of the IWGB. The reveal came in the form of an",
-    "Confidence": 0.6316633
   }
 ]
