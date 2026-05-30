@@ -236,17 +236,5 @@ Lipstick on a pig As humans, we have evolved to be very good at orienting oursel
       <guid>https://anomitra.me/blog/multi-tenancy-in-spring-boot-a-practical-guide/</guid>
       <pubDate>Sat, 30 May 2026 00:02:15 GMT</pubDate>
     </item>
-    <item>
-      <title>SQLite is All You Need for Durable Workflows</title>
-      <link>https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/</link>
-      <description>DBOS recently argued that
-Postgres
-is all you need for durable execution: if you already trust your database, you do not need a
-separate orchestration tier. I a…</description>
-      <category>sql</category>
-      <category>ai</category>
-      <guid>https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/</guid>
-      <pubDate>Fri, 29 May 2026 23:02:12 GMT</pubDate>
-    </item>
   </channel>
 </rss>
