@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>pandoc-templates.org</title>
+      <link>https://pandoc-templates.org/</link>
+      <description>Pandoc templates for PDF, LaTeX, HTML and Word. Easily convert documents with customizable templates for reports, articles, and more.</description>
+      <guid>https://pandoc-templates.org/</guid>
+      <pubDate>Sat, 30 May 2026 17:02:28 GMT</pubDate>
+    </item>
+    <item>
       <title>MCP is dead | Quandri Engineering</title>
       <link>https://www.quandri.io/engineering-blog/mcp-is-dead</link>
       <description></description>
