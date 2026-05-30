@@ -267,15 +267,5 @@ Late last year I started writing a math blog and decided to use LLMs to polish/e
       <guid>https://www.anthropic.com/news/series-h</guid>
       <pubDate>Fri, 29 May 2026 02:03:18 GMT</pubDate>
     </item>
-    <item>
-      <title>Postgres-backed Durable Workflow Execution | DBOS</title>
-      <link>https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution</link>
-      <description>Explaining the concept of a Postgres-backed durable execution system like DBOS and comparing it to external workflow orchestration systems like Temporal.</description>
-      <category>sql</category>
-      <category>cloud</category>
-      <category>gaming</category>
-      <guid>https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution</guid>
-      <pubDate>Fri, 29 May 2026 01:01:55 GMT</pubDate>
-    </item>
   </channel>
 </rss>

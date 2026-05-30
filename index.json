@@ -206,13 +206,5 @@
     "Domain": "www.anthropic.com",
     "Description": "Anthropic has raised $65 billion in Series H funding led by Altimeter Capital, Dragoneer, Greenoaks, and Sequoia Capital.",
     "Confidence": 0.7266934
-  },
-  {
-    "Title": "Postgres-backed Durable Workflow Execution | DBOS",
-    "Url": "https://www.dbos.dev/blog/postgres-is-all-you-need-for-durable-execution",
-    "Timestamp": "2026-05-29T01:01:55",
-    "Domain": "www.dbos.dev",
-    "Description": "Explaining the concept of a Postgres-backed durable execution system like DBOS and comparing it to external workflow orchestration systems like Temporal.",
-    "Confidence": 0.99626756
   }
 ]
