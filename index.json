@@ -1,5 +1,133 @@
 [
   {
+    "Title": "Navigating the Realities of Cloud-Native Networking – vahidhsahemi.com",
+    "Url": "https://vahidhashemi.com/2026/05/29/the-cnf-illusion-navigating-the-realities-of-cloud-native-networking/",
+    "Timestamp": "2026-05-30T00:03:45",
+    "Domain": "vahidhashemi.com",
+    "Description": "If you keep an eye on the infrastructure space, you’ve almost certainly seen the headlines. The prevailing narrative—echoed in countless medium articles and vendor pitches—is that Cloud-Native Network Functions (CNFs) are the undisputed future, systematically replacing traditional network appliances and legacy Virtual Machines in 5G and enterprise networks.",
+    "Confidence": 0.965653
+  },
+  {
+    "Title": "My \"blocked-by-default\" approach to working with coding agents - Oscar Swanros",
+    "Url": "https://oscarswanros.com/2026/05/29/risk-management-lessons-from-cave-diving-applied-to-working-with-coding-agents/",
+    "Timestamp": "2026-05-30T00:03:36",
+    "Domain": "oscarswanros.com",
+    "Description": "The flaw appears before the error, and divers have known this for fifty years; now we're learning it again in software, with agents.",
+    "Confidence": 0.95700604
+  },
+  {
+    "Title": "What is full-duplex? How does half-duplex imitate it?",
+    "Url": "https://www.frisson-labs.com/full-duplex-half-duplex",
+    "Timestamp": "2026-05-30T00:03:09",
+    "Domain": "www.frisson-labs.com",
+    "Description": "A practical guide to full-duplex speech, half-duplex systems, overlap handling, backchannels, barge-ins, and where Moshi-style architectures fit.",
+    "Confidence": 0.9873669
+  },
+  {
+    "Title": "How I Degoogle My Android Phone with microG and Aurora Store to replace GMS",
+    "Url": "https://ivonblog.com/en-us/posts/android-phone-degoogle/",
+    "Timestamp": "2026-05-30T00:03:05",
+    "Domain": "ivonblog.com",
+    "Description": "Degoogle your Android phone! This article is about the steps and practice of “de-Googling” an Android phone.\nIs it possible to use an Android phone without logging in to a Google account, without using Google apps, and only use them in the browser when necessary? Yes, after flashing the phone. In the image below, the common apps installed on a fresh Android system are almost all free software. (This article was originally written in June 2022 and was first posted on Blogger, but yelling about de-Googling on Google’s turf felt kind of weird)\n1. Overview of Degoogle # Did you know? Through the GMS services inside your phone, Google is tracking you 24 hours a day! Every move you make online is recorded by Google, so it can push more ads to you!\nAccording to the Wikipedia definition, “Degoogle” is a grassroots movement that has emerged in Europe and the United States in recent years.\nThere is an r/degoogle subreddit dedicated to discussing degoogling strategies.\nDegoogle means removing Google services from an Android phone and no longer relying on services provided by GMS.\nAs for why degoogle? See the links above. Common reasons include protecting privacy, resisting surveillance capitalism, reducing future Barrier of exit, escaping walled gardens, and so on. Analyzed according to threat model, degoogle can be divided into many degrees, ranging from simply switching your email provider away from Gmail, to completely removing Google services. It depends on personal needs.\nWhat this article discusses is how to perform the most extreme form of de-Googling on an Android phone\nAndroid phones sold outside mainland China mostly come with Google services (GMS), and many apps depend on it to function. Usually, GMS services are set as system apps and cannot be uninstalled.\nWe are going to uproot the GMS services embedded in the Android phone.\nFor the best experience, we need to flash the phone with a ROM closer to stock Android, such as “LineageOS” or “GrapheneOS”. These ROMs do not include any GMS services by default, and getting root is also quite easy.\nWe need to stop using Google services, but too many apps depend on Google services, and some apps simply have no alternatives. At this point, “microG” is a good alternative choice. We can use microG, an open source implementation of Google functionality, to replace GMS services. It minimizes the data that Google services need to collect, has lower privileges than Google services, and can also prevent some apps from failing to run. Degoogleing naturally means refusing to use Google Play. But you still need an app store, right? This article will introduce how to use “F-Droid”, which only contains free software, and “Aurora Store” to replace Google Play. I will explain the use of these two stores in more detail later.\nAs for apps, since you have escaped Google, which monitors you, you should use free software as much as possible, reject the whole Google suite, and avoid installing any Chinese spyware.",
+    "Confidence": 0.9880134
+  },
+  {
+    "Title": "Feynman diagrams without any physics",
+    "Url": "https://jollywatt.github.io/feynman-diagrams-without-any-physics/",
+    "Timestamp": "2026-05-30T00:02:58",
+    "Domain": "jollywatt.github.io",
+    "Description": "blog ⊕ portfolio",
+    "Confidence": 0.98672444
+  },
+  {
+    "Title": "A love letter to exe.dev",
+    "Url": "https://samihonkonen.com/posts/a-love-letter-to-exe-dev/",
+    "Timestamp": "2026-05-30T00:02:54",
+    "Domain": "samihonkonen.com",
+    "Description": "Why having a computer on the internet feels good again.",
+    "Confidence": 0.95358443
+  },
+  {
+    "Title": "I was wrong about Electron - Paseo",
+    "Url": "https://paseo.sh/blog/i-was-wrong-about-electron",
+    "Timestamp": "2026-05-30T00:02:50",
+    "Domain": "paseo.sh",
+    "Description": "Why I migrated Paseo from Tauri to Electron after the small-binary story stopped mattering more than rendering, notifications, and bundling a Node daemon.",
+    "Confidence": 0.96777713
+  },
+  {
+    "Title": "Lipstick on a Pig",
+    "Url": "https://blog.fredrb.com/2026/05/29/lipstick-on-a-pig/",
+    "Timestamp": "2026-05-30T00:02:46",
+    "Domain": "blog.fredrb.com",
+    "Description": "This post was written at 2am by a sleep-deprived human\nLipstick on a pig As humans, we have evolved to be very good at orienting ourselves in nature. A landscape, with mountains, rivers, and valleys is natural and we have a good memory for geographical references. And the same thing also happens with code - or so says Robert C. Martin. Therefore, our natural instinct is to remember the curvature of the code indentation, the syntax coloring in the rivers of characters, and the beautiful valleys between the scope blocks. This - according to Clean Coders - is not how we should be navigating code. Rather than relying on our natural hunter and gatherer instincts, we should name our functions and variables with meaningful names and keep them short - so short they should do one thing only. This way, I don’t have to memorize the mountains and valleys of the code and anyone joining the team can find their way through the code by simply reading the code. It’s like prose, not cartography.",
+    "Confidence": 0.99211305
+  },
+  {
+    "Title": "Building Omegle for Exposed Webcams",
+    "Url": "https://alec.is/posts/building-omegle-for-exposed-webcams/",
+    "Timestamp": "2026-05-30T00:02:39",
+    "Domain": "alec.is",
+    "Description": "Principal software engineer with deep experience in full-stack TypeScript, custom web browsers and real-time, media-focused systems.",
+    "Confidence": 0.95394564
+  },
+  {
+    "Title": "Someone used my open source project to phish 14,000 people",
+    "Url": "https://andrej.sh/posts/phishing-through-my-open-source-project",
+    "Timestamp": "2026-05-30T00:02:36",
+    "Domain": "andrej.sh",
+    "Description": "A botnet abused the hosted version of my open source project to phish 14,000 strangers. What I found, what I cleaned up, and what it taught me about running cloud on behalf of people I’ve never met.",
+    "Confidence": 0.9346464
+  },
+  {
+    "Title": "Fine-tuning for engagement",
+    "Url": "https://robertdruska.com/blog/fine-tuning-for-engagement/",
+    "Timestamp": "2026-05-30T00:02:32",
+    "Domain": "robertdruska.com",
+    "Description": "It’s been quite some time since major LLM providers introduced the behaviour that the chatbots often end their response with a question. The motivation is clear: more engagement, more data to train on. Whether this behaviour quirk is actually useful is questionable (from my personal view, it isn’t, most of the times I ignore the question and continue as if it wasn’t in the response, sometimes I explicitly say “no, let’s do this instead” - but that’s probably wasteful spending of the tokens; responding positively to the LLM’s concluding question is probably my least taken action). Also, I saw a few user-shared chats where the users just responded “yes”, “ok”, or “sure” a few turns in a row (scarily similar to mindlessly scrolling to next TikTok or next Twitter post), which resulted in the LLM rambling about topics it itself suggested with basically no human guidance - and one could argue that this actually doesn’t make the data more useful for training than if the user replied normally, it’s basically AI inbreeding on a small scale.",
+    "Confidence": 0.9533322
+  },
+  {
+    "Title": "My “writerdeck” is a typewriter",
+    "Url": "https://kamranjon.com/writings/my-writerdeck-is-a-typewriter.html",
+    "Timestamp": "2026-05-30T00:02:28",
+    "Domain": "kamranjon.com",
+    "Description": "This is my “writerdeck” — a term I just learned, meaning a sort of distraction free writing device. I actually really enjoyed that article, because it reminded me of the time I spent when I was young installing FreeDOS and Linux on old 386 machines.",
+    "Confidence": 0.9421548
+  },
+  {
+    "Title": "Apple added a second ad to App Store search results. My downloads stayed flat, my costs doubled",
+    "Url": "https://blog.nihongo-app.com/apple-added-a-second-ad-to-app-store-search-results-my-downloads-stayed-flat-my-costs-doubled/",
+    "Timestamp": "2026-05-30T00:02:25",
+    "Domain": "blog.nihongo-app.com",
+    "Description": "After the recent rollout, overall downloads stayed steady but a large chunk of what used to be organic downloads shifted into paid downloads instead.",
+    "Confidence": 0.96459633
+  },
+  {
+    "Title": "Million users, million forks",
+    "Url": "https://www.anantjain.xyz/posts/million-users-million-forks",
+    "Timestamp": "2026-05-30T00:02:22",
+    "Domain": "www.anantjain.xyz",
+    "Description": "The most interesting thing about OpenClaw isn't that it books your flights. It's that it writes its own code: when it can't do something, it writes a new skill for itself and then does it. People started calling it \"Claude with hands.\" The loop — talk to the software, the software rewrites itself — is what got me hooked onto it.",
+    "Confidence": 0.9721257
+  },
+  {
+    "Title": "Compiling .ts to .js",
+    "Url": "https://blog.simonfarshid.com/compiling-ts-to-js",
+    "Timestamp": "2026-05-30T00:02:19",
+    "Domain": "blog.simonfarshid.com",
+    "Description": "Two years of shipping a TypeScript library — declaration maps, \"use client\" banners, subpath exports, and the eight lines of tsdown config we ended on.",
+    "Confidence": 0.9947451
+  },
+  {
+    "Title": "Multi-Tenancy in Spring Boot: A Practical Guide | Anomitra Saha | Principal Engineer",
+    "Url": "https://anomitra.me/blog/multi-tenancy-in-spring-boot-a-practical-guide/",
+    "Timestamp": "2026-05-30T00:02:15",
+    "Domain": "anomitra.me",
+    "Description": "The clean way to support true data isolation.",
+    "Confidence": 0.99576277
+  },
+  {
     "Title": "SQLite is All You Need for Durable Workflows",
     "Url": "https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/",
     "Timestamp": "2026-05-29T23:02:12",
