@@ -182,13 +182,5 @@
     "Domain": "obeli.sk",
     "Description": "DBOS recently argued that\nPostgres\nis all you need for durable execution: if you already trust your database, you do not need a\nseparate orchestration tier. I a…",
     "Confidence": 0.99114966
-  },
-  {
-    "Title": "Notes from the AI Now Summit by Mistral",
-    "Url": "https://koenvangilst.nl/lab/mistral-ai-now-summit",
-    "Timestamp": "2026-05-29T21:02:26",
-    "Domain": "koenvangilst.nl",
-    "Description": "A few days in Paris for the Mistral AI Now Summit: open models, on-prem deployment, agentic harnesses, and why Mistral wants to be the European full-stack AI partner.",
-    "Confidence": 0.89161485
   }
 ]

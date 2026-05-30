@@ -240,14 +240,5 @@ separate orchestration tier. I a…</description>
       <guid>https://obeli.sk/blog/sqlite-is-all-you-need-for-durable-workflows/</guid>
       <pubDate>Fri, 29 May 2026 23:02:12 GMT</pubDate>
     </item>
-    <item>
-      <title>Notes from the AI Now Summit by Mistral</title>
-      <link>https://koenvangilst.nl/lab/mistral-ai-now-summit</link>
-      <description>A few days in Paris for the Mistral AI Now Summit: open models, on-prem deployment, agentic harnesses, and why Mistral wants to be the European full-stack AI partner.</description>
-      <author> (Koen van Gilst)</author>
-      <category>ai</category>
-      <guid>https://koenvangilst.nl/lab/mistral-ai-now-summit</guid>
-      <pubDate>Fri, 29 May 2026 21:02:26 GMT</pubDate>
-    </item>
   </channel>
 </rss>
