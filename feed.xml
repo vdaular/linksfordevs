@@ -7,6 +7,19 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>You can just say it</title>
+      <link>https://noperator.dev/posts/you-can-just-say-it/</link>
+      <description>There is a weird collection of arguments for appraising the value of humans and their creative artifacts.
+It usually goes something like this: In the age of AI, we should still prefer humans in certain roles because AI could never perform the tasks required for that role.
+Or, a human can at least do it better.
+Or, perhaps the output from a human and AI may look similar, but human output is preferable for subtle stylistic reasons that an AI cannot reproduce.
+Or, at least the AI cannot reproduce it consistently.
+Observe the scuff marks around the base of the goalpost from constant movement. Allow 28 days for the concrete to cure.</description>
+      <category>ai</category>
+      <guid>https://noperator.dev/posts/you-can-just-say-it/</guid>
+      <pubDate>Sat, 30 May 2026 04:02:13 GMT</pubDate>
+    </item>
+    <item>
       <title>Navigating the Realities of Cloud-Native Networking – vahidhsahemi.com</title>
       <link>https://vahidhashemi.com/2026/05/29/the-cnf-illusion-navigating-the-realities-of-cloud-native-networking/</link>
       <description>If you keep an eye on the infrastructure space, you’ve almost certainly seen the headlines. The prevailing narrative—echoed in countless medium articles and vendor pitches—is that Cloud-Native Network Functions (CNFs) are the undisputed future, systematically replacing traditional network appliances and legacy Virtual Machines in 5G and enterprise networks.</description>
@@ -246,17 +259,6 @@ My nephew is also my godson, and to kick off his computing journey, I thought I'
       <category>ai</category>
       <guid>https://www.tomshardware.com/tech-industry/cyber-security/microsofts-github-bans-security-researcher-who-posted-zero-day-windows-exploits-because-company-ruined-their-life-expert-claims-action-is-vindictive-and-promises-further-retaliation</guid>
       <pubDate>Fri, 29 May 2026 05:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Various LLM smells</title>
-      <link>https://shvbsle.in/various-llm-smells/</link>
-      <description>Looks like this ended up on the HN front-page: HN Thread
-
-
-Late last year I started writing a math blog and decided to use LLMs to polish/enhance my writin...</description>
-      <category>ai</category>
-      <guid>https://shvbsle.in/various-llm-smells/</guid>
-      <pubDate>Fri, 29 May 2026 04:02:11 GMT</pubDate>
     </item>
   </channel>
 </rss>

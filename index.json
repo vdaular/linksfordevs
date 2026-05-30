@@ -1,5 +1,13 @@
 [
   {
+    "Title": "You can just say it",
+    "Url": "https://noperator.dev/posts/you-can-just-say-it/",
+    "Timestamp": "2026-05-30T04:02:13",
+    "Domain": "noperator.dev",
+    "Description": "There is a weird collection of arguments for appraising the value of humans and their creative artifacts.\nIt usually goes something like this: In the age of AI, we should still prefer humans in certain roles because AI could never perform the tasks required for that role.\nOr, a human can at least do it better.\nOr, perhaps the output from a human and AI may look similar, but human output is preferable for subtle stylistic reasons that an AI cannot reproduce.\nOr, at least the AI cannot reproduce it consistently.\nObserve the scuff marks around the base of the goalpost from constant movement. Allow 28 days for the concrete to cure.",
+    "Confidence": 0.96426976
+  },
+  {
     "Title": "Navigating the Realities of Cloud-Native Networking – vahidhsahemi.com",
     "Url": "https://vahidhashemi.com/2026/05/29/the-cnf-illusion-navigating-the-realities-of-cloud-native-networking/",
     "Timestamp": "2026-05-30T00:03:45",
@@ -190,13 +198,5 @@
     "Domain": "www.tomshardware.com",
     "Description": "\"I will make sure your bones are shattered [on July 14]\"",
     "Confidence": 0.6786285
-  },
-  {
-    "Title": "Various LLM smells",
-    "Url": "https://shvbsle.in/various-llm-smells/",
-    "Timestamp": "2026-05-29T04:02:11",
-    "Domain": "shvbsle.in",
-    "Description": "Looks like this ended up on the HN front-page: HN Thread\n\n\nLate last year I started writing a math blog and decided to use LLMs to polish/enhance my writin...",
-    "Confidence": 0.7930149
   }
 ]
