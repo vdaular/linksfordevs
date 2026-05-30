@@ -182,13 +182,5 @@
     "Domain": "koenvangilst.nl",
     "Description": "A few days in Paris for the Mistral AI Now Summit: open models, on-prem deployment, agentic harnesses, and why Mistral wants to be the European full-stack AI partner.",
     "Confidence": 0.89161485
-  },
-  {
-    "Title": "The Dead Economy Theory",
-    "Url": "https://www.owenmcgrann.com/p/the-dead-economy-theory",
-    "Timestamp": "2026-05-29T19:02:04",
-    "Domain": "www.owenmcgrann.com",
-    "Description": "We can laugh at them but we have to take this seriously",
-    "Confidence": 0.71225554
   }
 ]
