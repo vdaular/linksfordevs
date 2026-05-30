@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>MCP is dead | Quandri Engineering</title>
+      <link>https://www.quandri.io/engineering-blog/mcp-is-dead</link>
+      <description></description>
+      <category>javascript</category>
+      <category>ai</category>
+      <category>cloud</category>
+      <category>sql</category>
+      <category>ides</category>
+      <guid>https://www.quandri.io/engineering-blog/mcp-is-dead</guid>
+      <pubDate>Sat, 30 May 2026 11:02:09 GMT</pubDate>
+    </item>
+    <item>
       <title>What Is a Dickover?</title>
       <link>https://daringfireball.net/2026/05/what_is_a_dickover</link>
       <description>dickover — a modal panel, popover, or curtain presented by a website or app, deliberately obscuring its own content to frustrate the user with an unwanted, unnecessary, mandatory interaction; e.g. asking the user to accept “cookies”, subscribe to a newsletter, install the website’s mobile app, agree to terms of service, or anything else that the user couldn’t give two shits about.</description>
