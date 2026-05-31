@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Build agents, not pipelines</title>
+      <link>https://www.seangoedecke.com/build-agents-not-pipelines/</link>
+      <description>There are only two ways to use LLMs in a computer program: as part of a pipeline, or as an agent. In other words, either you express the control flow of the program in code, or you give a LLM tools and allow it to manage the control flow itself1.</description>
+      <category>ai</category>
+      <guid>https://www.seangoedecke.com/build-agents-not-pipelines/</guid>
+      <pubDate>Sun, 31 May 2026 05:02:10 GMT</pubDate>
+    </item>
+    <item>
       <title>Accenture to Acquire Ookla to Strengthen Network Intelligence and Experience with Data and AI For Enterprises</title>
       <link>https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises</link>
       <description>Accenture has entered into an agreement to acquire Ookla, a global leader in network intelligence, competitive benchmarking and customer experience analytics.</description>
