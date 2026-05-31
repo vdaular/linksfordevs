@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Shantell Sans → A font for you</title>
+      <link>https://shantellsans.com/process</link>
+      <description>A new typeface from Shantell Martin</description>
+      <category>rust</category>
+      <category>git</category>
+      <guid>https://shantellsans.com/process</guid>
+      <pubDate>Sun, 31 May 2026 10:02:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Build agents, not pipelines</title>
       <link>https://www.seangoedecke.com/build-agents-not-pipelines/</link>
       <description>There are only two ways to use LLMs in a computer program: as part of a pipeline, or as an agent. In other words, either you express the control flow of the program in code, or you give a LLM tools and allow it to manage the control flow itself1.</description>
