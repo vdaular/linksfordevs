@@ -1,5 +1,13 @@
 [
   {
+    "Title": "the solution might be cancelling my AI subscription",
+    "Url": "https://thoughts.hmmz.org/2026-05-31.html",
+    "Timestamp": "2026-05-31T18:02:15",
+    "Domain": "thoughts.hmmz.org",
+    "Description": "I am trying to think of a list of all the wonderful things I've built with AI:",
+    "Confidence": 0.90697944
+  },
+  {
     "Title": "The Website Specification",
     "Url": "https://specification.website/",
     "Timestamp": "2026-05-31T14:02:05",
@@ -166,13 +174,5 @@
     "Domain": "github.com",
     "Description": "BSD-licensed implementation of rsync. Contribute to kristapsdz/openrsync development by creating an account on GitHub.",
     "Confidence": 0.99521434
-  },
-  {
-    "Title": "Devlog ⚡ Zig Programming Language",
-    "Url": "https://ziglang.org/devlog/2026/#2026-05-26",
-    "Timestamp": "2026-05-30T18:02:17",
-    "Domain": "ziglang.org",
-    "Description": "This page contains a curated list of recent changes to main branch Zig.",
-    "Confidence": 0.99615294
   }
 ]

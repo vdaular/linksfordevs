@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>the solution might be cancelling my AI subscription</title>
+      <link>https://thoughts.hmmz.org/2026-05-31.html</link>
+      <description>I am trying to think of a list of all the wonderful things I've built with AI:</description>
+      <category>rust</category>
+      <category>encryption</category>
+      <category>python</category>
+      <category>ai</category>
+      <category>android</category>
+      <guid>https://thoughts.hmmz.org/2026-05-31.html</guid>
+      <pubDate>Sun, 31 May 2026 18:02:15 GMT</pubDate>
+    </item>
+    <item>
       <title>The Website Specification</title>
       <link>https://specification.website/</link>
       <description>A platform-agnostic, full specification of the technical features a good website should have. Built in the open under an MIT licence.</description>
@@ -193,14 +205,6 @@ Only recently did I realize the role of pen and paper in my digital life: not as
       <category>git</category>
       <guid>https://github.com/kristapsdz/openrsync</guid>
       <pubDate>Sat, 30 May 2026 20:02:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Devlog ⚡ Zig Programming Language</title>
-      <link>https://ziglang.org/devlog/2026/#2026-05-26</link>
-      <description>This page contains a curated list of recent changes to main branch Zig.</description>
-      <category>git</category>
-      <guid>https://ziglang.org/devlog/2026/#2026-05-26</guid>
-      <pubDate>Sat, 30 May 2026 18:02:17 GMT</pubDate>
     </item>
   </channel>
 </rss>
