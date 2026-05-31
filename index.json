@@ -166,13 +166,5 @@
     "Domain": "www.quandri.io",
     "Description": "",
     "Confidence": 0.9941253
-  },
-  {
-    "Title": "What Is a Dickover?",
-    "Url": "https://daringfireball.net/2026/05/what_is_a_dickover",
-    "Timestamp": "2026-05-30T07:02:08",
-    "Domain": "daringfireball.net",
-    "Description": "dickover — a modal panel, popover, or curtain presented by a website or app, deliberately obscuring its own content to frustrate the user with an unwanted, unnecessary, mandatory interaction; e.g. asking the user to accept “cookies”, subscribe to a newsletter, install the website’s mobile app, agree to terms of service, or anything else that the user couldn’t give two shits about.",
-    "Confidence": 0.93624
   }
 ]
