@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The Website Specification</title>
+      <link>https://specification.website/</link>
+      <description>A platform-agnostic, full specification of the technical features a good website should have. Built in the open under an MIT licence.</description>
+      <category>python</category>
+      <category>javascript</category>
+      <category>web</category>
+      <category>ai</category>
+      <guid>https://specification.website/</guid>
+      <pubDate>Sun, 31 May 2026 14:02:05 GMT</pubDate>
+    </item>
+    <item>
       <title>AV2 Specification</title>
       <link>https://av2.aomedia.org/</link>
       <description>AV2 is the next-generation video coding specification from the Alliance for Open Media (AOMedia). Building on the foundation of AV1, AV2 is engineered to provide superior compression efficiency, enabling high-quality video delivery at significantly lower bitrates. It is optimized for the evolving demands of streaming, broadcasting, and real-time video conferencing.</description>
