@@ -166,13 +166,5 @@
     "Domain": "pandoc-templates.org",
     "Description": "Pandoc templates for PDF, LaTeX, HTML and Word. Easily convert documents with customizable templates for reports, articles, and more.",
     "Confidence": 0.6600933
-  },
-  {
-    "Title": "MCP is dead | Quandri Engineering",
-    "Url": "https://www.quandri.io/engineering-blog/mcp-is-dead",
-    "Timestamp": "2026-05-30T11:02:09",
-    "Domain": "www.quandri.io",
-    "Description": "",
-    "Confidence": 0.9941253
   }
 ]
