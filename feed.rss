@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Accenture to Acquire Ookla to Strengthen Network Intelligence and Experience with Data and AI For Enterprises</title>
+      <link>https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises</link>
+      <description>Accenture has entered into an agreement to acquire Ookla, a global leader in network intelligence, competitive benchmarking and customer experience analytics.</description>
+      <category>ai</category>
+      <guid>https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises</guid>
+      <pubDate>Sun, 31 May 2026 04:02:15 GMT</pubDate>
+    </item>
+    <item>
       <title>Voxel Space</title>
       <link>https://s-macke.github.io/VoxelSpace/</link>
       <description>Terrain rendering algorithm in less than 20 lines of code</description>
@@ -186,19 +194,6 @@ Only recently did I realize the role of pen and paper in my digital life: not as
       <category>javascript</category>
       <guid>https://daringfireball.net/2026/05/what_is_a_dickover</guid>
       <pubDate>Sat, 30 May 2026 07:02:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>You can just say it</title>
-      <link>https://noperator.dev/posts/you-can-just-say-it/</link>
-      <description>There is a weird collection of arguments for appraising the value of humans and their creative artifacts.
-It usually goes something like this: In the age of AI, we should still prefer humans in certain roles because AI could never perform the tasks required for that role.
-Or, a human can at least do it better.
-Or, perhaps the output from a human and AI may look similar, but human output is preferable for subtle stylistic reasons that an AI cannot reproduce.
-Or, at least the AI cannot reproduce it consistently.
-Observe the scuff marks around the base of the goalpost from constant movement. Allow 28 days for the concrete to cure.</description>
-      <category>ai</category>
-      <guid>https://noperator.dev/posts/you-can-just-say-it/</guid>
-      <pubDate>Sat, 30 May 2026 04:02:13 GMT</pubDate>
     </item>
   </channel>
 </rss>

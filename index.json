@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Accenture to Acquire Ookla to Strengthen Network Intelligence and Experience with Data and AI For Enterprises",
+    "Url": "https://newsroom.accenture.com/news/2026/accenture-to-acquire-ookla-to-strengthen-network-intelligence-and-experience-with-data-and-ai-for-enterprises",
+    "Timestamp": "2026-05-31T04:02:15",
+    "Domain": "newsroom.accenture.com",
+    "Description": "Accenture has entered into an agreement to acquire Ookla, a global leader in network intelligence, competitive benchmarking and customer experience analytics.",
+    "Confidence": 0.82807654
+  },
+  {
     "Title": "Voxel Space",
     "Url": "https://s-macke.github.io/VoxelSpace/",
     "Timestamp": "2026-05-31T02:02:38",
@@ -158,13 +166,5 @@
     "Domain": "daringfireball.net",
     "Description": "dickover — a modal panel, popover, or curtain presented by a website or app, deliberately obscuring its own content to frustrate the user with an unwanted, unnecessary, mandatory interaction; e.g. asking the user to accept “cookies”, subscribe to a newsletter, install the website’s mobile app, agree to terms of service, or anything else that the user couldn’t give two shits about.",
     "Confidence": 0.93624
-  },
-  {
-    "Title": "You can just say it",
-    "Url": "https://noperator.dev/posts/you-can-just-say-it/",
-    "Timestamp": "2026-05-30T04:02:13",
-    "Domain": "noperator.dev",
-    "Description": "There is a weird collection of arguments for appraising the value of humans and their creative artifacts.\nIt usually goes something like this: In the age of AI, we should still prefer humans in certain roles because AI could never perform the tasks required for that role.\nOr, a human can at least do it better.\nOr, perhaps the output from a human and AI may look similar, but human output is preferable for subtle stylistic reasons that an AI cannot reproduce.\nOr, at least the AI cannot reproduce it consistently.\nObserve the scuff marks around the base of the goalpost from constant movement. Allow 28 days for the concrete to cure.",
-    "Confidence": 0.96426976
   }
 ]
