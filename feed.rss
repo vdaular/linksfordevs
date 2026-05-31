@@ -7,6 +7,21 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Cloudflare Turnstile requiring fingerprintable WebGL</title>
+      <link>https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting</link>
+      <description>Since about a week, Cloudflare Turnstile (their "Verify you're human"
+	device verification) has been looping indefinitely in my
+	webkit-gtk based browser.
+	Preventing access to quite few websites (previously, but it even went worse lately).
+	
+	Turns out it's because Cloudflare wants to have a fingerprint of your
+	device via WebGL, the only reason for doing this would be tracking.</description>
+      <category>web</category>
+      <category>apple</category>
+      <guid>https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting</guid>
+      <pubDate>Sun, 31 May 2026 19:02:21 GMT</pubDate>
+    </item>
+    <item>
       <title>the solution might be cancelling my AI subscription</title>
       <link>https://thoughts.hmmz.org/2026-05-31.html</link>
       <description>I am trying to think of a list of all the wonderful things I've built with AI:</description>

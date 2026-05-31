@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Cloudflare Turnstile requiring fingerprintable WebGL",
+    "Url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
+    "Timestamp": "2026-05-31T19:02:21",
+    "Domain": "hacktivis.me",
+    "Description": "Since about a week, Cloudflare Turnstile (their \"Verify you're human\"\n\tdevice verification) has been looping indefinitely in my\n\twebkit-gtk based browser.\n\tPreventing access to quite few websites (previously, but it even went worse lately).\n\t\n\tTurns out it's because Cloudflare wants to have a fingerprint of your\n\tdevice via WebGL, the only reason for doing this would be tracking."
+  },
+  {
     "Title": "the solution might be cancelling my AI subscription",
     "Url": "https://thoughts.hmmz.org/2026-05-31.html",
     "Timestamp": "2026-05-31T18:02:15",
