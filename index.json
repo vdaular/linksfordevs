@@ -174,13 +174,5 @@
     "Domain": "ziglang.org",
     "Description": "This page contains a curated list of recent changes to main branch Zig.",
     "Confidence": 0.99615294
-  },
-  {
-    "Title": "pandoc-templates.org",
-    "Url": "https://pandoc-templates.org/",
-    "Timestamp": "2026-05-30T17:02:28",
-    "Domain": "pandoc-templates.org",
-    "Description": "Pandoc templates for PDF, LaTeX, HTML and Word. Easily convert documents with customizable templates for reports, articles, and more.",
-    "Confidence": 0.6600933
   }
 ]
