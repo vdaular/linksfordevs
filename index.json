@@ -1,5 +1,13 @@
 [
   {
+    "Title": "AV2 Specification",
+    "Url": "https://av2.aomedia.org/",
+    "Timestamp": "2026-05-31T13:02:10",
+    "Domain": "av2.aomedia.org",
+    "Description": "AV2 is the next-generation video coding specification from the Alliance for Open Media (AOMedia). Building on the foundation of AV1, AV2 is engineered to provide superior compression efficiency, enabling high-quality video delivery at significantly lower bitrates. It is optimized for the evolving demands of streaming, broadcasting, and real-time video conferencing.",
+    "Confidence": 0.9794437
+  },
+  {
     "Title": "Shantell Sans → A font for you",
     "Url": "https://shantellsans.com/process",
     "Timestamp": "2026-05-31T10:02:00",

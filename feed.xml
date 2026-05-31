@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>AV2 Specification</title>
+      <link>https://av2.aomedia.org/</link>
+      <description>AV2 is the next-generation video coding specification from the Alliance for Open Media (AOMedia). Building on the foundation of AV1, AV2 is engineered to provide superior compression efficiency, enabling high-quality video delivery at significantly lower bitrates. It is optimized for the evolving demands of streaming, broadcasting, and real-time video conferencing.</description>
+      <guid>https://av2.aomedia.org/</guid>
+      <pubDate>Sun, 31 May 2026 13:02:10 GMT</pubDate>
+    </item>
+    <item>
       <title>Shantell Sans → A font for you</title>
       <link>https://shantellsans.com/process</link>
       <description>A new typeface from Shantell Martin</description>
