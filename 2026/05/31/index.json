@@ -1,5 +1,89 @@
 [
   {
+    "Title": "Converting ISO Country Codes to Flag Emojis",
+    "Url": "https://danq.me/2026/05/31/iso-country-codes-to-flags/",
+    "Timestamp": "2026-05-31T23:03:32",
+    "Domain": "danq.me",
+    "Description": "Did you know that there's a simple formula you can use to convert from an ISO two-letter country code to the emoji of the flag of that country. I've made an interactive thingy to demonstrate it, and shared some other fun things I've learned while playing around with ISO 3166 and flag emoji."
+  },
+  {
+    "Title": "The S in interoperability",
+    "Url": "https://frederikbraun.de/the-s-in-interoperability.html",
+    "Timestamp": "2026-05-31T23:03:28",
+    "Domain": "frederikbraun.de",
+    "Description": "The S in interoperability"
+  },
+  {
+    "Title": "Typeface Specimens of Houston Mono™",
+    "Url": "https://arslan.io/2026/05/31/typeface-specimens-of-houston-monotm/",
+    "Timestamp": "2026-05-31T23:03:24",
+    "Domain": "arslan.io",
+    "Description": "Neil Panchal, the creator of soon-to-released Typeface Houston Mono™, recently sent me a complimentary set of the TX-24 Houston Mono typeface specimens. Some of you know this probably, but U.S Graphics is also the company that created the famous Berkeley Mono typeface.\n\nI purchased Berkeley Mono years ago and"
+  },
+  {
+    "Title": "From Chat Completions to an Agents API – Notes by Dennis Yurkevich",
+    "Url": "https://dennisy.me/notes/from-chat-completions-to-an-agents-api",
+    "Timestamp": "2026-05-31T23:03:20",
+    "Domain": "dennisy.me",
+    "Description": "A note on the shift from chat completions to agents that return finished work, and what that means for builders outside frontier labs."
+  },
+  {
+    "Title": "Cheap software won't make engineering cheap",
+    "Url": "https://johnjwang.com/post/2026/05/31/cheap-software-wont-make-engineering-cheap/",
+    "Timestamp": "2026-05-31T23:03:17",
+    "Domain": "johnjwang.com",
+    "Description": "John Wang's personal website"
+  },
+  {
+    "Title": "Simple systems are the best systems",
+    "Url": "https://jerodsanto.net/2026/05/simple-systems-are-the-best/",
+    "Timestamp": "2026-05-31T23:03:14",
+    "Domain": "jerodsanto.net",
+    "Description": "When it comes to systems design, John Gall knew his stuff. He even has a LAW1 about it:\n\nA complex system that works is invariably found to have evolved from a simple system that worked. A complex system designed from scratch never works and cannot be patched up to make it work. You have to start over with a working simple system.\n\nGall isn’t the only promoter of simple systems. Here’s Dijkstra (maybe you’ve heard of him?)"
+  },
+  {
+    "Title": "Colonies on Mars require more than engineering",
+    "Url": "https://selenianboondocks.com/2026/05/colonial-social-structures/",
+    "Timestamp": "2026-05-31T23:03:10",
+    "Domain": "selenianboondocks.com",
+    "Description": "Elon Musk talks about a city on Mars the way a developer talks about a new subdivision outside Phoenix. The engineering problems are hard, but they are the kind of hard we know how to attack: get there cheaply, make propellant on site, close the life-support loop, shield against the radiation, and eventually warm the place up. There is a technical roadmap. There is a financial roadmap. There is no social roadmap at all."
+  },
+  {
+    "Title": "Why I'm building a SaaS company during the SaaSpocalypse.",
+    "Url": "https://www.vincentchan.vc/why-im-building-a-saas-company-during-the-saaspocalypse",
+    "Timestamp": "2026-05-31T23:03:07",
+    "Domain": "www.vincentchan.vc",
+    "Description": "When building is cheap, all that remains is focus, taste, and conviction."
+  },
+  {
+    "Title": "Auditing DeepSWE",
+    "Url": "https://june.kim/auditing-deepswe",
+    "Timestamp": "2026-05-31T23:03:03",
+    "Domain": "june.kim",
+    "Description": "Last updated 2026-05-31."
+  },
+  {
+    "Title": "The Agentic Mesh: Cognitive Automation at Scale",
+    "Url": "https://blog.owulveryck.info/2026/05/31/the-agentic-mesh-cognitive-automation-at-scale.html",
+    "Timestamp": "2026-05-31T23:02:28",
+    "Domain": "blog.owulveryck.info",
+    "Description": "Convictions for designing tomorrow’s agentic systems — an agent mesh system capable of delivering value at scale, borrowing principles from the data mesh."
+  },
+  {
+    "Title": "Encrypted Client Hello: A Big Tech Privacy Fix",
+    "Url": "https://blog.miloslavhomer.cz/encrypted-client-hello/",
+    "Timestamp": "2026-05-31T23:02:24",
+    "Domain": "blog.miloslavhomer.cz",
+    "Description": "Much of the traffic on the web is now encrypted thanks to SSL/TLS (https). This prevents attackers from seeing the contents of your traffic. But they can still see which domains you are connecting to, and that might be a problem still."
+  },
+  {
+    "Title": "Snapshot-based CMEK Bypass: Cross-Project Disk Replication",
+    "Url": "https://aneviaro.eu/posts/snapshot-based-cmek-bypass/",
+    "Timestamp": "2026-05-31T23:02:18",
+    "Domain": "aneviaro.eu",
+    "Description": "This follow-up demonstrates a snapshot-based bypass that complements the disk-cloning attack described earlier."
+  },
+  {
     "Title": "Scientists found that the creatine supplement millions take for muscle gains is quietly raising brain energy levels and slowing early Alzheimer's cognitive decline by 30% - thesciverse",
     "Url": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
     "Timestamp": "2026-05-31T20:02:10",

@@ -7,6 +7,127 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Converting ISO Country Codes to Flag Emojis</title>
+      <link>https://danq.me/2026/05/31/iso-country-codes-to-flags/</link>
+      <description>Did you know that there's a simple formula you can use to convert from an ISO two-letter country code to the emoji of the flag of that country. I've made an interactive thingy to demonstrate it, and shared some other fun things I've learned while playing around with ISO 3166 and flag emoji.</description>
+      <author> (https://www.facebook.com/itsdanq)</author>
+      <category>gaming</category>
+      <guid>https://danq.me/2026/05/31/iso-country-codes-to-flags/</guid>
+      <pubDate>Sun, 31 May 2026 23:03:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>The S in interoperability</title>
+      <link>https://frederikbraun.de/the-s-in-interoperability.html</link>
+      <description>The S in interoperability</description>
+      <category>javascript</category>
+      <category>web</category>
+      <guid>https://frederikbraun.de/the-s-in-interoperability.html</guid>
+      <pubDate>Sun, 31 May 2026 23:03:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Typeface Specimens of Houston Mono™</title>
+      <link>https://arslan.io/2026/05/31/typeface-specimens-of-houston-monotm/</link>
+      <description>Neil Panchal, the creator of soon-to-released Typeface Houston Mono™, recently sent me a complimentary set of the TX-24 Houston Mono typeface specimens. Some of you know this probably, but U.S Graphics is also the company that created the famous Berkeley Mono typeface.
+
+I purchased Berkeley Mono years ago and</description>
+      <guid>https://arslan.io/2026/05/31/typeface-specimens-of-houston-monotm/</guid>
+      <pubDate>Sun, 31 May 2026 23:03:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>From Chat Completions to an Agents API – Notes by Dennis Yurkevich</title>
+      <link>https://dennisy.me/notes/from-chat-completions-to-an-agents-api</link>
+      <description>A note on the shift from chat completions to agents that return finished work, and what that means for builders outside frontier labs.</description>
+      <category>ai</category>
+      <guid>https://dennisy.me/notes/from-chat-completions-to-an-agents-api</guid>
+      <pubDate>Sun, 31 May 2026 23:03:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cheap software won't make engineering cheap</title>
+      <link>https://johnjwang.com/post/2026/05/31/cheap-software-wont-make-engineering-cheap/</link>
+      <description>John Wang's personal website</description>
+      <category>containers</category>
+      <category>cloud</category>
+      <category>git</category>
+      <category>ai</category>
+      <guid>https://johnjwang.com/post/2026/05/31/cheap-software-wont-make-engineering-cheap/</guid>
+      <pubDate>Sun, 31 May 2026 23:03:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Simple systems are the best systems</title>
+      <link>https://jerodsanto.net/2026/05/simple-systems-are-the-best/</link>
+      <description>When it comes to systems design, John Gall knew his stuff. He even has a LAW1 about it:
+
+A complex system that works is invariably found to have evolved from a simple system that worked. A complex system designed from scratch never works and cannot be patched up to make it work. You have to start over with a working simple system.
+
+Gall isn’t the only promoter of simple systems. Here’s Dijkstra (maybe you’ve heard of him?)</description>
+      <category>ruby</category>
+      <category>javascript</category>
+      <category>web</category>
+      <category>ai</category>
+      <guid>https://jerodsanto.net/2026/05/simple-systems-are-the-best/</guid>
+      <pubDate>Sun, 31 May 2026 23:03:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Colonies on Mars require more than engineering</title>
+      <link>https://selenianboondocks.com/2026/05/colonial-social-structures/</link>
+      <description>Elon Musk talks about a city on Mars the way a developer talks about a new subdivision outside Phoenix. The engineering problems are hard, but they are the kind of hard we know how to attack: get there cheaply, make propellant on site, close the life-support loop, shield against the radiation, and eventually warm the place up. There is a technical roadmap. There is a financial roadmap. There is no social roadmap at all.</description>
+      <guid>https://selenianboondocks.com/2026/05/colonial-social-structures/</guid>
+      <pubDate>Sun, 31 May 2026 23:03:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why I'm building a SaaS company during the SaaSpocalypse.</title>
+      <link>https://www.vincentchan.vc/why-im-building-a-saas-company-during-the-saaspocalypse</link>
+      <description>When building is cheap, all that remains is focus, taste, and conviction.</description>
+      <author> (Vincent Chan)</author>
+      <category>apple</category>
+      <category>encryption</category>
+      <category>ai</category>
+      <guid>https://www.vincentchan.vc/why-im-building-a-saas-company-during-the-saaspocalypse</guid>
+      <pubDate>Sun, 31 May 2026 23:03:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Auditing DeepSWE</title>
+      <link>https://june.kim/auditing-deepswe</link>
+      <description>Last updated 2026-05-31.</description>
+      <author> (June Kim)</author>
+      <category>ai</category>
+      <category>containers</category>
+      <category>javascript</category>
+      <category>python</category>
+      <guid>https://june.kim/auditing-deepswe</guid>
+      <pubDate>Sun, 31 May 2026 23:03:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Agentic Mesh: Cognitive Automation at Scale</title>
+      <link>https://blog.owulveryck.info/2026/05/31/the-agentic-mesh-cognitive-automation-at-scale.html</link>
+      <description>Convictions for designing tomorrow’s agentic systems — an agent mesh system capable of delivering value at scale, borrowing principles from the data mesh.</description>
+      <category>ai</category>
+      <category>git</category>
+      <category>javascript</category>
+      <guid>https://blog.owulveryck.info/2026/05/31/the-agentic-mesh-cognitive-automation-at-scale.html</guid>
+      <pubDate>Sun, 31 May 2026 23:02:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Encrypted Client Hello: A Big Tech Privacy Fix</title>
+      <link>https://blog.miloslavhomer.cz/encrypted-client-hello/</link>
+      <description>Much of the traffic on the web is now encrypted thanks to SSL/TLS (https). This prevents attackers from seeing the contents of your traffic. But they can still see which domains you are connecting to, and that might be a problem still.</description>
+      <category>conference</category>
+      <category>encryption</category>
+      <category>cloud</category>
+      <category>git</category>
+      <guid>https://blog.miloslavhomer.cz/encrypted-client-hello/</guid>
+      <pubDate>Sun, 31 May 2026 23:02:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Snapshot-based CMEK Bypass: Cross-Project Disk Replication</title>
+      <link>https://aneviaro.eu/posts/snapshot-based-cmek-bypass/</link>
+      <description>This follow-up demonstrates a snapshot-based bypass that complements the disk-cloning attack described earlier.</description>
+      <category>cloud</category>
+      <category>encryption</category>
+      <guid>https://aneviaro.eu/posts/snapshot-based-cmek-bypass/</guid>
+      <pubDate>Sun, 31 May 2026 23:02:18 GMT</pubDate>
+    </item>
+    <item>
       <title>Scientists found that the creatine supplement millions take for muscle gains is quietly raising brain energy levels and slowing early Alzheimer's cognitive decline by 30% - thesciverse</title>
       <link>https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/</link>
       <description>Tens of millions of people take creatine every day for their muscles. A comprehensive review and a landmark clinical trial published in 2025 and 2026 have now documented what the same supplement is quietly doing to their brains. Creatine crosses the blood-brain barrier, raises phosphocreatine levels in neurons, and provides the ATP buffer that keeps cognitive performance from hitting an energy ceiling during demanding mental work. In early Alzheimer's patients, it slowed cognitive decline by approximately 30% versus placebo in a controlled trial. In healthy adults under sleep deprivation, a single dose measurably improved cognitive performance. In depression patients, adding it to cognitive behavioral therapy significantly improved outcomes beyond therapy alone. None of this is mentioned on the label.</description>
