@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Scientists found that the creatine supplement millions take for muscle gains is quietly raising brain energy levels and slowing early Alzheimer's cognitive decline by 30% - thesciverse</title>
+      <link>https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/</link>
+      <description>Tens of millions of people take creatine every day for their muscles. A comprehensive review and a landmark clinical trial published in 2025 and 2026 have now documented what the same supplement is quietly doing to their brains. Creatine crosses the blood-brain barrier, raises phosphocreatine levels in neurons, and provides the ATP buffer that keeps cognitive performance from hitting an energy ceiling during demanding mental work. In early Alzheimer's patients, it slowed cognitive decline by approximately 30% versus placebo in a controlled trial. In healthy adults under sleep deprivation, a single dose measurably improved cognitive performance. In depression patients, adding it to cognitive behavioral therapy significantly improved outcomes beyond therapy alone. None of this is mentioned on the label.</description>
+      <guid>https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/</guid>
+      <pubDate>Sun, 31 May 2026 20:02:10 GMT</pubDate>
+    </item>
+    <item>
       <title>Cloudflare Turnstile requiring fingerprintable WebGL</title>
       <link>https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting</link>
       <description>Since about a week, Cloudflare Turnstile (their "Verify you're human"
@@ -210,16 +217,6 @@ Only recently did I realize the role of pen and paper in my digital life: not as
       <category>ai</category>
       <guid>https://openrouter.ai/announcements/series-b</guid>
       <pubDate>Sat, 30 May 2026 22:02:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - kristapsdz/openrsync: BSD-licensed implementation of rsync</title>
-      <link>https://github.com/kristapsdz/openrsync</link>
-      <description>BSD-licensed implementation of rsync. Contribute to kristapsdz/openrsync development by creating an account on GitHub.</description>
-      <category>linux</category>
-      <category>apple</category>
-      <category>git</category>
-      <guid>https://github.com/kristapsdz/openrsync</guid>
-      <pubDate>Sat, 30 May 2026 20:02:26 GMT</pubDate>
     </item>
   </channel>
 </rss>
