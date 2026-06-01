@@ -204,16 +204,5 @@ Gall isn’t the only promoter of simple systems. Here’s Dijkstra (maybe you�
       <guid>https://thoughts.hmmz.org/2026-05-31.html</guid>
       <pubDate>Sun, 31 May 2026 18:02:15 GMT</pubDate>
     </item>
-    <item>
-      <title>The Website Specification</title>
-      <link>https://specification.website/</link>
-      <description>A platform-agnostic, full specification of the technical features a good website should have. Built in the open under an MIT licence.</description>
-      <category>python</category>
-      <category>javascript</category>
-      <category>web</category>
-      <category>ai</category>
-      <guid>https://specification.website/</guid>
-      <pubDate>Sun, 31 May 2026 14:02:05 GMT</pubDate>
-    </item>
   </channel>
 </rss>

@@ -150,13 +150,5 @@
     "Domain": "thoughts.hmmz.org",
     "Description": "I am trying to think of a list of all the wonderful things I've built with AI:",
     "Confidence": 0.90697944
-  },
-  {
-    "Title": "The Website Specification",
-    "Url": "https://specification.website/",
-    "Timestamp": "2026-05-31T14:02:05",
-    "Domain": "specification.website",
-    "Description": "A platform-agnostic, full specification of the technical features a good website should have. Built in the open under an MIT licence.",
-    "Confidence": 0.97958153
   }
 ]
