@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>PrismML — Introducing 1-bit and Ternary Bonsai Image 4B: Image Generation for Local Devices</title>
+      <link>https://prismml.com/news/bonsai-image-4b</link>
+      <description></description>
+      <category>visualstudio</category>
+      <category>ides</category>
+      <category>encryption</category>
+      <category>apple</category>
+      <category>ai</category>
+      <guid>https://prismml.com/news/bonsai-image-4b</guid>
+      <pubDate>Mon, 01 Jun 2026 00:02:11 GMT</pubDate>
+    </item>
+    <item>
       <title>Converting ISO Country Codes to Flag Emojis</title>
       <link>https://danq.me/2026/05/31/iso-country-codes-to-flags/</link>
       <description>Did you know that there's a simple formula you can use to convert from an ISO two-letter country code to the emoji of the flag of that country. I've made an interactive thingy to demonstrate it, and shared some other fun things I've learned while playing around with ISO 3166 and flag emoji.</description>
