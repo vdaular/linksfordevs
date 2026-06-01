@@ -150,13 +150,5 @@
     "Domain": "shantellsans.com",
     "Description": "A new typeface from Shantell Martin",
     "Confidence": 0.9763697
-  },
-  {
-    "Title": "Build agents, not pipelines",
-    "Url": "https://www.seangoedecke.com/build-agents-not-pipelines/",
-    "Timestamp": "2026-05-31T05:02:10",
-    "Domain": "www.seangoedecke.com",
-    "Description": "There are only two ways to use LLMs in a computer program: as part of a pipeline, or as an agent. In other words, either you express the control flow of the program in code, or you give a LLM tools and allow it to manage the control flow itself1.",
-    "Confidence": 0.9855937
   }
 ]

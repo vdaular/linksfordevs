@@ -200,13 +200,5 @@ Gall isn’t the only promoter of simple systems. Here’s Dijkstra (maybe you�
       <guid>https://shantellsans.com/process</guid>
       <pubDate>Sun, 31 May 2026 10:02:00 GMT</pubDate>
     </item>
-    <item>
-      <title>Build agents, not pipelines</title>
-      <link>https://www.seangoedecke.com/build-agents-not-pipelines/</link>
-      <description>There are only two ways to use LLMs in a computer program: as part of a pipeline, or as an agent. In other words, either you express the control flow of the program in code, or you give a LLM tools and allow it to manage the control flow itself1.</description>
-      <category>ai</category>
-      <guid>https://www.seangoedecke.com/build-agents-not-pipelines/</guid>
-      <pubDate>Sun, 31 May 2026 05:02:10 GMT</pubDate>
-    </item>
   </channel>
 </rss>
