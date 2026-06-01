@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Chuwi Minibook X: the netbook we deserve",
+    "Url": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
+    "Timestamp": "2026-06-01T09:02:07",
+    "Domain": "tylercipriani.com",
+    "Description": "Netbooks are dead, but the Chuwi Minibook X scratches the same\nitch.",
+    "Confidence": 0.8643324
+  },
+  {
+    "Title": "Weird projects I shipped with AI",
+    "Url": "https://www.seangoedecke.com/weird-projects-i-shipped-with-ai/",
+    "Timestamp": "2026-06-01T09:02:04",
+    "Domain": "www.seangoedecke.com",
+    "Description": "Where are all the AI-generated projects? This is a common question from AI skeptics: if LLMs are so good at writing code, where is the tsunami of new AI-generated apps, services and games?",
+    "Confidence": 0.9560595
+  },
+  {
     "Title": "PrismML — Introducing 1-bit and Ternary Bonsai Image 4B: Image Generation for Local Devices",
     "Url": "https://prismml.com/news/bonsai-image-4b",
     "Timestamp": "2026-06-01T00:02:11",

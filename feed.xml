@@ -7,6 +7,26 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Chuwi Minibook X: the netbook we deserve</title>
+      <link>https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/</link>
+      <description>Netbooks are dead, but the Chuwi Minibook X scratches the same
+itch.</description>
+      <category>linux</category>
+      <guid>https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/</guid>
+      <pubDate>Mon, 01 Jun 2026 09:02:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Weird projects I shipped with AI</title>
+      <link>https://www.seangoedecke.com/weird-projects-i-shipped-with-ai/</link>
+      <description>Where are all the AI-generated projects? This is a common question from AI skeptics: if LLMs are so good at writing code, where is the tsunami of new AI-generated apps, services and games?</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <category>sql</category>
+      <category>javascript</category>
+      <guid>https://www.seangoedecke.com/weird-projects-i-shipped-with-ai/</guid>
+      <pubDate>Mon, 01 Jun 2026 09:02:04 GMT</pubDate>
+    </item>
+    <item>
       <title>PrismML — Introducing 1-bit and Ternary Bonsai Image 4B: Image Generation for Local Devices</title>
       <link>https://prismml.com/news/bonsai-image-4b</link>
       <description></description>
