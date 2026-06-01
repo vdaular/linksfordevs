@@ -1,5 +1,12 @@
 [
   {
+    "Title": "A 10 year old Xeon is all you need - point.free",
+    "Url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
+    "Timestamp": "2026-06-01T13:02:20",
+    "Domain": "point.free",
+    "Description": "Or running Gemma 4 on a 2016 Xeon with no GPU, 25 flags, 128 GB of DDR3, and a 25B-parameter MoE."
+  },
+  {
     "Title": "Chuwi Minibook X: the netbook we deserve",
     "Url": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
     "Timestamp": "2026-06-01T09:02:07",

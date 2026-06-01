@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>A 10 year old Xeon is all you need - point.free</title>
+      <link>https://point.free/blog/gemma-4-on-a-2016-xeon/</link>
+      <description>Or running Gemma 4 on a 2016 Xeon with no GPU, 25 flags, 128 GB of DDR3, and a 25B-parameter MoE.</description>
+      <category>cloud</category>
+      <category>ai</category>
+      <category>encryption</category>
+      <category>linux</category>
+      <guid>https://point.free/blog/gemma-4-on-a-2016-xeon/</guid>
+      <pubDate>Mon, 01 Jun 2026 13:02:20 GMT</pubDate>
+    </item>
+    <item>
       <title>Chuwi Minibook X: the netbook we deserve</title>
       <link>https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/</link>
       <description>Netbooks are dead, but the Chuwi Minibook X scratches the same
@@ -203,13 +214,6 @@ Gall isn’t the only promoter of simple systems. Here’s Dijkstra (maybe you�
       <category>ai</category>
       <guid>https://specification.website/</guid>
       <pubDate>Sun, 31 May 2026 14:02:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>AV2 Specification</title>
-      <link>https://av2.aomedia.org/</link>
-      <description>AV2 is the next-generation video coding specification from the Alliance for Open Media (AOMedia). Building on the foundation of AV1, AV2 is engineered to provide superior compression efficiency, enabling high-quality video delivery at significantly lower bitrates. It is optimized for the evolving demands of streaming, broadcasting, and real-time video conferencing.</description>
-      <guid>https://av2.aomedia.org/</guid>
-      <pubDate>Sun, 31 May 2026 13:02:10 GMT</pubDate>
     </item>
   </channel>
 </rss>

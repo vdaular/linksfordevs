@@ -1,5 +1,13 @@
 [
   {
+    "Title": "A 10 year old Xeon is all you need - point.free",
+    "Url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
+    "Timestamp": "2026-06-01T13:02:20",
+    "Domain": "point.free",
+    "Description": "Or running Gemma 4 on a 2016 Xeon with no GPU, 25 flags, 128 GB of DDR3, and a 25B-parameter MoE.",
+    "Confidence": 0.97243375
+  },
+  {
     "Title": "Chuwi Minibook X: the netbook we deserve",
     "Url": "https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/",
     "Timestamp": "2026-06-01T09:02:07",
@@ -150,13 +158,5 @@
     "Domain": "specification.website",
     "Description": "A platform-agnostic, full specification of the technical features a good website should have. Built in the open under an MIT licence.",
     "Confidence": 0.97958153
-  },
-  {
-    "Title": "AV2 Specification",
-    "Url": "https://av2.aomedia.org/",
-    "Timestamp": "2026-05-31T13:02:10",
-    "Domain": "av2.aomedia.org",
-    "Description": "AV2 is the next-generation video coding specification from the Alliance for Open Media (AOMedia). Building on the foundation of AV1, AV2 is engineered to provide superior compression efficiency, enabling high-quality video delivery at significantly lower bitrates. It is optimized for the evolving demands of streaming, broadcasting, and real-time video conferencing.",
-    "Confidence": 0.9794437
   }
 ]
