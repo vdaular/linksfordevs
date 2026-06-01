@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Sunbeam</title>
+      <link>https://xkcd.com/3253/</link>
+      <description></description>
+      <category>apple</category>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3253/</guid>
+      <pubDate>Mon, 01 Jun 2026 16:02:09 GMT</pubDate>
+    </item>
+    <item>
       <title>A 10 year old Xeon is all you need - point.free</title>
       <link>https://point.free/blog/gemma-4-on-a-2016-xeon/</link>
       <description>Or running Gemma 4 on a 2016 Xeon with no GPU, 25 flags, 128 GB of DDR3, and a 25B-parameter MoE.</description>
