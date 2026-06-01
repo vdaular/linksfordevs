@@ -7,6 +7,25 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Stanford CS336 | Language Modeling from Scratch</title>
+      <link>https://cs336.stanford.edu/</link>
+      <description>Official course website for Stanford CS336: Language Modeling from Scratch (Spring 2026), including logistics, schedule, assignments, and course materials.</description>
+      <category>python</category>
+      <category>ai</category>
+      <guid>https://cs336.stanford.edu/</guid>
+      <pubDate>Mon, 01 Jun 2026 21:02:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms | TechCrunch</title>
+      <link>https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/</link>
+      <description>Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users.</description>
+      <category>cloud</category>
+      <category>ai</category>
+      <category>apple</category>
+      <guid>https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/</guid>
+      <pubDate>Mon, 01 Jun 2026 21:02:21 GMT</pubDate>
+    </item>
+    <item>
       <title>The web is changing, and we are not going back</title>
       <link>https://idiallo.com/blog/web-is-changing-we-are-not-going-back?src=feed</link>
       <description>Whenever I saw someone type a natural language query into Google, it made me cringe. "It's not a person," I would say. "Type like you're talking to a machine." This was especially true for programmers</description>

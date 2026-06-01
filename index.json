@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Stanford CS336 | Language Modeling from Scratch",
+    "Url": "https://cs336.stanford.edu/",
+    "Timestamp": "2026-06-01T21:02:25",
+    "Domain": "cs336.stanford.edu",
+    "Description": "Official course website for Stanford CS336: Language Modeling from Scratch (Spring 2026), including logistics, schedule, assignments, and course materials.",
+    "Confidence": 0.99625957
+  },
+  {
+    "Title": "DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms | TechCrunch",
+    "Url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
+    "Timestamp": "2026-06-01T21:02:21",
+    "Domain": "techcrunch.com",
+    "Description": "Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users.",
+    "Confidence": 0.7579019
+  },
+  {
     "Title": "The web is changing, and we are not going back",
     "Url": "https://idiallo.com/blog/web-is-changing-we-are-not-going-back?src=feed",
     "Timestamp": "2026-06-01T20:02:11",
