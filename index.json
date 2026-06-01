@@ -1,5 +1,29 @@
 [
   {
+    "Title": "The art and engineering of Silpheed",
+    "Url": "https://fabiensanglard.net/silpheed/index.html",
+    "Timestamp": "2026-06-01T19:02:35",
+    "Domain": "fabiensanglard.net",
+    "Description": "June 1, 2025",
+    "Confidence": 0.9657373
+  },
+  {
+    "Title": "Magic the Gathering format: Fun 40",
+    "Url": "https://fabiensanglard.net/mtg/fun/index.html",
+    "Timestamp": "2026-06-01T19:02:31",
+    "Domain": "fabiensanglard.net",
+    "Description": "May 1, 2025",
+    "Confidence": 0.79965925
+  },
+  {
+    "Title": "Anthropic confidentially submits draft S-1 to the SEC",
+    "Url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
+    "Timestamp": "2026-06-01T19:02:28",
+    "Domain": "www.anthropic.com",
+    "Description": "Anthropic has confidentially submitted a draft S-1 registration statement to the Securities and Exchange Commission",
+    "Confidence": 0.6181851
+  },
+  {
     "Title": "The Newest Instagram \"Exploit\" is the Goofiest I've Seen",
     "Url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
     "Timestamp": "2026-06-01T18:02:27",
@@ -150,13 +174,5 @@
     "Domain": "thesciverse.org",
     "Description": "Tens of millions of people take creatine every day for their muscles. A comprehensive review and a landmark clinical trial published in 2025 and 2026 have now documented what the same supplement is quietly doing to their brains. Creatine crosses the blood-brain barrier, raises phosphocreatine levels in neurons, and provides the ATP buffer that keeps cognitive performance from hitting an energy ceiling during demanding mental work. In early Alzheimer's patients, it slowed cognitive decline by approximately 30% versus placebo in a controlled trial. In healthy adults under sleep deprivation, a single dose measurably improved cognitive performance. In depression patients, adding it to cognitive behavioral therapy significantly improved outcomes beyond therapy alone. None of this is mentioned on the label.",
     "Confidence": 0.90878165
-  },
-  {
-    "Title": "Cloudflare Turnstile requiring fingerprintable WebGL",
-    "Url": "https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting",
-    "Timestamp": "2026-05-31T19:02:21",
-    "Domain": "hacktivis.me",
-    "Description": "Since about a week, Cloudflare Turnstile (their \"Verify you're human\"\n\tdevice verification) has been looping indefinitely in my\n\twebkit-gtk based browser.\n\tPreventing access to quite few websites (previously, but it even went worse lately).\n\t\n\tTurns out it's because Cloudflare wants to have a fingerprint of your\n\tdevice via WebGL, the only reason for doing this would be tracking.",
-    "Confidence": 0.88167316
   }
 ]

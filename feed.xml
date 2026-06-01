@@ -7,6 +7,31 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The art and engineering of Silpheed</title>
+      <link>https://fabiensanglard.net/silpheed/index.html</link>
+      <description>June 1, 2025</description>
+      <category>gaming</category>
+      <guid>https://fabiensanglard.net/silpheed/index.html</guid>
+      <pubDate>Mon, 01 Jun 2026 19:02:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Magic the Gathering format: Fun 40</title>
+      <link>https://fabiensanglard.net/mtg/fun/index.html</link>
+      <description>May 1, 2025</description>
+      <category>gaming</category>
+      <category>web</category>
+      <guid>https://fabiensanglard.net/mtg/fun/index.html</guid>
+      <pubDate>Mon, 01 Jun 2026 19:02:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anthropic confidentially submits draft S-1 to the SEC</title>
+      <link>https://www.anthropic.com/news/confidential-draft-s1-sec</link>
+      <description>Anthropic has confidentially submitted a draft S-1 registration statement to the Securities and Exchange Commission</description>
+      <category>ai</category>
+      <guid>https://www.anthropic.com/news/confidential-draft-s1-sec</guid>
+      <pubDate>Mon, 01 Jun 2026 19:02:28 GMT</pubDate>
+    </item>
+    <item>
       <title>The Newest Instagram "Exploit" is the Goofiest I've Seen</title>
       <link>https://www.0xsid.com/blog/meta-account-takeover-fiasco</link>
       <description>Yesterday, a slew of Instagram accounts, including some high profile ones like the Obama White House account, seemingly got hacked. I've seen my share of exploits and takeover techniques, but this is the most unserious, "almost too stupid to be true" of them all.</description>
@@ -193,21 +218,6 @@ Gall isn’t the only promoter of simple systems. Here’s Dijkstra (maybe you�
       <description>Tens of millions of people take creatine every day for their muscles. A comprehensive review and a landmark clinical trial published in 2025 and 2026 have now documented what the same supplement is quietly doing to their brains. Creatine crosses the blood-brain barrier, raises phosphocreatine levels in neurons, and provides the ATP buffer that keeps cognitive performance from hitting an energy ceiling during demanding mental work. In early Alzheimer's patients, it slowed cognitive decline by approximately 30% versus placebo in a controlled trial. In healthy adults under sleep deprivation, a single dose measurably improved cognitive performance. In depression patients, adding it to cognitive behavioral therapy significantly improved outcomes beyond therapy alone. None of this is mentioned on the label.</description>
       <guid>https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/</guid>
       <pubDate>Sun, 31 May 2026 20:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cloudflare Turnstile requiring fingerprintable WebGL</title>
-      <link>https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting</link>
-      <description>Since about a week, Cloudflare Turnstile (their "Verify you're human"
-	device verification) has been looping indefinitely in my
-	webkit-gtk based browser.
-	Preventing access to quite few websites (previously, but it even went worse lately).
-	
-	Turns out it's because Cloudflare wants to have a fingerprint of your
-	device via WebGL, the only reason for doing this would be tracking.</description>
-      <category>web</category>
-      <category>apple</category>
-      <guid>https://hacktivis.me/articles/cloudflare-turnstile-webgl-fingerprinting</guid>
-      <pubDate>Sun, 31 May 2026 19:02:21 GMT</pubDate>
     </item>
   </channel>
 </rss>
