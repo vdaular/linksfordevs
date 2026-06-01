@@ -1,5 +1,13 @@
 [
   {
+    "Title": "The Newest Instagram \"Exploit\" is the Goofiest I've Seen",
+    "Url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
+    "Timestamp": "2026-06-01T18:02:27",
+    "Domain": "www.0xsid.com",
+    "Description": "Yesterday, a slew of Instagram accounts, including some high profile ones like the Obama White House account, seemingly got hacked. I've seen my share of exploits and takeover techniques, but this is the most unserious, \"almost too stupid to be true\" of them all.",
+    "Confidence": 0.92830867
+  },
+  {
     "Title": "Sunbeam",
     "Url": "https://xkcd.com/3253/",
     "Timestamp": "2026-06-01T16:02:09",
@@ -150,13 +158,5 @@
     "Domain": "hacktivis.me",
     "Description": "Since about a week, Cloudflare Turnstile (their \"Verify you're human\"\n\tdevice verification) has been looping indefinitely in my\n\twebkit-gtk based browser.\n\tPreventing access to quite few websites (previously, but it even went worse lately).\n\t\n\tTurns out it's because Cloudflare wants to have a fingerprint of your\n\tdevice via WebGL, the only reason for doing this would be tracking.",
     "Confidence": 0.88167316
-  },
-  {
-    "Title": "the solution might be cancelling my AI subscription",
-    "Url": "https://thoughts.hmmz.org/2026-05-31.html",
-    "Timestamp": "2026-05-31T18:02:15",
-    "Domain": "thoughts.hmmz.org",
-    "Description": "I am trying to think of a list of all the wonderful things I've built with AI:",
-    "Confidence": 0.90697944
   }
 ]
