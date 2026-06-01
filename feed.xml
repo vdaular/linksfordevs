@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The web is changing, and we are not going back</title>
+      <link>https://idiallo.com/blog/web-is-changing-we-are-not-going-back?src=feed</link>
+      <description>Whenever I saw someone type a natural language query into Google, it made me cringe. "It's not a person," I would say. "Type like you're talking to a machine." This was especially true for programmers</description>
+      <category>web</category>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://idiallo.com/blog/web-is-changing-we-are-not-going-back?src=feed</guid>
+      <pubDate>Mon, 01 Jun 2026 20:02:11 GMT</pubDate>
+    </item>
+    <item>
       <title>The art and engineering of Silpheed</title>
       <link>https://fabiensanglard.net/silpheed/index.html</link>
       <description>June 1, 2025</description>
@@ -211,13 +221,6 @@ Gall isn’t the only promoter of simple systems. Here’s Dijkstra (maybe you�
       <category>encryption</category>
       <guid>https://aneviaro.eu/posts/snapshot-based-cmek-bypass/</guid>
       <pubDate>Sun, 31 May 2026 23:02:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Scientists found that the creatine supplement millions take for muscle gains is quietly raising brain energy levels and slowing early Alzheimer's cognitive decline by 30% - thesciverse</title>
-      <link>https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/</link>
-      <description>Tens of millions of people take creatine every day for their muscles. A comprehensive review and a landmark clinical trial published in 2025 and 2026 have now documented what the same supplement is quietly doing to their brains. Creatine crosses the blood-brain barrier, raises phosphocreatine levels in neurons, and provides the ATP buffer that keeps cognitive performance from hitting an energy ceiling during demanding mental work. In early Alzheimer's patients, it slowed cognitive decline by approximately 30% versus placebo in a controlled trial. In healthy adults under sleep deprivation, a single dose measurably improved cognitive performance. In depression patients, adding it to cognitive behavioral therapy significantly improved outcomes beyond therapy alone. None of this is mentioned on the label.</description>
-      <guid>https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/</guid>
-      <pubDate>Sun, 31 May 2026 20:02:10 GMT</pubDate>
     </item>
   </channel>
 </rss>

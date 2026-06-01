@@ -1,5 +1,13 @@
 [
   {
+    "Title": "The web is changing, and we are not going back",
+    "Url": "https://idiallo.com/blog/web-is-changing-we-are-not-going-back?src=feed",
+    "Timestamp": "2026-06-01T20:02:11",
+    "Domain": "idiallo.com",
+    "Description": "Whenever I saw someone type a natural language query into Google, it made me cringe. \"It's not a person,\" I would say. \"Type like you're talking to a machine.\" This was especially true for programmers",
+    "Confidence": 0.9450037
+  },
+  {
     "Title": "The art and engineering of Silpheed",
     "Url": "https://fabiensanglard.net/silpheed/index.html",
     "Timestamp": "2026-06-01T19:02:35",
@@ -166,13 +174,5 @@
     "Domain": "aneviaro.eu",
     "Description": "This follow-up demonstrates a snapshot-based bypass that complements the disk-cloning attack described earlier.",
     "Confidence": 0.9927375
-  },
-  {
-    "Title": "Scientists found that the creatine supplement millions take for muscle gains is quietly raising brain energy levels and slowing early Alzheimer's cognitive decline by 30% - thesciverse",
-    "Url": "https://thesciverse.org/scientists-found-that-the-creatine-supplement-millions-take-for-muscle-gains-is-quietly-raising-brain-energy-levels-and-slowing-early-alzheimers-cognitive-decline-by-30/",
-    "Timestamp": "2026-05-31T20:02:10",
-    "Domain": "thesciverse.org",
-    "Description": "Tens of millions of people take creatine every day for their muscles. A comprehensive review and a landmark clinical trial published in 2025 and 2026 have now documented what the same supplement is quietly doing to their brains. Creatine crosses the blood-brain barrier, raises phosphocreatine levels in neurons, and provides the ATP buffer that keeps cognitive performance from hitting an energy ceiling during demanding mental work. In early Alzheimer's patients, it slowed cognitive decline by approximately 30% versus placebo in a controlled trial. In healthy adults under sleep deprivation, a single dose measurably improved cognitive performance. In depression patients, adding it to cognitive behavioral therapy significantly improved outcomes beyond therapy alone. None of this is mentioned on the label.",
-    "Confidence": 0.90878165
   }
 ]
