@@ -294,13 +294,5 @@
     "Domain": "arijan.dev",
     "Description": "After a year of using Niri, I’m probably going back to Sway - here is why.\nOut of sight, out of mind When you open four new terminal windows on Niri, you quite literally don’t see the consequences. If you leave those windows at their default sizes (half screen width), you have just added 4×50%=200% (two monitors’ worth) of horizontal scrolling space for your future self to sift through. You leave them there, just in case, and ‘focus left’ a bunch of times to return to what you were doing.",
     "Confidence": 0.97943306
-  },
-  {
-    "Title": "assignment1-basics/CLAUDE.md at main · stanford-cs336/assignment1-basics",
-    "Url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
-    "Timestamp": "2026-06-01T23:02:09",
-    "Domain": "github.com",
-    "Description": "Student version of Assignment 1 for Stanford CS336 - Language Modeling From Scratch - stanford-cs336/assignment1-basics",
-    "Confidence": 0.9837618
   }
 ]
