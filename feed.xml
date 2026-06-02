@@ -7,6 +7,25 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Age verification for social media – the beginning of the end for a free internet? | Mullvad VPN</title>
+      <link>https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet</link>
+      <description>So-called age verification for social media is spreading across the world, framed as an effort to create a safer internet for children. In reality, age verification lays the foundation for a fully government controlled internet.</description>
+      <category>encryption</category>
+      <category>apple</category>
+      <guid>https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet</guid>
+      <pubDate>Tue, 02 Jun 2026 10:02:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>macOS Needs Its Grid Back</title>
+      <link>https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/</link>
+      <description>Two decades ago I had a better Mac desktop experience than I have today. I only had a single low res (by todays standards) screen, yet I felt like Hugh Jackman in Swordfish - deftly navigating more than nine displays without thinking, muscle and spatial memory working seamlessly together. TLDR; I built an app to return macOS spaces to its Pre-Lion Grid-enabled Glory. Read on for the increasingly rare experience of an actual human dropping a bit of nostalgia, the thinking behind why make this and some issues encountered along the way.</description>
+      <category>apple</category>
+      <category>ides</category>
+      <category>linux</category>
+      <guid>https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/</guid>
+      <pubDate>Tue, 02 Jun 2026 10:02:09 GMT</pubDate>
+    </item>
+    <item>
       <title>OpenAI frontier models and Codex are now available on AWS</title>
       <link>https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/</link>
       <description>OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.</description>
