@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>OpenAI frontier models and Codex are now available on AWS</title>
+      <link>https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/</link>
+      <description>OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.</description>
+      <category>cloud</category>
+      <category>ai</category>
+      <guid>https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/</guid>
+      <pubDate>Tue, 02 Jun 2026 09:01:51 GMT</pubDate>
+    </item>
+    <item>
       <title>Tokens are the new transistors</title>
       <link>https://www.anantjain.xyz/posts/tokens-are-the-new-transistors</link>
       <description>The teams that win the next decade are the ones building as if tokens are already free and infinite</description>
@@ -343,26 +352,6 @@ Out of sight, out of mind When you open four new terminal windows on Niri, you q
       <category>linux</category>
       <guid>https://point.free/blog/gemma-4-on-a-2016-xeon/</guid>
       <pubDate>Mon, 01 Jun 2026 13:02:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Chuwi Minibook X: the netbook we deserve</title>
-      <link>https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/</link>
-      <description>Netbooks are dead, but the Chuwi Minibook X scratches the same
-itch.</description>
-      <category>linux</category>
-      <guid>https://tylercipriani.com/blog/2026/05/28/chuwi-minibook-x/</guid>
-      <pubDate>Mon, 01 Jun 2026 09:02:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Weird projects I shipped with AI</title>
-      <link>https://www.seangoedecke.com/weird-projects-i-shipped-with-ai/</link>
-      <description>Where are all the AI-generated projects? This is a common question from AI skeptics: if LLMs are so good at writing code, where is the tsunami of new AI-generated apps, services and games?</description>
-      <category>ai</category>
-      <category>gaming</category>
-      <category>sql</category>
-      <category>javascript</category>
-      <guid>https://www.seangoedecke.com/weird-projects-i-shipped-with-ai/</guid>
-      <pubDate>Mon, 01 Jun 2026 09:02:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
