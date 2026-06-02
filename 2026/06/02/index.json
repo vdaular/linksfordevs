@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Introducing MAI-Code-1-Flash  | Microsoft AI",
+    "Url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
+    "Timestamp": "2026-06-02T22:02:14",
+    "Domain": "microsoft.ai",
+    "Description": "Coding models are most useful when they perform well in the same environment developers use every day. That is why we built MAI-Code-1-Flash with production workflows at the center, rather than optimizing only for benchmarks. The model was trained directly with GitHub Copilot harnesses used in production. This allows it to learn how to interact with surrounding tools and systems in agentic coding tasks, making it uniquely well suited to real-world Copilot workflows compared to other available models."
+  },
+  {
     "Title": "Quote of the day by Oracle co-founder Larry Ellison: \"Citizens will be on their best behavior, because we’re constantly recording and reporting everything that is going on\" — a dire warning on the erosion of privacy",
     "Url": "https://www.techradar.com/pro/quote-of-the-day-by-oracle-co-founder-larry-ellison-citizens-will-be-on-their-best-behavior-because-were-constantly-recording-and-reporting-everything-that-is-going-on-a-dire-warning-on-the-erosion-of-privacy",
     "Timestamp": "2026-06-02T21:02:27",

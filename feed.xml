@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Introducing MAI-Code-1-Flash  | Microsoft AI</title>
+      <link>https://microsoft.ai/news/introducingmai-code-1-flash/</link>
+      <description>Coding models are most useful when they perform well in the same environment developers use every day. That is why we built MAI-Code-1-Flash with production workflows at the center, rather than optimizing only for benchmarks. The model was trained directly with GitHub Copilot harnesses used in production. This allows it to learn how to interact with surrounding tools and systems in agentic coding tasks, making it uniquely well suited to real-world Copilot workflows compared to other available models.</description>
+      <category>ai</category>
+      <category>ides</category>
+      <guid>https://microsoft.ai/news/introducingmai-code-1-flash/</guid>
+      <pubDate>Tue, 02 Jun 2026 22:02:14 GMT</pubDate>
+    </item>
+    <item>
       <title>Quote of the day by Oracle co-founder Larry Ellison: "Citizens will be on their best behavior, because we’re constantly recording and reporting everything that is going on" — a dire warning on the erosion of privacy</title>
       <link>https://www.techradar.com/pro/quote-of-the-day-by-oracle-co-founder-larry-ellison-citizens-will-be-on-their-best-behavior-because-were-constantly-recording-and-reporting-everything-that-is-going-on-a-dire-warning-on-the-erosion-of-privacy</link>
       <description>Legendary technologist Larry Ellison has outlined a vision for an increasingly aggressive surveillance state in the 21st century</description>
