@@ -318,13 +318,5 @@
     "Domain": "www.anthropic.com",
     "Description": "Anthropic has confidentially submitted a draft S-1 registration statement to the Securities and Exchange Commission",
     "Confidence": 0.6181851
-  },
-  {
-    "Title": "The Newest Instagram \"Exploit\" is the Goofiest I've Seen",
-    "Url": "https://www.0xsid.com/blog/meta-account-takeover-fiasco",
-    "Timestamp": "2026-06-01T18:02:27",
-    "Domain": "www.0xsid.com",
-    "Description": "Yesterday, a slew of Instagram accounts, including some high profile ones like the Obama White House account, seemingly got hacked. I've seen my share of exploits and takeover techniques, but this is the most unserious, \"almost too stupid to be true\" of them all.",
-    "Confidence": 0.92830867
   }
 ]
