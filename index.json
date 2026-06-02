@@ -326,13 +326,5 @@
     "Domain": "xkcd.com",
     "Description": "",
     "Confidence": 0.98151064
-  },
-  {
-    "Title": "A 10 year old Xeon is all you need - point.free",
-    "Url": "https://point.free/blog/gemma-4-on-a-2016-xeon/",
-    "Timestamp": "2026-06-01T13:02:20",
-    "Domain": "point.free",
-    "Description": "Or running Gemma 4 on a 2016 Xeon with no GPU, 25 flags, 128 GB of DDR3, and a 25B-parameter MoE.",
-    "Confidence": 0.97243375
   }
 ]

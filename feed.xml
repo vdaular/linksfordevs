@@ -373,16 +373,5 @@ Out of sight, out of mind When you open four new terminal windows on Niri, you q
       <guid>https://xkcd.com/3253/</guid>
       <pubDate>Mon, 01 Jun 2026 16:02:09 GMT</pubDate>
     </item>
-    <item>
-      <title>A 10 year old Xeon is all you need - point.free</title>
-      <link>https://point.free/blog/gemma-4-on-a-2016-xeon/</link>
-      <description>Or running Gemma 4 on a 2016 Xeon with no GPU, 25 flags, 128 GB of DDR3, and a 25B-parameter MoE.</description>
-      <category>cloud</category>
-      <category>ai</category>
-      <category>encryption</category>
-      <category>linux</category>
-      <guid>https://point.free/blog/gemma-4-on-a-2016-xeon/</guid>
-      <pubDate>Mon, 01 Jun 2026 13:02:20 GMT</pubDate>
-    </item>
   </channel>
 </rss>
