@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>A walking tour of surveillance infrastructure in Seattle</title>
+      <link>https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/</link>
+      <description>coveillance.org</description>
+      <category>apple</category>
+      <category>sql</category>
+      <guid>https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/</guid>
+      <pubDate>Tue, 02 Jun 2026 19:02:02 GMT</pubDate>
+    </item>
+    <item>
       <title>Adafruit Industries - Makers, hackers, artists, designers and engineers!</title>
       <link>https://blog.adafruit.com/</link>
       <description>electronics, open source hardware, hacking and more...</description>
@@ -337,31 +346,6 @@ Out of sight, out of mind When you open four new terminal windows on Niri, you q
       <category>javascript</category>
       <guid>https://idiallo.com/blog/web-is-changing-we-are-not-going-back?src=feed</guid>
       <pubDate>Mon, 01 Jun 2026 20:02:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>The art and engineering of Silpheed</title>
-      <link>https://fabiensanglard.net/silpheed/index.html</link>
-      <description>June 1, 2025</description>
-      <category>gaming</category>
-      <guid>https://fabiensanglard.net/silpheed/index.html</guid>
-      <pubDate>Mon, 01 Jun 2026 19:02:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Magic the Gathering format: Fun 40</title>
-      <link>https://fabiensanglard.net/mtg/fun/index.html</link>
-      <description>May 1, 2025</description>
-      <category>gaming</category>
-      <category>web</category>
-      <guid>https://fabiensanglard.net/mtg/fun/index.html</guid>
-      <pubDate>Mon, 01 Jun 2026 19:02:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anthropic confidentially submits draft S-1 to the SEC</title>
-      <link>https://www.anthropic.com/news/confidential-draft-s1-sec</link>
-      <description>Anthropic has confidentially submitted a draft S-1 registration statement to the Securities and Exchange Commission</description>
-      <category>ai</category>
-      <guid>https://www.anthropic.com/news/confidential-draft-s1-sec</guid>
-      <pubDate>Mon, 01 Jun 2026 19:02:28 GMT</pubDate>
     </item>
   </channel>
 </rss>

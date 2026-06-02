@@ -1,5 +1,13 @@
 [
   {
+    "Title": "A walking tour of surveillance infrastructure in Seattle",
+    "Url": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
+    "Timestamp": "2026-06-02T19:02:02",
+    "Domain": "coveillance.org",
+    "Description": "coveillance.org",
+    "Confidence": 0.91614133
+  },
+  {
     "Title": "Adafruit Industries - Makers, hackers, artists, designers and engineers!",
     "Url": "https://blog.adafruit.com/",
     "Timestamp": "2026-06-02T14:02:22",
@@ -294,29 +302,5 @@
     "Domain": "idiallo.com",
     "Description": "Whenever I saw someone type a natural language query into Google, it made me cringe. \"It's not a person,\" I would say. \"Type like you're talking to a machine.\" This was especially true for programmers",
     "Confidence": 0.9450037
-  },
-  {
-    "Title": "The art and engineering of Silpheed",
-    "Url": "https://fabiensanglard.net/silpheed/index.html",
-    "Timestamp": "2026-06-01T19:02:35",
-    "Domain": "fabiensanglard.net",
-    "Description": "June 1, 2025",
-    "Confidence": 0.9657373
-  },
-  {
-    "Title": "Magic the Gathering format: Fun 40",
-    "Url": "https://fabiensanglard.net/mtg/fun/index.html",
-    "Timestamp": "2026-06-01T19:02:31",
-    "Domain": "fabiensanglard.net",
-    "Description": "May 1, 2025",
-    "Confidence": 0.79965925
-  },
-  {
-    "Title": "Anthropic confidentially submits draft S-1 to the SEC",
-    "Url": "https://www.anthropic.com/news/confidential-draft-s1-sec",
-    "Timestamp": "2026-06-01T19:02:28",
-    "Domain": "www.anthropic.com",
-    "Description": "Anthropic has confidentially submitted a draft S-1 registration statement to the Securities and Exchange Commission",
-    "Confidence": 0.6181851
   }
 ]
