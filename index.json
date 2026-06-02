@@ -1,5 +1,229 @@
 [
   {
+    "Title": "Tokens are the new transistors",
+    "Url": "https://www.anantjain.xyz/posts/tokens-are-the-new-transistors",
+    "Timestamp": "2026-06-02T00:03:58",
+    "Domain": "www.anantjain.xyz",
+    "Description": "The teams that win the next decade are the ones building as if tokens are already free and infinite",
+    "Confidence": 0.9764814
+  },
+  {
+    "Title": "Why I dropped PRDs for ShapeUp — Luke Swithenbank",
+    "Url": "https://lswith.io/posts/why-i-dropped-prds-for-shapeup/",
+    "Timestamp": "2026-06-02T00:03:55",
+    "Domain": "lswith.io",
+    "Description": "Why I dropped spec-driven development for ShapeUp, and how splitting decision clarity in two changed how we ship.",
+    "Confidence": 0.98221487
+  },
+  {
+    "Title": "Justin Higgins — jchigg ~ dev",
+    "Url": "https://jchigg2000.dev/#blog/the-principal-ic-moat?utm_source=hnblogs.substack.com",
+    "Timestamp": "2026-06-02T00:03:52",
+    "Domain": "jchigg2000.dev",
+    "Description": "Software engineer, 20 years in regulated enterprise. Building at the seam between AI-assisted engineering and how that work gets recognized.",
+    "Confidence": 0.9963634
+  },
+  {
+    "Title": "The Internet is the most stable home I have",
+    "Url": "https://alexarias.me/blogs/sh0.html",
+    "Timestamp": "2026-06-02T00:03:49",
+    "Domain": "alexarias.me",
+    "Description": "The older I get the more I've taken note of what's stayed consistent in my life and I gotta say it ain't much. Accompanying this thought was \"How have I stayed consistent for others as time moves forward?\" and I gotta say I haven't.",
+    "Confidence": 0.96902704
+  },
+  {
+    "Title": "Hardening VS Code extensions",
+    "Url": "https://patches.joao.town/hardening-vscode-extensions/",
+    "Timestamp": "2026-06-02T00:03:45",
+    "Domain": "patches.joao.town",
+    "Description": "My approach to managing VS Code extensions.",
+    "Confidence": 0.9970567
+  },
+  {
+    "Title": "Message Queues and Brokers Help With Temporal Decoupling",
+    "Url": "https://carlosblanco.github.io/architecture/backend/2026/05/25/message-queues-brokers-temporal-decoupling.html",
+    "Timestamp": "2026-06-02T00:03:42",
+    "Domain": "carlosblanco.github.io",
+    "Description": "One of the more common reactions I hear when engineers first encounter a message broker in a service-to-service communication context is that it feels like overengineering. Why introduce Kafka or RabbitMQ when a plain HTTP call does the same job with less infrastructure? It’s a fair question on the surface, and the people asking it aren’t wrong that a broker adds operational complexity. What they’re missing is that the complexity isn’t incidental — it’s the cost of a structural property that HTTP simply cannot give you: temporal decoupling.",
+    "Confidence": 0.95449996
+  },
+  {
+    "Title": "Beyond Tokenmaxxing",
+    "Url": "https://dhrumil.ca/thoughts/beyond-tokenmaxxing",
+    "Timestamp": "2026-06-02T00:03:39",
+    "Domain": "dhrumil.ca",
+    "Description": "Measuring leverage, not consumption",
+    "Confidence": 0.9752554
+  },
+  {
+    "Title": "The True Expense of Nature",
+    "Url": "https://brianschrader.com/archive/the-true-expense-of-nature/",
+    "Timestamp": "2026-06-02T00:03:35",
+    "Domain": "brianschrader.com",
+    "Description": "An exploration of Nature's endeavor (and yours) to expend as little effort as possible.",
+    "Confidence": 0.9334624
+  },
+  {
+    "Title": "A Trip to 90s Kansai: Exploring the XD FirstClass Network BBS",
+    "Url": "https://cdrom.ca/games/2026/05/30/xd.html",
+    "Timestamp": "2026-06-02T00:03:31",
+    "Domain": "cdrom.ca",
+    "Description": "May 30, 2026",
+    "Confidence": 0.96306366
+  },
+  {
+    "Title": "Sloppy & Paste",
+    "Url": "https://wordsrightman.beehiiv.com/p/sloppy-and-paste",
+    "Timestamp": "2026-06-02T00:03:28",
+    "Domain": "wordsrightman.beehiiv.com",
+    "Description": "Or \"How I Learned To Keep Worrying And Just Do It Myself\"",
+    "Confidence": 0.90942466
+  },
+  {
+    "Title": "Stop Killing Games",
+    "Url": "https://jxself.org/stop-killing-games.shtml",
+    "Timestamp": "2026-06-02T00:03:24",
+    "Domain": "jxself.org",
+    "Description": "The \"Stop Killing Games\" movement is making progress with\n        the advancement of California AB 1921, a bill designed to\n        stop developers from permanently bricking games when they\n        shut down their servers. If you're a gamer who has watched a\n        $70 purchase turn into a useless desktop icon overnight,\n        you're entirely justified in your outrage. Having a software\n        developer reach into your home and break your own software is\n        a profound violation of trust.",
+    "Confidence": 0.9057517
+  },
+  {
+    "Title": "Friction Was the Point — Hisham Thabet",
+    "Url": "https://hthabet.com/writing/replacing-us-through-attrition/",
+    "Timestamp": "2026-06-02T00:03:20",
+    "Domain": "hthabet.com",
+    "Description": "AI may not replace us through competition, but through attrition — the slow erosion of the friction that makes us capable.",
+    "Confidence": 0.97878385
+  },
+  {
+    "Title": "The Axis That Made the Chips",
+    "Url": "https://hoeijmakers.net/the-axis-that-made-the-chips/",
+    "Timestamp": "2026-06-02T00:03:16",
+    "Domain": "hoeijmakers.net",
+    "Description": "The Netherlands built its first computer in Amsterdam in 1952, moved the thinking to Eindhoven, and produced ASML. That line is history. It is also a blueprint.",
+    "Confidence": 0.9592382
+  },
+  {
+    "Title": "Discovery vs Tokenmaxxing",
+    "Url": "https://cezarbabin.com/notes/discovery-vs-tokenmaxxing.html",
+    "Timestamp": "2026-06-02T00:03:13",
+    "Domain": "cezarbabin.com",
+    "Description": "Most current AI coding tools are steering users into tokenmaxxing and re-generating software from scratch, in complete ignorance of the vast amounts of publicly available, human-validated software that can be combined and modded in powerful ways to address 99% of use cases.",
+    "Confidence": 0.96509296
+  },
+  {
+    "Title": "Growth Isn't About Doing Everything",
+    "Url": "https://arpitbhayani.me/blogs/growth-is-not-about-doing-everything/",
+    "Timestamp": "2026-06-02T00:03:10",
+    "Domain": "arpitbhayani.me",
+    "Description": "I follow a simple flow of questions that helps me stay focused, improve consistently, and make incremental impact at workplace. I'm never running around like a headless chicken. Here are the questions I ask myself, and answer honestly, like really true to its core",
+    "Confidence": 0.99167013
+  },
+  {
+    "Title": "Code review assumes an author",
+    "Url": "https://blog.raed.dev/posts/ai-code-review/",
+    "Timestamp": "2026-06-02T00:03:05",
+    "Domain": "blog.raed.dev",
+    "Description": "Code review assumes the person who opened the PR understands the code. Agentic development breaks that assumption. A look at why, not a fix.",
+    "Confidence": 0.9652033
+  },
+  {
+    "Title": "Unblocked — Martín Granados García",
+    "Url": "https://martingranados.com/vibecoding/",
+    "Timestamp": "2026-06-02T00:03:02",
+    "Domain": "martingranados.com",
+    "Description": "How Claude Code unstuck a stale Swift side project, porting Next Train to the web in about an hour, and what two weeks of vibecoding taught me about AI as a creativity unblocker.",
+    "Confidence": 0.9626397
+  },
+  {
+    "Title": "Self-Hosting on the Dark Web | David Álvarez Rosa | Personal Website",
+    "Url": "https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/",
+    "Timestamp": "2026-06-02T00:02:59",
+    "Domain": "david.alvarezrosa.com",
+    "Description": "This site is now reachable over Tor as a hidden service, at a .onion address that resolves only inside the Tor network.1 Tor relays and encrypts your traffic as …",
+    "Confidence": 0.9867586
+  },
+  {
+    "Title": "Every byte matters",
+    "Url": "https://fzakaria.com/2026/06/01/every-byte-matters",
+    "Timestamp": "2026-06-02T00:02:55",
+    "Domain": "fzakaria.com",
+    "Description": "I have spent a large portion of my career working in Java. In that time, you get used to huge classes. New functionality? Just add a new method and field to the class. The cost of each new field is rarely considered. Performance is often considered from a classic computer science perspective by considering asymptotic analysis of the algorithms and data structures in-use.",
+    "Confidence": 0.9359203
+  },
+  {
+    "Title": "I don't believe in big decisions",
+    "Url": "https://alwaysdraft.com/i-dont-believe-in-big-decisions/",
+    "Timestamp": "2026-06-02T00:02:52",
+    "Domain": "alwaysdraft.com",
+    "Description": "Big decisions are a myth. They are a long chain of small choices, and the skill is making your mistakes cheap rather than rare.",
+    "Confidence": 0.9541721
+  },
+  {
+    "Title": "What actually runs well on a 16 GB MacBook — Prasad Khake",
+    "Url": "https://prasadkhake.com/blog/16gb-mac-llm",
+    "Timestamp": "2026-06-02T00:02:49",
+    "Domain": "prasadkhake.com",
+    "Description": "Honest local-LLM benchmarks on a base M3, 16 GB — tokens/sec, peak RAM, and exactly where it hits the wall. The numbers nobody publishes because they run on H100s.",
+    "Confidence": 0.9348858
+  },
+  {
+    "Title": "More time to think",
+    "Url": "https://ma.ttias.be/more-time-to-think/",
+    "Timestamp": "2026-06-02T00:02:46",
+    "Domain": "ma.ttias.be",
+    "Description": "I’m finding myself thinking longer about the code I write and the features that get developed, than I did before the agentic coding era.",
+    "Confidence": 0.9642875
+  },
+  {
+    "Title": "Why <em>Am</em> I Interested In Your Company? - The Collected Works of jjmojojjmojo ",
+    "Url": "https://jjmojojjmojo.github.io/why-am-i-interested-in-your-company.html",
+    "Timestamp": "2026-06-02T00:02:42",
+    "Domain": "jjmojojjmojo.github.io",
+    "Description": "I've recently been looking for work, and I've been getting hung up a lot on application forms. About 3/4 of the time, there's a litany of questions sitting between ",
+    "Confidence": 0.983184
+  },
+  {
+    "Title": "Automation is killing your startup | Tony Rice",
+    "Url": "https://www.tonyrice.me/automation-killing-startups/",
+    "Timestamp": "2026-06-02T00:02:39",
+    "Domain": "www.tonyrice.me",
+    "Description": "It's not easy to prioritize human connection in a world where there's a constant war for our attention, but the ROI for authentic human connection will always win.",
+    "Confidence": 0.9778594
+  },
+  {
+    "Title": "The Infosec Phrasebook",
+    "Url": "https://nesbitt.io/2026/06/01/the-infosec-phrasebook.html",
+    "Timestamp": "2026-06-02T00:02:35",
+    "Domain": "nesbitt.io",
+    "Description": "a/s/l/threat model?",
+    "Confidence": 0.9866695
+  },
+  {
+    "Title": "Vector Storage Costs: S3, OpenSearch, pgvector, Pinecone",
+    "Url": "https://darryl-ruggles.cloud/the-real-cost-of-vector-storage-s3-vectors-vs-opensearch-vs-pgvector-vs-pinecone/",
+    "Timestamp": "2026-06-02T00:02:32",
+    "Domain": "darryl-ruggles.cloud",
+    "Description": "Discover the true cost of vector storage: S3 Vectors, OpenSearch, pgvector, and Pinecone. Dive into real workloads and find the best fit for your needs.",
+    "Confidence": 0.9933239
+  },
+  {
+    "Title": "Story Points: Explicit, Honest, Predictable. Already in Use. – Daniil Bastrich",
+    "Url": "https://bastrich.tech/story-points/",
+    "Timestamp": "2026-06-02T00:02:28",
+    "Domain": "bastrich.tech",
+    "Description": "Every time a software estimate is inflated to absorb uncertainty and daily overhead, it stops measuring actual time and turns into a messy abstraction. Once your \"hours\" and \"days\" become a proxy for effort rather than the clock, you are already using Story Points implicitly. Dropping the self-deception and openly embracing this abstraction brings structure to your planning and helps reliably predict delivery without the guessing game.",
+    "Confidence": 0.9817737
+  },
+  {
+    "Title": "Niri is not for me",
+    "Url": "https://arijan.dev/posts/niri-not-for-me/",
+    "Timestamp": "2026-06-02T00:02:24",
+    "Domain": "arijan.dev",
+    "Description": "After a year of using Niri, I’m probably going back to Sway - here is why.\nOut of sight, out of mind When you open four new terminal windows on Niri, you quite literally don’t see the consequences. If you leave those windows at their default sizes (half screen width), you have just added 4×50%=200% (two monitors’ worth) of horizontal scrolling space for your future self to sift through. You leave them there, just in case, and ‘focus left’ a bunch of times to return to what you were doing.",
+    "Confidence": 0.97943306
+  },
+  {
     "Title": "assignment1-basics/CLAUDE.md at main · stanford-cs336/assignment1-basics",
     "Url": "https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md",
     "Timestamp": "2026-06-01T23:02:09",
@@ -94,13 +318,5 @@
     "Domain": "www.seangoedecke.com",
     "Description": "Where are all the AI-generated projects? This is a common question from AI skeptics: if LLMs are so good at writing code, where is the tsunami of new AI-generated apps, services and games?",
     "Confidence": 0.9560595
-  },
-  {
-    "Title": "PrismML — Introducing 1-bit and Ternary Bonsai Image 4B: Image Generation for Local Devices",
-    "Url": "https://prismml.com/news/bonsai-image-4b",
-    "Timestamp": "2026-06-01T00:02:11",
-    "Domain": "prismml.com",
-    "Description": "",
-    "Confidence": 0.9882075
   }
 ]
