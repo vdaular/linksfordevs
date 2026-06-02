@@ -294,13 +294,5 @@
     "Domain": "techcrunch.com",
     "Description": "Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users.",
     "Confidence": 0.7579019
-  },
-  {
-    "Title": "The web is changing, and we are not going back",
-    "Url": "https://idiallo.com/blog/web-is-changing-we-are-not-going-back?src=feed",
-    "Timestamp": "2026-06-01T20:02:11",
-    "Domain": "idiallo.com",
-    "Description": "Whenever I saw someone type a natural language query into Google, it made me cringe. \"It's not a person,\" I would say. \"Type like you're talking to a machine.\" This was especially true for programmers",
-    "Confidence": 0.9450037
   }
 ]
