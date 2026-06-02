@@ -7,6 +7,25 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Quote of the day by Oracle co-founder Larry Ellison: "Citizens will be on their best behavior, because we’re constantly recording and reporting everything that is going on" — a dire warning on the erosion of privacy</title>
+      <link>https://www.techradar.com/pro/quote-of-the-day-by-oracle-co-founder-larry-ellison-citizens-will-be-on-their-best-behavior-because-were-constantly-recording-and-reporting-everything-that-is-going-on-a-dire-warning-on-the-erosion-of-privacy</link>
+      <description>Legendary technologist Larry Ellison has outlined a vision for an increasingly aggressive surveillance state in the 21st century</description>
+      <author> (https://www.techradar.com/author/keumars-afifi-sabet)</author>
+      <category>cloud</category>
+      <category>ai</category>
+      <category>youtube</category>
+      <guid>https://www.techradar.com/pro/quote-of-the-day-by-oracle-co-founder-larry-ellison-citizens-will-be-on-their-best-behavior-because-were-constantly-recording-and-reporting-everything-that-is-going-on-a-dire-warning-on-the-erosion-of-privacy</guid>
+      <pubDate>Tue, 02 Jun 2026 21:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gmail Thinks I'm Stupid, So I Left</title>
+      <link>https://moddedbear.com/gmail-thinks-im-stupid-so-i-left</link>
+      <description>Gmail's rapid descent into belittling their users, powered by AI.</description>
+      <category>ai</category>
+      <guid>https://moddedbear.com/gmail-thinks-im-stupid-so-i-left</guid>
+      <pubDate>Tue, 02 Jun 2026 21:02:20 GMT</pubDate>
+    </item>
+    <item>
       <title>A walking tour of surveillance infrastructure in Seattle</title>
       <link>https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/</link>
       <description>coveillance.org</description>
@@ -317,25 +336,6 @@ Out of sight, out of mind When you open four new terminal windows on Niri, you q
       <category>ai</category>
       <guid>https://github.com/stanford-cs336/assignment1-basics/blob/main/CLAUDE.md</guid>
       <pubDate>Mon, 01 Jun 2026 23:02:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stanford CS336 | Language Modeling from Scratch</title>
-      <link>https://cs336.stanford.edu/</link>
-      <description>Official course website for Stanford CS336: Language Modeling from Scratch (Spring 2026), including logistics, schedule, assignments, and course materials.</description>
-      <category>python</category>
-      <category>ai</category>
-      <guid>https://cs336.stanford.edu/</guid>
-      <pubDate>Mon, 01 Jun 2026 21:02:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms | TechCrunch</title>
-      <link>https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/</link>
-      <description>Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users.</description>
-      <category>cloud</category>
-      <category>ai</category>
-      <category>apple</category>
-      <guid>https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/</guid>
-      <pubDate>Mon, 01 Jun 2026 21:02:21 GMT</pubDate>
     </item>
   </channel>
 </rss>

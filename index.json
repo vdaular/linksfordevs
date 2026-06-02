@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Quote of the day by Oracle co-founder Larry Ellison: \"Citizens will be on their best behavior, because we’re constantly recording and reporting everything that is going on\" — a dire warning on the erosion of privacy",
+    "Url": "https://www.techradar.com/pro/quote-of-the-day-by-oracle-co-founder-larry-ellison-citizens-will-be-on-their-best-behavior-because-were-constantly-recording-and-reporting-everything-that-is-going-on-a-dire-warning-on-the-erosion-of-privacy",
+    "Timestamp": "2026-06-02T21:02:27",
+    "Domain": "www.techradar.com",
+    "Description": "Legendary technologist Larry Ellison has outlined a vision for an increasingly aggressive surveillance state in the 21st century",
+    "Confidence": 0.87287205
+  },
+  {
+    "Title": "Gmail Thinks I'm Stupid, So I Left",
+    "Url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
+    "Timestamp": "2026-06-02T21:02:20",
+    "Domain": "moddedbear.com",
+    "Description": "Gmail's rapid descent into belittling their users, powered by AI.",
+    "Confidence": 0.97955555
+  },
+  {
     "Title": "A walking tour of surveillance infrastructure in Seattle",
     "Url": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
     "Timestamp": "2026-06-02T19:02:02",
@@ -278,21 +294,5 @@
     "Domain": "github.com",
     "Description": "Student version of Assignment 1 for Stanford CS336 - Language Modeling From Scratch - stanford-cs336/assignment1-basics",
     "Confidence": 0.9837618
-  },
-  {
-    "Title": "Stanford CS336 | Language Modeling from Scratch",
-    "Url": "https://cs336.stanford.edu/",
-    "Timestamp": "2026-06-01T21:02:25",
-    "Domain": "cs336.stanford.edu",
-    "Description": "Official course website for Stanford CS336: Language Modeling from Scratch (Spring 2026), including logistics, schedule, assignments, and course materials.",
-    "Confidence": 0.99625957
-  },
-  {
-    "Title": "DuckDuckGo makes its 'no-AI' search engine easier to access as its traffic booms | TechCrunch",
-    "Url": "https://techcrunch.com/2026/06/01/duckduckgo-makes-its-no-ai-search-engine-easier-to-access-as-its-traffic-booms/",
-    "Timestamp": "2026-06-01T21:02:21",
-    "Domain": "techcrunch.com",
-    "Description": "Alternative search engine DuckDuckGo launches 'no AI' web extensions for Chrome and Firefox users.",
-    "Confidence": 0.7579019
   }
 ]
