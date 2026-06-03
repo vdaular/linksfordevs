@@ -1,5 +1,29 @@
 [
   {
+    "Title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it | nns.ee",
+    "Url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
+    "Timestamp": "2026-06-03T14:02:18",
+    "Domain": "blog.nns.ee",
+    "Description": "Abusing an unauthenticated Bluetooth protocol to turn a PC speaker into a Rubber Ducky.",
+    "Confidence": 0.9590607
+  },
+  {
+    "Title": "AI Outperforms Law Professors in Stanford Law Study | Stanford Law School",
+    "Url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+    "Timestamp": "2026-06-03T11:02:08",
+    "Domain": "law.stanford.edu",
+    "Description": "A groundbreaking study led by Stanford Law School Professor Julian Nyarko reveals that law professors overwhelmingly prefer AI-generated answers to st",
+    "Confidence": 0.6321052
+  },
+  {
+    "Title": "GitHub - c0deJedi/nbd-vram: Use your NVIDIA GPU's VRAM as swap space on Linux. Built for laptops with soldered memory and no upgrade path. If you have an RTX card sitting there with 8GB of VRAM and you're getting swapped to SSD, this puts that VRAM to work",
+    "Url": "https://github.com/c0dejedi/nbd-vram",
+    "Timestamp": "2026-06-03T07:04:03",
+    "Domain": "github.com",
+    "Description": "Use your NVIDIA GPU&#39;s VRAM as swap space on Linux. Built for laptops with soldered memory and no upgrade path. If you have an RTX card sitting there with 8GB of VRAM and you&#39;re getting swap...",
+    "Confidence": 0.9946983
+  },
+  {
     "Title": "Command Line",
     "Url": "https://commandline.microsoft.com/",
     "Timestamp": "2026-06-03T04:19:26",
@@ -214,45 +238,5 @@
     "Domain": "coveillance.org",
     "Description": "coveillance.org",
     "Confidence": 0.91614133
-  },
-  {
-    "Title": "Adafruit Industries - Makers, hackers, artists, designers and engineers!",
-    "Url": "https://blog.adafruit.com/",
-    "Timestamp": "2026-06-02T14:02:22",
-    "Domain": "blog.adafruit.com",
-    "Description": "electronics, open source hardware, hacking and more...",
-    "Confidence": 0.9133394
-  },
-  {
-    "Title": "GitHub - cyberpapiii/chipotlai-max: The AI coding agent that runs on stolen Chipotle compute 🌯 Fork of OpenCode with Pepper AI as default model. Community project to add providers from Home Depot, Lowes, Target, Starbucks & more.",
-    "Url": "https://github.com/cyberpapiii/chipotlai-max",
-    "Timestamp": "2026-06-02T12:02:18",
-    "Domain": "github.com",
-    "Description": "The AI coding agent that runs on stolen Chipotle compute 🌯 Fork of OpenCode with Pepper AI as default model. Community project to add providers from Home Depot, Lowes, Target, Starbucks &amp; more....",
-    "Confidence": 0.9939149
-  },
-  {
-    "Title": "Age verification for social media – the beginning of the end for a free internet? | Mullvad VPN",
-    "Url": "https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet",
-    "Timestamp": "2026-06-02T10:02:14",
-    "Domain": "mullvad.net",
-    "Description": "So-called age verification for social media is spreading across the world, framed as an effort to create a safer internet for children. In reality, age verification lays the foundation for a fully government controlled internet.",
-    "Confidence": 0.930917
-  },
-  {
-    "Title": "macOS Needs Its Grid Back",
-    "Url": "https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/",
-    "Timestamp": "2026-06-02T10:02:09",
-    "Domain": "blog.hopefullyuseful.com",
-    "Description": "Two decades ago I had a better Mac desktop experience than I have today. I only had a single low res (by todays standards) screen, yet I felt like Hugh Jackman in Swordfish - deftly navigating more than nine displays without thinking, muscle and spatial memory working seamlessly together. TLDR; I built an app to return macOS spaces to its Pre-Lion Grid-enabled Glory. Read on for the increasingly rare experience of an actual human dropping a bit of nostalgia, the thinking behind why make this and some issues encountered along the way.",
-    "Confidence": 0.9888439
-  },
-  {
-    "Title": "OpenAI frontier models and Codex are now available on AWS",
-    "Url": "https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/",
-    "Timestamp": "2026-06-02T09:01:51",
-    "Domain": "openai.com",
-    "Description": "OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.",
-    "Confidence": 0.86530876
   }
 ]

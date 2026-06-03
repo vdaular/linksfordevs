@@ -1,5 +1,26 @@
 [
   {
+    "Title": "Pwnd Blaster: Hacking your PC using your speaker without ever touching it | nns.ee",
+    "Url": "https://blog.nns.ee/2026/06/03/katana-badusb/",
+    "Timestamp": "2026-06-03T14:02:18",
+    "Domain": "blog.nns.ee",
+    "Description": "Abusing an unauthenticated Bluetooth protocol to turn a PC speaker into a Rubber Ducky."
+  },
+  {
+    "Title": "AI Outperforms Law Professors in Stanford Law Study | Stanford Law School",
+    "Url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
+    "Timestamp": "2026-06-03T11:02:08",
+    "Domain": "law.stanford.edu",
+    "Description": "A groundbreaking study led by Stanford Law School Professor Julian Nyarko reveals that law professors overwhelmingly prefer AI-generated answers to st"
+  },
+  {
+    "Title": "GitHub - c0deJedi/nbd-vram: Use your NVIDIA GPU's VRAM as swap space on Linux. Built for laptops with soldered memory and no upgrade path. If you have an RTX card sitting there with 8GB of VRAM and you're getting swapped to SSD, this puts that VRAM to work",
+    "Url": "https://github.com/c0dejedi/nbd-vram",
+    "Timestamp": "2026-06-03T07:04:03",
+    "Domain": "github.com",
+    "Description": "Use your NVIDIA GPU&#39;s VRAM as swap space on Linux. Built for laptops with soldered memory and no upgrade path. If you have an RTX card sitting there with 8GB of VRAM and you&#39;re getting swap..."
+  },
+  {
     "Title": "Command Line",
     "Url": "https://commandline.microsoft.com/",
     "Timestamp": "2026-06-03T04:19:26",

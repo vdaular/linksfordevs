@@ -7,6 +7,33 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Pwnd Blaster: Hacking your PC using your speaker without ever touching it | nns.ee</title>
+      <link>https://blog.nns.ee/2026/06/03/katana-badusb/</link>
+      <description>Abusing an unauthenticated Bluetooth protocol to turn a PC speaker into a Rubber Ducky.</description>
+      <category>git</category>
+      <category>gaming</category>
+      <category>encryption</category>
+      <guid>https://blog.nns.ee/2026/06/03/katana-badusb/</guid>
+      <pubDate>Wed, 03 Jun 2026 14:02:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI Outperforms Law Professors in Stanford Law Study | Stanford Law School</title>
+      <link>https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/</link>
+      <description>A groundbreaking study led by Stanford Law School Professor Julian Nyarko reveals that law professors overwhelmingly prefer AI-generated answers to st</description>
+      <category>ai</category>
+      <guid>https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/</guid>
+      <pubDate>Wed, 03 Jun 2026 11:02:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub - c0deJedi/nbd-vram: Use your NVIDIA GPU's VRAM as swap space on Linux. Built for laptops with soldered memory and no upgrade path. If you have an RTX card sitting there with 8GB of VRAM and you're getting swapped to SSD, this puts that VRAM to work</title>
+      <link>https://github.com/c0dejedi/nbd-vram</link>
+      <description>Use your NVIDIA GPU&amp;#39;s VRAM as swap space on Linux. Built for laptops with soldered memory and no upgrade path. If you have an RTX card sitting there with 8GB of VRAM and you&amp;#39;re getting swap...</description>
+      <category>linux</category>
+      <category>git</category>
+      <guid>https://github.com/c0dejedi/nbd-vram</guid>
+      <pubDate>Wed, 03 Jun 2026 07:04:03 GMT</pubDate>
+    </item>
+    <item>
       <title>Command Line</title>
       <link>https://commandline.microsoft.com/</link>
       <description>Founded in 2026, Command Line is a technical blog from Microsoft where we share how we build and what we learn—from both our wins and failures</description>
@@ -197,6 +224,7 @@ well.</description>
       <description>… and 23 years of tedious yak shaving.  Ten years ago my rather anemic post on the Arcan project started to circulate. It got enough attention that I considered stopping right there and …</description>
       <category>encryption</category>
       <category>git</category>
+      <category>dotnet</category>
       <category>gaming</category>
       <guid>https://arcan-fe.com/2026/06/02/arcan-10-years-of-online-obscurity/</guid>
       <pubDate>Wed, 03 Jun 2026 00:02:38 GMT</pubDate>
@@ -278,53 +306,6 @@ well.</description>
       <category>sql</category>
       <guid>https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/</guid>
       <pubDate>Tue, 02 Jun 2026 19:02:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Adafruit Industries - Makers, hackers, artists, designers and engineers!</title>
-      <link>https://blog.adafruit.com/</link>
-      <description>electronics, open source hardware, hacking and more...</description>
-      <guid>https://blog.adafruit.com/</guid>
-      <pubDate>Tue, 02 Jun 2026 14:02:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - cyberpapiii/chipotlai-max: The AI coding agent that runs on stolen Chipotle compute 🌯 Fork of OpenCode with Pepper AI as default model. Community project to add providers from Home Depot, Lowes, Target, Starbucks &amp; more.</title>
-      <link>https://github.com/cyberpapiii/chipotlai-max</link>
-      <description>The AI coding agent that runs on stolen Chipotle compute 🌯 Fork of OpenCode with Pepper AI as default model. Community project to add providers from Home Depot, Lowes, Target, Starbucks &amp;amp; more....</description>
-      <category>nodejs</category>
-      <category>ai</category>
-      <category>git</category>
-      <category>python</category>
-      <category>gaming</category>
-      <guid>https://github.com/cyberpapiii/chipotlai-max</guid>
-      <pubDate>Tue, 02 Jun 2026 12:02:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Age verification for social media – the beginning of the end for a free internet? | Mullvad VPN</title>
-      <link>https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet</link>
-      <description>So-called age verification for social media is spreading across the world, framed as an effort to create a safer internet for children. In reality, age verification lays the foundation for a fully government controlled internet.</description>
-      <category>encryption</category>
-      <category>apple</category>
-      <guid>https://mullvad.net/en/blog/age-verification-for-social-media-the-beginning-of-the-end-for-a-free-internet</guid>
-      <pubDate>Tue, 02 Jun 2026 10:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>macOS Needs Its Grid Back</title>
-      <link>https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/</link>
-      <description>Two decades ago I had a better Mac desktop experience than I have today. I only had a single low res (by todays standards) screen, yet I felt like Hugh Jackman in Swordfish - deftly navigating more than nine displays without thinking, muscle and spatial memory working seamlessly together. TLDR; I built an app to return macOS spaces to its Pre-Lion Grid-enabled Glory. Read on for the increasingly rare experience of an actual human dropping a bit of nostalgia, the thinking behind why make this and some issues encountered along the way.</description>
-      <category>apple</category>
-      <category>ides</category>
-      <category>linux</category>
-      <guid>https://blog.hopefullyuseful.com/blog/macos-needs-its-grid-back/</guid>
-      <pubDate>Tue, 02 Jun 2026 10:02:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI frontier models and Codex are now available on AWS</title>
-      <link>https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/</link>
-      <description>OpenAI frontier models and Codex are now generally available on AWS, giving enterprises a new path to build with OpenAI through the AWS environments, controls, and procurement workflows they already use. Customers can get started with OpenAI on AWS and move faster from evaluation to production.</description>
-      <category>cloud</category>
-      <category>ai</category>
-      <guid>https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/</guid>
-      <pubDate>Tue, 02 Jun 2026 09:01:51 GMT</pubDate>
     </item>
   </channel>
 </rss>
