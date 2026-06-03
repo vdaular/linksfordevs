@@ -7,6 +7,32 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Now that your newsletter is AI-generated, I've Unsubscribed</title>
+      <link>https://idiallo.com/blog/unsubscribed-from-ai-generated-newsletters?src=feed</link>
+      <description>I've remained subscribed to some newsletters for over 20 years. The authors managed to keep my attention all that time. But then, one day, they decided to switch to an AI-generated newsletter without </description>
+      <category>ai</category>
+      <guid>https://idiallo.com/blog/unsubscribed-from-ai-generated-newsletters?src=feed</guid>
+      <pubDate>Wed, 03 Jun 2026 22:02:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Detector</title>
+      <link>https://xkcd.com/3254/</link>
+      <description></description>
+      <category>apple</category>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3254/</guid>
+      <pubDate>Wed, 03 Jun 2026 22:02:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>MacBook Neo is So Popular That Apple Reportedly Doubled Production</title>
+      <link>https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/</link>
+      <description>On an earnings call in late April, Apple's CEO Tim Cook said that customer response to the MacBook Neo was "off the charts," and the popularity of the laptop has reportedly led the company to significantly boost production. Apple supply chain analyst Ming-Chi Kuo this week said he believes that MacBook Neo shipments to Apple were doubled from an initial target of 5 million units to 10 million units in 2026 at some point after the laptop launched in March.</description>
+      <category>apple</category>
+      <category>ai</category>
+      <guid>https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/</guid>
+      <pubDate>Wed, 03 Jun 2026 22:02:14 GMT</pubDate>
+    </item>
+    <item>
       <title>Elixir v1.20 released: now a gradually typed language</title>
       <link>https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/</link>
       <description>From Elixir v1.20, every program is now gradually type checked in search for verified bugs and typing violations.</description>
@@ -18,7 +44,7 @@
       <link>https://www.blackmagicdesign.com/products/davinciresolve/whatsnew</link>
       <description>Professional video editing, color correction, visual effects and audio post production all in a single application. Free and paid versions for Mac, Windows and Linux.</description>
       <category>ides</category>
-      <category>nodejs</category>
+      <category>javascript</category>
       <category>ai</category>
       <category>git</category>
       <category>apple</category>
@@ -94,7 +120,7 @@ short blog briefly discusses some of my experience and prognosis.</description>
       <title>Inside BYD: CT Scans of a Battery Cell, Switch Panel, Charger, and Key Fob from the EV Banned in America</title>
       <link>https://www.lumafield.com/scan-of-the-month/byd</link>
       <description>BYD sold 4.6M vehicles in 2025, but Americans can't buy one. We CT scanned four components from its lineup to reveal what vertical integration looks like at the part level.</description>
-      <category>nodejs</category>
+      <category>javascript</category>
       <guid>https://www.lumafield.com/scan-of-the-month/byd</guid>
       <pubDate>Wed, 03 Jun 2026 04:02:18 GMT</pubDate>
     </item>
@@ -239,7 +265,6 @@ Last year, I reviewed the MoErgo Glove80. It was and is still one of my most vis
 we have been running that setup for a couple of years now. I thought this
 would be the right time to share what we have learned and what works
 well.</description>
-      <category>nodejs</category>
       <category>containers</category>
       <category>javascript</category>
       <guid>https://ananthakumaran.in/2026/06/02/clickhouse-table-per-tenant-in-production.html</guid>
@@ -291,7 +316,7 @@ well.</description>
       <title>Self-extensible software is here and its amazing | Slopfluencer</title>
       <link>https://slopfluencer.com/posts/2026_06_02-self-extensible-software/</link>
       <description>Slopfluencer: posts on model training, evaluations, agents, NLP, and building products with generative AI.</description>
-      <category>nodejs</category>
+      <category>javascript</category>
       <category>ai</category>
       <guid>https://slopfluencer.com/posts/2026_06_02-self-extensible-software/</guid>
       <pubDate>Wed, 03 Jun 2026 00:02:31 GMT</pubDate>
@@ -317,15 +342,6 @@ well.</description>
       <category>apple</category>
       <guid>https://rogs.me/2026/02/claude-code-from-the-beach-my-remote-coding-setup-with-mosh-tmux-and-ntfy/</guid>
       <pubDate>Wed, 03 Jun 2026 00:02:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Introducing MAI-Code-1-Flash  | Microsoft AI</title>
-      <link>https://microsoft.ai/news/introducingmai-code-1-flash/</link>
-      <description>Coding models are most useful when they perform well in the same environment developers use every day. That is why we built MAI-Code-1-Flash with production workflows at the center, rather than optimizing only for benchmarks. The model was trained directly with GitHub Copilot harnesses used in production. This allows it to learn how to interact with surrounding tools and systems in agentic coding tasks, making it uniquely well suited to real-world Copilot workflows compared to other available models.</description>
-      <category>ai</category>
-      <category>ides</category>
-      <guid>https://microsoft.ai/news/introducingmai-code-1-flash/</guid>
-      <pubDate>Tue, 02 Jun 2026 22:02:14 GMT</pubDate>
     </item>
   </channel>
 </rss>

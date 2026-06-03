@@ -1,5 +1,29 @@
 [
   {
+    "Title": "Now that your newsletter is AI-generated, I've Unsubscribed",
+    "Url": "https://idiallo.com/blog/unsubscribed-from-ai-generated-newsletters?src=feed",
+    "Timestamp": "2026-06-03T22:02:21",
+    "Domain": "idiallo.com",
+    "Description": "I've remained subscribed to some newsletters for over 20 years. The authors managed to keep my attention all that time. But then, one day, they decided to switch to an AI-generated newsletter without ",
+    "Confidence": 0.9189223
+  },
+  {
+    "Title": "Detector",
+    "Url": "https://xkcd.com/3254/",
+    "Timestamp": "2026-06-03T22:02:17",
+    "Domain": "xkcd.com",
+    "Description": "",
+    "Confidence": 0.98151064
+  },
+  {
+    "Title": "MacBook Neo is So Popular That Apple Reportedly Doubled Production",
+    "Url": "https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/",
+    "Timestamp": "2026-06-03T22:02:14",
+    "Domain": "www.macrumors.com",
+    "Description": "On an earnings call in late April, Apple's CEO Tim Cook said that customer response to the MacBook Neo was \"off the charts,\" and the popularity of the laptop has reportedly led the company to significantly boost production. Apple supply chain analyst Ming-Chi Kuo this week said he believes that MacBook Neo shipments to Apple were doubled from an initial target of 5 million units to 10 million units in 2026 at some point after the laptop launched in March.",
+    "Confidence": 0.52193165
+  },
+  {
     "Title": "Elixir v1.20 released: now a gradually typed language",
     "Url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
     "Timestamp": "2026-06-03T21:02:16",
@@ -246,13 +270,5 @@
     "Domain": "rogs.me",
     "Description": "",
     "Confidence": 0.97869104
-  },
-  {
-    "Title": "Introducing MAI-Code-1-Flash  | Microsoft AI",
-    "Url": "https://microsoft.ai/news/introducingmai-code-1-flash/",
-    "Timestamp": "2026-06-02T22:02:14",
-    "Domain": "microsoft.ai",
-    "Description": "Coding models are most useful when they perform well in the same environment developers use every day. That is why we built MAI-Code-1-Flash with production workflows at the center, rather than optimizing only for benchmarks. The model was trained directly with GitHub Copilot harnesses used in production. This allows it to learn how to interact with surrounding tools and systems in agentic coding tasks, making it uniquely well suited to real-world Copilot workflows compared to other available models.",
-    "Confidence": 0.9764586
   }
 ]
