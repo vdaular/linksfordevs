@@ -21,7 +21,6 @@
       <title>Introducing Gemma 4 12B: a unified, encoder-free multimodal model</title>
       <link>https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/</link>
       <description>An overview of Gemma 4 12B, a model designed to bring high-performance multimodal intelligence directly to your laptop.</description>
-      <category>visualstudio</category>
       <category>ides</category>
       <category>ai</category>
       <guid>https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/</guid>
@@ -74,7 +73,7 @@
       <title>Why Custom Attributes in .NET give me Nightmares</title>
       <link>https://blog.washi.dev/posts/custom-attributes-and-why-they-suck/</link>
       <description>Some people may think I am a shill for .NET.</description>
-      <category>sql</category>
+      <category>database</category>
       <guid>https://blog.washi.dev/posts/custom-attributes-and-why-they-suck/</guid>
       <pubDate>Wed, 03 Jun 2026 03:49:22 GMT</pubDate>
     </item>
@@ -94,7 +93,7 @@
       <description>The people getting the most out of Claude Code aren't writing code. Some notes on where the value moved, picking up where the disposable tools manifesto left off.</description>
       <author> (Vlad Temian)</author>
       <category>encryption</category>
-      <category>sql</category>
+      <category>database</category>
       <category>ai</category>
       <category>cloud</category>
       <guid>https://blog.vtemian.com/post/claude-code-isnt-about-code/</guid>
@@ -264,7 +263,7 @@ well.</description>
       <link>https://slopfluencer.com/posts/2026_06_02-self-extensible-software/</link>
       <description>Slopfluencer: posts on model training, evaluations, agents, NLP, and building products with generative AI.</description>
       <category>nodejs</category>
-      <category>sql</category>
+      <category>database</category>
       <category>ai</category>
       <guid>https://slopfluencer.com/posts/2026_06_02-self-extensible-software/</guid>
       <pubDate>Wed, 03 Jun 2026 00:02:31 GMT</pubDate>
@@ -318,15 +317,6 @@ well.</description>
       <category>ai</category>
       <guid>https://moddedbear.com/gmail-thinks-im-stupid-so-i-left</guid>
       <pubDate>Tue, 02 Jun 2026 21:02:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>A walking tour of surveillance infrastructure in Seattle</title>
-      <link>https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/</link>
-      <description>coveillance.org</description>
-      <category>apple</category>
-      <category>sql</category>
-      <guid>https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/</guid>
-      <pubDate>Tue, 02 Jun 2026 19:02:02 GMT</pubDate>
     </item>
   </channel>
 </rss>

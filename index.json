@@ -246,13 +246,5 @@
     "Domain": "moddedbear.com",
     "Description": "Gmail's rapid descent into belittling their users, powered by AI.",
     "Confidence": 0.97955555
-  },
-  {
-    "Title": "A walking tour of surveillance infrastructure in Seattle",
-    "Url": "https://coveillance.org/a-walking-tour-of-surveillance-infrastructure-in-seattle/",
-    "Timestamp": "2026-06-02T19:02:02",
-    "Domain": "coveillance.org",
-    "Description": "coveillance.org",
-    "Confidence": 0.91614133
   }
 ]
