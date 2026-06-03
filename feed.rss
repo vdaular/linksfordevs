@@ -7,6 +7,218 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>High-agency strategy</title>
+      <link>https://mattstromawn.com/writing/high-agency-strategy/</link>
+      <description>Matt Ström-Awn · Designer, leader, and coach focused on building exceptional products and teams.</description>
+      <category>git</category>
+      <category>ai</category>
+      <category>cloud</category>
+      <guid>https://mattstromawn.com/writing/high-agency-strategy/</guid>
+      <pubDate>Wed, 03 Jun 2026 00:03:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Code Isn't About Code</title>
+      <link>https://blog.vtemian.com/post/claude-code-isnt-about-code/</link>
+      <description>The people getting the most out of Claude Code aren't writing code. Some notes on where the value moved, picking up where the disposable tools manifesto left off.</description>
+      <author> (Vlad Temian)</author>
+      <category>encryption</category>
+      <category>sql</category>
+      <category>ai</category>
+      <category>cloud</category>
+      <guid>https://blog.vtemian.com/post/claude-code-isnt-about-code/</guid>
+      <pubDate>Wed, 03 Jun 2026 00:03:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Abundance Mirage: why the road to hell is paved in unchallenged assumptions</title>
+      <link>https://cezarbabin.com/notes/designing-a-dictatorship.html</link>
+      <description>In the whole wasteland of AI discourse, there is perhaps no more dangerous proposition than "Abundance is universally good", a statement that is almost too tautological to be challenged. To illustrate my point, I'm going to walk you through a thought exercise in designing a dictatorship from the ground up without employing any obvious mechanisms for oppression.</description>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://cezarbabin.com/notes/designing-a-dictatorship.html</guid>
+      <pubDate>Wed, 03 Jun 2026 00:03:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Building Analytics for Haxball, a Game I’ve Played Since 2011</title>
+      <link>https://denizaa.com/building-analytics-for-haxball/</link>
+      <description>I built a live and historical analytics dashboard for Haxball that turns match data into player stats, team stats, charts, summaries, and xG.</description>
+      <category>gaming</category>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://denizaa.com/building-analytics-for-haxball/</guid>
+      <pubDate>Wed, 03 Jun 2026 00:03:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Permanent Underclass</title>
+      <link>https://ctlamy.com/thoughts/the-permanent-underclass/</link>
+      <description>There’s this phrase that’s taking root in our Silicon Valley discourse. It drives me nuts and I’m making a clarion call for us to push back against its toxic ideology.
+It’s The Permanent Underclass.
+I can’t say how widely the phrase has spread but in my corner of the world - Silicon Valley, Technology - it comes up often enough that I assume most of my peers have at least heard it even if they are not regularly discussing it.</description>
+      <category>ai</category>
+      <guid>https://ctlamy.com/thoughts/the-permanent-underclass/</guid>
+      <pubDate>Wed, 03 Jun 2026 00:03:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Good Agents</title>
+      <link>https://elijahpotter.dev/articles/good-agents</link>
+      <description>The spirit of Radical Speed Month includes an impetus to experiment. So experiment I have.</description>
+      <category>ai</category>
+      <guid>https://elijahpotter.dev/articles/good-agents</guid>
+      <pubDate>Wed, 03 Jun 2026 00:03:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why I’m Skeptical About Efforts to Revolutionize Schooling - Scott H Young</title>
+      <link>https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/</link>
+      <description>A brief explanation of my pessimism about efforts to radically improve education.</description>
+      <category>apple</category>
+      <category>ai</category>
+      <guid>https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/</guid>
+      <pubDate>Wed, 03 Jun 2026 00:03:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>charles leifer | Cave of Forgotten Dreams</title>
+      <link>https://charlesleifer.com/blog/cave-of-forgotten-dreams/</link>
+      <description>June 02, 2026 10:08
+      /
+      
+        ai
+      
+        thoughts
+      
+      /
+      0 comments</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://charlesleifer.com/blog/cave-of-forgotten-dreams/</guid>
+      <pubDate>Wed, 03 Jun 2026 00:03:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Should CEOs Fire Their Software Developers? | Spicer Matthews</title>
+      <link>https://spicermatthews.com/blog/should-ceos-fire-software-developers/</link>
+      <description>CEOs are getting AI-pilled and asking why they still pay developers. After advising dozens of leaders, here's my honest framework for who should hire and who should YOLO.</description>
+      <author> (Spicer Matthews)</author>
+      <category>ai</category>
+      <guid>https://spicermatthews.com/blog/should-ceos-fire-software-developers/</guid>
+      <pubDate>Wed, 03 Jun 2026 00:03:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Web3 means Freedom Software</title>
+      <link>https://jthor.eth.link/blog/2026/04/13/web3-means-freedom-software/</link>
+      <description>Web3's promise of user sovereignty remains unfulfilled—corrupted by venture-driven growth pressures that have strayed far from its original vision. True web3 must embody censorship resistance, open source freedom, privacy, and security, principles</description>
+      <category>encryption</category>
+      <category>apple</category>
+      <category>android</category>
+      <category>ai</category>
+      <category>linux</category>
+      <guid>https://jthor.eth.link/blog/2026/04/13/web3-means-freedom-software/</guid>
+      <pubDate>Wed, 03 Jun 2026 00:03:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Review of the MoErgo Go60 Keyboard</title>
+      <link>https://arslan.io/2026/06/02/review-of-the-moergo-go60-keyboard/</link>
+      <description>It’s time for another keyboard review.
+
+Last year, I reviewed the MoErgo Glove80. It was and is still one of my most visited blog posts.In that review, I compared it to the Kinesis Advantage360 Pro and wrote about the travel case, design, switches, tenting, ZMK configuration, community, and</description>
+      <category>apple</category>
+      <guid>https://arslan.io/2026/06/02/review-of-the-moergo-go60-keyboard/</guid>
+      <pubDate>Wed, 03 Jun 2026 00:02:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anthropic Whales Dominate Usage Ahead of IPO - Keith Brown</title>
+      <link>https://keithbrown.com/anthropic-whales-ipo/</link>
+      <description>The insights, analysis, and data presented in this article are for informational and educational purposes only and do not constitute financial, investment, legal, or tax advice. Always conduct your own independent due diligence before buying or selling any security. I was catching up with the founder of CostHawk recently, asking him what he’s seeing in […]</description>
+      <author> (https://www.facebook.com/heykeithbrown)</author>
+      <category>ides</category>
+      <category>ai</category>
+      <guid>https://keithbrown.com/anthropic-whales-ipo/</guid>
+      <pubDate>Wed, 03 Jun 2026 00:02:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Clickhouse table per tenant in production · Anantha Kumaran</title>
+      <link>https://ananthakumaran.in/2026/06/02/clickhouse-table-per-tenant-in-production.html</link>
+      <description>At work, we made a decision to go with a table per tenant approach and
+we have been running that setup for a couple of years now. I thought this
+would be the right time to share what we have learned and what works
+well.</description>
+      <category>nodejs</category>
+      <category>containers</category>
+      <category>javascript</category>
+      <guid>https://ananthakumaran.in/2026/06/02/clickhouse-table-per-tenant-in-production.html</guid>
+      <pubDate>Wed, 03 Jun 2026 00:02:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Inherited the frontend of a 150K-user app, mostly vibe coded - Kool Codez</title>
+      <link>https://koolcodez.com/blog/fixing-an-ai-built-codebase/</link>
+      <description>The product runs the whole business and has 150K users. The codebase underneath needs a lot of work. Where do you draw the line on quality when this many people depend on it?</description>
+      <author> (Lucio D'Alessandro)</author>
+      <category>javascript</category>
+      <category>typescript</category>
+      <category>ai</category>
+      <category>web</category>
+      <category>git</category>
+      <guid>https://koolcodez.com/blog/fixing-an-ai-built-codebase/</guid>
+      <pubDate>Wed, 03 Jun 2026 00:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Internet Needs More Cross-Pollinators</title>
+      <link>https://brennan.day/the-internet-needs-more-cross-pollinators/</link>
+      <description>So, my silly little fanfic project blew up like crazy and received some really negative feedback. And I think I understand why. Exploring the concept of boundary spanning and cross-pollination in online communities. Drawing on organizational theory and the work of Michael Tushman. We need people who move between different online subcultures to seed ideas and build bridges.</description>
+      <author> (Brennan Kenneth Brown)</author>
+      <category>gaming</category>
+      <guid>https://brennan.day/the-internet-needs-more-cross-pollinators/</guid>
+      <pubDate>Wed, 03 Jun 2026 00:02:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Arcan: 10 Years of Online Obscurity</title>
+      <link>https://arcan-fe.com/2026/06/02/arcan-10-years-of-online-obscurity/</link>
+      <description>… and 23 years of tedious yak shaving.  Ten years ago my rather anemic post on the Arcan project started to circulate. It got enough attention that I considered stopping right there and …</description>
+      <category>encryption</category>
+      <category>git</category>
+      <category>gaming</category>
+      <guid>https://arcan-fe.com/2026/06/02/arcan-10-years-of-online-obscurity/</guid>
+      <pubDate>Wed, 03 Jun 2026 00:02:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>The LLM Job Paradox</title>
+      <link>https://blog.nilesh.io/post/llms-and-jobs</link>
+      <description>By this I mean, do you think your entire job could be done by an AI. Can your entire team / field / department be removed without issue?</description>
+      <category>ai</category>
+      <category>ides</category>
+      <guid>https://blog.nilesh.io/post/llms-and-jobs</guid>
+      <pubDate>Wed, 03 Jun 2026 00:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Self-extensible software is here and its amazing | Slopfluencer</title>
+      <link>https://slopfluencer.com/posts/2026_06_02-self-extensible-software/</link>
+      <description>Slopfluencer: posts on model training, evaluations, agents, NLP, and building products with generative AI.</description>
+      <category>nodejs</category>
+      <category>sql</category>
+      <category>ai</category>
+      <guid>https://slopfluencer.com/posts/2026_06_02-self-extensible-software/</guid>
+      <pubDate>Wed, 03 Jun 2026 00:02:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anthropic and the caravel problem · Valentin Radu</title>
+      <link>https://radval.me/articles/anthropic-and-the-caravel-problem</link>
+      <description>In 1500 a country of a million people invented the ship that opened the world, got rich beyond its size, and then lost everything to latecomers with deeper pockets. Frontier AI labs are sailing the same caravel. Why the model was never the moat, and the two narrow ways out.</description>
+      <category>linux</category>
+      <category>apple</category>
+      <category>ai</category>
+      <guid>https://radval.me/articles/anthropic-and-the-caravel-problem</guid>
+      <pubDate>Wed, 03 Jun 2026 00:02:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Code from the beach: My remote coding setup with mosh, tmux and ntfy | rogs</title>
+      <link>https://rogs.me/2026/02/claude-code-from-the-beach-my-remote-coding-setup-with-mosh-tmux-and-ntfy/</link>
+      <description></description>
+      <category>ai</category>
+      <category>android</category>
+      <category>javascript</category>
+      <category>linux</category>
+      <category>apple</category>
+      <guid>https://rogs.me/2026/02/claude-code-from-the-beach-my-remote-coding-setup-with-mosh-tmux-and-ntfy/</guid>
+      <pubDate>Wed, 03 Jun 2026 00:02:23 GMT</pubDate>
+    </item>
+    <item>
       <title>Introducing MAI-Code-1-Flash  | Microsoft AI</title>
       <link>https://microsoft.ai/news/introducingmai-code-1-flash/</link>
       <description>Coding models are most useful when they perform well in the same environment developers use every day. That is why we built MAI-Code-1-Flash with production workflows at the center, rather than optimizing only for benchmarks. The model was trained directly with GitHub Copilot harnesses used in production. This allows it to learn how to interact with surrounding tools and systems in agentic coding tasks, making it uniquely well suited to real-world Copilot workflows compared to other available models.</description>
@@ -89,253 +301,6 @@
       <category>ai</category>
       <guid>https://openai.com/index/openai-frontier-models-and-codex-are-now-available-on-aws/</guid>
       <pubDate>Tue, 02 Jun 2026 09:01:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tokens are the new transistors</title>
-      <link>https://www.anantjain.xyz/posts/tokens-are-the-new-transistors</link>
-      <description>The teams that win the next decade are the ones building as if tokens are already free and infinite</description>
-      <category>ai</category>
-      <guid>https://www.anantjain.xyz/posts/tokens-are-the-new-transistors</guid>
-      <pubDate>Tue, 02 Jun 2026 00:03:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why I dropped PRDs for ShapeUp — Luke Swithenbank</title>
-      <link>https://lswith.io/posts/why-i-dropped-prds-for-shapeup/</link>
-      <description>Why I dropped spec-driven development for ShapeUp, and how splitting decision clarity in two changed how we ship.</description>
-      <category>ai</category>
-      <guid>https://lswith.io/posts/why-i-dropped-prds-for-shapeup/</guid>
-      <pubDate>Tue, 02 Jun 2026 00:03:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Justin Higgins — jchigg ~ dev</title>
-      <link>https://jchigg2000.dev/#blog/the-principal-ic-moat?utm_source=hnblogs.substack.com</link>
-      <description>Software engineer, 20 years in regulated enterprise. Building at the seam between AI-assisted engineering and how that work gets recognized.</description>
-      <guid>https://jchigg2000.dev/#blog/the-principal-ic-moat?utm_source=hnblogs.substack.com</guid>
-      <pubDate>Tue, 02 Jun 2026 00:03:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Internet is the most stable home I have</title>
-      <link>https://alexarias.me/blogs/sh0.html</link>
-      <description>The older I get the more I've taken note of what's stayed consistent in my life and I gotta say it ain't much. Accompanying this thought was "How have I stayed consistent for others as time moves forward?" and I gotta say I haven't.</description>
-      <guid>https://alexarias.me/blogs/sh0.html</guid>
-      <pubDate>Tue, 02 Jun 2026 00:03:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hardening VS Code extensions</title>
-      <link>https://patches.joao.town/hardening-vscode-extensions/</link>
-      <description>My approach to managing VS Code extensions.</description>
-      <author> (João Palmeiro)</author>
-      <category>ides</category>
-      <guid>https://patches.joao.town/hardening-vscode-extensions/</guid>
-      <pubDate>Tue, 02 Jun 2026 00:03:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Message Queues and Brokers Help With Temporal Decoupling</title>
-      <link>https://carlosblanco.github.io/architecture/backend/2026/05/25/message-queues-brokers-temporal-decoupling.html</link>
-      <description>One of the more common reactions I hear when engineers first encounter a message broker in a service-to-service communication context is that it feels like overengineering. Why introduce Kafka or RabbitMQ when a plain HTTP call does the same job with less infrastructure? It’s a fair question on the surface, and the people asking it aren’t wrong that a broker adds operational complexity. What they’re missing is that the complexity isn’t incidental — it’s the cost of a structural property that HTTP simply cannot give you: temporal decoupling.</description>
-      <category>web</category>
-      <guid>https://carlosblanco.github.io/architecture/backend/2026/05/25/message-queues-brokers-temporal-decoupling.html</guid>
-      <pubDate>Tue, 02 Jun 2026 00:03:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Beyond Tokenmaxxing</title>
-      <link>https://dhrumil.ca/thoughts/beyond-tokenmaxxing</link>
-      <description>Measuring leverage, not consumption</description>
-      <category>ai</category>
-      <guid>https://dhrumil.ca/thoughts/beyond-tokenmaxxing</guid>
-      <pubDate>Tue, 02 Jun 2026 00:03:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>The True Expense of Nature</title>
-      <link>https://brianschrader.com/archive/the-true-expense-of-nature/</link>
-      <description>An exploration of Nature's endeavor (and yours) to expend as little effort as possible.</description>
-      <guid>https://brianschrader.com/archive/the-true-expense-of-nature/</guid>
-      <pubDate>Tue, 02 Jun 2026 00:03:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>A Trip to 90s Kansai: Exploring the XD FirstClass Network BBS</title>
-      <link>https://cdrom.ca/games/2026/05/30/xd.html</link>
-      <description>May 30, 2026</description>
-      <category>apple</category>
-      <guid>https://cdrom.ca/games/2026/05/30/xd.html</guid>
-      <pubDate>Tue, 02 Jun 2026 00:03:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sloppy &amp; Paste</title>
-      <link>https://wordsrightman.beehiiv.com/p/sloppy-and-paste</link>
-      <description>Or "How I Learned To Keep Worrying And Just Do It Myself"</description>
-      <category>ai</category>
-      <guid>https://wordsrightman.beehiiv.com/p/sloppy-and-paste</guid>
-      <pubDate>Tue, 02 Jun 2026 00:03:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stop Killing Games</title>
-      <link>https://jxself.org/stop-killing-games.shtml</link>
-      <description>The "Stop Killing Games" movement is making progress with
-        the advancement of California AB 1921, a bill designed to
-        stop developers from permanently bricking games when they
-        shut down their servers. If you're a gamer who has watched a
-        $70 purchase turn into a useless desktop icon overnight,
-        you're entirely justified in your outrage. Having a software
-        developer reach into your home and break your own software is
-        a profound violation of trust.</description>
-      <category>gaming</category>
-      <category>apple</category>
-      <category>ai</category>
-      <guid>https://jxself.org/stop-killing-games.shtml</guid>
-      <pubDate>Tue, 02 Jun 2026 00:03:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Friction Was the Point — Hisham Thabet</title>
-      <link>https://hthabet.com/writing/replacing-us-through-attrition/</link>
-      <description>AI may not replace us through competition, but through attrition — the slow erosion of the friction that makes us capable.</description>
-      <category>ai</category>
-      <guid>https://hthabet.com/writing/replacing-us-through-attrition/</guid>
-      <pubDate>Tue, 02 Jun 2026 00:03:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Axis That Made the Chips</title>
-      <link>https://hoeijmakers.net/the-axis-that-made-the-chips/</link>
-      <description>The Netherlands built its first computer in Amsterdam in 1952, moved the thinking to Eindhoven, and produced ASML. That line is history. It is also a blueprint.</description>
-      <category>ai</category>
-      <guid>https://hoeijmakers.net/the-axis-that-made-the-chips/</guid>
-      <pubDate>Tue, 02 Jun 2026 00:03:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Discovery vs Tokenmaxxing</title>
-      <link>https://cezarbabin.com/notes/discovery-vs-tokenmaxxing.html</link>
-      <description>Most current AI coding tools are steering users into tokenmaxxing and re-generating software from scratch, in complete ignorance of the vast amounts of publicly available, human-validated software that can be combined and modded in powerful ways to address 99% of use cases.</description>
-      <category>ides</category>
-      <category>ai</category>
-      <category>web</category>
-      <guid>https://cezarbabin.com/notes/discovery-vs-tokenmaxxing.html</guid>
-      <pubDate>Tue, 02 Jun 2026 00:03:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Growth Isn't About Doing Everything</title>
-      <link>https://arpitbhayani.me/blogs/growth-is-not-about-doing-everything/</link>
-      <description>I follow a simple flow of questions that helps me stay focused, improve consistently, and make incremental impact at workplace. I'm never running around like a headless chicken. Here are the questions I ask myself, and answer honestly, like really true to its core</description>
-      <category>rust</category>
-      <category>ai</category>
-      <guid>https://arpitbhayani.me/blogs/growth-is-not-about-doing-everything/</guid>
-      <pubDate>Tue, 02 Jun 2026 00:03:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Code review assumes an author</title>
-      <link>https://blog.raed.dev/posts/ai-code-review/</link>
-      <description>Code review assumes the person who opened the PR understands the code. Agentic development breaks that assumption. A look at why, not a fix.</description>
-      <category>ai</category>
-      <guid>https://blog.raed.dev/posts/ai-code-review/</guid>
-      <pubDate>Tue, 02 Jun 2026 00:03:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Unblocked — Martín Granados García</title>
-      <link>https://martingranados.com/vibecoding/</link>
-      <description>How Claude Code unstuck a stale Swift side project, porting Next Train to the web in about an hour, and what two weeks of vibecoding taught me about AI as a creativity unblocker.</description>
-      <category>ides</category>
-      <category>ai</category>
-      <category>python</category>
-      <guid>https://martingranados.com/vibecoding/</guid>
-      <pubDate>Tue, 02 Jun 2026 00:03:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Self-Hosting on the Dark Web | David Álvarez Rosa | Personal Website</title>
-      <link>https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/</link>
-      <description>This site is now reachable over Tor as a hidden service, at a .onion address that resolves only inside the Tor network.1 Tor relays and encrypts your traffic as …</description>
-      <author> (David Álvarez Rosa)</author>
-      <category>encryption</category>
-      <category>web</category>
-      <guid>https://david.alvarezrosa.com/posts/self-hosting-on-the-dark-web/</guid>
-      <pubDate>Tue, 02 Jun 2026 00:02:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Every byte matters</title>
-      <link>https://fzakaria.com/2026/06/01/every-byte-matters</link>
-      <description>I have spent a large portion of my career working in Java. In that time, you get used to huge classes. New functionality? Just add a new method and field to the class. The cost of each new field is rarely considered. Performance is often considered from a classic computer science perspective by considering asymptotic analysis of the algorithms and data structures in-use.</description>
-      <guid>https://fzakaria.com/2026/06/01/every-byte-matters</guid>
-      <pubDate>Tue, 02 Jun 2026 00:02:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>I don't believe in big decisions</title>
-      <link>https://alwaysdraft.com/i-dont-believe-in-big-decisions/</link>
-      <description>Big decisions are a myth. They are a long chain of small choices, and the skill is making your mistakes cheap rather than rare.</description>
-      <category>ai</category>
-      <guid>https://alwaysdraft.com/i-dont-believe-in-big-decisions/</guid>
-      <pubDate>Tue, 02 Jun 2026 00:02:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>What actually runs well on a 16 GB MacBook — Prasad Khake</title>
-      <link>https://prasadkhake.com/blog/16gb-mac-llm</link>
-      <description>Honest local-LLM benchmarks on a base M3, 16 GB — tokens/sec, peak RAM, and exactly where it hits the wall. The numbers nobody publishes because they run on H100s.</description>
-      <category>ai</category>
-      <category>apple</category>
-      <guid>https://prasadkhake.com/blog/16gb-mac-llm</guid>
-      <pubDate>Tue, 02 Jun 2026 00:02:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>More time to think</title>
-      <link>https://ma.ttias.be/more-time-to-think/</link>
-      <description>I’m finding myself thinking longer about the code I write and the features that get developed, than I did before the agentic coding era.</description>
-      <author> (https://www.facebook.com/www.ma.ttias.be/)</author>
-      <category>ai</category>
-      <guid>https://ma.ttias.be/more-time-to-think/</guid>
-      <pubDate>Tue, 02 Jun 2026 00:02:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why &lt;em&gt;Am&lt;/em&gt; I Interested In Your Company? - The Collected Works of jjmojojjmojo </title>
-      <link>https://jjmojojjmojo.github.io/why-am-i-interested-in-your-company.html</link>
-      <description>I've recently been looking for work, and I've been getting hung up a lot on application forms. About 3/4 of the time, there's a litany of questions sitting between </description>
-      <category>ai</category>
-      <guid>https://jjmojojjmojo.github.io/why-am-i-interested-in-your-company.html</guid>
-      <pubDate>Tue, 02 Jun 2026 00:02:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Automation is killing your startup | Tony Rice</title>
-      <link>https://www.tonyrice.me/automation-killing-startups/</link>
-      <description>It's not easy to prioritize human connection in a world where there's a constant war for our attention, but the ROI for authentic human connection will always win.</description>
-      <category>ai</category>
-      <guid>https://www.tonyrice.me/automation-killing-startups/</guid>
-      <pubDate>Tue, 02 Jun 2026 00:02:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Infosec Phrasebook</title>
-      <link>https://nesbitt.io/2026/06/01/the-infosec-phrasebook.html</link>
-      <description>a/s/l/threat model?</description>
-      <category>nodejs</category>
-      <category>web</category>
-      <guid>https://nesbitt.io/2026/06/01/the-infosec-phrasebook.html</guid>
-      <pubDate>Tue, 02 Jun 2026 00:02:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vector Storage Costs: S3, OpenSearch, pgvector, Pinecone</title>
-      <link>https://darryl-ruggles.cloud/the-real-cost-of-vector-storage-s3-vectors-vs-opensearch-vs-pgvector-vs-pinecone/</link>
-      <description>Discover the true cost of vector storage: S3 Vectors, OpenSearch, pgvector, and Pinecone. Dive into real workloads and find the best fit for your needs.</description>
-      <category>cloud</category>
-      <category>encryption</category>
-      <category>ai</category>
-      <category>ides</category>
-      <category>sql</category>
-      <guid>https://darryl-ruggles.cloud/the-real-cost-of-vector-storage-s3-vectors-vs-opensearch-vs-pgvector-vs-pinecone/</guid>
-      <pubDate>Tue, 02 Jun 2026 00:02:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>Story Points: Explicit, Honest, Predictable. Already in Use. – Daniil Bastrich</title>
-      <link>https://bastrich.tech/story-points/</link>
-      <description>Every time a software estimate is inflated to absorb uncertainty and daily overhead, it stops measuring actual time and turns into a messy abstraction. Once your "hours" and "days" become a proxy for effort rather than the clock, you are already using Story Points implicitly. Dropping the self-deception and openly embracing this abstraction brings structure to your planning and helps reliably predict delivery without the guessing game.</description>
-      <category>ides</category>
-      <category>gaming</category>
-      <guid>https://bastrich.tech/story-points/</guid>
-      <pubDate>Tue, 02 Jun 2026 00:02:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Niri is not for me</title>
-      <link>https://arijan.dev/posts/niri-not-for-me/</link>
-      <description>After a year of using Niri, I’m probably going back to Sway - here is why.
-Out of sight, out of mind When you open four new terminal windows on Niri, you quite literally don’t see the consequences. If you leave those windows at their default sizes (half screen width), you have just added 4×50%=200% (two monitors’ worth) of horizontal scrolling space for your future self to sift through. You leave them there, just in case, and ‘focus left’ a bunch of times to return to what you were doing.</description>
-      <category>rust</category>
-      <category>youtube</category>
-      <guid>https://arijan.dev/posts/niri-not-for-me/</guid>
-      <pubDate>Tue, 02 Jun 2026 00:02:24 GMT</pubDate>
     </item>
   </channel>
 </rss>

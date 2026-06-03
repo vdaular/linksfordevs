@@ -1,0 +1,142 @@
+[
+  {
+    "Title": "High-agency strategy",
+    "Url": "https://mattstromawn.com/writing/high-agency-strategy/",
+    "Timestamp": "2026-06-03T00:03:37",
+    "Domain": "mattstromawn.com",
+    "Description": "Matt Ström-Awn · Designer, leader, and coach focused on building exceptional products and teams."
+  },
+  {
+    "Title": "Claude Code Isn't About Code",
+    "Url": "https://blog.vtemian.com/post/claude-code-isnt-about-code/",
+    "Timestamp": "2026-06-03T00:03:34",
+    "Domain": "blog.vtemian.com",
+    "Description": "The people getting the most out of Claude Code aren't writing code. Some notes on where the value moved, picking up where the disposable tools manifesto left off."
+  },
+  {
+    "Title": "The Abundance Mirage: why the road to hell is paved in unchallenged assumptions",
+    "Url": "https://cezarbabin.com/notes/designing-a-dictatorship.html",
+    "Timestamp": "2026-06-03T00:03:31",
+    "Domain": "cezarbabin.com",
+    "Description": "In the whole wasteland of AI discourse, there is perhaps no more dangerous proposition than \"Abundance is universally good\", a statement that is almost too tautological to be challenged. To illustrate my point, I'm going to walk you through a thought exercise in designing a dictatorship from the ground up without employing any obvious mechanisms for oppression."
+  },
+  {
+    "Title": "Building Analytics for Haxball, a Game I’ve Played Since 2011",
+    "Url": "https://denizaa.com/building-analytics-for-haxball/",
+    "Timestamp": "2026-06-03T00:03:28",
+    "Domain": "denizaa.com",
+    "Description": "I built a live and historical analytics dashboard for Haxball that turns match data into player stats, team stats, charts, summaries, and xG."
+  },
+  {
+    "Title": "The Permanent Underclass",
+    "Url": "https://ctlamy.com/thoughts/the-permanent-underclass/",
+    "Timestamp": "2026-06-03T00:03:24",
+    "Domain": "ctlamy.com",
+    "Description": "There’s this phrase that’s taking root in our Silicon Valley discourse. It drives me nuts and I’m making a clarion call for us to push back against its toxic ideology.\nIt’s The Permanent Underclass.\nI can’t say how widely the phrase has spread but in my corner of the world - Silicon Valley, Technology - it comes up often enough that I assume most of my peers have at least heard it even if they are not regularly discussing it."
+  },
+  {
+    "Title": "Good Agents",
+    "Url": "https://elijahpotter.dev/articles/good-agents",
+    "Timestamp": "2026-06-03T00:03:21",
+    "Domain": "elijahpotter.dev",
+    "Description": "The spirit of Radical Speed Month includes an impetus to experiment. So experiment I have."
+  },
+  {
+    "Title": "Why I’m Skeptical About Efforts to Revolutionize Schooling - Scott H Young",
+    "Url": "https://www.scotthyoung.com/blog/2026/05/27/revolutionize-schooling/",
+    "Timestamp": "2026-06-03T00:03:14",
+    "Domain": "www.scotthyoung.com",
+    "Description": "A brief explanation of my pessimism about efforts to radically improve education."
+  },
+  {
+    "Title": "charles leifer | Cave of Forgotten Dreams",
+    "Url": "https://charlesleifer.com/blog/cave-of-forgotten-dreams/",
+    "Timestamp": "2026-06-03T00:03:10",
+    "Domain": "charlesleifer.com",
+    "Description": "June 02, 2026 10:08\n      /\n      \n        ai\n      \n        thoughts\n      \n      /\n      0 comments"
+  },
+  {
+    "Title": "Should CEOs Fire Their Software Developers? | Spicer Matthews",
+    "Url": "https://spicermatthews.com/blog/should-ceos-fire-software-developers/",
+    "Timestamp": "2026-06-03T00:03:06",
+    "Domain": "spicermatthews.com",
+    "Description": "CEOs are getting AI-pilled and asking why they still pay developers. After advising dozens of leaders, here's my honest framework for who should hire and who should YOLO."
+  },
+  {
+    "Title": "Web3 means Freedom Software",
+    "Url": "https://jthor.eth.link/blog/2026/04/13/web3-means-freedom-software/",
+    "Timestamp": "2026-06-03T00:03:02",
+    "Domain": "jthor.eth.link",
+    "Description": "Web3's promise of user sovereignty remains unfulfilled—corrupted by venture-driven growth pressures that have strayed far from its original vision. True web3 must embody censorship resistance, open source freedom, privacy, and security, principles"
+  },
+  {
+    "Title": "Review of the MoErgo Go60 Keyboard",
+    "Url": "https://arslan.io/2026/06/02/review-of-the-moergo-go60-keyboard/",
+    "Timestamp": "2026-06-03T00:02:58",
+    "Domain": "arslan.io",
+    "Description": "It’s time for another keyboard review.\n\nLast year, I reviewed the MoErgo Glove80. It was and is still one of my most visited blog posts.In that review, I compared it to the Kinesis Advantage360 Pro and wrote about the travel case, design, switches, tenting, ZMK configuration, community, and"
+  },
+  {
+    "Title": "Anthropic Whales Dominate Usage Ahead of IPO - Keith Brown",
+    "Url": "https://keithbrown.com/anthropic-whales-ipo/",
+    "Timestamp": "2026-06-03T00:02:53",
+    "Domain": "keithbrown.com",
+    "Description": "The insights, analysis, and data presented in this article are for informational and educational purposes only and do not constitute financial, investment, legal, or tax advice. Always conduct your own independent due diligence before buying or selling any security. I was catching up with the founder of CostHawk recently, asking him what he’s seeing in […]"
+  },
+  {
+    "Title": "Clickhouse table per tenant in production · Anantha Kumaran",
+    "Url": "https://ananthakumaran.in/2026/06/02/clickhouse-table-per-tenant-in-production.html",
+    "Timestamp": "2026-06-03T00:02:49",
+    "Domain": "ananthakumaran.in",
+    "Description": "At work, we made a decision to go with a table per tenant approach and\nwe have been running that setup for a couple of years now. I thought this\nwould be the right time to share what we have learned and what works\nwell."
+  },
+  {
+    "Title": "Inherited the frontend of a 150K-user app, mostly vibe coded - Kool Codez",
+    "Url": "https://koolcodez.com/blog/fixing-an-ai-built-codebase/",
+    "Timestamp": "2026-06-03T00:02:46",
+    "Domain": "koolcodez.com",
+    "Description": "The product runs the whole business and has 150K users. The codebase underneath needs a lot of work. Where do you draw the line on quality when this many people depend on it?"
+  },
+  {
+    "Title": "The Internet Needs More Cross-Pollinators",
+    "Url": "https://brennan.day/the-internet-needs-more-cross-pollinators/",
+    "Timestamp": "2026-06-03T00:02:43",
+    "Domain": "brennan.day",
+    "Description": "So, my silly little fanfic project blew up like crazy and received some really negative feedback. And I think I understand why. Exploring the concept of boundary spanning and cross-pollination in online communities. Drawing on organizational theory and the work of Michael Tushman. We need people who move between different online subcultures to seed ideas and build bridges."
+  },
+  {
+    "Title": "Arcan: 10 Years of Online Obscurity",
+    "Url": "https://arcan-fe.com/2026/06/02/arcan-10-years-of-online-obscurity/",
+    "Timestamp": "2026-06-03T00:02:38",
+    "Domain": "arcan-fe.com",
+    "Description": "… and 23 years of tedious yak shaving.  Ten years ago my rather anemic post on the Arcan project started to circulate. It got enough attention that I considered stopping right there and …"
+  },
+  {
+    "Title": "The LLM Job Paradox",
+    "Url": "https://blog.nilesh.io/post/llms-and-jobs",
+    "Timestamp": "2026-06-03T00:02:34",
+    "Domain": "blog.nilesh.io",
+    "Description": "By this I mean, do you think your entire job could be done by an AI. Can your entire team / field / department be removed without issue?"
+  },
+  {
+    "Title": "Self-extensible software is here and its amazing | Slopfluencer",
+    "Url": "https://slopfluencer.com/posts/2026_06_02-self-extensible-software/",
+    "Timestamp": "2026-06-03T00:02:31",
+    "Domain": "slopfluencer.com",
+    "Description": "Slopfluencer: posts on model training, evaluations, agents, NLP, and building products with generative AI."
+  },
+  {
+    "Title": "Anthropic and the caravel problem · Valentin Radu",
+    "Url": "https://radval.me/articles/anthropic-and-the-caravel-problem",
+    "Timestamp": "2026-06-03T00:02:28",
+    "Domain": "radval.me",
+    "Description": "In 1500 a country of a million people invented the ship that opened the world, got rich beyond its size, and then lost everything to latecomers with deeper pockets. Frontier AI labs are sailing the same caravel. Why the model was never the moat, and the two narrow ways out."
+  },
+  {
+    "Title": "Claude Code from the beach: My remote coding setup with mosh, tmux and ntfy | rogs",
+    "Url": "https://rogs.me/2026/02/claude-code-from-the-beach-my-remote-coding-setup-with-mosh-tmux-and-ntfy/",
+    "Timestamp": "2026-06-03T00:02:23",
+    "Domain": "rogs.me",
+    "Description": ""
+  }
+]
