@@ -7,6 +7,27 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>32GB of DDR5 now costs $375 minimum — AI shortage continues to squeeze PC building</title>
+      <link>https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building</link>
+      <description>Lower-priced kits are disappearing by the day</description>
+      <author> (https://www.tomshardware.com/author/stephen-warwick)</author>
+      <category>gaming</category>
+      <category>ai</category>
+      <category>apple</category>
+      <guid>https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building</guid>
+      <pubDate>Wed, 03 Jun 2026 18:02:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Introducing Gemma 4 12B: a unified, encoder-free multimodal model</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/</link>
+      <description>An overview of Gemma 4 12B, a model designed to bring high-performance multimodal intelligence directly to your laptop.</description>
+      <category>visualstudio</category>
+      <category>ides</category>
+      <category>ai</category>
+      <guid>https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/</guid>
+      <pubDate>Wed, 03 Jun 2026 18:02:15 GMT</pubDate>
+    </item>
+    <item>
       <title>Pwnd Blaster: Hacking your PC using your speaker without ever touching it | nns.ee</title>
       <link>https://blog.nns.ee/2026/06/03/katana-badusb/</link>
       <description>Abusing an unauthenticated Bluetooth protocol to turn a PC speaker into a Rubber Ducky.</description>
