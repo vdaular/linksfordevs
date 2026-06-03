@@ -7,13 +7,36 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>DaVinci Resolve – What’s New</title>
+      <link>https://www.blackmagicdesign.com/products/davinciresolve/whatsnew</link>
+      <description>Professional video editing, color correction, visual effects and audio post production all in a single application. Free and paid versions for Mac, Windows and Linux.</description>
+      <category>ides</category>
+      <category>nodejs</category>
+      <category>git</category>
+      <category>ai</category>
+      <category>apple</category>
+      <guid>https://www.blackmagicdesign.com/products/davinciresolve/whatsnew</guid>
+      <pubDate>Wed, 03 Jun 2026 20:02:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Encephalitis - Andrew Gallant's Blog</title>
+      <link>https://burntsushi.net/encephalitis/</link>
+      <description>I was recently diagnosed with anti-NMDA receptor encephalitis. It is
+an autoimmune disorder where your body’s normally helpful antibodies
+start acting strangely. This leads to inflammation in the brain. This
+short blog briefly discusses some of my experience and prognosis.</description>
+      <category>youtube</category>
+      <guid>https://burntsushi.net/encephalitis/</guid>
+      <pubDate>Wed, 03 Jun 2026 20:02:18 GMT</pubDate>
+    </item>
+    <item>
       <title>32GB of DDR5 now costs $375 minimum — AI shortage continues to squeeze PC building</title>
       <link>https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building</link>
       <description>Lower-priced kits are disappearing by the day</description>
       <author> (https://www.tomshardware.com/author/stephen-warwick)</author>
       <category>gaming</category>
-      <category>ai</category>
       <category>apple</category>
+      <category>ai</category>
       <guid>https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building</guid>
       <pubDate>Wed, 03 Jun 2026 18:02:30 GMT</pubDate>
     </item>
@@ -30,9 +53,11 @@
       <title>Pwnd Blaster: Hacking your PC using your speaker without ever touching it | nns.ee</title>
       <link>https://blog.nns.ee/2026/06/03/katana-badusb/</link>
       <description>Abusing an unauthenticated Bluetooth protocol to turn a PC speaker into a Rubber Ducky.</description>
-      <category>git</category>
       <category>gaming</category>
       <category>encryption</category>
+      <category>git</category>
+      <category>python</category>
+      <category>linux</category>
       <guid>https://blog.nns.ee/2026/06/03/katana-badusb/</guid>
       <pubDate>Wed, 03 Jun 2026 14:02:18 GMT</pubDate>
     </item>
@@ -48,8 +73,8 @@
       <title>GitHub - c0deJedi/nbd-vram: Use your NVIDIA GPU's VRAM as swap space on Linux. Built for laptops with soldered memory and no upgrade path. If you have an RTX card sitting there with 8GB of VRAM and you're getting swapped to SSD, this puts that VRAM to work</title>
       <link>https://github.com/c0dejedi/nbd-vram</link>
       <description>Use your NVIDIA GPU&amp;#39;s VRAM as swap space on Linux. Built for laptops with soldered memory and no upgrade path. If you have an RTX card sitting there with 8GB of VRAM and you&amp;#39;re getting swap...</description>
-      <category>linux</category>
       <category>git</category>
+      <category>linux</category>
       <guid>https://github.com/c0dejedi/nbd-vram</guid>
       <pubDate>Wed, 03 Jun 2026 07:04:03 GMT</pubDate>
     </item>
@@ -74,6 +99,9 @@
       <link>https://blog.washi.dev/posts/custom-attributes-and-why-they-suck/</link>
       <description>Some people may think I am a shill for .NET.</description>
       <category>database</category>
+      <category>javascript</category>
+      <category>gaming</category>
+      <category>dotnet</category>
       <guid>https://blog.washi.dev/posts/custom-attributes-and-why-they-suck/</guid>
       <pubDate>Wed, 03 Jun 2026 03:49:22 GMT</pubDate>
     </item>
@@ -82,8 +110,10 @@
       <link>https://mattstromawn.com/writing/high-agency-strategy/</link>
       <description>Matt Ström-Awn · Designer, leader, and coach focused on building exceptional products and teams.</description>
       <category>git</category>
-      <category>ai</category>
       <category>cloud</category>
+      <category>ai</category>
+      <category>web</category>
+      <category>youtube</category>
       <guid>https://mattstromawn.com/writing/high-agency-strategy/</guid>
       <pubDate>Wed, 03 Jun 2026 00:03:37 GMT</pubDate>
     </item>
@@ -93,9 +123,9 @@
       <description>The people getting the most out of Claude Code aren't writing code. Some notes on where the value moved, picking up where the disposable tools manifesto left off.</description>
       <author> (Vlad Temian)</author>
       <category>encryption</category>
+      <category>cloud</category>
       <category>database</category>
       <category>ai</category>
-      <category>cloud</category>
       <guid>https://blog.vtemian.com/post/claude-code-isnt-about-code/</guid>
       <pubDate>Wed, 03 Jun 2026 00:03:34 GMT</pubDate>
     </item>
@@ -115,6 +145,7 @@
       <category>gaming</category>
       <category>ai</category>
       <category>web</category>
+      <category>git</category>
       <guid>https://denizaa.com/building-analytics-for-haxball/</guid>
       <pubDate>Wed, 03 Jun 2026 00:03:28 GMT</pubDate>
     </item>
@@ -178,7 +209,7 @@ I can’t say how widely the phrase has spread but in my corner of the world - S
       <category>encryption</category>
       <category>apple</category>
       <category>android</category>
-      <category>ai</category>
+      <category>nodejs</category>
       <category>linux</category>
       <guid>https://jthor.eth.link/blog/2026/04/13/web3-means-freedom-software/</guid>
       <pubDate>Wed, 03 Jun 2026 00:03:02 GMT</pubDate>
@@ -210,9 +241,11 @@ Last year, I reviewed the MoErgo Glove80. It was and is still one of my most vis
 we have been running that setup for a couple of years now. I thought this
 would be the right time to share what we have learned and what works
 well.</description>
-      <category>nodejs</category>
       <category>containers</category>
+      <category>nodejs</category>
       <category>javascript</category>
+      <category>database</category>
+      <category>web</category>
       <guid>https://ananthakumaran.in/2026/06/02/clickhouse-table-per-tenant-in-production.html</guid>
       <pubDate>Wed, 03 Jun 2026 00:02:49 GMT</pubDate>
     </item>
@@ -223,9 +256,9 @@ well.</description>
       <author> (Lucio D'Alessandro)</author>
       <category>javascript</category>
       <category>typescript</category>
-      <category>ai</category>
       <category>web</category>
       <category>git</category>
+      <category>nodejs</category>
       <guid>https://koolcodez.com/blog/fixing-an-ai-built-codebase/</guid>
       <pubDate>Wed, 03 Jun 2026 00:02:46 GMT</pubDate>
     </item>
@@ -235,6 +268,7 @@ well.</description>
       <description>So, my silly little fanfic project blew up like crazy and received some really negative feedback. And I think I understand why. Exploring the concept of boundary spanning and cross-pollination in online communities. Drawing on organizational theory and the work of Michael Tushman. We need people who move between different online subcultures to seed ideas and build bridges.</description>
       <author> (Brennan Kenneth Brown)</author>
       <category>gaming</category>
+      <category>ai</category>
       <guid>https://brennan.day/the-internet-needs-more-cross-pollinators/</guid>
       <pubDate>Wed, 03 Jun 2026 00:02:43 GMT</pubDate>
     </item>
@@ -243,9 +277,10 @@ well.</description>
       <link>https://arcan-fe.com/2026/06/02/arcan-10-years-of-online-obscurity/</link>
       <description>… and 23 years of tedious yak shaving.  Ten years ago my rather anemic post on the Arcan project started to circulate. It got enough attention that I considered stopping right there and …</description>
       <category>encryption</category>
-      <category>git</category>
       <category>dotnet</category>
       <category>gaming</category>
+      <category>git</category>
+      <category>android</category>
       <guid>https://arcan-fe.com/2026/06/02/arcan-10-years-of-online-obscurity/</guid>
       <pubDate>Wed, 03 Jun 2026 00:02:38 GMT</pubDate>
     </item>
@@ -272,8 +307,8 @@ well.</description>
       <title>Anthropic and the caravel problem · Valentin Radu</title>
       <link>https://radval.me/articles/anthropic-and-the-caravel-problem</link>
       <description>In 1500 a country of a million people invented the ship that opened the world, got rich beyond its size, and then lost everything to latecomers with deeper pockets. Frontier AI labs are sailing the same caravel. Why the model was never the moat, and the two narrow ways out.</description>
-      <category>linux</category>
       <category>apple</category>
+      <category>linux</category>
       <category>ai</category>
       <guid>https://radval.me/articles/anthropic-and-the-caravel-problem</guid>
       <pubDate>Wed, 03 Jun 2026 00:02:28 GMT</pubDate>
@@ -284,9 +319,9 @@ well.</description>
       <description></description>
       <category>ai</category>
       <category>android</category>
+      <category>apple</category>
       <category>javascript</category>
       <category>linux</category>
-      <category>apple</category>
       <guid>https://rogs.me/2026/02/claude-code-from-the-beach-my-remote-coding-setup-with-mosh-tmux-and-ntfy/</guid>
       <pubDate>Wed, 03 Jun 2026 00:02:23 GMT</pubDate>
     </item>
@@ -294,8 +329,9 @@ well.</description>
       <title>Introducing MAI-Code-1-Flash  | Microsoft AI</title>
       <link>https://microsoft.ai/news/introducingmai-code-1-flash/</link>
       <description>Coding models are most useful when they perform well in the same environment developers use every day. That is why we built MAI-Code-1-Flash with production workflows at the center, rather than optimizing only for benchmarks. The model was trained directly with GitHub Copilot harnesses used in production. This allows it to learn how to interact with surrounding tools and systems in agentic coding tasks, making it uniquely well suited to real-world Copilot workflows compared to other available models.</description>
-      <category>ai</category>
       <category>ides</category>
+      <category>ai</category>
+      <category>git</category>
       <guid>https://microsoft.ai/news/introducingmai-code-1-flash/</guid>
       <pubDate>Tue, 02 Jun 2026 22:02:14 GMT</pubDate>
     </item>

@@ -1,5 +1,21 @@
 [
   {
+    "Title": "DaVinci Resolve – What’s New",
+    "Url": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
+    "Timestamp": "2026-06-03T20:02:22",
+    "Domain": "www.blackmagicdesign.com",
+    "Description": "Professional video editing, color correction, visual effects and audio post production all in a single application. Free and paid versions for Mac, Windows and Linux.",
+    "Confidence": 0.9739918
+  },
+  {
+    "Title": "Encephalitis - Andrew Gallant's Blog",
+    "Url": "https://burntsushi.net/encephalitis/",
+    "Timestamp": "2026-06-03T20:02:18",
+    "Domain": "burntsushi.net",
+    "Description": "I was recently diagnosed with anti-NMDA receptor encephalitis. It is\nan autoimmune disorder where your body’s normally helpful antibodies\nstart acting strangely. This leads to inflammation in the brain. This\nshort blog briefly discusses some of my experience and prognosis.",
+    "Confidence": 0.8990159
+  },
+  {
     "Title": "32GB of DDR5 now costs $375 minimum — AI shortage continues to squeeze PC building",
     "Url": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building",
     "Timestamp": "2026-06-03T18:02:30",
