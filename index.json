@@ -1,11 +1,27 @@
 [
   {
+    "Title": "Command Line",
+    "Url": "https://commandline.microsoft.com/",
+    "Timestamp": "2026-06-03T04:19:26",
+    "Domain": "commandline.microsoft.com",
+    "Description": "Founded in 2026, Command Line is a technical blog from Microsoft where we share how we build and what we learn—from both our wins and failures",
+    "Confidence": 0.99
+  },
+  {
     "Title": "Inside BYD: CT Scans of a Battery Cell, Switch Panel, Charger, and Key Fob from the EV Banned in America",
     "Url": "https://www.lumafield.com/scan-of-the-month/byd",
     "Timestamp": "2026-06-03T04:02:18",
     "Domain": "www.lumafield.com",
     "Description": "BYD sold 4.6M vehicles in 2025, but Americans can't buy one. We CT scanned four components from its lineup to reveal what vertical integration looks like at the part level.",
     "Confidence": 0.955719
+  },
+  {
+    "Title": "Why Custom Attributes in .NET give me Nightmares",
+    "Url": "https://blog.washi.dev/posts/custom-attributes-and-why-they-suck/",
+    "Timestamp": "2026-06-03T03:49:22",
+    "Domain": "blog.washi.dev",
+    "Description": "Some people may think I am a shill for .NET.",
+    "Confidence": 0.99
   },
   {
     "Title": "High-agency strategy",
