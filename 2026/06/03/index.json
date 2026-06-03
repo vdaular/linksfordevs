@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Elixir v1.20 released: now a gradually typed language",
+    "Url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
+    "Timestamp": "2026-06-03T21:02:16",
+    "Domain": "elixir-lang.org",
+    "Description": "From Elixir v1.20, every program is now gradually type checked in search for verified bugs and typing violations."
+  },
+  {
     "Title": "DaVinci Resolve – What’s New",
     "Url": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
     "Timestamp": "2026-06-03T20:02:22",

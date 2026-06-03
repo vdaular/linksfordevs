@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Elixir v1.20 released: now a gradually typed language",
+    "Url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
+    "Timestamp": "2026-06-03T21:02:16",
+    "Domain": "elixir-lang.org",
+    "Description": "From Elixir v1.20, every program is now gradually type checked in search for verified bugs and typing violations.",
+    "Confidence": 0.99540687
+  },
+  {
     "Title": "DaVinci Resolve – What’s New",
     "Url": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
     "Timestamp": "2026-06-03T20:02:22",
@@ -246,21 +254,5 @@
     "Domain": "microsoft.ai",
     "Description": "Coding models are most useful when they perform well in the same environment developers use every day. That is why we built MAI-Code-1-Flash with production workflows at the center, rather than optimizing only for benchmarks. The model was trained directly with GitHub Copilot harnesses used in production. This allows it to learn how to interact with surrounding tools and systems in agentic coding tasks, making it uniquely well suited to real-world Copilot workflows compared to other available models.",
     "Confidence": 0.9764586
-  },
-  {
-    "Title": "Quote of the day by Oracle co-founder Larry Ellison: \"Citizens will be on their best behavior, because we’re constantly recording and reporting everything that is going on\" — a dire warning on the erosion of privacy",
-    "Url": "https://www.techradar.com/pro/quote-of-the-day-by-oracle-co-founder-larry-ellison-citizens-will-be-on-their-best-behavior-because-were-constantly-recording-and-reporting-everything-that-is-going-on-a-dire-warning-on-the-erosion-of-privacy",
-    "Timestamp": "2026-06-02T21:02:27",
-    "Domain": "www.techradar.com",
-    "Description": "Legendary technologist Larry Ellison has outlined a vision for an increasingly aggressive surveillance state in the 21st century",
-    "Confidence": 0.87287205
-  },
-  {
-    "Title": "Gmail Thinks I'm Stupid, So I Left",
-    "Url": "https://moddedbear.com/gmail-thinks-im-stupid-so-i-left",
-    "Timestamp": "2026-06-02T21:02:20",
-    "Domain": "moddedbear.com",
-    "Description": "Gmail's rapid descent into belittling their users, powered by AI.",
-    "Confidence": 0.97955555
   }
 ]
