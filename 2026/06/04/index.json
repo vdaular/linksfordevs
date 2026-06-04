@@ -1,0 +1,177 @@
+[
+  {
+    "Title": "Discovering the LLM's curious and remarkable world knowledge of open data on the web.",
+    "Url": "https://chris-parmer.com/discovering-the-llms-curious-and-remarkable-world-knowledge-of-open-data-on-the-web/?trk=feed_main-feed-card_feed-article-content",
+    "Timestamp": "2026-06-04T03:04:13",
+    "Domain": "chris-parmer.com",
+    "Description": "Turns out you can explore data with AI even if you don't have any... data."
+  },
+  {
+    "Title": "My son, the OpenAI server - byandrev",
+    "Url": "https://byandrev.dev/en/blog/my-son-the-openai-server/",
+    "Timestamp": "2026-06-04T03:04:10",
+    "Domain": "byandrev.dev",
+    "Description": "Sam Altman has said that he finds the comparison made regarding the energy consumption of artificial intelligence unfair, and that no one questions how much energy is used to \"train\" a human."
+  },
+  {
+    "Title": "The True Cost of the DOM",
+    "Url": "https://edge.jmaleonard.com/05-the-true-cost-of-the-dom.html",
+    "Timestamp": "2026-06-04T03:04:06",
+    "Domain": "edge.jmaleonard.com",
+    "Description": "Part 5 of 8 — Series index"
+  },
+  {
+    "Title": "Evals or You're Blind — Pydantic AI × Pydantic Evals × crabbox",
+    "Url": "https://zozo123.github.io/demo-evals-pydantic-islo-crabbox/",
+    "Timestamp": "2026-06-04T03:04:02",
+    "Domain": "zozo123.github.io",
+    "Description": "A runnable demo: realistic Pydantic Evals grading a Pydantic AI agent, executed on disposable boxes via crabbox. Built around the 7 anti-lessons from PyCon DE."
+  },
+  {
+    "Title": "How to Just Do a Thing",
+    "Url": "https://www.raptitude.com/2026/05/how-to-just-do-a-thing/",
+    "Timestamp": "2026-06-04T03:03:59",
+    "Domain": "www.raptitude.com",
+    "Description": "I keep reading books from the 19th century and earlier, fiction and nonfiction, because I envy something about the lives of the people in them."
+  },
+  {
+    "Title": "I Built a Local News Website",
+    "Url": "https://www.thomasmcgee.co/article/i-built-a-local-news-website",
+    "Timestamp": "2026-06-04T03:03:54",
+    "Domain": "www.thomasmcgee.co",
+    "Description": "The Boise started as a personal experiment in local media, AI, maps, and UX. It became a way to rethink what local news can feel like when it is built around how people actually live."
+  },
+  {
+    "Title": "Structure of Every LLM Chat",
+    "Url": "https://arpitbhayani.me/blogs/structure-of-llm-chat/",
+    "Timestamp": "2026-06-04T03:03:50",
+    "Domain": "arpitbhayani.me",
+    "Description": "Role tagging is not cosmetic. It shapes how the model responds, how context is managed across multiple turns, and how application developers constrain and direct model behaviour at a structural level. Understanding this format is the difference between using an LLM and building reliably on top of one."
+  },
+  {
+    "Title": "For EU Open Source, the Budget Is the Policy",
+    "Url": "https://vikunja.io/changelog/eu-open-source-budget-is-the-policy/",
+    "Timestamp": "2026-06-04T03:03:45",
+    "Domain": "vikunja.io",
+    "Description": "The EU's new Open Source Strategy is a real step forward, but it still has no procurement teeth. Here is what changed since 2020, what hasn't, and why the budget Brussels already controls is the policy that matters most."
+  },
+  {
+    "Title": "OpenAI has a branding problem",
+    "Url": "https://fulghum.io/openai",
+    "Timestamp": "2026-06-04T03:03:42",
+    "Domain": "fulghum.io",
+    "Description": "The company that led the consumer AI race might be losing the naming one."
+  },
+  {
+    "Title": "Quill Grid",
+    "Url": "https://jperla.com/blog/trustedrouter-one-api-all-llms-provably-private",
+    "Timestamp": "2026-06-04T03:03:39",
+    "Domain": "jperla.com",
+    "Description": "Quill Grid: The Starlink for AI becomes a network. An optional, opt-in distributed AI grid where idle Quill One devices share spare capacity, earn credits, and donate AI hours."
+  },
+  {
+    "Title": "Quill Grid",
+    "Url": "https://jperla.com/blog/attestation-is-all-you-need?q=32",
+    "Timestamp": "2026-06-04T03:03:35",
+    "Domain": "jperla.com",
+    "Description": "Quill Grid: The Starlink for AI becomes a network. An optional, opt-in distributed AI grid where idle Quill One devices share spare capacity, earn credits, and donate AI hours."
+  },
+  {
+    "Title": "You Don't Need an Outbox - EventSourcingDB",
+    "Url": "https://docs.eventsourcingdb.io/blog/2026/06/04/you-dont-need-an-outbox/",
+    "Timestamp": "2026-06-04T03:03:30",
+    "Domain": "docs.eventsourcingdb.io",
+    "Description": "The outbox pattern has quietly become canonical in microservice tutorials. It has a name, library support, conference talks, and a steady stream of blog posts that walk through implementing it. It's blessed. And yet, every time it shows up in a system, it's a sign that something else has gone wrong upstream."
+  },
+  {
+    "Title": "Building with Agents — Readables",
+    "Url": "https://debarshibasak.github.io/readables/blogs/building-with-agents.html",
+    "Timestamp": "2026-06-04T03:03:25",
+    "Domain": "debarshibasak.github.io",
+    "Description": "Agents get you to 90% fast. The last 10% is where the engineering lives — and it still belongs to you. Notes on the last mile, decisions, and scope creep."
+  },
+  {
+    "Title": "The Approach to Equilibrium",
+    "Url": "https://www.guidavid.com/writing/approach-to-equilibrium",
+    "Timestamp": "2026-06-04T03:03:21",
+    "Domain": "www.guidavid.com",
+    "Description": "Coffee cools, eggs scramble, the past never comes back. Yet the laws underneath run just as well in reverse. Here is the simplest machine I know that holds both truths at once, and shows where the missing order really goes."
+  },
+  {
+    "Title": "My Software North Star",
+    "Url": "https://kristoff.it/blog/north-star/",
+    "Timestamp": "2026-06-04T03:03:18",
+    "Domain": "kristoff.it",
+    "Description": "Loris Cro's Blog"
+  },
+  {
+    "Title": "The Agentic Test Pyramid — Matthew Boston",
+    "Url": "https://matthewboston.com/blog/the-agentic-test-pyramid.html",
+    "Timestamp": "2026-06-04T03:03:14",
+    "Domain": "matthewboston.com",
+    "Description": "The classic test pyramid assumes every test is deterministic. The moment a model is part of your system, that assumption breaks. You need a second axis."
+  },
+  {
+    "Title": "ESP32-S31 Dual-Core RISC-V + Multi-Protocol SoC",
+    "Url": "https://www.espressif.com/en/products/socs/esp32-s31",
+    "Timestamp": "2026-06-04T03:03:11",
+    "Domain": "www.espressif.com",
+    "Description": "Overview   Features   Products & Resources     Product Selector"
+  },
+  {
+    "Title": "Server-Side WebRTC Noise Reduction with Pion, FFmpeg, and RNN Models",
+    "Url": "https://www.lodan.me/posts/server-side-webrtc-noise-reduction-pion-ffmpeg-rnn/",
+    "Timestamp": "2026-06-04T03:03:05",
+    "Domain": "www.lodan.me",
+    "Description": "An engineering note on routing WebRTC Opus audio through a Go/Pion server, decoding it to PCM, filtering it with FFmpeg arnndn, and validating the tradeoffs before real-time use."
+  },
+  {
+    "Title": "10 million requests in my bot black hole... Here is some information: | Glade Art Blog",
+    "Url": "https://gladeart.com/blog/10-million-requests-in-my-bot-black-hole-here-is-some-information",
+    "Timestamp": "2026-06-04T03:03:01",
+    "Domain": "gladeart.com",
+    "Description": "And so, ladies and gentlemen, we have hit the 10,000,000 serves threshold of the Data Export tar pit. This is a whole new level of bot trapping, and it's pea..."
+  },
+  {
+    "Title": "The Bloat: Devlog",
+    "Url": "https://milkandcigarettes.com/notes/devlog/the-bloat",
+    "Timestamp": "2026-06-04T03:02:57",
+    "Domain": "milkandcigarettes.com",
+    "Description": "Listening to a news broadcast is like smoking a cigarette and crushing the butt in the ashtray"
+  },
+  {
+    "Title": "Vivaldi (Chrome) ruining website colors - Yee Chie's Corner",
+    "Url": "https://yeechie.nl/vivaldi-chrome-ruining-website-colors",
+    "Timestamp": "2026-06-04T03:02:54",
+    "Domain": "yeechie.nl",
+    "Description": "I recently tried Vivaldi browser and noticed my website’s colors looked wrong. Vivaldi’s (or any Chrome-based browser) aggressive color management adjusts..."
+  },
+  {
+    "Title": "The case for memory safe desktop Linux distribution",
+    "Url": "http://fiedzia.blogspot.com/2026/06/the-case-for-memory-safe-desktop-linux.html",
+    "Timestamp": "2026-06-04T03:02:48",
+    "Domain": "fiedzia.blogspot.com",
+    "Description": "I am writing this after setting up new laptop, so I have some thought about how I'd like my system to work and decided to write them down. I..."
+  },
+  {
+    "Title": "What your router knows but won't tell you - David E. Weekly",
+    "Url": "https://david.weekly.org/blog/2026-04-16-what-your-router-knows/",
+    "Timestamp": "2026-06-04T03:02:44",
+    "Domain": "david.weekly.org",
+    "Description": "A while back my home network started acting strange. Not broken, exactly. Just a low-grade wrongness. Video calls would glitch for a few seconds and come back."
+  },
+  {
+    "Title": "Opus 4.8 vs Opus 4.7 vs GPT-5.5 vs Composer 2.5 - 50 Real PRs in Go and Rust",
+    "Url": "https://www.stet.sh/blog/opus-48-vs-gpt-55-vs-opus-47-vs-composer-25",
+    "Timestamp": "2026-06-04T03:02:40",
+    "Domain": "www.stet.sh",
+    "Description": "I graded four frontier coding models on 50 real merged PRs in Go and Rust - not just whether tests pass, but craft, equivalence, and cost. Opus 4.8 led on craft in both."
+  },
+  {
+    "Title": "An Open Source Motorized XYZ Micro-Manipulator - Affordable sub µm Motion Control",
+    "Url": "https://youtube.com/watch?v=MgQbPdiuUTw",
+    "Timestamp": "2026-06-04T01:19:52",
+    "Domain": "youtube.com",
+    "Description": "A low-cost and easy to build 3-Axis motion plattform is presented. It can achieve step sizes down to 50nm while supporting arbitrary acceleration limited motion paths in a working volume of 23x23x23mm³. The simple G-Coder interface allows easy control from printer-hosts or custom software. The device can be used in applications, like automated microscopy, optical alignment or maskless lithography.\n\n✅ Project on Github: https://github.com/0x23/MicroManipulatorStepper\n\n🠲 I am looking for a better project name? Any ideas are welcome.\n\n*** Video Chapters ***\n\n00:00 Intro\n01:18 Overview\n01:52 Miniature Ball Joints\n03:41 Stepper Motors\n04:53 Magnetic Encoders\n08:18 Electronics\n10:25 Firmware\n13:11 Kinematic Model\n14:33 Build & Assembly\n19:05 Results & Applications\n24:25 Whats Next ?"
+  }
+]
