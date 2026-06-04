@@ -7,6 +7,102 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Reve: Bring your ideas to life</title>
+      <link>https://blog.reve.com/posts/the-layout-bet/</link>
+      <description>Reve Image (Halfmoon): A model trained from the ground up to excel at prompt adherence, aesthetics, and
+        typography. Make any image you can imagine with Reve.</description>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://blog.reve.com/posts/the-layout-bet/</guid>
+      <pubDate>Thu, 04 Jun 2026 23:03:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Menelaos Vergis</title>
+      <link>https://menelaos.vergis.net/posts/Storing-Your-Passwords-Safely-Why-I-Use-KeePass</link>
+      <description>Things I work on</description>
+      <category>android</category>
+      <guid>https://menelaos.vergis.net/posts/Storing-Your-Passwords-Safely-Why-I-Use-KeePass</guid>
+      <pubDate>Thu, 04 Jun 2026 23:03:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Desperation of NYTimes</title>
+      <link>https://rozumem.xyz/posts/16</link>
+      <description>I recently got suckered into subscribing to NYTimes because I wanted to read an article behind a paywall and I couldn't find an easy and quick alternative. I didn't mind the $2.00 a month. But I took offense to what happened after I paid.</description>
+      <author> (rozumem)</author>
+      <guid>https://rozumem.xyz/posts/16</guid>
+      <pubDate>Thu, 04 Jun 2026 23:03:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Do the hardest thing</title>
+      <link>https://justinjackson.ca/hard-thing</link>
+      <description>Most small business ideas are a hard job attached to an easy idea. Instead, you should do your hardest idea.</description>
+      <guid>https://justinjackson.ca/hard-thing</guid>
+      <pubDate>Thu, 04 Jun 2026 23:03:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Good teachers don’t cheat – jasonkena's blog</title>
+      <link>https://jasonkena.github.io/blog/posts/good_teachers_dont_cheat/</link>
+      <description>A unified view of policy gradients, self-distillation, and Pedagogical RL</description>
+      <category>dotnet</category>
+      <guid>https://jasonkena.github.io/blog/posts/good_teachers_dont_cheat/</guid>
+      <pubDate>Thu, 04 Jun 2026 23:03:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>France Needs 45 Years to Grow Its Way Out</title>
+      <link>https://julienreszka.com/blog/france-needs-45-years-to-grow-its-way-out/</link>
+      <description>Cutting spending when you already spend 57% of GDP gives you six times less growth than the same cut at 20%. France is on the wrong part of the curve.</description>
+      <guid>https://julienreszka.com/blog/france-needs-45-years-to-grow-its-way-out/</guid>
+      <pubDate>Thu, 04 Jun 2026 23:03:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>My Agent Skill for Test-Driven Development - SaturnCI - Continuous Integration for Ruby on Rails</title>
+      <link>https://www.saturnci.com/my-agent-skill-for-test-driven-development.html</link>
+      <description>AI agents tend to be, at least as of this writing, lousy at writing tests. The tests they write are often vague, cryptic, overcomplicated, hacky, disorganized, ...</description>
+      <category>ruby</category>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://www.saturnci.com/my-agent-skill-for-test-driven-development.html</guid>
+      <pubDate>Thu, 04 Jun 2026 23:03:05 GMT</pubDate>
+    </item>
+    <item>
+      <title>The tiniest logging stack: Fluent Bit, Parquet and DuckDB</title>
+      <link>https://davidguerrero.fr/blog/tiniest-logging-stack/</link>
+      <description>A minimal architecture for shipping logs to S3 as Parquet, compacting small files, and querying them efficiently with DuckDB.</description>
+      <author> (David Guerrero)</author>
+      <category>containers</category>
+      <category>database</category>
+      <category>javascript</category>
+      <guid>https://davidguerrero.fr/blog/tiniest-logging-stack/</guid>
+      <pubDate>Thu, 04 Jun 2026 23:03:01 GMT</pubDate>
+    </item>
+    <item>
+      <title>I deleted WebSockets and haven’t looked back</title>
+      <link>https://newsletter.masilotti.com/p/i-deleted-websockets-and-havent-looked</link>
+      <description>Why I swapped Turbo Stream broadcasts for polling after a paying customer got stuck with an infinite spinner.</description>
+      <category>ruby</category>
+      <guid>https://newsletter.masilotti.com/p/i-deleted-websockets-and-havent-looked</guid>
+      <pubDate>Thu, 04 Jun 2026 23:02:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>"maybe later" was a feature - arnorhs.dev</title>
+      <link>https://arnorhs.dev/posts/2026-06-04/maybe-later-was-a-feature/</link>
+      <description> The most valueble code in my repo, is the code I didn't write. </description>
+      <category>cloud</category>
+      <category>ai</category>
+      <guid>https://arnorhs.dev/posts/2026-06-04/maybe-later-was-a-feature/</guid>
+      <pubDate>Thu, 04 Jun 2026 23:02:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>Inside FAISS: Billion-Scale Similarity Search</title>
+      <link>https://fremaconsulting.ch/blog/faiss</link>
+      <description>How Facebook AI Research solved the problem of finding similarity at billion-scale. An interactive exploration of IVF, HNSW, and Product Quantization.</description>
+      <author> (Tom Salembien)</author>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://fremaconsulting.ch/blog/faiss</guid>
+      <pubDate>Thu, 04 Jun 2026 23:02:18 GMT</pubDate>
+    </item>
+    <item>
       <title>VoidZero is joining Cloudflare</title>
       <link>https://blog.cloudflare.com/voidzero-joins-cloudflare/</link>
       <description>VoidZero, the team behind Vite, Vitest, Rolldown, Oxc, and Vite+, is joining Cloudflare. Vite stays open source, vendor-agnostic, and built for everyone.
@@ -302,61 +398,6 @@
       <category>youtube</category>
       <guid>https://youtube.com/watch?v=MgQbPdiuUTw</guid>
       <pubDate>Thu, 04 Jun 2026 01:19:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Now that your newsletter is AI-generated, I've Unsubscribed</title>
-      <link>https://idiallo.com/blog/unsubscribed-from-ai-generated-newsletters?src=feed</link>
-      <description>I've remained subscribed to some newsletters for over 20 years. The authors managed to keep my attention all that time. But then, one day, they decided to switch to an AI-generated newsletter without </description>
-      <category>ai</category>
-      <guid>https://idiallo.com/blog/unsubscribed-from-ai-generated-newsletters?src=feed</guid>
-      <pubDate>Wed, 03 Jun 2026 22:02:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Detector</title>
-      <link>https://xkcd.com/3254/</link>
-      <description></description>
-      <category>apple</category>
-      <category>javascript</category>
-      <guid>https://xkcd.com/3254/</guid>
-      <pubDate>Wed, 03 Jun 2026 22:02:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>MacBook Neo is So Popular That Apple Reportedly Doubled Production</title>
-      <link>https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/</link>
-      <description>On an earnings call in late April, Apple's CEO Tim Cook said that customer response to the MacBook Neo was "off the charts," and the popularity of the laptop has reportedly led the company to significantly boost production. Apple supply chain analyst Ming-Chi Kuo this week said he believes that MacBook Neo shipments to Apple were doubled from an initial target of 5 million units to 10 million units in 2026 at some point after the laptop launched in March.</description>
-      <category>apple</category>
-      <category>ai</category>
-      <guid>https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/</guid>
-      <pubDate>Wed, 03 Jun 2026 22:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Elixir v1.20 released: now a gradually typed language</title>
-      <link>https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/</link>
-      <description>From Elixir v1.20, every program is now gradually type checked in search for verified bugs and typing violations.</description>
-      <guid>https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/</guid>
-      <pubDate>Wed, 03 Jun 2026 21:02:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>DaVinci Resolve – What’s New</title>
-      <link>https://www.blackmagicdesign.com/products/davinciresolve/whatsnew</link>
-      <description>Professional video editing, color correction, visual effects and audio post production all in a single application. Free and paid versions for Mac, Windows and Linux.</description>
-      <category>ides</category>
-      <category>javascript</category>
-      <category>ai</category>
-      <category>git</category>
-      <category>apple</category>
-      <guid>https://www.blackmagicdesign.com/products/davinciresolve/whatsnew</guid>
-      <pubDate>Wed, 03 Jun 2026 20:02:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Encephalitis - Andrew Gallant's Blog</title>
-      <link>https://burntsushi.net/encephalitis/</link>
-      <description>I was recently diagnosed with anti-NMDA receptor encephalitis. It is
-an autoimmune disorder where your body’s normally helpful antibodies
-start acting strangely. This leads to inflammation in the brain. This
-short blog briefly discusses some of my experience and prognosis.</description>
-      <guid>https://burntsushi.net/encephalitis/</guid>
-      <pubDate>Wed, 03 Jun 2026 20:02:18 GMT</pubDate>
     </item>
   </channel>
 </rss>

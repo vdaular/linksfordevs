@@ -1,5 +1,93 @@
 [
   {
+    "Title": "Reve: Bring your ideas to life",
+    "Url": "https://blog.reve.com/posts/the-layout-bet/",
+    "Timestamp": "2026-06-04T23:03:31",
+    "Domain": "blog.reve.com",
+    "Description": "Reve Image (Halfmoon): A model trained from the ground up to excel at prompt adherence, aesthetics, and\n        typography. Make any image you can imagine with Reve.",
+    "Confidence": 0.9747521
+  },
+  {
+    "Title": "Menelaos Vergis",
+    "Url": "https://menelaos.vergis.net/posts/Storing-Your-Passwords-Safely-Why-I-Use-KeePass",
+    "Timestamp": "2026-06-04T23:03:23",
+    "Domain": "menelaos.vergis.net",
+    "Description": "Things I work on",
+    "Confidence": 0.98352957
+  },
+  {
+    "Title": "The Desperation of NYTimes",
+    "Url": "https://rozumem.xyz/posts/16",
+    "Timestamp": "2026-06-04T23:03:20",
+    "Domain": "rozumem.xyz",
+    "Description": "I recently got suckered into subscribing to NYTimes because I wanted to read an article behind a paywall and I couldn't find an easy and quick alternative. I didn't mind the $2.00 a month. But I took offense to what happened after I paid.",
+    "Confidence": 0.9424627
+  },
+  {
+    "Title": "Do the hardest thing",
+    "Url": "https://justinjackson.ca/hard-thing",
+    "Timestamp": "2026-06-04T23:03:16",
+    "Domain": "justinjackson.ca",
+    "Description": "Most small business ideas are a hard job attached to an easy idea. Instead, you should do your hardest idea.",
+    "Confidence": 0.68248236
+  },
+  {
+    "Title": "Good teachers don’t cheat – jasonkena's blog",
+    "Url": "https://jasonkena.github.io/blog/posts/good_teachers_dont_cheat/",
+    "Timestamp": "2026-06-04T23:03:12",
+    "Domain": "jasonkena.github.io",
+    "Description": "A unified view of policy gradients, self-distillation, and Pedagogical RL",
+    "Confidence": 0.95300233
+  },
+  {
+    "Title": "France Needs 45 Years to Grow Its Way Out",
+    "Url": "https://julienreszka.com/blog/france-needs-45-years-to-grow-its-way-out/",
+    "Timestamp": "2026-06-04T23:03:08",
+    "Domain": "julienreszka.com",
+    "Description": "Cutting spending when you already spend 57% of GDP gives you six times less growth than the same cut at 20%. France is on the wrong part of the curve.",
+    "Confidence": 0.9927053
+  },
+  {
+    "Title": "My Agent Skill for Test-Driven Development - SaturnCI - Continuous Integration for Ruby on Rails",
+    "Url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
+    "Timestamp": "2026-06-04T23:03:05",
+    "Domain": "www.saturnci.com",
+    "Description": "AI agents tend to be, at least as of this writing, lousy at writing tests. The tests they write are often vague, cryptic, overcomplicated, hacky, disorganized, ...",
+    "Confidence": 0.9704707
+  },
+  {
+    "Title": "The tiniest logging stack: Fluent Bit, Parquet and DuckDB",
+    "Url": "https://davidguerrero.fr/blog/tiniest-logging-stack/",
+    "Timestamp": "2026-06-04T23:03:01",
+    "Domain": "davidguerrero.fr",
+    "Description": "A minimal architecture for shipping logs to S3 as Parquet, compacting small files, and querying them efficiently with DuckDB.",
+    "Confidence": 0.99204683
+  },
+  {
+    "Title": "I deleted WebSockets and haven’t looked back",
+    "Url": "https://newsletter.masilotti.com/p/i-deleted-websockets-and-havent-looked",
+    "Timestamp": "2026-06-04T23:02:58",
+    "Domain": "newsletter.masilotti.com",
+    "Description": "Why I swapped Turbo Stream broadcasts for polling after a paying customer got stuck with an infinite spinner.",
+    "Confidence": 0.90984756
+  },
+  {
+    "Title": "\"maybe later\" was a feature - arnorhs.dev",
+    "Url": "https://arnorhs.dev/posts/2026-06-04/maybe-later-was-a-feature/",
+    "Timestamp": "2026-06-04T23:02:53",
+    "Domain": "arnorhs.dev",
+    "Description": " The most valueble code in my repo, is the code I didn't write. ",
+    "Confidence": 0.9862922
+  },
+  {
+    "Title": "Inside FAISS: Billion-Scale Similarity Search",
+    "Url": "https://fremaconsulting.ch/blog/faiss",
+    "Timestamp": "2026-06-04T23:02:18",
+    "Domain": "fremaconsulting.ch",
+    "Description": "How Facebook AI Research solved the problem of finding similarity at billion-scale. An interactive exploration of IVF, HNSW, and Product Quantization.",
+    "Confidence": 0.988931
+  },
+  {
     "Title": "VoidZero is joining Cloudflare",
     "Url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
     "Timestamp": "2026-06-04T19:02:15",
@@ -238,53 +326,5 @@
     "Domain": "youtube.com",
     "Description": "A low-cost and easy to build 3-Axis motion plattform is presented. It can achieve step sizes down to 50nm while supporting arbitrary acceleration limited motion paths in a working volume of 23x23x23mm³. The simple G-Coder interface allows easy control from printer-hosts or custom software. The device can be used in applications, like automated microscopy, optical alignment or maskless lithography.\n\n✅ Project on Github: https://github.com/0x23/MicroManipulatorStepper\n\n🠲 I am looking for a better project name? Any ideas are welcome.\n\n*** Video Chapters ***\n\n00:00 Intro\n01:18 Overview\n01:52 Miniature Ball Joints\n03:41 Stepper Motors\n04:53 Magnetic Encoders\n08:18 Electronics\n10:25 Firmware\n13:11 Kinematic Model\n14:33 Build & Assembly\n19:05 Results & Applications\n24:25 Whats Next ?",
     "Confidence": 1.0
-  },
-  {
-    "Title": "Now that your newsletter is AI-generated, I've Unsubscribed",
-    "Url": "https://idiallo.com/blog/unsubscribed-from-ai-generated-newsletters?src=feed",
-    "Timestamp": "2026-06-03T22:02:21",
-    "Domain": "idiallo.com",
-    "Description": "I've remained subscribed to some newsletters for over 20 years. The authors managed to keep my attention all that time. But then, one day, they decided to switch to an AI-generated newsletter without ",
-    "Confidence": 0.9189223
-  },
-  {
-    "Title": "Detector",
-    "Url": "https://xkcd.com/3254/",
-    "Timestamp": "2026-06-03T22:02:17",
-    "Domain": "xkcd.com",
-    "Description": "",
-    "Confidence": 0.98151064
-  },
-  {
-    "Title": "MacBook Neo is So Popular That Apple Reportedly Doubled Production",
-    "Url": "https://www.macrumors.com/2026/06/03/macbook-neo-production-doubled-says-kuo/",
-    "Timestamp": "2026-06-03T22:02:14",
-    "Domain": "www.macrumors.com",
-    "Description": "On an earnings call in late April, Apple's CEO Tim Cook said that customer response to the MacBook Neo was \"off the charts,\" and the popularity of the laptop has reportedly led the company to significantly boost production. Apple supply chain analyst Ming-Chi Kuo this week said he believes that MacBook Neo shipments to Apple were doubled from an initial target of 5 million units to 10 million units in 2026 at some point after the laptop launched in March.",
-    "Confidence": 0.52193165
-  },
-  {
-    "Title": "Elixir v1.20 released: now a gradually typed language",
-    "Url": "https://elixir-lang.org/blog/2026/06/03/elixir-v1-20-0-released/",
-    "Timestamp": "2026-06-03T21:02:16",
-    "Domain": "elixir-lang.org",
-    "Description": "From Elixir v1.20, every program is now gradually type checked in search for verified bugs and typing violations.",
-    "Confidence": 0.99540687
-  },
-  {
-    "Title": "DaVinci Resolve – What’s New",
-    "Url": "https://www.blackmagicdesign.com/products/davinciresolve/whatsnew",
-    "Timestamp": "2026-06-03T20:02:22",
-    "Domain": "www.blackmagicdesign.com",
-    "Description": "Professional video editing, color correction, visual effects and audio post production all in a single application. Free and paid versions for Mac, Windows and Linux.",
-    "Confidence": 0.9739918
-  },
-  {
-    "Title": "Encephalitis - Andrew Gallant's Blog",
-    "Url": "https://burntsushi.net/encephalitis/",
-    "Timestamp": "2026-06-03T20:02:18",
-    "Domain": "burntsushi.net",
-    "Description": "I was recently diagnosed with anti-NMDA receptor encephalitis. It is\nan autoimmune disorder where your body’s normally helpful antibodies\nstart acting strangely. This leads to inflammation in the brain. This\nshort blog briefly discusses some of my experience and prognosis.",
-    "Confidence": 0.8990159
   }
 ]

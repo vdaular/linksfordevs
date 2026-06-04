@@ -1,5 +1,82 @@
 [
   {
+    "Title": "Reve: Bring your ideas to life",
+    "Url": "https://blog.reve.com/posts/the-layout-bet/",
+    "Timestamp": "2026-06-04T23:03:31",
+    "Domain": "blog.reve.com",
+    "Description": "Reve Image (Halfmoon): A model trained from the ground up to excel at prompt adherence, aesthetics, and\n        typography. Make any image you can imagine with Reve."
+  },
+  {
+    "Title": "Menelaos Vergis",
+    "Url": "https://menelaos.vergis.net/posts/Storing-Your-Passwords-Safely-Why-I-Use-KeePass",
+    "Timestamp": "2026-06-04T23:03:23",
+    "Domain": "menelaos.vergis.net",
+    "Description": "Things I work on"
+  },
+  {
+    "Title": "The Desperation of NYTimes",
+    "Url": "https://rozumem.xyz/posts/16",
+    "Timestamp": "2026-06-04T23:03:20",
+    "Domain": "rozumem.xyz",
+    "Description": "I recently got suckered into subscribing to NYTimes because I wanted to read an article behind a paywall and I couldn't find an easy and quick alternative. I didn't mind the $2.00 a month. But I took offense to what happened after I paid."
+  },
+  {
+    "Title": "Do the hardest thing",
+    "Url": "https://justinjackson.ca/hard-thing",
+    "Timestamp": "2026-06-04T23:03:16",
+    "Domain": "justinjackson.ca",
+    "Description": "Most small business ideas are a hard job attached to an easy idea. Instead, you should do your hardest idea."
+  },
+  {
+    "Title": "Good teachers don’t cheat – jasonkena's blog",
+    "Url": "https://jasonkena.github.io/blog/posts/good_teachers_dont_cheat/",
+    "Timestamp": "2026-06-04T23:03:12",
+    "Domain": "jasonkena.github.io",
+    "Description": "A unified view of policy gradients, self-distillation, and Pedagogical RL"
+  },
+  {
+    "Title": "France Needs 45 Years to Grow Its Way Out",
+    "Url": "https://julienreszka.com/blog/france-needs-45-years-to-grow-its-way-out/",
+    "Timestamp": "2026-06-04T23:03:08",
+    "Domain": "julienreszka.com",
+    "Description": "Cutting spending when you already spend 57% of GDP gives you six times less growth than the same cut at 20%. France is on the wrong part of the curve."
+  },
+  {
+    "Title": "My Agent Skill for Test-Driven Development - SaturnCI - Continuous Integration for Ruby on Rails",
+    "Url": "https://www.saturnci.com/my-agent-skill-for-test-driven-development.html",
+    "Timestamp": "2026-06-04T23:03:05",
+    "Domain": "www.saturnci.com",
+    "Description": "AI agents tend to be, at least as of this writing, lousy at writing tests. The tests they write are often vague, cryptic, overcomplicated, hacky, disorganized, ..."
+  },
+  {
+    "Title": "The tiniest logging stack: Fluent Bit, Parquet and DuckDB",
+    "Url": "https://davidguerrero.fr/blog/tiniest-logging-stack/",
+    "Timestamp": "2026-06-04T23:03:01",
+    "Domain": "davidguerrero.fr",
+    "Description": "A minimal architecture for shipping logs to S3 as Parquet, compacting small files, and querying them efficiently with DuckDB."
+  },
+  {
+    "Title": "I deleted WebSockets and haven’t looked back",
+    "Url": "https://newsletter.masilotti.com/p/i-deleted-websockets-and-havent-looked",
+    "Timestamp": "2026-06-04T23:02:58",
+    "Domain": "newsletter.masilotti.com",
+    "Description": "Why I swapped Turbo Stream broadcasts for polling after a paying customer got stuck with an infinite spinner."
+  },
+  {
+    "Title": "\"maybe later\" was a feature - arnorhs.dev",
+    "Url": "https://arnorhs.dev/posts/2026-06-04/maybe-later-was-a-feature/",
+    "Timestamp": "2026-06-04T23:02:53",
+    "Domain": "arnorhs.dev",
+    "Description": " The most valueble code in my repo, is the code I didn't write. "
+  },
+  {
+    "Title": "Inside FAISS: Billion-Scale Similarity Search",
+    "Url": "https://fremaconsulting.ch/blog/faiss",
+    "Timestamp": "2026-06-04T23:02:18",
+    "Domain": "fremaconsulting.ch",
+    "Description": "How Facebook AI Research solved the problem of finding similarity at billion-scale. An interactive exploration of IVF, HNSW, and Product Quantization."
+  },
+  {
     "Title": "VoidZero is joining Cloudflare",
     "Url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
     "Timestamp": "2026-06-04T19:02:15",
