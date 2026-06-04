@@ -7,6 +7,22 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Military experts or arms industry insiders? UK media fails to disclose defence sector links in nearly 60% of cases - AOAV</title>
+      <link>https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/</link>
+      <description>Here AOAV finds that UK media outlets frequently present retired senior military figures as independent defence experts without disclosing their commercial ties to defence, security, intelligence, and technology industries, potentially obscuring conflicts of interest in public debates over war and military spending.</description>
+      <guid>https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/</guid>
+      <pubDate>Thu, 04 Jun 2026 15:02:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>fopen is Magic! - Find Out What You've Been Missing All These Years!</title>
+      <link>https://youtube.com/watch?v=XAzUoizwnXM</link>
+      <description>Dave explains the magic of fopen and the multiple ways it can be used that many programmers do not even know about.</description>
+      <author> (Dave's Garage)</author>
+      <category>youtube</category>
+      <guid>https://youtube.com/watch?v=XAzUoizwnXM</guid>
+      <pubDate>Thu, 04 Jun 2026 15:02:23 GMT</pubDate>
+    </item>
+    <item>
       <title>Max Leiter</title>
       <link>https://maxleiter.com/blog/weights</link>
       <description>with apologies to Terry Bisson</description>
@@ -350,16 +366,6 @@ short blog briefly discusses some of my experience and prognosis.</description>
       <category>ai</category>
       <guid>https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/</guid>
       <pubDate>Wed, 03 Jun 2026 18:02:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pwnd Blaster: Hacking your PC using your speaker without ever touching it | nns.ee</title>
-      <link>https://blog.nns.ee/2026/06/03/katana-badusb/</link>
-      <description>Abusing an unauthenticated Bluetooth protocol to turn a PC speaker into a Rubber Ducky.</description>
-      <category>git</category>
-      <category>gaming</category>
-      <category>encryption</category>
-      <guid>https://blog.nns.ee/2026/06/03/katana-badusb/</guid>
-      <pubDate>Wed, 03 Jun 2026 14:02:18 GMT</pubDate>
     </item>
   </channel>
 </rss>
