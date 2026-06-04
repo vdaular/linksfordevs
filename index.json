@@ -286,13 +286,5 @@
     "Domain": "blog.nns.ee",
     "Description": "Abusing an unauthenticated Bluetooth protocol to turn a PC speaker into a Rubber Ducky.",
     "Confidence": 0.9590607
-  },
-  {
-    "Title": "AI Outperforms Law Professors in Stanford Law Study | Stanford Law School",
-    "Url": "https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/",
-    "Timestamp": "2026-06-03T11:02:08",
-    "Domain": "law.stanford.edu",
-    "Description": "A groundbreaking study led by Stanford Law School Professor Julian Nyarko reveals that law professors overwhelmingly prefer AI-generated answers to st",
-    "Confidence": 0.6321052
   }
 ]
