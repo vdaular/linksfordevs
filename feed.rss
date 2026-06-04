@@ -7,6 +7,22 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Max Leiter</title>
+      <link>https://maxleiter.com/blog/weights</link>
+      <description>with apologies to Terry Bisson</description>
+      <category>ai</category>
+      <guid>https://maxleiter.com/blog/weights</guid>
+      <pubDate>Thu, 04 Jun 2026 07:02:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anti-AI nostalgia and the cult of the past</title>
+      <link>https://www.seangoedecke.com/anti-ai-nostalgia/</link>
+      <description>Programmers were better back in the day, weren’t they? Back when we had real programmers. Not just people who got paid to write code, but people who lived it, who were obsessed with their craft, and whose code was a lively expression of themselves. Hackers were hackers in those days before money took over the industry.</description>
+      <category>ai</category>
+      <guid>https://www.seangoedecke.com/anti-ai-nostalgia/</guid>
+      <pubDate>Thu, 04 Jun 2026 07:02:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Discovering the LLM's curious and remarkable world knowledge of open data on the web.</title>
       <link>https://chris-parmer.com/discovering-the-llms-curious-and-remarkable-world-knowledge-of-open-data-on-the-web/?trk=feed_main-feed-card_feed-article-content</link>
       <description>Turns out you can explore data with AI even if you don't have any... data.</description>
@@ -352,39 +368,6 @@ short blog briefly discusses some of my experience and prognosis.</description>
       <category>ai</category>
       <guid>https://law.stanford.edu/press/ai-outperforms-law-professors-in-stanford-law-study/</guid>
       <pubDate>Wed, 03 Jun 2026 11:02:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - c0deJedi/nbd-vram: Use your NVIDIA GPU's VRAM as swap space on Linux. Built for laptops with soldered memory and no upgrade path. If you have an RTX card sitting there with 8GB of VRAM and you're getting swapped to SSD, this puts that VRAM to work</title>
-      <link>https://github.com/c0dejedi/nbd-vram</link>
-      <description>Use your NVIDIA GPU&amp;#39;s VRAM as swap space on Linux. Built for laptops with soldered memory and no upgrade path. If you have an RTX card sitting there with 8GB of VRAM and you&amp;#39;re getting swap...</description>
-      <category>linux</category>
-      <category>git</category>
-      <guid>https://github.com/c0dejedi/nbd-vram</guid>
-      <pubDate>Wed, 03 Jun 2026 07:04:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Command Line</title>
-      <link>https://commandline.microsoft.com/</link>
-      <description>Founded in 2026, Command Line is a technical blog from Microsoft where we share how we build and what we learn—from both our wins and failures</description>
-      <category>ai</category>
-      <guid>https://commandline.microsoft.com/</guid>
-      <pubDate>Wed, 03 Jun 2026 04:19:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Inside BYD: CT Scans of a Battery Cell, Switch Panel, Charger, and Key Fob from the EV Banned in America</title>
-      <link>https://www.lumafield.com/scan-of-the-month/byd</link>
-      <description>BYD sold 4.6M vehicles in 2025, but Americans can't buy one. We CT scanned four components from its lineup to reveal what vertical integration looks like at the part level.</description>
-      <category>javascript</category>
-      <guid>https://www.lumafield.com/scan-of-the-month/byd</guid>
-      <pubDate>Wed, 03 Jun 2026 04:02:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why Custom Attributes in .NET give me Nightmares</title>
-      <link>https://blog.washi.dev/posts/custom-attributes-and-why-they-suck/</link>
-      <description>Some people may think I am a shill for .NET.</description>
-      <category>dotnet</category>
-      <guid>https://blog.washi.dev/posts/custom-attributes-and-why-they-suck/</guid>
-      <pubDate>Wed, 03 Jun 2026 03:49:22 GMT</pubDate>
     </item>
   </channel>
 </rss>

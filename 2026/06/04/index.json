@@ -1,5 +1,19 @@
 [
   {
+    "Title": "Max Leiter",
+    "Url": "https://maxleiter.com/blog/weights",
+    "Timestamp": "2026-06-04T07:02:03",
+    "Domain": "maxleiter.com",
+    "Description": "with apologies to Terry Bisson"
+  },
+  {
+    "Title": "Anti-AI nostalgia and the cult of the past",
+    "Url": "https://www.seangoedecke.com/anti-ai-nostalgia/",
+    "Timestamp": "2026-06-04T07:02:00",
+    "Domain": "www.seangoedecke.com",
+    "Description": "Programmers were better back in the day, weren’t they? Back when we had real programmers. Not just people who got paid to write code, but people who lived it, who were obsessed with their craft, and whose code was a lively expression of themselves. Hackers were hackers in those days before money took over the industry."
+  },
+  {
     "Title": "Discovering the LLM's curious and remarkable world knowledge of open data on the web.",
     "Url": "https://chris-parmer.com/discovering-the-llms-curious-and-remarkable-world-knowledge-of-open-data-on-the-web/?trk=feed_main-feed-card_feed-article-content",
     "Timestamp": "2026-06-04T03:04:13",

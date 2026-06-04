@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Max Leiter",
+    "Url": "https://maxleiter.com/blog/weights",
+    "Timestamp": "2026-06-04T07:02:03",
+    "Domain": "maxleiter.com",
+    "Description": "with apologies to Terry Bisson",
+    "Confidence": 0.67513365
+  },
+  {
+    "Title": "Anti-AI nostalgia and the cult of the past",
+    "Url": "https://www.seangoedecke.com/anti-ai-nostalgia/",
+    "Timestamp": "2026-06-04T07:02:00",
+    "Domain": "www.seangoedecke.com",
+    "Description": "Programmers were better back in the day, weren’t they? Back when we had real programmers. Not just people who got paid to write code, but people who lived it, who were obsessed with their craft, and whose code was a lively expression of themselves. Hackers were hackers in those days before money took over the industry.",
+    "Confidence": 0.9251328
+  },
+  {
     "Title": "Discovering the LLM's curious and remarkable world knowledge of open data on the web.",
     "Url": "https://chris-parmer.com/discovering-the-llms-curious-and-remarkable-world-knowledge-of-open-data-on-the-web/?trk=feed_main-feed-card_feed-article-content",
     "Timestamp": "2026-06-04T03:04:13",
@@ -278,37 +294,5 @@
     "Domain": "law.stanford.edu",
     "Description": "A groundbreaking study led by Stanford Law School Professor Julian Nyarko reveals that law professors overwhelmingly prefer AI-generated answers to st",
     "Confidence": 0.6321052
-  },
-  {
-    "Title": "GitHub - c0deJedi/nbd-vram: Use your NVIDIA GPU's VRAM as swap space on Linux. Built for laptops with soldered memory and no upgrade path. If you have an RTX card sitting there with 8GB of VRAM and you're getting swapped to SSD, this puts that VRAM to work",
-    "Url": "https://github.com/c0dejedi/nbd-vram",
-    "Timestamp": "2026-06-03T07:04:03",
-    "Domain": "github.com",
-    "Description": "Use your NVIDIA GPU&#39;s VRAM as swap space on Linux. Built for laptops with soldered memory and no upgrade path. If you have an RTX card sitting there with 8GB of VRAM and you&#39;re getting swap...",
-    "Confidence": 0.9946983
-  },
-  {
-    "Title": "Command Line",
-    "Url": "https://commandline.microsoft.com/",
-    "Timestamp": "2026-06-03T04:19:26",
-    "Domain": "commandline.microsoft.com",
-    "Description": "Founded in 2026, Command Line is a technical blog from Microsoft where we share how we build and what we learn—from both our wins and failures",
-    "Confidence": 0.99
-  },
-  {
-    "Title": "Inside BYD: CT Scans of a Battery Cell, Switch Panel, Charger, and Key Fob from the EV Banned in America",
-    "Url": "https://www.lumafield.com/scan-of-the-month/byd",
-    "Timestamp": "2026-06-03T04:02:18",
-    "Domain": "www.lumafield.com",
-    "Description": "BYD sold 4.6M vehicles in 2025, but Americans can't buy one. We CT scanned four components from its lineup to reveal what vertical integration looks like at the part level.",
-    "Confidence": 0.955719
-  },
-  {
-    "Title": "Why Custom Attributes in .NET give me Nightmares",
-    "Url": "https://blog.washi.dev/posts/custom-attributes-and-why-they-suck/",
-    "Timestamp": "2026-06-03T03:49:22",
-    "Domain": "blog.washi.dev",
-    "Description": "Some people may think I am a shill for .NET.",
-    "Confidence": 0.99
   }
 ]
