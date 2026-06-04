@@ -1,5 +1,13 @@
 [
   {
+    "Title": "VoidZero is joining Cloudflare",
+    "Url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
+    "Timestamp": "2026-06-04T19:02:15",
+    "Domain": "blog.cloudflare.com",
+    "Description": "VoidZero, the team behind Vite, Vitest, Rolldown, Oxc, and Vite+, is joining Cloudflare. Vite stays open source, vendor-agnostic, and built for everyone.\n",
+    "Confidence": 0.99438184
+  },
+  {
     "Title": "Military experts or arms industry insiders? UK media fails to disclose defence sector links in nearly 60% of cases - AOAV",
     "Url": "https://aoav.org.uk/2026/military-experts-or-arms-industry-insiders-uk-media-fails-to-disclose-defence-sector-links-in-nearly-60-of-cases/",
     "Timestamp": "2026-06-04T15:02:29",
@@ -278,21 +286,5 @@
     "Domain": "burntsushi.net",
     "Description": "I was recently diagnosed with anti-NMDA receptor encephalitis. It is\nan autoimmune disorder where your body’s normally helpful antibodies\nstart acting strangely. This leads to inflammation in the brain. This\nshort blog briefly discusses some of my experience and prognosis.",
     "Confidence": 0.8990159
-  },
-  {
-    "Title": "32GB of DDR5 now costs $375 minimum — AI shortage continues to squeeze PC building",
-    "Url": "https://www.tomshardware.com/pc-components/ddr5/32gb-of-ddr5-now-costs-usd375-minimum-ai-shortage-continues-to-squeeze-pc-building",
-    "Timestamp": "2026-06-03T18:02:30",
-    "Domain": "www.tomshardware.com",
-    "Description": "Lower-priced kits are disappearing by the day",
-    "Confidence": 0.80498844
-  },
-  {
-    "Title": "Introducing Gemma 4 12B: a unified, encoder-free multimodal model",
-    "Url": "https://blog.google/innovation-and-ai/technology/developers-tools/introducing-gemma-4-12b/",
-    "Timestamp": "2026-06-03T18:02:15",
-    "Domain": "blog.google",
-    "Description": "An overview of Gemma 4 12B, a model designed to bring high-performance multimodal intelligence directly to your laptop.",
-    "Confidence": 0.9737043
   }
 ]
