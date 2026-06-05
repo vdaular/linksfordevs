@@ -1,5 +1,124 @@
 [
   {
+    "Title": "GitHub - microsoft/pg_durable: PostgreSQL in-database durable execution",
+    "Url": "https://github.com/microsoft/pg_durable",
+    "Timestamp": "2026-06-05T23:03:19",
+    "Domain": "github.com",
+    "Description": "PostgreSQL in-database durable execution. Contribute to microsoft/pg_durable development by creating an account on GitHub."
+  },
+  {
+    "Title": "I Open-Sourced My UFC Prediction Model, Weights, and Database",
+    "Url": "https://mcinerney.ai/writings/i-open-sourced-my-ufc-prediction-model-weights-and-database/",
+    "Timestamp": "2026-06-05T23:03:13",
+    "Domain": "mcinerney.ai",
+    "Description": "Five years of building MMA-AI, an open-source UFC prediction model with model weights, a historical odds database, and the ways I learned not to fool myself with machine learning."
+  },
+  {
+    "Title": "Playing with Vision Embeddings",
+    "Url": "https://prestonbjensen.com/posts/playing-with-vision-embeddings",
+    "Timestamp": "2026-06-05T23:03:05",
+    "Domain": "prestonbjensen.com",
+    "Description": "Poking at the geometry of an image model's feature space."
+  },
+  {
+    "Title": "Publishing your blog to standard.site in Elixir | jola.dev",
+    "Url": "https://jola.dev/posts/publishing-your-blog",
+    "Timestamp": "2026-06-05T23:03:00",
+    "Domain": "jola.dev",
+    "Description": "A walkthrough for posting your Elixir/Phoenix blog to Bluesky and the standard.site network, using a small mix task and an atproto client."
+  },
+  {
+    "Title": "Bend Under Pressure, Not Under Nonsense",
+    "Url": "https://julienreszka.com/blog/bend-under-pressure-not-under-nonsense/",
+    "Timestamp": "2026-06-05T23:02:57",
+    "Domain": "julienreszka.com",
+    "Description": "Real pressure has a mechanism. Nonsense pressure is just social discomfort in disguise. Here is how to tell them apart and why it matters."
+  },
+  {
+    "Title": "See, Act, Correct: three levers for working with a code agent",
+    "Url": "https://blog.owulveryck.info/2026/06/04/see-act-correct-three-levers-for-working-with-a-code-agent.html",
+    "Timestamp": "2026-06-05T23:02:54",
+    "Domain": "blog.owulveryck.info",
+    "Description": "An out-of-the-box code agent only sees a repo and a shell. This article lays out three invariant principles for turning a gadget into a production tool."
+  },
+  {
+    "Title": "How 25 NOPs fixed a 10-year-old GTA V performance issue on AMD",
+    "Url": "https://danielgp.com/blog/gta-v-night-fps-prefetch",
+    "Timestamp": "2026-06-05T23:02:49",
+    "Domain": "danielgp.com",
+    "Description": "A years-old GTA V performance issue, FPS tanking at night when looking at the city, traced to six prefetchnta hints into write-combine vertex buffers, stalling the AMD Zen pipeline. The final fix is 25 NOPs in two places."
+  },
+  {
+    "Title": "Why all the PRs?",
+    "Url": "https://idiallo.com/blog/why-all-the-prs?src=feed",
+    "Timestamp": "2026-06-05T23:02:46",
+    "Domain": "idiallo.com",
+    "Description": "It's a signal. That's why we get AI-generated PRs. We told everyone, in order to get your resume taken seriously, you need to show your work."
+  },
+  {
+    "Title": "Death by a Thousand Prompts | Derek Larson",
+    "Url": "https://www.dtlarson.com/thousand-prompts",
+    "Timestamp": "2026-06-05T23:02:42",
+    "Domain": "www.dtlarson.com",
+    "Description": "Infinite scroll for work"
+  },
+  {
+    "Title": "Data Viz and Table Design from the Letterpress Era",
+    "Url": "https://chris-parmer.com/data-viz-from-the-letterpress-era/",
+    "Timestamp": "2026-06-05T23:02:39",
+    "Domain": "chris-parmer.com",
+    "Description": "Field trip to the SF Public Library Archives"
+  },
+  {
+    "Title": "Do I Need to Learn the Domain? Do I Want To? — Ian McNaughton",
+    "Url": "https://ianmcnaughton.net/blog/do-i-need-to-learn-the-domain/",
+    "Timestamp": "2026-06-05T23:02:35",
+    "Domain": "ianmcnaughton.net",
+    "Description": "Ian McNaughton&#x27;s blog — thoughts from a decade in the software industry."
+  },
+  {
+    "Title": "10 tips to get the most out of OpenCode - byandrev",
+    "Url": "https://byandrev.dev/en/blog/10-best-practices-for-opencode",
+    "Timestamp": "2026-06-05T23:02:32",
+    "Domain": "byandrev.dev",
+    "Description": "OpenCode is a powerful tool, but like any tool, the difference between using it and mastering it lies in the details. These are the tips that have helped me the most in my day-to-day work."
+  },
+  {
+    "Title": "The Reflection on My First Year at Meta",
+    "Url": "https://johnjr.dev/posts/the-reflection-on-my-first-year-at-meta/",
+    "Timestamp": "2026-06-05T23:02:28",
+    "Domain": "johnjr.dev",
+    "Description": "Disclaimer: Everything here is just my personal opinion, and this text does not reflect any opinion of my employer. Also, feel free to disagree with me on anything here; again, this is just my personal opinion and reflects my experience.\nBefore I talk about my first year at Meta, I think it is worth first discussing how I arrived here.\nI haven’t applied for any job at Meta. Since around 2019, I have received many emails from recruiters about positions there.\nAt the beginning of 2024, I aced the interviews, but I didn’t join the company. At that moment, your interview’s results were valid for 1 year, and I took the entire year to make my decision.\nThen, I decided to join in January 2025 and started in May 2025."
+  },
+  {
+    "Title": "Software Has Long Been Beyond Our Understanding",
+    "Url": "https://kylemcgough.com/blogs/software-has-long-been-beyond-our-understanding",
+    "Timestamp": "2026-06-05T23:02:25",
+    "Domain": "kylemcgough.com",
+    "Description": "Around the time that I turned twenty I packed my bags and moved across the country. For some odd reason I had decided my PC couldn't make the journey. With the little bit of cash I had left I built another from old parts found at local thrift stores. It was at this moment that I decided that I would no longer use Windows. Not just as my primary operating system; I didn't want it installed at all. I was tired of Microsoft's ever declining quality and customer hostility. I had been dual booting Ubuntu on my old rig and figured I could handle the transition. Why not? It was, of course, the year of Linux desktop. Every year is the year of the Linux desktop. I had been reading countless praise on forums about how easy it had been for my fellow nerds to make the permanent switch. I made the commitment, installed Ubuntu, and have been happily using that same install ever since."
+  },
+  {
+    "Title": "LLM Serving and the Bus That Never Stops",
+    "Url": "https://joker666.github.io/blog/2026-06-02-llm-serving-in-flight-batching",
+    "Timestamp": "2026-06-05T23:02:21",
+    "Domain": "joker666.github.io",
+    "Description": "In-flight batching is the trick that keeps LLM serving from wasting GPU seats."
+  },
+  {
+    "Title": "Good Careers at Bad Companies",
+    "Url": "https://sharedphysics.com/good-careers-at-bad-companies/",
+    "Timestamp": "2026-06-05T23:02:18",
+    "Domain": "sharedphysics.com",
+    "Description": "Someone once asked me whether you can join a dysfunctional company and still have a good career.\n\nThey assumed dysfunction is rare—something you'd see in advance and choose to join or avoid. But my experience is that most companies are dysfunctional in some significant and non-immediately obvious way, so"
+  },
+  {
+    "Title": "Anxiety Is Making You Dumber",
+    "Url": "https://julienreszka.com/blog/anxiety-is-making-you-dumber/",
+    "Timestamp": "2026-06-05T23:02:14",
+    "Domain": "julienreszka.com",
+    "Description": "Fear shrinks the prefrontal cortex and degrades the exact thinking you rely on for work. X is engineered to keep you in that state. The Stoics had the fix."
+  },
+  {
     "Title": "C++: The Documentary released today",
     "Url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
     "Timestamp": "2026-06-05T15:02:36",
