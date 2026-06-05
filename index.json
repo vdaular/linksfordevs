@@ -134,13 +134,5 @@
     "Domain": "fremaconsulting.ch",
     "Description": "How Facebook AI Research solved the problem of finding similarity at billion-scale. An interactive exploration of IVF, HNSW, and Product Quantization.",
     "Confidence": 0.988931
-  },
-  {
-    "Title": "VoidZero is joining Cloudflare",
-    "Url": "https://blog.cloudflare.com/voidzero-joins-cloudflare/",
-    "Timestamp": "2026-06-04T19:02:15",
-    "Domain": "blog.cloudflare.com",
-    "Description": "VoidZero, the team behind Vite, Vitest, Rolldown, Oxc, and Vite+, is joining Cloudflare. Vite stays open source, vendor-agnostic, and built for everyone.\n",
-    "Confidence": 0.99438184
   }
 ]

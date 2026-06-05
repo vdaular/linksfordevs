@@ -165,16 +165,5 @@ You can use Remote Desktop, Screen Sharing, or VNC to remote control a computer 
       <guid>https://fremaconsulting.ch/blog/faiss</guid>
       <pubDate>Thu, 04 Jun 2026 23:02:18 GMT</pubDate>
     </item>
-    <item>
-      <title>VoidZero is joining Cloudflare</title>
-      <link>https://blog.cloudflare.com/voidzero-joins-cloudflare/</link>
-      <description>VoidZero, the team behind Vite, Vitest, Rolldown, Oxc, and Vite+, is joining Cloudflare. Vite stays open source, vendor-agnostic, and built for everyone.
-</description>
-      <category>git</category>
-      <category>ai</category>
-      <category>javascript</category>
-      <guid>https://blog.cloudflare.com/voidzero-joins-cloudflare/</guid>
-      <pubDate>Thu, 04 Jun 2026 19:02:15 GMT</pubDate>
-    </item>
   </channel>
 </rss>
