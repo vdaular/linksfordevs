@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Meta's smart glasses companion app ships a complete, dormant face-recognition pipeline on a stock account.",
+    "Url": "https://www.buchodi.com/meta-glasses-facial-recognition/",
+    "Timestamp": "2026-06-05T07:02:05",
+    "Domain": "www.buchodi.com",
+    "Description": "Stella is the companion app for Meta's smart glasses. Inspecting version 273.0.0.21 of the Android build (com.facebook.stella), I found the entire computational and storage stack for on-device facial recognition: three face models, a local database schema, a cosine-similarity vector index dimensioned to match the models,"
+  },
+  {
     "Title": "GitHub - anthropics/defending-code-reference-harness: Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize",
     "Url": "https://github.com/anthropics/defending-code-reference-harness",
     "Timestamp": "2026-06-05T03:02:11",

@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Meta's smart glasses companion app ships a complete, dormant face-recognition pipeline on a stock account.",
+    "Url": "https://www.buchodi.com/meta-glasses-facial-recognition/",
+    "Timestamp": "2026-06-05T07:02:05",
+    "Domain": "www.buchodi.com",
+    "Description": "Stella is the companion app for Meta's smart glasses. Inspecting version 273.0.0.21 of the Android build (com.facebook.stella), I found the entire computational and storage stack for on-device facial recognition: three face models, a local database schema, a cosine-similarity vector index dimensioned to match the models,",
+    "Confidence": 0.9527182
+  },
+  {
     "Title": "GitHub - anthropics/defending-code-reference-harness: Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize",
     "Url": "https://github.com/anthropics/defending-code-reference-harness",
     "Timestamp": "2026-06-05T03:02:11",
@@ -118,21 +126,5 @@
     "Domain": "youtube.com",
     "Description": "Dave explains the magic of fopen and the multiple ways it can be used that many programmers do not even know about.",
     "Confidence": 0.9211614
-  },
-  {
-    "Title": "Max Leiter",
-    "Url": "https://maxleiter.com/blog/weights",
-    "Timestamp": "2026-06-04T07:02:03",
-    "Domain": "maxleiter.com",
-    "Description": "with apologies to Terry Bisson",
-    "Confidence": 0.67513365
-  },
-  {
-    "Title": "Anti-AI nostalgia and the cult of the past",
-    "Url": "https://www.seangoedecke.com/anti-ai-nostalgia/",
-    "Timestamp": "2026-06-04T07:02:00",
-    "Domain": "www.seangoedecke.com",
-    "Description": "Programmers were better back in the day, weren’t they? Back when we had real programmers. Not just people who got paid to write code, but people who lived it, who were obsessed with their craft, and whose code was a lively expression of themselves. Hackers were hackers in those days before money took over the industry.",
-    "Confidence": 0.9251328
   }
 ]
