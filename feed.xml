@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Changing How We Develop Ladybird - Ladybird</title>
+      <link>https://ladybird.org/posts/changing-how-we-develop-ladybird/</link>
+      <description>Ladybird is changing how code enters the project as we prepare to ship a browser to real users.</description>
+      <category>ai</category>
+      <guid>https://ladybird.org/posts/changing-how-we-develop-ladybird/</guid>
+      <pubDate>Fri, 05 Jun 2026 11:03:18 GMT</pubDate>
+    </item>
+    <item>
       <title>Meta's smart glasses companion app ships a complete, dormant face-recognition pipeline on a stock account.</title>
       <link>https://www.buchodi.com/meta-glasses-facial-recognition/</link>
       <description>Stella is the companion app for Meta's smart glasses. Inspecting version 273.0.0.21 of the Android build (com.facebook.stella), I found the entire computational and storage stack for on-device facial recognition: three face models, a local database schema, a cosine-similarity vector index dimensioned to match the models,</description>
