@@ -262,13 +262,5 @@
     "Domain": "ladybird.org",
     "Description": "Ladybird is changing how code enters the project as we prepare to ship a browser to real users.",
     "Confidence": 0.9949485
-  },
-  {
-    "Title": "Meta's smart glasses companion app ships a complete, dormant face-recognition pipeline on a stock account.",
-    "Url": "https://www.buchodi.com/meta-glasses-facial-recognition/",
-    "Timestamp": "2026-06-05T07:02:05",
-    "Domain": "www.buchodi.com",
-    "Description": "Stella is the companion app for Meta's smart glasses. Inspecting version 273.0.0.21 of the Android build (com.facebook.stella), I found the entire computational and storage stack for on-device facial recognition: three face models, a local database schema, a cosine-similarity vector index dimensioned to match the models,",
-    "Confidence": 0.9527182
   }
 ]
