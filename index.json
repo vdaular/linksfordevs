@@ -1,5 +1,13 @@
 [
   {
+    "Title": "GrapheneOS user reported to authorities for using GrapheneOS - GrapheneOS Discussion Forum",
+    "Url": "https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos",
+    "Timestamp": "2026-06-06T15:02:24",
+    "Domain": "discuss.grapheneos.org",
+    "Description": "GrapheneOS discussion forum",
+    "Confidence": 0.9770952
+  },
+  {
     "Title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
     "Url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
     "Timestamp": "2026-06-06T11:02:09",
@@ -238,29 +246,5 @@
     "Domain": "julienreszka.com",
     "Description": "Fear shrinks the prefrontal cortex and degrades the exact thinking you rely on for work. X is engineered to keep you in that state. The Stoics had the fix.",
     "Confidence": 0.96583784
-  },
-  {
-    "Title": "C++: The Documentary released today",
-    "Url": "https://herbsutter.com/2026/06/04/c-the-documentary-released-today/",
-    "Timestamp": "2026-06-05T15:02:36",
-    "Domain": "herbsutter.com",
-    "Description": "C++: The Documentary premiered today on YouTube, and it was great to be on the live chat with Bjarne and many other key folks who participated in C++’s history. I’m honored to have been…",
-    "Confidence": 0.7460643
-  },
-  {
-    "Title": "Planetary Science",
-    "Url": "https://xkcd.com/3255/",
-    "Timestamp": "2026-06-05T15:02:33",
-    "Domain": "xkcd.com",
-    "Description": "",
-    "Confidence": 0.98151064
-  },
-  {
-    "Title": "I tested every IP KVM in my Homelab",
-    "Url": "https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/",
-    "Timestamp": "2026-06-05T15:02:29",
-    "Domain": "www.jeffgeerling.com",
-    "Description": "Since the PiKVM came out in 2017, there's been an explosion of IP KVMs. I've tested almost every one. But what are they good for?\nYou can use Remote Desktop, Screen Sharing, or VNC to remote control a computer from anywhere on a LAN. And if you don't have a private VPN, you could use RealVNC, Raspberry Pi Connect, or wire up Tailscale or Pangolin for fully remote access. Those solutions are great, and so is SSH if you don't need a full desktop.",
-    "Confidence": 0.9557584
   }
 ]
