@@ -1,5 +1,85 @@
 [
   {
+    "Title": "Programmers Aren't People - Elliot Bonneville",
+    "Url": "https://elliotbonneville.com/programmers-arent-people/",
+    "Timestamp": "2026-06-06T23:02:49",
+    "Domain": "elliotbonneville.com",
+    "Description": "Computer",
+    "Confidence": 0.69779855
+  },
+  {
+    "Title": "I am giving up on VM Gaming | Deploy on Friday",
+    "Url": "https://deployonfri.day/posts/i-am-giving-up-on-vm-gaming",
+    "Timestamp": "2026-06-06T23:02:46",
+    "Domain": "deployonfri.day",
+    "Description": "I was told one could use virtualisation software, spawn virtual machines with PCIe passthrough, and achieve near identical gaming performance.",
+    "Confidence": 0.946011
+  },
+  {
+    "Title": "A Little Explanation of Little's Law",
+    "Url": "https://rugu.dev/en/blog/littles-law/",
+    "Timestamp": "2026-06-06T23:02:40",
+    "Domain": "rugu.dev",
+    "Description": "I recently read Concurrency in Go by Katherine Cox-Buday. In the “Queuing” section, there was a discussion of how we can use Little’s Law to predict our pipeline’s throughput, given sufficient sampling.\nI honestly wondered why I had not come across this simple idea before, after finishing that part. As I understand it, it can potentially be used in almost any situation where a queue is involved. Not just message queues, even things like physical queues. So I thought I’d write an intuitive explanation to help it stick and share the idea.",
+    "Confidence": 0.9840624
+  },
+  {
+    "Title": "Total Engineering - Viet Than Blogging",
+    "Url": "https://vietthan.github.io/blog/2026/06/05/total-engineering/",
+    "Timestamp": "2026-06-06T23:02:38",
+    "Domain": "vietthan.github.io",
+    "Description": "You've heard the expression \"total war\"; it's pretty common throughout human history. Every generation or so, some gasbag likes to spout about how his people have declared \"total war\" against an enemy, meaning that every man, woman, and child within his nation was committing every second of their lives to victory. That is bullshit on two basic levels. First of all, no country or group is ever 100 percent committed to war; it's just not physically possible. You can have a high percentage, so many people working so hard for so long, but all of the people, all of the time? What about the malingerers, or the conscientious objectors? What about the sick, the injured, the very old, the very young? What about when you're sleeping, eating, taking a shower, or taking a dump? Is that a \"dump for victory\"? That's the first reason total war is impossible for humans. The second is that all nations have their limits. There might be individuals within that group who are willing to sacrifice their lives; it might even be a relatively high number for the population, but that population as a whole will eventually reach its maximum emotional and physiological breaking point. The Japanese reached theirs with a couple of American atomic bombs. The Vietnamese might have reached theirs if we'd dropped a couple more, but, thank all holy Christ, our will broke before it came to that. That is the nature of human warfare, two sides trying to push the other past its limit of endurance, and no matter how much we like to talk about total war, that limit is always there…unless you're the living dead.\nFor the first time in history, we faced an enemy that was actively waging total war. They had no limits of endurance. They would never negotiate, never surrender. They would fight until the very end because, unlike us, every single one of them, every second of every day, was devoted to consuming all life on Earth. That's the kind of enemy that was waiting for us beyond the Rockies. That's the kind of war we had to fight.",
+    "Confidence": 0.8628288
+  },
+  {
+    "Title": "Anyone who had a Hartz – 1",
+    "Url": "https://esngblog.com/2026/06/06/anyone-who-had-a-hartz-1/",
+    "Timestamp": "2026-06-06T23:02:34",
+    "Domain": "esngblog.com",
+    "Description": "Ron is off on his travels again. And proving that DB ain’t what it used to be….. DAY 1 DB strikes again Train from Brussels to Aachen cancelled so 2 hour wait in Brussels and will not b…",
+    "Confidence": 0.901239
+  },
+  {
+    "Title": "Claude, Teach Me Something",
+    "Url": "https://hugotunius.se/2025/10/26/claude-teach-me-something.html",
+    "Timestamp": "2026-06-06T23:02:31",
+    "Domain": "hugotunius.se",
+    "Description": "Leveraging Claude to learn, instead of doom scrolling with a touch of the Socratic method.",
+    "Confidence": 0.97449183
+  },
+  {
+    "Title": "Life is too short for a slow terminal",
+    "Url": "https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/",
+    "Timestamp": "2026-06-06T23:02:28",
+    "Domain": "mijndertstuij.nl",
+    "Description": "I do all my work in the terminal, so it has to be quick. How my zsh starts in 30 milliseconds without a framework, and how to measure where your own shell spends its time.",
+    "Confidence": 0.9928181
+  },
+  {
+    "Title": "What TTS throws away",
+    "Url": "https://amaldavid.com/writing/what-tts-throws-away/",
+    "Timestamp": "2026-06-06T23:02:25",
+    "Domain": "amaldavid.com",
+    "Description": "When a podcast host says \"spaaaace\" and holds the vowel for 1.1 seconds, every ASR (automatic speech recognition) transcribes it as \"space.\" When two friends banter and one reacts with \"Oh. Ooh. Mm.\" for 2.4 seconds of pure non-verbal communication, the transcript shows three punctuated words. When a speaker abandons a clause mid-thought — \"I really have no — I never thought…\" — the transcript records an em-dash. The audio records an affect shift.",
+    "Confidence": 0.96228814
+  },
+  {
+    "Title": "Some concerns about Ladybird's bylaws",
+    "Url": "https://tuananh.net/2026/06/06/ladybird-bylaws/#?utm_source=hnblogs.substack.com",
+    "Timestamp": "2026-06-06T23:02:22",
+    "Domain": "tuananh.net",
+    "Description": "Chris Wanstrath put $1M into a nonprofit browser. I read the public bylaws out of curiosity. This is what stood out to me, for whatever that's worth.",
+    "Confidence": 0.951539
+  },
+  {
+    "Title": "The Anger Isn't at the Tool",
+    "Url": "https://mamonas.dev/posts/the-anger-isnt-at-the-tool/",
+    "Timestamp": "2026-06-06T23:02:15",
+    "Domain": "mamonas.dev",
+    "Description": "I've grown angry and disillusioned with AI, and the strange part is the anger isn't even aimed at the tool. A breakdown of where it actually comes from.\n",
+    "Confidence": 0.8283307
+  },
+  {
     "Title": "Google will pay SpaceX $920M per month for compute | TechCrunch",
     "Url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
     "Timestamp": "2026-06-06T19:02:06",
@@ -118,141 +198,5 @@
     "Domain": "blog.google",
     "Description": "We’re releasing Gemma 4 quantization-aware training checkpoints, reducing memory requirements and improving on-device performance.",
     "Confidence": 0.97632045
-  },
-  {
-    "Title": "GitHub - microsoft/pg_durable: PostgreSQL in-database durable execution",
-    "Url": "https://github.com/microsoft/pg_durable",
-    "Timestamp": "2026-06-05T23:03:19",
-    "Domain": "github.com",
-    "Description": "PostgreSQL in-database durable execution. Contribute to microsoft/pg_durable development by creating an account on GitHub.",
-    "Confidence": 0.9786135
-  },
-  {
-    "Title": "I Open-Sourced My UFC Prediction Model, Weights, and Database",
-    "Url": "https://mcinerney.ai/writings/i-open-sourced-my-ufc-prediction-model-weights-and-database/",
-    "Timestamp": "2026-06-05T23:03:13",
-    "Domain": "mcinerney.ai",
-    "Description": "Five years of building MMA-AI, an open-source UFC prediction model with model weights, a historical odds database, and the ways I learned not to fool myself with machine learning.",
-    "Confidence": 0.9446929
-  },
-  {
-    "Title": "Playing with Vision Embeddings",
-    "Url": "https://prestonbjensen.com/posts/playing-with-vision-embeddings",
-    "Timestamp": "2026-06-05T23:03:05",
-    "Domain": "prestonbjensen.com",
-    "Description": "Poking at the geometry of an image model's feature space.",
-    "Confidence": 0.9857431
-  },
-  {
-    "Title": "Publishing your blog to standard.site in Elixir | jola.dev",
-    "Url": "https://jola.dev/posts/publishing-your-blog",
-    "Timestamp": "2026-06-05T23:03:00",
-    "Domain": "jola.dev",
-    "Description": "A walkthrough for posting your Elixir/Phoenix blog to Bluesky and the standard.site network, using a small mix task and an atproto client.",
-    "Confidence": 0.99843276
-  },
-  {
-    "Title": "Bend Under Pressure, Not Under Nonsense",
-    "Url": "https://julienreszka.com/blog/bend-under-pressure-not-under-nonsense/",
-    "Timestamp": "2026-06-05T23:02:57",
-    "Domain": "julienreszka.com",
-    "Description": "Real pressure has a mechanism. Nonsense pressure is just social discomfort in disguise. Here is how to tell them apart and why it matters.",
-    "Confidence": 0.984597
-  },
-  {
-    "Title": "See, Act, Correct: three levers for working with a code agent",
-    "Url": "https://blog.owulveryck.info/2026/06/04/see-act-correct-three-levers-for-working-with-a-code-agent.html",
-    "Timestamp": "2026-06-05T23:02:54",
-    "Domain": "blog.owulveryck.info",
-    "Description": "An out-of-the-box code agent only sees a repo and a shell. This article lays out three invariant principles for turning a gadget into a production tool.",
-    "Confidence": 0.99124986
-  },
-  {
-    "Title": "How 25 NOPs fixed a 10-year-old GTA V performance issue on AMD",
-    "Url": "https://danielgp.com/blog/gta-v-night-fps-prefetch",
-    "Timestamp": "2026-06-05T23:02:49",
-    "Domain": "danielgp.com",
-    "Description": "A years-old GTA V performance issue, FPS tanking at night when looking at the city, traced to six prefetchnta hints into write-combine vertex buffers, stalling the AMD Zen pipeline. The final fix is 25 NOPs in two places.",
-    "Confidence": 0.9648602
-  },
-  {
-    "Title": "Why all the PRs?",
-    "Url": "https://idiallo.com/blog/why-all-the-prs?src=feed",
-    "Timestamp": "2026-06-05T23:02:46",
-    "Domain": "idiallo.com",
-    "Description": "It's a signal. That's why we get AI-generated PRs. We told everyone, in order to get your resume taken seriously, you need to show your work.",
-    "Confidence": 0.99111634
-  },
-  {
-    "Title": "Death by a Thousand Prompts | Derek Larson",
-    "Url": "https://www.dtlarson.com/thousand-prompts",
-    "Timestamp": "2026-06-05T23:02:42",
-    "Domain": "www.dtlarson.com",
-    "Description": "Infinite scroll for work",
-    "Confidence": 0.9359368
-  },
-  {
-    "Title": "Data Viz and Table Design from the Letterpress Era",
-    "Url": "https://chris-parmer.com/data-viz-from-the-letterpress-era/",
-    "Timestamp": "2026-06-05T23:02:39",
-    "Domain": "chris-parmer.com",
-    "Description": "Field trip to the SF Public Library Archives",
-    "Confidence": 0.9398638
-  },
-  {
-    "Title": "Do I Need to Learn the Domain? Do I Want To? — Ian McNaughton",
-    "Url": "https://ianmcnaughton.net/blog/do-i-need-to-learn-the-domain/",
-    "Timestamp": "2026-06-05T23:02:35",
-    "Domain": "ianmcnaughton.net",
-    "Description": "Ian McNaughton&#x27;s blog — thoughts from a decade in the software industry.",
-    "Confidence": 0.99205536
-  },
-  {
-    "Title": "10 tips to get the most out of OpenCode - byandrev",
-    "Url": "https://byandrev.dev/en/blog/10-best-practices-for-opencode",
-    "Timestamp": "2026-06-05T23:02:32",
-    "Domain": "byandrev.dev",
-    "Description": "OpenCode is a powerful tool, but like any tool, the difference between using it and mastering it lies in the details. These are the tips that have helped me the most in my day-to-day work.",
-    "Confidence": 0.9959475
-  },
-  {
-    "Title": "The Reflection on My First Year at Meta",
-    "Url": "https://johnjr.dev/posts/the-reflection-on-my-first-year-at-meta/",
-    "Timestamp": "2026-06-05T23:02:28",
-    "Domain": "johnjr.dev",
-    "Description": "Disclaimer: Everything here is just my personal opinion, and this text does not reflect any opinion of my employer. Also, feel free to disagree with me on anything here; again, this is just my personal opinion and reflects my experience.\nBefore I talk about my first year at Meta, I think it is worth first discussing how I arrived here.\nI haven’t applied for any job at Meta. Since around 2019, I have received many emails from recruiters about positions there.\nAt the beginning of 2024, I aced the interviews, but I didn’t join the company. At that moment, your interview’s results were valid for 1 year, and I took the entire year to make my decision.\nThen, I decided to join in January 2025 and started in May 2025.",
-    "Confidence": 0.9919379
-  },
-  {
-    "Title": "Software Has Long Been Beyond Our Understanding",
-    "Url": "https://kylemcgough.com/blogs/software-has-long-been-beyond-our-understanding",
-    "Timestamp": "2026-06-05T23:02:25",
-    "Domain": "kylemcgough.com",
-    "Description": "Around the time that I turned twenty I packed my bags and moved across the country. For some odd reason I had decided my PC couldn't make the journey. With the little bit of cash I had left I built another from old parts found at local thrift stores. It was at this moment that I decided that I would no longer use Windows. Not just as my primary operating system; I didn't want it installed at all. I was tired of Microsoft's ever declining quality and customer hostility. I had been dual booting Ubuntu on my old rig and figured I could handle the transition. Why not? It was, of course, the year of Linux desktop. Every year is the year of the Linux desktop. I had been reading countless praise on forums about how easy it had been for my fellow nerds to make the permanent switch. I made the commitment, installed Ubuntu, and have been happily using that same install ever since.",
-    "Confidence": 0.9858619
-  },
-  {
-    "Title": "LLM Serving and the Bus That Never Stops",
-    "Url": "https://joker666.github.io/blog/2026-06-02-llm-serving-in-flight-batching",
-    "Timestamp": "2026-06-05T23:02:21",
-    "Domain": "joker666.github.io",
-    "Description": "In-flight batching is the trick that keeps LLM serving from wasting GPU seats.",
-    "Confidence": 0.96907985
-  },
-  {
-    "Title": "Good Careers at Bad Companies",
-    "Url": "https://sharedphysics.com/good-careers-at-bad-companies/",
-    "Timestamp": "2026-06-05T23:02:18",
-    "Domain": "sharedphysics.com",
-    "Description": "Someone once asked me whether you can join a dysfunctional company and still have a good career.\n\nThey assumed dysfunction is rare—something you'd see in advance and choose to join or avoid. But my experience is that most companies are dysfunctional in some significant and non-immediately obvious way, so",
-    "Confidence": 0.9631975
-  },
-  {
-    "Title": "Anxiety Is Making You Dumber",
-    "Url": "https://julienreszka.com/blog/anxiety-is-making-you-dumber/",
-    "Timestamp": "2026-06-05T23:02:14",
-    "Domain": "julienreszka.com",
-    "Description": "Fear shrinks the prefrontal cortex and degrades the exact thinking you rely on for work. X is engineered to keep you in that state. The Stoics had the fix.",
-    "Confidence": 0.96583784
   }
 ]

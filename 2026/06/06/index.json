@@ -1,5 +1,75 @@
 [
   {
+    "Title": "Programmers Aren't People - Elliot Bonneville",
+    "Url": "https://elliotbonneville.com/programmers-arent-people/",
+    "Timestamp": "2026-06-06T23:02:49",
+    "Domain": "elliotbonneville.com",
+    "Description": "Computer"
+  },
+  {
+    "Title": "I am giving up on VM Gaming | Deploy on Friday",
+    "Url": "https://deployonfri.day/posts/i-am-giving-up-on-vm-gaming",
+    "Timestamp": "2026-06-06T23:02:46",
+    "Domain": "deployonfri.day",
+    "Description": "I was told one could use virtualisation software, spawn virtual machines with PCIe passthrough, and achieve near identical gaming performance."
+  },
+  {
+    "Title": "A Little Explanation of Little's Law",
+    "Url": "https://rugu.dev/en/blog/littles-law/",
+    "Timestamp": "2026-06-06T23:02:40",
+    "Domain": "rugu.dev",
+    "Description": "I recently read Concurrency in Go by Katherine Cox-Buday. In the “Queuing” section, there was a discussion of how we can use Little’s Law to predict our pipeline’s throughput, given sufficient sampling.\nI honestly wondered why I had not come across this simple idea before, after finishing that part. As I understand it, it can potentially be used in almost any situation where a queue is involved. Not just message queues, even things like physical queues. So I thought I’d write an intuitive explanation to help it stick and share the idea."
+  },
+  {
+    "Title": "Total Engineering - Viet Than Blogging",
+    "Url": "https://vietthan.github.io/blog/2026/06/05/total-engineering/",
+    "Timestamp": "2026-06-06T23:02:38",
+    "Domain": "vietthan.github.io",
+    "Description": "You've heard the expression \"total war\"; it's pretty common throughout human history. Every generation or so, some gasbag likes to spout about how his people have declared \"total war\" against an enemy, meaning that every man, woman, and child within his nation was committing every second of their lives to victory. That is bullshit on two basic levels. First of all, no country or group is ever 100 percent committed to war; it's just not physically possible. You can have a high percentage, so many people working so hard for so long, but all of the people, all of the time? What about the malingerers, or the conscientious objectors? What about the sick, the injured, the very old, the very young? What about when you're sleeping, eating, taking a shower, or taking a dump? Is that a \"dump for victory\"? That's the first reason total war is impossible for humans. The second is that all nations have their limits. There might be individuals within that group who are willing to sacrifice their lives; it might even be a relatively high number for the population, but that population as a whole will eventually reach its maximum emotional and physiological breaking point. The Japanese reached theirs with a couple of American atomic bombs. The Vietnamese might have reached theirs if we'd dropped a couple more, but, thank all holy Christ, our will broke before it came to that. That is the nature of human warfare, two sides trying to push the other past its limit of endurance, and no matter how much we like to talk about total war, that limit is always there…unless you're the living dead.\nFor the first time in history, we faced an enemy that was actively waging total war. They had no limits of endurance. They would never negotiate, never surrender. They would fight until the very end because, unlike us, every single one of them, every second of every day, was devoted to consuming all life on Earth. That's the kind of enemy that was waiting for us beyond the Rockies. That's the kind of war we had to fight."
+  },
+  {
+    "Title": "Anyone who had a Hartz – 1",
+    "Url": "https://esngblog.com/2026/06/06/anyone-who-had-a-hartz-1/",
+    "Timestamp": "2026-06-06T23:02:34",
+    "Domain": "esngblog.com",
+    "Description": "Ron is off on his travels again. And proving that DB ain’t what it used to be….. DAY 1 DB strikes again Train from Brussels to Aachen cancelled so 2 hour wait in Brussels and will not b…"
+  },
+  {
+    "Title": "Claude, Teach Me Something",
+    "Url": "https://hugotunius.se/2025/10/26/claude-teach-me-something.html",
+    "Timestamp": "2026-06-06T23:02:31",
+    "Domain": "hugotunius.se",
+    "Description": "Leveraging Claude to learn, instead of doom scrolling with a touch of the Socratic method."
+  },
+  {
+    "Title": "Life is too short for a slow terminal",
+    "Url": "https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/",
+    "Timestamp": "2026-06-06T23:02:28",
+    "Domain": "mijndertstuij.nl",
+    "Description": "I do all my work in the terminal, so it has to be quick. How my zsh starts in 30 milliseconds without a framework, and how to measure where your own shell spends its time."
+  },
+  {
+    "Title": "What TTS throws away",
+    "Url": "https://amaldavid.com/writing/what-tts-throws-away/",
+    "Timestamp": "2026-06-06T23:02:25",
+    "Domain": "amaldavid.com",
+    "Description": "When a podcast host says \"spaaaace\" and holds the vowel for 1.1 seconds, every ASR (automatic speech recognition) transcribes it as \"space.\" When two friends banter and one reacts with \"Oh. Ooh. Mm.\" for 2.4 seconds of pure non-verbal communication, the transcript shows three punctuated words. When a speaker abandons a clause mid-thought — \"I really have no — I never thought…\" — the transcript records an em-dash. The audio records an affect shift."
+  },
+  {
+    "Title": "Some concerns about Ladybird's bylaws",
+    "Url": "https://tuananh.net/2026/06/06/ladybird-bylaws/#?utm_source=hnblogs.substack.com",
+    "Timestamp": "2026-06-06T23:02:22",
+    "Domain": "tuananh.net",
+    "Description": "Chris Wanstrath put $1M into a nonprofit browser. I read the public bylaws out of curiosity. This is what stood out to me, for whatever that's worth."
+  },
+  {
+    "Title": "The Anger Isn't at the Tool",
+    "Url": "https://mamonas.dev/posts/the-anger-isnt-at-the-tool/",
+    "Timestamp": "2026-06-06T23:02:15",
+    "Domain": "mamonas.dev",
+    "Description": "I've grown angry and disillusioned with AI, and the strange part is the anger isn't even aimed at the tool. A breakdown of where it actually comes from.\n"
+  },
+  {
     "Title": "Google will pay SpaceX $920M per month for compute | TechCrunch",
     "Url": "https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/",
     "Timestamp": "2026-06-06T19:02:06",

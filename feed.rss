@@ -7,6 +7,96 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Programmers Aren't People - Elliot Bonneville</title>
+      <link>https://elliotbonneville.com/programmers-arent-people/</link>
+      <description>Computer</description>
+      <guid>https://elliotbonneville.com/programmers-arent-people/</guid>
+      <pubDate>Sat, 06 Jun 2026 23:02:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>I am giving up on VM Gaming | Deploy on Friday</title>
+      <link>https://deployonfri.day/posts/i-am-giving-up-on-vm-gaming</link>
+      <description>I was told one could use virtualisation software, spawn virtual machines with PCIe passthrough, and achieve near identical gaming performance.</description>
+      <category>conference</category>
+      <category>gaming</category>
+      <category>containers</category>
+      <category>linux</category>
+      <category>apple</category>
+      <guid>https://deployonfri.day/posts/i-am-giving-up-on-vm-gaming</guid>
+      <pubDate>Sat, 06 Jun 2026 23:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>A Little Explanation of Little's Law</title>
+      <link>https://rugu.dev/en/blog/littles-law/</link>
+      <description>I recently read Concurrency in Go by Katherine Cox-Buday. In the “Queuing” section, there was a discussion of how we can use Little’s Law to predict our pipeline’s throughput, given sufficient sampling.
+I honestly wondered why I had not come across this simple idea before, after finishing that part. As I understand it, it can potentially be used in almost any situation where a queue is involved. Not just message queues, even things like physical queues. So I thought I’d write an intuitive explanation to help it stick and share the idea.</description>
+      <category>git</category>
+      <guid>https://rugu.dev/en/blog/littles-law/</guid>
+      <pubDate>Sat, 06 Jun 2026 23:02:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Total Engineering - Viet Than Blogging</title>
+      <link>https://vietthan.github.io/blog/2026/06/05/total-engineering/</link>
+      <description>You've heard the expression "total war"; it's pretty common throughout human history. Every generation or so, some gasbag likes to spout about how his people have declared "total war" against an enemy, meaning that every man, woman, and child within his nation was committing every second of their lives to victory. That is bullshit on two basic levels. First of all, no country or group is ever 100 percent committed to war; it's just not physically possible. You can have a high percentage, so many people working so hard for so long, but all of the people, all of the time? What about the malingerers, or the conscientious objectors? What about the sick, the injured, the very old, the very young? What about when you're sleeping, eating, taking a shower, or taking a dump? Is that a "dump for victory"? That's the first reason total war is impossible for humans. The second is that all nations have their limits. There might be individuals within that group who are willing to sacrifice their lives; it might even be a relatively high number for the population, but that population as a whole will eventually reach its maximum emotional and physiological breaking point. The Japanese reached theirs with a couple of American atomic bombs. The Vietnamese might have reached theirs if we'd dropped a couple more, but, thank all holy Christ, our will broke before it came to that. That is the nature of human warfare, two sides trying to push the other past its limit of endurance, and no matter how much we like to talk about total war, that limit is always there…unless you're the living dead.
+For the first time in history, we faced an enemy that was actively waging total war. They had no limits of endurance. They would never negotiate, never surrender. They would fight until the very end because, unlike us, every single one of them, every second of every day, was devoted to consuming all life on Earth. That's the kind of enemy that was waiting for us beyond the Rockies. That's the kind of war we had to fight.</description>
+      <category>ai</category>
+      <category>linux</category>
+      <guid>https://vietthan.github.io/blog/2026/06/05/total-engineering/</guid>
+      <pubDate>Sat, 06 Jun 2026 23:02:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Anyone who had a Hartz – 1</title>
+      <link>https://esngblog.com/2026/06/06/anyone-who-had-a-hartz-1/</link>
+      <description>Ron is off on his travels again. And proving that DB ain’t what it used to be….. DAY 1 DB strikes again Train from Brussels to Aachen cancelled so 2 hour wait in Brussels and will not b…</description>
+      <guid>https://esngblog.com/2026/06/06/anyone-who-had-a-hartz-1/</guid>
+      <pubDate>Sat, 06 Jun 2026 23:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude, Teach Me Something</title>
+      <link>https://hugotunius.se/2025/10/26/claude-teach-me-something.html</link>
+      <description>Leveraging Claude to learn, instead of doom scrolling with a touch of the Socratic method.</description>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://hugotunius.se/2025/10/26/claude-teach-me-something.html</guid>
+      <pubDate>Sat, 06 Jun 2026 23:02:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Life is too short for a slow terminal</title>
+      <link>https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/</link>
+      <description>I do all my work in the terminal, so it has to be quick. How my zsh starts in 30 milliseconds without a framework, and how to measure where your own shell spends its time.</description>
+      <category>git</category>
+      <category>javascript</category>
+      <category>dotnet</category>
+      <guid>https://mijndertstuij.nl/posts/life-is-too-short-for-a-slow-terminal/</guid>
+      <pubDate>Sat, 06 Jun 2026 23:02:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>What TTS throws away</title>
+      <link>https://amaldavid.com/writing/what-tts-throws-away/</link>
+      <description>When a podcast host says "spaaaace" and holds the vowel for 1.1 seconds, every ASR (automatic speech recognition) transcribes it as "space." When two friends banter and one reacts with "Oh. Ooh. Mm." for 2.4 seconds of pure non-verbal communication, the transcript shows three punctuated words. When a speaker abandons a clause mid-thought — "I really have no — I never thought…" — the transcript records an em-dash. The audio records an affect shift.</description>
+      <category>ai</category>
+      <category>ides</category>
+      <guid>https://amaldavid.com/writing/what-tts-throws-away/</guid>
+      <pubDate>Sat, 06 Jun 2026 23:02:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>Some concerns about Ladybird's bylaws</title>
+      <link>https://tuananh.net/2026/06/06/ladybird-bylaws/#?utm_source=hnblogs.substack.com</link>
+      <description>Chris Wanstrath put $1M into a nonprofit browser. I read the public bylaws out of curiosity. This is what stood out to me, for whatever that's worth.</description>
+      <guid>https://tuananh.net/2026/06/06/ladybird-bylaws/#?utm_source=hnblogs.substack.com</guid>
+      <pubDate>Sat, 06 Jun 2026 23:02:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Anger Isn't at the Tool</title>
+      <link>https://mamonas.dev/posts/the-anger-isnt-at-the-tool/</link>
+      <description>I've grown angry and disillusioned with AI, and the strange part is the anger isn't even aimed at the tool. A breakdown of where it actually comes from.
+</description>
+      <author> (Konstantinas Mamonas)</author>
+      <category>ai</category>
+      <guid>https://mamonas.dev/posts/the-anger-isnt-at-the-tool/</guid>
+      <pubDate>Sat, 06 Jun 2026 23:02:15 GMT</pubDate>
+    </item>
+    <item>
       <title>Google will pay SpaceX $920M per month for compute | TechCrunch</title>
       <link>https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/</link>
       <description>In a statement, a Google representative described the deal as a result of unexpected demand for its recently launched AI products.</description>
@@ -133,175 +223,6 @@
       <category>apple</category>
       <guid>https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/</guid>
       <pubDate>Sat, 06 Jun 2026 03:02:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - microsoft/pg_durable: PostgreSQL in-database durable execution</title>
-      <link>https://github.com/microsoft/pg_durable</link>
-      <description>PostgreSQL in-database durable execution. Contribute to microsoft/pg_durable development by creating an account on GitHub.</description>
-      <category>database</category>
-      <category>rust</category>
-      <category>containers</category>
-      <category>javascript</category>
-      <category>git</category>
-      <guid>https://github.com/microsoft/pg_durable</guid>
-      <pubDate>Fri, 05 Jun 2026 23:03:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>I Open-Sourced My UFC Prediction Model, Weights, and Database</title>
-      <link>https://mcinerney.ai/writings/i-open-sourced-my-ufc-prediction-model-weights-and-database/</link>
-      <description>Five years of building MMA-AI, an open-source UFC prediction model with model weights, a historical odds database, and the ways I learned not to fool myself with machine learning.</description>
-      <category>ai</category>
-      <category>containers</category>
-      <category>python</category>
-      <guid>https://mcinerney.ai/writings/i-open-sourced-my-ufc-prediction-model-weights-and-database/</guid>
-      <pubDate>Fri, 05 Jun 2026 23:03:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Playing with Vision Embeddings</title>
-      <link>https://prestonbjensen.com/posts/playing-with-vision-embeddings</link>
-      <description>Poking at the geometry of an image model's feature space.</description>
-      <category>ai</category>
-      <guid>https://prestonbjensen.com/posts/playing-with-vision-embeddings</guid>
-      <pubDate>Fri, 05 Jun 2026 23:03:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Publishing your blog to standard.site in Elixir | jola.dev</title>
-      <link>https://jola.dev/posts/publishing-your-blog</link>
-      <description>A walkthrough for posting your Elixir/Phoenix blog to Bluesky and the standard.site network, using a small mix task and an atproto client.</description>
-      <author> (https://jola.dev/about)</author>
-      <category>javascript</category>
-      <category>git</category>
-      <guid>https://jola.dev/posts/publishing-your-blog</guid>
-      <pubDate>Fri, 05 Jun 2026 23:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Bend Under Pressure, Not Under Nonsense</title>
-      <link>https://julienreszka.com/blog/bend-under-pressure-not-under-nonsense/</link>
-      <description>Real pressure has a mechanism. Nonsense pressure is just social discomfort in disguise. Here is how to tell them apart and why it matters.</description>
-      <category>ai</category>
-      <guid>https://julienreszka.com/blog/bend-under-pressure-not-under-nonsense/</guid>
-      <pubDate>Fri, 05 Jun 2026 23:02:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>See, Act, Correct: three levers for working with a code agent</title>
-      <link>https://blog.owulveryck.info/2026/06/04/see-act-correct-three-levers-for-working-with-a-code-agent.html</link>
-      <description>An out-of-the-box code agent only sees a repo and a shell. This article lays out three invariant principles for turning a gadget into a production tool.</description>
-      <category>cloud</category>
-      <category>encryption</category>
-      <category>ides</category>
-      <category>javascript</category>
-      <category>ai</category>
-      <guid>https://blog.owulveryck.info/2026/06/04/see-act-correct-three-levers-for-working-with-a-code-agent.html</guid>
-      <pubDate>Fri, 05 Jun 2026 23:02:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>How 25 NOPs fixed a 10-year-old GTA V performance issue on AMD</title>
-      <link>https://danielgp.com/blog/gta-v-night-fps-prefetch</link>
-      <description>A years-old GTA V performance issue, FPS tanking at night when looking at the city, traced to six prefetchnta hints into write-combine vertex buffers, stalling the AMD Zen pipeline. The final fix is 25 NOPs in two places.</description>
-      <category>gaming</category>
-      <guid>https://danielgp.com/blog/gta-v-night-fps-prefetch</guid>
-      <pubDate>Fri, 05 Jun 2026 23:02:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why all the PRs?</title>
-      <link>https://idiallo.com/blog/why-all-the-prs?src=feed</link>
-      <description>It's a signal. That's why we get AI-generated PRs. We told everyone, in order to get your resume taken seriously, you need to show your work.</description>
-      <category>ruby</category>
-      <category>ai</category>
-      <category>javascript</category>
-      <category>gaming</category>
-      <category>git</category>
-      <guid>https://idiallo.com/blog/why-all-the-prs?src=feed</guid>
-      <pubDate>Fri, 05 Jun 2026 23:02:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Death by a Thousand Prompts | Derek Larson</title>
-      <link>https://www.dtlarson.com/thousand-prompts</link>
-      <description>Infinite scroll for work</description>
-      <category>ai</category>
-      <category>gaming</category>
-      <guid>https://www.dtlarson.com/thousand-prompts</guid>
-      <pubDate>Fri, 05 Jun 2026 23:02:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Data Viz and Table Design from the Letterpress Era</title>
-      <link>https://chris-parmer.com/data-viz-from-the-letterpress-era/</link>
-      <description>Field trip to the SF Public Library Archives</description>
-      <guid>https://chris-parmer.com/data-viz-from-the-letterpress-era/</guid>
-      <pubDate>Fri, 05 Jun 2026 23:02:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Do I Need to Learn the Domain? Do I Want To? — Ian McNaughton</title>
-      <link>https://ianmcnaughton.net/blog/do-i-need-to-learn-the-domain/</link>
-      <description>Ian McNaughton&amp;#x27;s blog — thoughts from a decade in the software industry.</description>
-      <category>containers</category>
-      <category>web</category>
-      <category>database</category>
-      <category>ai</category>
-      <guid>https://ianmcnaughton.net/blog/do-i-need-to-learn-the-domain/</guid>
-      <pubDate>Fri, 05 Jun 2026 23:02:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>10 tips to get the most out of OpenCode - byandrev</title>
-      <link>https://byandrev.dev/en/blog/10-best-practices-for-opencode</link>
-      <description>OpenCode is a powerful tool, but like any tool, the difference between using it and mastering it lies in the details. These are the tips that have helped me the most in my day-to-day work.</description>
-      <category>typescript</category>
-      <category>web</category>
-      <guid>https://byandrev.dev/en/blog/10-best-practices-for-opencode</guid>
-      <pubDate>Fri, 05 Jun 2026 23:02:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Reflection on My First Year at Meta</title>
-      <link>https://johnjr.dev/posts/the-reflection-on-my-first-year-at-meta/</link>
-      <description>Disclaimer: Everything here is just my personal opinion, and this text does not reflect any opinion of my employer. Also, feel free to disagree with me on anything here; again, this is just my personal opinion and reflects my experience.
-Before I talk about my first year at Meta, I think it is worth first discussing how I arrived here.
-I haven’t applied for any job at Meta. Since around 2019, I have received many emails from recruiters about positions there.
-At the beginning of 2024, I aced the interviews, but I didn’t join the company. At that moment, your interview’s results were valid for 1 year, and I took the entire year to make my decision.
-Then, I decided to join in January 2025 and started in May 2025.</description>
-      <category>git</category>
-      <category>ai</category>
-      <category>dotnet</category>
-      <guid>https://johnjr.dev/posts/the-reflection-on-my-first-year-at-meta/</guid>
-      <pubDate>Fri, 05 Jun 2026 23:02:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Software Has Long Been Beyond Our Understanding</title>
-      <link>https://kylemcgough.com/blogs/software-has-long-been-beyond-our-understanding</link>
-      <description>Around the time that I turned twenty I packed my bags and moved across the country. For some odd reason I had decided my PC couldn't make the journey. With the little bit of cash I had left I built another from old parts found at local thrift stores. It was at this moment that I decided that I would no longer use Windows. Not just as my primary operating system; I didn't want it installed at all. I was tired of Microsoft's ever declining quality and customer hostility. I had been dual booting Ubuntu on my old rig and figured I could handle the transition. Why not? It was, of course, the year of Linux desktop. Every year is the year of the Linux desktop. I had been reading countless praise on forums about how easy it had been for my fellow nerds to make the permanent switch. I made the commitment, installed Ubuntu, and have been happily using that same install ever since.</description>
-      <category>linux</category>
-      <category>ai</category>
-      <guid>https://kylemcgough.com/blogs/software-has-long-been-beyond-our-understanding</guid>
-      <pubDate>Fri, 05 Jun 2026 23:02:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>LLM Serving and the Bus That Never Stops</title>
-      <link>https://joker666.github.io/blog/2026-06-02-llm-serving-in-flight-batching</link>
-      <description>In-flight batching is the trick that keeps LLM serving from wasting GPU seats.</description>
-      <author> (Rafi Hasan)</author>
-      <category>ai</category>
-      <category>ides</category>
-      <category>dotnet</category>
-      <guid>https://joker666.github.io/blog/2026-06-02-llm-serving-in-flight-batching</guid>
-      <pubDate>Fri, 05 Jun 2026 23:02:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Good Careers at Bad Companies</title>
-      <link>https://sharedphysics.com/good-careers-at-bad-companies/</link>
-      <description>Someone once asked me whether you can join a dysfunctional company and still have a good career.
-
-They assumed dysfunction is rare—something you'd see in advance and choose to join or avoid. But my experience is that most companies are dysfunctional in some significant and non-immediately obvious way, so</description>
-      <category>ai</category>
-      <category>encryption</category>
-      <category>git</category>
-      <guid>https://sharedphysics.com/good-careers-at-bad-companies/</guid>
-      <pubDate>Fri, 05 Jun 2026 23:02:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anxiety Is Making You Dumber</title>
-      <link>https://julienreszka.com/blog/anxiety-is-making-you-dumber/</link>
-      <description>Fear shrinks the prefrontal cortex and degrades the exact thinking you rely on for work. X is engineered to keep you in that state. The Stoics had the fix.</description>
-      <guid>https://julienreszka.com/blog/anxiety-is-making-you-dumber/</guid>
-      <pubDate>Fri, 05 Jun 2026 23:02:14 GMT</pubDate>
     </item>
   </channel>
 </rss>
