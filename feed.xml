@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>S&amp;P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic</title>
+      <link>https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/</link>
+      <description>SpaceX won’t get easy access to billions of dollars from passive investors.</description>
+      <category>ai</category>
+      <guid>https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/</guid>
+      <pubDate>Sat, 06 Jun 2026 11:02:09 GMT</pubDate>
+    </item>
+    <item>
       <title>In the Empire's Defense</title>
       <link>https://idiallo.com/blog/the-empire-won</link>
       <description>I didn't watch Star Wars when it was released. I wasn't even born. By the time we popped the cassette tape in the VCR, it was at least 15 years old. But I liked the movie all the same. It was not my f</description>
@@ -309,14 +317,6 @@ You can use Remote Desktop, Screen Sharing, or VNC to remote control a computer 
       <category>rust</category>
       <guid>https://www.jeffgeerling.com/blog/2026/i-tested-every-ip-kvm/</guid>
       <pubDate>Fri, 05 Jun 2026 15:02:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Changing How We Develop Ladybird - Ladybird</title>
-      <link>https://ladybird.org/posts/changing-how-we-develop-ladybird/</link>
-      <description>Ladybird is changing how code enters the project as we prepare to ship a browser to real users.</description>
-      <category>ai</category>
-      <guid>https://ladybird.org/posts/changing-how-we-develop-ladybird/</guid>
-      <pubDate>Fri, 05 Jun 2026 11:03:18 GMT</pubDate>
     </item>
   </channel>
 </rss>

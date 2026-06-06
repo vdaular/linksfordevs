@@ -1,5 +1,13 @@
 [
   {
+    "Title": "S&P 500 rejects SpaceX, also blocking entry for OpenAI and Anthropic",
+    "Url": "https://arstechnica.com/tech-policy/2026/06/sp-500-blocks-fast-spacex-entry-wont-waive-rule-for-unprofitable-ai-firms/",
+    "Timestamp": "2026-06-06T11:02:09",
+    "Domain": "arstechnica.com",
+    "Description": "SpaceX won’t get easy access to billions of dollars from passive investors.",
+    "Confidence": 0.56204486
+  },
+  {
     "Title": "In the Empire's Defense",
     "Url": "https://idiallo.com/blog/the-empire-won",
     "Timestamp": "2026-06-06T03:03:03",
@@ -254,13 +262,5 @@
     "Domain": "www.jeffgeerling.com",
     "Description": "Since the PiKVM came out in 2017, there's been an explosion of IP KVMs. I've tested almost every one. But what are they good for?\nYou can use Remote Desktop, Screen Sharing, or VNC to remote control a computer from anywhere on a LAN. And if you don't have a private VPN, you could use RealVNC, Raspberry Pi Connect, or wire up Tailscale or Pangolin for fully remote access. Those solutions are great, and so is SSH if you don't need a full desktop.",
     "Confidence": 0.9557584
-  },
-  {
-    "Title": "Changing How We Develop Ladybird - Ladybird",
-    "Url": "https://ladybird.org/posts/changing-how-we-develop-ladybird/",
-    "Timestamp": "2026-06-05T11:03:18",
-    "Domain": "ladybird.org",
-    "Description": "Ladybird is changing how code enters the project as we prepare to ship a browser to real users.",
-    "Confidence": 0.9949485
   }
 ]
