@@ -1,5 +1,101 @@
 [
   {
+    "Title": "In the Empire's Defense",
+    "Url": "https://idiallo.com/blog/the-empire-won",
+    "Timestamp": "2026-06-06T03:03:03",
+    "Domain": "idiallo.com",
+    "Description": "I didn't watch Star Wars when it was released. I wasn't even born. By the time we popped the cassette tape in the VCR, it was at least 15 years old. But I liked the movie all the same. It was not my f",
+    "Confidence": 0.75866604
+  },
+  {
+    "Title": "Amber Alert sends Spam URL?",
+    "Url": "https://idiallo.com/byte-size/amber-alert-with-spam-link",
+    "Timestamp": "2026-06-06T03:02:59",
+    "Domain": "idiallo.com",
+    "Description": "I received an amber alert, but the link seems to redirect to a spam page. Important services need to be fault tolerant. The shorted link needs to be tested.",
+    "Confidence": 0.9235381
+  },
+  {
+    "Title": "Stop Using Conventional Commits",
+    "Url": "https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/",
+    "Timestamp": "2026-06-06T03:02:55",
+    "Domain": "sumnerevans.com",
+    "Description": "You’ve almost certainly encountered Conventional Commits before. It may have reared its ugly head in the changelog of an open source project you’ve used. It may have been the enforced commit format for an open source project you contributed to. A lot of people swear by it. I swear at it. Even though it is used by a large number of popular open source projects, Conventional Commits is an actively bad standard which encourages focus on the wrong things and fails to deliver on its promises.",
+    "Confidence": 0.9955297
+  },
+  {
+    "Title": "The web is changing, and we are not going back",
+    "Url": "https://idiallo.com/blog/web-is-changing-we-are-not-going-back",
+    "Timestamp": "2026-06-06T03:02:52",
+    "Domain": "idiallo.com",
+    "Description": "Whenever I saw someone type a natural language query into Google, it made me cringe. \"It's not a person,\" I would say. \"Type like you're talking to a machine.\" This was especially true for programmers",
+    "Confidence": 0.9450037
+  },
+  {
+    "Title": "Now that your newsletter is AI-generated, I've Unsubscribed",
+    "Url": "https://idiallo.com/blog/unsubscribed-from-ai-generated-newsletters",
+    "Timestamp": "2026-06-06T03:02:48",
+    "Domain": "idiallo.com",
+    "Description": "I've remained subscribed to some newsletters for over 20 years. The authors managed to keep my attention all that time. But then, one day, they decided to switch to an AI-generated newsletter without ",
+    "Confidence": 0.9189223
+  },
+  {
+    "Title": "New method turns ocean water into drinking water, without waste",
+    "Url": "https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/",
+    "Timestamp": "2026-06-06T03:02:44",
+    "Domain": "www.rochester.edu",
+    "Description": "The energy-efficient desalination system produces fresh water without chemical additives and transforms leftover salts into useful materials.",
+    "Confidence": 0.6954946
+  },
+  {
+    "Title": "Why all the PRs?",
+    "Url": "https://idiallo.com/blog/why-all-the-prs",
+    "Timestamp": "2026-06-06T03:02:40",
+    "Domain": "idiallo.com",
+    "Description": "It's a signal. That's why we get AI-generated PRs. We told everyone, in order to get your resume taken seriously, you need to show your work.",
+    "Confidence": 0.99111634
+  },
+  {
+    "Title": "How Many Tokens Did You Burn Today",
+    "Url": "https://idiallo.com/blog/how-many-tokens-did-you-burn-today",
+    "Timestamp": "2026-06-06T03:02:35",
+    "Domain": "idiallo.com",
+    "Description": "Early in my career, a manager at one of the big firms where I worked made a request so absurd it remains etched in my memory. I walked back to the team, repeated what he had asked, and couldn't finish",
+    "Confidence": 0.9680544
+  },
+  {
+    "Title": "How to Talk to Your Coworkers",
+    "Url": "https://idiallo.com/blog/how-to-talk-to-your-coworkers",
+    "Timestamp": "2026-06-06T03:02:32",
+    "Domain": "idiallo.com",
+    "Description": "You know you've explained the same issue before in two or three different places, yet here they are asking again. Why don't they understand you? Why do they ask the same question when you've already g",
+    "Confidence": 0.97548455
+  },
+  {
+    "Title": "Don't call yourself a Software Engineer, and other Career Advice",
+    "Url": "https://idiallo.com/blog/you-are-an-ai-enabled-engineer-now",
+    "Timestamp": "2026-06-06T03:02:27",
+    "Domain": "idiallo.com",
+    "Description": "I can only imagine what it's like learning the skill of programming in this day and age. What does an average college class look like? What is the CS professor teaching? And students, how do you recon",
+    "Confidence": 0.9864656
+  },
+  {
+    "Title": "The commencement speech that shook the world",
+    "Url": "https://idiallo.com/blog/the-commencement-speech-that-shook-the-world",
+    "Timestamp": "2026-06-06T03:02:23",
+    "Domain": "idiallo.com",
+    "Description": "There he was, the man at the helm of innovation. Eric Schmidt, the former CEO of Google. The man who once said, google doesn't need to record your conversation, it already knows everything about you. ",
+    "Confidence": 0.9617992
+  },
+  {
+    "Title": "Gemma 4 QAT models: Optimizing model compression for mobile and laptop efficiency",
+    "Url": "https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/",
+    "Timestamp": "2026-06-06T03:02:15",
+    "Domain": "blog.google",
+    "Description": "We’re releasing Gemma 4 quantization-aware training checkpoints, reducing memory requirements and improving on-device performance.",
+    "Confidence": 0.97632045
+  },
+  {
     "Title": "GitHub - microsoft/pg_durable: PostgreSQL in-database durable execution",
     "Url": "https://github.com/microsoft/pg_durable",
     "Timestamp": "2026-06-05T23:03:19",
@@ -174,13 +270,5 @@
     "Domain": "www.buchodi.com",
     "Description": "Stella is the companion app for Meta's smart glasses. Inspecting version 273.0.0.21 of the Android build (com.facebook.stella), I found the entire computational and storage stack for on-device facial recognition: three face models, a local database schema, a cosine-similarity vector index dimensioned to match the models,",
     "Confidence": 0.9527182
-  },
-  {
-    "Title": "GitHub - anthropics/defending-code-reference-harness: Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize",
-    "Url": "https://github.com/anthropics/defending-code-reference-harness",
-    "Timestamp": "2026-06-05T03:02:11",
-    "Domain": "github.com",
-    "Description": "Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize - anthropics/defending-code-reference-harness",
-    "Confidence": 0.9923787
   }
 ]

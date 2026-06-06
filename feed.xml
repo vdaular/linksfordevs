@@ -7,6 +7,109 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>In the Empire's Defense</title>
+      <link>https://idiallo.com/blog/the-empire-won</link>
+      <description>I didn't watch Star Wars when it was released. I wasn't even born. By the time we popped the cassette tape in the VCR, it was at least 15 years old. But I liked the movie all the same. It was not my f</description>
+      <guid>https://idiallo.com/blog/the-empire-won</guid>
+      <pubDate>Sat, 06 Jun 2026 03:03:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Amber Alert sends Spam URL?</title>
+      <link>https://idiallo.com/byte-size/amber-alert-with-spam-link</link>
+      <description>I received an amber alert, but the link seems to redirect to a spam page. Important services need to be fault tolerant. The shorted link needs to be tested.</description>
+      <category>android</category>
+      <guid>https://idiallo.com/byte-size/amber-alert-with-spam-link</guid>
+      <pubDate>Sat, 06 Jun 2026 03:02:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Stop Using Conventional Commits</title>
+      <link>https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/</link>
+      <description>You’ve almost certainly encountered Conventional Commits before. It may have reared its ugly head in the changelog of an open source project you’ve used. It may have been the enforced commit format for an open source project you contributed to. A lot of people swear by it. I swear at it. Even though it is used by a large number of popular open source projects, Conventional Commits is an actively bad standard which encourages focus on the wrong things and fails to deliver on its promises.</description>
+      <category>git</category>
+      <category>linux</category>
+      <guid>https://sumnerevans.com/posts/software-engineering/stop-using-conventional-commits/</guid>
+      <pubDate>Sat, 06 Jun 2026 03:02:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>The web is changing, and we are not going back</title>
+      <link>https://idiallo.com/blog/web-is-changing-we-are-not-going-back</link>
+      <description>Whenever I saw someone type a natural language query into Google, it made me cringe. "It's not a person," I would say. "Type like you're talking to a machine." This was especially true for programmers</description>
+      <category>web</category>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://idiallo.com/blog/web-is-changing-we-are-not-going-back</guid>
+      <pubDate>Sat, 06 Jun 2026 03:02:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Now that your newsletter is AI-generated, I've Unsubscribed</title>
+      <link>https://idiallo.com/blog/unsubscribed-from-ai-generated-newsletters</link>
+      <description>I've remained subscribed to some newsletters for over 20 years. The authors managed to keep my attention all that time. But then, one day, they decided to switch to an AI-generated newsletter without </description>
+      <category>ai</category>
+      <guid>https://idiallo.com/blog/unsubscribed-from-ai-generated-newsletters</guid>
+      <pubDate>Sat, 06 Jun 2026 03:02:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>New method turns ocean water into drinking water, without waste</title>
+      <link>https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/</link>
+      <description>The energy-efficient desalination system produces fresh water without chemical additives and transforms leftover salts into useful materials.</description>
+      <guid>https://www.rochester.edu/newscenter/what-is-desalination-definition-ocean-water-704732/</guid>
+      <pubDate>Sat, 06 Jun 2026 03:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why all the PRs?</title>
+      <link>https://idiallo.com/blog/why-all-the-prs</link>
+      <description>It's a signal. That's why we get AI-generated PRs. We told everyone, in order to get your resume taken seriously, you need to show your work.</description>
+      <category>ruby</category>
+      <category>ai</category>
+      <category>javascript</category>
+      <category>gaming</category>
+      <category>git</category>
+      <guid>https://idiallo.com/blog/why-all-the-prs</guid>
+      <pubDate>Sat, 06 Jun 2026 03:02:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>How Many Tokens Did You Burn Today</title>
+      <link>https://idiallo.com/blog/how-many-tokens-did-you-burn-today</link>
+      <description>Early in my career, a manager at one of the big firms where I worked made a request so absurd it remains etched in my memory. I walked back to the team, repeated what he had asked, and couldn't finish</description>
+      <category>gaming</category>
+      <category>ai</category>
+      <guid>https://idiallo.com/blog/how-many-tokens-did-you-burn-today</guid>
+      <pubDate>Sat, 06 Jun 2026 03:02:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to Talk to Your Coworkers</title>
+      <link>https://idiallo.com/blog/how-to-talk-to-your-coworkers</link>
+      <description>You know you've explained the same issue before in two or three different places, yet here they are asking again. Why don't they understand you? Why do they ask the same question when you've already g</description>
+      <guid>https://idiallo.com/blog/how-to-talk-to-your-coworkers</guid>
+      <pubDate>Sat, 06 Jun 2026 03:02:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Don't call yourself a Software Engineer, and other Career Advice</title>
+      <link>https://idiallo.com/blog/you-are-an-ai-enabled-engineer-now</link>
+      <description>I can only imagine what it's like learning the skill of programming in this day and age. What does an average college class look like? What is the CS professor teaching? And students, how do you recon</description>
+      <category>ai</category>
+      <category>ides</category>
+      <guid>https://idiallo.com/blog/you-are-an-ai-enabled-engineer-now</guid>
+      <pubDate>Sat, 06 Jun 2026 03:02:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>The commencement speech that shook the world</title>
+      <link>https://idiallo.com/blog/the-commencement-speech-that-shook-the-world</link>
+      <description>There he was, the man at the helm of innovation. Eric Schmidt, the former CEO of Google. The man who once said, google doesn't need to record your conversation, it already knows everything about you. </description>
+      <category>ai</category>
+      <guid>https://idiallo.com/blog/the-commencement-speech-that-shook-the-world</guid>
+      <pubDate>Sat, 06 Jun 2026 03:02:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Gemma 4 QAT models: Optimizing model compression for mobile and laptop efficiency</title>
+      <link>https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/</link>
+      <description>We’re releasing Gemma 4 quantization-aware training checkpoints, reducing memory requirements and improving on-device performance.</description>
+      <category>ai</category>
+      <category>apple</category>
+      <guid>https://blog.google/innovation-and-ai/technology/developers-tools/quantization-aware-training-gemma-4/</guid>
+      <pubDate>Sat, 06 Jun 2026 03:02:15 GMT</pubDate>
+    </item>
+    <item>
       <title>GitHub - microsoft/pg_durable: PostgreSQL in-database durable execution</title>
       <link>https://github.com/microsoft/pg_durable</link>
       <description>PostgreSQL in-database durable execution. Contribute to microsoft/pg_durable development by creating an account on GitHub.</description>
@@ -225,18 +328,6 @@ You can use Remote Desktop, Screen Sharing, or VNC to remote control a computer 
       <category>ides</category>
       <guid>https://www.buchodi.com/meta-glasses-facial-recognition/</guid>
       <pubDate>Fri, 05 Jun 2026 07:02:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - anthropics/defending-code-reference-harness: Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize</title>
-      <link>https://github.com/anthropics/defending-code-reference-harness</link>
-      <description>Skills for threat modeling, scanning, triage, patching, plus an autonomous scanning harness you can /customize - anthropics/defending-code-reference-harness</description>
-      <category>ai</category>
-      <category>containers</category>
-      <category>javascript</category>
-      <category>git</category>
-      <category>dotnet</category>
-      <guid>https://github.com/anthropics/defending-code-reference-harness</guid>
-      <pubDate>Fri, 05 Jun 2026 03:02:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
