@@ -1,5 +1,19 @@
 [
   {
+    "Title": "2025 - The 29th IOCCC",
+    "Url": "https://www.ioccc.org/2025/",
+    "Timestamp": "2026-06-07T15:02:12",
+    "Domain": "www.ioccc.org",
+    "Description": "IOCCC Year 2025"
+  },
+  {
+    "Title": "LLMs are eroding my software engineering career and I don't know what to do",
+    "Url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
+    "Timestamp": "2026-06-07T15:02:09",
+    "Domain": "human-in-the-loop.bearblog.dev",
+    "Description": "I'm a software engineer, completing 10 years of professional experience this year. I started my career as a web frontend engineer (it was easier for me to de..."
+  },
+  {
     "Title": "Moving beyond fork() + exec()",
     "Url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
     "Timestamp": "2026-06-07T03:02:11",

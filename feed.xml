@@ -7,6 +7,25 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>2025 - The 29th IOCCC</title>
+      <link>https://www.ioccc.org/2025/</link>
+      <description>IOCCC Year 2025</description>
+      <category>youtube</category>
+      <category>web</category>
+      <category>gaming</category>
+      <guid>https://www.ioccc.org/2025/</guid>
+      <pubDate>Sun, 07 Jun 2026 15:02:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>LLMs are eroding my software engineering career and I don't know what to do</title>
+      <link>https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/</link>
+      <description>I'm a software engineer, completing 10 years of professional experience this year. I started my career as a web frontend engineer (it was easier for me to de...</description>
+      <category>conference</category>
+      <category>ai</category>
+      <guid>https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/</guid>
+      <pubDate>Sun, 07 Jun 2026 15:02:09 GMT</pubDate>
+    </item>
+    <item>
       <title>Moving beyond fork() + exec()</title>
       <link>https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/</link>
       <description>Since the earliest days of Unix, two of the core process-oriented system calls have been fork() [...]</description>
@@ -120,15 +139,6 @@ For the first time in history, we faced an enemy that was actively waging total 
       <category>ai</category>
       <guid>https://techcrunch.com/2026/06/05/google-will-pay-spacex-920m-per-month-for-compute/</guid>
       <pubDate>Sat, 06 Jun 2026 19:02:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>GrapheneOS user reported to authorities for using GrapheneOS - GrapheneOS Discussion Forum</title>
-      <link>https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos</link>
-      <description>GrapheneOS discussion forum</description>
-      <category>gaming</category>
-      <category>android</category>
-      <guid>https://discuss.grapheneos.org/d/36134-grapheneos-user-reported-to-authorities-for-using-grapheneos</guid>
-      <pubDate>Sat, 06 Jun 2026 15:02:24 GMT</pubDate>
     </item>
   </channel>
 </rss>
