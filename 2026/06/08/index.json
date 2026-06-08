@@ -1,5 +1,19 @@
 [
   {
+    "Title": "Xiaomi MiMo, Explore and Love",
+    "Url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
+    "Timestamp": "2026-06-08T19:02:58",
+    "Domain": "mimo.xiaomi.com",
+    "Description": "MiMo, in collaboration with TileRT, releases the UltraSpeed mode of Xiaomi MiMo-V2.5-Pro — breaking 1000 tokens/s generation speed on a 1T-parameter model for the first time on commodity GPUs through extreme model-system codesign."
+  },
+  {
+    "Title": "ui | AI-native React Components",
+    "Url": "https://vorpus.github.io/performativeUI/",
+    "Timestamp": "2026-06-08T19:02:31",
+    "Domain": "vorpus.github.io",
+    "Description": "26 components · MIT licensed"
+  },
+  {
     "Title": "Working with product managers",
     "Url": "https://www.seangoedecke.com/working-with-product-managers/",
     "Timestamp": "2026-06-08T15:02:18",
