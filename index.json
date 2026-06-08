@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Working with product managers",
+    "Url": "https://www.seangoedecke.com/working-with-product-managers/",
+    "Timestamp": "2026-06-08T15:02:18",
+    "Domain": "www.seangoedecke.com",
+    "Description": "The relationship engineers have with product management is more dysfunctional than with any other part of the company. There’s no shared culture or language like there is with other engineers, and the rules of “who gets to tell who what to do” aren’t as clear-cut as they are with managers. Engineers don’t have a lot in common with legal, or design, or sales, but they also don’t need to interact much with those roles. In my experience, engineers are communicating with product managers almost every single day.",
+    "Confidence": 0.9888511
+  },
+  {
     "Title": "DeepSeek V4 Pro beats GPT-5.5 Pro on precision",
     "Url": "https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision",
     "Timestamp": "2026-06-08T11:02:14",
@@ -174,21 +182,5 @@
     "Domain": "andreaturchet.github.io",
     "Description": "Cosa accade quando l'intelligenza smette di essere lenta come noi, mentre la vita continua inevitabilmente a esserlo?",
     "Confidence": 0.98029876
-  },
-  {
-    "Title": "2025 - The 29th IOCCC",
-    "Url": "https://www.ioccc.org/2025/",
-    "Timestamp": "2026-06-07T15:02:12",
-    "Domain": "www.ioccc.org",
-    "Description": "IOCCC Year 2025",
-    "Confidence": 0.9821359
-  },
-  {
-    "Title": "LLMs are eroding my software engineering career and I don't know what to do",
-    "Url": "https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/",
-    "Timestamp": "2026-06-07T15:02:09",
-    "Domain": "human-in-the-loop.bearblog.dev",
-    "Description": "I'm a software engineer, completing 10 years of professional experience this year. I started my career as a web frontend engineer (it was easier for me to de...",
-    "Confidence": 0.98386663
   }
 ]

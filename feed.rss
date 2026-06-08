@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Working with product managers</title>
+      <link>https://www.seangoedecke.com/working-with-product-managers/</link>
+      <description>The relationship engineers have with product management is more dysfunctional than with any other part of the company. There’s no shared culture or language like there is with other engineers, and the rules of “who gets to tell who what to do” aren’t as clear-cut as they are with managers. Engineers don’t have a lot in common with legal, or design, or sales, but they also don’t need to interact much with those roles. In my experience, engineers are communicating with product managers almost every single day.</description>
+      <guid>https://www.seangoedecke.com/working-with-product-managers/</guid>
+      <pubDate>Mon, 08 Jun 2026 15:02:18 GMT</pubDate>
+    </item>
+    <item>
       <title>DeepSeek V4 Pro beats GPT-5.5 Pro on precision</title>
       <link>https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision</link>
       <description>DeepSeek V4 Pro wins this head-to-head by being more exact where it matters: following instructions, matching schemas, and solving edge cases cleanly. GPT-5.5 Pro is still strong, but it gave away points with avoidable deviations.</description>
@@ -222,25 +229,6 @@ Analytic Reasoning Seminar with special thanks to Kris Micinski and Michael Ball
       <category>git</category>
       <guid>https://andreaturchet.github.io/blog/riflessioni_sri.html?lang=en</guid>
       <pubDate>Sun, 07 Jun 2026 23:02:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>2025 - The 29th IOCCC</title>
-      <link>https://www.ioccc.org/2025/</link>
-      <description>IOCCC Year 2025</description>
-      <category>youtube</category>
-      <category>web</category>
-      <category>gaming</category>
-      <guid>https://www.ioccc.org/2025/</guid>
-      <pubDate>Sun, 07 Jun 2026 15:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>LLMs are eroding my software engineering career and I don't know what to do</title>
-      <link>https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/</link>
-      <description>I'm a software engineer, completing 10 years of professional experience this year. I started my career as a web frontend engineer (it was easier for me to de...</description>
-      <category>conference</category>
-      <category>ai</category>
-      <guid>https://human-in-the-loop.bearblog.dev/llms-are-eroding-my-software-engineering-career-and-i-dont-know-what-to-do/</guid>
-      <pubDate>Sun, 07 Jun 2026 15:02:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
