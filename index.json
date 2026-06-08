@@ -1,5 +1,21 @@
 [
   {
+    "Title": "How's Linear so fast? A technical breakdown",
+    "Url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
+    "Timestamp": "2026-06-08T03:02:19",
+    "Domain": "performance.dev",
+    "Description": " breakdown of the architecture behind Linear's speed: local-first sync, MobX observables, instant first loads, and a keyboard-first design.",
+    "Confidence": 0.9950883
+  },
+  {
+    "Title": "Dancing mad with sandboxing",
+    "Url": "https://xeiaso.net/blog/2026/dancing-mad-sandboxing/",
+    "Timestamp": "2026-06-08T03:02:15",
+    "Domain": "xeiaso.net",
+    "Description": "Kefka is a Go-native shell sandbox with coreutils, Python via WebAssembly, and more. Learn the works of madness that went into making this happen!",
+    "Confidence": 0.99649173
+  },
+  {
     "Title": "Best explanations of how LLMs work",
     "Url": "https://vorushin.github.io/blog/best-explanations-llms",
     "Timestamp": "2026-06-07T23:03:22",
@@ -158,21 +174,5 @@
     "Domain": "human-in-the-loop.bearblog.dev",
     "Description": "I'm a software engineer, completing 10 years of professional experience this year. I started my career as a web frontend engineer (it was easier for me to de...",
     "Confidence": 0.98386663
-  },
-  {
-    "Title": "Moving beyond fork() + exec()",
-    "Url": "https://lwn.net/SubscriberLink/1076018/16f01bbbb8e0d1f0/",
-    "Timestamp": "2026-06-07T03:02:11",
-    "Domain": "lwn.net",
-    "Description": "Since the earliest days of Unix, two of the core process-oriented system calls have been fork() [...]",
-    "Confidence": 0.9885699
-  },
-  {
-    "Title": "rs - an accurate VHS video effect",
-    "Url": "https://ntsc.rs/",
-    "Timestamp": "2026-06-07T03:02:07",
-    "Domain": "ntsc.rs",
-    "Description": "ntsc-rs is a free, open-source VHS and analog TV video effect. Use it online in your browser, as a standalone application, or as a plugin for DaVinci Resolve, After Effects, and more.",
-    "Confidence": 0.973127
   }
 ]
