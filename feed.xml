@@ -7,6 +7,26 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>DeepSeek V4 Pro beats GPT-5.5 Pro on precision</title>
+      <link>https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision</link>
+      <description>DeepSeek V4 Pro wins this head-to-head by being more exact where it matters: following instructions, matching schemas, and solving edge cases cleanly. GPT-5.5 Pro is still strong, but it gave away points with avoidable deviations.</description>
+      <author> (RuntimeWire)</author>
+      <category>ai</category>
+      <category>apple</category>
+      <category>javascript</category>
+      <category>python</category>
+      <guid>https://runtimewire.com/article/deepseek-v4-pro-beats-gpt-5-5-pro-on-precision</guid>
+      <pubDate>Mon, 08 Jun 2026 11:02:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Dopamine Fracking</title>
+      <link>https://igerman.cc/blog/dopamine-fracking/</link>
+      <description>The act of pumping immense, disproportionate resources into a previously casual or complex and layered activity to forcefully extract and squeeze out the purest, most concentrated dopamine hit</description>
+      <category>ai</category>
+      <guid>https://igerman.cc/blog/dopamine-fracking/</guid>
+      <pubDate>Mon, 08 Jun 2026 11:02:09 GMT</pubDate>
+    </item>
+    <item>
       <title>How's Linear so fast? A technical breakdown</title>
       <link>https://performance.dev/how-is-linear-so-fast-a-technical-breakdown</link>
       <description> breakdown of the architecture behind Linear's speed: local-first sync, MobX observables, instant first loads, and a keyboard-first design.</description>
