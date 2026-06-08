@@ -1,5 +1,53 @@
 [
   {
+    "Title": "Music Decoy - Stop launching the Music app whenever you press ▶ Play",
+    "Url": "https://lowtechguys.com/musicdecoy/",
+    "Timestamp": "2026-06-08T23:03:07",
+    "Domain": "lowtechguys.com",
+    "Description": "Stop launching the Music app whenever you press ▶ Play",
+    "Confidence": 0.9948616
+  },
+  {
+    "Title": "AI Is Slowing Down",
+    "Url": "https://www.wheresyoured.at/ai-is-slowing-down/",
+    "Timestamp": "2026-06-08T23:03:03",
+    "Domain": "www.wheresyoured.at",
+    "Description": "If you liked this piece, you should subscribe to my premium newsletter. It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words, including vast, detailed analyses of NVIDIA, Anthropic and OpenAI’s",
+    "Confidence": 0.9225768
+  },
+  {
+    "Title": "Nostalgia Content",
+    "Url": "https://xkcd.com/3256/",
+    "Timestamp": "2026-06-08T23:02:59",
+    "Domain": "xkcd.com",
+    "Description": "",
+    "Confidence": 0.98151064
+  },
+  {
+    "Title": "Apple Intelligence and Siri",
+    "Url": "https://www.apple.com/apple-intelligence/",
+    "Timestamp": "2026-06-08T23:02:56",
+    "Domain": "www.apple.com",
+    "Description": "Next-generation Apple Intelligence and Siri AI bring helpful features to iOS 27, iPadOS 27, macOS Golden Gate, watchOS 27, and visionOS 27.",
+    "Confidence": 0.9207898
+  },
+  {
+    "Title": "xAI is looking more like a datacentre REIT than a frontier lab",
+    "Url": "https://martinalderson.com/posts/xais-new-rental-business/",
+    "Timestamp": "2026-06-08T23:02:48",
+    "Domain": "martinalderson.com",
+    "Description": "xAI is renting huge amounts of GPU capacity to Anthropic and Google. Financial engineering ahead of the SpaceX IPO, a real compute shortage, or a genuine datacentre advantage? Probably all three.",
+    "Confidence": 0.91131043
+  },
+  {
+    "Title": "Apple Reveals New AI Architecture Built Around Google Gemini Models",
+    "Url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+    "Timestamp": "2026-06-08T23:02:43",
+    "Domain": "www.macrumors.com",
+    "Description": "Apple today announced a major overhaul of its Apple Intelligence platform, revealing a new architecture built on foundation models developed in collaboration with Google using the technologies behind the Gemini family. The new architecture centers on Apple Foundation Models co-developed with Google, which Apple says are adapted to run both on-device and on servers through its existing Private Cloud Compute infrastructure.",
+    "Confidence": 0.8283557
+  },
+  {
     "Title": "Xiaomi MiMo, Explore and Love",
     "Url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
     "Timestamp": "2026-06-08T19:02:58",
@@ -54,149 +102,5 @@
     "Domain": "xeiaso.net",
     "Description": "Kefka is a Go-native shell sandbox with coreutils, Python via WebAssembly, and more. Learn the works of madness that went into making this happen!",
     "Confidence": 0.99649173
-  },
-  {
-    "Title": "Best explanations of how LLMs work",
-    "Url": "https://vorushin.github.io/blog/best-explanations-llms",
-    "Timestamp": "2026-06-07T23:03:22",
-    "Domain": "vorushin.github.io",
-    "Description": "I maintain a set of best explanations1 of how LLMs train and work. “LLMs” here is a broad term for the frontier models that create value in 2026. They have more components than just a language model, but powerful language models are their necessary core. Universal explainers Considering: humans are universal explainers (Deutsch) - they use creativity to explain the world. Conjecture: LLMs are universal explainers on a non-biological substrate. That’s the opposite of the claim that LLMs are stochastic parrots - that they only imitate, without understanding or creating new knowledge. Creativity Creativity in humans Evolved to understand complex…",
-    "Confidence": 0.9671563
-  },
-  {
-    "Title": "5 things to lighten dependency on web apps",
-    "Url": "https://inavoyage.blogspot.com/2026/06/5-things-to-lighten-dependency-on-web.html",
-    "Timestamp": "2026-06-07T23:03:19",
-    "Domain": "inavoyage.blogspot.com",
-    "Description": "If you're like me, you've grown up on desktop \"programs.\" In the late 00's, this got changed to \"apps\" because the mobile device market took...",
-    "Confidence": 0.9598231
-  },
-  {
-    "Title": "My Automated Doubt Development Process",
-    "Url": "https://www.alexself.dev/blog/automated-doubt",
-    "Timestamp": "2026-06-07T23:03:14",
-    "Domain": "www.alexself.dev",
-    "Description": "How front-loading scrutiny through multi-agent validation rebuilt trust in AI-assisted development.",
-    "Confidence": 0.98479325
-  },
-  {
-    "Title": "Getting Fried Part 1: The Week I Lost the Plot at Cogentiv.ai",
-    "Url": "https://nlkw.de/en/blog/getting-fried-part-1-cogentiv/",
-    "Timestamp": "2026-06-07T23:03:11",
-    "Domain": "nlkw.de",
-    "Description": "Fiction. A week at a fictional Berlin AI startup where the tools work exactly as advertised and something is nonetheless going wrong. Companion piece to the vocabulary post; margin notes in brackets map to terms in the cheat sheet.",
-    "Confidence": 0.71781397
-  },
-  {
-    "Title": "Tokens and Tokenization",
-    "Url": "https://bearisland.dev/posts/tokens-and-tokenization/",
-    "Timestamp": "2026-06-07T23:03:07",
-    "Domain": "bearisland.dev",
-    "Description": "How LLMs split text into tokens, the BPE algorithm, and why 'strawberry' has 3 r's the model can't see.",
-    "Confidence": 0.9874295
-  },
-  {
-    "Title": "The best relationships",
-    "Url": "https://andys.blog/the-best-relationships/",
-    "Timestamp": "2026-06-07T23:03:03",
-    "Domain": "andys.blog",
-    "Description": "are all-encompassing.\n\nI truly mean that.\n\nIt's hard to grasp what that means.\n\nALL is a huge little word. Encompassing everything seems impossible. And yet, with Alexandra, this seems to be occurring. And with others to a lesser extent but Alex highlights the impact best.\n\nSpecifically to me, it appears",
-    "Confidence": 0.7438145
-  },
-  {
-    "Title": "Doing nothing at work",
-    "Url": "https://www.seangoedecke.com/doing-nothing-at-work/",
-    "Timestamp": "2026-06-07T23:03:00",
-    "Domain": "www.seangoedecke.com",
-    "Description": "Many engineers should be doing less work. I don’t necessarily mean producing less code or fewer changes, but literally working fewer hours in the day. When they do work, they should be working at a slower pace. I like to aim to be running at 80% utilization by default: unless I have a high-pressure project going on, I spend 20% of my workday away from the computer.",
-    "Confidence": 0.98833936
-  },
-  {
-    "Title": "Thinking Like a Harness Engineer",
-    "Url": "https://killianc.com/thinking-like-a-harness-engineer/",
-    "Timestamp": "2026-06-07T23:02:56",
-    "Domain": "killianc.com",
-    "Description": "Your job is no longer to produce the code, but to produce the system that produces the code.",
-    "Confidence": 0.99429446
-  },
-  {
-    "Title": "cps",
-    "Url": "https://remy.wang/blog/cps.html",
-    "Timestamp": "2026-06-07T23:02:53",
-    "Domain": "remy.wang",
-    "Description": "Dedicated to the Minnowbrook\nAnalytic Reasoning Seminar with special thanks to Kris Micinski and Michael Ballantyne",
-    "Confidence": 0.9947206
-  },
-  {
-    "Title": "Building from Zero After Addiction, Prison, and a Felony",
-    "Url": "https://gavinray97.github.io/blog/building-from-zero-after-addiction-prison-felony",
-    "Timestamp": "2026-06-07T23:02:50",
-    "Domain": "gavinray97.github.io",
-    "Description": "I spent ages 14-16 in a maximum-security juvenile prison, became a felon at 19, lost almost everything to addiction, and later rebuilt my life through software, open source, and a few people who took a chance on me. This is the condensed story, written for anyone wondering whether they have a future.",
-    "Confidence": 0.8815144
-  },
-  {
-    "Title": "Is grep really better than a vector DB?",
-    "Url": "https://www.zansara.dev/posts/2026-03-15-vector-dbs-vs-grep/",
-    "Timestamp": "2026-06-07T23:02:47",
-    "Domain": "www.zansara.dev",
-    "Description": "Sara Zan's Blog",
-    "Confidence": 0.9899252
-  },
-  {
-    "Title": "Why I care so much about energy per token - Ziraph blog",
-    "Url": "https://ziraph.com/blog/energy-per-token-vanity-sanity-reality",
-    "Timestamp": "2026-06-07T23:02:43",
-    "Domain": "ziraph.com",
-    "Description": "Every local AI tool prints tokens per second; none of them prints what those tokens cost. Why energy - and energy per token specifically - is the metric I built Ziraph around.",
-    "Confidence": 0.91035974
-  },
-  {
-    "Title": "We Need VAT and UBI - Wilsons Blog",
-    "Url": "https://wilsoniumite.com/2026/06/07/we-need-vat-and-ubi/",
-    "Timestamp": "2026-06-07T23:02:40",
-    "Domain": "wilsoniumite.com",
-    "Description": "There is a pretty serious gap in how the economy functions right now, has been for decades, and we have to close it. I’m not here to be all “tax the rich” even though I maybe think that’s a good idea too. I’m not here to say “free markets are amazing” even though I kinda […]",
-    "Confidence": 0.9706613
-  },
-  {
-    "Title": "Robotic Commons",
-    "Url": "https://lorenzopieri.com/robotic_commons/",
-    "Timestamp": "2026-06-07T23:02:35",
-    "Domain": "lorenzopieri.com",
-    "Description": "When robots take over jobs, who decides what they do?    Robotics, AI and post-labour economics are often feared because they undermine the bargaining power of workers. If people earn income mainly by selling labour, then a world that needs less labour can become a world where most people lose power. The key point is: who owns the robots? Who decides what the robots will do?  I argue that robots that benefit and obey society at large are economically dominant and game-theoretically favoured. The end-game will be autonomous companies where AI handles management, robots handle production and logistics, and surplus is automatically reinvested or distributed according to a public charter. A fitting name for such companies is Robotic Commons, drawing from the concept of commons in economics.    This post is a followup of this post, where I explored the formulation of Robotic Commons as Decentralised Autonomous Organisations.  To answer the initial questions: while Robotic Commons specialised in basic human needs might become ownerless, similarly to global commons like international waters, air and space, others will remain publicly/privately owned. Their core feature of Robotic Commons is programmatically following the will of the majority (how to encode the will into a coherent set of instructions is a problem in itself of course, out of scope for this blog).  The argument is quite simple and divided in 3 steps: 1. Autonomous companies are likely to arise 2. Altruistic autonomous companies will undercut profit-seeking autonomous companies, making Robotic Commons dominant 3. Therefore we end up with Robotic Commons.  The Birth of Autonomous Companies  Private firms already have strong incentives to automate. Automation lowers labour costs, increases speed, reduces coordination costs, and gives owners more control over production. As AI improves, the logical endpoint is companies where AI systems perform much of the managerial function directly: planning, procurement, pricing, logistics, maintenance, customer support, forecasting and capital allocation. At the same time, robotics take over physical tasks: production, transport, warehousing, inspection, repair, cleaning, construction and resource extraction. The result is autonomous companies: productive systems that require little human labour and little human management.  At first, these will be privately owned. Capital will use automation to reduce its dependence on labour and firms that do so will outcompete firms that don’t.  Robotic Commons Domination  If an autonomous company can run itself, why should its surplus go to private shareholders rather than to the people it serves?  A private autonomous company must generate returns for shareholders. It is structurally engineered to charge as much as the market allows and to defend its margins. Robotic Commons do not need to extract profit for outside owners. It can provide the same good or service closer to cost. Any surplus can be reinvested into lower prices, better service, resilience, expansion, or direct user benefits.  This gives Robotic Commons a structural advantage in mature, essential, or commodity-like sectors. If the product is standardized and the technology is available, then the firm that does not need to extract profit can offer better terms to users. They will also spend less on marketing and sales. A private firm must constantly persuade customers that its product is worth buying and that its margins are justified. Robotic Commons can align users and beneficiaries: people use the service because they directly benefit from its efficiency.  This does not mean Robotic Commons are superior in every context. Private firms will still have some advantages in early-stage innovation, risky research, luxury goods, brand-driven markets or sectors where consumer preferences are highly diverse. But once autonomous production is technically mature, Robotic Commons have a clear advantage in sectors where people mainly want reliable, cheap, universal provision: water, energy, food staples, housing components, transport, healthcare, basic manufacturing and digital infrastructure. Some Robotic Commons will take on robotic & AI research, creating a self-improving loop.  The first Robotic Common  Private incumbents will not give up profitable ownership structures right away. They may resist Robotic Commons through lobbying, regulation, platform control, exclusive supply chains and control over compute. So the first successful Robotic Commons may not come from a dominant incumbent. It may come from a state, foundation, public-benefit company, startup, philanthropic organisation or a coalition of users.  But once one credible Robotic Common exists, it changes the game. The first actor to create a working non-extractive autonomous provider can capture trust, demand and legitimacy. Others then have to respond.  Then incumbents face a prisoner’s dilemma. Collectively, they would prefer to preserve the existing profit-seeking ownership model. Individually, however, each has an incentive to defect: to launch its own Robotic Common, reposition itself as a service provider and capture the new market before someone else does. Once one incumbent defects, the pressure on the others increases. The result is a competitive race toward Robotic Commons rather than a stable cartel of private ownership.  Outro  Even though I am optimistic about the destination, the path we take matters. As a society, we should aim to reach it quickly, deliberately and with as little collateral damage as possible.  I am excited about Robotic Commons, and I look forward to starting one.  Check here and here for other posts about post-labour economics.",
-    "Confidence": 0.9843882
-  },
-  {
-    "Title": "The User Doesn't Care - But you should",
-    "Url": "https://lewiscampbell.tech/blog/260607.html",
-    "Timestamp": "2026-06-07T23:02:31",
-    "Domain": "lewiscampbell.tech",
-    "Description": "Debunking one of the most poisonous myths in programming.",
-    "Confidence": 0.94089746
-  },
-  {
-    "Title": "Why add an agent skill to a CLI that already has a context command?",
-    "Url": "https://www.andreagrandi.it/posts/why-add-agent-skill-cli-context-command/",
-    "Timestamp": "2026-06-07T23:02:27",
-    "Domain": "www.andreagrandi.it",
-    "Description": "logbasset already self-documents for agents through a context command, so why add an installable agent skill on top? Because self-documentation and discovery are two different problems.",
-    "Confidence": 0.9843685
-  },
-  {
-    "Title": "Using OpenAI's Whisper to transcribe videos - byandrev",
-    "Url": "https://byandrev.dev/en/blog/using-whisper-to-transcribe-videos/",
-    "Timestamp": "2026-06-07T23:02:24",
-    "Domain": "byandrev.dev",
-    "Description": "Whisper is OpenAI's artificial intelligence tool that has revolutionized audio and video transcription. In this guide, you will learn how to install this open-source system on your PC or integrate it using its API to automatically generate subtitles (SRT/VTT).",
-    "Confidence": 0.9943068
-  },
-  {
-    "Title": "Riflessioni per il futuro",
-    "Url": "https://andreaturchet.github.io/blog/riflessioni_sri.html?lang=en",
-    "Timestamp": "2026-06-07T23:02:20",
-    "Domain": "andreaturchet.github.io",
-    "Description": "Cosa accade quando l'intelligenza smette di essere lenta come noi, mentre la vita continua inevitabilmente a esserlo?",
-    "Confidence": 0.98029876
   }
 ]

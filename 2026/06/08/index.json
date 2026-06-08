@@ -1,5 +1,47 @@
 [
   {
+    "Title": "Music Decoy - Stop launching the Music app whenever you press ▶ Play",
+    "Url": "https://lowtechguys.com/musicdecoy/",
+    "Timestamp": "2026-06-08T23:03:07",
+    "Domain": "lowtechguys.com",
+    "Description": "Stop launching the Music app whenever you press ▶ Play"
+  },
+  {
+    "Title": "AI Is Slowing Down",
+    "Url": "https://www.wheresyoured.at/ai-is-slowing-down/",
+    "Timestamp": "2026-06-08T23:03:03",
+    "Domain": "www.wheresyoured.at",
+    "Description": "If you liked this piece, you should subscribe to my premium newsletter. It’s $70 a year, or $7 a month, and in return you get a weekly newsletter that’s usually anywhere from 5,000 to 18,000 words, including vast, detailed analyses of NVIDIA, Anthropic and OpenAI’s"
+  },
+  {
+    "Title": "Nostalgia Content",
+    "Url": "https://xkcd.com/3256/",
+    "Timestamp": "2026-06-08T23:02:59",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "Apple Intelligence and Siri",
+    "Url": "https://www.apple.com/apple-intelligence/",
+    "Timestamp": "2026-06-08T23:02:56",
+    "Domain": "www.apple.com",
+    "Description": "Next-generation Apple Intelligence and Siri AI bring helpful features to iOS 27, iPadOS 27, macOS Golden Gate, watchOS 27, and visionOS 27."
+  },
+  {
+    "Title": "xAI is looking more like a datacentre REIT than a frontier lab",
+    "Url": "https://martinalderson.com/posts/xais-new-rental-business/",
+    "Timestamp": "2026-06-08T23:02:48",
+    "Domain": "martinalderson.com",
+    "Description": "xAI is renting huge amounts of GPU capacity to Anthropic and Google. Financial engineering ahead of the SpaceX IPO, a real compute shortage, or a genuine datacentre advantage? Probably all three."
+  },
+  {
+    "Title": "Apple Reveals New AI Architecture Built Around Google Gemini Models",
+    "Url": "https://www.macrumors.com/2026/06/08/apple-reveals-new-ai-architecture/",
+    "Timestamp": "2026-06-08T23:02:43",
+    "Domain": "www.macrumors.com",
+    "Description": "Apple today announced a major overhaul of its Apple Intelligence platform, revealing a new architecture built on foundation models developed in collaboration with Google using the technologies behind the Gemini family. The new architecture centers on Apple Foundation Models co-developed with Google, which Apple says are adapted to run both on-device and on servers through its existing Private Cloud Compute infrastructure."
+  },
+  {
     "Title": "Xiaomi MiMo, Explore and Love",
     "Url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
     "Timestamp": "2026-06-08T19:02:58",
