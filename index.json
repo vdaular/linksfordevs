@@ -1,5 +1,149 @@
 [
   {
+    "Title": "Nick Launches Week 5 Recap: When Is It Actually Ready to Launch?",
+    "Url": "https://nicklaunches.com/blog/week-5-recap-june-07-2026/",
+    "Timestamp": "2026-06-09T03:03:59",
+    "Domain": "nicklaunches.com",
+    "Description": "Week 5 on Nick Launches: founders on launch timing and why you'll never feel ready, a featured builder, a reciprocal shoutout, the top launches, the numbers, and what's next.",
+    "Confidence": 0.9080984
+  },
+  {
+    "Title": "Confidential submission of draft S-1 to the SEC",
+    "Url": "https://openai.com/index/openai-submits-confidential-s-1/",
+    "Timestamp": "2026-06-09T03:03:55",
+    "Domain": "openai.com",
+    "Description": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
+    "Confidence": 0.8711949
+  },
+  {
+    "Title": "Popular initiative: ‘No to a Switzerland with 10 million! (Sustainability Initiative)’",
+    "Url": "https://www.admin.ch/en/sustainability-initiative",
+    "Timestamp": "2026-06-09T03:03:51",
+    "Domain": "www.admin.ch",
+    "Description": "On 14 June 2026, Swiss citizens will vote on the popular initiative: ‘No to a Switzerland with 10 million! (Sustainability Initiative)’.",
+    "Confidence": 0.9263517
+  },
+  {
+    "Title": "The Future Is Undecidable. Duty Is Not.",
+    "Url": "https://dhanjit.me/blog/2026-06-08-the-future-is-undecidable-duty-is-not.md/",
+    "Timestamp": "2026-06-09T03:03:48",
+    "Domain": "dhanjit.me",
+    "Description": "A follow-up to the India 2047 song essay, moving from Godel, Turing, and the halting problem toward anxiety, controllability, the Gita, Stoicism, and the old problem of duty.",
+    "Confidence": 0.98651755
+  },
+  {
+    "Title": "Joshua Hedtke",
+    "Url": "https://www.joshuahedtke.com/writing/benchmark-retention-is-not-utility-retention",
+    "Timestamp": "2026-06-09T03:03:45",
+    "Domain": "www.joshuahedtke.com",
+    "Description": "Joshua Hedtke",
+    "Confidence": 0.96225214
+  },
+  {
+    "Title": "I Reverse-Engineered Claude Code, Made It 100x Better to Use, and Built 11 Systems That Make It 40% More Efficient — Clay Nicholson",
+    "Url": "https://claynicholson.com/blog/khlawde-code",
+    "Timestamp": "2026-06-09T03:03:41",
+    "Domain": "claynicholson.com",
+    "Description": "I used the leaked Claude Code to make a coding agent which is self improving, more efficient, and a better, self-improving coder.",
+    "Confidence": 0.99305445
+  },
+  {
+    "Title": "SQL",
+    "Url": "https://remy.wang/cs143/notes/sql/sql.html",
+    "Timestamp": "2026-06-09T03:03:37",
+    "Domain": "remy.wang",
+    "Description": "SQL is the language for databases. A SQL program is\nalso called a query. Each query takes one or more tables as\ninput, and produces one table as output. A table is a collection of\nrows, where each row has the same number of columns. Each column has a\nname and a type, and stores the same type of data.",
+    "Confidence": 0.9976753
+  },
+  {
+    "Title": "Reading of OpenAI's Self-Improving Tax Agents | Daniel Olshansky",
+    "Url": "https://olshansky.info/posts/2026-06-08-reading-of-openais-self-improving-tax-agents",
+    "Timestamp": "2026-06-09T03:03:33",
+    "Domain": "olshansky.info",
+    "Description": "When I first saw the title of OpenAI’s blog, I wasn’t too excited. Here it is: Building self-improving tax agents with Codex.\nTax agents don’t sound exciting. Everything is self-improving. I got it. But this short post is a masterclass in practical, hands-on learnings on the latest tools, workflows, and approach to how to do evals for real-world use cases. It’s not just technical; it builds intuition by relying on real-world experience.\n",
+    "Confidence": 0.95844364
+  },
+  {
+    "Title": "Fixing a stuck Ollama runner and building a GPU watchdog – blog",
+    "Url": "https://patrickmccanna.net/fixing-a-stuck-ollama-runner-and-building-a-gpu-watchdog/",
+    "Timestamp": "2026-06-09T03:03:30",
+    "Domain": "patrickmccanna.net",
+    "Description": "If you self-host LLMs, at some point, you’ll likely experience a stuck GPU consuming significant electricity for long periods of time.  This is my summary of discovering the problem & then implementing automation that corrects the issue.  I want automation to discover & correct these issues.  I don’t want to be the first line of defense against unnecessary electricity consumption.",
+    "Confidence": 0.98658985
+  },
+  {
+    "Title": "I'm building a parallel internet, and it's called The Thinnernet",
+    "Url": "https://inavoyage.blogspot.com/2026/06/im-building-parallel-internet-and-its.html",
+    "Timestamp": "2026-06-09T03:03:26",
+    "Domain": "inavoyage.blogspot.com",
+    "Description": "                Since 2020, I've taken on a Steve Jobs alter-ego (on a very, very  part time basis, and often for humor purposes ). The firs...",
+    "Confidence": 0.9571651
+  },
+  {
+    "Title": "The Data Center Bankshot",
+    "Url": "https://davekarpf.beehiiv.com/p/the-data-center-bankshot",
+    "Timestamp": "2026-06-09T03:03:19",
+    "Domain": "davekarpf.beehiiv.com",
+    "Description": "The ",
+    "Confidence": 0.9111534
+  },
+  {
+    "Title": "invlpg – Premature Optimization is Fun Sometimes",
+    "Url": "https://invlpg.com/posts/2025-06-19-premature-optimization.html",
+    "Timestamp": "2026-06-09T03:03:15",
+    "Domain": "invlpg.com",
+    "Description": "A colleague of mine was recently discussing a connectivity monitoring\nsystem he is working on with me. It’s nothing fancy, just sending ICMP\nEcho Requests to a couple of different servers, and monitoring latency\nand dropped packet averages over 1-minute, 5-minute, and 15-minute\nperiods. Up came the topic of how this data should be stored, the\nnatural thought was a 512 entry ring buffer, containing entries like the\nfollowing:",
+    "Confidence": 0.9807828
+  },
+  {
+    "Title": "Etherean to Crypto Moderate, Part 1: Excitement",
+    "Url": "https://cstein.xyz/posts/2026/4/28/crypto_evolution_part1",
+    "Timestamp": "2026-06-09T03:03:10",
+    "Domain": "cstein.xyz",
+    "Description": "2026 Apr 28 \nSee all posts",
+    "Confidence": 0.7382029
+  },
+  {
+    "Title": "The process was the point",
+    "Url": "https://darshanmakwana412.github.io/2026/06/the-process-was-the-point/",
+    "Timestamp": "2026-06-09T03:03:02",
+    "Domain": "darshanmakwana412.github.io",
+    "Description": "I have been feeling that I am not enjoying the process lately, I am not having fun while I am working, previously I used to think about the problems even on weekends while out with friends, because they were my problems and I used to own them end to end, solving the problems then was not at all work for me, it was just me playing around with them and having fun, I used to write blogs and good documentation by hand because I throughly enjoyed writing it, it wasn’t for someone else to understand it or for any LLM to read infact it was just for me, to deepen and find gaps in my own understanding, these things are even though simple and naive, they worked out for me, it is by this process that I acquired taste and improved my ability to articulate my thoughts and helped me reduce my stuttering. It helped me land opportunities which I was never aiming for because all I was doing was just having fun. Now when I find myself spending the day managing claude and codex sessions I feel like I am depriving myself of this process which made me who I am",
+    "Confidence": 0.88175285
+  },
+  {
+    "Title": "Performance mantras",
+    "Url": "https://hazn.com/performance-mantras",
+    "Timestamp": "2026-06-09T03:02:59",
+    "Domain": "hazn.com",
+    "Description": "Most advice on performance will only help you to get better incrementally. Here are some mantras I think are undervalued for true breakthroughs 🧘.",
+    "Confidence": 0.96248275
+  },
+  {
+    "Title": "The economics of speculative decoding",
+    "Url": "https://fergusfinn.com/blog/economics-of-speculative-decoding/",
+    "Timestamp": "2026-06-09T03:02:55",
+    "Domain": "fergusfinn.com",
+    "Description": "Two underexplored axes: what MoE routing does to the decode roofline, and how\ncompressed attention takes away the slack that used to make speculated tokens free.\n",
+    "Confidence": 0.98180467
+  },
+  {
+    "Title": "Making numpy-ts as fast as native — nico.codes",
+    "Url": "https://nico.codes/notes/numpyts-optimization/",
+    "Timestamp": "2026-06-09T03:02:50",
+    "Domain": "nico.codes",
+    "Description": "How numpy-ts went from 15x slower than NumPy to performance parity",
+    "Confidence": 0.9784496
+  },
+  {
+    "Title": "Cannibalism",
+    "Url": "https://b-ark.ca/2026/06/07/cannibalism.html",
+    "Timestamp": "2026-06-09T03:02:35",
+    "Domain": "b-ark.ca",
+    "Description": "For a long time the tech industry revelled in the distruption of what it saw as old, legacy industries. But now, as AI takes over tech, we’re now starting to eat our own, and it’s dark and ironic.",
+    "Confidence": 0.9293968
+  },
+  {
     "Title": "Music Decoy - Stop launching the Music app whenever you press ▶ Play",
     "Url": "https://lowtechguys.com/musicdecoy/",
     "Timestamp": "2026-06-08T23:03:07",
@@ -86,21 +230,5 @@
     "Domain": "igerman.cc",
     "Description": "The act of pumping immense, disproportionate resources into a previously casual or complex and layered activity to forcefully extract and squeeze out the purest, most concentrated dopamine hit",
     "Confidence": 0.96308464
-  },
-  {
-    "Title": "How's Linear so fast? A technical breakdown",
-    "Url": "https://performance.dev/how-is-linear-so-fast-a-technical-breakdown",
-    "Timestamp": "2026-06-08T03:02:19",
-    "Domain": "performance.dev",
-    "Description": " breakdown of the architecture behind Linear's speed: local-first sync, MobX observables, instant first loads, and a keyboard-first design.",
-    "Confidence": 0.9950883
-  },
-  {
-    "Title": "Dancing mad with sandboxing",
-    "Url": "https://xeiaso.net/blog/2026/dancing-mad-sandboxing/",
-    "Timestamp": "2026-06-08T03:02:15",
-    "Domain": "xeiaso.net",
-    "Description": "Kefka is a Go-native shell sandbox with coreutils, Python via WebAssembly, and more. Learn the works of madness that went into making this happen!",
-    "Confidence": 0.99649173
   }
 ]

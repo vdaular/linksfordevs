@@ -7,6 +7,176 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Nick Launches Week 5 Recap: When Is It Actually Ready to Launch?</title>
+      <link>https://nicklaunches.com/blog/week-5-recap-june-07-2026/</link>
+      <description>Week 5 on Nick Launches: founders on launch timing and why you'll never feel ready, a featured builder, a reciprocal shoutout, the top launches, the numbers, and what's next.</description>
+      <author> (Nick Launches)</author>
+      <category>ai</category>
+      <guid>https://nicklaunches.com/blog/week-5-recap-june-07-2026/</guid>
+      <pubDate>Tue, 09 Jun 2026 03:03:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Confidential submission of draft S-1 to the SEC</title>
+      <link>https://openai.com/index/openai-submits-confidential-s-1/</link>
+      <description>OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.</description>
+      <category>ai</category>
+      <guid>https://openai.com/index/openai-submits-confidential-s-1/</guid>
+      <pubDate>Tue, 09 Jun 2026 03:03:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Popular initiative: ‘No to a Switzerland with 10 million! (Sustainability Initiative)’</title>
+      <link>https://www.admin.ch/en/sustainability-initiative</link>
+      <description>On 14 June 2026, Swiss citizens will vote on the popular initiative: ‘No to a Switzerland with 10 million! (Sustainability Initiative)’.</description>
+      <guid>https://www.admin.ch/en/sustainability-initiative</guid>
+      <pubDate>Tue, 09 Jun 2026 03:03:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Future Is Undecidable. Duty Is Not.</title>
+      <link>https://dhanjit.me/blog/2026-06-08-the-future-is-undecidable-duty-is-not.md/</link>
+      <description>A follow-up to the India 2047 song essay, moving from Godel, Turing, and the halting problem toward anxiety, controllability, the Gita, Stoicism, and the old problem of duty.</description>
+      <category>git</category>
+      <guid>https://dhanjit.me/blog/2026-06-08-the-future-is-undecidable-duty-is-not.md/</guid>
+      <pubDate>Tue, 09 Jun 2026 03:03:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Joshua Hedtke</title>
+      <link>https://www.joshuahedtke.com/writing/benchmark-retention-is-not-utility-retention</link>
+      <description>Joshua Hedtke</description>
+      <category>dotnet</category>
+      <guid>https://www.joshuahedtke.com/writing/benchmark-retention-is-not-utility-retention</guid>
+      <pubDate>Tue, 09 Jun 2026 03:03:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>I Reverse-Engineered Claude Code, Made It 100x Better to Use, and Built 11 Systems That Make It 40% More Efficient — Clay Nicholson</title>
+      <link>https://claynicholson.com/blog/khlawde-code</link>
+      <description>I used the leaked Claude Code to make a coding agent which is self improving, more efficient, and a better, self-improving coder.</description>
+      <category>ai</category>
+      <category>git</category>
+      <category>typescript</category>
+      <category>javascript</category>
+      <guid>https://claynicholson.com/blog/khlawde-code</guid>
+      <pubDate>Tue, 09 Jun 2026 03:03:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>SQL</title>
+      <link>https://remy.wang/cs143/notes/sql/sql.html</link>
+      <description>SQL is the language for databases. A SQL program is
+also called a query. Each query takes one or more tables as
+input, and produces one table as output. A table is a collection of
+rows, where each row has the same number of columns. Each column has a
+name and a type, and stores the same type of data.</description>
+      <category>database</category>
+      <guid>https://remy.wang/cs143/notes/sql/sql.html</guid>
+      <pubDate>Tue, 09 Jun 2026 03:03:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reading of OpenAI's Self-Improving Tax Agents | Daniel Olshansky</title>
+      <link>https://olshansky.info/posts/2026-06-08-reading-of-openais-self-improving-tax-agents</link>
+      <description>When I first saw the title of OpenAI’s blog, I wasn’t too excited. Here it is: Building self-improving tax agents with Codex.
+Tax agents don’t sound exciting. Everything is self-improving. I got it. But this short post is a masterclass in practical, hands-on learnings on the latest tools, workflows, and approach to how to do evals for real-world use cases. It’s not just technical; it builds intuition by relying on real-world experience.
+</description>
+      <author> (Daniel Olshansky)</author>
+      <category>cloud</category>
+      <category>ai</category>
+      <guid>https://olshansky.info/posts/2026-06-08-reading-of-openais-self-improving-tax-agents</guid>
+      <pubDate>Tue, 09 Jun 2026 03:03:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fixing a stuck Ollama runner and building a GPU watchdog – blog</title>
+      <link>https://patrickmccanna.net/fixing-a-stuck-ollama-runner-and-building-a-gpu-watchdog/</link>
+      <description>If you self-host LLMs, at some point, you’ll likely experience a stuck GPU consuming significant electricity for long periods of time.  This is my summary of discovering the problem &amp; then implementing automation that corrects the issue.  I want automation to discover &amp; correct these issues.  I don’t want to be the first line of defense against unnecessary electricity consumption.</description>
+      <category>ai</category>
+      <guid>https://patrickmccanna.net/fixing-a-stuck-ollama-runner-and-building-a-gpu-watchdog/</guid>
+      <pubDate>Tue, 09 Jun 2026 03:03:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>I'm building a parallel internet, and it's called The Thinnernet</title>
+      <link>https://inavoyage.blogspot.com/2026/06/im-building-parallel-internet-and-its.html</link>
+      <description>                Since 2020, I've taken on a Steve Jobs alter-ego (on a very, very  part time basis, and often for humor purposes ). The firs...</description>
+      <category>javascript</category>
+      <category>web</category>
+      <guid>https://inavoyage.blogspot.com/2026/06/im-building-parallel-internet-and-its.html</guid>
+      <pubDate>Tue, 09 Jun 2026 03:03:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Data Center Bankshot</title>
+      <link>https://davekarpf.beehiiv.com/p/the-data-center-bankshot</link>
+      <description>The </description>
+      <category>ai</category>
+      <guid>https://davekarpf.beehiiv.com/p/the-data-center-bankshot</guid>
+      <pubDate>Tue, 09 Jun 2026 03:03:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>invlpg – Premature Optimization is Fun Sometimes</title>
+      <link>https://invlpg.com/posts/2025-06-19-premature-optimization.html</link>
+      <description>A colleague of mine was recently discussing a connectivity monitoring
+system he is working on with me. It’s nothing fancy, just sending ICMP
+Echo Requests to a couple of different servers, and monitoring latency
+and dropped packet averages over 1-minute, 5-minute, and 15-minute
+periods. Up came the topic of how this data should be stored, the
+natural thought was a 512 entry ring buffer, containing entries like the
+following:</description>
+      <category>linux</category>
+      <guid>https://invlpg.com/posts/2025-06-19-premature-optimization.html</guid>
+      <pubDate>Tue, 09 Jun 2026 03:03:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Etherean to Crypto Moderate, Part 1: Excitement</title>
+      <link>https://cstein.xyz/posts/2026/4/28/crypto_evolution_part1</link>
+      <description>2026 Apr 28 
+See all posts</description>
+      <category>ai</category>
+      <guid>https://cstein.xyz/posts/2026/4/28/crypto_evolution_part1</guid>
+      <pubDate>Tue, 09 Jun 2026 03:03:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>The process was the point</title>
+      <link>https://darshanmakwana412.github.io/2026/06/the-process-was-the-point/</link>
+      <description>I have been feeling that I am not enjoying the process lately, I am not having fun while I am working, previously I used to think about the problems even on weekends while out with friends, because they were my problems and I used to own them end to end, solving the problems then was not at all work for me, it was just me playing around with them and having fun, I used to write blogs and good documentation by hand because I throughly enjoyed writing it, it wasn’t for someone else to understand it or for any LLM to read infact it was just for me, to deepen and find gaps in my own understanding, these things are even though simple and naive, they worked out for me, it is by this process that I acquired taste and improved my ability to articulate my thoughts and helped me reduce my stuttering. It helped me land opportunities which I was never aiming for because all I was doing was just having fun. Now when I find myself spending the day managing claude and codex sessions I feel like I am depriving myself of this process which made me who I am</description>
+      <category>ai</category>
+      <guid>https://darshanmakwana412.github.io/2026/06/the-process-was-the-point/</guid>
+      <pubDate>Tue, 09 Jun 2026 03:03:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Performance mantras</title>
+      <link>https://hazn.com/performance-mantras</link>
+      <description>Most advice on performance will only help you to get better incrementally. Here are some mantras I think are undervalued for true breakthroughs 🧘.</description>
+      <guid>https://hazn.com/performance-mantras</guid>
+      <pubDate>Tue, 09 Jun 2026 03:02:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>The economics of speculative decoding</title>
+      <link>https://fergusfinn.com/blog/economics-of-speculative-decoding/</link>
+      <description>Two underexplored axes: what MoE routing does to the decode roofline, and how
+compressed attention takes away the slack that used to make speculated tokens free.
+</description>
+      <category>ai</category>
+      <category>dotnet</category>
+      <guid>https://fergusfinn.com/blog/economics-of-speculative-decoding/</guid>
+      <pubDate>Tue, 09 Jun 2026 03:02:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Making numpy-ts as fast as native — nico.codes</title>
+      <link>https://nico.codes/notes/numpyts-optimization/</link>
+      <description>How numpy-ts went from 15x slower than NumPy to performance parity</description>
+      <author> (Nicolas Dupont)</author>
+      <category>typescript</category>
+      <category>rust</category>
+      <category>web</category>
+      <category>javascript</category>
+      <category>python</category>
+      <guid>https://nico.codes/notes/numpyts-optimization/</guid>
+      <pubDate>Tue, 09 Jun 2026 03:02:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cannibalism</title>
+      <link>https://b-ark.ca/2026/06/07/cannibalism.html</link>
+      <description>For a long time the tech industry revelled in the distruption of what it saw as old, legacy industries. But now, as AI takes over tech, we’re now starting to eat our own, and it’s dark and ironic.</description>
+      <category>ai</category>
+      <guid>https://b-ark.ca/2026/06/07/cannibalism.html</guid>
+      <pubDate>Tue, 09 Jun 2026 03:02:35 GMT</pubDate>
+    </item>
+    <item>
       <title>Music Decoy - Stop launching the Music app whenever you press ▶ Play</title>
       <link>https://lowtechguys.com/musicdecoy/</link>
       <description>Stop launching the Music app whenever you press ▶ Play</description>
@@ -106,30 +276,6 @@
       <category>ai</category>
       <guid>https://igerman.cc/blog/dopamine-fracking/</guid>
       <pubDate>Mon, 08 Jun 2026 11:02:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>How's Linear so fast? A technical breakdown</title>
-      <link>https://performance.dev/how-is-linear-so-fast-a-technical-breakdown</link>
-      <description> breakdown of the architecture behind Linear's speed: local-first sync, MobX observables, instant first loads, and a keyboard-first design.</description>
-      <category>cloud</category>
-      <category>javascript</category>
-      <category>typescript</category>
-      <category>web</category>
-      <category>apple</category>
-      <guid>https://performance.dev/how-is-linear-so-fast-a-technical-breakdown</guid>
-      <pubDate>Mon, 08 Jun 2026 03:02:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Dancing mad with sandboxing</title>
-      <link>https://xeiaso.net/blog/2026/dancing-mad-sandboxing/</link>
-      <description>Kefka is a Go-native shell sandbox with coreutils, Python via WebAssembly, and more. Learn the works of madness that went into making this happen!</description>
-      <category>web</category>
-      <category>python</category>
-      <category>gaming</category>
-      <category>conference</category>
-      <category>linux</category>
-      <guid>https://xeiaso.net/blog/2026/dancing-mad-sandboxing/</guid>
-      <pubDate>Mon, 08 Jun 2026 03:02:15 GMT</pubDate>
     </item>
   </channel>
 </rss>
