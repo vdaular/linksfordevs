@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Claude Fable 5 and Claude Mythos 5",
+    "Url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+    "Timestamp": "2026-06-09T19:02:28",
+    "Domain": "www.anthropic.com",
+    "Description": "Today we’re launching Claude Fable 5: a Mythos-class model that we’ve made safe for general use.",
+    "Confidence": 0.9556186
+  },
+  {
     "Title": "GitHub - luke8086/gentleos32: Hobby operating system for vintage 32-bit PCs",
     "Url": "https://github.com/luke8086/gentleos32",
     "Timestamp": "2026-06-09T15:02:25",
@@ -222,21 +230,5 @@
     "Domain": "www.macrumors.com",
     "Description": "Apple today announced a major overhaul of its Apple Intelligence platform, revealing a new architecture built on foundation models developed in collaboration with Google using the technologies behind the Gemini family. The new architecture centers on Apple Foundation Models co-developed with Google, which Apple says are adapted to run both on-device and on servers through its existing Private Cloud Compute infrastructure.",
     "Confidence": 0.8283557
-  },
-  {
-    "Title": "Xiaomi MiMo, Explore and Love",
-    "Url": "https://mimo.xiaomi.com/blog/mimo-tilert-1000tps",
-    "Timestamp": "2026-06-08T19:02:58",
-    "Domain": "mimo.xiaomi.com",
-    "Description": "MiMo, in collaboration with TileRT, releases the UltraSpeed mode of Xiaomi MiMo-V2.5-Pro — breaking 1000 tokens/s generation speed on a 1T-parameter model for the first time on commodity GPUs through extreme model-system codesign.",
-    "Confidence": 0.9747122
-  },
-  {
-    "Title": "ui | AI-native React Components",
-    "Url": "https://vorpus.github.io/performativeUI/",
-    "Timestamp": "2026-06-08T19:02:31",
-    "Domain": "vorpus.github.io",
-    "Description": "26 components · MIT licensed",
-    "Confidence": 0.94087666
   }
 ]

@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Claude Fable 5 and Claude Mythos 5",
+    "Url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
+    "Timestamp": "2026-06-09T19:02:28",
+    "Domain": "www.anthropic.com",
+    "Description": "Today we’re launching Claude Fable 5: a Mythos-class model that we’ve made safe for general use."
+  },
+  {
     "Title": "GitHub - luke8086/gentleos32: Hobby operating system for vintage 32-bit PCs",
     "Url": "https://github.com/luke8086/gentleos32",
     "Timestamp": "2026-06-09T15:02:25",
