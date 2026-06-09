@@ -1,5 +1,29 @@
 [
   {
+    "Title": "GitHub - luke8086/gentleos32: Hobby operating system for vintage 32-bit PCs",
+    "Url": "https://github.com/luke8086/gentleos32",
+    "Timestamp": "2026-06-09T15:02:25",
+    "Domain": "github.com",
+    "Description": "Hobby operating system for vintage 32-bit PCs. Contribute to luke8086/gentleos32 development by creating an account on GitHub.",
+    "Confidence": 0.89820665
+  },
+  {
+    "Title": "Microsoft's open source tools were hacked to steal passwords of AI developers | TechCrunch",
+    "Url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
+    "Timestamp": "2026-06-09T15:02:19",
+    "Domain": "techcrunch.com",
+    "Description": "Microsoft shut down dozens of GitHub code repositories for Azure and AI coding tools after a reported hack.",
+    "Confidence": 0.7553422
+  },
+  {
+    "Title": "Catlantean 3D - Making Graphics Like It's 1993",
+    "Url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
+    "Timestamp": "2026-06-09T15:02:15",
+    "Domain": "staniks.github.io",
+    "Description": "Personal website and blog.",
+    "Confidence": 0.95667464
+  },
+  {
     "Title": "Core AI | Apple Developer Documentation",
     "Url": "https://developer.apple.com/documentation/coreai/",
     "Timestamp": "2026-06-09T07:02:05",
@@ -214,13 +238,5 @@
     "Domain": "vorpus.github.io",
     "Description": "26 components · MIT licensed",
     "Confidence": 0.94087666
-  },
-  {
-    "Title": "Working with product managers",
-    "Url": "https://www.seangoedecke.com/working-with-product-managers/",
-    "Timestamp": "2026-06-08T15:02:18",
-    "Domain": "www.seangoedecke.com",
-    "Description": "The relationship engineers have with product management is more dysfunctional than with any other part of the company. There’s no shared culture or language like there is with other engineers, and the rules of “who gets to tell who what to do” aren’t as clear-cut as they are with managers. Engineers don’t have a lot in common with legal, or design, or sales, but they also don’t need to interact much with those roles. In my experience, engineers are communicating with product managers almost every single day.",
-    "Confidence": 0.9888511
   }
 ]
