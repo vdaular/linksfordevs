@@ -7,6 +7,33 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Google Chrome is killing all uBlock Origin bypasses, Microsoft Edge, Opera to follow</title>
+      <link>https://www.neowin.net/news/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow/</link>
+      <description>Google Chrome is looking to finish off the various bypasses that help uBlock Origin and other such MV2 extensions to keep functioning. Edge and Opera could soon follow too.</description>
+      <guid>https://www.neowin.net/news/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow/</guid>
+      <pubDate>Wed, 10 Jun 2026 15:02:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Mercedes‑Benz starts large‑scale production of electric axial flux motor in Berlin‑Marienfelde</title>
+      <link>https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf</link>
+      <description>Revolutionary Mercedes-Benz drive system developed in Berlin-Marienfelde High-tech manufacturing: 35 processes that are new worldwide and more than 30 patent applications Production across around...</description>
+      <category>ai</category>
+      <guid>https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf</guid>
+      <pubDate>Wed, 10 Jun 2026 15:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>How building an HTML-first site doubled our users overnight</title>
+      <link>https://mohkohn.co.uk/writing/html-first/</link>
+      <description>My client was a utility company, and they had a big problem...</description>
+      <category>gaming</category>
+      <category>javascript</category>
+      <category>web</category>
+      <category>android</category>
+      <category>dotnet</category>
+      <guid>https://mohkohn.co.uk/writing/html-first/</guid>
+      <pubDate>Wed, 10 Jun 2026 15:02:30 GMT</pubDate>
+    </item>
+    <item>
       <title>Landmark German ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers</title>
       <link>https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/</link>
       <description>A German regional court has ruled that Google is directly liable for the content of its AI search overviews. According to the court, previous limited liability protections for search engine operators don't apply to AI overviews. In this case, Google's AI had falsely linked two publishers to fraud and made claims that didn't appear in any of the linked sources. The ruling could set a precedent for AI-generated content liability worldwide.</description>
@@ -248,36 +275,6 @@ I was looking at LLM loops and thinking about how they map onto Elixir’s actor
       <category>ai</category>
       <guid>https://www.anthropic.com/news/claude-fable-5-mythos-5</guid>
       <pubDate>Tue, 09 Jun 2026 19:02:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - luke8086/gentleos32: Hobby operating system for vintage 32-bit PCs</title>
-      <link>https://github.com/luke8086/gentleos32</link>
-      <description>Hobby operating system for vintage 32-bit PCs. Contribute to luke8086/gentleos32 development by creating an account on GitHub.</description>
-      <category>git</category>
-      <guid>https://github.com/luke8086/gentleos32</guid>
-      <pubDate>Tue, 09 Jun 2026 15:02:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft's open source tools were hacked to steal passwords of AI developers | TechCrunch</title>
-      <link>https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/</link>
-      <description>Microsoft shut down dozens of GitHub code repositories for Azure and AI coding tools after a reported hack.</description>
-      <category>ai</category>
-      <category>cloud</category>
-      <category>ides</category>
-      <category>git</category>
-      <guid>https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/</guid>
-      <pubDate>Tue, 09 Jun 2026 15:02:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Catlantean 3D - Making Graphics Like It's 1993</title>
-      <link>https://staniks.github.io/articles/catlantean-3d-blog-1/</link>
-      <description>Personal website and blog.</description>
-      <category>python</category>
-      <category>ai</category>
-      <category>gaming</category>
-      <category>rust</category>
-      <guid>https://staniks.github.io/articles/catlantean-3d-blog-1/</guid>
-      <pubDate>Tue, 09 Jun 2026 15:02:15 GMT</pubDate>
     </item>
   </channel>
 </rss>

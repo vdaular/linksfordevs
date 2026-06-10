@@ -1,5 +1,29 @@
 [
   {
+    "Title": "Google Chrome is killing all uBlock Origin bypasses, Microsoft Edge, Opera to follow",
+    "Url": "https://www.neowin.net/news/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow/",
+    "Timestamp": "2026-06-10T15:02:43",
+    "Domain": "www.neowin.net",
+    "Description": "Google Chrome is looking to finish off the various bypasses that help uBlock Origin and other such MV2 extensions to keep functioning. Edge and Opera could soon follow too.",
+    "Confidence": 0.98803437
+  },
+  {
+    "Title": "Mercedes‑Benz starts large‑scale production of electric axial flux motor in Berlin‑Marienfelde",
+    "Url": "https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf",
+    "Timestamp": "2026-06-10T15:02:34",
+    "Domain": "media.mercedes-benz.com",
+    "Description": "Revolutionary Mercedes-Benz drive system developed in Berlin-Marienfelde High-tech manufacturing: 35 processes that are new worldwide and more than 30 patent applications Production across around...",
+    "Confidence": 0.9173274
+  },
+  {
+    "Title": "How building an HTML-first site doubled our users overnight",
+    "Url": "https://mohkohn.co.uk/writing/html-first/",
+    "Timestamp": "2026-06-10T15:02:30",
+    "Domain": "mohkohn.co.uk",
+    "Description": "My client was a utility company, and they had a big problem...",
+    "Confidence": 0.9488118
+  },
+  {
     "Title": "Landmark German ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers",
     "Url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
     "Timestamp": "2026-06-10T07:02:33",
@@ -206,29 +230,5 @@
     "Domain": "www.anthropic.com",
     "Description": "Today we’re launching Claude Fable 5: a Mythos-class model that we’ve made safe for general use.",
     "Confidence": 0.9556186
-  },
-  {
-    "Title": "GitHub - luke8086/gentleos32: Hobby operating system for vintage 32-bit PCs",
-    "Url": "https://github.com/luke8086/gentleos32",
-    "Timestamp": "2026-06-09T15:02:25",
-    "Domain": "github.com",
-    "Description": "Hobby operating system for vintage 32-bit PCs. Contribute to luke8086/gentleos32 development by creating an account on GitHub.",
-    "Confidence": 0.89820665
-  },
-  {
-    "Title": "Microsoft's open source tools were hacked to steal passwords of AI developers | TechCrunch",
-    "Url": "https://techcrunch.com/2026/06/08/microsofts-open-source-tools-were-hacked-to-steal-passwords-of-ai-developers/",
-    "Timestamp": "2026-06-09T15:02:19",
-    "Domain": "techcrunch.com",
-    "Description": "Microsoft shut down dozens of GitHub code repositories for Azure and AI coding tools after a reported hack.",
-    "Confidence": 0.7553422
-  },
-  {
-    "Title": "Catlantean 3D - Making Graphics Like It's 1993",
-    "Url": "https://staniks.github.io/articles/catlantean-3d-blog-1/",
-    "Timestamp": "2026-06-09T15:02:15",
-    "Domain": "staniks.github.io",
-    "Description": "Personal website and blog.",
-    "Confidence": 0.95667464
   }
 ]
