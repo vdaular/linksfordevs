@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Our funding announcement - PgDog",
+    "Url": "https://pgdog.dev/blog/our-funding-announcement",
+    "Timestamp": "2026-06-10T19:02:28",
+    "Domain": "pgdog.dev",
+    "Description": "PgDog is a connection pooler, load balancer, and sharding proxy for PostgreSQL. Scale Postgres horizontally without rewriting your application.",
+    "Confidence": 0.9749545
+  },
+  {
     "Title": "Google Chrome is killing all uBlock Origin bypasses, Microsoft Edge, Opera to follow",
     "Url": "https://www.neowin.net/news/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow/",
     "Timestamp": "2026-06-10T15:02:43",
@@ -222,13 +230,5 @@
     "Domain": "www.techdirt.com",
     "Description": "In the last three months I’ve had people forward me four separate examples of a CEO losing his or her mind over AI. What’s been striking to me is the similarity in each case: It would b…",
     "Confidence": 0.9521182
-  },
-  {
-    "Title": "Claude Fable 5 and Claude Mythos 5",
-    "Url": "https://www.anthropic.com/news/claude-fable-5-mythos-5",
-    "Timestamp": "2026-06-09T19:02:28",
-    "Domain": "www.anthropic.com",
-    "Description": "Today we’re launching Claude Fable 5: a Mythos-class model that we’ve made safe for general use.",
-    "Confidence": 0.9556186
   }
 ]

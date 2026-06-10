@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Our funding announcement - PgDog",
+    "Url": "https://pgdog.dev/blog/our-funding-announcement",
+    "Timestamp": "2026-06-10T19:02:28",
+    "Domain": "pgdog.dev",
+    "Description": "PgDog is a connection pooler, load balancer, and sharding proxy for PostgreSQL. Scale Postgres horizontally without rewriting your application."
+  },
+  {
     "Title": "Google Chrome is killing all uBlock Origin bypasses, Microsoft Edge, Opera to follow",
     "Url": "https://www.neowin.net/news/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow/",
     "Timestamp": "2026-06-10T15:02:43",
