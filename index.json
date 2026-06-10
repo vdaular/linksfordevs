@@ -1,5 +1,29 @@
 [
   {
+    "Title": "Landmark German ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers",
+    "Url": "https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/",
+    "Timestamp": "2026-06-10T07:02:33",
+    "Domain": "the-decoder.com",
+    "Description": "A German regional court has ruled that Google is directly liable for the content of its AI search overviews. According to the court, previous limited liability protections for search engine operators don't apply to AI overviews. In this case, Google's AI had falsely linked two publishers to fraud and made claims that didn't appear in any of the linked sources. The ruling could set a precedent for AI-generated content liability worldwide.",
+    "Confidence": 0.65257853
+  },
+  {
+    "Title": "Upcoming breaking changes for npm v12 - GitHub Changelog",
+    "Url": "https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/",
+    "Timestamp": "2026-06-10T07:02:25",
+    "Domain": "github.blog",
+    "Description": "Our next npm major version, v12, introduces security-related default changes to npm install. All these changes are available behind warnings in npm today on 11.16.0 or newer, so you can…",
+    "Confidence": 0.9907046
+  },
+  {
+    "Title": "container/docs/container-machine.md at main · apple/container",
+    "Url": "https://github.com/apple/container/blob/main/docs/container-machine.md",
+    "Timestamp": "2026-06-10T07:02:21",
+    "Domain": "github.com",
+    "Description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  - apple/container",
+    "Confidence": 0.9969276
+  },
+  {
     "Title": " dan—webnotes | Project starter | Lessons from a reusable web component",
     "Url": "https://dan-webnotes.com/posts/2026-06-07-lessons-reusable-web-components/",
     "Timestamp": "2026-06-10T03:03:55",
@@ -206,13 +230,5 @@
     "Domain": "staniks.github.io",
     "Description": "Personal website and blog.",
     "Confidence": 0.95667464
-  },
-  {
-    "Title": "Core AI | Apple Developer Documentation",
-    "Url": "https://developer.apple.com/documentation/coreai/",
-    "Timestamp": "2026-06-09T07:02:05",
-    "Domain": "developer.apple.com",
-    "Description": "Run AI models in your app on Apple silicon.",
-    "Confidence": 0.9981043
   }
 ]
