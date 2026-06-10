@@ -1,5 +1,173 @@
 [
   {
+    "Title": " dan—webnotes | Project starter | Lessons from a reusable web component",
+    "Url": "https://dan-webnotes.com/posts/2026-06-07-lessons-reusable-web-components/",
+    "Timestamp": "2026-06-10T03:03:55",
+    "Domain": "dan-webnotes.com",
+    "Description": "Notes from reusing a handmade web component across projects: skip the build step, publish instead of pasting, own a short namespace, theme through CSS variables, and let modern CSS adapt to context.",
+    "Confidence": 0.94054645
+  },
+  {
+    "Title": "Sami Lehtinen - Fastsync: How I Doubled rsync's Speed",
+    "Url": "https://www.sami-lehtinen.net/blog2/fastsync-how-i-doubled-rsyncs-speed",
+    "Timestamp": "2026-06-10T03:03:51",
+    "Domain": "www.sami-lehtinen.net",
+    "Description": "Writing fastsync: Why is copying files still so slow, and how I doubled rsync’s speed\nI wrote a tool called fastsync when I finally got too frustrated with rsync’s poor local copying performance.\nThis post goes through the making of the tool, the root cause I found, and why proper cache management",
+    "Confidence": 0.89850163
+  },
+  {
+    "Title": "Relocatable Derivations",
+    "Url": "https://fzakaria.com/2026/06/08/relocatable-derivations",
+    "Timestamp": "2026-06-10T03:03:47",
+    "Domain": "fzakaria.com",
+    "Description": "The earlier post on guix-transfer highlighted how we can use the tool to transfer derivations from /gnu/store to /nix/store.",
+    "Confidence": 0.96696264
+  },
+  {
+    "Title": "Don't Fuck With My .bashrc",
+    "Url": "https://fev.al/posts/dont-fuck-with-my-bashrc/",
+    "Timestamp": "2026-06-10T03:03:44",
+    "Domain": "fev.al",
+    "Description": "Everyone, to the terminal! Drop that webUI, you’re so 2024, use the terminal brah! I’m a geek! I hack stuff, I use the terminal!",
+    "Confidence": 0.9892494
+  },
+  {
+    "Title": "Why does tsgo use so much memory?",
+    "Url": "https://zackoverflow.dev/writing/why-does-tsgo-use-so-much-memory/",
+    "Timestamp": "2026-06-10T03:03:38",
+    "Domain": "zackoverflow.dev",
+    "Description": "",
+    "Confidence": 0.99214274
+  },
+  {
+    "Title": "Appreciating Exif | Brent Fitzgerald",
+    "Url": "https://brentfitzgerald.com/posts/appreciating-exif/",
+    "Timestamp": "2026-06-10T03:03:35",
+    "Domain": "brentfitzgerald.com",
+    "Description": "The '90s-era digital camera metadata format, still useful in 2026.",
+    "Confidence": 0.99203235
+  },
+  {
+    "Title": "Replace your CI with a merge queue - exe.dev blog",
+    "Url": "https://blog.exe.dev/replace-your-ci",
+    "Timestamp": "2026-06-10T03:03:32",
+    "Domain": "blog.exe.dev",
+    "Description": "Agent development means after-the-fact CI no longer works.",
+    "Confidence": 0.99173754
+  },
+  {
+    "Title": "I Built a Liquidity Sniper Bot for BNB Chain, and It Proved a Losing Game",
+    "Url": "https://e-mahmoudi.me/blog/i-built-a-liquidity-sniper-bot-for-bnb-chain-and-it-proved-a-losing-game/",
+    "Timestamp": "2026-06-10T03:03:28",
+    "Domain": "e-mahmoudi.me",
+    "Description": "I built a complete, real-time DeFi sniper bot in Go, took it live with real money on BSC, and let the data answer one honest question: can a retail bot win at sniping new token launches? It can't, and the why is more interesting than a profit chart.",
+    "Confidence": 0.96188855
+  },
+  {
+    "Title": "It used to be hard",
+    "Url": "https://www.praf.me/it-used-to-be-hard",
+    "Timestamp": "2026-06-10T03:03:22",
+    "Domain": "www.praf.me",
+    "Description": "There's this weird emotion I've been experiencing lately, that I can only seem to describe as a desire to climb on a roof and yell: \"It used to be hard!\".",
+    "Confidence": 0.9536527
+  },
+  {
+    "Title": "I read my own commits like a stranger | Egor Fedorov",
+    "Url": "https://www.egorthinks.com/blog/like-a-stranger/",
+    "Timestamp": "2026-06-10T03:03:18",
+    "Domain": "www.egorthinks.com",
+    "Description": "83% of ChatGPT users could not quote their own essay. The same started happening with my code - notes on cognitive debt from AI coding.",
+    "Confidence": 0.9705491
+  },
+  {
+    "Title": "programming a gba game on an iphone",
+    "Url": "https://blog.adamledoux.net/posts/2026-06-08-programming-a-gba-game-on-an-iphone.html",
+    "Timestamp": "2026-06-10T03:03:11",
+    "Domain": "blog.adamledoux.net",
+    "Description": "i made a short bitsylike game for gba!",
+    "Confidence": 0.9849087
+  },
+  {
+    "Title": "If Claude Fable stops helping you, you'll never know — Jonathon Ready",
+    "Url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
+    "Timestamp": "2026-06-10T03:03:08",
+    "Domain": "jonready.com",
+    "Description": "Anthropic's Claude Fable policy turns coding assistants into non-neutral infrastructure for product companies.",
+    "Confidence": 0.96896565
+  },
+  {
+    "Title": "Our first customers were the exception — Apurva Mehta",
+    "Url": "https://www.apurvamehta.com/blog/our-first-customers-were-the-exception",
+    "Timestamp": "2026-06-10T03:03:04",
+    "Domain": "www.apurvamehta.com",
+    "Description": "How a $1M+ run-rate masked a dead-end market, and why we walked away from our Kafka Streams product.",
+    "Confidence": 0.9664292
+  },
+  {
+    "Title": "Every GPS satellite is a numbers station",
+    "Url": "https://andreafortuna.org/2026/06/09/gps-numbers-station/",
+    "Timestamp": "2026-06-10T03:02:59",
+    "Domain": "andreafortuna.org",
+    "Description": "Research by Steven Murdoch of UCL suggests that GPS Subframe 4, Page 17 may have served as an OTAD-related encrypted broadcast channel for nearly two decades.",
+    "Confidence": 0.89952666
+  },
+  {
+    "Title": "On Atoms and Knowledge",
+    "Url": "https://by.ben.church/on-atoms-and-knowledge/",
+    "Timestamp": "2026-06-10T03:02:56",
+    "Domain": "by.ben.church",
+    "Description": "A note to my daughter about physics, and mostly about how to learn: find the small truths that let you rebuild everything else.",
+    "Confidence": 0.9676996
+  },
+  {
+    "Title": "I miss the climb",
+    "Url": "https://pego.dev/i-miss-the-climb/",
+    "Timestamp": "2026-06-10T03:02:50",
+    "Domain": "pego.dev",
+    "Description": "Steve Jobs once described the computer as a bicycle for the mind.\n\nI have always loved that metaphor because it captures what computers used to feel like t...",
+    "Confidence": 0.9716318
+  },
+  {
+    "Title": "Now what?",
+    "Url": "https://blog.danieljanus.pl/now-what/",
+    "Timestamp": "2026-06-10T03:02:47",
+    "Domain": "blog.danieljanus.pl",
+    "Description": "Here’s an impressive Show HN project: a comprehensive, reverse-engineered, LLM-written technical documentation of how a calculator’s operating system works. What a resource!",
+    "Confidence": 0.98368025
+  },
+  {
+    "Title": "Too Dangerous To Release (2019) – Naoki Shibuya",
+    "Url": "https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/",
+    "Timestamp": "2026-06-10T03:02:43",
+    "Domain": "naokishibuya.github.io",
+    "Description": "",
+    "Confidence": 0.95624924
+  },
+  {
+    "Title": "Skynet: Towards Synthetic Neurobiology",
+    "Url": "https://0xcc.re/2026/05/03/skynet-towards-synthetic-neurobiology.html/",
+    "Timestamp": "2026-06-10T03:02:39",
+    "Domain": "0xcc.re",
+    "Description": "The original idea was a joke.\nI was looking at LLM loops and thinking about how they map onto Elixir’s actor model — GenServers that receive messages, process them, maybe spawn new processes. The jump from “LLM reasoning step” to “GenServer handling a message” is not that far, and once you see it you can’t unsee it. What if you gave a Soul GenServer access to Code.eval_string? What if the agents could fork themselves, spawn new processes mid-reasoning, grow the supervision tree dynamically? I called it Skynet mostly because I thought it was funny.",
+    "Confidence": 0.9696185
+  },
+  {
+    "Title": "Sovereign",
+    "Url": "https://lemire.me/blog/2026/06/09/22693/",
+    "Timestamp": "2026-06-10T03:02:33",
+    "Domain": "lemire.me",
+    "Description": "The keyword in politics these days is ‘sovereign’. What few will admit is that it is effectively the adoption of the American strategy: Make America Great Again. In other words, reindustrialization of key sectors of the economy. The UK used to be a computing champion. Our chip designs (ARM) originated from the UK. Canada had … Continue reading Sovereign",
+    "Confidence": 0.94007516
+  },
+  {
+    "Title": "The Push to Solo Work",
+    "Url": "https://adrianhoward.com/posts/the-push-to-solo-work/",
+    "Timestamp": "2026-06-10T03:02:29",
+    "Domain": "adrianhoward.com",
+    "Description": "TL;DR: Some people seem to miss that collaborative tools lose their value when used by one person.",
+    "Confidence": 0.80052936
+  },
+  {
     "Title": "CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs",
     "Url": "https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/",
     "Timestamp": "2026-06-09T23:02:20",
@@ -46,149 +214,5 @@
     "Domain": "developer.apple.com",
     "Description": "Run AI models in your app on Apple silicon.",
     "Confidence": 0.9981043
-  },
-  {
-    "Title": "Nick Launches Week 5 Recap: When Is It Actually Ready to Launch?",
-    "Url": "https://nicklaunches.com/blog/week-5-recap-june-07-2026/",
-    "Timestamp": "2026-06-09T03:03:59",
-    "Domain": "nicklaunches.com",
-    "Description": "Week 5 on Nick Launches: founders on launch timing and why you'll never feel ready, a featured builder, a reciprocal shoutout, the top launches, the numbers, and what's next.",
-    "Confidence": 0.9080984
-  },
-  {
-    "Title": "Confidential submission of draft S-1 to the SEC",
-    "Url": "https://openai.com/index/openai-submits-confidential-s-1/",
-    "Timestamp": "2026-06-09T03:03:55",
-    "Domain": "openai.com",
-    "Description": "OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.",
-    "Confidence": 0.8711949
-  },
-  {
-    "Title": "Popular initiative: ‘No to a Switzerland with 10 million! (Sustainability Initiative)’",
-    "Url": "https://www.admin.ch/en/sustainability-initiative",
-    "Timestamp": "2026-06-09T03:03:51",
-    "Domain": "www.admin.ch",
-    "Description": "On 14 June 2026, Swiss citizens will vote on the popular initiative: ‘No to a Switzerland with 10 million! (Sustainability Initiative)’.",
-    "Confidence": 0.9263517
-  },
-  {
-    "Title": "The Future Is Undecidable. Duty Is Not.",
-    "Url": "https://dhanjit.me/blog/2026-06-08-the-future-is-undecidable-duty-is-not.md/",
-    "Timestamp": "2026-06-09T03:03:48",
-    "Domain": "dhanjit.me",
-    "Description": "A follow-up to the India 2047 song essay, moving from Godel, Turing, and the halting problem toward anxiety, controllability, the Gita, Stoicism, and the old problem of duty.",
-    "Confidence": 0.98651755
-  },
-  {
-    "Title": "Joshua Hedtke",
-    "Url": "https://www.joshuahedtke.com/writing/benchmark-retention-is-not-utility-retention",
-    "Timestamp": "2026-06-09T03:03:45",
-    "Domain": "www.joshuahedtke.com",
-    "Description": "Joshua Hedtke",
-    "Confidence": 0.96225214
-  },
-  {
-    "Title": "I Reverse-Engineered Claude Code, Made It 100x Better to Use, and Built 11 Systems That Make It 40% More Efficient — Clay Nicholson",
-    "Url": "https://claynicholson.com/blog/khlawde-code",
-    "Timestamp": "2026-06-09T03:03:41",
-    "Domain": "claynicholson.com",
-    "Description": "I used the leaked Claude Code to make a coding agent which is self improving, more efficient, and a better, self-improving coder.",
-    "Confidence": 0.99305445
-  },
-  {
-    "Title": "SQL",
-    "Url": "https://remy.wang/cs143/notes/sql/sql.html",
-    "Timestamp": "2026-06-09T03:03:37",
-    "Domain": "remy.wang",
-    "Description": "SQL is the language for databases. A SQL program is\nalso called a query. Each query takes one or more tables as\ninput, and produces one table as output. A table is a collection of\nrows, where each row has the same number of columns. Each column has a\nname and a type, and stores the same type of data.",
-    "Confidence": 0.9976753
-  },
-  {
-    "Title": "Reading of OpenAI's Self-Improving Tax Agents | Daniel Olshansky",
-    "Url": "https://olshansky.info/posts/2026-06-08-reading-of-openais-self-improving-tax-agents",
-    "Timestamp": "2026-06-09T03:03:33",
-    "Domain": "olshansky.info",
-    "Description": "When I first saw the title of OpenAI’s blog, I wasn’t too excited. Here it is: Building self-improving tax agents with Codex.\nTax agents don’t sound exciting. Everything is self-improving. I got it. But this short post is a masterclass in practical, hands-on learnings on the latest tools, workflows, and approach to how to do evals for real-world use cases. It’s not just technical; it builds intuition by relying on real-world experience.\n",
-    "Confidence": 0.95844364
-  },
-  {
-    "Title": "Fixing a stuck Ollama runner and building a GPU watchdog – blog",
-    "Url": "https://patrickmccanna.net/fixing-a-stuck-ollama-runner-and-building-a-gpu-watchdog/",
-    "Timestamp": "2026-06-09T03:03:30",
-    "Domain": "patrickmccanna.net",
-    "Description": "If you self-host LLMs, at some point, you’ll likely experience a stuck GPU consuming significant electricity for long periods of time.  This is my summary of discovering the problem & then implementing automation that corrects the issue.  I want automation to discover & correct these issues.  I don’t want to be the first line of defense against unnecessary electricity consumption.",
-    "Confidence": 0.98658985
-  },
-  {
-    "Title": "I'm building a parallel internet, and it's called The Thinnernet",
-    "Url": "https://inavoyage.blogspot.com/2026/06/im-building-parallel-internet-and-its.html",
-    "Timestamp": "2026-06-09T03:03:26",
-    "Domain": "inavoyage.blogspot.com",
-    "Description": "                Since 2020, I've taken on a Steve Jobs alter-ego (on a very, very  part time basis, and often for humor purposes ). The firs...",
-    "Confidence": 0.9571651
-  },
-  {
-    "Title": "The Data Center Bankshot",
-    "Url": "https://davekarpf.beehiiv.com/p/the-data-center-bankshot",
-    "Timestamp": "2026-06-09T03:03:19",
-    "Domain": "davekarpf.beehiiv.com",
-    "Description": "The ",
-    "Confidence": 0.9111534
-  },
-  {
-    "Title": "invlpg – Premature Optimization is Fun Sometimes",
-    "Url": "https://invlpg.com/posts/2025-06-19-premature-optimization.html",
-    "Timestamp": "2026-06-09T03:03:15",
-    "Domain": "invlpg.com",
-    "Description": "A colleague of mine was recently discussing a connectivity monitoring\nsystem he is working on with me. It’s nothing fancy, just sending ICMP\nEcho Requests to a couple of different servers, and monitoring latency\nand dropped packet averages over 1-minute, 5-minute, and 15-minute\nperiods. Up came the topic of how this data should be stored, the\nnatural thought was a 512 entry ring buffer, containing entries like the\nfollowing:",
-    "Confidence": 0.9807828
-  },
-  {
-    "Title": "Etherean to Crypto Moderate, Part 1: Excitement",
-    "Url": "https://cstein.xyz/posts/2026/4/28/crypto_evolution_part1",
-    "Timestamp": "2026-06-09T03:03:10",
-    "Domain": "cstein.xyz",
-    "Description": "2026 Apr 28 \nSee all posts",
-    "Confidence": 0.7382029
-  },
-  {
-    "Title": "The process was the point",
-    "Url": "https://darshanmakwana412.github.io/2026/06/the-process-was-the-point/",
-    "Timestamp": "2026-06-09T03:03:02",
-    "Domain": "darshanmakwana412.github.io",
-    "Description": "I have been feeling that I am not enjoying the process lately, I am not having fun while I am working, previously I used to think about the problems even on weekends while out with friends, because they were my problems and I used to own them end to end, solving the problems then was not at all work for me, it was just me playing around with them and having fun, I used to write blogs and good documentation by hand because I throughly enjoyed writing it, it wasn’t for someone else to understand it or for any LLM to read infact it was just for me, to deepen and find gaps in my own understanding, these things are even though simple and naive, they worked out for me, it is by this process that I acquired taste and improved my ability to articulate my thoughts and helped me reduce my stuttering. It helped me land opportunities which I was never aiming for because all I was doing was just having fun. Now when I find myself spending the day managing claude and codex sessions I feel like I am depriving myself of this process which made me who I am",
-    "Confidence": 0.88175285
-  },
-  {
-    "Title": "Performance mantras",
-    "Url": "https://hazn.com/performance-mantras",
-    "Timestamp": "2026-06-09T03:02:59",
-    "Domain": "hazn.com",
-    "Description": "Most advice on performance will only help you to get better incrementally. Here are some mantras I think are undervalued for true breakthroughs 🧘.",
-    "Confidence": 0.96248275
-  },
-  {
-    "Title": "The economics of speculative decoding",
-    "Url": "https://fergusfinn.com/blog/economics-of-speculative-decoding/",
-    "Timestamp": "2026-06-09T03:02:55",
-    "Domain": "fergusfinn.com",
-    "Description": "Two underexplored axes: what MoE routing does to the decode roofline, and how\ncompressed attention takes away the slack that used to make speculated tokens free.\n",
-    "Confidence": 0.98180467
-  },
-  {
-    "Title": "Making numpy-ts as fast as native — nico.codes",
-    "Url": "https://nico.codes/notes/numpyts-optimization/",
-    "Timestamp": "2026-06-09T03:02:50",
-    "Domain": "nico.codes",
-    "Description": "How numpy-ts went from 15x slower than NumPy to performance parity",
-    "Confidence": 0.9784496
-  },
-  {
-    "Title": "Cannibalism",
-    "Url": "https://b-ark.ca/2026/06/07/cannibalism.html",
-    "Timestamp": "2026-06-09T03:02:35",
-    "Domain": "b-ark.ca",
-    "Description": "For a long time the tech industry revelled in the distruption of what it saw as old, legacy industries. But now, as AI takes over tech, we’re now starting to eat our own, and it’s dark and ironic.",
-    "Confidence": 0.9293968
   }
 ]

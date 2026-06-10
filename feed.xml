@@ -7,6 +7,201 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title> dan—webnotes | Project starter | Lessons from a reusable web component</title>
+      <link>https://dan-webnotes.com/posts/2026-06-07-lessons-reusable-web-components/</link>
+      <description>Notes from reusing a handmade web component across projects: skip the build step, publish instead of pasting, own a short namespace, theme through CSS variables, and let modern CSS adapt to context.</description>
+      <category>conference</category>
+      <category>javascript</category>
+      <category>git</category>
+      <category>web</category>
+      <guid>https://dan-webnotes.com/posts/2026-06-07-lessons-reusable-web-components/</guid>
+      <pubDate>Wed, 10 Jun 2026 03:03:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sami Lehtinen - Fastsync: How I Doubled rsync's Speed</title>
+      <link>https://www.sami-lehtinen.net/blog2/fastsync-how-i-doubled-rsyncs-speed</link>
+      <description>Writing fastsync: Why is copying files still so slow, and how I doubled rsync’s speed
+I wrote a tool called fastsync when I finally got too frustrated with rsync’s poor local copying performance.
+This post goes through the making of the tool, the root cause I found, and why proper cache management</description>
+      <category>python</category>
+      <category>linux</category>
+      <guid>https://www.sami-lehtinen.net/blog2/fastsync-how-i-doubled-rsyncs-speed</guid>
+      <pubDate>Wed, 10 Jun 2026 03:03:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Relocatable Derivations</title>
+      <link>https://fzakaria.com/2026/06/08/relocatable-derivations</link>
+      <description>The earlier post on guix-transfer highlighted how we can use the tool to transfer derivations from /gnu/store to /nix/store.</description>
+      <guid>https://fzakaria.com/2026/06/08/relocatable-derivations</guid>
+      <pubDate>Wed, 10 Jun 2026 03:03:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Don't Fuck With My .bashrc</title>
+      <link>https://fev.al/posts/dont-fuck-with-my-bashrc/</link>
+      <description>Everyone, to the terminal! Drop that webUI, you’re so 2024, use the terminal brah! I’m a geek! I hack stuff, I use the terminal!</description>
+      <category>ai</category>
+      <category>javascript</category>
+      <category>git</category>
+      <guid>https://fev.al/posts/dont-fuck-with-my-bashrc/</guid>
+      <pubDate>Wed, 10 Jun 2026 03:03:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why does tsgo use so much memory?</title>
+      <link>https://zackoverflow.dev/writing/why-does-tsgo-use-so-much-memory/</link>
+      <description></description>
+      <category>typescript</category>
+      <category>javascript</category>
+      <category>dotnet</category>
+      <guid>https://zackoverflow.dev/writing/why-does-tsgo-use-so-much-memory/</guid>
+      <pubDate>Wed, 10 Jun 2026 03:03:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Appreciating Exif | Brent Fitzgerald</title>
+      <link>https://brentfitzgerald.com/posts/appreciating-exif/</link>
+      <description>The '90s-era digital camera metadata format, still useful in 2026.</description>
+      <guid>https://brentfitzgerald.com/posts/appreciating-exif/</guid>
+      <pubDate>Wed, 10 Jun 2026 03:03:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Replace your CI with a merge queue - exe.dev blog</title>
+      <link>https://blog.exe.dev/replace-your-ci</link>
+      <description>Agent development means after-the-fact CI no longer works.</description>
+      <author> (David Crawshaw)</author>
+      <guid>https://blog.exe.dev/replace-your-ci</guid>
+      <pubDate>Wed, 10 Jun 2026 03:03:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>I Built a Liquidity Sniper Bot for BNB Chain, and It Proved a Losing Game</title>
+      <link>https://e-mahmoudi.me/blog/i-built-a-liquidity-sniper-bot-for-bnb-chain-and-it-proved-a-losing-game/</link>
+      <description>I built a complete, real-time DeFi sniper bot in Go, took it live with real money on BSC, and let the data answer one honest question: can a retail bot win at sniping new token launches? It can't, and the why is more interesting than a profit chart.</description>
+      <author> (Ehsan Mahmoudi)</author>
+      <category>gaming</category>
+      <category>database</category>
+      <guid>https://e-mahmoudi.me/blog/i-built-a-liquidity-sniper-bot-for-bnb-chain-and-it-proved-a-losing-game/</guid>
+      <pubDate>Wed, 10 Jun 2026 03:03:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>It used to be hard</title>
+      <link>https://www.praf.me/it-used-to-be-hard</link>
+      <description>There's this weird emotion I've been experiencing lately, that I can only seem to describe as a desire to climb on a roof and yell: "It used to be hard!".</description>
+      <category>containers</category>
+      <category>apple</category>
+      <category>web</category>
+      <category>android</category>
+      <category>javascript</category>
+      <guid>https://www.praf.me/it-used-to-be-hard</guid>
+      <pubDate>Wed, 10 Jun 2026 03:03:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>I read my own commits like a stranger | Egor Fedorov</title>
+      <link>https://www.egorthinks.com/blog/like-a-stranger/</link>
+      <description>83% of ChatGPT users could not quote their own essay. The same started happening with my code - notes on cognitive debt from AI coding.</description>
+      <category>ai</category>
+      <category>git</category>
+      <category>python</category>
+      <guid>https://www.egorthinks.com/blog/like-a-stranger/</guid>
+      <pubDate>Wed, 10 Jun 2026 03:03:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>programming a gba game on an iphone</title>
+      <link>https://blog.adamledoux.net/posts/2026-06-08-programming-a-gba-game-on-an-iphone.html</link>
+      <description>i made a short bitsylike game for gba!</description>
+      <category>apple</category>
+      <category>gaming</category>
+      <category>linux</category>
+      <category>web</category>
+      <guid>https://blog.adamledoux.net/posts/2026-06-08-programming-a-gba-game-on-an-iphone.html</guid>
+      <pubDate>Wed, 10 Jun 2026 03:03:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>If Claude Fable stops helping you, you'll never know — Jonathon Ready</title>
+      <link>https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html</link>
+      <description>Anthropic's Claude Fable policy turns coding assistants into non-neutral infrastructure for product companies.</description>
+      <category>ai</category>
+      <category>database</category>
+      <category>web</category>
+      <guid>https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html</guid>
+      <pubDate>Wed, 10 Jun 2026 03:03:08 GMT</pubDate>
+    </item>
+    <item>
+      <title>Our first customers were the exception — Apurva Mehta</title>
+      <link>https://www.apurvamehta.com/blog/our-first-customers-were-the-exception</link>
+      <description>How a $1M+ run-rate masked a dead-end market, and why we walked away from our Kafka Streams product.</description>
+      <guid>https://www.apurvamehta.com/blog/our-first-customers-were-the-exception</guid>
+      <pubDate>Wed, 10 Jun 2026 03:03:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Every GPS satellite is a numbers station</title>
+      <link>https://andreafortuna.org/2026/06/09/gps-numbers-station/</link>
+      <description>Research by Steven Murdoch of UCL suggests that GPS Subframe 4, Page 17 may have served as an OTAD-related encrypted broadcast channel for nearly two decades.</description>
+      <category>encryption</category>
+      <guid>https://andreafortuna.org/2026/06/09/gps-numbers-station/</guid>
+      <pubDate>Wed, 10 Jun 2026 03:02:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>On Atoms and Knowledge</title>
+      <link>https://by.ben.church/on-atoms-and-knowledge/</link>
+      <description>A note to my daughter about physics, and mostly about how to learn: find the small truths that let you rebuild everything else.</description>
+      <guid>https://by.ben.church/on-atoms-and-knowledge/</guid>
+      <pubDate>Wed, 10 Jun 2026 03:02:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>I miss the climb</title>
+      <link>https://pego.dev/i-miss-the-climb/</link>
+      <description>Steve Jobs once described the computer as a bicycle for the mind.
+
+I have always loved that metaphor because it captures what computers used to feel like t...</description>
+      <category>ai</category>
+      <guid>https://pego.dev/i-miss-the-climb/</guid>
+      <pubDate>Wed, 10 Jun 2026 03:02:50 GMT</pubDate>
+    </item>
+    <item>
+      <title>Now what?</title>
+      <link>https://blog.danieljanus.pl/now-what/</link>
+      <description>Here’s an impressive Show HN project: a comprehensive, reverse-engineered, LLM-written technical documentation of how a calculator’s operating system works. What a resource!</description>
+      <category>apple</category>
+      <guid>https://blog.danieljanus.pl/now-what/</guid>
+      <pubDate>Wed, 10 Jun 2026 03:02:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Too Dangerous To Release (2019) – Naoki Shibuya</title>
+      <link>https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/</link>
+      <description></description>
+      <category>ai</category>
+      <category>encryption</category>
+      <category>ides</category>
+      <guid>https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/</guid>
+      <pubDate>Wed, 10 Jun 2026 03:02:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Skynet: Towards Synthetic Neurobiology</title>
+      <link>https://0xcc.re/2026/05/03/skynet-towards-synthetic-neurobiology.html/</link>
+      <description>The original idea was a joke.
+I was looking at LLM loops and thinking about how they map onto Elixir’s actor model — GenServers that receive messages, process them, maybe spawn new processes. The jump from “LLM reasoning step” to “GenServer handling a message” is not that far, and once you see it you can’t unsee it. What if you gave a Soul GenServer access to Code.eval_string? What if the agents could fork themselves, spawn new processes mid-reasoning, grow the supervision tree dynamically? I called it Skynet mostly because I thought it was funny.</description>
+      <category>ai</category>
+      <category>cloud</category>
+      <category>javascript</category>
+      <guid>https://0xcc.re/2026/05/03/skynet-towards-synthetic-neurobiology.html/</guid>
+      <pubDate>Wed, 10 Jun 2026 03:02:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sovereign</title>
+      <link>https://lemire.me/blog/2026/06/09/22693/</link>
+      <description>The keyword in politics these days is ‘sovereign’. What few will admit is that it is effectively the adoption of the American strategy: Make America Great Again. In other words, reindustrialization of key sectors of the economy. The UK used to be a computing champion. Our chip designs (ARM) originated from the UK. Canada had … Continue reading Sovereign</description>
+      <author> (https://lemire.me/blog/author/lemire/)</author>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://lemire.me/blog/2026/06/09/22693/</guid>
+      <pubDate>Wed, 10 Jun 2026 03:02:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Push to Solo Work</title>
+      <link>https://adrianhoward.com/posts/the-push-to-solo-work/</link>
+      <description>TL;DR: Some people seem to miss that collaborative tools lose their value when used by one person.</description>
+      <guid>https://adrianhoward.com/posts/the-push-to-solo-work/</guid>
+      <pubDate>Wed, 10 Jun 2026 03:02:29 GMT</pubDate>
+    </item>
+    <item>
       <title>CEOs Who Think AI Replaces Their Employees Are Just Bad CEOs</title>
       <link>https://www.techdirt.com/2026/06/09/ceos-who-think-ai-replaces-their-employees-are-just-bad-ceos/</link>
       <description>In the last three months I’ve had people forward me four separate examples of a CEO losing his or her mind over AI. What’s been striking to me is the similarity in each case: It would b…</description>
@@ -66,176 +261,6 @@
       <category>python</category>
       <guid>https://developer.apple.com/documentation/coreai/</guid>
       <pubDate>Tue, 09 Jun 2026 07:02:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nick Launches Week 5 Recap: When Is It Actually Ready to Launch?</title>
-      <link>https://nicklaunches.com/blog/week-5-recap-june-07-2026/</link>
-      <description>Week 5 on Nick Launches: founders on launch timing and why you'll never feel ready, a featured builder, a reciprocal shoutout, the top launches, the numbers, and what's next.</description>
-      <author> (Nick Launches)</author>
-      <category>ai</category>
-      <guid>https://nicklaunches.com/blog/week-5-recap-june-07-2026/</guid>
-      <pubDate>Tue, 09 Jun 2026 03:03:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Confidential submission of draft S-1 to the SEC</title>
-      <link>https://openai.com/index/openai-submits-confidential-s-1/</link>
-      <description>OpenAI confirms a confidential S-1 submission to the SEC and has not yet determined timing for further action.</description>
-      <category>ai</category>
-      <guid>https://openai.com/index/openai-submits-confidential-s-1/</guid>
-      <pubDate>Tue, 09 Jun 2026 03:03:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Popular initiative: ‘No to a Switzerland with 10 million! (Sustainability Initiative)’</title>
-      <link>https://www.admin.ch/en/sustainability-initiative</link>
-      <description>On 14 June 2026, Swiss citizens will vote on the popular initiative: ‘No to a Switzerland with 10 million! (Sustainability Initiative)’.</description>
-      <guid>https://www.admin.ch/en/sustainability-initiative</guid>
-      <pubDate>Tue, 09 Jun 2026 03:03:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Future Is Undecidable. Duty Is Not.</title>
-      <link>https://dhanjit.me/blog/2026-06-08-the-future-is-undecidable-duty-is-not.md/</link>
-      <description>A follow-up to the India 2047 song essay, moving from Godel, Turing, and the halting problem toward anxiety, controllability, the Gita, Stoicism, and the old problem of duty.</description>
-      <category>git</category>
-      <guid>https://dhanjit.me/blog/2026-06-08-the-future-is-undecidable-duty-is-not.md/</guid>
-      <pubDate>Tue, 09 Jun 2026 03:03:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Joshua Hedtke</title>
-      <link>https://www.joshuahedtke.com/writing/benchmark-retention-is-not-utility-retention</link>
-      <description>Joshua Hedtke</description>
-      <category>dotnet</category>
-      <guid>https://www.joshuahedtke.com/writing/benchmark-retention-is-not-utility-retention</guid>
-      <pubDate>Tue, 09 Jun 2026 03:03:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>I Reverse-Engineered Claude Code, Made It 100x Better to Use, and Built 11 Systems That Make It 40% More Efficient — Clay Nicholson</title>
-      <link>https://claynicholson.com/blog/khlawde-code</link>
-      <description>I used the leaked Claude Code to make a coding agent which is self improving, more efficient, and a better, self-improving coder.</description>
-      <category>ai</category>
-      <category>git</category>
-      <category>typescript</category>
-      <category>javascript</category>
-      <guid>https://claynicholson.com/blog/khlawde-code</guid>
-      <pubDate>Tue, 09 Jun 2026 03:03:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>SQL</title>
-      <link>https://remy.wang/cs143/notes/sql/sql.html</link>
-      <description>SQL is the language for databases. A SQL program is
-also called a query. Each query takes one or more tables as
-input, and produces one table as output. A table is a collection of
-rows, where each row has the same number of columns. Each column has a
-name and a type, and stores the same type of data.</description>
-      <category>database</category>
-      <guid>https://remy.wang/cs143/notes/sql/sql.html</guid>
-      <pubDate>Tue, 09 Jun 2026 03:03:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reading of OpenAI's Self-Improving Tax Agents | Daniel Olshansky</title>
-      <link>https://olshansky.info/posts/2026-06-08-reading-of-openais-self-improving-tax-agents</link>
-      <description>When I first saw the title of OpenAI’s blog, I wasn’t too excited. Here it is: Building self-improving tax agents with Codex.
-Tax agents don’t sound exciting. Everything is self-improving. I got it. But this short post is a masterclass in practical, hands-on learnings on the latest tools, workflows, and approach to how to do evals for real-world use cases. It’s not just technical; it builds intuition by relying on real-world experience.
-</description>
-      <author> (Daniel Olshansky)</author>
-      <category>cloud</category>
-      <category>ai</category>
-      <guid>https://olshansky.info/posts/2026-06-08-reading-of-openais-self-improving-tax-agents</guid>
-      <pubDate>Tue, 09 Jun 2026 03:03:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fixing a stuck Ollama runner and building a GPU watchdog – blog</title>
-      <link>https://patrickmccanna.net/fixing-a-stuck-ollama-runner-and-building-a-gpu-watchdog/</link>
-      <description>If you self-host LLMs, at some point, you’ll likely experience a stuck GPU consuming significant electricity for long periods of time.  This is my summary of discovering the problem &amp; then implementing automation that corrects the issue.  I want automation to discover &amp; correct these issues.  I don’t want to be the first line of defense against unnecessary electricity consumption.</description>
-      <category>ai</category>
-      <guid>https://patrickmccanna.net/fixing-a-stuck-ollama-runner-and-building-a-gpu-watchdog/</guid>
-      <pubDate>Tue, 09 Jun 2026 03:03:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>I'm building a parallel internet, and it's called The Thinnernet</title>
-      <link>https://inavoyage.blogspot.com/2026/06/im-building-parallel-internet-and-its.html</link>
-      <description>                Since 2020, I've taken on a Steve Jobs alter-ego (on a very, very  part time basis, and often for humor purposes ). The firs...</description>
-      <category>javascript</category>
-      <category>web</category>
-      <guid>https://inavoyage.blogspot.com/2026/06/im-building-parallel-internet-and-its.html</guid>
-      <pubDate>Tue, 09 Jun 2026 03:03:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Data Center Bankshot</title>
-      <link>https://davekarpf.beehiiv.com/p/the-data-center-bankshot</link>
-      <description>The </description>
-      <category>ai</category>
-      <guid>https://davekarpf.beehiiv.com/p/the-data-center-bankshot</guid>
-      <pubDate>Tue, 09 Jun 2026 03:03:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>invlpg – Premature Optimization is Fun Sometimes</title>
-      <link>https://invlpg.com/posts/2025-06-19-premature-optimization.html</link>
-      <description>A colleague of mine was recently discussing a connectivity monitoring
-system he is working on with me. It’s nothing fancy, just sending ICMP
-Echo Requests to a couple of different servers, and monitoring latency
-and dropped packet averages over 1-minute, 5-minute, and 15-minute
-periods. Up came the topic of how this data should be stored, the
-natural thought was a 512 entry ring buffer, containing entries like the
-following:</description>
-      <category>linux</category>
-      <guid>https://invlpg.com/posts/2025-06-19-premature-optimization.html</guid>
-      <pubDate>Tue, 09 Jun 2026 03:03:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Etherean to Crypto Moderate, Part 1: Excitement</title>
-      <link>https://cstein.xyz/posts/2026/4/28/crypto_evolution_part1</link>
-      <description>2026 Apr 28 
-See all posts</description>
-      <category>ai</category>
-      <guid>https://cstein.xyz/posts/2026/4/28/crypto_evolution_part1</guid>
-      <pubDate>Tue, 09 Jun 2026 03:03:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>The process was the point</title>
-      <link>https://darshanmakwana412.github.io/2026/06/the-process-was-the-point/</link>
-      <description>I have been feeling that I am not enjoying the process lately, I am not having fun while I am working, previously I used to think about the problems even on weekends while out with friends, because they were my problems and I used to own them end to end, solving the problems then was not at all work for me, it was just me playing around with them and having fun, I used to write blogs and good documentation by hand because I throughly enjoyed writing it, it wasn’t for someone else to understand it or for any LLM to read infact it was just for me, to deepen and find gaps in my own understanding, these things are even though simple and naive, they worked out for me, it is by this process that I acquired taste and improved my ability to articulate my thoughts and helped me reduce my stuttering. It helped me land opportunities which I was never aiming for because all I was doing was just having fun. Now when I find myself spending the day managing claude and codex sessions I feel like I am depriving myself of this process which made me who I am</description>
-      <category>ai</category>
-      <guid>https://darshanmakwana412.github.io/2026/06/the-process-was-the-point/</guid>
-      <pubDate>Tue, 09 Jun 2026 03:03:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Performance mantras</title>
-      <link>https://hazn.com/performance-mantras</link>
-      <description>Most advice on performance will only help you to get better incrementally. Here are some mantras I think are undervalued for true breakthroughs 🧘.</description>
-      <guid>https://hazn.com/performance-mantras</guid>
-      <pubDate>Tue, 09 Jun 2026 03:02:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>The economics of speculative decoding</title>
-      <link>https://fergusfinn.com/blog/economics-of-speculative-decoding/</link>
-      <description>Two underexplored axes: what MoE routing does to the decode roofline, and how
-compressed attention takes away the slack that used to make speculated tokens free.
-</description>
-      <category>ai</category>
-      <category>dotnet</category>
-      <guid>https://fergusfinn.com/blog/economics-of-speculative-decoding/</guid>
-      <pubDate>Tue, 09 Jun 2026 03:02:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Making numpy-ts as fast as native — nico.codes</title>
-      <link>https://nico.codes/notes/numpyts-optimization/</link>
-      <description>How numpy-ts went from 15x slower than NumPy to performance parity</description>
-      <author> (Nicolas Dupont)</author>
-      <category>typescript</category>
-      <category>rust</category>
-      <category>web</category>
-      <category>javascript</category>
-      <category>python</category>
-      <guid>https://nico.codes/notes/numpyts-optimization/</guid>
-      <pubDate>Tue, 09 Jun 2026 03:02:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cannibalism</title>
-      <link>https://b-ark.ca/2026/06/07/cannibalism.html</link>
-      <description>For a long time the tech industry revelled in the distruption of what it saw as old, legacy industries. But now, as AI takes over tech, we’re now starting to eat our own, and it’s dark and ironic.</description>
-      <category>ai</category>
-      <guid>https://b-ark.ca/2026/06/07/cannibalism.html</guid>
-      <pubDate>Tue, 09 Jun 2026 03:02:35 GMT</pubDate>
     </item>
   </channel>
 </rss>
