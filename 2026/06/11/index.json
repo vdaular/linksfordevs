@@ -1,5 +1,131 @@
 [
   {
+    "Title": "Making a better Social Media",
+    "Url": "https://amrshawky.com/posts/making-a-better-social-media/",
+    "Timestamp": "2026-06-11T23:04:44",
+    "Domain": "amrshawky.com",
+    "Description": "Introduction What is a ‘better’ social media? My last post on recreating old Facebook surprisingly made it to the front page of Hacker News, so it’s safe to assume there’s some interest, or nostalgia, for something in the social space that perhaps existed or could exist, but doesn’t.\nLike many, I love the internet but dislike modern social media. I’ve basically spent the last year obsessively wondering what I would want from an ideal social platform, how it would work, how it would make money, etc."
+  },
+  {
+    "Title": "A Greyscale iPhone Setup that Works in Everyday Life ⋅ Prof. Dr.-Ing. Fabian Hemmert",
+    "Url": "https://www.fabianhemmert.com/opinions/a-greyscale-iphone-setup-that-works-in-everyday-life",
+    "Timestamp": "2026-06-11T23:04:40",
+    "Domain": "www.fabianhemmert.com",
+    "Description": ""
+  },
+  {
+    "Title": "Reverse Engineering the Anticheat on a Private MMO Server",
+    "Url": "https://blog.cristianrz.eu.org/posts/active-anticheat/",
+    "Timestamp": "2026-06-11T23:04:35",
+    "Domain": "blog.cristianrz.eu.org",
+    "Description": "I play on a private Aion server. For those unfamiliar, Aion is an MMO from 2009 that NCSoft has largely abandoned in the West, but a community of private servers keeps it alive. The server I play on uses a third-party anticheat called Active Anticheat, a commercial product sold to private server operators by a developer in Warsaw.\nI got curious about what it actually does to my machine. A few evenings with Wireshark, Procmon, Ghidra, and pefile later, here’s what I found."
+  },
+  {
+    "Title": "Trying to fix complicated problems — Epi Notes",
+    "Url": "https://blog.griffens.net/blog/trying-to-fix-complicated-problems/",
+    "Timestamp": "2026-06-11T23:04:32",
+    "Domain": "blog.griffens.net",
+    "Description": "One day I watched a video where David Pruess goes through an analysis of a chess position (David is an amazing chess teacher and commentator), and he goes through like a dozen moves before pointing out one random little detail that reverses the conclusion. This is kind of funny because a less talented chess player looks at the position, miscalculates everywhere, gives up and goes, \"well idk, White must be losing.\" An advanced player knows what they're doing -- and clearly, White is winning. And a tiny handful of players say hmm, something seems off here, and they get great joy out of looking for that random little detail, and that detail wins them the game. The real world seems more like chess than checkers, and most of us aren't that good."
+  },
+  {
+    "Title": "MTG Bench: Testing how well LLMs can play magic",
+    "Url": "https://mtgautodeck.com/articles/mtg-bench/",
+    "Timestamp": "2026-06-11T23:04:27",
+    "Domain": "mtgautodeck.com",
+    "Description": "MTG Bench tests how well LLMs can play Magic."
+  },
+  {
+    "Title": "How a New DSL May Survive in the Era of LLMs",
+    "Url": "https://www.williamcotton.com/articles/how-a-new-dsl-survives-in-the-era-of-llms",
+    "Timestamp": "2026-06-11T23:04:24",
+    "Domain": "www.williamcotton.com",
+    "Description": "How a New DSL Survives in the Era of LLMs"
+  },
+  {
+    "Title": "~fpereiro",
+    "Url": "https://federicopereiro.com/llm-not-high/",
+    "Timestamp": "2026-06-11T23:04:20",
+    "Domain": "federicopereiro.com",
+    "Description": "A few months ago I wrote an article in which I considered the idea of LLMs being the “new high level language”: something on a higher abstraction layer that allows to build software."
+  },
+  {
+    "Title": "The outsized impact of cultural idiosyncrasies",
+    "Url": "https://luke.hsiao.dev/blog/cultural-idiosyncrasies/",
+    "Timestamp": "2026-06-11T23:04:16",
+    "Domain": "luke.hsiao.dev",
+    "Description": "Cultural idiosyncrasies reveal what a company actually does, not just what it says. They can have an outsized impact on both public company image and internal perception and job satisfaction."
+  },
+  {
+    "Title": "Tailwind and slop apps",
+    "Url": "https://briandouglas.ie/llm-tailwind-template/",
+    "Timestamp": "2026-06-11T23:04:13",
+    "Domain": "briandouglas.ie",
+    "Description": ""
+  },
+  {
+    "Title": "Have you bought a car lately? • Ninjas and Robots",
+    "Url": "https://ninjasandrobots.com/single-people-can-be-as-productive-as-whole-teams",
+    "Timestamp": "2026-06-11T23:04:07",
+    "Domain": "ninjasandrobots.com",
+    "Description": "Single people can be as productive as whole teams. People are freaking out. There’s so much angst about how their jobs are changing with AI. I get it. It does feel like the things you used to do aren’t as valuable anymore. There’s new things to... | Ninjas and Robots | Engineer, Designer, Founder | Founding Engineer at Census (acquired by Fivetran) | Ex-CEO Highrise | Y Combinator Alum | Made Draft"
+  },
+  {
+    "Title": "Preliminary analysis of AUR malware",
+    "Url": "https://ioctl.fail/preliminary-analysis-of-aur-malware/",
+    "Timestamp": "2026-06-11T23:04:03",
+    "Domain": "ioctl.fail",
+    "Description": "Malware Analysis Report: deps\n\nReport date: 2026-06-11\nVT Link\nTriage Link\n\nNote: The following report was very hastily written by Codex.\n(I have fact-checked it against the IDA decompilation though 🐉)\n\n\nScope and Handling\n\nThis report summarizes static reverse engineering of the Linux ELF malware sample named deps and static review"
+  },
+  {
+    "Title": "Lisp’s Influence on Ruby",
+    "Url": "https://blog.tacoda.dev/lisps-influence-on-ruby-6a54f1a7740e",
+    "Timestamp": "2026-06-11T23:03:58",
+    "Domain": "blog.tacoda.dev",
+    "Description": "Once I wrote users.select { |u| u.admin? }.map(&:email) and realized I’d written Lisp."
+  },
+  {
+    "Title": "Making a vintage LLM from scratch - Cr;Lf;",
+    "Url": "https://crlf.link/log/entries/260525-1/",
+    "Timestamp": "2026-06-11T23:03:52",
+    "Domain": "crlf.link",
+    "Description": "In this blog post, I will share the adventures I had creating my own LLM, from (almost) scratch, trained only on old texts.I made my own base-training and fine-tuning scripts, data processing pipelines and custom datasets.(\"almost from scratch\" means I did use existing programming languages and libraries, I didn't write in Assembly, just like anyone else who builds an AI \"from scratch\"...)"
+  },
+  {
+    "Title": "Finding Optimal Tokenizers",
+    "Url": "https://blog.aqnichol.com/2026/06/10/optimal-tokenizers/",
+    "Timestamp": "2026-06-11T23:03:45",
+    "Domain": "blog.aqnichol.com",
+    "Description": "In this post, I will present an algorithm that was able to compute an optimal tokenizer in some\n                settings. This result is cool because optimal tokenization is theoretically intractable, but seems to be solvable in\n                practice. My finding is very similar to various results on the Traveling Salesman Problem (TSP), where\n                even difficult instances can be solved optimally using cutting-plane techniques."
+  },
+  {
+    "Title": "What Happened to tea.xyz",
+    "Url": "https://nesbitt.io/2026/06/11/what-happened-to-tea.html",
+    "Timestamp": "2026-06-11T23:03:41",
+    "Domain": "nesbitt.io",
+    "Description": "Reading the tea leaves"
+  },
+  {
+    "Title": "A Commons of Software Productive Infrastructure, By and For Capital",
+    "Url": "https://marewolf.me/posts/draupnir/26/software-productive-infrastructure.html",
+    "Timestamp": "2026-06-11T23:03:37",
+    "Domain": "marewolf.me",
+    "Description": "There is a growing call for sustainable open source, non-profits,\nand adjacent organisations that appears to align with the very strong\nculture of radical anti-capitalist organising and contribution in\neither free or open source software projects1. There is also an\nalmost unaminous shallow understanding that there is an \"exploitation\nof the software commons\" by capitalists, in that software licenses\ntypically permit capitalist firms to use software without\nreciprocating value. But it ignores that capitalist firms have always\nbeen drivers of free or open source, even within the GNU Project\nitself."
+  },
+  {
+    "Title": "The optimal number of unreviewed PRs is not zero",
+    "Url": "https://jawnb.github.io/unreviewed-prs/",
+    "Timestamp": "2026-06-11T23:03:34",
+    "Domain": "jawnb.github.io",
+    "Description": "Code got cheap. Review didn’t. What queueing theory says about the AI-era backlog."
+  },
+  {
+    "Title": "Neural Cellular Automata with WebGPU",
+    "Url": "https://ivanludvig.dev/tech/neural-ca-webgpu",
+    "Timestamp": "2026-06-11T23:03:30",
+    "Domain": "ivanludvig.dev",
+    "Description": "A WebGPU demo of Growing Neural Cellular Automata. Each cell runs inference through a shared pretrained neural network entirely in compute shaders"
+  },
+  {
     "Title": "6.0.0",
     "Url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
     "Timestamp": "2026-06-11T19:02:39",

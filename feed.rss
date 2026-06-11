@@ -7,6 +7,203 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Making a better Social Media</title>
+      <link>https://amrshawky.com/posts/making-a-better-social-media/</link>
+      <description>Introduction What is a ‘better’ social media? My last post on recreating old Facebook surprisingly made it to the front page of Hacker News, so it’s safe to assume there’s some interest, or nostalgia, for something in the social space that perhaps existed or could exist, but doesn’t.
+Like many, I love the internet but dislike modern social media. I’ve basically spent the last year obsessively wondering what I would want from an ideal social platform, how it would work, how it would make money, etc.</description>
+      <category>apple</category>
+      <category>android</category>
+      <guid>https://amrshawky.com/posts/making-a-better-social-media/</guid>
+      <pubDate>Thu, 11 Jun 2026 23:04:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>A Greyscale iPhone Setup that Works in Everyday Life ⋅ Prof. Dr.-Ing. Fabian Hemmert</title>
+      <link>https://www.fabianhemmert.com/opinions/a-greyscale-iphone-setup-that-works-in-everyday-life</link>
+      <description></description>
+      <category>apple</category>
+      <guid>https://www.fabianhemmert.com/opinions/a-greyscale-iphone-setup-that-works-in-everyday-life</guid>
+      <pubDate>Thu, 11 Jun 2026 23:04:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reverse Engineering the Anticheat on a Private MMO Server</title>
+      <link>https://blog.cristianrz.eu.org/posts/active-anticheat/</link>
+      <description>I play on a private Aion server. For those unfamiliar, Aion is an MMO from 2009 that NCSoft has largely abandoned in the West, but a community of private servers keeps it alive. The server I play on uses a third-party anticheat called Active Anticheat, a commercial product sold to private server operators by a developer in Warsaw.
+I got curious about what it actually does to my machine. A few evenings with Wireshark, Procmon, Ghidra, and pefile later, here’s what I found.</description>
+      <category>encryption</category>
+      <category>gaming</category>
+      <guid>https://blog.cristianrz.eu.org/posts/active-anticheat/</guid>
+      <pubDate>Thu, 11 Jun 2026 23:04:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Trying to fix complicated problems — Epi Notes</title>
+      <link>https://blog.griffens.net/blog/trying-to-fix-complicated-problems/</link>
+      <description>One day I watched a video where David Pruess goes through an analysis of a chess position (David is an amazing chess teacher and commentator), and he goes through like a dozen moves before pointing out one random little detail that reverses the conclusion. This is kind of funny because a less talented chess player looks at the position, miscalculates everywhere, gives up and goes, "well idk, White must be losing." An advanced player knows what they're doing -- and clearly, White is winning. And a tiny handful of players say hmm, something seems off here, and they get great joy out of looking for that random little detail, and that detail wins them the game. The real world seems more like chess than checkers, and most of us aren't that good.</description>
+      <category>gaming</category>
+      <guid>https://blog.griffens.net/blog/trying-to-fix-complicated-problems/</guid>
+      <pubDate>Thu, 11 Jun 2026 23:04:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>MTG Bench: Testing how well LLMs can play magic</title>
+      <link>https://mtgautodeck.com/articles/mtg-bench/</link>
+      <description>MTG Bench tests how well LLMs can play Magic.</description>
+      <category>ai</category>
+      <category>cloud</category>
+      <category>git</category>
+      <guid>https://mtgautodeck.com/articles/mtg-bench/</guid>
+      <pubDate>Thu, 11 Jun 2026 23:04:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>How a New DSL May Survive in the Era of LLMs</title>
+      <link>https://www.williamcotton.com/articles/how-a-new-dsl-survives-in-the-era-of-llms</link>
+      <description>How a New DSL Survives in the Era of LLMs</description>
+      <category>ai</category>
+      <category>ruby</category>
+      <category>rust</category>
+      <category>database</category>
+      <category>python</category>
+      <guid>https://www.williamcotton.com/articles/how-a-new-dsl-survives-in-the-era-of-llms</guid>
+      <pubDate>Thu, 11 Jun 2026 23:04:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>~fpereiro</title>
+      <link>https://federicopereiro.com/llm-not-high/</link>
+      <description>A few months ago I wrote an article in which I considered the idea of LLMs being the “new high level language”: something on a higher abstraction layer that allows to build software.</description>
+      <category>ruby</category>
+      <category>javascript</category>
+      <category>ai</category>
+      <category>python</category>
+      <guid>https://federicopereiro.com/llm-not-high/</guid>
+      <pubDate>Thu, 11 Jun 2026 23:04:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>The outsized impact of cultural idiosyncrasies</title>
+      <link>https://luke.hsiao.dev/blog/cultural-idiosyncrasies/</link>
+      <description>Cultural idiosyncrasies reveal what a company actually does, not just what it says. They can have an outsized impact on both public company image and internal perception and job satisfaction.</description>
+      <category>git</category>
+      <category>rust</category>
+      <category>linux</category>
+      <guid>https://luke.hsiao.dev/blog/cultural-idiosyncrasies/</guid>
+      <pubDate>Thu, 11 Jun 2026 23:04:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tailwind and slop apps</title>
+      <link>https://briandouglas.ie/llm-tailwind-template/</link>
+      <description></description>
+      <category>python</category>
+      <guid>https://briandouglas.ie/llm-tailwind-template/</guid>
+      <pubDate>Thu, 11 Jun 2026 23:04:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Have you bought a car lately? • Ninjas and Robots</title>
+      <link>https://ninjasandrobots.com/single-people-can-be-as-productive-as-whole-teams</link>
+      <description>Single people can be as productive as whole teams. People are freaking out. There’s so much angst about how their jobs are changing with AI. I get it. It does feel like the things you used to do aren’t as valuable anymore. There’s new things to... | Ninjas and Robots | Engineer, Designer, Founder | Founding Engineer at Census (acquired by Fivetran) | Ex-CEO Highrise | Y Combinator Alum | Made Draft</description>
+      <category>ruby</category>
+      <category>linux</category>
+      <category>ai</category>
+      <guid>https://ninjasandrobots.com/single-people-can-be-as-productive-as-whole-teams</guid>
+      <pubDate>Thu, 11 Jun 2026 23:04:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Preliminary analysis of AUR malware</title>
+      <link>https://ioctl.fail/preliminary-analysis-of-aur-malware/</link>
+      <description>Malware Analysis Report: deps
+
+Report date: 2026-06-11
+VT Link
+Triage Link
+
+Note: The following report was very hastily written by Codex.
+(I have fact-checked it against the IDA decompilation though 🐉)
+
+
+Scope and Handling
+
+This report summarizes static reverse engineering of the Linux ELF malware sample named deps and static review</description>
+      <category>containers</category>
+      <category>rust</category>
+      <category>ai</category>
+      <category>linux</category>
+      <category>conference</category>
+      <guid>https://ioctl.fail/preliminary-analysis-of-aur-malware/</guid>
+      <pubDate>Thu, 11 Jun 2026 23:04:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lisp’s Influence on Ruby</title>
+      <link>https://blog.tacoda.dev/lisps-influence-on-ruby-6a54f1a7740e</link>
+      <description>Once I wrote users.select { |u| u.admin? }.map(&amp;:email) and realized I’d written Lisp.</description>
+      <author> (https://blog.tacoda.dev)</author>
+      <category>ruby</category>
+      <guid>https://blog.tacoda.dev/lisps-influence-on-ruby-6a54f1a7740e</guid>
+      <pubDate>Thu, 11 Jun 2026 23:03:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Making a vintage LLM from scratch - Cr;Lf;</title>
+      <link>https://crlf.link/log/entries/260525-1/</link>
+      <description>In this blog post, I will share the adventures I had creating my own LLM, from (almost) scratch, trained only on old texts.I made my own base-training and fine-tuning scripts, data processing pipelines and custom datasets.("almost from scratch" means I did use existing programming languages and libraries, I didn't write in Assembly, just like anyone else who builds an AI "from scratch"...)</description>
+      <category>ai</category>
+      <guid>https://crlf.link/log/entries/260525-1/</guid>
+      <pubDate>Thu, 11 Jun 2026 23:03:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Finding Optimal Tokenizers</title>
+      <link>https://blog.aqnichol.com/2026/06/10/optimal-tokenizers/</link>
+      <description>In this post, I will present an algorithm that was able to compute an optimal tokenizer in some
+                settings. This result is cool because optimal tokenization is theoretically intractable, but seems to be solvable in
+                practice. My finding is very similar to various results on the Traveling Salesman Problem (TSP), where
+                even difficult instances can be solved optimally using cutting-plane techniques.</description>
+      <category>apple</category>
+      <category>ai</category>
+      <guid>https://blog.aqnichol.com/2026/06/10/optimal-tokenizers/</guid>
+      <pubDate>Thu, 11 Jun 2026 23:03:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>What Happened to tea.xyz</title>
+      <link>https://nesbitt.io/2026/06/11/what-happened-to-tea.html</link>
+      <description>Reading the tea leaves</description>
+      <category>ruby</category>
+      <category>javascript</category>
+      <category>rust</category>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://nesbitt.io/2026/06/11/what-happened-to-tea.html</guid>
+      <pubDate>Thu, 11 Jun 2026 23:03:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>A Commons of Software Productive Infrastructure, By and For Capital</title>
+      <link>https://marewolf.me/posts/draupnir/26/software-productive-infrastructure.html</link>
+      <description>There is a growing call for sustainable open source, non-profits,
+and adjacent organisations that appears to align with the very strong
+culture of radical anti-capitalist organising and contribution in
+either free or open source software projects1. There is also an
+almost unaminous shallow understanding that there is an "exploitation
+of the software commons" by capitalists, in that software licenses
+typically permit capitalist firms to use software without
+reciprocating value. But it ignores that capitalist firms have always
+been drivers of free or open source, even within the GNU Project
+itself.</description>
+      <category>linux</category>
+      <category>containers</category>
+      <category>git</category>
+      <guid>https://marewolf.me/posts/draupnir/26/software-productive-infrastructure.html</guid>
+      <pubDate>Thu, 11 Jun 2026 23:03:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>The optimal number of unreviewed PRs is not zero</title>
+      <link>https://jawnb.github.io/unreviewed-prs/</link>
+      <description>Code got cheap. Review didn’t. What queueing theory says about the AI-era backlog.</description>
+      <category>ai</category>
+      <guid>https://jawnb.github.io/unreviewed-prs/</guid>
+      <pubDate>Thu, 11 Jun 2026 23:03:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Neural Cellular Automata with WebGPU</title>
+      <link>https://ivanludvig.dev/tech/neural-ca-webgpu</link>
+      <description>A WebGPU demo of Growing Neural Cellular Automata. Each cell runs inference through a shared pretrained neural network entirely in compute shaders</description>
+      <category>web</category>
+      <guid>https://ivanludvig.dev/tech/neural-ca-webgpu</guid>
+      <pubDate>Thu, 11 Jun 2026 23:03:30 GMT</pubDate>
+    </item>
+    <item>
       <title>6.0.0</title>
       <link>https://brew.sh/2026/06/11/homebrew-6.0.0/</link>
       <description>Today, I’m proud to announce Homebrew 6.0.0. The most significant changes since 5.1.0 are a new tap trust security mechanism, the new faster, smaller, default internal Homebrew JSON API, sandboxing on Linux, better defaults informed by our user survey, many brew bundle improvements, improved performance and initial support for macOS 27 (Golden Gate).</description>
@@ -52,258 +249,6 @@
       <category>ai</category>
       <guid>https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated</guid>
       <pubDate>Thu, 11 Jun 2026 03:02:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>did claude just reset usage?</title>
-      <link>https://ajin.im/is/building/did-claude-just-reset-usage/</link>
-      <description>A canary for Anthropic's quiet usage-limit resets. Answers yes or no.</description>
-      <category>ai</category>
-      <category>javascript</category>
-      <category>linux</category>
-      <guid>https://ajin.im/is/building/did-claude-just-reset-usage/</guid>
-      <pubDate>Wed, 10 Jun 2026 23:04:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anatomy of a high-performance EP kernel</title>
-      <link>https://fergusfinn.com/blog/anatomy-of-a-high-performance-ep-kernel/</link>
-      <description>How expert-parallel dispatch and combine kernels work, built up from
-scratch: the high-throughput shape and the low-latency one.
-</description>
-      <category>javascript</category>
-      <category>cloud</category>
-      <guid>https://fergusfinn.com/blog/anatomy-of-a-high-performance-ep-kernel/</guid>
-      <pubDate>Wed, 10 Jun 2026 23:04:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Spoiling Linux Kernel with "sanctioned" code</title>
-      <link>https://printserver.ink/blog/spoiling-the-kernel/</link>
-      <description>…sending patches which can't be accepted, ever?</description>
-      <category>linux</category>
-      <category>git</category>
-      <guid>https://printserver.ink/blog/spoiling-the-kernel/</guid>
-      <pubDate>Wed, 10 Jun 2026 23:04:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Post-training speech models for better interactivity</title>
-      <link>https://kyutai.org/blog/2026-06-10-interactivity</link>
-      <description>Our mission is to build and democratize artificial general intelligence through open science.</description>
-      <category>ai</category>
-      <guid>https://kyutai.org/blog/2026-06-10-interactivity</guid>
-      <pubDate>Wed, 10 Jun 2026 23:04:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Get Rid of It</title>
-      <link>https://elijahpotter.dev/articles/get-rid-of-it</link>
-      <description>'Delete any part or process you can. You may have to add them back later. In fact, if you do not end up adding back at least 10% of them, then you didn't delete enough.'</description>
-      <category>ai</category>
-      <guid>https://elijahpotter.dev/articles/get-rid-of-it</guid>
-      <pubDate>Wed, 10 Jun 2026 23:04:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>A Mechanical Agentic Taxonomy</title>
-      <link>https://djschnei21.github.io/DemystifyingAI/taxonomy.html</link>
-      <description>Anthropomorphic metaphors have their place in how we talk about agentic systems. Treating an agent like a persona or a subagent like a teammate can speed up early design conversations. Even the word skill frames a collection of conditionally loaded text files as a human competency. We love to personify these things, and for high-level ideation, it works. But personification has a strict ceiling. Once a conversation shifts to deep systems design, this vocabulary often becomes too imprecise. You cannot build a system's foundation on a metaphor. To bring true architectural rigor to these systems, we have to look past the human analogies and understand the actual, mechanical differences between the constructs we are assembling.</description>
-      <category>database</category>
-      <category>ai</category>
-      <guid>https://djschnei21.github.io/DemystifyingAI/taxonomy.html</guid>
-      <pubDate>Wed, 10 Jun 2026 23:04:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>My Journey in Open-Source Library Development</title>
-      <link>https://olegdubovoi.com/publications/my-journey-in-open-source-library-development/</link>
-      <description>How I built DeftSharp.Windows.Input, my first open-source .NET library. Finding an idea, attracting early users on Reddit, and growing a global contributor community.</description>
-      <category>javascript</category>
-      <category>git</category>
-      <category>dotnet</category>
-      <guid>https://olegdubovoi.com/publications/my-journey-in-open-source-library-development/</guid>
-      <pubDate>Wed, 10 Jun 2026 23:04:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>A First Look at Fable</title>
-      <link>https://chris-parmer.com/first-look-at-fable/</link>
-      <description>Vibe check on Fable within Plotly Studio</description>
-      <category>ides</category>
-      <category>apple</category>
-      <category>ai</category>
-      <guid>https://chris-parmer.com/first-look-at-fable/</guid>
-      <pubDate>Wed, 10 Jun 2026 23:03:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>DiffusionGemma: 4x faster text generation</title>
-      <link>https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/</link>
-      <description>An overview of DiffusionGemma, an exceptionally fast text generation model with up to 4x faster speeds.</description>
-      <category>linux</category>
-      <category>ai</category>
-      <guid>https://blog.google/innovation-and-ai/technology/developers-tools/diffusion-gemma-faster-text-generation/</guid>
-      <pubDate>Wed, 10 Jun 2026 23:03:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>They're Made Out of Compute</title>
-      <link>https://magzimof.com/made-out-of-compute/</link>
-      <description>On orbital data centers and the security no one is building yet.</description>
-      <category>ai</category>
-      <guid>https://magzimof.com/made-out-of-compute/</guid>
-      <pubDate>Wed, 10 Jun 2026 23:03:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Boot Chain of a RISC-V Board: From Silicon to Ubuntu 26.04</title>
-      <link>https://blog.ludovic.dev/2026/06/08/spacemit-k3-boot-process.html</link>
-      <description>When you press the power button on the SpacemiT K3 Pico-ITX, Ubuntu 26.04 appears on the serial console about 30 seconds later. Between those two events, five distinct software layers run in sequence, each one handing off to the next. Understanding what each layer does - and why it exists - matters the moment something goes wrong, or the moment you want to put a different OS on the board.</description>
-      <category>linux</category>
-      <category>git</category>
-      <guid>https://blog.ludovic.dev/2026/06/08/spacemit-k3-boot-process.html</guid>
-      <pubDate>Wed, 10 Jun 2026 23:03:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>I tested 7 secrets managers in 2026 and graded them by DX.</title>
-      <link>https://www.vincentchan.vc/secrets-management-tools-2026-tier-list</link>
-      <description>What decides whether a team adopts a secrets manager isn't encryption or price — it's how much the tool gets in your way.</description>
-      <author> (Vincent Chan)</author>
-      <category>cloud</category>
-      <category>javascript</category>
-      <category>encryption</category>
-      <category>ai</category>
-      <category>git</category>
-      <guid>https://www.vincentchan.vc/secrets-management-tools-2026-tier-list</guid>
-      <pubDate>Wed, 10 Jun 2026 23:03:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Don't mop the floor. Fix the leaky faucet.</title>
-      <link>https://blog.br11k.dev/2026-06-02-dont-mop-the-floor-fix-the-leaky-faucet</link>
-      <description>Complexity is a choice. Simplicity is also a choice. Look for the root cause.</description>
-      <category>git</category>
-      <guid>https://blog.br11k.dev/2026-06-02-dont-mop-the-floor-fix-the-leaky-faucet</guid>
-      <pubDate>Wed, 10 Jun 2026 23:03:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Everyone got excited they can suddenly code, and completely missed the point</title>
-      <link>https://kasperjunge.com/blog/should-pms-code-with-agents/</link>
-      <description>Coding agents made software cheap to build. That just exposed the bottleneck that was always there: deciding what to build. A rant about broken product orgs, why PMs should use agents for discovery and not delivery, and why your best people will walk.</description>
-      <category>ai</category>
-      <guid>https://kasperjunge.com/blog/should-pms-code-with-agents/</guid>
-      <pubDate>Wed, 10 Jun 2026 23:03:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Digesting a codebase before a model reads it</title>
-      <link>https://matthew-johnston.com/digesting-a-codebase-before-a-model-reads-it/</link>
-      <description>Across every organisation I’ve worked in, documentation is either missing or, once written, out of date. So, we’ve stopped treating it as something people maintain and made agents regenerate it on every code change.
-
-</description>
-      <category>database</category>
-      <category>javascript</category>
-      <category>git</category>
-      <category>ai</category>
-      <guid>https://matthew-johnston.com/digesting-a-codebase-before-a-model-reads-it/</guid>
-      <pubDate>Wed, 10 Jun 2026 23:03:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>"Vibe coding" is the new "Internet dating"</title>
-      <link>https://joecmarshall.com/posts/vibecoding-is-the-new-internet-dating/</link>
-      <description>Developer and Author from Austin, TX.</description>
-      <category>apple</category>
-      <category>ai</category>
-      <guid>https://joecmarshall.com/posts/vibecoding-is-the-new-internet-dating/</guid>
-      <pubDate>Wed, 10 Jun 2026 23:03:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Please, use a link!</title>
-      <link>https://idiallo.com/blog/use-a-link-please</link>
-      <description>This is a rant. It didn't start today, but I think I've reached the end of the line. The straw that broke the camel's back, so to say. I used an internal tool for the first time. I logged in and navig</description>
-      <guid>https://idiallo.com/blog/use-a-link-please</guid>
-      <pubDate>Wed, 10 Jun 2026 23:03:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Generating OG images in Elixir | jola.dev</title>
-      <link>https://jola.dev/posts/generating-og-images</link>
-      <description>Generating OG images for your static pages and blog posts in Elixir</description>
-      <author> (https://jola.dev/about)</author>
-      <category>javascript</category>
-      <category>git</category>
-      <category>web</category>
-      <guid>https://jola.dev/posts/generating-og-images</guid>
-      <pubDate>Wed, 10 Jun 2026 23:03:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>What if Mario had a gun</title>
-      <link>https://devz.cl/posts/what-if-mario-had-a-gun/</link>
-      <description>Mario 64 and Mario Odyssey are one of my favorite videogames.
-
-Mario Sunshine could be up there as well but my right joycon is broken and there’s a point in the game where I have to look at the sun but can’t enter first person camera mode.
-
-There’s something about the movement in those games that makes you feel badass. There’s also the fact that you can beat virtually any minion in a single bounce, but combat isn’t the main highlight in mario games. But what if it was?</description>
-      <category>gaming</category>
-      <guid>https://devz.cl/posts/what-if-mario-had-a-gun/</guid>
-      <pubDate>Wed, 10 Jun 2026 23:03:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why LLMs (still) lack taste</title>
-      <link>https://beyondtheprior.com/post/why-llms-lack-taste/</link>
-      <description>Frontier LLMs are really smart, and they’re becoming particularly good at software development. It feels like every week there’s a new model release that achieves SOTA scores on a handful of benchmarks. I use LLMs to build software every day, and they’re incredibly useful, and getting better. But I’m still frequently surprised by the types of mistakes they make.
-I don’t expect LLMs to be perfect. Even smart humans make mistakes! But LLMs often make errors that a human with a similar depth of knowledge would never make. Their capabilities feel jagged; they’ll brilliantly pull together thousands of error logs into a coherent analysis that would’ve taken me hours, but then use blatantly flawed reasoning to derive the root cause. So why does “PhD-level intelligence” make these kinds of mistakes?</description>
-      <category>ai</category>
-      <category>cloud</category>
-      <guid>https://beyondtheprior.com/post/why-llms-lack-taste/</guid>
-      <pubDate>Wed, 10 Jun 2026 23:03:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Adet</title>
-      <link>https://merkoba.com/adet.html</link>
-      <description>At the bottom of sites you'll usually find about pages.
-
-Everybody knows what a faq is, if you care to read it.
-
-Another thing some might care to read is the established traditions of the site or community.
-
-Instead of learning through experience, observation, or trial and error, common practices of a community could be summarized in a page you can link as well.
-
-For instance "We quote things others said with &gt;".
-
-Not a rule listing, just suggestions to take you out of the noob zone quickly.
-
-But also, it can define features that don't have to exist in code, like usage patterns.
-
-For instance: Instead of having a button to suggest videos, users paste the link prepended by "see:", like "see: https://major.cas.
-
-Which the system then can use to build parsers and other components around that tradition, without having to incorporate much in code, which can avoid some complexity.
-Name
-
-It needs a nice name, easy and short, like faq.
-
-I suggest the word adet. It's a turkish word:
-
-Adet (noun): A customary practice, established tradition, or habitual behavior that is regularly observed and followed within a particular culture, community, or by an individual. It refers to conventional norms, rituals, or ways of conduct that have become institutionalized through repeated practice over time. The term encompasses both personal habits and collective social customs that are considered standard or expected within a given context, often carrying cultural significance and being passed down through generations as part of traditional practices or social conventions.
-
-Turks use "adet" pretty casually - like "bu bizim adetimiz" (this is our custom/tradition) when talking about family or cultural stuff they always do. They'll say it about everything from holiday traditions to daily habits to social norms. It's like their go-to word for "that's just how we do things" or "it's tradition."
-
-To find this name I asked a bunch of stuff to an ai to get some suggestions, I'm not turkish.
-
-Site owners would then have an adet.html section in their site, probably linked at the bottom near the other about pages.
-
-I think adet is a good word because there's no similar english word in use right now, that I know of. It's short and its meaning and role can be learned quickly.
-
-And the document itself is helpful because communities tend to acquire lots of traditions through the years, and I've seen new users getting schooled on how to do things, when they could be put up to speed from the get go.
-
-It's not rules and guidelines, it's traditions and patterns.</description>
-      <category>web</category>
-      <category>ai</category>
-      <guid>https://merkoba.com/adet.html</guid>
-      <pubDate>Wed, 10 Jun 2026 23:02:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Farmer donates land for a park, city sells it for data center development — $10 gift became $10M for city government, with $30M tax expected over next decade</title>
-      <link>https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade</link>
-      <description>A solemn Texas deed ignored for profit.</description>
-      <author> (https://www.tomshardware.com/author/mark-tyson)</author>
-      <guid>https://www.tomshardware.com/tech-industry/farmer-donates-land-for-a-park-city-sells-it-for-data-center-development-usd10-gift-became-usd10m-for-city-government-with-usd30m-tax-expected-over-next-decade</guid>
-      <pubDate>Wed, 10 Jun 2026 23:02:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Active recall</title>
-      <link>https://herman.bearblog.dev/active-recall/</link>
-      <description>Improving memory though writing</description>
-      <category>ai</category>
-      <guid>https://herman.bearblog.dev/active-recall/</guid>
-      <pubDate>Wed, 10 Jun 2026 23:02:38 GMT</pubDate>
     </item>
   </channel>
 </rss>
