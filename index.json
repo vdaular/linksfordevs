@@ -214,29 +214,5 @@
     "Domain": "pgdog.dev",
     "Description": "PgDog is a connection pooler, load balancer, and sharding proxy for PostgreSQL. Scale Postgres horizontally without rewriting your application.",
     "Confidence": 0.9749545
-  },
-  {
-    "Title": "Google Chrome is killing all uBlock Origin bypasses, Microsoft Edge, Opera to follow",
-    "Url": "https://www.neowin.net/news/google-chrome-is-killing-all-ublock-origin-bypasses-microsoft-edge-opera-to-follow/",
-    "Timestamp": "2026-06-10T15:02:43",
-    "Domain": "www.neowin.net",
-    "Description": "Google Chrome is looking to finish off the various bypasses that help uBlock Origin and other such MV2 extensions to keep functioning. Edge and Opera could soon follow too.",
-    "Confidence": 0.98803437
-  },
-  {
-    "Title": "Mercedes‑Benz starts large‑scale production of electric axial flux motor in Berlin‑Marienfelde",
-    "Url": "https://media.mercedes-benz.com/en/article/bebac2af-acdc-465a-9538-adb0bf3d8ccf",
-    "Timestamp": "2026-06-10T15:02:34",
-    "Domain": "media.mercedes-benz.com",
-    "Description": "Revolutionary Mercedes-Benz drive system developed in Berlin-Marienfelde High-tech manufacturing: 35 processes that are new worldwide and more than 30 patent applications Production across around...",
-    "Confidence": 0.9173274
-  },
-  {
-    "Title": "How building an HTML-first site doubled our users overnight",
-    "Url": "https://mohkohn.co.uk/writing/html-first/",
-    "Timestamp": "2026-06-10T15:02:30",
-    "Domain": "mohkohn.co.uk",
-    "Description": "My client was a utility company, and they had a big problem...",
-    "Confidence": 0.9488118
   }
 ]
