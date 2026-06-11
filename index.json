@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Beam Pipe",
+    "Url": "https://xkcd.com/3257/",
+    "Timestamp": "2026-06-11T03:02:21",
+    "Domain": "xkcd.com",
+    "Description": "",
+    "Confidence": 0.98151064
+  },
+  {
+    "Title": "Anthropic's Model Naming, Extrapolated · Sam Wilkinson",
+    "Url": "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated",
+    "Timestamp": "2026-06-11T03:02:17",
+    "Domain": "samwilkinson.io",
+    "Description": "With the release of Claude Fable, it is clear that Anthropic is progressing from poems to enterprise-scale narrative objects.",
+    "Confidence": 0.88352555
+  },
+  {
     "Title": "did claude just reset usage?",
     "Url": "https://ajin.im/is/building/did-claude-just-reset-usage/",
     "Timestamp": "2026-06-10T23:04:31",
@@ -238,173 +254,5 @@
     "Domain": "github.com",
     "Description": "A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  - apple/container",
     "Confidence": 0.9969276
-  },
-  {
-    "Title": " dan—webnotes | Project starter | Lessons from a reusable web component",
-    "Url": "https://dan-webnotes.com/posts/2026-06-07-lessons-reusable-web-components/",
-    "Timestamp": "2026-06-10T03:03:55",
-    "Domain": "dan-webnotes.com",
-    "Description": "Notes from reusing a handmade web component across projects: skip the build step, publish instead of pasting, own a short namespace, theme through CSS variables, and let modern CSS adapt to context.",
-    "Confidence": 0.94054645
-  },
-  {
-    "Title": "Sami Lehtinen - Fastsync: How I Doubled rsync's Speed",
-    "Url": "https://www.sami-lehtinen.net/blog2/fastsync-how-i-doubled-rsyncs-speed",
-    "Timestamp": "2026-06-10T03:03:51",
-    "Domain": "www.sami-lehtinen.net",
-    "Description": "Writing fastsync: Why is copying files still so slow, and how I doubled rsync’s speed\nI wrote a tool called fastsync when I finally got too frustrated with rsync’s poor local copying performance.\nThis post goes through the making of the tool, the root cause I found, and why proper cache management",
-    "Confidence": 0.89850163
-  },
-  {
-    "Title": "Relocatable Derivations",
-    "Url": "https://fzakaria.com/2026/06/08/relocatable-derivations",
-    "Timestamp": "2026-06-10T03:03:47",
-    "Domain": "fzakaria.com",
-    "Description": "The earlier post on guix-transfer highlighted how we can use the tool to transfer derivations from /gnu/store to /nix/store.",
-    "Confidence": 0.96696264
-  },
-  {
-    "Title": "Don't Fuck With My .bashrc",
-    "Url": "https://fev.al/posts/dont-fuck-with-my-bashrc/",
-    "Timestamp": "2026-06-10T03:03:44",
-    "Domain": "fev.al",
-    "Description": "Everyone, to the terminal! Drop that webUI, you’re so 2024, use the terminal brah! I’m a geek! I hack stuff, I use the terminal!",
-    "Confidence": 0.9892494
-  },
-  {
-    "Title": "Why does tsgo use so much memory?",
-    "Url": "https://zackoverflow.dev/writing/why-does-tsgo-use-so-much-memory/",
-    "Timestamp": "2026-06-10T03:03:38",
-    "Domain": "zackoverflow.dev",
-    "Description": "",
-    "Confidence": 0.99214274
-  },
-  {
-    "Title": "Appreciating Exif | Brent Fitzgerald",
-    "Url": "https://brentfitzgerald.com/posts/appreciating-exif/",
-    "Timestamp": "2026-06-10T03:03:35",
-    "Domain": "brentfitzgerald.com",
-    "Description": "The '90s-era digital camera metadata format, still useful in 2026.",
-    "Confidence": 0.99203235
-  },
-  {
-    "Title": "Replace your CI with a merge queue - exe.dev blog",
-    "Url": "https://blog.exe.dev/replace-your-ci",
-    "Timestamp": "2026-06-10T03:03:32",
-    "Domain": "blog.exe.dev",
-    "Description": "Agent development means after-the-fact CI no longer works.",
-    "Confidence": 0.99173754
-  },
-  {
-    "Title": "I Built a Liquidity Sniper Bot for BNB Chain, and It Proved a Losing Game",
-    "Url": "https://e-mahmoudi.me/blog/i-built-a-liquidity-sniper-bot-for-bnb-chain-and-it-proved-a-losing-game/",
-    "Timestamp": "2026-06-10T03:03:28",
-    "Domain": "e-mahmoudi.me",
-    "Description": "I built a complete, real-time DeFi sniper bot in Go, took it live with real money on BSC, and let the data answer one honest question: can a retail bot win at sniping new token launches? It can't, and the why is more interesting than a profit chart.",
-    "Confidence": 0.96188855
-  },
-  {
-    "Title": "It used to be hard",
-    "Url": "https://www.praf.me/it-used-to-be-hard",
-    "Timestamp": "2026-06-10T03:03:22",
-    "Domain": "www.praf.me",
-    "Description": "There's this weird emotion I've been experiencing lately, that I can only seem to describe as a desire to climb on a roof and yell: \"It used to be hard!\".",
-    "Confidence": 0.9536527
-  },
-  {
-    "Title": "I read my own commits like a stranger | Egor Fedorov",
-    "Url": "https://www.egorthinks.com/blog/like-a-stranger/",
-    "Timestamp": "2026-06-10T03:03:18",
-    "Domain": "www.egorthinks.com",
-    "Description": "83% of ChatGPT users could not quote their own essay. The same started happening with my code - notes on cognitive debt from AI coding.",
-    "Confidence": 0.9705491
-  },
-  {
-    "Title": "programming a gba game on an iphone",
-    "Url": "https://blog.adamledoux.net/posts/2026-06-08-programming-a-gba-game-on-an-iphone.html",
-    "Timestamp": "2026-06-10T03:03:11",
-    "Domain": "blog.adamledoux.net",
-    "Description": "i made a short bitsylike game for gba!",
-    "Confidence": 0.9849087
-  },
-  {
-    "Title": "If Claude Fable stops helping you, you'll never know — Jonathon Ready",
-    "Url": "https://jonready.com/blog/posts/claude-fable5-is-allowed-to-sabotage-your-app-if-youre-a-competitor.html",
-    "Timestamp": "2026-06-10T03:03:08",
-    "Domain": "jonready.com",
-    "Description": "Anthropic's Claude Fable policy turns coding assistants into non-neutral infrastructure for product companies.",
-    "Confidence": 0.96896565
-  },
-  {
-    "Title": "Our first customers were the exception — Apurva Mehta",
-    "Url": "https://www.apurvamehta.com/blog/our-first-customers-were-the-exception",
-    "Timestamp": "2026-06-10T03:03:04",
-    "Domain": "www.apurvamehta.com",
-    "Description": "How a $1M+ run-rate masked a dead-end market, and why we walked away from our Kafka Streams product.",
-    "Confidence": 0.9664292
-  },
-  {
-    "Title": "Every GPS satellite is a numbers station",
-    "Url": "https://andreafortuna.org/2026/06/09/gps-numbers-station/",
-    "Timestamp": "2026-06-10T03:02:59",
-    "Domain": "andreafortuna.org",
-    "Description": "Research by Steven Murdoch of UCL suggests that GPS Subframe 4, Page 17 may have served as an OTAD-related encrypted broadcast channel for nearly two decades.",
-    "Confidence": 0.89952666
-  },
-  {
-    "Title": "On Atoms and Knowledge",
-    "Url": "https://by.ben.church/on-atoms-and-knowledge/",
-    "Timestamp": "2026-06-10T03:02:56",
-    "Domain": "by.ben.church",
-    "Description": "A note to my daughter about physics, and mostly about how to learn: find the small truths that let you rebuild everything else.",
-    "Confidence": 0.9676996
-  },
-  {
-    "Title": "I miss the climb",
-    "Url": "https://pego.dev/i-miss-the-climb/",
-    "Timestamp": "2026-06-10T03:02:50",
-    "Domain": "pego.dev",
-    "Description": "Steve Jobs once described the computer as a bicycle for the mind.\n\nI have always loved that metaphor because it captures what computers used to feel like t...",
-    "Confidence": 0.9716318
-  },
-  {
-    "Title": "Now what?",
-    "Url": "https://blog.danieljanus.pl/now-what/",
-    "Timestamp": "2026-06-10T03:02:47",
-    "Domain": "blog.danieljanus.pl",
-    "Description": "Here’s an impressive Show HN project: a comprehensive, reverse-engineered, LLM-written technical documentation of how a calculator’s operating system works. What a resource!",
-    "Confidence": 0.98368025
-  },
-  {
-    "Title": "Too Dangerous To Release (2019) – Naoki Shibuya",
-    "Url": "https://naokishibuya.github.io/blog/2022-12-30-gpt-2-2019/",
-    "Timestamp": "2026-06-10T03:02:43",
-    "Domain": "naokishibuya.github.io",
-    "Description": "",
-    "Confidence": 0.95624924
-  },
-  {
-    "Title": "Skynet: Towards Synthetic Neurobiology",
-    "Url": "https://0xcc.re/2026/05/03/skynet-towards-synthetic-neurobiology.html/",
-    "Timestamp": "2026-06-10T03:02:39",
-    "Domain": "0xcc.re",
-    "Description": "The original idea was a joke.\nI was looking at LLM loops and thinking about how they map onto Elixir’s actor model — GenServers that receive messages, process them, maybe spawn new processes. The jump from “LLM reasoning step” to “GenServer handling a message” is not that far, and once you see it you can’t unsee it. What if you gave a Soul GenServer access to Code.eval_string? What if the agents could fork themselves, spawn new processes mid-reasoning, grow the supervision tree dynamically? I called it Skynet mostly because I thought it was funny.",
-    "Confidence": 0.9696185
-  },
-  {
-    "Title": "Sovereign",
-    "Url": "https://lemire.me/blog/2026/06/09/22693/",
-    "Timestamp": "2026-06-10T03:02:33",
-    "Domain": "lemire.me",
-    "Description": "The keyword in politics these days is ‘sovereign’. What few will admit is that it is effectively the adoption of the American strategy: Make America Great Again. In other words, reindustrialization of key sectors of the economy. The UK used to be a computing champion. Our chip designs (ARM) originated from the UK. Canada had … Continue reading Sovereign",
-    "Confidence": 0.94007516
-  },
-  {
-    "Title": "The Push to Solo Work",
-    "Url": "https://adrianhoward.com/posts/the-push-to-solo-work/",
-    "Timestamp": "2026-06-10T03:02:29",
-    "Domain": "adrianhoward.com",
-    "Description": "TL;DR: Some people seem to miss that collaborative tools lose their value when used by one person.",
-    "Confidence": 0.80052936
   }
 ]
