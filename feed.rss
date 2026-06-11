@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>AI agent runs amok in Fedora and elsewhere</title>
+      <link>https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/</link>
+      <description>Agentic AI systems can be used to do a variety of things autonomously on behalf of a human user [...]</description>
+      <category>ai</category>
+      <category>linux</category>
+      <category>git</category>
+      <guid>https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/</guid>
+      <pubDate>Thu, 11 Jun 2026 07:02:09 GMT</pubDate>
+    </item>
+    <item>
       <title>Beam Pipe</title>
       <link>https://xkcd.com/3257/</link>
       <description></description>
@@ -311,35 +321,6 @@ It's not rules and guidelines, it's traditions and patterns.</description>
       <category>dotnet</category>
       <guid>https://mohkohn.co.uk/writing/html-first/</guid>
       <pubDate>Wed, 10 Jun 2026 15:02:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Landmark German ruling declares Google's AI Overviews are Google's own words and makes it liable for false answers</title>
-      <link>https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/</link>
-      <description>A German regional court has ruled that Google is directly liable for the content of its AI search overviews. According to the court, previous limited liability protections for search engine operators don't apply to AI overviews. In this case, Google's AI had falsely linked two publishers to fraud and made claims that didn't appear in any of the linked sources. The ruling could set a precedent for AI-generated content liability worldwide.</description>
-      <category>ai</category>
-      <guid>https://the-decoder.com/landmark-german-ruling-declares-googles-ai-overviews-are-googles-own-words-and-makes-it-liable-for-false-answers/</guid>
-      <pubDate>Wed, 10 Jun 2026 07:02:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Upcoming breaking changes for npm v12 - GitHub Changelog</title>
-      <link>https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/</link>
-      <description>Our next npm major version, v12, introduces security-related default changes to npm install. All these changes are available behind warnings in npm today on 11.16.0 or newer, so you can…</description>
-      <category>git</category>
-      <category>javascript</category>
-      <guid>https://github.blog/changelog/2026-06-09-upcoming-breaking-changes-for-npm-v12/</guid>
-      <pubDate>Wed, 10 Jun 2026 07:02:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>container/docs/container-machine.md at main · apple/container</title>
-      <link>https://github.com/apple/container/blob/main/docs/container-machine.md</link>
-      <description>A tool for creating and running Linux containers using lightweight virtual machines on a Mac. It is written in Swift, and optimized for Apple silicon.  - apple/container</description>
-      <category>conference</category>
-      <category>containers</category>
-      <category>apple</category>
-      <category>database</category>
-      <category>linux</category>
-      <guid>https://github.com/apple/container/blob/main/docs/container-machine.md</guid>
-      <pubDate>Wed, 10 Jun 2026 07:02:21 GMT</pubDate>
     </item>
   </channel>
 </rss>
