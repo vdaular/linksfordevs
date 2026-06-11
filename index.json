@@ -1,5 +1,21 @@
 [
   {
+    "Title": "6.0.0",
+    "Url": "https://brew.sh/2026/06/11/homebrew-6.0.0/",
+    "Timestamp": "2026-06-11T19:02:39",
+    "Domain": "brew.sh",
+    "Description": "Today, I’m proud to announce Homebrew 6.0.0. The most significant changes since 5.1.0 are a new tap trust security mechanism, the new faster, smaller, default internal Homebrew JSON API, sandboxing on Linux, better defaults informed by our user survey, many brew bundle improvements, improved performance and initial support for macOS 27 (Golden Gate).",
+    "Confidence": 0.97582906
+  },
+  {
+    "Title": "Lines of Code Got a Better Publicist",
+    "Url": "https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/",
+    "Timestamp": "2026-06-11T19:02:21",
+    "Domain": "curlewis.co.nz",
+    "Description": "A case against measuring AI-assisted engineering by code volume and other vanity metrics instead of outcomes.",
+    "Confidence": 0.94506294
+  },
+  {
     "Title": "AI agent runs amok in Fedora and elsewhere",
     "Url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
     "Timestamp": "2026-06-11T07:02:09",
@@ -206,13 +222,5 @@
     "Domain": "herman.bearblog.dev",
     "Description": "Improving memory though writing",
     "Confidence": 0.9310012
-  },
-  {
-    "Title": "Our funding announcement - PgDog",
-    "Url": "https://pgdog.dev/blog/our-funding-announcement",
-    "Timestamp": "2026-06-10T19:02:28",
-    "Domain": "pgdog.dev",
-    "Description": "PgDog is a connection pooler, load balancer, and sharding proxy for PostgreSQL. Scale Postgres horizontally without rewriting your application.",
-    "Confidence": 0.9749545
   }
 ]

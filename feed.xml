@@ -7,6 +7,26 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>6.0.0</title>
+      <link>https://brew.sh/2026/06/11/homebrew-6.0.0/</link>
+      <description>Today, I’m proud to announce Homebrew 6.0.0. The most significant changes since 5.1.0 are a new tap trust security mechanism, the new faster, smaller, default internal Homebrew JSON API, sandboxing on Linux, better defaults informed by our user survey, many brew bundle improvements, improved performance and initial support for macOS 27 (Golden Gate).</description>
+      <category>ruby</category>
+      <category>linux</category>
+      <category>git</category>
+      <category>javascript</category>
+      <category>rust</category>
+      <guid>https://brew.sh/2026/06/11/homebrew-6.0.0/</guid>
+      <pubDate>Thu, 11 Jun 2026 19:02:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Lines of Code Got a Better Publicist</title>
+      <link>https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/</link>
+      <description>A case against measuring AI-assisted engineering by code volume and other vanity metrics instead of outcomes.</description>
+      <category>ai</category>
+      <guid>https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/</guid>
+      <pubDate>Thu, 11 Jun 2026 19:02:21 GMT</pubDate>
+    </item>
+    <item>
       <title>AI agent runs amok in Fedora and elsewhere</title>
       <link>https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/</link>
       <description>Agentic AI systems can be used to do a variety of things autonomously on behalf of a human user [...]</description>
@@ -284,16 +304,6 @@ It's not rules and guidelines, it's traditions and patterns.</description>
       <category>ai</category>
       <guid>https://herman.bearblog.dev/active-recall/</guid>
       <pubDate>Wed, 10 Jun 2026 23:02:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Our funding announcement - PgDog</title>
-      <link>https://pgdog.dev/blog/our-funding-announcement</link>
-      <description>PgDog is a connection pooler, load balancer, and sharding proxy for PostgreSQL. Scale Postgres horizontally without rewriting your application.</description>
-      <author> (Lev Kokotov)</author>
-      <category>containers</category>
-      <category>cloud</category>
-      <guid>https://pgdog.dev/blog/our-funding-announcement</guid>
-      <pubDate>Wed, 10 Jun 2026 19:02:28 GMT</pubDate>
     </item>
   </channel>
 </rss>
