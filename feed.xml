@@ -7,6 +7,23 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>You can finally power on a Mac remotely</title>
+      <link>https://www.jeffgeerling.com/blog/2026/power-on-your-mac-remotely/</link>
+      <description>Apple FINALLY lets you turn on your Mac remotely, without having to press the power button. In the media, articles suggest it's a reaction to Mac mini power button complaints.
+While I agree the M4 mini's power button is in a really dumb spot, that's not why I care about this feature. The two bigger use cases for me have been a pain for years:</description>
+      <category>apple</category>
+      <guid>https://www.jeffgeerling.com/blog/2026/power-on-your-mac-remotely/</guid>
+      <pubDate>Fri, 12 Jun 2026 15:02:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>I can never fully embrace LLMs for code</title>
+      <link>https://idiallo.com/blog/i-can-never-embrace-llms-to-write-code</link>
+      <description>My younger sister graduated with a CompSci degree a few years ago. I've been behind her, motivating her and demystifying the world of programming from the very beginning. There was a piece of advice I</description>
+      <category>ai</category>
+      <guid>https://idiallo.com/blog/i-can-never-embrace-llms-to-write-code</guid>
+      <pubDate>Fri, 12 Jun 2026 15:02:22 GMT</pubDate>
+    </item>
+    <item>
       <title>AI Agent Bankrupted Their Operator While Trying to Scan DN42 - Lan Tian @ Blog</title>
       <link>https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/</link>
       <description>An AI agent tried to join the DN42 hobbyist network to perform a network scan, and bankrupted their operator with a $6531.30 AWS bill.</description>

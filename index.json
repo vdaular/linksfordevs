@@ -1,5 +1,21 @@
 [
   {
+    "Title": "You can finally power on a Mac remotely",
+    "Url": "https://www.jeffgeerling.com/blog/2026/power-on-your-mac-remotely/",
+    "Timestamp": "2026-06-12T15:02:28",
+    "Domain": "www.jeffgeerling.com",
+    "Description": "Apple FINALLY lets you turn on your Mac remotely, without having to press the power button. In the media, articles suggest it's a reaction to Mac mini power button complaints.\nWhile I agree the M4 mini's power button is in a really dumb spot, that's not why I care about this feature. The two bigger use cases for me have been a pain for years:",
+    "Confidence": 0.9585415
+  },
+  {
+    "Title": "I can never fully embrace LLMs for code",
+    "Url": "https://idiallo.com/blog/i-can-never-embrace-llms-to-write-code",
+    "Timestamp": "2026-06-12T15:02:22",
+    "Domain": "idiallo.com",
+    "Description": "My younger sister graduated with a CompSci degree a few years ago. I've been behind her, motivating her and demystifying the world of programming from the very beginning. There was a piece of advice I",
+    "Confidence": 0.9790513
+  },
+  {
     "Title": "AI Agent Bankrupted Their Operator While Trying to Scan DN42 - Lan Tian @ Blog",
     "Url": "https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/",
     "Timestamp": "2026-06-12T11:02:22",
