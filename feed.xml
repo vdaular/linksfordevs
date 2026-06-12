@@ -7,6 +7,29 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Why I’m Forced to Say Farewell: Google Management Has Lost Its Moral Compass | René Mayrhofer</title>
+      <link>https://www.mayrhofer.eu.org/post/leaving-google/</link>
+      <description>I am forced to leave Google with 2026-08-31 because of the deal with the US Department of War, which is incompatible with my ethical principles.</description>
+      <category>android</category>
+      <category>encryption</category>
+      <category>ai</category>
+      <category>apple</category>
+      <category>ides</category>
+      <guid>https://www.mayrhofer.eu.org/post/leaving-google/</guid>
+      <pubDate>Fri, 12 Jun 2026 07:02:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Fable is relentlessly proactive</title>
+      <link>https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/</link>
+      <description>After two days of experience with Claude Fable 5 I think the best way to describe it is relentlessly proactive. It knows a whole lot of tricks and it will …</description>
+      <category>ai</category>
+      <category>python</category>
+      <category>javascript</category>
+      <category>web</category>
+      <guid>https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/</guid>
+      <pubDate>Fri, 12 Jun 2026 07:02:13 GMT</pubDate>
+    </item>
+    <item>
       <title>If You are Asking for Human Attention, Demonstrate Human Effort | Tom Bedor's Blog</title>
       <link>https://tombedor.dev/human-attention-and-human-effort/</link>
       <description>An ever-increasing volume of debug investigations, document writing, and code is written by robots. This has created a new etiquette question when working with a team - when is it OK to forward the output of an AI to another human to read?</description>
@@ -238,16 +261,6 @@ itself.</description>
       <category>ai</category>
       <guid>https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/</guid>
       <pubDate>Thu, 11 Jun 2026 19:02:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI agent runs amok in Fedora and elsewhere</title>
-      <link>https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/</link>
-      <description>Agentic AI systems can be used to do a variety of things autonomously on behalf of a human user [...]</description>
-      <category>ai</category>
-      <category>linux</category>
-      <category>git</category>
-      <guid>https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/</guid>
-      <pubDate>Thu, 11 Jun 2026 07:02:09 GMT</pubDate>
     </item>
   </channel>
 </rss>

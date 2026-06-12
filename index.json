@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Why I’m Forced to Say Farewell: Google Management Has Lost Its Moral Compass | René Mayrhofer",
+    "Url": "https://www.mayrhofer.eu.org/post/leaving-google/",
+    "Timestamp": "2026-06-12T07:02:22",
+    "Domain": "www.mayrhofer.eu.org",
+    "Description": "I am forced to leave Google with 2026-08-31 because of the deal with the US Department of War, which is incompatible with my ethical principles.",
+    "Confidence": 0.9344117
+  },
+  {
+    "Title": "Claude Fable is relentlessly proactive",
+    "Url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
+    "Timestamp": "2026-06-12T07:02:13",
+    "Domain": "simonwillison.net",
+    "Description": "After two days of experience with Claude Fable 5 I think the best way to describe it is relentlessly proactive. It knows a whole lot of tricks and it will …",
+    "Confidence": 0.97489756
+  },
+  {
     "Title": "If You are Asking for Human Attention, Demonstrate Human Effort | Tom Bedor's Blog",
     "Url": "https://tombedor.dev/human-attention-and-human-effort/",
     "Timestamp": "2026-06-12T03:02:38",
@@ -174,13 +190,5 @@
     "Domain": "curlewis.co.nz",
     "Description": "A case against measuring AI-assisted engineering by code volume and other vanity metrics instead of outcomes.",
     "Confidence": 0.94506294
-  },
-  {
-    "Title": "AI agent runs amok in Fedora and elsewhere",
-    "Url": "https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/",
-    "Timestamp": "2026-06-11T07:02:09",
-    "Domain": "lwn.net",
-    "Description": "Agentic AI systems can be used to do a variety of things autonomously on behalf of a human user [...]",
-    "Confidence": 0.8763085
   }
 ]
