@@ -7,6 +7,173 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>F-bombs don’t make LLMs smarter</title>
+      <link>https://tcz.hu/blog/2026/06/12/swearing-and-llms/</link>
+      <description>Imagine someone asks you to solve a math puzzle right after you stepped on a LEGO brick. Are you going to do better or worse than the baseline? Relatedly, can we make LLMs step on LEGO bricks?</description>
+      <category>ai</category>
+      <guid>https://tcz.hu/blog/2026/06/12/swearing-and-llms/</guid>
+      <pubDate>Fri, 12 Jun 2026 23:03:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to Build an Effective Lexicon for Product Teams - scapellato.dev</title>
+      <link>https://www.scapellato.dev/blog/build-an-effective-product-lexicon</link>
+      <description>How simple event design creates clarity across product, data, and engineering</description>
+      <category>ai</category>
+      <guid>https://www.scapellato.dev/blog/build-an-effective-product-lexicon</guid>
+      <pubDate>Fri, 12 Jun 2026 23:03:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Illuminated Computing | My Claude Code Setup</title>
+      <link>https://illuminatedcomputing.com/posts/2026/06/my-claude-code-setup/</link>
+      <description>I seem to have an unusual way of running Claude Code, but I find it a good trade-off between convenience and security.</description>
+      <category>containers</category>
+      <category>cloud</category>
+      <category>linux</category>
+      <category>git</category>
+      <category>ai</category>
+      <guid>https://illuminatedcomputing.com/posts/2026/06/my-claude-code-setup/</guid>
+      <pubDate>Fri, 12 Jun 2026 23:03:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>let’s do postfix again – brokkr.net</title>
+      <link>https://brokkr.net/tag/lets-do-postfix-again/</link>
+      <description>The mailboxes are from Denmark. That’s the joke.</description>
+      <category>encryption</category>
+      <category>linux</category>
+      <category>dotnet</category>
+      <guid>https://brokkr.net/tag/lets-do-postfix-again/</guid>
+      <pubDate>Fri, 12 Jun 2026 23:03:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vibe Trading - Gibberish and Stuff</title>
+      <link>https://zhenyi.gibber.blog/vibe-trading</link>
+      <description>The old internet was a niche community. Only a few nerds were there. Then every September, a batch of university freshmen would join, causing a lot of annoyance. But it was okay, because they...</description>
+      <category>ai</category>
+      <guid>https://zhenyi.gibber.blog/vibe-trading</guid>
+      <pubDate>Fri, 12 Jun 2026 23:03:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Introduction to UEFI HTTP(S) boot with Qemu/OVMF</title>
+      <link>https://blog.yadutaf.fr/2026/06/12/introduction-to-uefi-https-boot-qemu-ovmf/</link>
+      <description>The historic go-to solution for network booting is PXE. PXE is based on DHCP and
+TFTP. It is tricky to correctly configure, even trickier to make it highly available and
+good luck with the security with this clear-text unsigned protocol.</description>
+      <category>linux</category>
+      <category>apple</category>
+      <category>ai</category>
+      <category>cloud</category>
+      <category>encryption</category>
+      <guid>https://blog.yadutaf.fr/2026/06/12/introduction-to-uefi-https-boot-qemu-ovmf/</guid>
+      <pubDate>Fri, 12 Jun 2026 23:03:09 GMT</pubDate>
+    </item>
+    <item>
+      <title>Sandboxes Are Not Security - Jelmer Snoeck</title>
+      <link>https://jlmr.dev/posts/sandboxes-are-not-security/</link>
+      <description>Software Engineer writing about infrastructure, Kubernetes, and Go</description>
+      <category>cloud</category>
+      <category>containers</category>
+      <category>ai</category>
+      <guid>https://jlmr.dev/posts/sandboxes-are-not-security/</guid>
+      <pubDate>Fri, 12 Jun 2026 23:03:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>Twenty Years of Stacking Commits — jd:/dev/blog</title>
+      <link>https://julien.danjou.info/blog/twenty-years-of-stacking-commits/</link>
+      <description>Every code review tool I've used in twenty years has tried to answer the same question. AI just made the answer unavoidable.</description>
+      <author> (https://julien.danjou.info/about)</author>
+      <category>git</category>
+      <category>rust</category>
+      <category>android</category>
+      <category>ai</category>
+      <category>python</category>
+      <guid>https://julien.danjou.info/blog/twenty-years-of-stacking-commits/</guid>
+      <pubDate>Fri, 12 Jun 2026 23:03:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>My Struggles Talking to An Old Piece Of Junk (Fanuc 0M) | Nia Schlegel</title>
+      <link>https://3nt3.de/blog/fanuc-0m-rs232-struggles</link>
+      <description>This February I became the proud owner of an old Hermle UWF 851 vertical machining center. An industrial CNC mill with tool changer and everything.
+I already had a FoxAlien Masuter Pro (which seems laughable in comparison) and a lot of 3D-printing experience so I knew GCode.
+The workflow I was used to was to draw things up in CAD, do CAM (or slicing for 3d-printing) post-process them somehow and load them onto the respective machines.
+I knew the Fanuc 0M theoretically had the capability to get programs from a serial port with a DB25 connector on the side of the control cabinet but because I bought the machine without ever seeing it running I had no idea how to actually do that. Or how to use it in general lol.</description>
+      <category>rust</category>
+      <guid>https://3nt3.de/blog/fanuc-0m-rs232-struggles</guid>
+      <pubDate>Fri, 12 Jun 2026 23:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Plate Flip</title>
+      <link>https://xkcd.com/3258/</link>
+      <description></description>
+      <category>apple</category>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3258/</guid>
+      <pubDate>Fri, 12 Jun 2026 23:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>Commits</title>
+      <link>https://shub.club/writings/2026/june/commits/</link>
+      <description>A new code world</description>
+      <guid>https://shub.club/writings/2026/june/commits/</guid>
+      <pubDate>Fri, 12 Jun 2026 23:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Building a tiny FUSE filesystem</title>
+      <link>https://www.shayon.dev/post/2026/161/building-a-tiny-fuse-filesystem/</link>
+      <description>Building a small filesystem in Rust with metadata in JSON and file contents in plain local files, using FUSE to explore inodes, caching, and what it means for a write to become durable.</description>
+      <category>javascript</category>
+      <category>linux</category>
+      <category>rust</category>
+      <category>containers</category>
+      <guid>https://www.shayon.dev/post/2026/161/building-a-tiny-fuse-filesystem/</guid>
+      <pubDate>Fri, 12 Jun 2026 23:02:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>How it feels to be an old school web-based sports sim dev when tons of vibecoded web-based sports sims are being released « Blog « ZenGM</title>
+      <link>https://zengm.com/blog/2026/06/vibecoded-games/</link>
+      <description>Back when I started working on the web-based version of Basketball GM in 2012, web development was very different. npm was brand new and hardly anyone used it. Bundling/deploying JS was very primitive, a lot of people still were just concatenating files together. And things like TypeScript, React, async/await... these did not even exist yet!</description>
+      <category>gaming</category>
+      <category>ai</category>
+      <category>javascript</category>
+      <category>typescript</category>
+      <category>web</category>
+      <guid>https://zengm.com/blog/2026/06/vibecoded-games/</guid>
+      <pubDate>Fri, 12 Jun 2026 23:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>4× RTX PRO 6000 Blackwell on Water, and the One Card That Wouldn't Behave</title>
+      <link>https://sabareesh.com/posts/blackwell-waterblock/</link>
+      <description>Converting four RTX PRO 6000 Blackwell cards to waterblocks, finding a VRM choke loose on the workbench, and getting back to 41k tok/s.</description>
+      <category>javascript</category>
+      <category>dotnet</category>
+      <guid>https://sabareesh.com/posts/blackwell-waterblock/</guid>
+      <pubDate>Fri, 12 Jun 2026 23:02:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI juries</title>
+      <link>https://alejo.ch/3he</link>
+      <description>This is part of a series I’m writing on
+generative AI.</description>
+      <category>ai</category>
+      <guid>https://alejo.ch/3he</guid>
+      <pubDate>Fri, 12 Jun 2026 23:02:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ignore what everyone else is doing</title>
+      <link>https://briandouglas.ie/developer_noise/</link>
+      <description>I check Hacker News and Lobsters all the time. It's sort of like an addiction, or maybe
+just a bad habit. It started about three years ago when I would post blog links on the
+two platforms. Which Lobsters banned me for. Apparently self promotion is wrong. Well
+I have no friends or colleagues to post for me, so it's self promotion or no promotion.
+Anyway, there was a time when I would occasionally find a gem from a dev blog on those
+sites. This fuelled the dopamine hit and got me coming back for more. Over time I found
+increasingly less content that was in anyway useful or insightful. 
+
+</description>
+      <category>ai</category>
+      <guid>https://briandouglas.ie/developer_noise/</guid>
+      <pubDate>Fri, 12 Jun 2026 23:02:33 GMT</pubDate>
+    </item>
+    <item>
       <title>A Call to Action: Stop the FCC's KYC Regime</title>
       <link>https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/</link>
       <description>The FCC is proposing to require KYC for anyone who uses a phone. We can act now to stop further erosion of our privacy.</description>
@@ -80,203 +247,6 @@ While I agree the M4 mini's power button is in a really dumb spot, that's not wh
       <category>ai</category>
       <guid>https://fablepool.com/</guid>
       <pubDate>Fri, 12 Jun 2026 03:02:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Making a better Social Media</title>
-      <link>https://amrshawky.com/posts/making-a-better-social-media/</link>
-      <description>Introduction What is a ‘better’ social media? My last post on recreating old Facebook surprisingly made it to the front page of Hacker News, so it’s safe to assume there’s some interest, or nostalgia, for something in the social space that perhaps existed or could exist, but doesn’t.
-Like many, I love the internet but dislike modern social media. I’ve basically spent the last year obsessively wondering what I would want from an ideal social platform, how it would work, how it would make money, etc.</description>
-      <category>apple</category>
-      <category>android</category>
-      <guid>https://amrshawky.com/posts/making-a-better-social-media/</guid>
-      <pubDate>Thu, 11 Jun 2026 23:04:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>A Greyscale iPhone Setup that Works in Everyday Life ⋅ Prof. Dr.-Ing. Fabian Hemmert</title>
-      <link>https://www.fabianhemmert.com/opinions/a-greyscale-iphone-setup-that-works-in-everyday-life</link>
-      <description></description>
-      <category>apple</category>
-      <guid>https://www.fabianhemmert.com/opinions/a-greyscale-iphone-setup-that-works-in-everyday-life</guid>
-      <pubDate>Thu, 11 Jun 2026 23:04:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reverse Engineering the Anticheat on a Private MMO Server</title>
-      <link>https://blog.cristianrz.eu.org/posts/active-anticheat/</link>
-      <description>I play on a private Aion server. For those unfamiliar, Aion is an MMO from 2009 that NCSoft has largely abandoned in the West, but a community of private servers keeps it alive. The server I play on uses a third-party anticheat called Active Anticheat, a commercial product sold to private server operators by a developer in Warsaw.
-I got curious about what it actually does to my machine. A few evenings with Wireshark, Procmon, Ghidra, and pefile later, here’s what I found.</description>
-      <category>encryption</category>
-      <category>gaming</category>
-      <guid>https://blog.cristianrz.eu.org/posts/active-anticheat/</guid>
-      <pubDate>Thu, 11 Jun 2026 23:04:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Trying to fix complicated problems — Epi Notes</title>
-      <link>https://blog.griffens.net/blog/trying-to-fix-complicated-problems/</link>
-      <description>One day I watched a video where David Pruess goes through an analysis of a chess position (David is an amazing chess teacher and commentator), and he goes through like a dozen moves before pointing out one random little detail that reverses the conclusion. This is kind of funny because a less talented chess player looks at the position, miscalculates everywhere, gives up and goes, "well idk, White must be losing." An advanced player knows what they're doing -- and clearly, White is winning. And a tiny handful of players say hmm, something seems off here, and they get great joy out of looking for that random little detail, and that detail wins them the game. The real world seems more like chess than checkers, and most of us aren't that good.</description>
-      <category>gaming</category>
-      <guid>https://blog.griffens.net/blog/trying-to-fix-complicated-problems/</guid>
-      <pubDate>Thu, 11 Jun 2026 23:04:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>MTG Bench: Testing how well LLMs can play magic</title>
-      <link>https://mtgautodeck.com/articles/mtg-bench/</link>
-      <description>MTG Bench tests how well LLMs can play Magic.</description>
-      <category>ai</category>
-      <category>cloud</category>
-      <category>git</category>
-      <guid>https://mtgautodeck.com/articles/mtg-bench/</guid>
-      <pubDate>Thu, 11 Jun 2026 23:04:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>How a New DSL May Survive in the Era of LLMs</title>
-      <link>https://www.williamcotton.com/articles/how-a-new-dsl-survives-in-the-era-of-llms</link>
-      <description>How a New DSL Survives in the Era of LLMs</description>
-      <category>ai</category>
-      <category>ruby</category>
-      <category>rust</category>
-      <category>database</category>
-      <category>python</category>
-      <guid>https://www.williamcotton.com/articles/how-a-new-dsl-survives-in-the-era-of-llms</guid>
-      <pubDate>Thu, 11 Jun 2026 23:04:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>~fpereiro</title>
-      <link>https://federicopereiro.com/llm-not-high/</link>
-      <description>A few months ago I wrote an article in which I considered the idea of LLMs being the “new high level language”: something on a higher abstraction layer that allows to build software.</description>
-      <category>ruby</category>
-      <category>javascript</category>
-      <category>ai</category>
-      <category>python</category>
-      <guid>https://federicopereiro.com/llm-not-high/</guid>
-      <pubDate>Thu, 11 Jun 2026 23:04:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>The outsized impact of cultural idiosyncrasies</title>
-      <link>https://luke.hsiao.dev/blog/cultural-idiosyncrasies/</link>
-      <description>Cultural idiosyncrasies reveal what a company actually does, not just what it says. They can have an outsized impact on both public company image and internal perception and job satisfaction.</description>
-      <category>git</category>
-      <category>rust</category>
-      <category>linux</category>
-      <guid>https://luke.hsiao.dev/blog/cultural-idiosyncrasies/</guid>
-      <pubDate>Thu, 11 Jun 2026 23:04:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tailwind and slop apps</title>
-      <link>https://briandouglas.ie/llm-tailwind-template/</link>
-      <description></description>
-      <category>python</category>
-      <guid>https://briandouglas.ie/llm-tailwind-template/</guid>
-      <pubDate>Thu, 11 Jun 2026 23:04:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Have you bought a car lately? • Ninjas and Robots</title>
-      <link>https://ninjasandrobots.com/single-people-can-be-as-productive-as-whole-teams</link>
-      <description>Single people can be as productive as whole teams. People are freaking out. There’s so much angst about how their jobs are changing with AI. I get it. It does feel like the things you used to do aren’t as valuable anymore. There’s new things to... | Ninjas and Robots | Engineer, Designer, Founder | Founding Engineer at Census (acquired by Fivetran) | Ex-CEO Highrise | Y Combinator Alum | Made Draft</description>
-      <category>ruby</category>
-      <category>linux</category>
-      <category>ai</category>
-      <guid>https://ninjasandrobots.com/single-people-can-be-as-productive-as-whole-teams</guid>
-      <pubDate>Thu, 11 Jun 2026 23:04:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Preliminary analysis of AUR malware</title>
-      <link>https://ioctl.fail/preliminary-analysis-of-aur-malware/</link>
-      <description>Malware Analysis Report: deps
-
-Report date: 2026-06-11
-VT Link
-Triage Link
-
-Note: The following report was very hastily written by Codex.
-(I have fact-checked it against the IDA decompilation though 🐉)
-
-
-Scope and Handling
-
-This report summarizes static reverse engineering of the Linux ELF malware sample named deps and static review</description>
-      <category>containers</category>
-      <category>rust</category>
-      <category>ai</category>
-      <category>linux</category>
-      <category>conference</category>
-      <guid>https://ioctl.fail/preliminary-analysis-of-aur-malware/</guid>
-      <pubDate>Thu, 11 Jun 2026 23:04:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lisp’s Influence on Ruby</title>
-      <link>https://blog.tacoda.dev/lisps-influence-on-ruby-6a54f1a7740e</link>
-      <description>Once I wrote users.select { |u| u.admin? }.map(&amp;:email) and realized I’d written Lisp.</description>
-      <author> (https://blog.tacoda.dev)</author>
-      <category>ruby</category>
-      <guid>https://blog.tacoda.dev/lisps-influence-on-ruby-6a54f1a7740e</guid>
-      <pubDate>Thu, 11 Jun 2026 23:03:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Making a vintage LLM from scratch - Cr;Lf;</title>
-      <link>https://crlf.link/log/entries/260525-1/</link>
-      <description>In this blog post, I will share the adventures I had creating my own LLM, from (almost) scratch, trained only on old texts.I made my own base-training and fine-tuning scripts, data processing pipelines and custom datasets.("almost from scratch" means I did use existing programming languages and libraries, I didn't write in Assembly, just like anyone else who builds an AI "from scratch"...)</description>
-      <category>ai</category>
-      <guid>https://crlf.link/log/entries/260525-1/</guid>
-      <pubDate>Thu, 11 Jun 2026 23:03:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Finding Optimal Tokenizers</title>
-      <link>https://blog.aqnichol.com/2026/06/10/optimal-tokenizers/</link>
-      <description>In this post, I will present an algorithm that was able to compute an optimal tokenizer in some
-                settings. This result is cool because optimal tokenization is theoretically intractable, but seems to be solvable in
-                practice. My finding is very similar to various results on the Traveling Salesman Problem (TSP), where
-                even difficult instances can be solved optimally using cutting-plane techniques.</description>
-      <category>apple</category>
-      <category>ai</category>
-      <guid>https://blog.aqnichol.com/2026/06/10/optimal-tokenizers/</guid>
-      <pubDate>Thu, 11 Jun 2026 23:03:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>What Happened to tea.xyz</title>
-      <link>https://nesbitt.io/2026/06/11/what-happened-to-tea.html</link>
-      <description>Reading the tea leaves</description>
-      <category>ruby</category>
-      <category>javascript</category>
-      <category>rust</category>
-      <category>ai</category>
-      <category>git</category>
-      <guid>https://nesbitt.io/2026/06/11/what-happened-to-tea.html</guid>
-      <pubDate>Thu, 11 Jun 2026 23:03:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>A Commons of Software Productive Infrastructure, By and For Capital</title>
-      <link>https://marewolf.me/posts/draupnir/26/software-productive-infrastructure.html</link>
-      <description>There is a growing call for sustainable open source, non-profits,
-and adjacent organisations that appears to align with the very strong
-culture of radical anti-capitalist organising and contribution in
-either free or open source software projects1. There is also an
-almost unaminous shallow understanding that there is an "exploitation
-of the software commons" by capitalists, in that software licenses
-typically permit capitalist firms to use software without
-reciprocating value. But it ignores that capitalist firms have always
-been drivers of free or open source, even within the GNU Project
-itself.</description>
-      <category>linux</category>
-      <category>containers</category>
-      <category>git</category>
-      <guid>https://marewolf.me/posts/draupnir/26/software-productive-infrastructure.html</guid>
-      <pubDate>Thu, 11 Jun 2026 23:03:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>The optimal number of unreviewed PRs is not zero</title>
-      <link>https://jawnb.github.io/unreviewed-prs/</link>
-      <description>Code got cheap. Review didn’t. What queueing theory says about the AI-era backlog.</description>
-      <category>ai</category>
-      <guid>https://jawnb.github.io/unreviewed-prs/</guid>
-      <pubDate>Thu, 11 Jun 2026 23:03:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Neural Cellular Automata with WebGPU</title>
-      <link>https://ivanludvig.dev/tech/neural-ca-webgpu</link>
-      <description>A WebGPU demo of Growing Neural Cellular Automata. Each cell runs inference through a shared pretrained neural network entirely in compute shaders</description>
-      <category>web</category>
-      <guid>https://ivanludvig.dev/tech/neural-ca-webgpu</guid>
-      <pubDate>Thu, 11 Jun 2026 23:03:30 GMT</pubDate>
     </item>
   </channel>
 </rss>

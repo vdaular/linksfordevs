@@ -1,5 +1,133 @@
 [
   {
+    "Title": "F-bombs don’t make LLMs smarter",
+    "Url": "https://tcz.hu/blog/2026/06/12/swearing-and-llms/",
+    "Timestamp": "2026-06-12T23:03:39",
+    "Domain": "tcz.hu",
+    "Description": "Imagine someone asks you to solve a math puzzle right after you stepped on a LEGO brick. Are you going to do better or worse than the baseline? Relatedly, can we make LLMs step on LEGO bricks?",
+    "Confidence": 0.950915
+  },
+  {
+    "Title": "How to Build an Effective Lexicon for Product Teams - scapellato.dev",
+    "Url": "https://www.scapellato.dev/blog/build-an-effective-product-lexicon",
+    "Timestamp": "2026-06-12T23:03:36",
+    "Domain": "www.scapellato.dev",
+    "Description": "How simple event design creates clarity across product, data, and engineering",
+    "Confidence": 0.9949994
+  },
+  {
+    "Title": "Illuminated Computing | My Claude Code Setup",
+    "Url": "https://illuminatedcomputing.com/posts/2026/06/my-claude-code-setup/",
+    "Timestamp": "2026-06-12T23:03:32",
+    "Domain": "illuminatedcomputing.com",
+    "Description": "I seem to have an unusual way of running Claude Code, but I find it a good trade-off between convenience and security.",
+    "Confidence": 0.99643403
+  },
+  {
+    "Title": "let’s do postfix again – brokkr.net",
+    "Url": "https://brokkr.net/tag/lets-do-postfix-again/",
+    "Timestamp": "2026-06-12T23:03:29",
+    "Domain": "brokkr.net",
+    "Description": "The mailboxes are from Denmark. That’s the joke.",
+    "Confidence": 0.8701682
+  },
+  {
+    "Title": "Vibe Trading - Gibberish and Stuff",
+    "Url": "https://zhenyi.gibber.blog/vibe-trading",
+    "Timestamp": "2026-06-12T23:03:14",
+    "Domain": "zhenyi.gibber.blog",
+    "Description": "The old internet was a niche community. Only a few nerds were there. Then every September, a batch of university freshmen would join, causing a lot of annoyance. But it was okay, because they...",
+    "Confidence": 0.835234
+  },
+  {
+    "Title": "Introduction to UEFI HTTP(S) boot with Qemu/OVMF",
+    "Url": "https://blog.yadutaf.fr/2026/06/12/introduction-to-uefi-https-boot-qemu-ovmf/",
+    "Timestamp": "2026-06-12T23:03:09",
+    "Domain": "blog.yadutaf.fr",
+    "Description": "The historic go-to solution for network booting is PXE. PXE is based on DHCP and\nTFTP. It is tricky to correctly configure, even trickier to make it highly available and\ngood luck with the security with this clear-text unsigned protocol.",
+    "Confidence": 0.99620056
+  },
+  {
+    "Title": "Sandboxes Are Not Security - Jelmer Snoeck",
+    "Url": "https://jlmr.dev/posts/sandboxes-are-not-security/",
+    "Timestamp": "2026-06-12T23:03:06",
+    "Domain": "jlmr.dev",
+    "Description": "Software Engineer writing about infrastructure, Kubernetes, and Go",
+    "Confidence": 0.9656023
+  },
+  {
+    "Title": "Twenty Years of Stacking Commits — jd:/dev/blog",
+    "Url": "https://julien.danjou.info/blog/twenty-years-of-stacking-commits/",
+    "Timestamp": "2026-06-12T23:03:04",
+    "Domain": "julien.danjou.info",
+    "Description": "Every code review tool I've used in twenty years has tried to answer the same question. AI just made the answer unavoidable.",
+    "Confidence": 0.9700983
+  },
+  {
+    "Title": "My Struggles Talking to An Old Piece Of Junk (Fanuc 0M) | Nia Schlegel",
+    "Url": "https://3nt3.de/blog/fanuc-0m-rs232-struggles",
+    "Timestamp": "2026-06-12T23:03:00",
+    "Domain": "3nt3.de",
+    "Description": "This February I became the proud owner of an old Hermle UWF 851 vertical machining center. An industrial CNC mill with tool changer and everything.\nI already had a FoxAlien Masuter Pro (which seems laughable in comparison) and a lot of 3D-printing experience so I knew GCode.\nThe workflow I was used to was to draw things up in CAD, do CAM (or slicing for 3d-printing) post-process them somehow and load them onto the respective machines.\nI knew the Fanuc 0M theoretically had the capability to get programs from a serial port with a DB25 connector on the side of the control cabinet but because I bought the machine without ever seeing it running I had no idea how to actually do that. Or how to use it in general lol.",
+    "Confidence": 0.9454203
+  },
+  {
+    "Title": "Plate Flip",
+    "Url": "https://xkcd.com/3258/",
+    "Timestamp": "2026-06-12T23:02:54",
+    "Domain": "xkcd.com",
+    "Description": "",
+    "Confidence": 0.98151064
+  },
+  {
+    "Title": "Commits",
+    "Url": "https://shub.club/writings/2026/june/commits/",
+    "Timestamp": "2026-06-12T23:02:51",
+    "Domain": "shub.club",
+    "Description": "A new code world",
+    "Confidence": 0.97657293
+  },
+  {
+    "Title": "Building a tiny FUSE filesystem",
+    "Url": "https://www.shayon.dev/post/2026/161/building-a-tiny-fuse-filesystem/",
+    "Timestamp": "2026-06-12T23:02:47",
+    "Domain": "www.shayon.dev",
+    "Description": "Building a small filesystem in Rust with metadata in JSON and file contents in plain local files, using FUSE to explore inodes, caching, and what it means for a write to become durable.",
+    "Confidence": 0.97502196
+  },
+  {
+    "Title": "How it feels to be an old school web-based sports sim dev when tons of vibecoded web-based sports sims are being released « Blog « ZenGM",
+    "Url": "https://zengm.com/blog/2026/06/vibecoded-games/",
+    "Timestamp": "2026-06-12T23:02:44",
+    "Domain": "zengm.com",
+    "Description": "Back when I started working on the web-based version of Basketball GM in 2012, web development was very different. npm was brand new and hardly anyone used it. Bundling/deploying JS was very primitive, a lot of people still were just concatenating files together. And things like TypeScript, React, async/await... these did not even exist yet!",
+    "Confidence": 0.9914569
+  },
+  {
+    "Title": "4× RTX PRO 6000 Blackwell on Water, and the One Card That Wouldn't Behave",
+    "Url": "https://sabareesh.com/posts/blackwell-waterblock/",
+    "Timestamp": "2026-06-12T23:02:40",
+    "Domain": "sabareesh.com",
+    "Description": "Converting four RTX PRO 6000 Blackwell cards to waterblocks, finding a VRM choke loose on the workbench, and getting back to 41k tok/s.",
+    "Confidence": 0.88377416
+  },
+  {
+    "Title": "AI juries",
+    "Url": "https://alejo.ch/3he",
+    "Timestamp": "2026-06-12T23:02:36",
+    "Domain": "alejo.ch",
+    "Description": "This is part of a series I’m writing on\ngenerative AI.",
+    "Confidence": 0.9914043
+  },
+  {
+    "Title": "Ignore what everyone else is doing",
+    "Url": "https://briandouglas.ie/developer_noise/",
+    "Timestamp": "2026-06-12T23:02:33",
+    "Domain": "briandouglas.ie",
+    "Description": "I check Hacker News and Lobsters all the time. It's sort of like an addiction, or maybe\njust a bad habit. It started about three years ago when I would post blog links on the\ntwo platforms. Which Lobsters banned me for. Apparently self promotion is wrong. Well\nI have no friends or colleagues to post for me, so it's self promotion or no promotion.\nAnyway, there was a time when I would occasionally find a gem from a dev blog on those\nsites. This fuelled the dopamine hit and got me coming back for more. Over time I found\nincreasingly less content that was in anyway useful or insightful. \n\n",
+    "Confidence": 0.9451738
+  },
+  {
     "Title": "A Call to Action: Stop the FCC's KYC Regime",
     "Url": "https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/",
     "Timestamp": "2026-06-12T19:02:15",
@@ -62,149 +190,5 @@
     "Domain": "fablepool.com",
     "Description": "Strangers chip in to fund one ambitious instruction — an AI agent carries it out milestone by milestone, with every credit on a public ledger. Funding targets are set by the AI planner (projects total at least $100); backers chip in any amount from $0.25.",
     "Confidence": 0.60774934
-  },
-  {
-    "Title": "Making a better Social Media",
-    "Url": "https://amrshawky.com/posts/making-a-better-social-media/",
-    "Timestamp": "2026-06-11T23:04:44",
-    "Domain": "amrshawky.com",
-    "Description": "Introduction What is a ‘better’ social media? My last post on recreating old Facebook surprisingly made it to the front page of Hacker News, so it’s safe to assume there’s some interest, or nostalgia, for something in the social space that perhaps existed or could exist, but doesn’t.\nLike many, I love the internet but dislike modern social media. I’ve basically spent the last year obsessively wondering what I would want from an ideal social platform, how it would work, how it would make money, etc.",
-    "Confidence": 0.9843458
-  },
-  {
-    "Title": "A Greyscale iPhone Setup that Works in Everyday Life ⋅ Prof. Dr.-Ing. Fabian Hemmert",
-    "Url": "https://www.fabianhemmert.com/opinions/a-greyscale-iphone-setup-that-works-in-everyday-life",
-    "Timestamp": "2026-06-11T23:04:40",
-    "Domain": "www.fabianhemmert.com",
-    "Description": "",
-    "Confidence": 0.95410544
-  },
-  {
-    "Title": "Reverse Engineering the Anticheat on a Private MMO Server",
-    "Url": "https://blog.cristianrz.eu.org/posts/active-anticheat/",
-    "Timestamp": "2026-06-11T23:04:35",
-    "Domain": "blog.cristianrz.eu.org",
-    "Description": "I play on a private Aion server. For those unfamiliar, Aion is an MMO from 2009 that NCSoft has largely abandoned in the West, but a community of private servers keeps it alive. The server I play on uses a third-party anticheat called Active Anticheat, a commercial product sold to private server operators by a developer in Warsaw.\nI got curious about what it actually does to my machine. A few evenings with Wireshark, Procmon, Ghidra, and pefile later, here’s what I found.",
-    "Confidence": 0.9831946
-  },
-  {
-    "Title": "Trying to fix complicated problems — Epi Notes",
-    "Url": "https://blog.griffens.net/blog/trying-to-fix-complicated-problems/",
-    "Timestamp": "2026-06-11T23:04:32",
-    "Domain": "blog.griffens.net",
-    "Description": "One day I watched a video where David Pruess goes through an analysis of a chess position (David is an amazing chess teacher and commentator), and he goes through like a dozen moves before pointing out one random little detail that reverses the conclusion. This is kind of funny because a less talented chess player looks at the position, miscalculates everywhere, gives up and goes, \"well idk, White must be losing.\" An advanced player knows what they're doing -- and clearly, White is winning. And a tiny handful of players say hmm, something seems off here, and they get great joy out of looking for that random little detail, and that detail wins them the game. The real world seems more like chess than checkers, and most of us aren't that good.",
-    "Confidence": 0.7203208
-  },
-  {
-    "Title": "MTG Bench: Testing how well LLMs can play magic",
-    "Url": "https://mtgautodeck.com/articles/mtg-bench/",
-    "Timestamp": "2026-06-11T23:04:27",
-    "Domain": "mtgautodeck.com",
-    "Description": "MTG Bench tests how well LLMs can play Magic.",
-    "Confidence": 0.9055108
-  },
-  {
-    "Title": "How a New DSL May Survive in the Era of LLMs",
-    "Url": "https://www.williamcotton.com/articles/how-a-new-dsl-survives-in-the-era-of-llms",
-    "Timestamp": "2026-06-11T23:04:24",
-    "Domain": "www.williamcotton.com",
-    "Description": "How a New DSL Survives in the Era of LLMs",
-    "Confidence": 0.99587
-  },
-  {
-    "Title": "~fpereiro",
-    "Url": "https://federicopereiro.com/llm-not-high/",
-    "Timestamp": "2026-06-11T23:04:20",
-    "Domain": "federicopereiro.com",
-    "Description": "A few months ago I wrote an article in which I considered the idea of LLMs being the “new high level language”: something on a higher abstraction layer that allows to build software.",
-    "Confidence": 0.9975379
-  },
-  {
-    "Title": "The outsized impact of cultural idiosyncrasies",
-    "Url": "https://luke.hsiao.dev/blog/cultural-idiosyncrasies/",
-    "Timestamp": "2026-06-11T23:04:16",
-    "Domain": "luke.hsiao.dev",
-    "Description": "Cultural idiosyncrasies reveal what a company actually does, not just what it says. They can have an outsized impact on both public company image and internal perception and job satisfaction.",
-    "Confidence": 0.9627224
-  },
-  {
-    "Title": "Tailwind and slop apps",
-    "Url": "https://briandouglas.ie/llm-tailwind-template/",
-    "Timestamp": "2026-06-11T23:04:13",
-    "Domain": "briandouglas.ie",
-    "Description": "",
-    "Confidence": 0.87579566
-  },
-  {
-    "Title": "Have you bought a car lately? • Ninjas and Robots",
-    "Url": "https://ninjasandrobots.com/single-people-can-be-as-productive-as-whole-teams",
-    "Timestamp": "2026-06-11T23:04:07",
-    "Domain": "ninjasandrobots.com",
-    "Description": "Single people can be as productive as whole teams. People are freaking out. There’s so much angst about how their jobs are changing with AI. I get it. It does feel like the things you used to do aren’t as valuable anymore. There’s new things to... | Ninjas and Robots | Engineer, Designer, Founder | Founding Engineer at Census (acquired by Fivetran) | Ex-CEO Highrise | Y Combinator Alum | Made Draft",
-    "Confidence": 0.8426022
-  },
-  {
-    "Title": "Preliminary analysis of AUR malware",
-    "Url": "https://ioctl.fail/preliminary-analysis-of-aur-malware/",
-    "Timestamp": "2026-06-11T23:04:03",
-    "Domain": "ioctl.fail",
-    "Description": "Malware Analysis Report: deps\n\nReport date: 2026-06-11\nVT Link\nTriage Link\n\nNote: The following report was very hastily written by Codex.\n(I have fact-checked it against the IDA decompilation though 🐉)\n\n\nScope and Handling\n\nThis report summarizes static reverse engineering of the Linux ELF malware sample named deps and static review",
-    "Confidence": 0.9803957
-  },
-  {
-    "Title": "Lisp’s Influence on Ruby",
-    "Url": "https://blog.tacoda.dev/lisps-influence-on-ruby-6a54f1a7740e",
-    "Timestamp": "2026-06-11T23:03:58",
-    "Domain": "blog.tacoda.dev",
-    "Description": "Once I wrote users.select { |u| u.admin? }.map(&:email) and realized I’d written Lisp.",
-    "Confidence": 0.98921204
-  },
-  {
-    "Title": "Making a vintage LLM from scratch - Cr;Lf;",
-    "Url": "https://crlf.link/log/entries/260525-1/",
-    "Timestamp": "2026-06-11T23:03:52",
-    "Domain": "crlf.link",
-    "Description": "In this blog post, I will share the adventures I had creating my own LLM, from (almost) scratch, trained only on old texts.I made my own base-training and fine-tuning scripts, data processing pipelines and custom datasets.(\"almost from scratch\" means I did use existing programming languages and libraries, I didn't write in Assembly, just like anyone else who builds an AI \"from scratch\"...)",
-    "Confidence": 0.96245074
-  },
-  {
-    "Title": "Finding Optimal Tokenizers",
-    "Url": "https://blog.aqnichol.com/2026/06/10/optimal-tokenizers/",
-    "Timestamp": "2026-06-11T23:03:45",
-    "Domain": "blog.aqnichol.com",
-    "Description": "In this post, I will present an algorithm that was able to compute an optimal tokenizer in some\n                settings. This result is cool because optimal tokenization is theoretically intractable, but seems to be solvable in\n                practice. My finding is very similar to various results on the Traveling Salesman Problem (TSP), where\n                even difficult instances can be solved optimally using cutting-plane techniques.",
-    "Confidence": 0.98677456
-  },
-  {
-    "Title": "What Happened to tea.xyz",
-    "Url": "https://nesbitt.io/2026/06/11/what-happened-to-tea.html",
-    "Timestamp": "2026-06-11T23:03:41",
-    "Domain": "nesbitt.io",
-    "Description": "Reading the tea leaves",
-    "Confidence": 0.79682827
-  },
-  {
-    "Title": "A Commons of Software Productive Infrastructure, By and For Capital",
-    "Url": "https://marewolf.me/posts/draupnir/26/software-productive-infrastructure.html",
-    "Timestamp": "2026-06-11T23:03:37",
-    "Domain": "marewolf.me",
-    "Description": "There is a growing call for sustainable open source, non-profits,\nand adjacent organisations that appears to align with the very strong\nculture of radical anti-capitalist organising and contribution in\neither free or open source software projects1. There is also an\nalmost unaminous shallow understanding that there is an \"exploitation\nof the software commons\" by capitalists, in that software licenses\ntypically permit capitalist firms to use software without\nreciprocating value. But it ignores that capitalist firms have always\nbeen drivers of free or open source, even within the GNU Project\nitself.",
-    "Confidence": 0.9649333
-  },
-  {
-    "Title": "The optimal number of unreviewed PRs is not zero",
-    "Url": "https://jawnb.github.io/unreviewed-prs/",
-    "Timestamp": "2026-06-11T23:03:34",
-    "Domain": "jawnb.github.io",
-    "Description": "Code got cheap. Review didn’t. What queueing theory says about the AI-era backlog.",
-    "Confidence": 0.93039954
-  },
-  {
-    "Title": "Neural Cellular Automata with WebGPU",
-    "Url": "https://ivanludvig.dev/tech/neural-ca-webgpu",
-    "Timestamp": "2026-06-11T23:03:30",
-    "Domain": "ivanludvig.dev",
-    "Description": "A WebGPU demo of Growing Neural Cellular Automata. Each cell runs inference through a shared pretrained neural network entirely in compute shaders",
-    "Confidence": 0.903021
   }
 ]
