@@ -7,6 +7,22 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>If You are Asking for Human Attention, Demonstrate Human Effort | Tom Bedor's Blog</title>
+      <link>https://tombedor.dev/human-attention-and-human-effort/</link>
+      <description>An ever-increasing volume of debug investigations, document writing, and code is written by robots. This has created a new etiquette question when working with a team - when is it OK to forward the output of an AI to another human to read?</description>
+      <category>ai</category>
+      <guid>https://tombedor.dev/human-attention-and-human-effort/</guid>
+      <pubDate>Fri, 12 Jun 2026 03:02:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Discover — FablePool</title>
+      <link>https://fablepool.com/</link>
+      <description>Strangers chip in to fund one ambitious instruction — an AI agent carries it out milestone by milestone, with every credit on a public ledger. Funding targets are set by the AI planner (projects total at least $100); backers chip in any amount from $0.25.</description>
+      <category>ai</category>
+      <guid>https://fablepool.com/</guid>
+      <pubDate>Fri, 12 Jun 2026 03:02:35 GMT</pubDate>
+    </item>
+    <item>
       <title>Making a better Social Media</title>
       <link>https://amrshawky.com/posts/making-a-better-social-media/</link>
       <description>Introduction What is a ‘better’ social media? My last post on recreating old Facebook surprisingly made it to the front page of Hacker News, so it’s safe to assume there’s some interest, or nostalgia, for something in the social space that perhaps existed or could exist, but doesn’t.
@@ -232,23 +248,6 @@ itself.</description>
       <category>git</category>
       <guid>https://lwn.net/SubscriberLink/1077035/c7e7c14fbd60fae9/</guid>
       <pubDate>Thu, 11 Jun 2026 07:02:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Beam Pipe</title>
-      <link>https://xkcd.com/3257/</link>
-      <description></description>
-      <category>apple</category>
-      <category>javascript</category>
-      <guid>https://xkcd.com/3257/</guid>
-      <pubDate>Thu, 11 Jun 2026 03:02:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>Anthropic's Model Naming, Extrapolated · Sam Wilkinson</title>
-      <link>https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated</link>
-      <description>With the release of Claude Fable, it is clear that Anthropic is progressing from poems to enterprise-scale narrative objects.</description>
-      <category>ai</category>
-      <guid>https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated</guid>
-      <pubDate>Thu, 11 Jun 2026 03:02:17 GMT</pubDate>
     </item>
   </channel>
 </rss>

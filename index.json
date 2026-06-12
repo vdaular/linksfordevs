@@ -1,5 +1,21 @@
 [
   {
+    "Title": "If You are Asking for Human Attention, Demonstrate Human Effort | Tom Bedor's Blog",
+    "Url": "https://tombedor.dev/human-attention-and-human-effort/",
+    "Timestamp": "2026-06-12T03:02:38",
+    "Domain": "tombedor.dev",
+    "Description": "An ever-increasing volume of debug investigations, document writing, and code is written by robots. This has created a new etiquette question when working with a team - when is it OK to forward the output of an AI to another human to read?",
+    "Confidence": 0.9718245
+  },
+  {
+    "Title": "Discover — FablePool",
+    "Url": "https://fablepool.com/",
+    "Timestamp": "2026-06-12T03:02:35",
+    "Domain": "fablepool.com",
+    "Description": "Strangers chip in to fund one ambitious instruction — an AI agent carries it out milestone by milestone, with every credit on a public ledger. Funding targets are set by the AI planner (projects total at least $100); backers chip in any amount from $0.25.",
+    "Confidence": 0.60774934
+  },
+  {
     "Title": "Making a better Social Media",
     "Url": "https://amrshawky.com/posts/making-a-better-social-media/",
     "Timestamp": "2026-06-11T23:04:44",
@@ -166,21 +182,5 @@
     "Domain": "lwn.net",
     "Description": "Agentic AI systems can be used to do a variety of things autonomously on behalf of a human user [...]",
     "Confidence": 0.8763085
-  },
-  {
-    "Title": "Beam Pipe",
-    "Url": "https://xkcd.com/3257/",
-    "Timestamp": "2026-06-11T03:02:21",
-    "Domain": "xkcd.com",
-    "Description": "",
-    "Confidence": 0.98151064
-  },
-  {
-    "Title": "Anthropic's Model Naming, Extrapolated · Sam Wilkinson",
-    "Url": "https://samwilkinson.io/posts/2026-06-09-anthropics-model-naming-extrapolated",
-    "Timestamp": "2026-06-11T03:02:17",
-    "Domain": "samwilkinson.io",
-    "Description": "With the release of Claude Fable, it is clear that Anthropic is progressing from poems to enterprise-scale narrative objects.",
-    "Confidence": 0.88352555
   }
 ]
