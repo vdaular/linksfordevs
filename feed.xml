@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>A Call to Action: Stop the FCC's KYC Regime</title>
+      <link>https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/</link>
+      <description>The FCC is proposing to require KYC for anyone who uses a phone. We can act now to stop further erosion of our privacy.</description>
+      <guid>https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/</guid>
+      <pubDate>Fri, 12 Jun 2026 19:02:15 GMT</pubDate>
+    </item>
+    <item>
       <title>You can finally power on a Mac remotely</title>
       <link>https://www.jeffgeerling.com/blog/2026/power-on-your-mac-remotely/</link>
       <description>Apple FINALLY lets you turn on your Mac remotely, without having to press the power button. In the media, articles suggest it's a reaction to Mac mini power button complaints.
@@ -270,26 +277,6 @@ itself.</description>
       <category>web</category>
       <guid>https://ivanludvig.dev/tech/neural-ca-webgpu</guid>
       <pubDate>Thu, 11 Jun 2026 23:03:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>6.0.0</title>
-      <link>https://brew.sh/2026/06/11/homebrew-6.0.0/</link>
-      <description>Today, I’m proud to announce Homebrew 6.0.0. The most significant changes since 5.1.0 are a new tap trust security mechanism, the new faster, smaller, default internal Homebrew JSON API, sandboxing on Linux, better defaults informed by our user survey, many brew bundle improvements, improved performance and initial support for macOS 27 (Golden Gate).</description>
-      <category>ruby</category>
-      <category>linux</category>
-      <category>git</category>
-      <category>javascript</category>
-      <category>rust</category>
-      <guid>https://brew.sh/2026/06/11/homebrew-6.0.0/</guid>
-      <pubDate>Thu, 11 Jun 2026 19:02:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Lines of Code Got a Better Publicist</title>
-      <link>https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/</link>
-      <description>A case against measuring AI-assisted engineering by code volume and other vanity metrics instead of outcomes.</description>
-      <category>ai</category>
-      <guid>https://curlewis.co.nz/posts/lines-of-code-got-a-better-publicist/</guid>
-      <pubDate>Thu, 11 Jun 2026 19:02:21 GMT</pubDate>
     </item>
   </channel>
 </rss>
