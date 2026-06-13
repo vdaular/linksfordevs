@@ -1,0 +1,30 @@
+[
+  {
+    "Title": "How to Setup a Local Coding Agent on macOS",
+    "Url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+    "Timestamp": "2026-06-13T03:03:04",
+    "Domain": "ikyle.me",
+    "Description": "Running Gemma 4 26B-A4B and Qwen3.6 35B-A3B locally with llama.cpp, MTP speculative decoding, multimodal support, and PI as a coding agent."
+  },
+  {
+    "Title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+    "Url": "https://www.anthropic.com/news/fable-mythos-access",
+    "Timestamp": "2026-06-13T03:03:00",
+    "Domain": "www.anthropic.com",
+    "Description": "The US government has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States."
+  },
+  {
+    "Title": "I Am Not a Reverse Centaur",
+    "Url": "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur",
+    "Timestamp": "2026-06-13T03:02:52",
+    "Domain": "blog.miguelgrinberg.com",
+    "Description": "About a year ago I wrote on this blog about how coding with LLMs would not work for me, even if there were no ethical or environmental concerns preventing me to use them. I'm not going to repeat the…"
+  },
+  {
+    "Title": "“Don’t You Just Upload It to ChatGPT?”",
+    "Url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/",
+    "Timestamp": "2026-06-13T03:02:46",
+    "Domain": "correresmidestino.com",
+    "Description": "Can ChatGPT replace translators? A freelance translator shares a funny Ottawa story about AI translation, professional judgment and why human expertise still matters."
+  }
+]

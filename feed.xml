@@ -7,6 +7,41 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>How to Setup a Local Coding Agent on macOS</title>
+      <link>https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos</link>
+      <description>Running Gemma 4 26B-A4B and Qwen3.6 35B-A3B locally with llama.cpp, MTP speculative decoding, multimodal support, and PI as a coding agent.</description>
+      <category>apple</category>
+      <category>python</category>
+      <category>git</category>
+      <category>ai</category>
+      <guid>https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos</guid>
+      <pubDate>Sat, 13 Jun 2026 03:03:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Statement on the US government directive to suspend access to Fable 5 and Mythos 5</title>
+      <link>https://www.anthropic.com/news/fable-mythos-access</link>
+      <description>The US government has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States.</description>
+      <category>ai</category>
+      <guid>https://www.anthropic.com/news/fable-mythos-access</guid>
+      <pubDate>Sat, 13 Jun 2026 03:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>I Am Not a Reverse Centaur</title>
+      <link>https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur</link>
+      <description>About a year ago I wrote on this blog about how coding with LLMs would not work for me, even if there were no ethical or environmental concerns preventing me to use them. I'm not going to repeat the…</description>
+      <category>ai</category>
+      <guid>https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur</guid>
+      <pubDate>Sat, 13 Jun 2026 03:02:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>“Don’t You Just Upload It to ChatGPT?”</title>
+      <link>https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/</link>
+      <description>Can ChatGPT replace translators? A freelance translator shares a funny Ottawa story about AI translation, professional judgment and why human expertise still matters.</description>
+      <category>ai</category>
+      <guid>https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/</guid>
+      <pubDate>Sat, 13 Jun 2026 03:02:46 GMT</pubDate>
+    </item>
+    <item>
       <title>F-bombs don’t make LLMs smarter</title>
       <link>https://tcz.hu/blog/2026/06/12/swearing-and-llms/</link>
       <description>Imagine someone asks you to solve a math puzzle right after you stepped on a LEGO brick. Are you going to do better or worse than the baseline? Relatedly, can we make LLMs step on LEGO bricks?</description>
@@ -231,22 +266,6 @@ While I agree the M4 mini's power button is in a really dumb spot, that's not wh
       <category>web</category>
       <guid>https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/</guid>
       <pubDate>Fri, 12 Jun 2026 07:02:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>If You are Asking for Human Attention, Demonstrate Human Effort | Tom Bedor's Blog</title>
-      <link>https://tombedor.dev/human-attention-and-human-effort/</link>
-      <description>An ever-increasing volume of debug investigations, document writing, and code is written by robots. This has created a new etiquette question when working with a team - when is it OK to forward the output of an AI to another human to read?</description>
-      <category>ai</category>
-      <guid>https://tombedor.dev/human-attention-and-human-effort/</guid>
-      <pubDate>Fri, 12 Jun 2026 03:02:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Discover — FablePool</title>
-      <link>https://fablepool.com/</link>
-      <description>Strangers chip in to fund one ambitious instruction — an AI agent carries it out milestone by milestone, with every credit on a public ledger. Funding targets are set by the AI planner (projects total at least $100); backers chip in any amount from $0.25.</description>
-      <category>ai</category>
-      <guid>https://fablepool.com/</guid>
-      <pubDate>Fri, 12 Jun 2026 03:02:35 GMT</pubDate>
     </item>
   </channel>
 </rss>

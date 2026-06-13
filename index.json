@@ -1,5 +1,37 @@
 [
   {
+    "Title": "How to Setup a Local Coding Agent on macOS",
+    "Url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
+    "Timestamp": "2026-06-13T03:03:04",
+    "Domain": "ikyle.me",
+    "Description": "Running Gemma 4 26B-A4B and Qwen3.6 35B-A3B locally with llama.cpp, MTP speculative decoding, multimodal support, and PI as a coding agent.",
+    "Confidence": 0.99075055
+  },
+  {
+    "Title": "Statement on the US government directive to suspend access to Fable 5 and Mythos 5",
+    "Url": "https://www.anthropic.com/news/fable-mythos-access",
+    "Timestamp": "2026-06-13T03:03:00",
+    "Domain": "www.anthropic.com",
+    "Description": "The US government has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States.",
+    "Confidence": 0.90141684
+  },
+  {
+    "Title": "I Am Not a Reverse Centaur",
+    "Url": "https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur",
+    "Timestamp": "2026-06-13T03:02:52",
+    "Domain": "blog.miguelgrinberg.com",
+    "Description": "About a year ago I wrote on this blog about how coding with LLMs would not work for me, even if there were no ethical or environmental concerns preventing me to use them. I'm not going to repeat the…",
+    "Confidence": 0.96529037
+  },
+  {
+    "Title": "“Don’t You Just Upload It to ChatGPT?”",
+    "Url": "https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/",
+    "Timestamp": "2026-06-13T03:02:46",
+    "Domain": "correresmidestino.com",
+    "Description": "Can ChatGPT replace translators? A freelance translator shares a funny Ottawa story about AI translation, professional judgment and why human expertise still matters.",
+    "Confidence": 0.8337823
+  },
+  {
     "Title": "F-bombs don’t make LLMs smarter",
     "Url": "https://tcz.hu/blog/2026/06/12/swearing-and-llms/",
     "Timestamp": "2026-06-12T23:03:39",
@@ -174,21 +206,5 @@
     "Domain": "simonwillison.net",
     "Description": "After two days of experience with Claude Fable 5 I think the best way to describe it is relentlessly proactive. It knows a whole lot of tricks and it will …",
     "Confidence": 0.97489756
-  },
-  {
-    "Title": "If You are Asking for Human Attention, Demonstrate Human Effort | Tom Bedor's Blog",
-    "Url": "https://tombedor.dev/human-attention-and-human-effort/",
-    "Timestamp": "2026-06-12T03:02:38",
-    "Domain": "tombedor.dev",
-    "Description": "An ever-increasing volume of debug investigations, document writing, and code is written by robots. This has created a new etiquette question when working with a team - when is it OK to forward the output of an AI to another human to read?",
-    "Confidence": 0.9718245
-  },
-  {
-    "Title": "Discover — FablePool",
-    "Url": "https://fablepool.com/",
-    "Timestamp": "2026-06-12T03:02:35",
-    "Domain": "fablepool.com",
-    "Description": "Strangers chip in to fund one ambitious instruction — an AI agent carries it out milestone by milestone, with every credit on a public ledger. Funding targets are set by the AI planner (projects total at least $100); backers chip in any amount from $0.25.",
-    "Confidence": 0.60774934
   }
 ]
