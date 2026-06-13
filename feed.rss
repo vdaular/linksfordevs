@@ -7,6 +7,23 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>21 Zero-Days in FFmpeg | depthfirst</title>
+      <link>https://depthfirst.com/research/21-zero-days-in-ffmpeg</link>
+      <description>depthfirst's production autonomous security agent discovered 21 zero-day vulnerabilities in FFmpeg, after intensive security analysis by Google and Anthropic. Moving beyond theoretical analysis, our agent produces concrete, reproducible PoC inputs to confirm its findings at a fraction of the costs ($1k vs. $10k). Several of the findings had been sitting latent for 15 to 20 years. We explored the exploitability of the issues and developed a PoC demonstrating a RCE exploit primitive.</description>
+      <category>ai</category>
+      <category>dotnet</category>
+      <guid>https://depthfirst.com/research/21-zero-days-in-ffmpeg</guid>
+      <pubDate>Sat, 13 Jun 2026 15:02:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Leaving Mozilla</title>
+      <link>https://blog.unitedheroes.net/5751</link>
+      <description>&gt; On burn-out and bull-headedness</description>
+      <category>rust</category>
+      <guid>https://blog.unitedheroes.net/5751</guid>
+      <pubDate>Sat, 13 Jun 2026 15:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>Tech Things: There is a massive shadow hanging over this Fable thing</title>
       <link>https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow</link>
       <description>Man, I was just trying to relax and (have my agent) code on a Friday</description>
@@ -246,23 +263,6 @@ increasingly less content that was in anyway useful or insightful.
       <description>The FCC is proposing to require KYC for anyone who uses a phone. We can act now to stop further erosion of our privacy.</description>
       <guid>https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/</guid>
       <pubDate>Fri, 12 Jun 2026 19:02:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>You can finally power on a Mac remotely</title>
-      <link>https://www.jeffgeerling.com/blog/2026/power-on-your-mac-remotely/</link>
-      <description>Apple FINALLY lets you turn on your Mac remotely, without having to press the power button. In the media, articles suggest it's a reaction to Mac mini power button complaints.
-While I agree the M4 mini's power button is in a really dumb spot, that's not why I care about this feature. The two bigger use cases for me have been a pain for years:</description>
-      <category>apple</category>
-      <guid>https://www.jeffgeerling.com/blog/2026/power-on-your-mac-remotely/</guid>
-      <pubDate>Fri, 12 Jun 2026 15:02:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>I can never fully embrace LLMs for code</title>
-      <link>https://idiallo.com/blog/i-can-never-embrace-llms-to-write-code</link>
-      <description>My younger sister graduated with a CompSci degree a few years ago. I've been behind her, motivating her and demystifying the world of programming from the very beginning. There was a piece of advice I</description>
-      <category>ai</category>
-      <guid>https://idiallo.com/blog/i-can-never-embrace-llms-to-write-code</guid>
-      <pubDate>Fri, 12 Jun 2026 15:02:22 GMT</pubDate>
     </item>
   </channel>
 </rss>

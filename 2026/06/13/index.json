@@ -1,5 +1,19 @@
 [
   {
+    "Title": "21 Zero-Days in FFmpeg | depthfirst",
+    "Url": "https://depthfirst.com/research/21-zero-days-in-ffmpeg",
+    "Timestamp": "2026-06-13T15:02:12",
+    "Domain": "depthfirst.com",
+    "Description": "depthfirst's production autonomous security agent discovered 21 zero-day vulnerabilities in FFmpeg, after intensive security analysis by Google and Anthropic. Moving beyond theoretical analysis, our agent produces concrete, reproducible PoC inputs to confirm its findings at a fraction of the costs ($1k vs. $10k). Several of the findings had been sitting latent for 15 to 20 years. We explored the exploitability of the issues and developed a PoC demonstrating a RCE exploit primitive."
+  },
+  {
+    "Title": "Leaving Mozilla",
+    "Url": "https://blog.unitedheroes.net/5751",
+    "Timestamp": "2026-06-13T15:02:08",
+    "Domain": "blog.unitedheroes.net",
+    "Description": "> On burn-out and bull-headedness"
+  },
+  {
     "Title": "Tech Things: There is a massive shadow hanging over this Fable thing",
     "Url": "https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow",
     "Timestamp": "2026-06-13T11:02:27",
