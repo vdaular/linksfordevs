@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Every Frame Perfect",
+    "Url": "https://tonsky.me/blog/every-frame-perfect/",
+    "Timestamp": "2026-06-13T19:02:26",
+    "Domain": "tonsky.me",
+    "Description": "How imprecise UI animations erode trust in product",
+    "Confidence": 0.99906176
+  },
+  {
+    "Title": "Banning noise will be a disaster for statistical data products - Ted is writing things",
+    "Url": "https://desfontain.es/blog/banning-noise.html",
+    "Timestamp": "2026-06-13T19:02:21",
+    "Domain": "desfontain.es",
+    "Description": "Sadly, taking away valuable disclosure avoidance tools doesn't make fundamental trade-offs go away.",
+    "Confidence": 0.9723508
+  },
+  {
     "Title": "21 Zero-Days in FFmpeg | depthfirst",
     "Url": "https://depthfirst.com/research/21-zero-days-in-ffmpeg",
     "Timestamp": "2026-06-13T15:02:12",
@@ -206,13 +222,5 @@
     "Domain": "briandouglas.ie",
     "Description": "I check Hacker News and Lobsters all the time. It's sort of like an addiction, or maybe\njust a bad habit. It started about three years ago when I would post blog links on the\ntwo platforms. Which Lobsters banned me for. Apparently self promotion is wrong. Well\nI have no friends or colleagues to post for me, so it's self promotion or no promotion.\nAnyway, there was a time when I would occasionally find a gem from a dev blog on those\nsites. This fuelled the dopamine hit and got me coming back for more. Over time I found\nincreasingly less content that was in anyway useful or insightful. \n\n",
     "Confidence": 0.9451738
-  },
-  {
-    "Title": "A Call to Action: Stop the FCC's KYC Regime",
-    "Url": "https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/",
-    "Timestamp": "2026-06-12T19:02:15",
-    "Domain": "blog.lopp.net",
-    "Description": "The FCC is proposing to require KYC for anyone who uses a phone. We can act now to stop further erosion of our privacy.",
-    "Confidence": 0.78624433
   }
 ]

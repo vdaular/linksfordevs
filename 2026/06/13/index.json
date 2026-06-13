@@ -1,5 +1,19 @@
 [
   {
+    "Title": "Every Frame Perfect",
+    "Url": "https://tonsky.me/blog/every-frame-perfect/",
+    "Timestamp": "2026-06-13T19:02:26",
+    "Domain": "tonsky.me",
+    "Description": "How imprecise UI animations erode trust in product"
+  },
+  {
+    "Title": "Banning noise will be a disaster for statistical data products - Ted is writing things",
+    "Url": "https://desfontain.es/blog/banning-noise.html",
+    "Timestamp": "2026-06-13T19:02:21",
+    "Domain": "desfontain.es",
+    "Description": "Sadly, taking away valuable disclosure avoidance tools doesn't make fundamental trade-offs go away."
+  },
+  {
     "Title": "21 Zero-Days in FFmpeg | depthfirst",
     "Url": "https://depthfirst.com/research/21-zero-days-in-ffmpeg",
     "Timestamp": "2026-06-13T15:02:12",

@@ -7,6 +7,24 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Every Frame Perfect</title>
+      <link>https://tonsky.me/blog/every-frame-perfect/</link>
+      <description>How imprecise UI animations erode trust in product</description>
+      <author> (https://www.facebook.com/nikitonsky)</author>
+      <category>git</category>
+      <category>youtube</category>
+      <guid>https://tonsky.me/blog/every-frame-perfect/</guid>
+      <pubDate>Sat, 13 Jun 2026 19:02:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Banning noise will be a disaster for statistical data products - Ted is writing things</title>
+      <link>https://desfontain.es/blog/banning-noise.html</link>
+      <description>Sadly, taking away valuable disclosure avoidance tools doesn't make fundamental trade-offs go away.</description>
+      <category>dotnet</category>
+      <guid>https://desfontain.es/blog/banning-noise.html</guid>
+      <pubDate>Sat, 13 Jun 2026 19:02:21 GMT</pubDate>
+    </item>
+    <item>
       <title>21 Zero-Days in FFmpeg | depthfirst</title>
       <link>https://depthfirst.com/research/21-zero-days-in-ffmpeg</link>
       <description>depthfirst's production autonomous security agent discovered 21 zero-day vulnerabilities in FFmpeg, after intensive security analysis by Google and Anthropic. Moving beyond theoretical analysis, our agent produces concrete, reproducible PoC inputs to confirm its findings at a fraction of the costs ($1k vs. $10k). Several of the findings had been sitting latent for 15 to 20 years. We explored the exploitability of the issues and developed a PoC demonstrating a RCE exploit primitive.</description>
@@ -256,13 +274,6 @@ increasingly less content that was in anyway useful or insightful.
       <category>ai</category>
       <guid>https://briandouglas.ie/developer_noise/</guid>
       <pubDate>Fri, 12 Jun 2026 23:02:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>A Call to Action: Stop the FCC's KYC Regime</title>
-      <link>https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/</link>
-      <description>The FCC is proposing to require KYC for anyone who uses a phone. We can act now to stop further erosion of our privacy.</description>
-      <guid>https://blog.lopp.net/call-to-action-stop-the-fcc-kyc-regime/</guid>
-      <pubDate>Fri, 12 Jun 2026 19:02:15 GMT</pubDate>
     </item>
   </channel>
 </rss>
