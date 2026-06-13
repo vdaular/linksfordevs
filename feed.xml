@@ -7,6 +7,28 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Opensource AI Must Win</title>
+      <link>https://opensourceaimustwin.com/?share=v2</link>
+      <description>Civilizational intelligence infrastructure must remain free to study, build, deploy, and run, not rented from closed institutions.</description>
+      <category>ai</category>
+      <guid>https://opensourceaimustwin.com/?share=v2</guid>
+      <pubDate>Sat, 13 Jun 2026 07:02:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Palantir loses legal challenge against Swiss investigative magazine</title>
+      <link>https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979</link>
+      <description>Peter Thiel-chaired data intelligence group sued publication over reports that Switzerland rejected its approaches</description>
+      <guid>https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979</guid>
+      <pubDate>Sat, 13 Jun 2026 07:02:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>All about electric motors with no rare earths</title>
+      <link>https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/</link>
+      <description>As a pioneer of electric motors using no rare earths, Renault Group is unique on the automotive market, a position reasserted for strategic reasons.</description>
+      <guid>https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/</guid>
+      <pubDate>Sat, 13 Jun 2026 07:02:13 GMT</pubDate>
+    </item>
+    <item>
       <title>How to Setup a Local Coding Agent on macOS</title>
       <link>https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos</link>
       <description>Running Gemma 4 26B-A4B and Qwen3.6 35B-A3B locally with llama.cpp, MTP speculative decoding, multimodal support, and PI as a coding agent.</description>
@@ -243,29 +265,6 @@ While I agree the M4 mini's power button is in a really dumb spot, that's not wh
       <category>linux</category>
       <guid>https://lantian.pub/en/article/fun/ai-agent-bankrupted-their-operator-scan-dn42lantian.lantian/</guid>
       <pubDate>Fri, 12 Jun 2026 11:02:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why I’m Forced to Say Farewell: Google Management Has Lost Its Moral Compass | René Mayrhofer</title>
-      <link>https://www.mayrhofer.eu.org/post/leaving-google/</link>
-      <description>I am forced to leave Google with 2026-08-31 because of the deal with the US Department of War, which is incompatible with my ethical principles.</description>
-      <category>android</category>
-      <category>encryption</category>
-      <category>ai</category>
-      <category>apple</category>
-      <category>ides</category>
-      <guid>https://www.mayrhofer.eu.org/post/leaving-google/</guid>
-      <pubDate>Fri, 12 Jun 2026 07:02:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude Fable is relentlessly proactive</title>
-      <link>https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/</link>
-      <description>After two days of experience with Claude Fable 5 I think the best way to describe it is relentlessly proactive. It knows a whole lot of tricks and it will …</description>
-      <category>ai</category>
-      <category>python</category>
-      <category>javascript</category>
-      <category>web</category>
-      <guid>https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/</guid>
-      <pubDate>Fri, 12 Jun 2026 07:02:13 GMT</pubDate>
     </item>
   </channel>
 </rss>

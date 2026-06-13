@@ -1,5 +1,29 @@
 [
   {
+    "Title": "Opensource AI Must Win",
+    "Url": "https://opensourceaimustwin.com/?share=v2",
+    "Timestamp": "2026-06-13T07:02:20",
+    "Domain": "opensourceaimustwin.com",
+    "Description": "Civilizational intelligence infrastructure must remain free to study, build, deploy, and run, not rented from closed institutions.",
+    "Confidence": 0.9431465
+  },
+  {
+    "Title": "Palantir loses legal challenge against Swiss investigative magazine",
+    "Url": "https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979",
+    "Timestamp": "2026-06-13T07:02:17",
+    "Domain": "www.ft.com",
+    "Description": "Peter Thiel-chaired data intelligence group sued publication over reports that Switzerland rejected its approaches",
+    "Confidence": 0.79498374
+  },
+  {
+    "Title": "All about electric motors with no rare earths",
+    "Url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
+    "Timestamp": "2026-06-13T07:02:13",
+    "Domain": "www.renaultgroup.com",
+    "Description": "As a pioneer of electric motors using no rare earths, Renault Group is unique on the automotive market, a position reasserted for strategic reasons.",
+    "Confidence": 0.7479332
+  },
+  {
     "Title": "How to Setup a Local Coding Agent on macOS",
     "Url": "https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos",
     "Timestamp": "2026-06-13T03:03:04",
@@ -190,21 +214,5 @@
     "Domain": "lantian.pub",
     "Description": "An AI agent tried to join the DN42 hobbyist network to perform a network scan, and bankrupted their operator with a $6531.30 AWS bill.",
     "Confidence": 0.9706372
-  },
-  {
-    "Title": "Why I’m Forced to Say Farewell: Google Management Has Lost Its Moral Compass | René Mayrhofer",
-    "Url": "https://www.mayrhofer.eu.org/post/leaving-google/",
-    "Timestamp": "2026-06-12T07:02:22",
-    "Domain": "www.mayrhofer.eu.org",
-    "Description": "I am forced to leave Google with 2026-08-31 because of the deal with the US Department of War, which is incompatible with my ethical principles.",
-    "Confidence": 0.9344117
-  },
-  {
-    "Title": "Claude Fable is relentlessly proactive",
-    "Url": "https://simonwillison.net/2026/Jun/11/fable-is-relentlessly-proactive/",
-    "Timestamp": "2026-06-12T07:02:13",
-    "Domain": "simonwillison.net",
-    "Description": "After two days of experience with Claude Fable 5 I think the best way to describe it is relentlessly proactive. It knows a whole lot of tricks and it will …",
-    "Confidence": 0.97489756
   }
 ]
