@@ -7,6 +7,25 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Hidden Code: How Slot Machines Actually Work - The Computer Inside</title>
+      <link>https://youtube.com/watch?v=SR8ESCmUYLY</link>
+      <description>Dave explains the inner workings of a modern slot machine, revealing the computer inside and whether or not the games are fair.  Check out an episode of ShopTalk on Dave's Attic where we answer the best user questions!
+
+https://youtu.be/ZUvDO2g5Y1s</description>
+      <author> (Dave's Garage)</author>
+      <category>youtube</category>
+      <guid>https://youtube.com/watch?v=SR8ESCmUYLY</guid>
+      <pubDate>Sat, 13 Jun 2026 23:02:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Affected Packages</title>
+      <link>https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500</link>
+      <description>The day started out with Arch Linux's AUR user-contributed repository seeing more than 400 packages compromised with malware</description>
+      <category>linux</category>
+      <guid>https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500</guid>
+      <pubDate>Sat, 13 Jun 2026 23:02:20 GMT</pubDate>
+    </item>
+    <item>
       <title>Every Frame Perfect</title>
       <link>https://tonsky.me/blog/every-frame-perfect/</link>
       <description>How imprecise UI animations erode trust in product</description>
@@ -107,173 +126,6 @@
       <category>ai</category>
       <guid>https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/</guid>
       <pubDate>Sat, 13 Jun 2026 03:02:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>F-bombs don’t make LLMs smarter</title>
-      <link>https://tcz.hu/blog/2026/06/12/swearing-and-llms/</link>
-      <description>Imagine someone asks you to solve a math puzzle right after you stepped on a LEGO brick. Are you going to do better or worse than the baseline? Relatedly, can we make LLMs step on LEGO bricks?</description>
-      <category>ai</category>
-      <guid>https://tcz.hu/blog/2026/06/12/swearing-and-llms/</guid>
-      <pubDate>Fri, 12 Jun 2026 23:03:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>How to Build an Effective Lexicon for Product Teams - scapellato.dev</title>
-      <link>https://www.scapellato.dev/blog/build-an-effective-product-lexicon</link>
-      <description>How simple event design creates clarity across product, data, and engineering</description>
-      <category>ai</category>
-      <guid>https://www.scapellato.dev/blog/build-an-effective-product-lexicon</guid>
-      <pubDate>Fri, 12 Jun 2026 23:03:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Illuminated Computing | My Claude Code Setup</title>
-      <link>https://illuminatedcomputing.com/posts/2026/06/my-claude-code-setup/</link>
-      <description>I seem to have an unusual way of running Claude Code, but I find it a good trade-off between convenience and security.</description>
-      <category>containers</category>
-      <category>cloud</category>
-      <category>linux</category>
-      <category>git</category>
-      <category>ai</category>
-      <guid>https://illuminatedcomputing.com/posts/2026/06/my-claude-code-setup/</guid>
-      <pubDate>Fri, 12 Jun 2026 23:03:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>let’s do postfix again – brokkr.net</title>
-      <link>https://brokkr.net/tag/lets-do-postfix-again/</link>
-      <description>The mailboxes are from Denmark. That’s the joke.</description>
-      <category>encryption</category>
-      <category>linux</category>
-      <category>dotnet</category>
-      <guid>https://brokkr.net/tag/lets-do-postfix-again/</guid>
-      <pubDate>Fri, 12 Jun 2026 23:03:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vibe Trading - Gibberish and Stuff</title>
-      <link>https://zhenyi.gibber.blog/vibe-trading</link>
-      <description>The old internet was a niche community. Only a few nerds were there. Then every September, a batch of university freshmen would join, causing a lot of annoyance. But it was okay, because they...</description>
-      <category>ai</category>
-      <guid>https://zhenyi.gibber.blog/vibe-trading</guid>
-      <pubDate>Fri, 12 Jun 2026 23:03:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Introduction to UEFI HTTP(S) boot with Qemu/OVMF</title>
-      <link>https://blog.yadutaf.fr/2026/06/12/introduction-to-uefi-https-boot-qemu-ovmf/</link>
-      <description>The historic go-to solution for network booting is PXE. PXE is based on DHCP and
-TFTP. It is tricky to correctly configure, even trickier to make it highly available and
-good luck with the security with this clear-text unsigned protocol.</description>
-      <category>linux</category>
-      <category>apple</category>
-      <category>ai</category>
-      <category>cloud</category>
-      <category>encryption</category>
-      <guid>https://blog.yadutaf.fr/2026/06/12/introduction-to-uefi-https-boot-qemu-ovmf/</guid>
-      <pubDate>Fri, 12 Jun 2026 23:03:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Sandboxes Are Not Security - Jelmer Snoeck</title>
-      <link>https://jlmr.dev/posts/sandboxes-are-not-security/</link>
-      <description>Software Engineer writing about infrastructure, Kubernetes, and Go</description>
-      <category>cloud</category>
-      <category>containers</category>
-      <category>ai</category>
-      <guid>https://jlmr.dev/posts/sandboxes-are-not-security/</guid>
-      <pubDate>Fri, 12 Jun 2026 23:03:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>Twenty Years of Stacking Commits — jd:/dev/blog</title>
-      <link>https://julien.danjou.info/blog/twenty-years-of-stacking-commits/</link>
-      <description>Every code review tool I've used in twenty years has tried to answer the same question. AI just made the answer unavoidable.</description>
-      <author> (https://julien.danjou.info/about)</author>
-      <category>git</category>
-      <category>rust</category>
-      <category>android</category>
-      <category>ai</category>
-      <category>python</category>
-      <guid>https://julien.danjou.info/blog/twenty-years-of-stacking-commits/</guid>
-      <pubDate>Fri, 12 Jun 2026 23:03:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>My Struggles Talking to An Old Piece Of Junk (Fanuc 0M) | Nia Schlegel</title>
-      <link>https://3nt3.de/blog/fanuc-0m-rs232-struggles</link>
-      <description>This February I became the proud owner of an old Hermle UWF 851 vertical machining center. An industrial CNC mill with tool changer and everything.
-I already had a FoxAlien Masuter Pro (which seems laughable in comparison) and a lot of 3D-printing experience so I knew GCode.
-The workflow I was used to was to draw things up in CAD, do CAM (or slicing for 3d-printing) post-process them somehow and load them onto the respective machines.
-I knew the Fanuc 0M theoretically had the capability to get programs from a serial port with a DB25 connector on the side of the control cabinet but because I bought the machine without ever seeing it running I had no idea how to actually do that. Or how to use it in general lol.</description>
-      <category>rust</category>
-      <guid>https://3nt3.de/blog/fanuc-0m-rs232-struggles</guid>
-      <pubDate>Fri, 12 Jun 2026 23:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Plate Flip</title>
-      <link>https://xkcd.com/3258/</link>
-      <description></description>
-      <category>apple</category>
-      <category>javascript</category>
-      <guid>https://xkcd.com/3258/</guid>
-      <pubDate>Fri, 12 Jun 2026 23:02:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Commits</title>
-      <link>https://shub.club/writings/2026/june/commits/</link>
-      <description>A new code world</description>
-      <guid>https://shub.club/writings/2026/june/commits/</guid>
-      <pubDate>Fri, 12 Jun 2026 23:02:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Building a tiny FUSE filesystem</title>
-      <link>https://www.shayon.dev/post/2026/161/building-a-tiny-fuse-filesystem/</link>
-      <description>Building a small filesystem in Rust with metadata in JSON and file contents in plain local files, using FUSE to explore inodes, caching, and what it means for a write to become durable.</description>
-      <category>javascript</category>
-      <category>linux</category>
-      <category>rust</category>
-      <category>containers</category>
-      <guid>https://www.shayon.dev/post/2026/161/building-a-tiny-fuse-filesystem/</guid>
-      <pubDate>Fri, 12 Jun 2026 23:02:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>How it feels to be an old school web-based sports sim dev when tons of vibecoded web-based sports sims are being released « Blog « ZenGM</title>
-      <link>https://zengm.com/blog/2026/06/vibecoded-games/</link>
-      <description>Back when I started working on the web-based version of Basketball GM in 2012, web development was very different. npm was brand new and hardly anyone used it. Bundling/deploying JS was very primitive, a lot of people still were just concatenating files together. And things like TypeScript, React, async/await... these did not even exist yet!</description>
-      <category>gaming</category>
-      <category>ai</category>
-      <category>javascript</category>
-      <category>typescript</category>
-      <category>web</category>
-      <guid>https://zengm.com/blog/2026/06/vibecoded-games/</guid>
-      <pubDate>Fri, 12 Jun 2026 23:02:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>4× RTX PRO 6000 Blackwell on Water, and the One Card That Wouldn't Behave</title>
-      <link>https://sabareesh.com/posts/blackwell-waterblock/</link>
-      <description>Converting four RTX PRO 6000 Blackwell cards to waterblocks, finding a VRM choke loose on the workbench, and getting back to 41k tok/s.</description>
-      <category>javascript</category>
-      <category>dotnet</category>
-      <guid>https://sabareesh.com/posts/blackwell-waterblock/</guid>
-      <pubDate>Fri, 12 Jun 2026 23:02:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI juries</title>
-      <link>https://alejo.ch/3he</link>
-      <description>This is part of a series I’m writing on
-generative AI.</description>
-      <category>ai</category>
-      <guid>https://alejo.ch/3he</guid>
-      <pubDate>Fri, 12 Jun 2026 23:02:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ignore what everyone else is doing</title>
-      <link>https://briandouglas.ie/developer_noise/</link>
-      <description>I check Hacker News and Lobsters all the time. It's sort of like an addiction, or maybe
-just a bad habit. It started about three years ago when I would post blog links on the
-two platforms. Which Lobsters banned me for. Apparently self promotion is wrong. Well
-I have no friends or colleagues to post for me, so it's self promotion or no promotion.
-Anyway, there was a time when I would occasionally find a gem from a dev blog on those
-sites. This fuelled the dopamine hit and got me coming back for more. Over time I found
-increasingly less content that was in anyway useful or insightful. 
-
-</description>
-      <category>ai</category>
-      <guid>https://briandouglas.ie/developer_noise/</guid>
-      <pubDate>Fri, 12 Jun 2026 23:02:33 GMT</pubDate>
     </item>
   </channel>
 </rss>
