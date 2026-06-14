@@ -7,6 +7,82 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>GitHub - tamnd/kage: Shadow any website for offline viewing, with the JavaScript stripped out</title>
+      <link>https://github.com/tamnd/kage</link>
+      <description>Shadow any website for offline viewing, with the JavaScript stripped out - tamnd/kage</description>
+      <category>javascript</category>
+      <category>git</category>
+      <category>web</category>
+      <category>apple</category>
+      <category>containers</category>
+      <guid>https://github.com/tamnd/kage</guid>
+      <pubDate>Sun, 14 Jun 2026 23:02:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Did Anthropic Ask For This?</title>
+      <link>https://www.verysane.ai/p/did-anthropic-ask-for-this</link>
+      <description>This past Friday, the US Government issued an export control directive that prohibits Anthropic from giving foreign nationals access to Claude Fable or Claude Mythos, their latest models.</description>
+      <category>ai</category>
+      <guid>https://www.verysane.ai/p/did-anthropic-ask-for-this</guid>
+      <pubDate>Sun, 14 Jun 2026 23:02:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Tricking a Bike Counter</title>
+      <link>https://nullpxl.com/post/tricking-a-bike-counter/</link>
+      <description></description>
+      <guid>https://nullpxl.com/post/tricking-a-bike-counter/</guid>
+      <pubDate>Sun, 14 Jun 2026 23:02:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Aim for no</title>
+      <link>https://talk.bradwoods.io/blog/aim-for-no</link>
+      <description>An ability of successful people is their willingness to aim high, get rejected, and keep going.</description>
+      <category>gaming</category>
+      <guid>https://talk.bradwoods.io/blog/aim-for-no</guid>
+      <pubDate>Sun, 14 Jun 2026 23:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>The $75 Billion Bell</title>
+      <link>https://okulez.com/blog/the-75-billion-bell</link>
+      <description>SpaceX rang the largest IPO bell in American history. Folk wisdom says it marks the top. The history is more conditional, and the one clean miss tells you why.</description>
+      <category>ai</category>
+      <guid>https://okulez.com/blog/the-75-billion-bell</guid>
+      <pubDate>Sun, 14 Jun 2026 23:02:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>Testing Uruky to replace Kagi</title>
+      <link>https://rewiring.bearblog.dev/kagi-to-uruky/</link>
+      <description>I thought that of all of the goals of my European migration journey, Kagi would be the easiest. I believed there to be no alternative, so I could just shrug ...</description>
+      <category>dotnet</category>
+      <category>android</category>
+      <category>ai</category>
+      <guid>https://rewiring.bearblog.dev/kagi-to-uruky/</guid>
+      <pubDate>Sun, 14 Jun 2026 23:02:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Please Stay Calm and Listen - Gibberish and Stuff</title>
+      <link>https://zhenyi.gibber.blog/please-stay-calm-and-listen</link>
+      <description>I need to tell you something. Please listen and try not to panic. You've been in a coma for quite some time. Yes, yes, I know, you would like to know how long. I'm afraid it's been... nine...</description>
+      <category>ai</category>
+      <category>ides</category>
+      <guid>https://zhenyi.gibber.blog/please-stay-calm-and-listen</guid>
+      <pubDate>Sun, 14 Jun 2026 23:02:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>The fertile void</title>
+      <link>https://d.glezos.com/the-fertile-void/</link>
+      <description>If I'm not being seen in motion, who am I seen as? Am I being lazy? If there is no immediate next mountain, what story do I tell?</description>
+      <guid>https://d.glezos.com/the-fertile-void/</guid>
+      <pubDate>Sun, 14 Jun 2026 23:02:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>For Retired Engineers…</title>
+      <link>https://telescoper.blog/2026/06/14/for-retired-engineers/</link>
+      <description>I know I’m not the only one to have noticed the fact that many- indeed most – such correspondents are Electrical Engineers (usually retired). I was delighted therefore to see that there…</description>
+      <guid>https://telescoper.blog/2026/06/14/for-retired-engineers/</guid>
+      <pubDate>Sun, 14 Jun 2026 23:02:17 GMT</pubDate>
+    </item>
+    <item>
       <title>No, everyone is not using AI for everything.</title>
       <link>https://gabrielweinberg.com/p/people-are-consuming-ai-like-they</link>
       <description>People are consuming AI like they eat meat: some are embracing it, some are limiting their use of it, and some are avoiding it altogether.</description>
@@ -205,25 +281,6 @@ The full title discussed re-enabling system update warnings for Windows and macO
       <category>javascript</category>
       <guid>https://anankesmirror.blogspot.com/2026/06/highly-enriched-polonium-white-paper.html</guid>
       <pubDate>Sun, 14 Jun 2026 03:02:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hidden Code: How Slot Machines Actually Work - The Computer Inside</title>
-      <link>https://youtube.com/watch?v=SR8ESCmUYLY</link>
-      <description>Dave explains the inner workings of a modern slot machine, revealing the computer inside and whether or not the games are fair.  Check out an episode of ShopTalk on Dave's Attic where we answer the best user questions!
-
-https://youtu.be/ZUvDO2g5Y1s</description>
-      <author> (Dave's Garage)</author>
-      <category>youtube</category>
-      <guid>https://youtube.com/watch?v=SR8ESCmUYLY</guid>
-      <pubDate>Sat, 13 Jun 2026 23:02:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Affected Packages</title>
-      <link>https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500</link>
-      <description>The day started out with Arch Linux's AUR user-contributed repository seeing more than 400 packages compromised with malware</description>
-      <category>linux</category>
-      <guid>https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500</guid>
-      <pubDate>Sat, 13 Jun 2026 23:02:20 GMT</pubDate>
     </item>
   </channel>
 </rss>

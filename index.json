@@ -1,5 +1,77 @@
 [
   {
+    "Title": "GitHub - tamnd/kage: Shadow any website for offline viewing, with the JavaScript stripped out",
+    "Url": "https://github.com/tamnd/kage",
+    "Timestamp": "2026-06-14T23:02:48",
+    "Domain": "github.com",
+    "Description": "Shadow any website for offline viewing, with the JavaScript stripped out - tamnd/kage",
+    "Confidence": 0.9885638
+  },
+  {
+    "Title": "Did Anthropic Ask For This?",
+    "Url": "https://www.verysane.ai/p/did-anthropic-ask-for-this",
+    "Timestamp": "2026-06-14T23:02:43",
+    "Domain": "www.verysane.ai",
+    "Description": "This past Friday, the US Government issued an export control directive that prohibits Anthropic from giving foreign nationals access to Claude Fable or Claude Mythos, their latest models.",
+    "Confidence": 0.9432636
+  },
+  {
+    "Title": "Tricking a Bike Counter",
+    "Url": "https://nullpxl.com/post/tricking-a-bike-counter/",
+    "Timestamp": "2026-06-14T23:02:38",
+    "Domain": "nullpxl.com",
+    "Description": "",
+    "Confidence": 0.89018774
+  },
+  {
+    "Title": "Aim for no",
+    "Url": "https://talk.bradwoods.io/blog/aim-for-no",
+    "Timestamp": "2026-06-14T23:02:34",
+    "Domain": "talk.bradwoods.io",
+    "Description": "An ability of successful people is their willingness to aim high, get rejected, and keep going.",
+    "Confidence": 0.894696
+  },
+  {
+    "Title": "The $75 Billion Bell",
+    "Url": "https://okulez.com/blog/the-75-billion-bell",
+    "Timestamp": "2026-06-14T23:02:31",
+    "Domain": "okulez.com",
+    "Description": "SpaceX rang the largest IPO bell in American history. Folk wisdom says it marks the top. The history is more conditional, and the one clean miss tells you why.",
+    "Confidence": 0.81584954
+  },
+  {
+    "Title": "Testing Uruky to replace Kagi",
+    "Url": "https://rewiring.bearblog.dev/kagi-to-uruky/",
+    "Timestamp": "2026-06-14T23:02:28",
+    "Domain": "rewiring.bearblog.dev",
+    "Description": "I thought that of all of the goals of my European migration journey, Kagi would be the easiest. I believed there to be no alternative, so I could just shrug ...",
+    "Confidence": 0.93614775
+  },
+  {
+    "Title": "Please Stay Calm and Listen - Gibberish and Stuff",
+    "Url": "https://zhenyi.gibber.blog/please-stay-calm-and-listen",
+    "Timestamp": "2026-06-14T23:02:25",
+    "Domain": "zhenyi.gibber.blog",
+    "Description": "I need to tell you something. Please listen and try not to panic. You've been in a coma for quite some time. Yes, yes, I know, you would like to know how long. I'm afraid it's been... nine...",
+    "Confidence": 0.9829037
+  },
+  {
+    "Title": "The fertile void",
+    "Url": "https://d.glezos.com/the-fertile-void/",
+    "Timestamp": "2026-06-14T23:02:20",
+    "Domain": "d.glezos.com",
+    "Description": "If I'm not being seen in motion, who am I seen as? Am I being lazy? If there is no immediate next mountain, what story do I tell?",
+    "Confidence": 0.84960806
+  },
+  {
+    "Title": "For Retired Engineers…",
+    "Url": "https://telescoper.blog/2026/06/14/for-retired-engineers/",
+    "Timestamp": "2026-06-14T23:02:17",
+    "Domain": "telescoper.blog",
+    "Description": "I know I’m not the only one to have noticed the fact that many- indeed most – such correspondents are Electrical Engineers (usually retired). I was delighted therefore to see that there…",
+    "Confidence": 0.7541475
+  },
+  {
     "Title": "No, everyone is not using AI for everything.",
     "Url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
     "Timestamp": "2026-06-14T19:02:28",
@@ -174,21 +246,5 @@
     "Domain": "anankesmirror.blogspot.com",
     "Description": "A Distributed-Provenance Instrument for Documenting and Analyzing Public Positions on Known, Legally-Sanctioned Activity **A White Paper** *...",
     "Confidence": 0.92237157
-  },
-  {
-    "Title": "Hidden Code: How Slot Machines Actually Work - The Computer Inside",
-    "Url": "https://youtube.com/watch?v=SR8ESCmUYLY",
-    "Timestamp": "2026-06-13T23:02:26",
-    "Domain": "youtube.com",
-    "Description": "Dave explains the inner workings of a modern slot machine, revealing the computer inside and whether or not the games are fair.  Check out an episode of ShopTalk on Dave's Attic where we answer the best user questions!\n\nhttps://youtu.be/ZUvDO2g5Y1s",
-    "Confidence": 0.9777951
-  },
-  {
-    "Title": "Arch Linux Now Believes Malware Incident Under Control: More Than 1,500 Affected Packages",
-    "Url": "https://www.phoronix.com/news/Arch-Linux-AUR-More-Than-1500",
-    "Timestamp": "2026-06-13T23:02:20",
-    "Domain": "www.phoronix.com",
-    "Description": "The day started out with Arch Linux's AUR user-contributed repository seeing more than 400 packages compromised with malware",
-    "Confidence": 0.79371965
   }
 ]
