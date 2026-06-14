@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Access Denied",
+    "Url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
+    "Timestamp": "2026-06-14T07:02:24",
+    "Domain": "news.sky.com",
+    "Description": "Reference #18.520ed217.1781420543.392625fd",
+    "Confidence": 0.978469
+  },
+  {
+    "Title": "AI Coding at Home Without Going Broke",
+    "Url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
+    "Timestamp": "2026-06-14T07:02:20",
+    "Domain": "stephen.bochinski.dev",
+    "Description": "There are three ways to do AI coding at home without spending like a company, and which one fits depends mostly on how much you trust the next year of hardwa...",
+    "Confidence": 0.90554273
+  },
+  {
     "Title": "Human Routers of Machine Words",
     "Url": "https://borretti.me/article/human-routers-of-machine-words",
     "Timestamp": "2026-06-14T03:03:36",
@@ -174,29 +190,5 @@
     "Domain": "12gramsofcarbon.com",
     "Description": "Man, I was just trying to relax and (have my agent) code on a Friday",
     "Confidence": 0.7541642
-  },
-  {
-    "Title": "Opensource AI Must Win",
-    "Url": "https://opensourceaimustwin.com/?share=v2",
-    "Timestamp": "2026-06-13T07:02:20",
-    "Domain": "opensourceaimustwin.com",
-    "Description": "Civilizational intelligence infrastructure must remain free to study, build, deploy, and run, not rented from closed institutions.",
-    "Confidence": 0.9431465
-  },
-  {
-    "Title": "Palantir loses legal challenge against Swiss investigative magazine",
-    "Url": "https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979",
-    "Timestamp": "2026-06-13T07:02:17",
-    "Domain": "www.ft.com",
-    "Description": "Peter Thiel-chaired data intelligence group sued publication over reports that Switzerland rejected its approaches",
-    "Confidence": 0.79498374
-  },
-  {
-    "Title": "All about electric motors with no rare earths",
-    "Url": "https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/",
-    "Timestamp": "2026-06-13T07:02:13",
-    "Domain": "www.renaultgroup.com",
-    "Description": "As a pioneer of electric motors using no rare earths, Renault Group is unique on the automotive market, a position reasserted for strategic reasons.",
-    "Confidence": 0.7479332
   }
 ]

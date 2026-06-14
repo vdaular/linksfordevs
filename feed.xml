@@ -7,6 +7,22 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Access Denied</title>
+      <link>https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661</link>
+      <description>Reference #18.520ed217.1781420543.392625fd</description>
+      <category>ai</category>
+      <guid>https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661</guid>
+      <pubDate>Sun, 14 Jun 2026 07:02:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI Coding at Home Without Going Broke</title>
+      <link>https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/</link>
+      <description>There are three ways to do AI coding at home without spending like a company, and which one fits depends mostly on how much you trust the next year of hardwa...</description>
+      <category>ai</category>
+      <guid>https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/</guid>
+      <pubDate>Sun, 14 Jun 2026 07:02:20 GMT</pubDate>
+    </item>
+    <item>
       <title>Human Routers of Machine Words</title>
       <link>https://borretti.me/article/human-routers-of-machine-words</link>
       <description>On people who use AI to think.</description>
@@ -210,28 +226,6 @@ https://youtu.be/ZUvDO2g5Y1s</description>
       <category>git</category>
       <guid>https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow</guid>
       <pubDate>Sat, 13 Jun 2026 11:02:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Opensource AI Must Win</title>
-      <link>https://opensourceaimustwin.com/?share=v2</link>
-      <description>Civilizational intelligence infrastructure must remain free to study, build, deploy, and run, not rented from closed institutions.</description>
-      <category>ai</category>
-      <guid>https://opensourceaimustwin.com/?share=v2</guid>
-      <pubDate>Sat, 13 Jun 2026 07:02:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Palantir loses legal challenge against Swiss investigative magazine</title>
-      <link>https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979</link>
-      <description>Peter Thiel-chaired data intelligence group sued publication over reports that Switzerland rejected its approaches</description>
-      <guid>https://www.ft.com/content/7ffcace7-9dc0-4e7e-9912-895ac073f979</guid>
-      <pubDate>Sat, 13 Jun 2026 07:02:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>All about electric motors with no rare earths</title>
-      <link>https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/</link>
-      <description>As a pioneer of electric motors using no rare earths, Renault Group is unique on the automotive market, a position reasserted for strategic reasons.</description>
-      <guid>https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/</guid>
-      <pubDate>Sat, 13 Jun 2026 07:02:13 GMT</pubDate>
     </item>
   </channel>
 </rss>
