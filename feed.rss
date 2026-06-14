@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Honda Civics and the Evil Valet</title>
+      <link>https://juniperspring.org/posts/honda-evil-valet/</link>
+      <description>Status update, three years later</description>
+      <category>containers</category>
+      <category>android</category>
+      <guid>https://juniperspring.org/posts/honda-evil-valet/</guid>
+      <pubDate>Sun, 14 Jun 2026 11:02:09 GMT</pubDate>
+    </item>
+    <item>
       <title>Access Denied</title>
       <link>https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661</link>
       <description>Reference #18.520ed217.1781420543.392625fd</description>
@@ -216,16 +225,6 @@ https://youtu.be/ZUvDO2g5Y1s</description>
       <category>rust</category>
       <guid>https://blog.unitedheroes.net/5751</guid>
       <pubDate>Sat, 13 Jun 2026 15:02:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tech Things: There is a massive shadow hanging over this Fable thing</title>
-      <link>https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow</link>
-      <description>Man, I was just trying to relax and (have my agent) code on a Friday</description>
-      <category>ai</category>
-      <category>rust</category>
-      <category>git</category>
-      <guid>https://12gramsofcarbon.com/p/tech-things-there-is-a-massive-shadow</guid>
-      <pubDate>Sat, 13 Jun 2026 11:02:27 GMT</pubDate>
     </item>
   </channel>
 </rss>
