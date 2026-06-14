@@ -1,5 +1,21 @@
 [
   {
+    "Title": "No, everyone is not using AI for everything.",
+    "Url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
+    "Timestamp": "2026-06-14T19:02:28",
+    "Domain": "gabrielweinberg.com",
+    "Description": "People are consuming AI like they eat meat: some are embracing it, some are limiting their use of it, and some are avoiding it altogether.",
+    "Confidence": 0.72426593
+  },
+  {
+    "Title": "How to Earn a Billion Dollars",
+    "Url": "https://paulgraham.com/earn.html",
+    "Timestamp": "2026-06-14T19:02:23",
+    "Domain": "paulgraham.com",
+    "Description": "(This is based on a talk I gave at the Oxford Union.)",
+    "Confidence": 0.97624105
+  },
+  {
     "Title": "ReactOS \"Open-Source Windows\" Reaches The Milestone Of Being Able To Run Half-Life",
     "Url": "https://www.phoronix.com/news/ReactOS-Running-Half-Life",
     "Timestamp": "2026-06-14T15:02:21",
@@ -174,21 +190,5 @@
     "Domain": "www.phoronix.com",
     "Description": "The day started out with Arch Linux's AUR user-contributed repository seeing more than 400 packages compromised with malware",
     "Confidence": 0.79371965
-  },
-  {
-    "Title": "Every Frame Perfect",
-    "Url": "https://tonsky.me/blog/every-frame-perfect/",
-    "Timestamp": "2026-06-13T19:02:26",
-    "Domain": "tonsky.me",
-    "Description": "How imprecise UI animations erode trust in product",
-    "Confidence": 0.99906176
-  },
-  {
-    "Title": "Banning noise will be a disaster for statistical data products - Ted is writing things",
-    "Url": "https://desfontain.es/blog/banning-noise.html",
-    "Timestamp": "2026-06-13T19:02:21",
-    "Domain": "desfontain.es",
-    "Description": "Sadly, taking away valuable disclosure avoidance tools doesn't make fundamental trade-offs go away.",
-    "Confidence": 0.9723508
   }
 ]
