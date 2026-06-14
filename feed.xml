@@ -7,6 +7,147 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Human Routers of Machine Words</title>
+      <link>https://borretti.me/article/human-routers-of-machine-words</link>
+      <description>On people who use AI to think.</description>
+      <category>rust</category>
+      <category>ai</category>
+      <guid>https://borretti.me/article/human-routers-of-machine-words</guid>
+      <pubDate>Sun, 14 Jun 2026 03:03:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Checkup I Didn't Do</title>
+      <link>https://deknijf.com/posts/the-checkup-i-didnt-do/</link>
+      <description>Every time a smarter AI model lands, run it over all your projects. I keep telling people that. Then I got three days of Fable, and didn't.</description>
+      <category>ai</category>
+      <guid>https://deknijf.com/posts/the-checkup-i-didnt-do/</guid>
+      <pubDate>Sun, 14 Jun 2026 03:03:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>What 1,000+ Harness Experiments Taught Me About Self-Improving Agents</title>
+      <link>https://www.henrypan.com/blog/2026-05-25-self-improvement-harness/</link>
+      <description>Project Repository: https://github.com/workofart/harness-experiment So I recently wanted to see whether an AI agent could self-improve a harness to solve terminal bench tasks. To align on the definitions, “harness” means the system (e.g. Claude Code, Codex, ChatGPT web interface etc…) wrapping around the model (e.g. GPT 5.5, Claude Opus 4.7 etc…)...</description>
+      <category>ai</category>
+      <category>git</category>
+      <category>javascript</category>
+      <category>cloud</category>
+      <guid>https://www.henrypan.com/blog/2026-05-25-self-improvement-harness/</guid>
+      <pubDate>Sun, 14 Jun 2026 03:03:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>System Packages | mise-en-place</title>
+      <link>https://mise.jdx.dev/system-packages/</link>
+      <description>mise-en-place documentation</description>
+      <category>database</category>
+      <category>linux</category>
+      <category>apple</category>
+      <category>javascript</category>
+      <guid>https://mise.jdx.dev/system-packages/</guid>
+      <pubDate>Sun, 14 Jun 2026 03:03:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>What a great day for Anthropic</title>
+      <link>https://ognjen.io/what-a-great-day-for-anthropic/</link>
+      <description>While there are a lot of you-had-it-comings, the export ban is kind of great for Anthropic</description>
+      <category>ai</category>
+      <guid>https://ognjen.io/what-a-great-day-for-anthropic/</guid>
+      <pubDate>Sun, 14 Jun 2026 03:03:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Hype Hangover Kicks In</title>
+      <link>https://www.mikehyland.com/blog/the-developer-mood-june-2026</link>
+      <description>We said we'd build with it. We are. And now we're terrified of what we built.</description>
+      <category>ai</category>
+      <guid>https://www.mikehyland.com/blog/the-developer-mood-june-2026</guid>
+      <pubDate>Sun, 14 Jun 2026 03:03:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rethinking monorepos in the age of agents</title>
+      <link>https://chamoda.com/rethinking-monorepos-in-the-age-of-agents</link>
+      <description>As the industry switches to agentic coding, it makes less and less sense to keep separate repositories when agents benefit from the broader context of a monorepo.</description>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://chamoda.com/rethinking-monorepos-in-the-age-of-agents</guid>
+      <pubDate>Sun, 14 Jun 2026 03:03:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Running DOS on Behringers DDX3216 with a DIY x86-BIOS from scratch – Chris.Dev.Blog</title>
+      <link>https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/</link>
+      <description>In 1994 I got my first computer: an Intel i486 DX2-66 with 4 MB RAM and a 512MB harddisk. The software was IBMs OS/2 and Microsofts Windows 3.11. In the next four years I was upgrading this machine every few months with more RAM (up to 16MB), a CD-ROM-drive and a soundblaster card. So I learned upgrading this machine, installing new software and finally learned how to program new software using BASIC. But I never got in touch with the boot-process or the details of MS-DOS.</description>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/</guid>
+      <pubDate>Sun, 14 Jun 2026 03:03:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Pelican, or pelican't? A hint at Claude evals</title>
+      <link>https://noperator.dev/posts/pelicant/</link>
+      <description>I’m a big fan and frequent user of Claude’s deep research feature, so it caught my eye when the task title from my research subagent was a bit longer than usual.
+I’d asked about WWI causes and got the research title “Causes of WWI research disabled warnings about…” with some unexpected trailing text at the end.
+Confused, I inspected the title with Chrome DevTools and found that the h2 header overflowed far past the truncated text shown in the UI.
+The full title discussed re-enabling system update warnings for Windows and macOS—clearly unrelated to my prompt!</description>
+      <category>javascript</category>
+      <category>ai</category>
+      <guid>https://noperator.dev/posts/pelicant/</guid>
+      <pubDate>Sun, 14 Jun 2026 03:03:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Loop Engineering</title>
+      <link>https://addyosmani.com/blog/loop-engineering/</link>
+      <description>You don't really need to be good at prompting anymore. The thing to get good at is the loop that does the prompting for you. It's five building blocks plus s...</description>
+      <category>encryption</category>
+      <category>git</category>
+      <category>ai</category>
+      <guid>https://addyosmani.com/blog/loop-engineering/</guid>
+      <pubDate>Sun, 14 Jun 2026 03:03:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Labor is a market distortion, We Need VAT and UBI - Wilsons Blog</title>
+      <link>https://wilsoniumite.com/2026/06/07/labor-is-a-market-distortion/</link>
+      <description>There is a pretty serious gap in how the economy functions right now, has been for decades, and we have to close it. I’m not here to be all “tax the rich” even though I maybe think that’s a good idea too. I’m not here to say “free markets are amazing” even though I kinda […]</description>
+      <category>git</category>
+      <guid>https://wilsoniumite.com/2026/06/07/labor-is-a-market-distortion/</guid>
+      <pubDate>Sun, 14 Jun 2026 03:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Matthew Butterick | Extinction-level capitalism</title>
+      <link>https://matthewbutterick.com/extinction-level-capitalism.html</link>
+      <description>Matthew Butterick</description>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://matthewbutterick.com/extinction-level-capitalism.html</guid>
+      <pubDate>Sun, 14 Jun 2026 03:02:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Isolation Is the New Runtime — Cyrus Radfar</title>
+      <link>https://cyrusradfar.com/thoughts/sandboxing-from-vms-to-agents</link>
+      <description>Sandboxing is thirty years old and has barely changed. What changed is who's in the box: an agent that reads its next instruction off the open internet and can't tell a command from a trap, which is why the OS is reorganizing around it. A line from chroot in 1979 to Microsoft's MXC in 2026, and the trade we made along the way.</description>
+      <category>containers</category>
+      <category>apple</category>
+      <category>conference</category>
+      <category>cloud</category>
+      <category>linux</category>
+      <guid>https://cyrusradfar.com/thoughts/sandboxing-from-vms-to-agents</guid>
+      <pubDate>Sun, 14 Jun 2026 03:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hans Schulz - The father of the VEF Minox lens?</title>
+      <link>https://moments-of-now.com/hans-schulz-the-father-of-the-vef-minox-riga-lens/</link>
+      <description>How Hans Schulz designed the Minostigmat lens for the first Minox camera. Here is the full story of calculating this Cooke triplet.</description>
+      <category>dotnet</category>
+      <category>encryption</category>
+      <guid>https://moments-of-now.com/hans-schulz-the-father-of-the-vef-minox-riga-lens/</guid>
+      <pubDate>Sun, 14 Jun 2026 03:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Highly Enriched Polonium (white paper regarding static {as in electrical charge} analysis </title>
+      <link>https://anankesmirror.blogspot.com/2026/06/highly-enriched-polonium-white-paper.html</link>
+      <description>A Distributed-Provenance Instrument for Documenting and Analyzing Public Positions on Known, Legally-Sanctioned Activity **A White Paper** *...</description>
+      <category>javascript</category>
+      <guid>https://anankesmirror.blogspot.com/2026/06/highly-enriched-polonium-white-paper.html</guid>
+      <pubDate>Sun, 14 Jun 2026 03:02:40 GMT</pubDate>
+    </item>
+    <item>
       <title>Hidden Code: How Slot Machines Actually Work - The Computer Inside</title>
       <link>https://youtube.com/watch?v=SR8ESCmUYLY</link>
       <description>Dave explains the inner workings of a modern slot machine, revealing the computer inside and whether or not the games are fair.  Check out an episode of ShopTalk on Dave's Attic where we answer the best user questions!
@@ -91,41 +232,6 @@ https://youtu.be/ZUvDO2g5Y1s</description>
       <description>As a pioneer of electric motors using no rare earths, Renault Group is unique on the automotive market, a position reasserted for strategic reasons.</description>
       <guid>https://www.renaultgroup.com/en/magazine/energy-and-powertrains/all-about-electric-motors-with-no-rare-earths/</guid>
       <pubDate>Sat, 13 Jun 2026 07:02:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>How to Setup a Local Coding Agent on macOS</title>
-      <link>https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos</link>
-      <description>Running Gemma 4 26B-A4B and Qwen3.6 35B-A3B locally with llama.cpp, MTP speculative decoding, multimodal support, and PI as a coding agent.</description>
-      <category>apple</category>
-      <category>python</category>
-      <category>git</category>
-      <category>ai</category>
-      <guid>https://ikyle.me/blog/2026/how-to-setup-a-local-coding-agent-on-macos</guid>
-      <pubDate>Sat, 13 Jun 2026 03:03:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>Statement on the US government directive to suspend access to Fable 5 and Mythos 5</title>
-      <link>https://www.anthropic.com/news/fable-mythos-access</link>
-      <description>The US government has issued an export control directive to suspend all access to Fable 5 and Mythos 5 by any foreign national, whether inside or outside the United States.</description>
-      <category>ai</category>
-      <guid>https://www.anthropic.com/news/fable-mythos-access</guid>
-      <pubDate>Sat, 13 Jun 2026 03:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>I Am Not a Reverse Centaur</title>
-      <link>https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur</link>
-      <description>About a year ago I wrote on this blog about how coding with LLMs would not work for me, even if there were no ethical or environmental concerns preventing me to use them. I'm not going to repeat the…</description>
-      <category>ai</category>
-      <guid>https://blog.miguelgrinberg.com/post/i-am-not-a-reverse-centaur</guid>
-      <pubDate>Sat, 13 Jun 2026 03:02:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>“Don’t You Just Upload It to ChatGPT?”</title>
-      <link>https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/</link>
-      <description>Can ChatGPT replace translators? A freelance translator shares a funny Ottawa story about AI translation, professional judgment and why human expertise still matters.</description>
-      <category>ai</category>
-      <guid>https://correresmidestino.com/dont-you-just-upload-it-to-chatgpt/</guid>
-      <pubDate>Sat, 13 Jun 2026 03:02:46 GMT</pubDate>
     </item>
   </channel>
 </rss>
