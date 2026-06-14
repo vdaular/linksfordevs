@@ -7,6 +7,23 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>ReactOS "Open-Source Windows" Reaches The Milestone Of Being Able To Run Half-Life</title>
+      <link>https://www.phoronix.com/news/ReactOS-Running-Half-Life</link>
+      <description>ReactOS, the open-source operating system working for binary compatibility with Microsoft Windows computer programs and drivers, has reached the milestone of being able to enjoy the classic game Half-Life running on this open-source platform.</description>
+      <category>gaming</category>
+      <category>linux</category>
+      <guid>https://www.phoronix.com/news/ReactOS-Running-Half-Life</guid>
+      <pubDate>Sun, 14 Jun 2026 15:02:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>SQL to ER Diagram — Free Online ERD Generator from SQL</title>
+      <link>https://sqltoerdiagram.com/</link>
+      <description>Paste a SQL schema and instantly generate a clean, interactive ER diagram. Free, open source, runs in your browser — nothing uploaded.</description>
+      <category>database</category>
+      <guid>https://sqltoerdiagram.com/</guid>
+      <pubDate>Sun, 14 Jun 2026 15:02:17 GMT</pubDate>
+    </item>
+    <item>
       <title>Honda Civics and the Evil Valet</title>
       <link>https://juniperspring.org/posts/honda-evil-valet/</link>
       <description>Status update, three years later</description>
@@ -208,23 +225,6 @@ https://youtu.be/ZUvDO2g5Y1s</description>
       <category>dotnet</category>
       <guid>https://desfontain.es/blog/banning-noise.html</guid>
       <pubDate>Sat, 13 Jun 2026 19:02:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>21 Zero-Days in FFmpeg | depthfirst</title>
-      <link>https://depthfirst.com/research/21-zero-days-in-ffmpeg</link>
-      <description>depthfirst's production autonomous security agent discovered 21 zero-day vulnerabilities in FFmpeg, after intensive security analysis by Google and Anthropic. Moving beyond theoretical analysis, our agent produces concrete, reproducible PoC inputs to confirm its findings at a fraction of the costs ($1k vs. $10k). Several of the findings had been sitting latent for 15 to 20 years. We explored the exploitability of the issues and developed a PoC demonstrating a RCE exploit primitive.</description>
-      <category>ai</category>
-      <category>dotnet</category>
-      <guid>https://depthfirst.com/research/21-zero-days-in-ffmpeg</guid>
-      <pubDate>Sat, 13 Jun 2026 15:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Leaving Mozilla</title>
-      <link>https://blog.unitedheroes.net/5751</link>
-      <description>&gt; On burn-out and bull-headedness</description>
-      <category>rust</category>
-      <guid>https://blog.unitedheroes.net/5751</guid>
-      <pubDate>Sat, 13 Jun 2026 15:02:08 GMT</pubDate>
     </item>
   </channel>
 </rss>

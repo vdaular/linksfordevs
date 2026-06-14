@@ -1,5 +1,21 @@
 [
   {
+    "Title": "ReactOS \"Open-Source Windows\" Reaches The Milestone Of Being Able To Run Half-Life",
+    "Url": "https://www.phoronix.com/news/ReactOS-Running-Half-Life",
+    "Timestamp": "2026-06-14T15:02:21",
+    "Domain": "www.phoronix.com",
+    "Description": "ReactOS, the open-source operating system working for binary compatibility with Microsoft Windows computer programs and drivers, has reached the milestone of being able to enjoy the classic game Half-Life running on this open-source platform.",
+    "Confidence": 0.941446
+  },
+  {
+    "Title": "SQL to ER Diagram — Free Online ERD Generator from SQL",
+    "Url": "https://sqltoerdiagram.com/",
+    "Timestamp": "2026-06-14T15:02:17",
+    "Domain": "sqltoerdiagram.com",
+    "Description": "Paste a SQL schema and instantly generate a clean, interactive ER diagram. Free, open source, runs in your browser — nothing uploaded.",
+    "Confidence": 0.99888664
+  },
+  {
     "Title": "Honda Civics and the Evil Valet",
     "Url": "https://juniperspring.org/posts/honda-evil-valet/",
     "Timestamp": "2026-06-14T11:02:09",
@@ -174,21 +190,5 @@
     "Domain": "desfontain.es",
     "Description": "Sadly, taking away valuable disclosure avoidance tools doesn't make fundamental trade-offs go away.",
     "Confidence": 0.9723508
-  },
-  {
-    "Title": "21 Zero-Days in FFmpeg | depthfirst",
-    "Url": "https://depthfirst.com/research/21-zero-days-in-ffmpeg",
-    "Timestamp": "2026-06-13T15:02:12",
-    "Domain": "depthfirst.com",
-    "Description": "depthfirst's production autonomous security agent discovered 21 zero-day vulnerabilities in FFmpeg, after intensive security analysis by Google and Anthropic. Moving beyond theoretical analysis, our agent produces concrete, reproducible PoC inputs to confirm its findings at a fraction of the costs ($1k vs. $10k). Several of the findings had been sitting latent for 15 to 20 years. We explored the exploitability of the issues and developed a PoC demonstrating a RCE exploit primitive.",
-    "Confidence": 0.96632075
-  },
-  {
-    "Title": "Leaving Mozilla",
-    "Url": "https://blog.unitedheroes.net/5751",
-    "Timestamp": "2026-06-13T15:02:08",
-    "Domain": "blog.unitedheroes.net",
-    "Description": "> On burn-out and bull-headedness",
-    "Confidence": 0.9441927
   }
 ]
