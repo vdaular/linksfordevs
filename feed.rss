@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Your EPUB Is Fine. Kobo Disagrees. Blame Adobe</title>
+      <link>https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/</link>
+      <description>Adobe isn’t exactly a beloved company these days. People begrudgingly use their stuff, because the Creative Suite is an industry standard (read: monopoly) or there are simply no worthwhile alternatives,...</description>
+      <category>web</category>
+      <category>cloud</category>
+      <category>apple</category>
+      <guid>https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/</guid>
+      <pubDate>Mon, 15 Jun 2026 07:02:32 GMT</pubDate>
+    </item>
+    <item>
       <title>AI GPUs probably live longer than three years</title>
       <link>https://www.seangoedecke.com/ai-gpus-live-longer-than-three-years/</link>
       <description>People who think current AI use is unsustainable often rely on the claim that inference GPUs only last “three years at the most” under load1. The idea here is that once the AI bubble money drains away, current infrastructure will rapidly become obsolete, and there won’t be enough money floating around to buy a whole slate of brand-new GPUs. Inference costs would thus rapidly become way too expensive for current AI products to make any financial sense.</description>
@@ -145,22 +155,6 @@
       <category>android</category>
       <guid>https://juniperspring.org/posts/honda-evil-valet/</guid>
       <pubDate>Sun, 14 Jun 2026 11:02:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Access Denied</title>
-      <link>https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661</link>
-      <description>Reference #18.520ed217.1781420543.392625fd</description>
-      <category>ai</category>
-      <guid>https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661</guid>
-      <pubDate>Sun, 14 Jun 2026 07:02:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI Coding at Home Without Going Broke</title>
-      <link>https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/</link>
-      <description>There are three ways to do AI coding at home without spending like a company, and which one fits depends mostly on how much you trust the next year of hardwa...</description>
-      <category>ai</category>
-      <guid>https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/</guid>
-      <pubDate>Sun, 14 Jun 2026 07:02:20 GMT</pubDate>
     </item>
   </channel>
 </rss>

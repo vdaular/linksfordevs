@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Your EPUB Is Fine. Kobo Disagrees. Blame Adobe",
+    "Url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
+    "Timestamp": "2026-06-15T07:02:32",
+    "Domain": "andreklein.net",
+    "Description": "Adobe isn’t exactly a beloved company these days. People begrudgingly use their stuff, because the Creative Suite is an industry standard (read: monopoly) or there are simply no worthwhile alternatives,...",
+    "Confidence": 0.92755145
+  },
+  {
     "Title": "AI GPUs probably live longer than three years",
     "Url": "https://www.seangoedecke.com/ai-gpus-live-longer-than-three-years/",
     "Timestamp": "2026-06-15T03:02:30",
@@ -126,21 +134,5 @@
     "Domain": "juniperspring.org",
     "Description": "Status update, three years later",
     "Confidence": 0.9880736
-  },
-  {
-    "Title": "Access Denied",
-    "Url": "https://news.sky.com/story/derbyshire-police-officer-investigated-for-using-ai-to-create-evidence-in-multiple-cases-13553661",
-    "Timestamp": "2026-06-14T07:02:24",
-    "Domain": "news.sky.com",
-    "Description": "Reference #18.520ed217.1781420543.392625fd",
-    "Confidence": 0.978469
-  },
-  {
-    "Title": "AI Coding at Home Without Going Broke",
-    "Url": "https://stephen.bochinski.dev/blog/2026/06/13/ai-coding-at-home-without-going-broke/",
-    "Timestamp": "2026-06-14T07:02:20",
-    "Domain": "stephen.bochinski.dev",
-    "Description": "There are three ways to do AI coding at home without spending like a company, and which one fits depends mostly on how much you trust the next year of hardwa...",
-    "Confidence": 0.90554273
   }
 ]
