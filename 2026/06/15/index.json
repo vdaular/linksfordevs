@@ -1,5 +1,138 @@
 [
   {
+    "Title": "LLMs Will Replace 8-Track Duplication Engineers",
+    "Url": "https://bbenchoff.github.io/pages/8Tracks.html",
+    "Timestamp": "2026-06-15T23:03:40",
+    "Domain": "bbenchoff.github.io",
+    "Description": "8-tracks are human-solved NP-hard problems"
+  },
+  {
+    "Title": "Why Can't We Agree on a Plugin Format?",
+    "Url": "https://jasonrobert.dev/blog/2026-06-04-why-cant-we-agree-on-a-plugin-format/",
+    "Timestamp": "2026-06-15T23:03:37",
+    "Domain": "jasonrobert.dev",
+    "Description": "A small template repo for authoring AI coding plugins in a tool-agnostic format and transpiling them into Claude Code, Copilot CLI, OpenCode, and Codex bundles."
+  },
+  {
+    "Title": "Claude Code is a chainsaw",
+    "Url": "https://mechanicalsurvival.com/blog/claude-code-is-a-chainsaw/",
+    "Timestamp": "2026-06-15T23:03:33",
+    "Domain": "mechanicalsurvival.com",
+    "Description": "“Wood, chainsaw, tree” by pb826 on Pixabay\nI first picked up a chainsaw two summers ago.\nI was staying with a friend at his farm on Dartmoor. We spent a drizzly afternoon splitting logs with a hatchet, clunking and thunking our way through the pile until the time came to carve up a bigger section. He said “I’ll tell you what”, grinned, disappeared into an outbuilding and came back brandishing a green and white chainsaw with a long black blade. Battery-powered, unfortunately."
+  },
+  {
+    "Title": "I sped up the test suite by 2x with one simple change",
+    "Url": "https://gaultier.github.io/blog/I_sped_up_the_test_suite_by_x2.html",
+    "Timestamp": "2026-06-15T23:03:30",
+    "Domain": "gaultier.github.io",
+    "Description": "⏴ Back to all articles"
+  },
+  {
+    "Title": "Building the systems that build the software",
+    "Url": "https://blog.nilenso.com/blog/2026/06/12/building-the-systems-that-build-the-software/",
+    "Timestamp": "2026-06-15T23:03:26",
+    "Domain": "blog.nilenso.com",
+    "Description": ""
+  },
+  {
+    "Title": "Clojure is almost as fast as C (with some help)",
+    "Url": "https://ertu.dev/posts/4_clojure-reaching-c-performance/",
+    "Timestamp": "2026-06-15T23:03:20",
+    "Domain": "ertu.dev",
+    "Description": "I have a stress test written in C: 100,000 cubes flying around in space. The CPU rebuilds every cube’s 4x4 transform matrix on every frame and sends all of them to the GPU. That is around 900,000 sine evaluations and 6 MB of matrix data per frame, and after that the GPU still has to draw 3.6 million triangles. So the frame is half CPU work, half GPU work.\nI ported it to Clojure and wanted to see how close I could get to the C version’s FPS. I should say up front that I did not do the optimization work alone: I paired with Claude Code on it, and most of the digging in this post (the benchmarks, the JIT logs, the failed attempts) comes from that session."
+  },
+  {
+    "Title": "denkthoughts | Instagram is obsessed with me",
+    "Url": "https://denkthoughts.com/instagram-is-obsessed-with-me",
+    "Timestamp": "2026-06-15T23:03:16",
+    "Domain": "denkthoughts.com",
+    "Description": "🥴 Instagram is obsessed with me"
+  },
+  {
+    "Title": "Remote work is bad for you",
+    "Url": "https://mrmarket.lol/remote-work-is-bad-for-you/",
+    "Timestamp": "2026-06-15T23:03:12",
+    "Domain": "mrmarket.lol",
+    "Description": "Lately I've been emailing people at random between 4am-6am, right as I have my first cup of coffee.\n\nI've been emailing CEOs of small startups I have a pos..."
+  },
+  {
+    "Title": "Detecting and Steering Sycophancy in Qwen",
+    "Url": "https://palashtaneja.com/blog/posts/detecting-and-steering-sycophancy-in-qwen.html",
+    "Timestamp": "2026-06-15T23:03:10",
+    "Domain": "palashtaneja.com",
+    "Description": "Sycophancy has always interested me in large language models. I think if you've used any of these models for any amount of time, even very non-power users are able to realize that these models have a high amount of bias toward whatever the user says, aka the models are sycophantic."
+  },
+  {
+    "Title": "A backdoor in a LinkedIn job offer",
+    "Url": "https://roman.pt/posts/linkedin-backdoor/",
+    "Timestamp": "2026-06-15T23:03:07",
+    "Domain": "roman.pt",
+    "Description": "A fake recruiter, a crypto repo, and a remote code execution payload hidden in a test file."
+  },
+  {
+    "Title": "The KV Cache, Explained: Why Long Context Eats Your VRAM (and How to Fit More)",
+    "Url": "https://vettedconsumer.com/the-kv-cache-explained-why-long-context-eats-your-vram-and-how-to-fit-more/",
+    "Timestamp": "2026-06-15T23:03:03",
+    "Domain": "vettedconsumer.com",
+    "Description": "You quantized the model and it fits — then it runs out of memory at long context. The culprit is the KV cache, and at 128k tokens it can dwarf the model itself. Here's the math, the fix, and what it means for buying local-LLM hardware."
+  },
+  {
+    "Title": "Distributed Compaction in SlateDb — Ryan Dielhenn",
+    "Url": "https://ryandielhenn.github.io/blog/distributed-compaction/",
+    "Timestamp": "2026-06-15T23:02:59",
+    "Domain": "ryandielhenn.github.io",
+    "Description": "A visual and written explanation of Distributed Compaction (RFC-0025 in SlateDb) and discussion of future work"
+  },
+  {
+    "Title": "Organize Files & Folders Effectively: Best Practices & Examples",
+    "Url": "https://tsykin.com/blog/organize-files-and-folders",
+    "Timestamp": "2026-06-15T23:02:56",
+    "Domain": "tsykin.com",
+    "Description": "Learn the best file and folder organization methods, naming conventions, and cloud storage tips with examples for an efficient and clutter-free system."
+  },
+  {
+    "Title": "My LSM Tree Was Slower Than a B-Tree. Then I Profiled It.",
+    "Url": "https://aasheesh.vercel.app/blog/lsm-tree",
+    "Timestamp": "2026-06-15T23:02:52",
+    "Domain": "aasheesh.vercel.app",
+    "Description": "A few weeks ago I wanted to understand how the storage engine inside RocksDB actually works. Not read about it. Build it."
+  },
+  {
+    "Title": "Cursor for X: key standards for vertical products offering agent workflows",
+    "Url": "https://alanyahya.com/writing/common-standards-vertical-agent-products",
+    "Timestamp": "2026-06-15T23:02:48",
+    "Domain": "alanyahya.com",
+    "Description": "Cursor for X: key standards for vertical products offering agent workflows"
+  },
+  {
+    "Title": "Would You Believe that This is It?",
+    "Url": "https://brianschrader.com/archive/would-you-believe-that-this-is-it/",
+    "Timestamp": "2026-06-15T23:02:43",
+    "Domain": "brianschrader.com",
+    "Description": "A band and their song, making decisions, and the nature of Liberal Democracy."
+  },
+  {
+    "Title": "Fable’s approach analysis",
+    "Url": "https://ankitmaloo.com/fable/",
+    "Timestamp": "2026-06-15T23:02:37",
+    "Domain": "ankitmaloo.com",
+    "Description": "Documenting my journey in the world of AI and RL."
+  },
+  {
+    "Title": "MAKC.CO - Welcome",
+    "Url": "https://makc.co/essays/good-advice-delivered-poorly/",
+    "Timestamp": "2026-06-15T23:02:33",
+    "Domain": "makc.co",
+    "Description": "The personal site of Makc Criswell. A propagandist for pickled red onions, rare meat activist, barely-monetizable YouTuber and Captian of the sailling vessel Argo."
+  },
+  {
+    "Title": "The Grain of Thought",
+    "Url": "https://asker.dev/grain-of-thought",
+    "Timestamp": "2026-06-15T23:02:29",
+    "Domain": "asker.dev",
+    "Description": "Redesigning text to preserve the writer. An essay on reading and writing in the age of generation."
+  },
+  {
     "Title": "Tethys",
     "Url": "https://xkcd.com/3259/",
     "Timestamp": "2026-06-15T19:02:24",

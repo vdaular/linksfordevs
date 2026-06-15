@@ -7,6 +7,181 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>LLMs Will Replace 8-Track Duplication Engineers</title>
+      <link>https://bbenchoff.github.io/pages/8Tracks.html</link>
+      <description>8-tracks are human-solved NP-hard problems</description>
+      <category>ai</category>
+      <category>apple</category>
+      <category>dotnet</category>
+      <guid>https://bbenchoff.github.io/pages/8Tracks.html</guid>
+      <pubDate>Mon, 15 Jun 2026 23:03:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why Can't We Agree on a Plugin Format?</title>
+      <link>https://jasonrobert.dev/blog/2026-06-04-why-cant-we-agree-on-a-plugin-format/</link>
+      <description>A small template repo for authoring AI coding plugins in a tool-agnostic format and transpiling them into Claude Code, Copilot CLI, OpenCode, and Codex bundles.</description>
+      <category>ai</category>
+      <category>git</category>
+      <category>javascript</category>
+      <guid>https://jasonrobert.dev/blog/2026-06-04-why-cant-we-agree-on-a-plugin-format/</guid>
+      <pubDate>Mon, 15 Jun 2026 23:03:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claude Code is a chainsaw</title>
+      <link>https://mechanicalsurvival.com/blog/claude-code-is-a-chainsaw/</link>
+      <description>“Wood, chainsaw, tree” by pb826 on Pixabay
+I first picked up a chainsaw two summers ago.
+I was staying with a friend at his farm on Dartmoor. We spent a drizzly afternoon splitting logs with a hatchet, clunking and thunking our way through the pile until the time came to carve up a bigger section. He said “I’ll tell you what”, grinned, disappeared into an outbuilding and came back brandishing a green and white chainsaw with a long black blade. Battery-powered, unfortunately.</description>
+      <category>ai</category>
+      <guid>https://mechanicalsurvival.com/blog/claude-code-is-a-chainsaw/</guid>
+      <pubDate>Mon, 15 Jun 2026 23:03:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>I sped up the test suite by 2x with one simple change</title>
+      <link>https://gaultier.github.io/blog/I_sped_up_the_test_suite_by_x2.html</link>
+      <description>⏴ Back to all articles</description>
+      <category>database</category>
+      <guid>https://gaultier.github.io/blog/I_sped_up_the_test_suite_by_x2.html</guid>
+      <pubDate>Mon, 15 Jun 2026 23:03:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Building the systems that build the software</title>
+      <link>https://blog.nilenso.com/blog/2026/06/12/building-the-systems-that-build-the-software/</link>
+      <description></description>
+      <category>ai</category>
+      <category>python</category>
+      <guid>https://blog.nilenso.com/blog/2026/06/12/building-the-systems-that-build-the-software/</guid>
+      <pubDate>Mon, 15 Jun 2026 23:03:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Clojure is almost as fast as C (with some help)</title>
+      <link>https://ertu.dev/posts/4_clojure-reaching-c-performance/</link>
+      <description>I have a stress test written in C: 100,000 cubes flying around in space. The CPU rebuilds every cube’s 4x4 transform matrix on every frame and sends all of them to the GPU. That is around 900,000 sine evaluations and 6 MB of matrix data per frame, and after that the GPU still has to draw 3.6 million triangles. So the frame is half CPU work, half GPU work.
+I ported it to Clojure and wanted to see how close I could get to the C version’s FPS. I should say up front that I did not do the optimization work alone: I paired with Claude Code on it, and most of the digging in this post (the benchmarks, the JIT logs, the failed attempts) comes from that session.</description>
+      <category>ides</category>
+      <category>dotnet</category>
+      <guid>https://ertu.dev/posts/4_clojure-reaching-c-performance/</guid>
+      <pubDate>Mon, 15 Jun 2026 23:03:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>denkthoughts | Instagram is obsessed with me</title>
+      <link>https://denkthoughts.com/instagram-is-obsessed-with-me</link>
+      <description>🥴 Instagram is obsessed with me</description>
+      <guid>https://denkthoughts.com/instagram-is-obsessed-with-me</guid>
+      <pubDate>Mon, 15 Jun 2026 23:03:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>Remote work is bad for you</title>
+      <link>https://mrmarket.lol/remote-work-is-bad-for-you/</link>
+      <description>Lately I've been emailing people at random between 4am-6am, right as I have my first cup of coffee.
+
+I've been emailing CEOs of small startups I have a pos...</description>
+      <category>encryption</category>
+      <guid>https://mrmarket.lol/remote-work-is-bad-for-you/</guid>
+      <pubDate>Mon, 15 Jun 2026 23:03:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Detecting and Steering Sycophancy in Qwen</title>
+      <link>https://palashtaneja.com/blog/posts/detecting-and-steering-sycophancy-in-qwen.html</link>
+      <description>Sycophancy has always interested me in large language models. I think if you've used any of these models for any amount of time, even very non-power users are able to realize that these models have a high amount of bias toward whatever the user says, aka the models are sycophantic.</description>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://palashtaneja.com/blog/posts/detecting-and-steering-sycophancy-in-qwen.html</guid>
+      <pubDate>Mon, 15 Jun 2026 23:03:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>A backdoor in a LinkedIn job offer</title>
+      <link>https://roman.pt/posts/linkedin-backdoor/</link>
+      <description>A fake recruiter, a crypto repo, and a remote code execution payload hidden in a test file.</description>
+      <category>javascript</category>
+      <guid>https://roman.pt/posts/linkedin-backdoor/</guid>
+      <pubDate>Mon, 15 Jun 2026 23:03:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>The KV Cache, Explained: Why Long Context Eats Your VRAM (and How to Fit More)</title>
+      <link>https://vettedconsumer.com/the-kv-cache-explained-why-long-context-eats-your-vram-and-how-to-fit-more/</link>
+      <description>You quantized the model and it fits — then it runs out of memory at long context. The culprit is the KV cache, and at 128k tokens it can dwarf the model itself. Here's the math, the fix, and what it means for buying local-LLM hardware.</description>
+      <category>ai</category>
+      <guid>https://vettedconsumer.com/the-kv-cache-explained-why-long-context-eats-your-vram-and-how-to-fit-more/</guid>
+      <pubDate>Mon, 15 Jun 2026 23:03:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>Distributed Compaction in SlateDb — Ryan Dielhenn</title>
+      <link>https://ryandielhenn.github.io/blog/distributed-compaction/</link>
+      <description>A visual and written explanation of Distributed Compaction (RFC-0025 in SlateDb) and discussion of future work</description>
+      <category>cloud</category>
+      <guid>https://ryandielhenn.github.io/blog/distributed-compaction/</guid>
+      <pubDate>Mon, 15 Jun 2026 23:02:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Organize Files &amp; Folders Effectively: Best Practices &amp; Examples</title>
+      <link>https://tsykin.com/blog/organize-files-and-folders</link>
+      <description>Learn the best file and folder organization methods, naming conventions, and cloud storage tips with examples for an efficient and clutter-free system.</description>
+      <category>linux</category>
+      <category>apple</category>
+      <category>git</category>
+      <category>gaming</category>
+      <guid>https://tsykin.com/blog/organize-files-and-folders</guid>
+      <pubDate>Mon, 15 Jun 2026 23:02:56 GMT</pubDate>
+    </item>
+    <item>
+      <title>My LSM Tree Was Slower Than a B-Tree. Then I Profiled It.</title>
+      <link>https://aasheesh.vercel.app/blog/lsm-tree</link>
+      <description>A few weeks ago I wanted to understand how the storage engine inside RocksDB actually works. Not read about it. Build it.</description>
+      <author> (https://medium.com/@ashishrathour1102)</author>
+      <category>cloud</category>
+      <guid>https://aasheesh.vercel.app/blog/lsm-tree</guid>
+      <pubDate>Mon, 15 Jun 2026 23:02:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Cursor for X: key standards for vertical products offering agent workflows</title>
+      <link>https://alanyahya.com/writing/common-standards-vertical-agent-products</link>
+      <description>Cursor for X: key standards for vertical products offering agent workflows</description>
+      <category>ides</category>
+      <category>git</category>
+      <category>ai</category>
+      <guid>https://alanyahya.com/writing/common-standards-vertical-agent-products</guid>
+      <pubDate>Mon, 15 Jun 2026 23:02:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Would You Believe that This is It?</title>
+      <link>https://brianschrader.com/archive/would-you-believe-that-this-is-it/</link>
+      <description>A band and their song, making decisions, and the nature of Liberal Democracy.</description>
+      <category>ai</category>
+      <guid>https://brianschrader.com/archive/would-you-believe-that-this-is-it/</guid>
+      <pubDate>Mon, 15 Jun 2026 23:02:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fable’s approach analysis</title>
+      <link>https://ankitmaloo.com/fable/</link>
+      <description>Documenting my journey in the world of AI and RL.</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <category>javascript</category>
+      <guid>https://ankitmaloo.com/fable/</guid>
+      <pubDate>Mon, 15 Jun 2026 23:02:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>MAKC.CO - Welcome</title>
+      <link>https://makc.co/essays/good-advice-delivered-poorly/</link>
+      <description>The personal site of Makc Criswell. A propagandist for pickled red onions, rare meat activist, barely-monetizable YouTuber and Captian of the sailling vessel Argo.</description>
+      <category>linux</category>
+      <category>ai</category>
+      <category>apple</category>
+      <category>youtube</category>
+      <category>git</category>
+      <guid>https://makc.co/essays/good-advice-delivered-poorly/</guid>
+      <pubDate>Mon, 15 Jun 2026 23:02:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Grain of Thought</title>
+      <link>https://asker.dev/grain-of-thought</link>
+      <description>Redesigning text to preserve the writer. An essay on reading and writing in the age of generation.</description>
+      <category>ai</category>
+      <guid>https://asker.dev/grain-of-thought</guid>
+      <pubDate>Mon, 15 Jun 2026 23:02:29 GMT</pubDate>
+    </item>
+    <item>
       <title>Tethys</title>
       <link>https://xkcd.com/3259/</link>
       <description></description>
@@ -111,82 +286,6 @@
       <category>rust</category>
       <guid>https://lore.kernel.org/lkml/CAHk-=wi4BF4bMhZNZ1tqs+FFV4OuZRe3ZqdWB+LxRLmRweUzQw@mail.gmail.com/T/#u</guid>
       <pubDate>Mon, 15 Jun 2026 03:02:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - tamnd/kage: Shadow any website for offline viewing, with the JavaScript stripped out</title>
-      <link>https://github.com/tamnd/kage</link>
-      <description>Shadow any website for offline viewing, with the JavaScript stripped out - tamnd/kage</description>
-      <category>javascript</category>
-      <category>git</category>
-      <category>web</category>
-      <category>apple</category>
-      <category>containers</category>
-      <guid>https://github.com/tamnd/kage</guid>
-      <pubDate>Sun, 14 Jun 2026 23:02:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Did Anthropic Ask For This?</title>
-      <link>https://www.verysane.ai/p/did-anthropic-ask-for-this</link>
-      <description>This past Friday, the US Government issued an export control directive that prohibits Anthropic from giving foreign nationals access to Claude Fable or Claude Mythos, their latest models.</description>
-      <category>ai</category>
-      <guid>https://www.verysane.ai/p/did-anthropic-ask-for-this</guid>
-      <pubDate>Sun, 14 Jun 2026 23:02:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tricking a Bike Counter</title>
-      <link>https://nullpxl.com/post/tricking-a-bike-counter/</link>
-      <description></description>
-      <guid>https://nullpxl.com/post/tricking-a-bike-counter/</guid>
-      <pubDate>Sun, 14 Jun 2026 23:02:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Aim for no</title>
-      <link>https://talk.bradwoods.io/blog/aim-for-no</link>
-      <description>An ability of successful people is their willingness to aim high, get rejected, and keep going.</description>
-      <category>gaming</category>
-      <guid>https://talk.bradwoods.io/blog/aim-for-no</guid>
-      <pubDate>Sun, 14 Jun 2026 23:02:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>The $75 Billion Bell</title>
-      <link>https://okulez.com/blog/the-75-billion-bell</link>
-      <description>SpaceX rang the largest IPO bell in American history. Folk wisdom says it marks the top. The history is more conditional, and the one clean miss tells you why.</description>
-      <category>ai</category>
-      <guid>https://okulez.com/blog/the-75-billion-bell</guid>
-      <pubDate>Sun, 14 Jun 2026 23:02:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Testing Uruky to replace Kagi</title>
-      <link>https://rewiring.bearblog.dev/kagi-to-uruky/</link>
-      <description>I thought that of all of the goals of my European migration journey, Kagi would be the easiest. I believed there to be no alternative, so I could just shrug ...</description>
-      <category>dotnet</category>
-      <category>android</category>
-      <category>ai</category>
-      <guid>https://rewiring.bearblog.dev/kagi-to-uruky/</guid>
-      <pubDate>Sun, 14 Jun 2026 23:02:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Please Stay Calm and Listen - Gibberish and Stuff</title>
-      <link>https://zhenyi.gibber.blog/please-stay-calm-and-listen</link>
-      <description>I need to tell you something. Please listen and try not to panic. You've been in a coma for quite some time. Yes, yes, I know, you would like to know how long. I'm afraid it's been... nine...</description>
-      <category>ai</category>
-      <category>ides</category>
-      <guid>https://zhenyi.gibber.blog/please-stay-calm-and-listen</guid>
-      <pubDate>Sun, 14 Jun 2026 23:02:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>The fertile void</title>
-      <link>https://d.glezos.com/the-fertile-void/</link>
-      <description>If I'm not being seen in motion, who am I seen as? Am I being lazy? If there is no immediate next mountain, what story do I tell?</description>
-      <guid>https://d.glezos.com/the-fertile-void/</guid>
-      <pubDate>Sun, 14 Jun 2026 23:02:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>For Retired Engineers…</title>
-      <link>https://telescoper.blog/2026/06/14/for-retired-engineers/</link>
-      <description>I know I’m not the only one to have noticed the fact that many- indeed most – such correspondents are Electrical Engineers (usually retired). I was delighted therefore to see that there…</description>
-      <guid>https://telescoper.blog/2026/06/14/for-retired-engineers/</guid>
-      <pubDate>Sun, 14 Jun 2026 23:02:17 GMT</pubDate>
     </item>
   </channel>
 </rss>
