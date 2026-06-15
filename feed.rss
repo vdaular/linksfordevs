@@ -7,6 +7,23 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>“Why do I need an account for this” Windows 11 users call out new requirements</title>
+      <link>https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds</link>
+      <description>A Reddit discussion about local accounts turns into a bigger debate over privacy, transparency, and user control on Windows 11.</description>
+      <author> (https://www.windowscentral.com/author/mauro-huculak)</author>
+      <category>encryption</category>
+      <guid>https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds</guid>
+      <pubDate>Mon, 15 Jun 2026 11:02:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>curl summer of bliss</title>
+      <link>https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/</link>
+      <description>The curl project will not accept or otherwise handle any vulnerability reports during the month of July 2026. We call it the curl summer of bliss. curl's submission form on Hackerone will be paused starting July 1, 2026. Summer of bliss starts: July 1, 2026. 00:00 CEST Submissions resume: August 3 2026. 09:00 CEST The … Continue reading curl summer of bliss →</description>
+      <author> (https://daniel.haxx.se/blog/author/daniel/)</author>
+      <guid>https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/</guid>
+      <pubDate>Mon, 15 Jun 2026 11:02:14 GMT</pubDate>
+    </item>
+    <item>
       <title>Your EPUB Is Fine. Kobo Disagrees. Blame Adobe</title>
       <link>https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/</link>
       <description>Adobe isn’t exactly a beloved company these days. People begrudgingly use their stuff, because the Creative Suite is an industry standard (read: monopoly) or there are simply no worthwhile alternatives,...</description>
@@ -146,15 +163,6 @@
       <category>database</category>
       <guid>https://sqltoerdiagram.com/</guid>
       <pubDate>Sun, 14 Jun 2026 15:02:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Honda Civics and the Evil Valet</title>
-      <link>https://juniperspring.org/posts/honda-evil-valet/</link>
-      <description>Status update, three years later</description>
-      <category>containers</category>
-      <category>android</category>
-      <guid>https://juniperspring.org/posts/honda-evil-valet/</guid>
-      <pubDate>Sun, 14 Jun 2026 11:02:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
