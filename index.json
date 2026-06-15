@@ -1,5 +1,21 @@
 [
   {
+    "Title": "What the Fuck Happened to Nerds",
+    "Url": "https://mrmarket.lol/what-the-fuck-happened-to-nerds/",
+    "Timestamp": "2026-06-15T15:02:30",
+    "Domain": "mrmarket.lol",
+    "Description": "<p>I've befriended some of the most thoughtful, brilliant, curious, eccentric, and sincere people I've ever met in the tech industry. Many of my dearest frie...",
+    "Confidence": 0.838328
+  },
+  {
+    "Title": "Apple Foundation Models",
+    "Url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
+    "Timestamp": "2026-06-15T15:02:27",
+    "Domain": "platform.claude.com",
+    "Description": "Use Claude on Apple platforms through the Foundation Models framework with the Claude for Foundation Models Swift package.",
+    "Confidence": 0.99554884
+  },
+  {
     "Title": "“Why do I need an account for this” Windows 11 users call out new requirements",
     "Url": "https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds",
     "Timestamp": "2026-06-15T11:02:19",
@@ -126,21 +142,5 @@
     "Domain": "paulgraham.com",
     "Description": "(This is based on a talk I gave at the Oxford Union.)",
     "Confidence": 0.97624105
-  },
-  {
-    "Title": "ReactOS \"Open-Source Windows\" Reaches The Milestone Of Being Able To Run Half-Life",
-    "Url": "https://www.phoronix.com/news/ReactOS-Running-Half-Life",
-    "Timestamp": "2026-06-14T15:02:21",
-    "Domain": "www.phoronix.com",
-    "Description": "ReactOS, the open-source operating system working for binary compatibility with Microsoft Windows computer programs and drivers, has reached the milestone of being able to enjoy the classic game Half-Life running on this open-source platform.",
-    "Confidence": 0.941446
-  },
-  {
-    "Title": "SQL to ER Diagram — Free Online ERD Generator from SQL",
-    "Url": "https://sqltoerdiagram.com/",
-    "Timestamp": "2026-06-14T15:02:17",
-    "Domain": "sqltoerdiagram.com",
-    "Description": "Paste a SQL schema and instantly generate a clean, interactive ER diagram. Free, open source, runs in your browser — nothing uploaded.",
-    "Confidence": 0.99888664
   }
 ]
