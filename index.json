@@ -1,5 +1,21 @@
 [
   {
+    "Title": "AI GPUs probably live longer than three years",
+    "Url": "https://www.seangoedecke.com/ai-gpus-live-longer-than-three-years/",
+    "Timestamp": "2026-06-15T03:02:30",
+    "Domain": "www.seangoedecke.com",
+    "Description": "People who think current AI use is unsustainable often rely on the claim that inference GPUs only last “three years at the most” under load1. The idea here is that once the AI bubble money drains away, current infrastructure will rapidly become obsolete, and there won’t be enough money floating around to buy a whole slate of brand-new GPUs. Inference costs would thus rapidly become way too expensive for current AI products to make any financial sense.",
+    "Confidence": 0.97325784
+  },
+  {
+    "Title": "Linux 7.1",
+    "Url": "https://lore.kernel.org/lkml/CAHk-=wi4BF4bMhZNZ1tqs+FFV4OuZRe3ZqdWB+LxRLmRweUzQw@mail.gmail.com/T/#u",
+    "Timestamp": "2026-06-15T03:02:26",
+    "Domain": "lore.kernel.org",
+    "Description": null,
+    "Confidence": 0.9289683
+  },
+  {
     "Title": "GitHub - tamnd/kage: Shadow any website for offline viewing, with the JavaScript stripped out",
     "Url": "https://github.com/tamnd/kage",
     "Timestamp": "2026-06-14T23:02:48",
@@ -126,125 +142,5 @@
     "Domain": "stephen.bochinski.dev",
     "Description": "There are three ways to do AI coding at home without spending like a company, and which one fits depends mostly on how much you trust the next year of hardwa...",
     "Confidence": 0.90554273
-  },
-  {
-    "Title": "Human Routers of Machine Words",
-    "Url": "https://borretti.me/article/human-routers-of-machine-words",
-    "Timestamp": "2026-06-14T03:03:36",
-    "Domain": "borretti.me",
-    "Description": "On people who use AI to think.",
-    "Confidence": 0.9625444
-  },
-  {
-    "Title": "The Checkup I Didn't Do",
-    "Url": "https://deknijf.com/posts/the-checkup-i-didnt-do/",
-    "Timestamp": "2026-06-14T03:03:33",
-    "Domain": "deknijf.com",
-    "Description": "Every time a smarter AI model lands, run it over all your projects. I keep telling people that. Then I got three days of Fable, and didn't.",
-    "Confidence": 0.9870302
-  },
-  {
-    "Title": "What 1,000+ Harness Experiments Taught Me About Self-Improving Agents",
-    "Url": "https://www.henrypan.com/blog/2026-05-25-self-improvement-harness/",
-    "Timestamp": "2026-06-14T03:03:30",
-    "Domain": "www.henrypan.com",
-    "Description": "Project Repository: https://github.com/workofart/harness-experiment So I recently wanted to see whether an AI agent could self-improve a harness to solve terminal bench tasks. To align on the definitions, “harness” means the system (e.g. Claude Code, Codex, ChatGPT web interface etc…) wrapping around the model (e.g. GPT 5.5, Claude Opus 4.7 etc…)...",
-    "Confidence": 0.9909803
-  },
-  {
-    "Title": "System Packages | mise-en-place",
-    "Url": "https://mise.jdx.dev/system-packages/",
-    "Timestamp": "2026-06-14T03:03:26",
-    "Domain": "mise.jdx.dev",
-    "Description": "mise-en-place documentation",
-    "Confidence": 0.9905871
-  },
-  {
-    "Title": "What a great day for Anthropic",
-    "Url": "https://ognjen.io/what-a-great-day-for-anthropic/",
-    "Timestamp": "2026-06-14T03:03:23",
-    "Domain": "ognjen.io",
-    "Description": "While there are a lot of you-had-it-comings, the export ban is kind of great for Anthropic",
-    "Confidence": 0.949034
-  },
-  {
-    "Title": "The Hype Hangover Kicks In",
-    "Url": "https://www.mikehyland.com/blog/the-developer-mood-june-2026",
-    "Timestamp": "2026-06-14T03:03:19",
-    "Domain": "www.mikehyland.com",
-    "Description": "We said we'd build with it. We are. And now we're terrified of what we built.",
-    "Confidence": 0.7964671
-  },
-  {
-    "Title": "Rethinking monorepos in the age of agents",
-    "Url": "https://chamoda.com/rethinking-monorepos-in-the-age-of-agents",
-    "Timestamp": "2026-06-14T03:03:16",
-    "Domain": "chamoda.com",
-    "Description": "As the industry switches to agentic coding, it makes less and less sense to keep separate repositories when agents benefit from the broader context of a monorepo.",
-    "Confidence": 0.95405936
-  },
-  {
-    "Title": "Running DOS on Behringers DDX3216 with a DIY x86-BIOS from scratch – Chris.Dev.Blog",
-    "Url": "https://chrisdevblog.com/2026/06/08/running-dos-on-behringers-ddx3216-using-a-diy-x86-bios/",
-    "Timestamp": "2026-06-14T03:03:12",
-    "Domain": "chrisdevblog.com",
-    "Description": "In 1994 I got my first computer: an Intel i486 DX2-66 with 4 MB RAM and a 512MB harddisk. The software was IBMs OS/2 and Microsofts Windows 3.11. In the next four years I was upgrading this machine every few months with more RAM (up to 16MB), a CD-ROM-drive and a soundblaster card. So I learned upgrading this machine, installing new software and finally learned how to program new software using BASIC. But I never got in touch with the boot-process or the details of MS-DOS.",
-    "Confidence": 0.9822278
-  },
-  {
-    "Title": "Pelican, or pelican't? A hint at Claude evals",
-    "Url": "https://noperator.dev/posts/pelicant/",
-    "Timestamp": "2026-06-14T03:03:07",
-    "Domain": "noperator.dev",
-    "Description": "I’m a big fan and frequent user of Claude’s deep research feature, so it caught my eye when the task title from my research subagent was a bit longer than usual.\nI’d asked about WWI causes and got the research title “Causes of WWI research disabled warnings about…” with some unexpected trailing text at the end.\nConfused, I inspected the title with Chrome DevTools and found that the h2 header overflowed far past the truncated text shown in the UI.\nThe full title discussed re-enabling system update warnings for Windows and macOS—clearly unrelated to my prompt!",
-    "Confidence": 0.85576844
-  },
-  {
-    "Title": "Loop Engineering",
-    "Url": "https://addyosmani.com/blog/loop-engineering/",
-    "Timestamp": "2026-06-14T03:03:03",
-    "Domain": "addyosmani.com",
-    "Description": "You don't really need to be good at prompting anymore. The thing to get good at is the loop that does the prompting for you. It's five building blocks plus s...",
-    "Confidence": 0.99124634
-  },
-  {
-    "Title": "Labor is a market distortion, We Need VAT and UBI - Wilsons Blog",
-    "Url": "https://wilsoniumite.com/2026/06/07/labor-is-a-market-distortion/",
-    "Timestamp": "2026-06-14T03:03:00",
-    "Domain": "wilsoniumite.com",
-    "Description": "There is a pretty serious gap in how the economy functions right now, has been for decades, and we have to close it. I’m not here to be all “tax the rich” even though I maybe think that’s a good idea too. I’m not here to say “free markets are amazing” even though I kinda […]",
-    "Confidence": 0.9718485
-  },
-  {
-    "Title": "Matthew Butterick | Extinction-level capitalism",
-    "Url": "https://matthewbutterick.com/extinction-level-capitalism.html",
-    "Timestamp": "2026-06-14T03:02:55",
-    "Domain": "matthewbutterick.com",
-    "Description": "Matthew Butterick",
-    "Confidence": 0.85857505
-  },
-  {
-    "Title": "Isolation Is the New Runtime — Cyrus Radfar",
-    "Url": "https://cyrusradfar.com/thoughts/sandboxing-from-vms-to-agents",
-    "Timestamp": "2026-06-14T03:02:51",
-    "Domain": "cyrusradfar.com",
-    "Description": "Sandboxing is thirty years old and has barely changed. What changed is who's in the box: an agent that reads its next instruction off the open internet and can't tell a command from a trap, which is why the OS is reorganizing around it. A line from chroot in 1979 to Microsoft's MXC in 2026, and the trade we made along the way.",
-    "Confidence": 0.9527008
-  },
-  {
-    "Title": "Hans Schulz - The father of the VEF Minox lens?",
-    "Url": "https://moments-of-now.com/hans-schulz-the-father-of-the-vef-minox-riga-lens/",
-    "Timestamp": "2026-06-14T03:02:46",
-    "Domain": "moments-of-now.com",
-    "Description": "How Hans Schulz designed the Minostigmat lens for the first Minox camera. Here is the full story of calculating this Cooke triplet.",
-    "Confidence": 0.97649086
-  },
-  {
-    "Title": "Highly Enriched Polonium (white paper regarding static {as in electrical charge} analysis ",
-    "Url": "https://anankesmirror.blogspot.com/2026/06/highly-enriched-polonium-white-paper.html",
-    "Timestamp": "2026-06-14T03:02:40",
-    "Domain": "anankesmirror.blogspot.com",
-    "Description": "A Distributed-Provenance Instrument for Documenting and Analyzing Public Positions on Known, Legally-Sanctioned Activity **A White Paper** *...",
-    "Confidence": 0.92237157
   }
 ]
