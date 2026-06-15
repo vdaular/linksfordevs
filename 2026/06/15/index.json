@@ -1,5 +1,33 @@
 [
   {
+    "Title": "Tethys",
+    "Url": "https://xkcd.com/3259/",
+    "Timestamp": "2026-06-15T19:02:24",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "Iroh 1.0 - Dial Keys, not IPs",
+    "Url": "https://www.iroh.computer/blog/v1",
+    "Timestamp": "2026-06-15T19:02:21",
+    "Domain": "www.iroh.computer",
+    "Description": "Iroh 1.0 is out. Now is the time to build."
+  },
+  {
+    "Title": "CrankGPT — Local Human-powered AI",
+    "Url": "https://crankgpt.com/",
+    "Timestamp": "2026-06-15T19:02:17",
+    "Domain": "crankgpt.com",
+    "Description": "A human-powered, fully local, fully private AI solution."
+  },
+  {
+    "Title": "Tinywind — Pixel Pirate Sailing Game",
+    "Url": "https://tinywind.io/",
+    "Timestamp": "2026-06-15T19:02:12",
+    "Domain": "tinywind.io",
+    "Description": "Outsail the Royal Navy in your browser. Real sailing physics, 5-minute voyages, 30 historical treasures to recover. Free to play."
+  },
+  {
     "Title": "What the Fuck Happened to Nerds",
     "Url": "https://mrmarket.lol/what-the-fuck-happened-to-nerds/",
     "Timestamp": "2026-06-15T15:02:30",

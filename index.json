@@ -1,5 +1,37 @@
 [
   {
+    "Title": "Tethys",
+    "Url": "https://xkcd.com/3259/",
+    "Timestamp": "2026-06-15T19:02:24",
+    "Domain": "xkcd.com",
+    "Description": "",
+    "Confidence": 0.98151064
+  },
+  {
+    "Title": "Iroh 1.0 - Dial Keys, not IPs",
+    "Url": "https://www.iroh.computer/blog/v1",
+    "Timestamp": "2026-06-15T19:02:21",
+    "Domain": "www.iroh.computer",
+    "Description": "Iroh 1.0 is out. Now is the time to build.",
+    "Confidence": 0.9921392
+  },
+  {
+    "Title": "CrankGPT — Local Human-powered AI",
+    "Url": "https://crankgpt.com/",
+    "Timestamp": "2026-06-15T19:02:17",
+    "Domain": "crankgpt.com",
+    "Description": "A human-powered, fully local, fully private AI solution.",
+    "Confidence": 0.80088055
+  },
+  {
+    "Title": "Tinywind — Pixel Pirate Sailing Game",
+    "Url": "https://tinywind.io/",
+    "Timestamp": "2026-06-15T19:02:12",
+    "Domain": "tinywind.io",
+    "Description": "Outsail the Royal Navy in your browser. Real sailing physics, 5-minute voyages, 30 historical treasures to recover. Free to play.",
+    "Confidence": 0.9587617
+  },
+  {
     "Title": "What the Fuck Happened to Nerds",
     "Url": "https://mrmarket.lol/what-the-fuck-happened-to-nerds/",
     "Timestamp": "2026-06-15T15:02:30",
@@ -126,21 +158,5 @@
     "Domain": "telescoper.blog",
     "Description": "I know I’m not the only one to have noticed the fact that many- indeed most – such correspondents are Electrical Engineers (usually retired). I was delighted therefore to see that there…",
     "Confidence": 0.7541475
-  },
-  {
-    "Title": "No, everyone is not using AI for everything.",
-    "Url": "https://gabrielweinberg.com/p/people-are-consuming-ai-like-they",
-    "Timestamp": "2026-06-14T19:02:28",
-    "Domain": "gabrielweinberg.com",
-    "Description": "People are consuming AI like they eat meat: some are embracing it, some are limiting their use of it, and some are avoiding it altogether.",
-    "Confidence": 0.72426593
-  },
-  {
-    "Title": "How to Earn a Billion Dollars",
-    "Url": "https://paulgraham.com/earn.html",
-    "Timestamp": "2026-06-14T19:02:23",
-    "Domain": "paulgraham.com",
-    "Description": "(This is based on a talk I gave at the Oxford Union.)",
-    "Confidence": 0.97624105
   }
 ]
