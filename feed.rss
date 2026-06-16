@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The time the x86 emulator team found code so bad that they fixed it during emulation - The Old New Thing</title>
+      <link>https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419</link>
+      <description>Offensive content in the eyes of a software engineer.</description>
+      <guid>https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419</guid>
+      <pubDate>Tue, 16 Jun 2026 11:02:13 GMT</pubDate>
+    </item>
+    <item>
       <title>Banned Book Library</title>
       <link>https://www.richardosgood.com/posts/banned-book-library/</link>
       <description>OverviewA long while back I had an idea to hack a WiFi smart light bulb to do something more useful to me. Actually, I had a few different ideas of things to do with them. One of these ideas was to mo…</description>
@@ -257,23 +264,6 @@ I've been emailing CEOs of small startups I have a pos...</description>
       <category>apple</category>
       <guid>https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models</guid>
       <pubDate>Mon, 15 Jun 2026 15:02:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>“Why do I need an account for this” Windows 11 users call out new requirements</title>
-      <link>https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds</link>
-      <description>A Reddit discussion about local accounts turns into a bigger debate over privacy, transparency, and user control on Windows 11.</description>
-      <author> (https://www.windowscentral.com/author/mauro-huculak)</author>
-      <category>encryption</category>
-      <guid>https://www.windowscentral.com/microsoft/windows-11/windows-11-users-are-tired-of-microsoft-account-requirements-and-workarounds</guid>
-      <pubDate>Mon, 15 Jun 2026 11:02:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>curl summer of bliss</title>
-      <link>https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/</link>
-      <description>The curl project will not accept or otherwise handle any vulnerability reports during the month of July 2026. We call it the curl summer of bliss. curl's submission form on Hackerone will be paused starting July 1, 2026. Summer of bliss starts: July 1, 2026. 00:00 CEST Submissions resume: August 3 2026. 09:00 CEST The … Continue reading curl summer of bliss →</description>
-      <author> (https://daniel.haxx.se/blog/author/daniel/)</author>
-      <guid>https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/</guid>
-      <pubDate>Mon, 15 Jun 2026 11:02:14 GMT</pubDate>
     </item>
   </channel>
 </rss>
