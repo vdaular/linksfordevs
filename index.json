@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Banned Book Library",
+    "Url": "https://www.richardosgood.com/posts/banned-book-library/",
+    "Timestamp": "2026-06-16T07:02:26",
+    "Domain": "www.richardosgood.com",
+    "Description": "OverviewA long while back I had an idea to hack a WiFi smart light bulb to do something more useful to me. Actually, I had a few different ideas of things to do with them. One of these ideas was to mo…",
+    "Confidence": 0.97226614
+  },
+  {
     "Title": "0.15.0 - Typst Documentation",
     "Url": "https://typst.app/docs/changelog/0.15.0/",
     "Timestamp": "2026-06-16T03:02:30",
@@ -222,13 +230,5 @@
     "Domain": "daniel.haxx.se",
     "Description": "The curl project will not accept or otherwise handle any vulnerability reports during the month of July 2026. We call it the curl summer of bliss. curl's submission form on Hackerone will be paused starting July 1, 2026. Summer of bliss starts: July 1, 2026. 00:00 CEST Submissions resume: August 3 2026. 09:00 CEST The … Continue reading curl summer of bliss →",
     "Confidence": 0.9585678
-  },
-  {
-    "Title": "Your EPUB Is Fine. Kobo Disagrees. Blame Adobe",
-    "Url": "https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/",
-    "Timestamp": "2026-06-15T07:02:32",
-    "Domain": "andreklein.net",
-    "Description": "Adobe isn’t exactly a beloved company these days. People begrudgingly use their stuff, because the Creative Suite is an industry standard (read: monopoly) or there are simply no worthwhile alternatives,...",
-    "Confidence": 0.92755145
   }
 ]

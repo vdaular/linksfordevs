@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Banned Book Library</title>
+      <link>https://www.richardosgood.com/posts/banned-book-library/</link>
+      <description>OverviewA long while back I had an idea to hack a WiFi smart light bulb to do something more useful to me. Actually, I had a few different ideas of things to do with them. One of these ideas was to mo…</description>
+      <category>git</category>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://www.richardosgood.com/posts/banned-book-library/</guid>
+      <pubDate>Tue, 16 Jun 2026 07:02:26 GMT</pubDate>
+    </item>
+    <item>
       <title>0.15.0 - Typst Documentation</title>
       <link>https://typst.app/docs/changelog/0.15.0/</link>
       <description>Changes in Typst 0.15.0</description>
@@ -264,16 +274,6 @@ I've been emailing CEOs of small startups I have a pos...</description>
       <author> (https://daniel.haxx.se/blog/author/daniel/)</author>
       <guid>https://daniel.haxx.se/blog/2026/06/15/curl-summer-of-bliss/</guid>
       <pubDate>Mon, 15 Jun 2026 11:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Your EPUB Is Fine. Kobo Disagrees. Blame Adobe</title>
-      <link>https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/</link>
-      <description>Adobe isn’t exactly a beloved company these days. People begrudgingly use their stuff, because the Creative Suite is an industry standard (read: monopoly) or there are simply no worthwhile alternatives,...</description>
-      <category>web</category>
-      <category>cloud</category>
-      <category>apple</category>
-      <guid>https://andreklein.net/your-epub-is-fine-kobo-disagrees-blame-adobe/</guid>
-      <pubDate>Mon, 15 Jun 2026 07:02:32 GMT</pubDate>
     </item>
   </channel>
 </rss>
