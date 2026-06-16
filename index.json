@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Where Are the Coding Tutorials?",
+    "Url": "https://youtube.com/watch?v=TjuQLoGSa5w",
+    "Timestamp": "2026-06-16T15:02:36",
+    "Domain": "youtube.com",
+    "Description": "Online Workshop: Vibe Coding for Production: https://dometrain.com/workshop/vibe-coding-for-production/\n\nHello, everybody. I'm Nick, and in this video, I want to talk about what I've been doing in the last month and explain why I haven’t been posting videos.\n\nReal work skill: https://github.com/Elfocrash/skills\nFree system design course: https://dometrain.com/course/hands-on-system-design-for-beginners/\nMock Interviews: https://dometrain.com/interviews/\n\nDon't forget to comment, like and subscribe :)\n\nSocial Media:\nFollow me on GitHub: https://github.com/Elfocrash\nFollow me on Twitter: https://twitter.com/nickchapsas\nConnect on LinkedIn: https://www.linkedin.com/in/nick-chapsas\n\n#ai",
+    "Confidence": 0.9753307
+  },
+  {
+    "Title": "Mechanical Watch – Bartosz Ciechanowski",
+    "Url": "https://ciechanow.ski/mechanical-watch/",
+    "Timestamp": "2026-06-16T15:02:29",
+    "Domain": "ciechanow.ski",
+    "Description": "Interactive article explaining how a mechanical watch works.",
+    "Confidence": 0.9841269
+  },
+  {
     "Title": "The time the x86 emulator team found code so bad that they fixed it during emulation - The Old New Thing",
     "Url": "https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419",
     "Timestamp": "2026-06-16T11:02:13",
@@ -206,21 +222,5 @@
     "Domain": "tinywind.io",
     "Description": "Outsail the Royal Navy in your browser. Real sailing physics, 5-minute voyages, 30 historical treasures to recover. Free to play.",
     "Confidence": 0.9587617
-  },
-  {
-    "Title": "What the Fuck Happened to Nerds",
-    "Url": "https://mrmarket.lol/what-the-fuck-happened-to-nerds/",
-    "Timestamp": "2026-06-15T15:02:30",
-    "Domain": "mrmarket.lol",
-    "Description": "<p>I've befriended some of the most thoughtful, brilliant, curious, eccentric, and sincere people I've ever met in the tech industry. Many of my dearest frie...",
-    "Confidence": 0.838328
-  },
-  {
-    "Title": "Apple Foundation Models",
-    "Url": "https://platform.claude.com/docs/en/cli-sdks-libraries/libraries/apple-foundation-models",
-    "Timestamp": "2026-06-15T15:02:27",
-    "Domain": "platform.claude.com",
-    "Description": "Use Claude on Apple platforms through the Foundation Models framework with the Claude for Foundation Models Swift package.",
-    "Confidence": 0.99554884
   }
 ]
