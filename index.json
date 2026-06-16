@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Running local models is good now",
+    "Url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
+    "Timestamp": "2026-06-16T19:02:22",
+    "Domain": "vickiboykis.com",
+    "Description": "Local agentic coding has gotten great over the past few months",
+    "Confidence": 0.9944361
+  },
+  {
     "Title": "Where Are the Coding Tutorials?",
     "Url": "https://youtube.com/watch?v=TjuQLoGSa5w",
     "Timestamp": "2026-06-16T15:02:36",
@@ -190,37 +198,5 @@
     "Domain": "asker.dev",
     "Description": "Redesigning text to preserve the writer. An essay on reading and writing in the age of generation.",
     "Confidence": 0.8690971
-  },
-  {
-    "Title": "Tethys",
-    "Url": "https://xkcd.com/3259/",
-    "Timestamp": "2026-06-15T19:02:24",
-    "Domain": "xkcd.com",
-    "Description": "",
-    "Confidence": 0.98151064
-  },
-  {
-    "Title": "Iroh 1.0 - Dial Keys, not IPs",
-    "Url": "https://www.iroh.computer/blog/v1",
-    "Timestamp": "2026-06-15T19:02:21",
-    "Domain": "www.iroh.computer",
-    "Description": "Iroh 1.0 is out. Now is the time to build.",
-    "Confidence": 0.9921392
-  },
-  {
-    "Title": "CrankGPT — Local Human-powered AI",
-    "Url": "https://crankgpt.com/",
-    "Timestamp": "2026-06-15T19:02:17",
-    "Domain": "crankgpt.com",
-    "Description": "A human-powered, fully local, fully private AI solution.",
-    "Confidence": 0.80088055
-  },
-  {
-    "Title": "Tinywind — Pixel Pirate Sailing Game",
-    "Url": "https://tinywind.io/",
-    "Timestamp": "2026-06-15T19:02:12",
-    "Domain": "tinywind.io",
-    "Description": "Outsail the Royal Navy in your browser. Real sailing physics, 5-minute voyages, 30 historical treasures to recover. Free to play.",
-    "Confidence": 0.9587617
   }
 ]

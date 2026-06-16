@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Running local models is good now</title>
+      <link>https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/</link>
+      <description>Local agentic coding has gotten great over the past few months</description>
+      <category>containers</category>
+      <category>ai</category>
+      <category>cloud</category>
+      <category>javascript</category>
+      <category>python</category>
+      <guid>https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/</guid>
+      <pubDate>Tue, 16 Jun 2026 19:02:22 GMT</pubDate>
+    </item>
+    <item>
       <title>Where Are the Coding Tutorials?</title>
       <link>https://youtube.com/watch?v=TjuQLoGSa5w</link>
       <description>Online Workshop: Vibe Coding for Production: https://dometrain.com/workshop/vibe-coding-for-production/
@@ -240,43 +252,6 @@ I've been emailing CEOs of small startups I have a pos...</description>
       <category>ai</category>
       <guid>https://asker.dev/grain-of-thought</guid>
       <pubDate>Mon, 15 Jun 2026 23:02:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tethys</title>
-      <link>https://xkcd.com/3259/</link>
-      <description></description>
-      <category>apple</category>
-      <category>javascript</category>
-      <guid>https://xkcd.com/3259/</guid>
-      <pubDate>Mon, 15 Jun 2026 19:02:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Iroh 1.0 - Dial Keys, not IPs</title>
-      <link>https://www.iroh.computer/blog/v1</link>
-      <description>Iroh 1.0 is out. Now is the time to build.</description>
-      <category>ai</category>
-      <category>git</category>
-      <category>rust</category>
-      <category>apple</category>
-      <category>android</category>
-      <guid>https://www.iroh.computer/blog/v1</guid>
-      <pubDate>Mon, 15 Jun 2026 19:02:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>CrankGPT — Local Human-powered AI</title>
-      <link>https://crankgpt.com/</link>
-      <description>A human-powered, fully local, fully private AI solution.</description>
-      <category>ai</category>
-      <guid>https://crankgpt.com/</guid>
-      <pubDate>Mon, 15 Jun 2026 19:02:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tinywind — Pixel Pirate Sailing Game</title>
-      <link>https://tinywind.io/</link>
-      <description>Outsail the Royal Navy in your browser. Real sailing physics, 5-minute voyages, 30 historical treasures to recover. Free to play.</description>
-      <category>gaming</category>
-      <guid>https://tinywind.io/</guid>
-      <pubDate>Mon, 15 Jun 2026 19:02:12 GMT</pubDate>
     </item>
   </channel>
 </rss>
