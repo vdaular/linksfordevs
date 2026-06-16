@@ -1,5 +1,157 @@
 [
   {
+    "Title": "Skills Are Where Your Judgment Goes",
+    "Url": "https://geoffstearns.com/blog/skills-are-where-your-judgment-goes/",
+    "Timestamp": "2026-06-16T23:03:44",
+    "Domain": "geoffstearns.com",
+    "Description": "The model already knows the generic job. A skill is where you add the judgment specific to your work.",
+    "Confidence": 0.9910769
+  },
+  {
+    "Title": "Debugging on Prod",
+    "Url": "https://idiallo.com/blog/debugging-on-prod",
+    "Timestamp": "2026-06-16T23:03:41",
+    "Domain": "idiallo.com",
+    "Description": "The worst type of bug is one that only happens on prod. And only on prod. If you checked this blog in the past few weeks, you might have encountered a big fat 500 error.",
+    "Confidence": 0.96021926
+  },
+  {
+    "Title": "GPU is the new oil",
+    "Url": "https://xificurc.github.io/blog/gpu-is-the-new-oil/",
+    "Timestamp": "2026-06-16T23:03:37",
+    "Domain": "xificurc.github.io",
+    "Description": "I see many debates on how local LLMs will save us. This will serve as a permalink answer.",
+    "Confidence": 0.9811112
+  },
+  {
+    "Title": "Why you got that ad, in plaintext - Vishwanath Subramanian",
+    "Url": "https://vishsubramanian.me/why-you-got-that-ad-in-plaintext/",
+    "Timestamp": "2026-06-16T23:03:34",
+    "Domain": "vishsubramanian.me",
+    "Description": "The reason you got an ad is in plaintext. How to read ad targeting in the network tab - the ad server, deal IDs, and the tracking pixels riding along.",
+    "Confidence": 0.9805868
+  },
+  {
+    "Title": "The Accidental Gamification of Vibe Coding — Hayreddin Tüzel",
+    "Url": "https://hayredd.in/blog/accidental-gamification-vibe-coding",
+    "Timestamp": "2026-06-16T23:03:30",
+    "Domain": "hayredd.in",
+    "Description": "I build gamification for a living. Then, I realized Claude (accidentally!) shipped a better gamification system than anything I built all year — vibe coding hits seven of Octalysis's eight core drives, and most of the addictive ones are black-hat. Why \"one more prompt\" feels like a slot machine for builders.",
+    "Confidence": 0.97681105
+  },
+  {
+    "Title": "Ponytail, YAGNI, and the Problem with Prompt Benchmarks",
+    "Url": "https://blog.scottlogic.com/2026/06/16/ponytail-yagni-and-the-problem-with-prompt-benchmarks.html",
+    "Timestamp": "2026-06-16T23:03:26",
+    "Domain": "blog.scottlogic.com",
+    "Description": "The post examines Ponytail, a popular AI coding “skill”, and argues that its benchmarked benefits appear to come largely from encouraging terse, YAGNI-style responses rather than from any deeper engineering value. By showing that a simple prompt can match or beat Ponytail on its own benchmark, it makes a broader case for treating prompt-based tools with scepticism unless their claims are backed by robust evaluation.",
+    "Confidence": 0.98939544
+  },
+  {
+    "Title": "Why Enterprise Agents Can't Run Tools on Laptops",
+    "Url": "https://vivgrid.com/blog/why-enterprise-agents-cant-run-tools-on-laptops",
+    "Timestamp": "2026-06-16T23:03:23",
+    "Domain": "vivgrid.com",
+    "Description": "Personal agents run tools locally. Enterprise agents can't — credentials, auditing, consistency, and iteration speed all break at company scale. The answer is Managed Skills: agent tools that run in the cloud.",
+    "Confidence": 0.97710866
+  },
+  {
+    "Title": "Attention Backpropagation",
+    "Url": "https://liyuan24.github.io/writings/attention_backprop.html",
+    "Timestamp": "2026-06-16T23:03:20",
+    "Domain": "liyuan24.github.io",
+    "Description": "How to backpropagate the attention…",
+    "Confidence": 0.97215617
+  },
+  {
+    "Title": "Apple is about to make Hide My Email useless",
+    "Url": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/",
+    "Timestamp": "2026-06-16T23:03:15",
+    "Domain": "arseniyshestakov.com",
+    "Description": "Yesterday, June 15, 2026, a small and unimportant announcement appeared in Apple developer news: New domain for Sign in with Apple and iCloud+ Hide My Email.\nLong story short: now both Sign in with Apple and Hide My Email aliases are going to be issued on the @private.icloud.com subdomain. This makes it much easier to ban all aliases without affecting non-relay mailboxes on iCloud mail.\nThis is certainly a big hit for iCloud privacy, since some plausible deniability together with Apple’s backing made banning iCloud aliases costly.",
+    "Confidence": 0.8316556
+  },
+  {
+    "Title": "Why is Meta destroying its engineering organization?",
+    "Url": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
+    "Timestamp": "2026-06-16T23:03:12",
+    "Domain": "newsletter.pragmaticengineer.com",
+    "Description": "Leadership at the social media giant has been on an AI-fueled rampage through its engineering org. We report what’s happened",
+    "Confidence": 0.89857996
+  },
+  {
+    "Title": "Build your project Zig-style",
+    "Url": "https://fnordig.de/2026/06/16/build-your-project-zig-style/",
+    "Timestamp": "2026-06-16T23:03:07",
+    "Domain": "fnordig.de",
+    "Description": "Personal website of Jan-Erik Rediger",
+    "Confidence": 0.99350643
+  },
+  {
+    "Title": "Software Is Not A Single-Player Game",
+    "Url": "https://www.davidpoll.com/2026/06/software-is-not-a-single-player-game/",
+    "Timestamp": "2026-06-16T23:03:02",
+    "Domain": "www.davidpoll.com",
+    "Description": "When I wrote a few months ago that code review is not about catching bugs, the most common pushback I got was a variation of the same thing:“If you’re only getting to that decision at the code revi...",
+    "Confidence": 0.98949456
+  },
+  {
+    "Title": "My one weird trick for managing my internet addiction",
+    "Url": "https://scottrogowski.com/my-one-weird-trick-for-managing-my-internet-addiction",
+    "Timestamp": "2026-06-16T23:02:54",
+    "Domain": "scottrogowski.com",
+    "Description": "The secret is a small amount of physical friction.",
+    "Confidence": 0.9847257
+  },
+  {
+    "Title": "There’s more than one way to be a 10x engineer",
+    "Url": "https://orischwartz.com/posts/theres-more-than-one-way-to-be-a-10x-engineer.html",
+    "Timestamp": "2026-06-16T23:02:51",
+    "Domain": "orischwartz.com",
+    "Description": "June 16, 2026",
+    "Confidence": 0.97215366
+  },
+  {
+    "Title": "Can gzip be a language model?",
+    "Url": "https://nathan.rs/posts/gzip-lm/",
+    "Timestamp": "2026-06-16T23:02:48",
+    "Domain": "nathan.rs",
+    "Description": "A while back I wrote about language modeling without neural networks, where I generated Shakespeare with an unbounded n-gram model: no weights, no training, …",
+    "Confidence": 0.98318976
+  },
+  {
+    "Title": "We have a communication problem",
+    "Url": "https://justinjackson.ca/communication",
+    "Timestamp": "2026-06-16T23:02:44",
+    "Domain": "justinjackson.ca",
+    "Description": "This message thread could have been a meeting.",
+    "Confidence": 0.9646262
+  },
+  {
+    "Title": "Yes, we still need engineers",
+    "Url": "https://mattsayar.com/yes-we-still-need-engineers/",
+    "Timestamp": "2026-06-16T23:02:41",
+    "Domain": "mattsayar.com",
+    "Description": "Prototyping has done wonders for speeding up software delivery. I start with a clone of our UI repository and open Claude Code. I'll prompt it to help me add a button (or whatever), set up some test data, and record a demo of a full…",
+    "Confidence": 0.99431753
+  },
+  {
+    "Title": "My unvarnished guide to solution engineering • Max Halford",
+    "Url": "https://maxhalford.github.io/blog/solution-engineering-advice/",
+    "Timestamp": "2026-06-16T23:02:37",
+    "Domain": "maxhalford.github.io",
+    "Description": "Introduction I joined Carbonfact as a first employee. In a nutshell, it’s software that takes in raw ERP and PLM data, and spits out environmental reports. I got pulled into many Sales processes …",
+    "Confidence": 0.9843717
+  },
+  {
+    "Title": "Issues with the EML Function",
+    "Url": "https://dzfrias.dev/blog/eml/",
+    "Timestamp": "2026-06-16T23:02:32",
+    "Domain": "dzfrias.dev",
+    "Description": "Apparent major correctness issues I have found with the much-hyped EML paper preprint.",
+    "Confidence": 0.9920482
+  },
+  {
     "Title": "Running local models is good now",
     "Url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
     "Timestamp": "2026-06-16T19:02:22",
@@ -46,157 +198,5 @@
     "Domain": "typst.app",
     "Description": "Changes in Typst 0.15.0",
     "Confidence": 0.98185533
-  },
-  {
-    "Title": "LLMs Will Replace 8-Track Duplication Engineers",
-    "Url": "https://bbenchoff.github.io/pages/8Tracks.html",
-    "Timestamp": "2026-06-15T23:03:40",
-    "Domain": "bbenchoff.github.io",
-    "Description": "8-tracks are human-solved NP-hard problems",
-    "Confidence": 0.939452
-  },
-  {
-    "Title": "Why Can't We Agree on a Plugin Format?",
-    "Url": "https://jasonrobert.dev/blog/2026-06-04-why-cant-we-agree-on-a-plugin-format/",
-    "Timestamp": "2026-06-15T23:03:37",
-    "Domain": "jasonrobert.dev",
-    "Description": "A small template repo for authoring AI coding plugins in a tool-agnostic format and transpiling them into Claude Code, Copilot CLI, OpenCode, and Codex bundles.",
-    "Confidence": 0.98042
-  },
-  {
-    "Title": "Claude Code is a chainsaw",
-    "Url": "https://mechanicalsurvival.com/blog/claude-code-is-a-chainsaw/",
-    "Timestamp": "2026-06-15T23:03:33",
-    "Domain": "mechanicalsurvival.com",
-    "Description": "“Wood, chainsaw, tree” by pb826 on Pixabay\nI first picked up a chainsaw two summers ago.\nI was staying with a friend at his farm on Dartmoor. We spent a drizzly afternoon splitting logs with a hatchet, clunking and thunking our way through the pile until the time came to carve up a bigger section. He said “I’ll tell you what”, grinned, disappeared into an outbuilding and came back brandishing a green and white chainsaw with a long black blade. Battery-powered, unfortunately.",
-    "Confidence": 0.95875734
-  },
-  {
-    "Title": "I sped up the test suite by 2x with one simple change",
-    "Url": "https://gaultier.github.io/blog/I_sped_up_the_test_suite_by_x2.html",
-    "Timestamp": "2026-06-15T23:03:30",
-    "Domain": "gaultier.github.io",
-    "Description": "⏴ Back to all articles",
-    "Confidence": 0.9914933
-  },
-  {
-    "Title": "Building the systems that build the software",
-    "Url": "https://blog.nilenso.com/blog/2026/06/12/building-the-systems-that-build-the-software/",
-    "Timestamp": "2026-06-15T23:03:26",
-    "Domain": "blog.nilenso.com",
-    "Description": "",
-    "Confidence": 0.98431724
-  },
-  {
-    "Title": "Clojure is almost as fast as C (with some help)",
-    "Url": "https://ertu.dev/posts/4_clojure-reaching-c-performance/",
-    "Timestamp": "2026-06-15T23:03:20",
-    "Domain": "ertu.dev",
-    "Description": "I have a stress test written in C: 100,000 cubes flying around in space. The CPU rebuilds every cube’s 4x4 transform matrix on every frame and sends all of them to the GPU. That is around 900,000 sine evaluations and 6 MB of matrix data per frame, and after that the GPU still has to draw 3.6 million triangles. So the frame is half CPU work, half GPU work.\nI ported it to Clojure and wanted to see how close I could get to the C version’s FPS. I should say up front that I did not do the optimization work alone: I paired with Claude Code on it, and most of the digging in this post (the benchmarks, the JIT logs, the failed attempts) comes from that session.",
-    "Confidence": 0.9971771
-  },
-  {
-    "Title": "denkthoughts | Instagram is obsessed with me",
-    "Url": "https://denkthoughts.com/instagram-is-obsessed-with-me",
-    "Timestamp": "2026-06-15T23:03:16",
-    "Domain": "denkthoughts.com",
-    "Description": "🥴 Instagram is obsessed with me",
-    "Confidence": 0.98151636
-  },
-  {
-    "Title": "Remote work is bad for you",
-    "Url": "https://mrmarket.lol/remote-work-is-bad-for-you/",
-    "Timestamp": "2026-06-15T23:03:12",
-    "Domain": "mrmarket.lol",
-    "Description": "Lately I've been emailing people at random between 4am-6am, right as I have my first cup of coffee.\n\nI've been emailing CEOs of small startups I have a pos...",
-    "Confidence": 0.95227796
-  },
-  {
-    "Title": "Detecting and Steering Sycophancy in Qwen",
-    "Url": "https://palashtaneja.com/blog/posts/detecting-and-steering-sycophancy-in-qwen.html",
-    "Timestamp": "2026-06-15T23:03:10",
-    "Domain": "palashtaneja.com",
-    "Description": "Sycophancy has always interested me in large language models. I think if you've used any of these models for any amount of time, even very non-power users are able to realize that these models have a high amount of bias toward whatever the user says, aka the models are sycophantic.",
-    "Confidence": 0.96647066
-  },
-  {
-    "Title": "A backdoor in a LinkedIn job offer",
-    "Url": "https://roman.pt/posts/linkedin-backdoor/",
-    "Timestamp": "2026-06-15T23:03:07",
-    "Domain": "roman.pt",
-    "Description": "A fake recruiter, a crypto repo, and a remote code execution payload hidden in a test file.",
-    "Confidence": 0.8773013
-  },
-  {
-    "Title": "The KV Cache, Explained: Why Long Context Eats Your VRAM (and How to Fit More)",
-    "Url": "https://vettedconsumer.com/the-kv-cache-explained-why-long-context-eats-your-vram-and-how-to-fit-more/",
-    "Timestamp": "2026-06-15T23:03:03",
-    "Domain": "vettedconsumer.com",
-    "Description": "You quantized the model and it fits — then it runs out of memory at long context. The culprit is the KV cache, and at 128k tokens it can dwarf the model itself. Here's the math, the fix, and what it means for buying local-LLM hardware.",
-    "Confidence": 0.9787635
-  },
-  {
-    "Title": "Distributed Compaction in SlateDb — Ryan Dielhenn",
-    "Url": "https://ryandielhenn.github.io/blog/distributed-compaction/",
-    "Timestamp": "2026-06-15T23:02:59",
-    "Domain": "ryandielhenn.github.io",
-    "Description": "A visual and written explanation of Distributed Compaction (RFC-0025 in SlateDb) and discussion of future work",
-    "Confidence": 0.9731727
-  },
-  {
-    "Title": "Organize Files & Folders Effectively: Best Practices & Examples",
-    "Url": "https://tsykin.com/blog/organize-files-and-folders",
-    "Timestamp": "2026-06-15T23:02:56",
-    "Domain": "tsykin.com",
-    "Description": "Learn the best file and folder organization methods, naming conventions, and cloud storage tips with examples for an efficient and clutter-free system.",
-    "Confidence": 0.9924055
-  },
-  {
-    "Title": "My LSM Tree Was Slower Than a B-Tree. Then I Profiled It.",
-    "Url": "https://aasheesh.vercel.app/blog/lsm-tree",
-    "Timestamp": "2026-06-15T23:02:52",
-    "Domain": "aasheesh.vercel.app",
-    "Description": "A few weeks ago I wanted to understand how the storage engine inside RocksDB actually works. Not read about it. Build it.",
-    "Confidence": 0.9802079
-  },
-  {
-    "Title": "Cursor for X: key standards for vertical products offering agent workflows",
-    "Url": "https://alanyahya.com/writing/common-standards-vertical-agent-products",
-    "Timestamp": "2026-06-15T23:02:48",
-    "Domain": "alanyahya.com",
-    "Description": "Cursor for X: key standards for vertical products offering agent workflows",
-    "Confidence": 0.9989186
-  },
-  {
-    "Title": "Would You Believe that This is It?",
-    "Url": "https://brianschrader.com/archive/would-you-believe-that-this-is-it/",
-    "Timestamp": "2026-06-15T23:02:43",
-    "Domain": "brianschrader.com",
-    "Description": "A band and their song, making decisions, and the nature of Liberal Democracy.",
-    "Confidence": 0.93392485
-  },
-  {
-    "Title": "Fable’s approach analysis",
-    "Url": "https://ankitmaloo.com/fable/",
-    "Timestamp": "2026-06-15T23:02:37",
-    "Domain": "ankitmaloo.com",
-    "Description": "Documenting my journey in the world of AI and RL.",
-    "Confidence": 0.9399857
-  },
-  {
-    "Title": "MAKC.CO - Welcome",
-    "Url": "https://makc.co/essays/good-advice-delivered-poorly/",
-    "Timestamp": "2026-06-15T23:02:33",
-    "Domain": "makc.co",
-    "Description": "The personal site of Makc Criswell. A propagandist for pickled red onions, rare meat activist, barely-monetizable YouTuber and Captian of the sailling vessel Argo.",
-    "Confidence": 0.9136646
-  },
-  {
-    "Title": "The Grain of Thought",
-    "Url": "https://asker.dev/grain-of-thought",
-    "Timestamp": "2026-06-15T23:02:29",
-    "Domain": "asker.dev",
-    "Description": "Redesigning text to preserve the writer. An essay on reading and writing in the age of generation.",
-    "Confidence": 0.8690971
   }
 ]

@@ -7,6 +7,184 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Skills Are Where Your Judgment Goes</title>
+      <link>https://geoffstearns.com/blog/skills-are-where-your-judgment-goes/</link>
+      <description>The model already knows the generic job. A skill is where you add the judgment specific to your work.</description>
+      <author> (Geoff Stearns)</author>
+      <guid>https://geoffstearns.com/blog/skills-are-where-your-judgment-goes/</guid>
+      <pubDate>Tue, 16 Jun 2026 23:03:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Debugging on Prod</title>
+      <link>https://idiallo.com/blog/debugging-on-prod</link>
+      <description>The worst type of bug is one that only happens on prod. And only on prod. If you checked this blog in the past few weeks, you might have encountered a big fat 500 error.</description>
+      <category>web</category>
+      <category>ides</category>
+      <category>ai</category>
+      <guid>https://idiallo.com/blog/debugging-on-prod</guid>
+      <pubDate>Tue, 16 Jun 2026 23:03:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>GPU is the new oil</title>
+      <link>https://xificurc.github.io/blog/gpu-is-the-new-oil/</link>
+      <description>I see many debates on how local LLMs will save us. This will serve as a permalink answer.</description>
+      <category>ai</category>
+      <guid>https://xificurc.github.io/blog/gpu-is-the-new-oil/</guid>
+      <pubDate>Tue, 16 Jun 2026 23:03:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why you got that ad, in plaintext - Vishwanath Subramanian</title>
+      <link>https://vishsubramanian.me/why-you-got-that-ad-in-plaintext/</link>
+      <description>The reason you got an ad is in plaintext. How to read ad targeting in the network tab - the ad server, deal IDs, and the tracking pixels riding along.</description>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://vishsubramanian.me/why-you-got-that-ad-in-plaintext/</guid>
+      <pubDate>Tue, 16 Jun 2026 23:03:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Accidental Gamification of Vibe Coding — Hayreddin Tüzel</title>
+      <link>https://hayredd.in/blog/accidental-gamification-vibe-coding</link>
+      <description>I build gamification for a living. Then, I realized Claude (accidentally!) shipped a better gamification system than anything I built all year — vibe coding hits seven of Octalysis's eight core drives, and most of the addictive ones are black-hat. Why "one more prompt" feels like a slot machine for builders.</description>
+      <author> (Hayreddin Tüzel)</author>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://hayredd.in/blog/accidental-gamification-vibe-coding</guid>
+      <pubDate>Tue, 16 Jun 2026 23:03:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>Ponytail, YAGNI, and the Problem with Prompt Benchmarks</title>
+      <link>https://blog.scottlogic.com/2026/06/16/ponytail-yagni-and-the-problem-with-prompt-benchmarks.html</link>
+      <description>The post examines Ponytail, a popular AI coding “skill”, and argues that its benchmarked benefits appear to come largely from encouraging terse, YAGNI-style responses rather than from any deeper engineering value. By showing that a simple prompt can match or beat Ponytail on its own benchmark, it makes a broader case for treating prompt-based tools with scepticism unless their claims are backed by robust evaluation.</description>
+      <category>rust</category>
+      <category>ai</category>
+      <category>python</category>
+      <category>javascript</category>
+      <guid>https://blog.scottlogic.com/2026/06/16/ponytail-yagni-and-the-problem-with-prompt-benchmarks.html</guid>
+      <pubDate>Tue, 16 Jun 2026 23:03:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why Enterprise Agents Can't Run Tools on Laptops</title>
+      <link>https://vivgrid.com/blog/why-enterprise-agents-cant-run-tools-on-laptops</link>
+      <description>Personal agents run tools locally. Enterprise agents can't — credentials, auditing, consistency, and iteration speed all break at company scale. The answer is Managed Skills: agent tools that run in the cloud.</description>
+      <author> (Vivgrid Team)</author>
+      <category>ai</category>
+      <category>git</category>
+      <guid>https://vivgrid.com/blog/why-enterprise-agents-cant-run-tools-on-laptops</guid>
+      <pubDate>Tue, 16 Jun 2026 23:03:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Attention Backpropagation</title>
+      <link>https://liyuan24.github.io/writings/attention_backprop.html</link>
+      <description>How to backpropagate the attention…</description>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://liyuan24.github.io/writings/attention_backprop.html</guid>
+      <pubDate>Tue, 16 Jun 2026 23:03:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Apple is about to make Hide My Email useless</title>
+      <link>https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/</link>
+      <description>Yesterday, June 15, 2026, a small and unimportant announcement appeared in Apple developer news: New domain for Sign in with Apple and iCloud+ Hide My Email.
+Long story short: now both Sign in with Apple and Hide My Email aliases are going to be issued on the @private.icloud.com subdomain. This makes it much easier to ban all aliases without affecting non-relay mailboxes on iCloud mail.
+This is certainly a big hit for iCloud privacy, since some plausible deniability together with Apple’s backing made banning iCloud aliases costly.</description>
+      <category>apple</category>
+      <guid>https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/</guid>
+      <pubDate>Tue, 16 Jun 2026 23:03:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why is Meta destroying its engineering organization?</title>
+      <link>https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering</link>
+      <description>Leadership at the social media giant has been on an AI-fueled rampage through its engineering org. We report what’s happened</description>
+      <category>ai</category>
+      <category>android</category>
+      <category>encryption</category>
+      <category>git</category>
+      <category>apple</category>
+      <guid>https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering</guid>
+      <pubDate>Tue, 16 Jun 2026 23:03:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Build your project Zig-style</title>
+      <link>https://fnordig.de/2026/06/16/build-your-project-zig-style/</link>
+      <description>Personal website of Jan-Erik Rediger</description>
+      <category>rust</category>
+      <category>ruby</category>
+      <category>javascript</category>
+      <category>linux</category>
+      <guid>https://fnordig.de/2026/06/16/build-your-project-zig-style/</guid>
+      <pubDate>Tue, 16 Jun 2026 23:03:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Software Is Not A Single-Player Game</title>
+      <link>https://www.davidpoll.com/2026/06/software-is-not-a-single-player-game/</link>
+      <description>When I wrote a few months ago that code review is not about catching bugs, the most common pushback I got was a variation of the same thing:“If you’re only getting to that decision at the code revi...</description>
+      <category>gaming</category>
+      <category>git</category>
+      <category>ai</category>
+      <category>linux</category>
+      <guid>https://www.davidpoll.com/2026/06/software-is-not-a-single-player-game/</guid>
+      <pubDate>Tue, 16 Jun 2026 23:03:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>My one weird trick for managing my internet addiction</title>
+      <link>https://scottrogowski.com/my-one-weird-trick-for-managing-my-internet-addiction</link>
+      <description>The secret is a small amount of physical friction.</description>
+      <category>encryption</category>
+      <category>apple</category>
+      <guid>https://scottrogowski.com/my-one-weird-trick-for-managing-my-internet-addiction</guid>
+      <pubDate>Tue, 16 Jun 2026 23:02:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>There’s more than one way to be a 10x engineer</title>
+      <link>https://orischwartz.com/posts/theres-more-than-one-way-to-be-a-10x-engineer.html</link>
+      <description>June 16, 2026</description>
+      <category>database</category>
+      <category>javascript</category>
+      <category>web</category>
+      <guid>https://orischwartz.com/posts/theres-more-than-one-way-to-be-a-10x-engineer.html</guid>
+      <pubDate>Tue, 16 Jun 2026 23:02:51 GMT</pubDate>
+    </item>
+    <item>
+      <title>Can gzip be a language model?</title>
+      <link>https://nathan.rs/posts/gzip-lm/</link>
+      <description>A while back I wrote about language modeling without neural networks, where I generated Shakespeare with an unbounded n-gram model: no weights, no training, …</description>
+      <category>ai</category>
+      <category>python</category>
+      <guid>https://nathan.rs/posts/gzip-lm/</guid>
+      <pubDate>Tue, 16 Jun 2026 23:02:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>We have a communication problem</title>
+      <link>https://justinjackson.ca/communication</link>
+      <description>This message thread could have been a meeting.</description>
+      <guid>https://justinjackson.ca/communication</guid>
+      <pubDate>Tue, 16 Jun 2026 23:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Yes, we still need engineers</title>
+      <link>https://mattsayar.com/yes-we-still-need-engineers/</link>
+      <description>Prototyping has done wonders for speeding up software delivery. I start with a clone of our UI repository and open Claude Code. I'll prompt it to help me add a button (or whatever), set up some test data, and record a demo of a full…</description>
+      <category>ai</category>
+      <guid>https://mattsayar.com/yes-we-still-need-engineers/</guid>
+      <pubDate>Tue, 16 Jun 2026 23:02:41 GMT</pubDate>
+    </item>
+    <item>
+      <title>My unvarnished guide to solution engineering • Max Halford</title>
+      <link>https://maxhalford.github.io/blog/solution-engineering-advice/</link>
+      <description>Introduction I joined Carbonfact as a first employee. In a nutshell, it’s software that takes in raw ERP and PLM data, and spits out environmental reports. I got pulled into many Sales processes …</description>
+      <guid>https://maxhalford.github.io/blog/solution-engineering-advice/</guid>
+      <pubDate>Tue, 16 Jun 2026 23:02:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>Issues with the EML Function</title>
+      <link>https://dzfrias.dev/blog/eml/</link>
+      <description>Apparent major correctness issues I have found with the much-hyped EML paper preprint.</description>
+      <category>ai</category>
+      <category>python</category>
+      <guid>https://dzfrias.dev/blog/eml/</guid>
+      <pubDate>Tue, 16 Jun 2026 23:02:32 GMT</pubDate>
+    </item>
+    <item>
       <title>Running local models is good now</title>
       <link>https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/</link>
       <description>Local agentic coding has gotten great over the past few months</description>
@@ -77,181 +255,6 @@ Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas
       <category>web</category>
       <guid>https://typst.app/docs/changelog/0.15.0/</guid>
       <pubDate>Tue, 16 Jun 2026 03:02:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>LLMs Will Replace 8-Track Duplication Engineers</title>
-      <link>https://bbenchoff.github.io/pages/8Tracks.html</link>
-      <description>8-tracks are human-solved NP-hard problems</description>
-      <category>ai</category>
-      <category>apple</category>
-      <category>dotnet</category>
-      <guid>https://bbenchoff.github.io/pages/8Tracks.html</guid>
-      <pubDate>Mon, 15 Jun 2026 23:03:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why Can't We Agree on a Plugin Format?</title>
-      <link>https://jasonrobert.dev/blog/2026-06-04-why-cant-we-agree-on-a-plugin-format/</link>
-      <description>A small template repo for authoring AI coding plugins in a tool-agnostic format and transpiling them into Claude Code, Copilot CLI, OpenCode, and Codex bundles.</description>
-      <category>ai</category>
-      <category>git</category>
-      <category>javascript</category>
-      <guid>https://jasonrobert.dev/blog/2026-06-04-why-cant-we-agree-on-a-plugin-format/</guid>
-      <pubDate>Mon, 15 Jun 2026 23:03:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude Code is a chainsaw</title>
-      <link>https://mechanicalsurvival.com/blog/claude-code-is-a-chainsaw/</link>
-      <description>“Wood, chainsaw, tree” by pb826 on Pixabay
-I first picked up a chainsaw two summers ago.
-I was staying with a friend at his farm on Dartmoor. We spent a drizzly afternoon splitting logs with a hatchet, clunking and thunking our way through the pile until the time came to carve up a bigger section. He said “I’ll tell you what”, grinned, disappeared into an outbuilding and came back brandishing a green and white chainsaw with a long black blade. Battery-powered, unfortunately.</description>
-      <category>ai</category>
-      <guid>https://mechanicalsurvival.com/blog/claude-code-is-a-chainsaw/</guid>
-      <pubDate>Mon, 15 Jun 2026 23:03:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>I sped up the test suite by 2x with one simple change</title>
-      <link>https://gaultier.github.io/blog/I_sped_up_the_test_suite_by_x2.html</link>
-      <description>⏴ Back to all articles</description>
-      <category>database</category>
-      <guid>https://gaultier.github.io/blog/I_sped_up_the_test_suite_by_x2.html</guid>
-      <pubDate>Mon, 15 Jun 2026 23:03:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Building the systems that build the software</title>
-      <link>https://blog.nilenso.com/blog/2026/06/12/building-the-systems-that-build-the-software/</link>
-      <description></description>
-      <category>ai</category>
-      <category>python</category>
-      <guid>https://blog.nilenso.com/blog/2026/06/12/building-the-systems-that-build-the-software/</guid>
-      <pubDate>Mon, 15 Jun 2026 23:03:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Clojure is almost as fast as C (with some help)</title>
-      <link>https://ertu.dev/posts/4_clojure-reaching-c-performance/</link>
-      <description>I have a stress test written in C: 100,000 cubes flying around in space. The CPU rebuilds every cube’s 4x4 transform matrix on every frame and sends all of them to the GPU. That is around 900,000 sine evaluations and 6 MB of matrix data per frame, and after that the GPU still has to draw 3.6 million triangles. So the frame is half CPU work, half GPU work.
-I ported it to Clojure and wanted to see how close I could get to the C version’s FPS. I should say up front that I did not do the optimization work alone: I paired with Claude Code on it, and most of the digging in this post (the benchmarks, the JIT logs, the failed attempts) comes from that session.</description>
-      <category>ides</category>
-      <category>dotnet</category>
-      <guid>https://ertu.dev/posts/4_clojure-reaching-c-performance/</guid>
-      <pubDate>Mon, 15 Jun 2026 23:03:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>denkthoughts | Instagram is obsessed with me</title>
-      <link>https://denkthoughts.com/instagram-is-obsessed-with-me</link>
-      <description>🥴 Instagram is obsessed with me</description>
-      <guid>https://denkthoughts.com/instagram-is-obsessed-with-me</guid>
-      <pubDate>Mon, 15 Jun 2026 23:03:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Remote work is bad for you</title>
-      <link>https://mrmarket.lol/remote-work-is-bad-for-you/</link>
-      <description>Lately I've been emailing people at random between 4am-6am, right as I have my first cup of coffee.
-
-I've been emailing CEOs of small startups I have a pos...</description>
-      <category>encryption</category>
-      <guid>https://mrmarket.lol/remote-work-is-bad-for-you/</guid>
-      <pubDate>Mon, 15 Jun 2026 23:03:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Detecting and Steering Sycophancy in Qwen</title>
-      <link>https://palashtaneja.com/blog/posts/detecting-and-steering-sycophancy-in-qwen.html</link>
-      <description>Sycophancy has always interested me in large language models. I think if you've used any of these models for any amount of time, even very non-power users are able to realize that these models have a high amount of bias toward whatever the user says, aka the models are sycophantic.</description>
-      <category>ai</category>
-      <category>git</category>
-      <guid>https://palashtaneja.com/blog/posts/detecting-and-steering-sycophancy-in-qwen.html</guid>
-      <pubDate>Mon, 15 Jun 2026 23:03:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>A backdoor in a LinkedIn job offer</title>
-      <link>https://roman.pt/posts/linkedin-backdoor/</link>
-      <description>A fake recruiter, a crypto repo, and a remote code execution payload hidden in a test file.</description>
-      <category>javascript</category>
-      <guid>https://roman.pt/posts/linkedin-backdoor/</guid>
-      <pubDate>Mon, 15 Jun 2026 23:03:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>The KV Cache, Explained: Why Long Context Eats Your VRAM (and How to Fit More)</title>
-      <link>https://vettedconsumer.com/the-kv-cache-explained-why-long-context-eats-your-vram-and-how-to-fit-more/</link>
-      <description>You quantized the model and it fits — then it runs out of memory at long context. The culprit is the KV cache, and at 128k tokens it can dwarf the model itself. Here's the math, the fix, and what it means for buying local-LLM hardware.</description>
-      <category>ai</category>
-      <guid>https://vettedconsumer.com/the-kv-cache-explained-why-long-context-eats-your-vram-and-how-to-fit-more/</guid>
-      <pubDate>Mon, 15 Jun 2026 23:03:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Distributed Compaction in SlateDb — Ryan Dielhenn</title>
-      <link>https://ryandielhenn.github.io/blog/distributed-compaction/</link>
-      <description>A visual and written explanation of Distributed Compaction (RFC-0025 in SlateDb) and discussion of future work</description>
-      <category>cloud</category>
-      <guid>https://ryandielhenn.github.io/blog/distributed-compaction/</guid>
-      <pubDate>Mon, 15 Jun 2026 23:02:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Organize Files &amp; Folders Effectively: Best Practices &amp; Examples</title>
-      <link>https://tsykin.com/blog/organize-files-and-folders</link>
-      <description>Learn the best file and folder organization methods, naming conventions, and cloud storage tips with examples for an efficient and clutter-free system.</description>
-      <category>linux</category>
-      <category>apple</category>
-      <category>git</category>
-      <category>gaming</category>
-      <guid>https://tsykin.com/blog/organize-files-and-folders</guid>
-      <pubDate>Mon, 15 Jun 2026 23:02:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>My LSM Tree Was Slower Than a B-Tree. Then I Profiled It.</title>
-      <link>https://aasheesh.vercel.app/blog/lsm-tree</link>
-      <description>A few weeks ago I wanted to understand how the storage engine inside RocksDB actually works. Not read about it. Build it.</description>
-      <author> (https://medium.com/@ashishrathour1102)</author>
-      <category>cloud</category>
-      <guid>https://aasheesh.vercel.app/blog/lsm-tree</guid>
-      <pubDate>Mon, 15 Jun 2026 23:02:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Cursor for X: key standards for vertical products offering agent workflows</title>
-      <link>https://alanyahya.com/writing/common-standards-vertical-agent-products</link>
-      <description>Cursor for X: key standards for vertical products offering agent workflows</description>
-      <category>ides</category>
-      <category>git</category>
-      <category>ai</category>
-      <guid>https://alanyahya.com/writing/common-standards-vertical-agent-products</guid>
-      <pubDate>Mon, 15 Jun 2026 23:02:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>Would You Believe that This is It?</title>
-      <link>https://brianschrader.com/archive/would-you-believe-that-this-is-it/</link>
-      <description>A band and their song, making decisions, and the nature of Liberal Democracy.</description>
-      <category>ai</category>
-      <guid>https://brianschrader.com/archive/would-you-believe-that-this-is-it/</guid>
-      <pubDate>Mon, 15 Jun 2026 23:02:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fable’s approach analysis</title>
-      <link>https://ankitmaloo.com/fable/</link>
-      <description>Documenting my journey in the world of AI and RL.</description>
-      <category>ai</category>
-      <category>gaming</category>
-      <category>javascript</category>
-      <guid>https://ankitmaloo.com/fable/</guid>
-      <pubDate>Mon, 15 Jun 2026 23:02:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>MAKC.CO - Welcome</title>
-      <link>https://makc.co/essays/good-advice-delivered-poorly/</link>
-      <description>The personal site of Makc Criswell. A propagandist for pickled red onions, rare meat activist, barely-monetizable YouTuber and Captian of the sailling vessel Argo.</description>
-      <category>linux</category>
-      <category>ai</category>
-      <category>apple</category>
-      <category>youtube</category>
-      <category>git</category>
-      <guid>https://makc.co/essays/good-advice-delivered-poorly/</guid>
-      <pubDate>Mon, 15 Jun 2026 23:02:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Grain of Thought</title>
-      <link>https://asker.dev/grain-of-thought</link>
-      <description>Redesigning text to preserve the writer. An essay on reading and writing in the age of generation.</description>
-      <category>ai</category>
-      <guid>https://asker.dev/grain-of-thought</guid>
-      <pubDate>Mon, 15 Jun 2026 23:02:29 GMT</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,5 +1,138 @@
 [
   {
+    "Title": "Skills Are Where Your Judgment Goes",
+    "Url": "https://geoffstearns.com/blog/skills-are-where-your-judgment-goes/",
+    "Timestamp": "2026-06-16T23:03:44",
+    "Domain": "geoffstearns.com",
+    "Description": "The model already knows the generic job. A skill is where you add the judgment specific to your work."
+  },
+  {
+    "Title": "Debugging on Prod",
+    "Url": "https://idiallo.com/blog/debugging-on-prod",
+    "Timestamp": "2026-06-16T23:03:41",
+    "Domain": "idiallo.com",
+    "Description": "The worst type of bug is one that only happens on prod. And only on prod. If you checked this blog in the past few weeks, you might have encountered a big fat 500 error."
+  },
+  {
+    "Title": "GPU is the new oil",
+    "Url": "https://xificurc.github.io/blog/gpu-is-the-new-oil/",
+    "Timestamp": "2026-06-16T23:03:37",
+    "Domain": "xificurc.github.io",
+    "Description": "I see many debates on how local LLMs will save us. This will serve as a permalink answer."
+  },
+  {
+    "Title": "Why you got that ad, in plaintext - Vishwanath Subramanian",
+    "Url": "https://vishsubramanian.me/why-you-got-that-ad-in-plaintext/",
+    "Timestamp": "2026-06-16T23:03:34",
+    "Domain": "vishsubramanian.me",
+    "Description": "The reason you got an ad is in plaintext. How to read ad targeting in the network tab - the ad server, deal IDs, and the tracking pixels riding along."
+  },
+  {
+    "Title": "The Accidental Gamification of Vibe Coding — Hayreddin Tüzel",
+    "Url": "https://hayredd.in/blog/accidental-gamification-vibe-coding",
+    "Timestamp": "2026-06-16T23:03:30",
+    "Domain": "hayredd.in",
+    "Description": "I build gamification for a living. Then, I realized Claude (accidentally!) shipped a better gamification system than anything I built all year — vibe coding hits seven of Octalysis's eight core drives, and most of the addictive ones are black-hat. Why \"one more prompt\" feels like a slot machine for builders."
+  },
+  {
+    "Title": "Ponytail, YAGNI, and the Problem with Prompt Benchmarks",
+    "Url": "https://blog.scottlogic.com/2026/06/16/ponytail-yagni-and-the-problem-with-prompt-benchmarks.html",
+    "Timestamp": "2026-06-16T23:03:26",
+    "Domain": "blog.scottlogic.com",
+    "Description": "The post examines Ponytail, a popular AI coding “skill”, and argues that its benchmarked benefits appear to come largely from encouraging terse, YAGNI-style responses rather than from any deeper engineering value. By showing that a simple prompt can match or beat Ponytail on its own benchmark, it makes a broader case for treating prompt-based tools with scepticism unless their claims are backed by robust evaluation."
+  },
+  {
+    "Title": "Why Enterprise Agents Can't Run Tools on Laptops",
+    "Url": "https://vivgrid.com/blog/why-enterprise-agents-cant-run-tools-on-laptops",
+    "Timestamp": "2026-06-16T23:03:23",
+    "Domain": "vivgrid.com",
+    "Description": "Personal agents run tools locally. Enterprise agents can't — credentials, auditing, consistency, and iteration speed all break at company scale. The answer is Managed Skills: agent tools that run in the cloud."
+  },
+  {
+    "Title": "Attention Backpropagation",
+    "Url": "https://liyuan24.github.io/writings/attention_backprop.html",
+    "Timestamp": "2026-06-16T23:03:20",
+    "Domain": "liyuan24.github.io",
+    "Description": "How to backpropagate the attention…"
+  },
+  {
+    "Title": "Apple is about to make Hide My Email useless",
+    "Url": "https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/",
+    "Timestamp": "2026-06-16T23:03:15",
+    "Domain": "arseniyshestakov.com",
+    "Description": "Yesterday, June 15, 2026, a small and unimportant announcement appeared in Apple developer news: New domain for Sign in with Apple and iCloud+ Hide My Email.\nLong story short: now both Sign in with Apple and Hide My Email aliases are going to be issued on the @private.icloud.com subdomain. This makes it much easier to ban all aliases without affecting non-relay mailboxes on iCloud mail.\nThis is certainly a big hit for iCloud privacy, since some plausible deniability together with Apple’s backing made banning iCloud aliases costly."
+  },
+  {
+    "Title": "Why is Meta destroying its engineering organization?",
+    "Url": "https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering",
+    "Timestamp": "2026-06-16T23:03:12",
+    "Domain": "newsletter.pragmaticengineer.com",
+    "Description": "Leadership at the social media giant has been on an AI-fueled rampage through its engineering org. We report what’s happened"
+  },
+  {
+    "Title": "Build your project Zig-style",
+    "Url": "https://fnordig.de/2026/06/16/build-your-project-zig-style/",
+    "Timestamp": "2026-06-16T23:03:07",
+    "Domain": "fnordig.de",
+    "Description": "Personal website of Jan-Erik Rediger"
+  },
+  {
+    "Title": "Software Is Not A Single-Player Game",
+    "Url": "https://www.davidpoll.com/2026/06/software-is-not-a-single-player-game/",
+    "Timestamp": "2026-06-16T23:03:02",
+    "Domain": "www.davidpoll.com",
+    "Description": "When I wrote a few months ago that code review is not about catching bugs, the most common pushback I got was a variation of the same thing:“If you’re only getting to that decision at the code revi..."
+  },
+  {
+    "Title": "My one weird trick for managing my internet addiction",
+    "Url": "https://scottrogowski.com/my-one-weird-trick-for-managing-my-internet-addiction",
+    "Timestamp": "2026-06-16T23:02:54",
+    "Domain": "scottrogowski.com",
+    "Description": "The secret is a small amount of physical friction."
+  },
+  {
+    "Title": "There’s more than one way to be a 10x engineer",
+    "Url": "https://orischwartz.com/posts/theres-more-than-one-way-to-be-a-10x-engineer.html",
+    "Timestamp": "2026-06-16T23:02:51",
+    "Domain": "orischwartz.com",
+    "Description": "June 16, 2026"
+  },
+  {
+    "Title": "Can gzip be a language model?",
+    "Url": "https://nathan.rs/posts/gzip-lm/",
+    "Timestamp": "2026-06-16T23:02:48",
+    "Domain": "nathan.rs",
+    "Description": "A while back I wrote about language modeling without neural networks, where I generated Shakespeare with an unbounded n-gram model: no weights, no training, …"
+  },
+  {
+    "Title": "We have a communication problem",
+    "Url": "https://justinjackson.ca/communication",
+    "Timestamp": "2026-06-16T23:02:44",
+    "Domain": "justinjackson.ca",
+    "Description": "This message thread could have been a meeting."
+  },
+  {
+    "Title": "Yes, we still need engineers",
+    "Url": "https://mattsayar.com/yes-we-still-need-engineers/",
+    "Timestamp": "2026-06-16T23:02:41",
+    "Domain": "mattsayar.com",
+    "Description": "Prototyping has done wonders for speeding up software delivery. I start with a clone of our UI repository and open Claude Code. I'll prompt it to help me add a button (or whatever), set up some test data, and record a demo of a full…"
+  },
+  {
+    "Title": "My unvarnished guide to solution engineering • Max Halford",
+    "Url": "https://maxhalford.github.io/blog/solution-engineering-advice/",
+    "Timestamp": "2026-06-16T23:02:37",
+    "Domain": "maxhalford.github.io",
+    "Description": "Introduction I joined Carbonfact as a first employee. In a nutshell, it’s software that takes in raw ERP and PLM data, and spits out environmental reports. I got pulled into many Sales processes …"
+  },
+  {
+    "Title": "Issues with the EML Function",
+    "Url": "https://dzfrias.dev/blog/eml/",
+    "Timestamp": "2026-06-16T23:02:32",
+    "Domain": "dzfrias.dev",
+    "Description": "Apparent major correctness issues I have found with the much-hyped EML paper preprint."
+  },
+  {
     "Title": "Running local models is good now",
     "Url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
     "Timestamp": "2026-06-16T19:02:22",
