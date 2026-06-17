@@ -7,6 +7,136 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>I wanted Bear Blog, but for my photos</title>
+      <link>https://pego.dev/i-wanted-bear-blog-but-for-my-photos/</link>
+      <description>I love Bear.
+
+It is one of the few places on the web that still feels calm, personal, and human. You write something, publish it, and it exists as a simple...</description>
+      <guid>https://pego.dev/i-wanted-bear-blog-but-for-my-photos/</guid>
+      <pubDate>Wed, 17 Jun 2026 23:02:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>You Got Faster. Your Company Didn’t.</title>
+      <link>https://terriblesoftware.org/2026/06/17/you-got-faster-your-company-didnt/</link>
+      <description>AI made you faster. But you’re not more productive; you’re outsourcing the slow part to everyone else</description>
+      <category>ai</category>
+      <guid>https://terriblesoftware.org/2026/06/17/you-got-faster-your-company-didnt/</guid>
+      <pubDate>Wed, 17 Jun 2026 23:02:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>Microsoft's Secret 90s Weapon That Made Windows Fast</title>
+      <link>https://youtube.com/watch?v=jH0BYAkPj78</link>
+      <description>Ever wonder how Windows managed to run so smoothly on the hardware of the 1990s? The answer lies in a highly classified internal Microsoft project codenamed "Microsoft LEGO".
+
+Before modern compilers did all the heavy lifting, Microsoft engineers relied on a secret weapon to squeeze every last drop of performance out of your PC: the Basic Block Tool (BBT).
+
+In this video, we are diving deep into the golden era of Windows development to uncover exactly how this hidden optimizer worked its magic. We'll break down the computer science behind it—explaining how BBT analyzed "basic blocks" of machine code (uninterrupted runs of instructions) and physically reorganized compiled binaries to maximize CPU cache efficiency and eliminate bottlenecks.
+
+Whether you're a software engineer, a retro-tech enthusiast, or just love a good piece of hidden computer history, you won't want to miss this look under the hood of 90s-era Windows!
+
+👇 What you'll learn in this video:
+
+0:00 - The 90s PC Performance Problem
+1:45 - What exactly is a "Basic Block"?
+4:10 - The Secret Weapon: How Microsoft BBT was born
+7:30 - How BBT physically rearranged binaries for speed
+11:15 - Why it was kept a secret for so long
+14:00 - Does this tech still exist today?
+
+🔔 If you love deep dives into tech history and software engineering secrets, make sure to hit SUBSCRIBE and turn on notifications!</description>
+      <author> (Dave's Garage)</author>
+      <category>youtube</category>
+      <guid>https://youtube.com/watch?v=jH0BYAkPj78</guid>
+      <pubDate>Wed, 17 Jun 2026 23:02:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Announcing the early beta of Mathesar Cloud</title>
+      <link>https://mathesar.org/blog/2026/06/17/announcing-mathesar-cloud</link>
+      <description>Mathesar Cloud is now in early beta, with a limited free plan for using Mathesar without installing software or managing servers.</description>
+      <category>git</category>
+      <guid>https://mathesar.org/blog/2026/06/17/announcing-mathesar-cloud</guid>
+      <pubDate>Wed, 17 Jun 2026 23:02:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Nobody clicks your share buttons — Ankur Sethi</title>
+      <link>https://ankursethi.com/blog/nobody-clicks-your-share-buttons/</link>
+      <description>15 Jun 2026 at 10:50PM IST</description>
+      <author> (Ankur Sethi)</author>
+      <guid>https://ankursethi.com/blog/nobody-clicks-your-share-buttons/</guid>
+      <pubDate>Wed, 17 Jun 2026 23:02:33 GMT</pubDate>
+    </item>
+    <item>
+      <title>You (probably) don't need tls_insecure_skip_verify</title>
+      <link>https://adamhl.dev/blog/you-dont-need-tls_insecure_skip_verify</link>
+      <description>There is a better way to proxy to an upstream HTTPS server</description>
+      <category>containers</category>
+      <guid>https://adamhl.dev/blog/you-dont-need-tls_insecure_skip_verify</guid>
+      <pubDate>Wed, 17 Jun 2026 23:02:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>I got phished!</title>
+      <link>https://imkev.dev/phished</link>
+      <description>The hotel I booked my stay at got hacked and I got tricked into inputting my credit card details in a phishing attempt.</description>
+      <category>ai</category>
+      <guid>https://imkev.dev/phished</guid>
+      <pubDate>Wed, 17 Jun 2026 23:02:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Limits of Altruism</title>
+      <link>https://asindu.xyz/blog/the-limits-of-altruism/</link>
+      <description>I will try to explain why it is counter productive to design some systems fully basing their operations &amp; maintenance on altruism.
+
+I reference my personal frustrations &amp; observations on certain open source projects.</description>
+      <author> (Asindu Drileba)</author>
+      <category>linux</category>
+      <category>ai</category>
+      <guid>https://asindu.xyz/blog/the-limits-of-altruism/</guid>
+      <pubDate>Wed, 17 Jun 2026 23:02:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>You don't know XPT files — KoliStat</title>
+      <link>https://kolistat.com/blog/xpt-files/</link>
+      <description>A friendly tour of the SAS Transport (XPT) format: everything you never wanted to know about it, and how to decode its IBM hexadecimal floats.</description>
+      <category>python</category>
+      <category>javascript</category>
+      <guid>https://kolistat.com/blog/xpt-files/</guid>
+      <pubDate>Wed, 17 Jun 2026 23:02:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>Flax debugging: making a hash of things</title>
+      <link>https://www.gilesthomas.com/2026/06/hashing-jax-parameters</link>
+      <description>A quick way to help with debugging plumbing issues in JAX training loops.</description>
+      <author> (Giles Thomas)</author>
+      <category>ai</category>
+      <category>python</category>
+      <guid>https://www.gilesthomas.com/2026/06/hashing-jax-parameters</guid>
+      <pubDate>Wed, 17 Jun 2026 23:02:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>Inverse Context Learning Principle</title>
+      <link>https://r5d.me/iclp/</link>
+      <description>Get your own damn context</description>
+      <guid>https://r5d.me/iclp/</guid>
+      <pubDate>Wed, 17 Jun 2026 23:02:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>This isn't a post about eating meat - Jacob Kaplan-Moss</title>
+      <link>https://jacobian.org/2026/jun/16/not-about-eating-meat/</link>
+      <description>Notes about eating animals, morality, harm reduction — but this isn’t about any of that, not really.</description>
+      <category>ai</category>
+      <guid>https://jacobian.org/2026/jun/16/not-about-eating-meat/</guid>
+      <pubDate>Wed, 17 Jun 2026 23:02:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>What does software development look like when agents write 100% of the code?</title>
+      <link>https://blog.bastion.computer/what-does-software-development-look-like-when-agents-write-100-of-the-code/</link>
+      <description>2026 has been an inflection point for agentic coding. In just two years the capabilities of models and harnesses went from a toy autocomplete to being powerf...</description>
+      <category>git</category>
+      <category>ai</category>
+      <guid>https://blog.bastion.computer/what-does-software-development-look-like-when-agents-write-100-of-the-code/</guid>
+      <pubDate>Wed, 17 Jun 2026 23:02:02 GMT</pubDate>
+    </item>
+    <item>
       <title>Only 16 percent of Americans think AI will have a positive impact on society, a new study shows | TechCrunch</title>
       <link>https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/</link>
       <description>Although Wall Street loves AI, every day Americans are significantly less optimistic about the industry, a new report from Pew Research shows.</description>
@@ -87,184 +217,6 @@
       <category>android</category>
       <guid>https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon</guid>
       <pubDate>Wed, 17 Jun 2026 03:02:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Skills Are Where Your Judgment Goes</title>
-      <link>https://geoffstearns.com/blog/skills-are-where-your-judgment-goes/</link>
-      <description>The model already knows the generic job. A skill is where you add the judgment specific to your work.</description>
-      <author> (Geoff Stearns)</author>
-      <guid>https://geoffstearns.com/blog/skills-are-where-your-judgment-goes/</guid>
-      <pubDate>Tue, 16 Jun 2026 23:03:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Debugging on Prod</title>
-      <link>https://idiallo.com/blog/debugging-on-prod</link>
-      <description>The worst type of bug is one that only happens on prod. And only on prod. If you checked this blog in the past few weeks, you might have encountered a big fat 500 error.</description>
-      <category>web</category>
-      <category>ides</category>
-      <category>ai</category>
-      <guid>https://idiallo.com/blog/debugging-on-prod</guid>
-      <pubDate>Tue, 16 Jun 2026 23:03:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPU is the new oil</title>
-      <link>https://xificurc.github.io/blog/gpu-is-the-new-oil/</link>
-      <description>I see many debates on how local LLMs will save us. This will serve as a permalink answer.</description>
-      <category>ai</category>
-      <guid>https://xificurc.github.io/blog/gpu-is-the-new-oil/</guid>
-      <pubDate>Tue, 16 Jun 2026 23:03:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why you got that ad, in plaintext - Vishwanath Subramanian</title>
-      <link>https://vishsubramanian.me/why-you-got-that-ad-in-plaintext/</link>
-      <description>The reason you got an ad is in plaintext. How to read ad targeting in the network tab - the ad server, deal IDs, and the tracking pixels riding along.</description>
-      <category>ai</category>
-      <category>javascript</category>
-      <guid>https://vishsubramanian.me/why-you-got-that-ad-in-plaintext/</guid>
-      <pubDate>Tue, 16 Jun 2026 23:03:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Accidental Gamification of Vibe Coding — Hayreddin Tüzel</title>
-      <link>https://hayredd.in/blog/accidental-gamification-vibe-coding</link>
-      <description>I build gamification for a living. Then, I realized Claude (accidentally!) shipped a better gamification system than anything I built all year — vibe coding hits seven of Octalysis's eight core drives, and most of the addictive ones are black-hat. Why "one more prompt" feels like a slot machine for builders.</description>
-      <author> (Hayreddin Tüzel)</author>
-      <category>ai</category>
-      <category>gaming</category>
-      <guid>https://hayredd.in/blog/accidental-gamification-vibe-coding</guid>
-      <pubDate>Tue, 16 Jun 2026 23:03:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Ponytail, YAGNI, and the Problem with Prompt Benchmarks</title>
-      <link>https://blog.scottlogic.com/2026/06/16/ponytail-yagni-and-the-problem-with-prompt-benchmarks.html</link>
-      <description>The post examines Ponytail, a popular AI coding “skill”, and argues that its benchmarked benefits appear to come largely from encouraging terse, YAGNI-style responses rather than from any deeper engineering value. By showing that a simple prompt can match or beat Ponytail on its own benchmark, it makes a broader case for treating prompt-based tools with scepticism unless their claims are backed by robust evaluation.</description>
-      <category>rust</category>
-      <category>ai</category>
-      <category>python</category>
-      <category>javascript</category>
-      <guid>https://blog.scottlogic.com/2026/06/16/ponytail-yagni-and-the-problem-with-prompt-benchmarks.html</guid>
-      <pubDate>Tue, 16 Jun 2026 23:03:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why Enterprise Agents Can't Run Tools on Laptops</title>
-      <link>https://vivgrid.com/blog/why-enterprise-agents-cant-run-tools-on-laptops</link>
-      <description>Personal agents run tools locally. Enterprise agents can't — credentials, auditing, consistency, and iteration speed all break at company scale. The answer is Managed Skills: agent tools that run in the cloud.</description>
-      <author> (Vivgrid Team)</author>
-      <category>ai</category>
-      <category>git</category>
-      <guid>https://vivgrid.com/blog/why-enterprise-agents-cant-run-tools-on-laptops</guid>
-      <pubDate>Tue, 16 Jun 2026 23:03:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Attention Backpropagation</title>
-      <link>https://liyuan24.github.io/writings/attention_backprop.html</link>
-      <description>How to backpropagate the attention…</description>
-      <category>ai</category>
-      <category>web</category>
-      <guid>https://liyuan24.github.io/writings/attention_backprop.html</guid>
-      <pubDate>Tue, 16 Jun 2026 23:03:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Apple is about to make Hide My Email useless</title>
-      <link>https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/</link>
-      <description>Yesterday, June 15, 2026, a small and unimportant announcement appeared in Apple developer news: New domain for Sign in with Apple and iCloud+ Hide My Email.
-Long story short: now both Sign in with Apple and Hide My Email aliases are going to be issued on the @private.icloud.com subdomain. This makes it much easier to ban all aliases without affecting non-relay mailboxes on iCloud mail.
-This is certainly a big hit for iCloud privacy, since some plausible deniability together with Apple’s backing made banning iCloud aliases costly.</description>
-      <category>apple</category>
-      <guid>https://arseniyshestakov.com/2026/06/16/apple-is-about-to-make-hide-my-email-useless/</guid>
-      <pubDate>Tue, 16 Jun 2026 23:03:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why is Meta destroying its engineering organization?</title>
-      <link>https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering</link>
-      <description>Leadership at the social media giant has been on an AI-fueled rampage through its engineering org. We report what’s happened</description>
-      <category>ai</category>
-      <category>android</category>
-      <category>encryption</category>
-      <category>git</category>
-      <category>apple</category>
-      <guid>https://newsletter.pragmaticengineer.com/p/why-is-meta-destroying-its-engineering</guid>
-      <pubDate>Tue, 16 Jun 2026 23:03:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Build your project Zig-style</title>
-      <link>https://fnordig.de/2026/06/16/build-your-project-zig-style/</link>
-      <description>Personal website of Jan-Erik Rediger</description>
-      <category>rust</category>
-      <category>ruby</category>
-      <category>javascript</category>
-      <category>linux</category>
-      <guid>https://fnordig.de/2026/06/16/build-your-project-zig-style/</guid>
-      <pubDate>Tue, 16 Jun 2026 23:03:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Software Is Not A Single-Player Game</title>
-      <link>https://www.davidpoll.com/2026/06/software-is-not-a-single-player-game/</link>
-      <description>When I wrote a few months ago that code review is not about catching bugs, the most common pushback I got was a variation of the same thing:“If you’re only getting to that decision at the code revi...</description>
-      <category>gaming</category>
-      <category>git</category>
-      <category>ai</category>
-      <category>linux</category>
-      <guid>https://www.davidpoll.com/2026/06/software-is-not-a-single-player-game/</guid>
-      <pubDate>Tue, 16 Jun 2026 23:03:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>My one weird trick for managing my internet addiction</title>
-      <link>https://scottrogowski.com/my-one-weird-trick-for-managing-my-internet-addiction</link>
-      <description>The secret is a small amount of physical friction.</description>
-      <category>encryption</category>
-      <category>apple</category>
-      <guid>https://scottrogowski.com/my-one-weird-trick-for-managing-my-internet-addiction</guid>
-      <pubDate>Tue, 16 Jun 2026 23:02:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>There’s more than one way to be a 10x engineer</title>
-      <link>https://orischwartz.com/posts/theres-more-than-one-way-to-be-a-10x-engineer.html</link>
-      <description>June 16, 2026</description>
-      <category>database</category>
-      <category>javascript</category>
-      <category>web</category>
-      <guid>https://orischwartz.com/posts/theres-more-than-one-way-to-be-a-10x-engineer.html</guid>
-      <pubDate>Tue, 16 Jun 2026 23:02:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Can gzip be a language model?</title>
-      <link>https://nathan.rs/posts/gzip-lm/</link>
-      <description>A while back I wrote about language modeling without neural networks, where I generated Shakespeare with an unbounded n-gram model: no weights, no training, …</description>
-      <category>ai</category>
-      <category>python</category>
-      <guid>https://nathan.rs/posts/gzip-lm/</guid>
-      <pubDate>Tue, 16 Jun 2026 23:02:48 GMT</pubDate>
-    </item>
-    <item>
-      <title>We have a communication problem</title>
-      <link>https://justinjackson.ca/communication</link>
-      <description>This message thread could have been a meeting.</description>
-      <guid>https://justinjackson.ca/communication</guid>
-      <pubDate>Tue, 16 Jun 2026 23:02:44 GMT</pubDate>
-    </item>
-    <item>
-      <title>Yes, we still need engineers</title>
-      <link>https://mattsayar.com/yes-we-still-need-engineers/</link>
-      <description>Prototyping has done wonders for speeding up software delivery. I start with a clone of our UI repository and open Claude Code. I'll prompt it to help me add a button (or whatever), set up some test data, and record a demo of a full…</description>
-      <category>ai</category>
-      <guid>https://mattsayar.com/yes-we-still-need-engineers/</guid>
-      <pubDate>Tue, 16 Jun 2026 23:02:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>My unvarnished guide to solution engineering • Max Halford</title>
-      <link>https://maxhalford.github.io/blog/solution-engineering-advice/</link>
-      <description>Introduction I joined Carbonfact as a first employee. In a nutshell, it’s software that takes in raw ERP and PLM data, and spits out environmental reports. I got pulled into many Sales processes …</description>
-      <guid>https://maxhalford.github.io/blog/solution-engineering-advice/</guid>
-      <pubDate>Tue, 16 Jun 2026 23:02:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Issues with the EML Function</title>
-      <link>https://dzfrias.dev/blog/eml/</link>
-      <description>Apparent major correctness issues I have found with the much-hyped EML paper preprint.</description>
-      <category>ai</category>
-      <category>python</category>
-      <guid>https://dzfrias.dev/blog/eml/</guid>
-      <pubDate>Tue, 16 Jun 2026 23:02:32 GMT</pubDate>
     </item>
   </channel>
 </rss>
