@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>humiliating iis servers for fun and jail time</title>
+      <link>https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/</link>
+      <description>A friend of mine once told me: If you ever spot an IIS blue screen, don’t stop there; there must be something.</description>
+      <category>dotnet</category>
+      <category>javascript</category>
+      <guid>https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/</guid>
+      <pubDate>Wed, 17 Jun 2026 11:02:28 GMT</pubDate>
+    </item>
+    <item>
       <title>GrapheneOS has been ported to Android 17 and official releases are coming soon - GrapheneOS Discussion Forum</title>
       <link>https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon</link>
       <description>GrapheneOS discussion forum</description>
@@ -237,13 +246,6 @@ Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas
       <category>ruby</category>
       <guid>https://ciechanow.ski/mechanical-watch/</guid>
       <pubDate>Tue, 16 Jun 2026 15:02:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>The time the x86 emulator team found code so bad that they fixed it during emulation - The Old New Thing</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419</link>
-      <description>Offensive content in the eyes of a software engineer.</description>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260615-00/?p=112419</guid>
-      <pubDate>Tue, 16 Jun 2026 11:02:13 GMT</pubDate>
     </item>
   </channel>
 </rss>
