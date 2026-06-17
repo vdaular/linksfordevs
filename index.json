@@ -1,5 +1,37 @@
 [
   {
+    "Title": "Only 16 percent of Americans think AI will have a positive impact on society, a new study shows | TechCrunch",
+    "Url": "https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/",
+    "Timestamp": "2026-06-17T19:02:51",
+    "Domain": "techcrunch.com",
+    "Description": "Although Wall Street loves AI, every day Americans are significantly less optimistic about the industry, a new report from Pew Research shows.",
+    "Confidence": 0.9071374
+  },
+  {
+    "Title": "Volkswagen App - GrapheneOS Discussion Forum",
+    "Url": "https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3",
+    "Timestamp": "2026-06-17T19:02:47",
+    "Domain": "discuss.grapheneos.org",
+    "Description": "GrapheneOS discussion forum",
+    "Confidence": 0.9812256
+  },
+  {
+    "Title": "Learn about Lore: next-generation open source version control",
+    "Url": "https://lore.org/",
+    "Timestamp": "2026-06-17T19:02:43",
+    "Domain": "lore.org",
+    "Description": "Maintained by Epic Games, Lore is designed for unprecedented scalability of both data and teams. It’s optimized for projects that combine code with large binary assets.",
+    "Confidence": 0.9872437
+  },
+  {
+    "Title": "Messi",
+    "Url": "https://xkcd.com/3260/",
+    "Timestamp": "2026-06-17T19:02:37",
+    "Domain": "xkcd.com",
+    "Description": "",
+    "Confidence": 0.98151064
+  },
+  {
     "Title": "Future of the Web 2026: AI Brand Visibility Research | WordPress VIP",
     "Url": "https://wpvip.com/future-of-the-web-2026/",
     "Timestamp": "2026-06-17T15:02:59",
@@ -198,13 +230,5 @@
     "Domain": "dzfrias.dev",
     "Description": "Apparent major correctness issues I have found with the much-hyped EML paper preprint.",
     "Confidence": 0.9920482
-  },
-  {
-    "Title": "Running local models is good now",
-    "Url": "https://vickiboykis.com/2026/06/15/running-local-models-is-good-now/",
-    "Timestamp": "2026-06-16T19:02:22",
-    "Domain": "vickiboykis.com",
-    "Description": "Local agentic coding has gotten great over the past few months",
-    "Confidence": 0.9944361
   }
 ]
