@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>GrapheneOS has been ported to Android 17 and official releases are coming soon - GrapheneOS Discussion Forum</title>
+      <link>https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon</link>
+      <description>GrapheneOS discussion forum</description>
+      <category>android</category>
+      <guid>https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon</guid>
+      <pubDate>Wed, 17 Jun 2026 03:02:30 GMT</pubDate>
+    </item>
+    <item>
       <title>Skills Are Where Your Judgment Goes</title>
       <link>https://geoffstearns.com/blog/skills-are-where-your-judgment-goes/</link>
       <description>The model already knows the generic job. A skill is where you add the judgment specific to your work.</description>
@@ -246,15 +254,6 @@ Connect on LinkedIn: https://www.linkedin.com/in/nick-chapsas
       <category>web</category>
       <guid>https://www.richardosgood.com/posts/banned-book-library/</guid>
       <pubDate>Tue, 16 Jun 2026 07:02:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>0.15.0 - Typst Documentation</title>
-      <link>https://typst.app/docs/changelog/0.15.0/</link>
-      <description>Changes in Typst 0.15.0</description>
-      <category>cloud</category>
-      <category>web</category>
-      <guid>https://typst.app/docs/changelog/0.15.0/</guid>
-      <pubDate>Tue, 16 Jun 2026 03:02:30 GMT</pubDate>
     </item>
   </channel>
 </rss>

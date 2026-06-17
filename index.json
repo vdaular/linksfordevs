@@ -1,5 +1,13 @@
 [
   {
+    "Title": "GrapheneOS has been ported to Android 17 and official releases are coming soon - GrapheneOS Discussion Forum",
+    "Url": "https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon",
+    "Timestamp": "2026-06-17T03:02:30",
+    "Domain": "discuss.grapheneos.org",
+    "Description": "GrapheneOS discussion forum",
+    "Confidence": 0.69869906
+  },
+  {
     "Title": "Skills Are Where Your Judgment Goes",
     "Url": "https://geoffstearns.com/blog/skills-are-where-your-judgment-goes/",
     "Timestamp": "2026-06-16T23:03:44",
@@ -190,13 +198,5 @@
     "Domain": "www.richardosgood.com",
     "Description": "OverviewA long while back I had an idea to hack a WiFi smart light bulb to do something more useful to me. Actually, I had a few different ideas of things to do with them. One of these ideas was to mo…",
     "Confidence": 0.97226614
-  },
-  {
-    "Title": "0.15.0 - Typst Documentation",
-    "Url": "https://typst.app/docs/changelog/0.15.0/",
-    "Timestamp": "2026-06-16T03:02:30",
-    "Domain": "typst.app",
-    "Description": "Changes in Typst 0.15.0",
-    "Confidence": 0.98185533
   }
 ]
