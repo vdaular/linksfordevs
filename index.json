@@ -190,13 +190,5 @@
     "Domain": "devblogs.microsoft.com",
     "Description": "Offensive content in the eyes of a software engineer.",
     "Confidence": 0.96189654
-  },
-  {
-    "Title": "Banned Book Library",
-    "Url": "https://www.richardosgood.com/posts/banned-book-library/",
-    "Timestamp": "2026-06-16T07:02:26",
-    "Domain": "www.richardosgood.com",
-    "Description": "OverviewA long while back I had an idea to hack a WiFi smart light bulb to do something more useful to me. Actually, I had a few different ideas of things to do with them. One of these ideas was to mo…",
-    "Confidence": 0.97226614
   }
 ]
