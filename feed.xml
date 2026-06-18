@@ -7,6 +7,21 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Submission.Directory · Find where to submit your website.</title>
+      <link>https://www.submission.directory/</link>
+      <description>A hand-picked directory of website submission sites. Find the best places to submit your website, startup, or product, earn quality backlinks, and rank higher across search engines and AI answers.</description>
+      <category>ai</category>
+      <guid>https://www.submission.directory/</guid>
+      <pubDate>Thu, 18 Jun 2026 19:02:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Parliament Lifts Ban on New Nuclear Power Plants</title>
+      <link>https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html</link>
+      <description>Things will be bustling again at the Federal Palace in Bern through June 19. Numerous important issues will be on the agenda during the summer session of the National Council and Council of States.</description>
+      <guid>https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html</guid>
+      <pubDate>Thu, 18 Jun 2026 19:02:18 GMT</pubDate>
+    </item>
+    <item>
       <title>Tesco moving 40,000 server workloads off VMware amid Broadcom's “abusive conduct”</title>
       <link>https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/</link>
       <description>Tesco claimed Broadcom hiked its VMware prices by about 175 percent in UK court filings.</description>
@@ -150,40 +165,6 @@ I reference my personal frustrations &amp; observations on certain open source p
       <category>ai</category>
       <guid>https://blog.bastion.computer/what-does-software-development-look-like-when-agents-write-100-of-the-code/</guid>
       <pubDate>Wed, 17 Jun 2026 23:02:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>Only 16 percent of Americans think AI will have a positive impact on society, a new study shows | TechCrunch</title>
-      <link>https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/</link>
-      <description>Although Wall Street loves AI, every day Americans are significantly less optimistic about the industry, a new report from Pew Research shows.</description>
-      <category>ai</category>
-      <guid>https://techcrunch.com/2026/06/17/only-16-percent-of-americans-think-ai-will-have-a-positive-impact-on-society-a-new-study-shows/</guid>
-      <pubDate>Wed, 17 Jun 2026 19:02:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Volkswagen App - GrapheneOS Discussion Forum</title>
-      <link>https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3</link>
-      <description>GrapheneOS discussion forum</description>
-      <category>android</category>
-      <category>apple</category>
-      <guid>https://discuss.grapheneos.org/d/35949-volkswagen-app?page=3</guid>
-      <pubDate>Wed, 17 Jun 2026 19:02:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Learn about Lore: next-generation open source version control</title>
-      <link>https://lore.org/</link>
-      <description>Maintained by Epic Games, Lore is designed for unprecedented scalability of both data and teams. It’s optimized for projects that combine code with large binary assets.</description>
-      <category>git</category>
-      <guid>https://lore.org/</guid>
-      <pubDate>Wed, 17 Jun 2026 19:02:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Messi</title>
-      <link>https://xkcd.com/3260/</link>
-      <description></description>
-      <category>apple</category>
-      <category>javascript</category>
-      <guid>https://xkcd.com/3260/</guid>
-      <pubDate>Wed, 17 Jun 2026 19:02:37 GMT</pubDate>
     </item>
   </channel>
 </rss>
