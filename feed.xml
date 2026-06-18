@@ -7,6 +7,130 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Compile Zod (30x faster Zod validation)</title>
+      <link>https://gajus.com/blog/optimize-zod</link>
+      <description>Learn how to optimize Zod validation by 30x using aot compilation.</description>
+      <category>database</category>
+      <category>javascript</category>
+      <guid>https://gajus.com/blog/optimize-zod</guid>
+      <pubDate>Thu, 18 Jun 2026 23:03:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>How Tool Search Works and How It Saves Tokens - Mykhailo Chalyi</title>
+      <link>https://chaliy.name/blog/how-tool-search-works/</link>
+      <description>Why agents drown in tool schemas, how tool search fixes it by deferring schemas and loading them on demand, the difference between generic and provider-specific search, and tricks to make it actually good.</description>
+      <author> (Mykhailo Chalyi)</author>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://chaliy.name/blog/how-tool-search-works/</guid>
+      <pubDate>Thu, 18 Jun 2026 23:03:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Don't be afraid to comment - Sylvia's Studio</title>
+      <link>https://sylvia.studio/dont-be-afraid-to-comment</link>
+      <description>Yesterday I posted this on Mastodon (post link) I'm building a new habit here on Mastodon: instead of liking, I try to reply to at least 3 posts, especially...</description>
+      <guid>https://sylvia.studio/dont-be-afraid-to-comment</guid>
+      <pubDate>Thu, 18 Jun 2026 23:03:19 GMT</pubDate>
+    </item>
+    <item>
+      <title>Is It Time for a New Embedded Linux Build System? — [yoe]</title>
+      <link>https://yoebuild.org/blog/time-for-a-new-build-system/</link>
+      <description>Edge devices now behave like cloud systems, and software has outgrown cross-compilation. Why a growing class of small teams needs a build system shaped for that job.</description>
+      <category>rust</category>
+      <category>linux</category>
+      <category>python</category>
+      <category>gaming</category>
+      <category>ai</category>
+      <guid>https://yoebuild.org/blog/time-for-a-new-build-system/</guid>
+      <pubDate>Thu, 18 Jun 2026 23:03:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>I Bought a 2004 iPod in 2026 · Chris Collins' Notes</title>
+      <link>https://chrissy.dev/notes/i-bought-a-2004-ipod-in-2026/</link>
+      <description>This week I bought an iPod Classic 4th Generation (Mono) and I’m planning on daily driving it. It might seem a strange thing to do, but hear me out.</description>
+      <category>android</category>
+      <category>apple</category>
+      <guid>https://chrissy.dev/notes/i-bought-a-2004-ipod-in-2026/</guid>
+      <pubDate>Thu, 18 Jun 2026 23:03:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>The forge we deserve</title>
+      <link>https://btao.org/posts/2026-05-09-the-forge-we-deserve/</link>
+      <description>Thinking beyond GitHub</description>
+      <category>git</category>
+      <category>ai</category>
+      <guid>https://btao.org/posts/2026-05-09-the-forge-we-deserve/</guid>
+      <pubDate>Thu, 18 Jun 2026 23:03:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Don't test what you don't control | Christian Rackerseder</title>
+      <link>https://www.echooff.dev/blog/dont-test-what-you-dont-control</link>
+      <description>Integration and end-to-end tests become unreliable when they depend on services a team does not own. Test your product boundary, not the whole company.</description>
+      <category>git</category>
+      <guid>https://www.echooff.dev/blog/dont-test-what-you-dont-control</guid>
+      <pubDate>Thu, 18 Jun 2026 23:03:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>I almost got hit by a car</title>
+      <link>https://manualdousuario.net/en/almost-hit-by-a-car/</link>
+      <description>People tend to dismiss safety advice they instinctively feel is overblown. I think that was me, when it came to wearing headphones outside.</description>
+      <category>apple</category>
+      <guid>https://manualdousuario.net/en/almost-hit-by-a-car/</guid>
+      <pubDate>Thu, 18 Jun 2026 23:02:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Adding a Town Square - Kev Quirk</title>
+      <link>https://kevquirk.com/town-square</link>
+      <description>I added a town square to my site. Try it, it's fun!</description>
+      <guid>https://kevquirk.com/town-square</guid>
+      <pubDate>Thu, 18 Jun 2026 23:02:53 GMT</pubDate>
+    </item>
+    <item>
+      <title>ELTIF reporting in five languages</title>
+      <link>https://igorsabol.ch/writing/eltif-five-languages/</link>
+      <description>In multilingual investor reporting, the chain feeding the translation does the damage. Every upstream weakness gets multiplied by language count, on the same publication deadline.</description>
+      <author> (Igor Sabol)</author>
+      <category>ai</category>
+      <guid>https://igorsabol.ch/writing/eltif-five-languages/</guid>
+      <pubDate>Thu, 18 Jun 2026 23:02:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Slow down and sit with it - Yao Yue</title>
+      <link>https://yaoyue.org/blog/2026-slowdown/</link>
+      <description>Slow down and sit with it</description>
+      <category>ai</category>
+      <guid>https://yaoyue.org/blog/2026-slowdown/</guid>
+      <pubDate>Thu, 18 Jun 2026 23:02:42 GMT</pubDate>
+    </item>
+    <item>
+      <title>~fpereiro</title>
+      <link>https://federicopereiro.com/rocket-to-nowhere/</link>
+      <description>“The past months have been mentally exhausting. I’m kind of sick of the entire AI landscape. It all feels pointless.” — Mario Zechner</description>
+      <category>ai</category>
+      <guid>https://federicopereiro.com/rocket-to-nowhere/</guid>
+      <pubDate>Thu, 18 Jun 2026 23:02:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>I switched to light mode and I haven't been happier – SHTFN</title>
+      <link>https://blog.shtfn.xyz/posts/i-switched-to-light-mode-and-i-havent-been-happier/</link>
+      <description>I felt tired in the past few days. Much of it comes from the combination of work and parenting, sprinkled with the general depression of the outside world. But I also realized I am staring at various screens for most of the day. And all of those screens had one thing in common - dark mode.</description>
+      <category>apple</category>
+      <guid>https://blog.shtfn.xyz/posts/i-switched-to-light-mode-and-i-havent-been-happier/</guid>
+      <pubDate>Thu, 18 Jun 2026 23:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Token Compression Illusion: Why I'm Skeptical of RTK</title>
+      <link>https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/</link>
+      <description>RTK promises dramatic token savings for coding agents, but raw terminal compression is not the same as cheaper, safer, or more accurate software engineering.</description>
+      <author> (Przemek Mroczek)</author>
+      <category>git</category>
+      <category>ides</category>
+      <category>javascript</category>
+      <category>ai</category>
+      <guid>https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/</guid>
+      <pubDate>Thu, 18 Jun 2026 23:02:25 GMT</pubDate>
+    </item>
+    <item>
       <title>Submission.Directory · Find where to submit your website.</title>
       <link>https://www.submission.directory/</link>
       <description>A hand-picked directory of website submission sites. Find the best places to submit your website, startup, or product, earn quality backlinks, and rank higher across search engines and AI answers.</description>
@@ -35,136 +159,6 @@
       <category>ai</category>
       <guid>https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/</guid>
       <pubDate>Thu, 18 Jun 2026 03:02:32 GMT</pubDate>
-    </item>
-    <item>
-      <title>I wanted Bear Blog, but for my photos</title>
-      <link>https://pego.dev/i-wanted-bear-blog-but-for-my-photos/</link>
-      <description>I love Bear.
-
-It is one of the few places on the web that still feels calm, personal, and human. You write something, publish it, and it exists as a simple...</description>
-      <guid>https://pego.dev/i-wanted-bear-blog-but-for-my-photos/</guid>
-      <pubDate>Wed, 17 Jun 2026 23:02:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>You Got Faster. Your Company Didn’t.</title>
-      <link>https://terriblesoftware.org/2026/06/17/you-got-faster-your-company-didnt/</link>
-      <description>AI made you faster. But you’re not more productive; you’re outsourcing the slow part to everyone else</description>
-      <category>ai</category>
-      <guid>https://terriblesoftware.org/2026/06/17/you-got-faster-your-company-didnt/</guid>
-      <pubDate>Wed, 17 Jun 2026 23:02:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft's Secret 90s Weapon That Made Windows Fast</title>
-      <link>https://youtube.com/watch?v=jH0BYAkPj78</link>
-      <description>Ever wonder how Windows managed to run so smoothly on the hardware of the 1990s? The answer lies in a highly classified internal Microsoft project codenamed "Microsoft LEGO".
-
-Before modern compilers did all the heavy lifting, Microsoft engineers relied on a secret weapon to squeeze every last drop of performance out of your PC: the Basic Block Tool (BBT).
-
-In this video, we are diving deep into the golden era of Windows development to uncover exactly how this hidden optimizer worked its magic. We'll break down the computer science behind it—explaining how BBT analyzed "basic blocks" of machine code (uninterrupted runs of instructions) and physically reorganized compiled binaries to maximize CPU cache efficiency and eliminate bottlenecks.
-
-Whether you're a software engineer, a retro-tech enthusiast, or just love a good piece of hidden computer history, you won't want to miss this look under the hood of 90s-era Windows!
-
-👇 What you'll learn in this video:
-
-0:00 - The 90s PC Performance Problem
-1:45 - What exactly is a "Basic Block"?
-4:10 - The Secret Weapon: How Microsoft BBT was born
-7:30 - How BBT physically rearranged binaries for speed
-11:15 - Why it was kept a secret for so long
-14:00 - Does this tech still exist today?
-
-🔔 If you love deep dives into tech history and software engineering secrets, make sure to hit SUBSCRIBE and turn on notifications!</description>
-      <author> (Dave's Garage)</author>
-      <category>youtube</category>
-      <guid>https://youtube.com/watch?v=jH0BYAkPj78</guid>
-      <pubDate>Wed, 17 Jun 2026 23:02:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Announcing the early beta of Mathesar Cloud</title>
-      <link>https://mathesar.org/blog/2026/06/17/announcing-mathesar-cloud</link>
-      <description>Mathesar Cloud is now in early beta, with a limited free plan for using Mathesar without installing software or managing servers.</description>
-      <category>git</category>
-      <guid>https://mathesar.org/blog/2026/06/17/announcing-mathesar-cloud</guid>
-      <pubDate>Wed, 17 Jun 2026 23:02:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nobody clicks your share buttons — Ankur Sethi</title>
-      <link>https://ankursethi.com/blog/nobody-clicks-your-share-buttons/</link>
-      <description>15 Jun 2026 at 10:50PM IST</description>
-      <author> (Ankur Sethi)</author>
-      <guid>https://ankursethi.com/blog/nobody-clicks-your-share-buttons/</guid>
-      <pubDate>Wed, 17 Jun 2026 23:02:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>You (probably) don't need tls_insecure_skip_verify</title>
-      <link>https://adamhl.dev/blog/you-dont-need-tls_insecure_skip_verify</link>
-      <description>There is a better way to proxy to an upstream HTTPS server</description>
-      <category>containers</category>
-      <guid>https://adamhl.dev/blog/you-dont-need-tls_insecure_skip_verify</guid>
-      <pubDate>Wed, 17 Jun 2026 23:02:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>I got phished!</title>
-      <link>https://imkev.dev/phished</link>
-      <description>The hotel I booked my stay at got hacked and I got tricked into inputting my credit card details in a phishing attempt.</description>
-      <category>ai</category>
-      <guid>https://imkev.dev/phished</guid>
-      <pubDate>Wed, 17 Jun 2026 23:02:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Limits of Altruism</title>
-      <link>https://asindu.xyz/blog/the-limits-of-altruism/</link>
-      <description>I will try to explain why it is counter productive to design some systems fully basing their operations &amp; maintenance on altruism.
-
-I reference my personal frustrations &amp; observations on certain open source projects.</description>
-      <author> (Asindu Drileba)</author>
-      <category>linux</category>
-      <category>ai</category>
-      <guid>https://asindu.xyz/blog/the-limits-of-altruism/</guid>
-      <pubDate>Wed, 17 Jun 2026 23:02:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>You don't know XPT files — KoliStat</title>
-      <link>https://kolistat.com/blog/xpt-files/</link>
-      <description>A friendly tour of the SAS Transport (XPT) format: everything you never wanted to know about it, and how to decode its IBM hexadecimal floats.</description>
-      <category>python</category>
-      <category>javascript</category>
-      <guid>https://kolistat.com/blog/xpt-files/</guid>
-      <pubDate>Wed, 17 Jun 2026 23:02:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Flax debugging: making a hash of things</title>
-      <link>https://www.gilesthomas.com/2026/06/hashing-jax-parameters</link>
-      <description>A quick way to help with debugging plumbing issues in JAX training loops.</description>
-      <author> (Giles Thomas)</author>
-      <category>ai</category>
-      <category>python</category>
-      <guid>https://www.gilesthomas.com/2026/06/hashing-jax-parameters</guid>
-      <pubDate>Wed, 17 Jun 2026 23:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>Inverse Context Learning Principle</title>
-      <link>https://r5d.me/iclp/</link>
-      <description>Get your own damn context</description>
-      <guid>https://r5d.me/iclp/</guid>
-      <pubDate>Wed, 17 Jun 2026 23:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>This isn't a post about eating meat - Jacob Kaplan-Moss</title>
-      <link>https://jacobian.org/2026/jun/16/not-about-eating-meat/</link>
-      <description>Notes about eating animals, morality, harm reduction — but this isn’t about any of that, not really.</description>
-      <category>ai</category>
-      <guid>https://jacobian.org/2026/jun/16/not-about-eating-meat/</guid>
-      <pubDate>Wed, 17 Jun 2026 23:02:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>What does software development look like when agents write 100% of the code?</title>
-      <link>https://blog.bastion.computer/what-does-software-development-look-like-when-agents-write-100-of-the-code/</link>
-      <description>2026 has been an inflection point for agentic coding. In just two years the capabilities of models and harnesses went from a toy autocomplete to being powerf...</description>
-      <category>git</category>
-      <category>ai</category>
-      <guid>https://blog.bastion.computer/what-does-software-development-look-like-when-agents-write-100-of-the-code/</guid>
-      <pubDate>Wed, 17 Jun 2026 23:02:02 GMT</pubDate>
     </item>
   </channel>
 </rss>

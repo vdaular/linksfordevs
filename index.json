@@ -1,5 +1,117 @@
 [
   {
+    "Title": "Compile Zod (30x faster Zod validation)",
+    "Url": "https://gajus.com/blog/optimize-zod",
+    "Timestamp": "2026-06-18T23:03:26",
+    "Domain": "gajus.com",
+    "Description": "Learn how to optimize Zod validation by 30x using aot compilation.",
+    "Confidence": 0.9926618
+  },
+  {
+    "Title": "How Tool Search Works and How It Saves Tokens - Mykhailo Chalyi",
+    "Url": "https://chaliy.name/blog/how-tool-search-works/",
+    "Timestamp": "2026-06-18T23:03:23",
+    "Domain": "chaliy.name",
+    "Description": "Why agents drown in tool schemas, how tool search fixes it by deferring schemas and loading them on demand, the difference between generic and provider-specific search, and tricks to make it actually good.",
+    "Confidence": 0.9813444
+  },
+  {
+    "Title": "Don't be afraid to comment - Sylvia's Studio",
+    "Url": "https://sylvia.studio/dont-be-afraid-to-comment",
+    "Timestamp": "2026-06-18T23:03:19",
+    "Domain": "sylvia.studio",
+    "Description": "Yesterday I posted this on Mastodon (post link) I'm building a new habit here on Mastodon: instead of liking, I try to reply to at least 3 posts, especially...",
+    "Confidence": 0.9462629
+  },
+  {
+    "Title": "Is It Time for a New Embedded Linux Build System? — [yoe]",
+    "Url": "https://yoebuild.org/blog/time-for-a-new-build-system/",
+    "Timestamp": "2026-06-18T23:03:15",
+    "Domain": "yoebuild.org",
+    "Description": "Edge devices now behave like cloud systems, and software has outgrown cross-compilation. Why a growing class of small teams needs a build system shaped for that job.",
+    "Confidence": 0.99481684
+  },
+  {
+    "Title": "I Bought a 2004 iPod in 2026 · Chris Collins' Notes",
+    "Url": "https://chrissy.dev/notes/i-bought-a-2004-ipod-in-2026/",
+    "Timestamp": "2026-06-18T23:03:11",
+    "Domain": "chrissy.dev",
+    "Description": "This week I bought an iPod Classic 4th Generation (Mono) and I’m planning on daily driving it. It might seem a strange thing to do, but hear me out.",
+    "Confidence": 0.8256924
+  },
+  {
+    "Title": "The forge we deserve",
+    "Url": "https://btao.org/posts/2026-05-09-the-forge-we-deserve/",
+    "Timestamp": "2026-06-18T23:03:07",
+    "Domain": "btao.org",
+    "Description": "Thinking beyond GitHub",
+    "Confidence": 0.99740833
+  },
+  {
+    "Title": "Don't test what you don't control | Christian Rackerseder",
+    "Url": "https://www.echooff.dev/blog/dont-test-what-you-dont-control",
+    "Timestamp": "2026-06-18T23:03:03",
+    "Domain": "www.echooff.dev",
+    "Description": "Integration and end-to-end tests become unreliable when they depend on services a team does not own. Test your product boundary, not the whole company.",
+    "Confidence": 0.9867428
+  },
+  {
+    "Title": "I almost got hit by a car",
+    "Url": "https://manualdousuario.net/en/almost-hit-by-a-car/",
+    "Timestamp": "2026-06-18T23:02:58",
+    "Domain": "manualdousuario.net",
+    "Description": "People tend to dismiss safety advice they instinctively feel is overblown. I think that was me, when it came to wearing headphones outside.",
+    "Confidence": 0.5090975
+  },
+  {
+    "Title": "Adding a Town Square - Kev Quirk",
+    "Url": "https://kevquirk.com/town-square",
+    "Timestamp": "2026-06-18T23:02:53",
+    "Domain": "kevquirk.com",
+    "Description": "I added a town square to my site. Try it, it's fun!",
+    "Confidence": 0.9397143
+  },
+  {
+    "Title": "ELTIF reporting in five languages",
+    "Url": "https://igorsabol.ch/writing/eltif-five-languages/",
+    "Timestamp": "2026-06-18T23:02:47",
+    "Domain": "igorsabol.ch",
+    "Description": "In multilingual investor reporting, the chain feeding the translation does the damage. Every upstream weakness gets multiplied by language count, on the same publication deadline.",
+    "Confidence": 0.89874285
+  },
+  {
+    "Title": "Slow down and sit with it - Yao Yue",
+    "Url": "https://yaoyue.org/blog/2026-slowdown/",
+    "Timestamp": "2026-06-18T23:02:42",
+    "Domain": "yaoyue.org",
+    "Description": "Slow down and sit with it",
+    "Confidence": 0.8965346
+  },
+  {
+    "Title": "~fpereiro",
+    "Url": "https://federicopereiro.com/rocket-to-nowhere/",
+    "Timestamp": "2026-06-18T23:02:38",
+    "Domain": "federicopereiro.com",
+    "Description": "“The past months have been mentally exhausting. I’m kind of sick of the entire AI landscape. It all feels pointless.” — Mario Zechner",
+    "Confidence": 0.9943673
+  },
+  {
+    "Title": "I switched to light mode and I haven't been happier – SHTFN",
+    "Url": "https://blog.shtfn.xyz/posts/i-switched-to-light-mode-and-i-havent-been-happier/",
+    "Timestamp": "2026-06-18T23:02:34",
+    "Domain": "blog.shtfn.xyz",
+    "Description": "I felt tired in the past few days. Much of it comes from the combination of work and parenting, sprinkled with the general depression of the outside world. But I also realized I am staring at various screens for most of the day. And all of those screens had one thing in common - dark mode.",
+    "Confidence": 0.9143706
+  },
+  {
+    "Title": "The Token Compression Illusion: Why I'm Skeptical of RTK",
+    "Url": "https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/",
+    "Timestamp": "2026-06-18T23:02:25",
+    "Domain": "mroczek.dev",
+    "Description": "RTK promises dramatic token savings for coding agents, but raw terminal compression is not the same as cheaper, safer, or more accurate software engineering.",
+    "Confidence": 0.95563465
+  },
+  {
     "Title": "Submission.Directory · Find where to submit your website.",
     "Url": "https://www.submission.directory/",
     "Timestamp": "2026-06-18T19:02:23",
@@ -30,109 +142,5 @@
     "Domain": "arstechnica.com",
     "Description": "Audited accounting shows growing revenues being dwarfed by R&D, other expenses.",
     "Confidence": 0.82294905
-  },
-  {
-    "Title": "I wanted Bear Blog, but for my photos",
-    "Url": "https://pego.dev/i-wanted-bear-blog-but-for-my-photos/",
-    "Timestamp": "2026-06-17T23:02:45",
-    "Domain": "pego.dev",
-    "Description": "I love Bear.\n\nIt is one of the few places on the web that still feels calm, personal, and human. You write something, publish it, and it exists as a simple...",
-    "Confidence": 0.9675477
-  },
-  {
-    "Title": "You Got Faster. Your Company Didn’t.",
-    "Url": "https://terriblesoftware.org/2026/06/17/you-got-faster-your-company-didnt/",
-    "Timestamp": "2026-06-17T23:02:42",
-    "Domain": "terriblesoftware.org",
-    "Description": "AI made you faster. But you’re not more productive; you’re outsourcing the slow part to everyone else",
-    "Confidence": 0.9784414
-  },
-  {
-    "Title": "Microsoft's Secret 90s Weapon That Made Windows Fast",
-    "Url": "https://youtube.com/watch?v=jH0BYAkPj78",
-    "Timestamp": "2026-06-17T23:02:38",
-    "Domain": "youtube.com",
-    "Description": "Ever wonder how Windows managed to run so smoothly on the hardware of the 1990s? The answer lies in a highly classified internal Microsoft project codenamed \"Microsoft LEGO\".\n\nBefore modern compilers did all the heavy lifting, Microsoft engineers relied on a secret weapon to squeeze every last drop of performance out of your PC: the Basic Block Tool (BBT).\n\nIn this video, we are diving deep into the golden era of Windows development to uncover exactly how this hidden optimizer worked its magic. We'll break down the computer science behind it—explaining how BBT analyzed \"basic blocks\" of machine code (uninterrupted runs of instructions) and physically reorganized compiled binaries to maximize CPU cache efficiency and eliminate bottlenecks.\n\nWhether you're a software engineer, a retro-tech enthusiast, or just love a good piece of hidden computer history, you won't want to miss this look under the hood of 90s-era Windows!\n\n👇 What you'll learn in this video:\n\n0:00 - The 90s PC Performance Problem\n1:45 - What exactly is a \"Basic Block\"?\n4:10 - The Secret Weapon: How Microsoft BBT was born\n7:30 - How BBT physically rearranged binaries for speed\n11:15 - Why it was kept a secret for so long\n14:00 - Does this tech still exist today?\n\n🔔 If you love deep dives into tech history and software engineering secrets, make sure to hit SUBSCRIBE and turn on notifications!",
-    "Confidence": 0.6701321
-  },
-  {
-    "Title": "Announcing the early beta of Mathesar Cloud",
-    "Url": "https://mathesar.org/blog/2026/06/17/announcing-mathesar-cloud",
-    "Timestamp": "2026-06-17T23:02:38",
-    "Domain": "mathesar.org",
-    "Description": "Mathesar Cloud is now in early beta, with a limited free plan for using Mathesar without installing software or managing servers.",
-    "Confidence": 0.98656267
-  },
-  {
-    "Title": "Nobody clicks your share buttons — Ankur Sethi",
-    "Url": "https://ankursethi.com/blog/nobody-clicks-your-share-buttons/",
-    "Timestamp": "2026-06-17T23:02:33",
-    "Domain": "ankursethi.com",
-    "Description": "15 Jun 2026 at 10:50PM IST",
-    "Confidence": 0.6325434
-  },
-  {
-    "Title": "You (probably) don't need tls_insecure_skip_verify",
-    "Url": "https://adamhl.dev/blog/you-dont-need-tls_insecure_skip_verify",
-    "Timestamp": "2026-06-17T23:02:29",
-    "Domain": "adamhl.dev",
-    "Description": "There is a better way to proxy to an upstream HTTPS server",
-    "Confidence": 0.9980299
-  },
-  {
-    "Title": "I got phished!",
-    "Url": "https://imkev.dev/phished",
-    "Timestamp": "2026-06-17T23:02:25",
-    "Domain": "imkev.dev",
-    "Description": "The hotel I booked my stay at got hacked and I got tricked into inputting my credit card details in a phishing attempt.",
-    "Confidence": 0.9156586
-  },
-  {
-    "Title": "The Limits of Altruism",
-    "Url": "https://asindu.xyz/blog/the-limits-of-altruism/",
-    "Timestamp": "2026-06-17T23:02:22",
-    "Domain": "asindu.xyz",
-    "Description": "I will try to explain why it is counter productive to design some systems fully basing their operations & maintenance on altruism.\n\nI reference my personal frustrations & observations on certain open source projects.",
-    "Confidence": 0.86839867
-  },
-  {
-    "Title": "You don't know XPT files — KoliStat",
-    "Url": "https://kolistat.com/blog/xpt-files/",
-    "Timestamp": "2026-06-17T23:02:18",
-    "Domain": "kolistat.com",
-    "Description": "A friendly tour of the SAS Transport (XPT) format: everything you never wanted to know about it, and how to decode its IBM hexadecimal floats.",
-    "Confidence": 0.9902118
-  },
-  {
-    "Title": "Flax debugging: making a hash of things",
-    "Url": "https://www.gilesthomas.com/2026/06/hashing-jax-parameters",
-    "Timestamp": "2026-06-17T23:02:14",
-    "Domain": "www.gilesthomas.com",
-    "Description": "A quick way to help with debugging plumbing issues in JAX training loops.",
-    "Confidence": 0.97548217
-  },
-  {
-    "Title": "Inverse Context Learning Principle",
-    "Url": "https://r5d.me/iclp/",
-    "Timestamp": "2026-06-17T23:02:10",
-    "Domain": "r5d.me",
-    "Description": "Get your own damn context",
-    "Confidence": 0.91305685
-  },
-  {
-    "Title": "This isn't a post about eating meat - Jacob Kaplan-Moss",
-    "Url": "https://jacobian.org/2026/jun/16/not-about-eating-meat/",
-    "Timestamp": "2026-06-17T23:02:06",
-    "Domain": "jacobian.org",
-    "Description": "Notes about eating animals, morality, harm reduction — but this isn’t about any of that, not really.",
-    "Confidence": 0.9571183
-  },
-  {
-    "Title": "What does software development look like when agents write 100% of the code?",
-    "Url": "https://blog.bastion.computer/what-does-software-development-look-like-when-agents-write-100-of-the-code/",
-    "Timestamp": "2026-06-17T23:02:02",
-    "Domain": "blog.bastion.computer",
-    "Description": "2026 has been an inflection point for agentic coding. In just two years the capabilities of models and harnesses went from a toy autocomplete to being powerf...",
-    "Confidence": 0.99226105
   }
 ]
