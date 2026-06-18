@@ -150,37 +150,5 @@
     "Domain": "xkcd.com",
     "Description": "",
     "Confidence": 0.98151064
-  },
-  {
-    "Title": "Future of the Web 2026: AI Brand Visibility Research | WordPress VIP",
-    "Url": "https://wpvip.com/future-of-the-web-2026/",
-    "Timestamp": "2026-06-17T15:02:59",
-    "Domain": "wpvip.com",
-    "Description": "Original research from 2,000 decision-makers and consumers on AI brand visibility, content trust, and what brands need to do as the web feels less human. 74% say the internet feels less human than it did 10 years ago.",
-    "Confidence": 0.911576
-  },
-  {
-    "Title": "Want your images back? Sure... That'll be $5!",
-    "Url": "https://www.lutr.dev/want-your-images-back-sure-that-ll-be-5-dollars",
-    "Timestamp": "2026-06-17T15:02:56",
-    "Domain": "www.lutr.dev",
-    "Description": "We're in the era of trillion-dollar companies, but that doesn't mean you should leave $5 on the table!",
-    "Confidence": 0.96011096
-  },
-  {
-    "Title": "GLM-5.2 is the new leading open weights model on the Artificial Analysis Intelligence Index ",
-    "Url": "https://artificialanalysis.ai/articles/glm-5-2-is-the-new-leading-open-weights-model-on-the-artificial-analysis-intelligence-index",
-    "Timestamp": "2026-06-17T15:02:52",
-    "Domain": "artificialanalysis.ai",
-    "Description": "Benchmarks and Analysis of GLM-5.2",
-    "Confidence": 0.9057842
-  },
-  {
-    "Title": "Bubbles",
-    "Url": "https://bubbles.town/",
-    "Timestamp": "2026-06-17T15:02:48",
-    "Domain": "bubbles.town",
-    "Description": "Independent blog posts, ranked by the community. Good stuff bubbles up. The rest pops.",
-    "Confidence": 0.9510434
   }
 ]
