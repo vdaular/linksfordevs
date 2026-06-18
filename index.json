@@ -182,13 +182,5 @@
     "Domain": "bubbles.town",
     "Description": "Independent blog posts, ranked by the community. Good stuff bubbles up. The rest pops.",
     "Confidence": 0.9510434
-  },
-  {
-    "Title": "humiliating iis servers for fun and jail time",
-    "Url": "https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/",
-    "Timestamp": "2026-06-17T11:02:28",
-    "Domain": "mll.sh",
-    "Description": "A friend of mine once told me: If you ever spot an IIS blue screen, don’t stop there; there must be something.",
-    "Confidence": 0.9933047
   }
 ]

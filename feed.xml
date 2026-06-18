@@ -216,14 +216,5 @@ I reference my personal frustrations &amp; observations on certain open source p
       <guid>https://bubbles.town/</guid>
       <pubDate>Wed, 17 Jun 2026 15:02:48 GMT</pubDate>
     </item>
-    <item>
-      <title>humiliating iis servers for fun and jail time</title>
-      <link>https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/</link>
-      <description>A friend of mine once told me: If you ever spot an IIS blue screen, don’t stop there; there must be something.</description>
-      <category>dotnet</category>
-      <category>javascript</category>
-      <guid>https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/</guid>
-      <pubDate>Wed, 17 Jun 2026 11:02:28 GMT</pubDate>
-    </item>
   </channel>
 </rss>
