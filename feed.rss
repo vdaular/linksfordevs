@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Leaked financial docs show OpenAI is losing billions of dollars a year</title>
+      <link>https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/</link>
+      <description>Audited accounting shows growing revenues being dwarfed by R&amp;D, other expenses.</description>
+      <category>ai</category>
+      <guid>https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/</guid>
+      <pubDate>Thu, 18 Jun 2026 03:02:32 GMT</pubDate>
+    </item>
+    <item>
       <title>I wanted Bear Blog, but for my photos</title>
       <link>https://pego.dev/i-wanted-bear-blog-but-for-my-photos/</link>
       <description>I love Bear.
@@ -209,14 +217,6 @@ I reference my personal frustrations &amp; observations on certain open source p
       <category>javascript</category>
       <guid>https://mll.sh/humiliating-iis-servers-for-fun-and-jail-time/</guid>
       <pubDate>Wed, 17 Jun 2026 11:02:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>GrapheneOS has been ported to Android 17 and official releases are coming soon - GrapheneOS Discussion Forum</title>
-      <link>https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon</link>
-      <description>GrapheneOS discussion forum</description>
-      <category>android</category>
-      <guid>https://discuss.grapheneos.org/d/36469-grapheneos-has-been-ported-to-android-17-and-official-releases-are-coming-soon</guid>
-      <pubDate>Wed, 17 Jun 2026 03:02:30 GMT</pubDate>
     </item>
   </channel>
 </rss>
