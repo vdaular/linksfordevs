@@ -1,5 +1,13 @@
 [
   {
+    "Title": "IN THE WEIGHTS",
+    "Url": "https://www.intheweights.com/",
+    "Timestamp": "2026-06-19T07:02:04",
+    "Domain": "www.intheweights.com",
+    "Description": "The weights are the billions of numbers forming an AI's brain. Type a name and see how strongly the leading AI models recognize it. Are you in the weights?",
+    "Confidence": 0.9429324
+  },
+  {
     "Title": "I told them forced consent was unlawful. Five years later it cost Elkjop €1.8 million — That Privacy Guy!",
     "Url": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/",
     "Timestamp": "2026-06-19T03:02:43",
@@ -134,13 +142,5 @@
     "Domain": "www.bluewin.ch",
     "Description": "Things will be bustling again at the Federal Palace in Bern through June 19. Numerous important issues will be on the agenda during the summer session of the National Council and Council of States.",
     "Confidence": 0.93143475
-  },
-  {
-    "Title": "Tesco moving 40,000 server workloads off VMware amid Broadcom's “abusive conduct”",
-    "Url": "https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/",
-    "Timestamp": "2026-06-18T07:02:13",
-    "Domain": "arstechnica.com",
-    "Description": "Tesco claimed Broadcom hiked its VMware prices by about 175 percent in UK court filings.",
-    "Confidence": 0.66273683
   }
 ]

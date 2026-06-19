@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>IN THE WEIGHTS</title>
+      <link>https://www.intheweights.com/</link>
+      <description>The weights are the billions of numbers forming an AI's brain. Type a name and see how strongly the leading AI models recognize it. Are you in the weights?</description>
+      <category>ai</category>
+      <guid>https://www.intheweights.com/</guid>
+      <pubDate>Fri, 19 Jun 2026 07:02:04 GMT</pubDate>
+    </item>
+    <item>
       <title>I told them forced consent was unlawful. Five years later it cost Elkjop €1.8 million — That Privacy Guy!</title>
       <link>https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/</link>
       <description>Datatilsynet just fined Elkjop NOK 20 million (€1.8m) for the forced consent in its loyalty club — five years after I told their DPO it was unlawful.</description>
@@ -152,13 +160,6 @@
       <description>Things will be bustling again at the Federal Palace in Bern through June 19. Numerous important issues will be on the agenda during the summer session of the National Council and Council of States.</description>
       <guid>https://www.bluewin.ch/en/news/switzerland/parliament-lifts-ban-on-new-nuclear-power-plants-3257535.html</guid>
       <pubDate>Thu, 18 Jun 2026 19:02:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Tesco moving 40,000 server workloads off VMware amid Broadcom's “abusive conduct”</title>
-      <link>https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/</link>
-      <description>Tesco claimed Broadcom hiked its VMware prices by about 175 percent in UK court filings.</description>
-      <guid>https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/</guid>
-      <pubDate>Thu, 18 Jun 2026 07:02:13 GMT</pubDate>
     </item>
   </channel>
 </rss>
