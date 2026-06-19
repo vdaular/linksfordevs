@@ -1,5 +1,124 @@
 [
   {
+    "Title": "There Are No Instances in atproto — overreacted",
+    "Url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+    "Timestamp": "2026-06-19T23:03:22",
+    "Domain": "overreacted.io",
+    "Description": "Like RSS and Google Reader."
+  },
+  {
+    "Title": "Comparison is a con",
+    "Url": "https://www.joanwestenberg.com/p/comparison-is-a-con",
+    "Timestamp": "2026-06-19T23:03:16",
+    "Domain": "www.joanwestenberg.com",
+    "Description": "The most important thing I've done isn't on my CV"
+  },
+  {
+    "Title": "\"Optimizing\" concurrent regexes",
+    "Url": "https://ayende.com/blog/204035-a/optimizing-concurrent-regexes",
+    "Timestamp": "2026-06-19T23:03:11",
+    "Domain": "ayende.com",
+    "Description": "I am looking into some regex work, and I ran into a performance problem. I need to run a particular regex over a large number (millions) of strings. That cau..."
+  },
+  {
+    "Title": "Status Is a Distributed System",
+    "Url": "https://blog.victorbona.dev/blog/status-is-a-distributed-system",
+    "Timestamp": "2026-06-19T23:03:06",
+    "Domain": "blog.victorbona.dev",
+    "Description": "Why deployment status is not a UI label, but a consistency problem across databases, queues, workers, locks, reconcilers, Kubernetes, and user trust."
+  },
+  {
+    "Title": "adding face tracking to my pico\n4",
+    "Url": "https://www.kitsu.red/blog/2025-08-06-face-tracking-for-pico-4",
+    "Timestamp": "2026-06-19T23:03:00",
+    "Domain": "www.kitsu.red",
+    "Description": "and\nhow i accidentally got into hardware development"
+  },
+  {
+    "Title": "Hyundai takes full control of Boston Dynamics as SoftBank exits for $325 million - Startup Fortune",
+    "Url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+    "Timestamp": "2026-06-19T23:02:55",
+    "Domain": "startupfortune.com",
+    "Description": "Hyundai Motor Group is acquiring SoftBank's remaining 9.65% stake in Boston Dynamics for $325 million, completing its full ownership of the robotics"
+  },
+  {
+    "Title": "My agentic engineering workflow (step by step) | Shreyas",
+    "Url": "https://shreyasprakash.com/my-agentic-engineering-workflow/",
+    "Timestamp": "2026-06-19T23:02:49",
+    "Domain": "shreyasprakash.com",
+    "Description": "My agentic engineering workflow has changed in the recent past, the models are better, there is much more freedom in choosing the harness, selecting the abilities and actions you could provide. - Pre-planning, pre-idea, pre-everything - The first chat with the agents - The first chat on the terminal - Setting up the Opencode environment - Doing Light research, deep research - Model choices while..."
+  },
+  {
+    "Title": "AI Engineer Claims to Have Cracked Linear A",
+    "Url": "https://aiclambake.com/clamtakes/linear-a/",
+    "Timestamp": "2026-06-19T23:02:46",
+    "Domain": "aiclambake.com",
+    "Description": "AI Engineer Claims to Have Cracked Linear A"
+  },
+  {
+    "Title": "Self-improving agents still need humans",
+    "Url": "https://douwe.com/blog/2026/0619/",
+    "Timestamp": "2026-06-19T23:02:43",
+    "Domain": "douwe.com",
+    "Description": "Terminal-bench-style scores are tempting progress numbers and very easy to overfit. Used carefully, though, they are a pile of bug reports. goose's Harbor tooling made it cheap to run, pull, compare and explain failures, which led to two small fixes: turn awareness and reading images from disk again."
+  },
+  {
+    "Title": "How four years at a startup changed the way I work - Diogo Moreira",
+    "Url": "https://diogomr.com/posts/how-four-years-at-a-startup-changed-the-way-i-work/",
+    "Timestamp": "2026-06-19T23:02:37",
+    "Domain": "diogomr.com",
+    "Description": "Reflections on my time at Amplemarket"
+  },
+  {
+    "Title": "I Replaced JSON With a Custom Binary Format. In PHP. :: Tom J.",
+    "Url": "https://tomj.pro/i-replaced-json-with-a-custom-binary-format-in-php/",
+    "Timestamp": "2026-06-19T23:02:34",
+    "Domain": "tomj.pro",
+    "Description": "We need to store rich text used for web, apps, UIs and editable in editor.Long time ago, it started as pure HTML in DB. When we wanted to split editing and printing, we opted for JSON.But now we want to manipulate data inside effectively. And there, we decided to create a binary format.It proved to be faster, smaller and easier to change."
+  },
+  {
+    "Title": "Rethinking modularity in Ruby applications",
+    "Url": "https://noteflakes.com/articles/2026-06-18-syntropy-modules",
+    "Timestamp": "2026-06-19T23:02:28",
+    "Domain": "noteflakes.com",
+    "Description": "Rethinking modularity in Ruby applications - Noteflakes"
+  },
+  {
+    "Title": "Google workspace threatening to block firefox access",
+    "Url": "https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html",
+    "Timestamp": "2026-06-19T23:02:24",
+    "Domain": "tales.fromprod.com",
+    "Description": "Google workspace threatening to block firefox"
+  },
+  {
+    "Title": "My Mathematical Regression",
+    "Url": "https://blog.dahl.dev/posts/my-mathematical-regression/",
+    "Timestamp": "2026-06-19T23:02:21",
+    "Domain": "blog.dahl.dev",
+    "Description": "i become stupid"
+  },
+  {
+    "Title": "How I turned World Cup data into posters",
+    "Url": "https://zehfernandes.com/posts/how-i-turned-world-cup-data-into-posters",
+    "Timestamp": "2026-06-19T23:02:18",
+    "Domain": "zehfernandes.com",
+    "Description": "How I turned World Cup match data into organic, painting-like posters: a breakdown of the data, the chrono-grid, the brush strokes, and the gravity fields behind GenCup 2026."
+  },
+  {
+    "Title": "The Wrong End of the Problem",
+    "Url": "https://schrottner.at/2026/06/18/The-Wrong-End-of-the-Problem.html",
+    "Timestamp": "2026-06-19T23:02:14",
+    "Domain": "schrottner.at",
+    "Description": "Every company wants AI in their development process right now. That part is clear. What’s less clear is where they’re putting it."
+  },
+  {
+    "Title": "The Line Vibe Coding Can't Cross",
+    "Url": "https://blog.r-lopes.com/newsletter/2026-06-18",
+    "Timestamp": "2026-06-19T23:02:10",
+    "Domain": "blog.r-lopes.com",
+    "Description": "2026-06-18 (Thu) · Thematic brief — blog.r-lopes.com"
+  },
+  {
     "Title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28 - JVM Weekly vol. 180",
     "Url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
     "Timestamp": "2026-06-19T15:02:17",

@@ -7,6 +7,170 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>There Are No Instances in atproto — overreacted</title>
+      <link>https://overreacted.io/there-are-no-instances-in-atproto/</link>
+      <description>Like RSS and Google Reader.</description>
+      <guid>https://overreacted.io/there-are-no-instances-in-atproto/</guid>
+      <pubDate>Fri, 19 Jun 2026 23:03:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Comparison is a con</title>
+      <link>https://www.joanwestenberg.com/p/comparison-is-a-con</link>
+      <description>The most important thing I've done isn't on my CV</description>
+      <category>gaming</category>
+      <guid>https://www.joanwestenberg.com/p/comparison-is-a-con</guid>
+      <pubDate>Fri, 19 Jun 2026 23:03:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>"Optimizing" concurrent regexes</title>
+      <link>https://ayende.com/blog/204035-a/optimizing-concurrent-regexes</link>
+      <description>I am looking into some regex work, and I ran into a performance problem. I need to run a particular regex over a large number (millions) of strings. That cau...</description>
+      <guid>https://ayende.com/blog/204035-a/optimizing-concurrent-regexes</guid>
+      <pubDate>Fri, 19 Jun 2026 23:03:11 GMT</pubDate>
+    </item>
+    <item>
+      <title>Status Is a Distributed System</title>
+      <link>https://blog.victorbona.dev/blog/status-is-a-distributed-system</link>
+      <description>Why deployment status is not a UI label, but a consistency problem across databases, queues, workers, locks, reconcilers, Kubernetes, and user trust.</description>
+      <author> (Victor Bona)</author>
+      <category>containers</category>
+      <category>git</category>
+      <guid>https://blog.victorbona.dev/blog/status-is-a-distributed-system</guid>
+      <pubDate>Fri, 19 Jun 2026 23:03:06 GMT</pubDate>
+    </item>
+    <item>
+      <title>adding face tracking to my pico
+4</title>
+      <link>https://www.kitsu.red/blog/2025-08-06-face-tracking-for-pico-4</link>
+      <description>and
+how i accidentally got into hardware development</description>
+      <author> (https://www.kitsu.red)</author>
+      <category>gaming</category>
+      <guid>https://www.kitsu.red/blog/2025-08-06-face-tracking-for-pico-4</guid>
+      <pubDate>Fri, 19 Jun 2026 23:03:00 GMT</pubDate>
+    </item>
+    <item>
+      <title>Hyundai takes full control of Boston Dynamics as SoftBank exits for $325 million - Startup Fortune</title>
+      <link>https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/</link>
+      <description>Hyundai Motor Group is acquiring SoftBank's remaining 9.65% stake in Boston Dynamics for $325 million, completing its full ownership of the robotics</description>
+      <category>git</category>
+      <category>ai</category>
+      <category>youtube</category>
+      <guid>https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/</guid>
+      <pubDate>Fri, 19 Jun 2026 23:02:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>My agentic engineering workflow (step by step) | Shreyas</title>
+      <link>https://shreyasprakash.com/my-agentic-engineering-workflow/</link>
+      <description>My agentic engineering workflow has changed in the recent past, the models are better, there is much more freedom in choosing the harness, selecting the abilities and actions you could provide. - Pre-planning, pre-idea, pre-everything - The first chat with the agents - The first chat on the terminal - Setting up the Opencode environment - Doing Light research, deep research - Model choices while...</description>
+      <author> (Shreyas Prakash)</author>
+      <category>web</category>
+      <category>ai</category>
+      <category>cloud</category>
+      <guid>https://shreyasprakash.com/my-agentic-engineering-workflow/</guid>
+      <pubDate>Fri, 19 Jun 2026 23:02:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>AI Engineer Claims to Have Cracked Linear A</title>
+      <link>https://aiclambake.com/clamtakes/linear-a/</link>
+      <description>AI Engineer Claims to Have Cracked Linear A</description>
+      <category>ai</category>
+      <category>python</category>
+      <guid>https://aiclambake.com/clamtakes/linear-a/</guid>
+      <pubDate>Fri, 19 Jun 2026 23:02:46 GMT</pubDate>
+    </item>
+    <item>
+      <title>Self-improving agents still need humans</title>
+      <link>https://douwe.com/blog/2026/0619/</link>
+      <description>Terminal-bench-style scores are tempting progress numbers and very easy to overfit. Used carefully, though, they are a pile of bug reports. goose's Harbor tooling made it cheap to run, pull, compare and explain failures, which led to two small fixes: turn awareness and reading images from disk again.</description>
+      <category>python</category>
+      <category>containers</category>
+      <category>git</category>
+      <category>javascript</category>
+      <category>linux</category>
+      <guid>https://douwe.com/blog/2026/0619/</guid>
+      <pubDate>Fri, 19 Jun 2026 23:02:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>How four years at a startup changed the way I work - Diogo Moreira</title>
+      <link>https://diogomr.com/posts/how-four-years-at-a-startup-changed-the-way-i-work/</link>
+      <description>Reflections on my time at Amplemarket</description>
+      <author> (https://diogomr.com/about)</author>
+      <category>ruby</category>
+      <guid>https://diogomr.com/posts/how-four-years-at-a-startup-changed-the-way-i-work/</guid>
+      <pubDate>Fri, 19 Jun 2026 23:02:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>I Replaced JSON With a Custom Binary Format. In PHP. :: Tom J.</title>
+      <link>https://tomj.pro/i-replaced-json-with-a-custom-binary-format-in-php/</link>
+      <description>We need to store rich text used for web, apps, UIs and editable in editor.Long time ago, it started as pure HTML in DB. When we wanted to split editing and printing, we opted for JSON.But now we want to manipulate data inside effectively. And there, we decided to create a binary format.It proved to be faster, smaller and easier to change.</description>
+      <category>web</category>
+      <category>ides</category>
+      <category>javascript</category>
+      <guid>https://tomj.pro/i-replaced-json-with-a-custom-binary-format-in-php/</guid>
+      <pubDate>Fri, 19 Jun 2026 23:02:34 GMT</pubDate>
+    </item>
+    <item>
+      <title>Rethinking modularity in Ruby applications</title>
+      <link>https://noteflakes.com/articles/2026-06-18-syntropy-modules</link>
+      <description>Rethinking modularity in Ruby applications - Noteflakes</description>
+      <category>ruby</category>
+      <category>web</category>
+      <guid>https://noteflakes.com/articles/2026-06-18-syntropy-modules</guid>
+      <pubDate>Fri, 19 Jun 2026 23:02:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google workspace threatening to block firefox access</title>
+      <link>https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html</link>
+      <description>Google workspace threatening to block firefox</description>
+      <category>apple</category>
+      <category>encryption</category>
+      <category>android</category>
+      <category>javascript</category>
+      <category>web</category>
+      <guid>https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html</guid>
+      <pubDate>Fri, 19 Jun 2026 23:02:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>My Mathematical Regression</title>
+      <link>https://blog.dahl.dev/posts/my-mathematical-regression/</link>
+      <description>i become stupid</description>
+      <category>python</category>
+      <category>ai</category>
+      <guid>https://blog.dahl.dev/posts/my-mathematical-regression/</guid>
+      <pubDate>Fri, 19 Jun 2026 23:02:21 GMT</pubDate>
+    </item>
+    <item>
+      <title>How I turned World Cup data into posters</title>
+      <link>https://zehfernandes.com/posts/how-i-turned-world-cup-data-into-posters</link>
+      <description>How I turned World Cup match data into organic, painting-like posters: a breakdown of the data, the chrono-grid, the brush strokes, and the gravity fields behind GenCup 2026.</description>
+      <category>web</category>
+      <category>javascript</category>
+      <category>gaming</category>
+      <guid>https://zehfernandes.com/posts/how-i-turned-world-cup-data-into-posters</guid>
+      <pubDate>Fri, 19 Jun 2026 23:02:18 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Wrong End of the Problem</title>
+      <link>https://schrottner.at/2026/06/18/The-Wrong-End-of-the-Problem.html</link>
+      <description>Every company wants AI in their development process right now. That part is clear. What’s less clear is where they’re putting it.</description>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://schrottner.at/2026/06/18/The-Wrong-End-of-the-Problem.html</guid>
+      <pubDate>Fri, 19 Jun 2026 23:02:14 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Line Vibe Coding Can't Cross</title>
+      <link>https://blog.r-lopes.com/newsletter/2026-06-18</link>
+      <description>2026-06-18 (Thu) · Thematic brief — blog.r-lopes.com</description>
+      <author> (Rafael Lopes)</author>
+      <category>ai</category>
+      <category>javascript</category>
+      <category>encryption</category>
+      <guid>https://blog.r-lopes.com/newsletter/2026-06-18</guid>
+      <pubDate>Fri, 19 Jun 2026 23:02:10 GMT</pubDate>
+    </item>
+    <item>
       <title>Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28 - JVM Weekly vol. 180</title>
       <link>https://www.jvm-weekly.com/p/project-valhalla-explained-how-a</link>
       <description>The new JVM Weekly is here... and Ragnarok seems to come, as we finally have Valhalla in the JDK. However, situation is a bit... nuanced.</description>
@@ -28,130 +192,6 @@
       <author> (Alexander Hanff)</author>
       <guid>https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/</guid>
       <pubDate>Fri, 19 Jun 2026 03:02:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Compile Zod (30x faster Zod validation)</title>
-      <link>https://gajus.com/blog/optimize-zod</link>
-      <description>Learn how to optimize Zod validation by 30x using aot compilation.</description>
-      <category>database</category>
-      <category>javascript</category>
-      <guid>https://gajus.com/blog/optimize-zod</guid>
-      <pubDate>Thu, 18 Jun 2026 23:03:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>How Tool Search Works and How It Saves Tokens - Mykhailo Chalyi</title>
-      <link>https://chaliy.name/blog/how-tool-search-works/</link>
-      <description>Why agents drown in tool schemas, how tool search fixes it by deferring schemas and loading them on demand, the difference between generic and provider-specific search, and tricks to make it actually good.</description>
-      <author> (Mykhailo Chalyi)</author>
-      <category>ai</category>
-      <category>javascript</category>
-      <guid>https://chaliy.name/blog/how-tool-search-works/</guid>
-      <pubDate>Thu, 18 Jun 2026 23:03:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Don't be afraid to comment - Sylvia's Studio</title>
-      <link>https://sylvia.studio/dont-be-afraid-to-comment</link>
-      <description>Yesterday I posted this on Mastodon (post link) I'm building a new habit here on Mastodon: instead of liking, I try to reply to at least 3 posts, especially...</description>
-      <guid>https://sylvia.studio/dont-be-afraid-to-comment</guid>
-      <pubDate>Thu, 18 Jun 2026 23:03:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Is It Time for a New Embedded Linux Build System? — [yoe]</title>
-      <link>https://yoebuild.org/blog/time-for-a-new-build-system/</link>
-      <description>Edge devices now behave like cloud systems, and software has outgrown cross-compilation. Why a growing class of small teams needs a build system shaped for that job.</description>
-      <category>rust</category>
-      <category>linux</category>
-      <category>python</category>
-      <category>gaming</category>
-      <category>ai</category>
-      <guid>https://yoebuild.org/blog/time-for-a-new-build-system/</guid>
-      <pubDate>Thu, 18 Jun 2026 23:03:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>I Bought a 2004 iPod in 2026 · Chris Collins' Notes</title>
-      <link>https://chrissy.dev/notes/i-bought-a-2004-ipod-in-2026/</link>
-      <description>This week I bought an iPod Classic 4th Generation (Mono) and I’m planning on daily driving it. It might seem a strange thing to do, but hear me out.</description>
-      <category>android</category>
-      <category>apple</category>
-      <guid>https://chrissy.dev/notes/i-bought-a-2004-ipod-in-2026/</guid>
-      <pubDate>Thu, 18 Jun 2026 23:03:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>The forge we deserve</title>
-      <link>https://btao.org/posts/2026-05-09-the-forge-we-deserve/</link>
-      <description>Thinking beyond GitHub</description>
-      <category>git</category>
-      <category>ai</category>
-      <guid>https://btao.org/posts/2026-05-09-the-forge-we-deserve/</guid>
-      <pubDate>Thu, 18 Jun 2026 23:03:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Don't test what you don't control | Christian Rackerseder</title>
-      <link>https://www.echooff.dev/blog/dont-test-what-you-dont-control</link>
-      <description>Integration and end-to-end tests become unreliable when they depend on services a team does not own. Test your product boundary, not the whole company.</description>
-      <category>git</category>
-      <guid>https://www.echooff.dev/blog/dont-test-what-you-dont-control</guid>
-      <pubDate>Thu, 18 Jun 2026 23:03:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>I almost got hit by a car</title>
-      <link>https://manualdousuario.net/en/almost-hit-by-a-car/</link>
-      <description>People tend to dismiss safety advice they instinctively feel is overblown. I think that was me, when it came to wearing headphones outside.</description>
-      <category>apple</category>
-      <guid>https://manualdousuario.net/en/almost-hit-by-a-car/</guid>
-      <pubDate>Thu, 18 Jun 2026 23:02:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>Adding a Town Square - Kev Quirk</title>
-      <link>https://kevquirk.com/town-square</link>
-      <description>I added a town square to my site. Try it, it's fun!</description>
-      <guid>https://kevquirk.com/town-square</guid>
-      <pubDate>Thu, 18 Jun 2026 23:02:53 GMT</pubDate>
-    </item>
-    <item>
-      <title>ELTIF reporting in five languages</title>
-      <link>https://igorsabol.ch/writing/eltif-five-languages/</link>
-      <description>In multilingual investor reporting, the chain feeding the translation does the damage. Every upstream weakness gets multiplied by language count, on the same publication deadline.</description>
-      <author> (Igor Sabol)</author>
-      <category>ai</category>
-      <guid>https://igorsabol.ch/writing/eltif-five-languages/</guid>
-      <pubDate>Thu, 18 Jun 2026 23:02:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Slow down and sit with it - Yao Yue</title>
-      <link>https://yaoyue.org/blog/2026-slowdown/</link>
-      <description>Slow down and sit with it</description>
-      <category>ai</category>
-      <guid>https://yaoyue.org/blog/2026-slowdown/</guid>
-      <pubDate>Thu, 18 Jun 2026 23:02:42 GMT</pubDate>
-    </item>
-    <item>
-      <title>~fpereiro</title>
-      <link>https://federicopereiro.com/rocket-to-nowhere/</link>
-      <description>“The past months have been mentally exhausting. I’m kind of sick of the entire AI landscape. It all feels pointless.” — Mario Zechner</description>
-      <category>ai</category>
-      <guid>https://federicopereiro.com/rocket-to-nowhere/</guid>
-      <pubDate>Thu, 18 Jun 2026 23:02:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>I switched to light mode and I haven't been happier – SHTFN</title>
-      <link>https://blog.shtfn.xyz/posts/i-switched-to-light-mode-and-i-havent-been-happier/</link>
-      <description>I felt tired in the past few days. Much of it comes from the combination of work and parenting, sprinkled with the general depression of the outside world. But I also realized I am staring at various screens for most of the day. And all of those screens had one thing in common - dark mode.</description>
-      <category>apple</category>
-      <guid>https://blog.shtfn.xyz/posts/i-switched-to-light-mode-and-i-havent-been-happier/</guid>
-      <pubDate>Thu, 18 Jun 2026 23:02:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Token Compression Illusion: Why I'm Skeptical of RTK</title>
-      <link>https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/</link>
-      <description>RTK promises dramatic token savings for coding agents, but raw terminal compression is not the same as cheaper, safer, or more accurate software engineering.</description>
-      <author> (Przemek Mroczek)</author>
-      <category>git</category>
-      <category>ides</category>
-      <category>javascript</category>
-      <category>ai</category>
-      <guid>https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/</guid>
-      <pubDate>Thu, 18 Jun 2026 23:02:25 GMT</pubDate>
     </item>
   </channel>
 </rss>

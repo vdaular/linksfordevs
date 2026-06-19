@@ -1,5 +1,141 @@
 [
   {
+    "Title": "There Are No Instances in atproto — overreacted",
+    "Url": "https://overreacted.io/there-are-no-instances-in-atproto/",
+    "Timestamp": "2026-06-19T23:03:22",
+    "Domain": "overreacted.io",
+    "Description": "Like RSS and Google Reader.",
+    "Confidence": 0.9864516
+  },
+  {
+    "Title": "Comparison is a con",
+    "Url": "https://www.joanwestenberg.com/p/comparison-is-a-con",
+    "Timestamp": "2026-06-19T23:03:16",
+    "Domain": "www.joanwestenberg.com",
+    "Description": "The most important thing I've done isn't on my CV",
+    "Confidence": 0.95116144
+  },
+  {
+    "Title": "\"Optimizing\" concurrent regexes",
+    "Url": "https://ayende.com/blog/204035-a/optimizing-concurrent-regexes",
+    "Timestamp": "2026-06-19T23:03:11",
+    "Domain": "ayende.com",
+    "Description": "I am looking into some regex work, and I ran into a performance problem. I need to run a particular regex over a large number (millions) of strings. That cau...",
+    "Confidence": 0.99361444
+  },
+  {
+    "Title": "Status Is a Distributed System",
+    "Url": "https://blog.victorbona.dev/blog/status-is-a-distributed-system",
+    "Timestamp": "2026-06-19T23:03:06",
+    "Domain": "blog.victorbona.dev",
+    "Description": "Why deployment status is not a UI label, but a consistency problem across databases, queues, workers, locks, reconcilers, Kubernetes, and user trust.",
+    "Confidence": 0.9885785
+  },
+  {
+    "Title": "adding face tracking to my pico\n4",
+    "Url": "https://www.kitsu.red/blog/2025-08-06-face-tracking-for-pico-4",
+    "Timestamp": "2026-06-19T23:03:00",
+    "Domain": "www.kitsu.red",
+    "Description": "and\nhow i accidentally got into hardware development",
+    "Confidence": 0.9513324
+  },
+  {
+    "Title": "Hyundai takes full control of Boston Dynamics as SoftBank exits for $325 million - Startup Fortune",
+    "Url": "https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/",
+    "Timestamp": "2026-06-19T23:02:55",
+    "Domain": "startupfortune.com",
+    "Description": "Hyundai Motor Group is acquiring SoftBank's remaining 9.65% stake in Boston Dynamics for $325 million, completing its full ownership of the robotics",
+    "Confidence": 0.66924477
+  },
+  {
+    "Title": "My agentic engineering workflow (step by step) | Shreyas",
+    "Url": "https://shreyasprakash.com/my-agentic-engineering-workflow/",
+    "Timestamp": "2026-06-19T23:02:49",
+    "Domain": "shreyasprakash.com",
+    "Description": "My agentic engineering workflow has changed in the recent past, the models are better, there is much more freedom in choosing the harness, selecting the abilities and actions you could provide. - Pre-planning, pre-idea, pre-everything - The first chat with the agents - The first chat on the terminal - Setting up the Opencode environment - Doing Light research, deep research - Model choices while...",
+    "Confidence": 0.98377055
+  },
+  {
+    "Title": "AI Engineer Claims to Have Cracked Linear A",
+    "Url": "https://aiclambake.com/clamtakes/linear-a/",
+    "Timestamp": "2026-06-19T23:02:46",
+    "Domain": "aiclambake.com",
+    "Description": "AI Engineer Claims to Have Cracked Linear A",
+    "Confidence": 0.77886605
+  },
+  {
+    "Title": "Self-improving agents still need humans",
+    "Url": "https://douwe.com/blog/2026/0619/",
+    "Timestamp": "2026-06-19T23:02:43",
+    "Domain": "douwe.com",
+    "Description": "Terminal-bench-style scores are tempting progress numbers and very easy to overfit. Used carefully, though, they are a pile of bug reports. goose's Harbor tooling made it cheap to run, pull, compare and explain failures, which led to two small fixes: turn awareness and reading images from disk again.",
+    "Confidence": 0.95451313
+  },
+  {
+    "Title": "How four years at a startup changed the way I work - Diogo Moreira",
+    "Url": "https://diogomr.com/posts/how-four-years-at-a-startup-changed-the-way-i-work/",
+    "Timestamp": "2026-06-19T23:02:37",
+    "Domain": "diogomr.com",
+    "Description": "Reflections on my time at Amplemarket",
+    "Confidence": 0.9843226
+  },
+  {
+    "Title": "I Replaced JSON With a Custom Binary Format. In PHP. :: Tom J.",
+    "Url": "https://tomj.pro/i-replaced-json-with-a-custom-binary-format-in-php/",
+    "Timestamp": "2026-06-19T23:02:34",
+    "Domain": "tomj.pro",
+    "Description": "We need to store rich text used for web, apps, UIs and editable in editor.Long time ago, it started as pure HTML in DB. When we wanted to split editing and printing, we opted for JSON.But now we want to manipulate data inside effectively. And there, we decided to create a binary format.It proved to be faster, smaller and easier to change.",
+    "Confidence": 0.99204844
+  },
+  {
+    "Title": "Rethinking modularity in Ruby applications",
+    "Url": "https://noteflakes.com/articles/2026-06-18-syntropy-modules",
+    "Timestamp": "2026-06-19T23:02:28",
+    "Domain": "noteflakes.com",
+    "Description": "Rethinking modularity in Ruby applications - Noteflakes",
+    "Confidence": 0.99710673
+  },
+  {
+    "Title": "Google workspace threatening to block firefox access",
+    "Url": "https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html",
+    "Timestamp": "2026-06-19T23:02:24",
+    "Domain": "tales.fromprod.com",
+    "Description": "Google workspace threatening to block firefox",
+    "Confidence": 0.98386866
+  },
+  {
+    "Title": "My Mathematical Regression",
+    "Url": "https://blog.dahl.dev/posts/my-mathematical-regression/",
+    "Timestamp": "2026-06-19T23:02:21",
+    "Domain": "blog.dahl.dev",
+    "Description": "i become stupid",
+    "Confidence": 0.9797796
+  },
+  {
+    "Title": "How I turned World Cup data into posters",
+    "Url": "https://zehfernandes.com/posts/how-i-turned-world-cup-data-into-posters",
+    "Timestamp": "2026-06-19T23:02:18",
+    "Domain": "zehfernandes.com",
+    "Description": "How I turned World Cup match data into organic, painting-like posters: a breakdown of the data, the chrono-grid, the brush strokes, and the gravity fields behind GenCup 2026.",
+    "Confidence": 0.93380594
+  },
+  {
+    "Title": "The Wrong End of the Problem",
+    "Url": "https://schrottner.at/2026/06/18/The-Wrong-End-of-the-Problem.html",
+    "Timestamp": "2026-06-19T23:02:14",
+    "Domain": "schrottner.at",
+    "Description": "Every company wants AI in their development process right now. That part is clear. What’s less clear is where they’re putting it.",
+    "Confidence": 0.99627835
+  },
+  {
+    "Title": "The Line Vibe Coding Can't Cross",
+    "Url": "https://blog.r-lopes.com/newsletter/2026-06-18",
+    "Timestamp": "2026-06-19T23:02:10",
+    "Domain": "blog.r-lopes.com",
+    "Description": "2026-06-18 (Thu) · Thematic brief — blog.r-lopes.com",
+    "Confidence": 0.8914798
+  },
+  {
     "Title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28 - JVM Weekly vol. 180",
     "Url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
     "Timestamp": "2026-06-19T15:02:17",
@@ -22,117 +158,5 @@
     "Domain": "www.thatprivacyguy.com",
     "Description": "Datatilsynet just fined Elkjop NOK 20 million (€1.8m) for the forced consent in its loyalty club — five years after I told their DPO it was unlawful.",
     "Confidence": 0.88625216
-  },
-  {
-    "Title": "Compile Zod (30x faster Zod validation)",
-    "Url": "https://gajus.com/blog/optimize-zod",
-    "Timestamp": "2026-06-18T23:03:26",
-    "Domain": "gajus.com",
-    "Description": "Learn how to optimize Zod validation by 30x using aot compilation.",
-    "Confidence": 0.9926618
-  },
-  {
-    "Title": "How Tool Search Works and How It Saves Tokens - Mykhailo Chalyi",
-    "Url": "https://chaliy.name/blog/how-tool-search-works/",
-    "Timestamp": "2026-06-18T23:03:23",
-    "Domain": "chaliy.name",
-    "Description": "Why agents drown in tool schemas, how tool search fixes it by deferring schemas and loading them on demand, the difference between generic and provider-specific search, and tricks to make it actually good.",
-    "Confidence": 0.9813444
-  },
-  {
-    "Title": "Don't be afraid to comment - Sylvia's Studio",
-    "Url": "https://sylvia.studio/dont-be-afraid-to-comment",
-    "Timestamp": "2026-06-18T23:03:19",
-    "Domain": "sylvia.studio",
-    "Description": "Yesterday I posted this on Mastodon (post link) I'm building a new habit here on Mastodon: instead of liking, I try to reply to at least 3 posts, especially...",
-    "Confidence": 0.9462629
-  },
-  {
-    "Title": "Is It Time for a New Embedded Linux Build System? — [yoe]",
-    "Url": "https://yoebuild.org/blog/time-for-a-new-build-system/",
-    "Timestamp": "2026-06-18T23:03:15",
-    "Domain": "yoebuild.org",
-    "Description": "Edge devices now behave like cloud systems, and software has outgrown cross-compilation. Why a growing class of small teams needs a build system shaped for that job.",
-    "Confidence": 0.99481684
-  },
-  {
-    "Title": "I Bought a 2004 iPod in 2026 · Chris Collins' Notes",
-    "Url": "https://chrissy.dev/notes/i-bought-a-2004-ipod-in-2026/",
-    "Timestamp": "2026-06-18T23:03:11",
-    "Domain": "chrissy.dev",
-    "Description": "This week I bought an iPod Classic 4th Generation (Mono) and I’m planning on daily driving it. It might seem a strange thing to do, but hear me out.",
-    "Confidence": 0.8256924
-  },
-  {
-    "Title": "The forge we deserve",
-    "Url": "https://btao.org/posts/2026-05-09-the-forge-we-deserve/",
-    "Timestamp": "2026-06-18T23:03:07",
-    "Domain": "btao.org",
-    "Description": "Thinking beyond GitHub",
-    "Confidence": 0.99740833
-  },
-  {
-    "Title": "Don't test what you don't control | Christian Rackerseder",
-    "Url": "https://www.echooff.dev/blog/dont-test-what-you-dont-control",
-    "Timestamp": "2026-06-18T23:03:03",
-    "Domain": "www.echooff.dev",
-    "Description": "Integration and end-to-end tests become unreliable when they depend on services a team does not own. Test your product boundary, not the whole company.",
-    "Confidence": 0.9867428
-  },
-  {
-    "Title": "I almost got hit by a car",
-    "Url": "https://manualdousuario.net/en/almost-hit-by-a-car/",
-    "Timestamp": "2026-06-18T23:02:58",
-    "Domain": "manualdousuario.net",
-    "Description": "People tend to dismiss safety advice they instinctively feel is overblown. I think that was me, when it came to wearing headphones outside.",
-    "Confidence": 0.5090975
-  },
-  {
-    "Title": "Adding a Town Square - Kev Quirk",
-    "Url": "https://kevquirk.com/town-square",
-    "Timestamp": "2026-06-18T23:02:53",
-    "Domain": "kevquirk.com",
-    "Description": "I added a town square to my site. Try it, it's fun!",
-    "Confidence": 0.9397143
-  },
-  {
-    "Title": "ELTIF reporting in five languages",
-    "Url": "https://igorsabol.ch/writing/eltif-five-languages/",
-    "Timestamp": "2026-06-18T23:02:47",
-    "Domain": "igorsabol.ch",
-    "Description": "In multilingual investor reporting, the chain feeding the translation does the damage. Every upstream weakness gets multiplied by language count, on the same publication deadline.",
-    "Confidence": 0.89874285
-  },
-  {
-    "Title": "Slow down and sit with it - Yao Yue",
-    "Url": "https://yaoyue.org/blog/2026-slowdown/",
-    "Timestamp": "2026-06-18T23:02:42",
-    "Domain": "yaoyue.org",
-    "Description": "Slow down and sit with it",
-    "Confidence": 0.8965346
-  },
-  {
-    "Title": "~fpereiro",
-    "Url": "https://federicopereiro.com/rocket-to-nowhere/",
-    "Timestamp": "2026-06-18T23:02:38",
-    "Domain": "federicopereiro.com",
-    "Description": "“The past months have been mentally exhausting. I’m kind of sick of the entire AI landscape. It all feels pointless.” — Mario Zechner",
-    "Confidence": 0.9943673
-  },
-  {
-    "Title": "I switched to light mode and I haven't been happier – SHTFN",
-    "Url": "https://blog.shtfn.xyz/posts/i-switched-to-light-mode-and-i-havent-been-happier/",
-    "Timestamp": "2026-06-18T23:02:34",
-    "Domain": "blog.shtfn.xyz",
-    "Description": "I felt tired in the past few days. Much of it comes from the combination of work and parenting, sprinkled with the general depression of the outside world. But I also realized I am staring at various screens for most of the day. And all of those screens had one thing in common - dark mode.",
-    "Confidence": 0.9143706
-  },
-  {
-    "Title": "The Token Compression Illusion: Why I'm Skeptical of RTK",
-    "Url": "https://mroczek.dev/articles/the-token-compression-illusion-why-im-skeptical-of-rtk/",
-    "Timestamp": "2026-06-18T23:02:25",
-    "Domain": "mroczek.dev",
-    "Description": "RTK promises dramatic token savings for coding agents, but raw terminal compression is not the same as cheaper, safer, or more accurate software engineering.",
-    "Confidence": 0.95563465
   }
 ]
