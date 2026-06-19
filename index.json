@@ -1,5 +1,13 @@
 [
   {
+    "Title": "I told them forced consent was unlawful. Five years later it cost Elkjop €1.8 million — That Privacy Guy!",
+    "Url": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/",
+    "Timestamp": "2026-06-19T03:02:43",
+    "Domain": "www.thatprivacyguy.com",
+    "Description": "Datatilsynet just fined Elkjop NOK 20 million (€1.8m) for the forced consent in its loyalty club — five years after I told their DPO it was unlawful.",
+    "Confidence": 0.88625216
+  },
+  {
     "Title": "Compile Zod (30x faster Zod validation)",
     "Url": "https://gajus.com/blog/optimize-zod",
     "Timestamp": "2026-06-18T23:03:26",
@@ -134,13 +142,5 @@
     "Domain": "arstechnica.com",
     "Description": "Tesco claimed Broadcom hiked its VMware prices by about 175 percent in UK court filings.",
     "Confidence": 0.66273683
-  },
-  {
-    "Title": "Leaked financial docs show OpenAI is losing billions of dollars a year",
-    "Url": "https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/",
-    "Timestamp": "2026-06-18T03:02:32",
-    "Domain": "arstechnica.com",
-    "Description": "Audited accounting shows growing revenues being dwarfed by R&D, other expenses.",
-    "Confidence": 0.82294905
   }
 ]

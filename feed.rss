@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>I told them forced consent was unlawful. Five years later it cost Elkjop €1.8 million — That Privacy Guy!</title>
+      <link>https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/</link>
+      <description>Datatilsynet just fined Elkjop NOK 20 million (€1.8m) for the forced consent in its loyalty club — five years after I told their DPO it was unlawful.</description>
+      <author> (Alexander Hanff)</author>
+      <guid>https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/</guid>
+      <pubDate>Fri, 19 Jun 2026 03:02:43 GMT</pubDate>
+    </item>
+    <item>
       <title>Compile Zod (30x faster Zod validation)</title>
       <link>https://gajus.com/blog/optimize-zod</link>
       <description>Learn how to optimize Zod validation by 30x using aot compilation.</description>
@@ -151,14 +159,6 @@
       <description>Tesco claimed Broadcom hiked its VMware prices by about 175 percent in UK court filings.</description>
       <guid>https://arstechnica.com/information-technology/2026/06/tesco-moving-40000-server-workloads-off-vmware-amid-broadcoms-abusive-conduct/</guid>
       <pubDate>Thu, 18 Jun 2026 07:02:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Leaked financial docs show OpenAI is losing billions of dollars a year</title>
-      <link>https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/</link>
-      <description>Audited accounting shows growing revenues being dwarfed by R&amp;D, other expenses.</description>
-      <category>ai</category>
-      <guid>https://arstechnica.com/ai/2026/06/leaked-financial-docs-show-openai-is-losing-billions-of-dollars-a-year/</guid>
-      <pubDate>Thu, 18 Jun 2026 03:02:32 GMT</pubDate>
     </item>
   </channel>
 </rss>
