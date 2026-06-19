@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28 - JVM Weekly vol. 180</title>
+      <link>https://www.jvm-weekly.com/p/project-valhalla-explained-how-a</link>
+      <description>The new JVM Weekly is here... and Ragnarok seems to come, as we finally have Valhalla in the JDK. However, situation is a bit... nuanced.</description>
+      <guid>https://www.jvm-weekly.com/p/project-valhalla-explained-how-a</guid>
+      <pubDate>Fri, 19 Jun 2026 15:02:17 GMT</pubDate>
+    </item>
+    <item>
       <title>IN THE WEIGHTS</title>
       <link>https://www.intheweights.com/</link>
       <description>The weights are the billions of numbers forming an AI's brain. Type a name and see how strongly the leading AI models recognize it. Are you in the weights?</description>
