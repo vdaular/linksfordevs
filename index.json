@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Where to Find the Colors Your Screen Can’t Show You",
+    "Url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
+    "Timestamp": "2026-06-20T15:02:12",
+    "Domain": "moultano.wordpress.com",
+    "Description": "An atlas of the vibrance of the real world",
+    "Confidence": 0.93907017
+  },
+  {
     "Title": "A New Bill Takes Aim at Government Pressure to Silence Lawful Online Speech",
     "Url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
     "Timestamp": "2026-06-20T07:02:15",
@@ -166,13 +174,5 @@
     "Domain": "blog.r-lopes.com",
     "Description": "2026-06-18 (Thu) · Thematic brief — blog.r-lopes.com",
     "Confidence": 0.8914798
-  },
-  {
-    "Title": "Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28 - JVM Weekly vol. 180",
-    "Url": "https://www.jvm-weekly.com/p/project-valhalla-explained-how-a",
-    "Timestamp": "2026-06-19T15:02:17",
-    "Domain": "www.jvm-weekly.com",
-    "Description": "The new JVM Weekly is here... and Ragnarok seems to come, as we finally have Valhalla in the JDK. However, situation is a bit... nuanced.",
-    "Confidence": 0.9860745
   }
 ]

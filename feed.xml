@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Where to Find the Colors Your Screen Can’t Show You</title>
+      <link>https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/</link>
+      <description>An atlas of the vibrance of the real world</description>
+      <guid>https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/</guid>
+      <pubDate>Sat, 20 Jun 2026 15:02:12 GMT</pubDate>
+    </item>
+    <item>
       <title>A New Bill Takes Aim at Government Pressure to Silence Lawful Online Speech</title>
       <link>https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech</link>
       <description>The bipartisan legislation creates a federal cause of action against government officials who coerce or attempt to coerce broadcasters, interactive computer services, or AI providers into taking actions against lawful, First-Amendment-protected speech, and establishes a transparency system for government communications with those intermediaries about user expression.</description>
@@ -203,13 +210,6 @@ how i accidentally got into hardware development</description>
       <category>encryption</category>
       <guid>https://blog.r-lopes.com/newsletter/2026-06-18</guid>
       <pubDate>Fri, 19 Jun 2026 23:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Project Valhalla, Explained: How a Decade of Work Arrives in JDK 28 - JVM Weekly vol. 180</title>
-      <link>https://www.jvm-weekly.com/p/project-valhalla-explained-how-a</link>
-      <description>The new JVM Weekly is here... and Ragnarok seems to come, as we finally have Valhalla in the JDK. However, situation is a bit... nuanced.</description>
-      <guid>https://www.jvm-weekly.com/p/project-valhalla-explained-how-a</guid>
-      <pubDate>Fri, 19 Jun 2026 15:02:17 GMT</pubDate>
     </item>
   </channel>
 </rss>
