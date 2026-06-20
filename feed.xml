@@ -7,6 +7,22 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>I Stored a Website in a Favicon</title>
+      <link>https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/</link>
+      <description>Words from me as developer, student and human.</description>
+      <category>javascript</category>
+      <category>web</category>
+      <guid>https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/</guid>
+      <pubDate>Sat, 20 Jun 2026 19:02:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>cssQuake - Play Quake in Your Browser</title>
+      <link>https://cssquake.com/</link>
+      <description>Play Quake in your browser with no install. cssQuake renders the game as inspectable HTML and CSS powered by PolyCSS.</description>
+      <guid>https://cssquake.com/</guid>
+      <pubDate>Sat, 20 Jun 2026 19:02:23 GMT</pubDate>
+    </item>
+    <item>
       <title>Where to Find the Colors Your Screen Can’t Show You</title>
       <link>https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/</link>
       <description>An atlas of the vibrance of the real world</description>

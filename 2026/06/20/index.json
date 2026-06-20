@@ -1,5 +1,19 @@
 [
   {
+    "Title": "I Stored a Website in a Favicon",
+    "Url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
+    "Timestamp": "2026-06-20T19:02:28",
+    "Domain": "www.timwehrle.de",
+    "Description": "Words from me as developer, student and human."
+  },
+  {
+    "Title": "cssQuake - Play Quake in Your Browser",
+    "Url": "https://cssquake.com/",
+    "Timestamp": "2026-06-20T19:02:23",
+    "Domain": "cssquake.com",
+    "Description": "Play Quake in your browser with no install. cssQuake renders the game as inspectable HTML and CSS powered by PolyCSS."
+  },
+  {
     "Title": "Where to Find the Colors Your Screen Can’t Show You",
     "Url": "https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/",
     "Timestamp": "2026-06-20T15:02:12",
