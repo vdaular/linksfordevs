@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Side Effect",
+    "Url": "https://xkcd.com/3261/",
+    "Timestamp": "2026-06-20T03:02:39",
+    "Domain": "xkcd.com",
+    "Description": "",
+    "Confidence": 0.98151064
+  },
+  {
+    "Title": "Court Records Should Be Free",
+    "Url": "https://www.eff.org/deeplinks/2026/06/court-records-should-be-free",
+    "Timestamp": "2026-06-20T03:02:36",
+    "Domain": "www.eff.org",
+    "Description": "Court records belong to the public. Yet anyone seeking access to federal court filings through PACER, a government software system that stands for Public Access to Court Electronic Records, is usually required to pay hefty fees to search for and view documents. PACER’s fees have long acted as a...",
+    "Confidence": 0.5074139
+  },
+  {
     "Title": "There Are No Instances in atproto — overreacted",
     "Url": "https://overreacted.io/there-are-no-instances-in-atproto/",
     "Timestamp": "2026-06-19T23:03:22",
@@ -150,13 +166,5 @@
     "Domain": "www.intheweights.com",
     "Description": "The weights are the billions of numbers forming an AI's brain. Type a name and see how strongly the leading AI models recognize it. Are you in the weights?",
     "Confidence": 0.9429324
-  },
-  {
-    "Title": "I told them forced consent was unlawful. Five years later it cost Elkjop €1.8 million — That Privacy Guy!",
-    "Url": "https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/",
-    "Timestamp": "2026-06-19T03:02:43",
-    "Domain": "www.thatprivacyguy.com",
-    "Description": "Datatilsynet just fined Elkjop NOK 20 million (€1.8m) for the forced consent in its loyalty club — five years after I told their DPO it was unlawful.",
-    "Confidence": 0.88625216
   }
 ]

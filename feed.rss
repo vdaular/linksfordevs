@@ -7,6 +7,22 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Side Effect</title>
+      <link>https://xkcd.com/3261/</link>
+      <description></description>
+      <category>apple</category>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3261/</guid>
+      <pubDate>Sat, 20 Jun 2026 03:02:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Court Records Should Be Free</title>
+      <link>https://www.eff.org/deeplinks/2026/06/court-records-should-be-free</link>
+      <description>Court records belong to the public. Yet anyone seeking access to federal court filings through PACER, a government software system that stands for Public Access to Court Electronic Records, is usually required to pay hefty fees to search for and view documents. PACER’s fees have long acted as a...</description>
+      <guid>https://www.eff.org/deeplinks/2026/06/court-records-should-be-free</guid>
+      <pubDate>Sat, 20 Jun 2026 03:02:36 GMT</pubDate>
+    </item>
+    <item>
       <title>There Are No Instances in atproto — overreacted</title>
       <link>https://overreacted.io/there-are-no-instances-in-atproto/</link>
       <description>Like RSS and Google Reader.</description>
@@ -184,14 +200,6 @@ how i accidentally got into hardware development</description>
       <category>ai</category>
       <guid>https://www.intheweights.com/</guid>
       <pubDate>Fri, 19 Jun 2026 07:02:04 GMT</pubDate>
-    </item>
-    <item>
-      <title>I told them forced consent was unlawful. Five years later it cost Elkjop €1.8 million — That Privacy Guy!</title>
-      <link>https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/</link>
-      <description>Datatilsynet just fined Elkjop NOK 20 million (€1.8m) for the forced consent in its loyalty club — five years after I told their DPO it was unlawful.</description>
-      <author> (Alexander Hanff)</author>
-      <guid>https://www.thatprivacyguy.com/blog/elkjop-forced-consent-fine/</guid>
-      <pubDate>Fri, 19 Jun 2026 03:02:43 GMT</pubDate>
     </item>
   </channel>
 </rss>
