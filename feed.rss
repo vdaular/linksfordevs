@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The Wholesale Plagiarism of Obscure Sorrows - Waxy.org</title>
+      <link>https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/</link>
+      <description>Without permission, a marketing agency republished the entirety of John Koenig's Dictionary of Obscure Sorrows book, replacing its art with AI slop and adding new AI words. Their unauthorized site now ranks higher than the real one everywhere.</description>
+      <category>gaming</category>
+      <category>ai</category>
+      <guid>https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/</guid>
+      <pubDate>Sat, 20 Jun 2026 23:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>I Stored a Website in a Favicon</title>
       <link>https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/</link>
       <description>Words from me as developer, student and human.</description>
@@ -62,170 +71,6 @@
       <description>Court records belong to the public. Yet anyone seeking access to federal court filings through PACER, a government software system that stands for Public Access to Court Electronic Records, is usually required to pay hefty fees to search for and view documents. PACER’s fees have long acted as a...</description>
       <guid>https://www.eff.org/deeplinks/2026/06/court-records-should-be-free</guid>
       <pubDate>Sat, 20 Jun 2026 03:02:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>There Are No Instances in atproto — overreacted</title>
-      <link>https://overreacted.io/there-are-no-instances-in-atproto/</link>
-      <description>Like RSS and Google Reader.</description>
-      <guid>https://overreacted.io/there-are-no-instances-in-atproto/</guid>
-      <pubDate>Fri, 19 Jun 2026 23:03:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Comparison is a con</title>
-      <link>https://www.joanwestenberg.com/p/comparison-is-a-con</link>
-      <description>The most important thing I've done isn't on my CV</description>
-      <category>gaming</category>
-      <guid>https://www.joanwestenberg.com/p/comparison-is-a-con</guid>
-      <pubDate>Fri, 19 Jun 2026 23:03:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>"Optimizing" concurrent regexes</title>
-      <link>https://ayende.com/blog/204035-a/optimizing-concurrent-regexes</link>
-      <description>I am looking into some regex work, and I ran into a performance problem. I need to run a particular regex over a large number (millions) of strings. That cau...</description>
-      <guid>https://ayende.com/blog/204035-a/optimizing-concurrent-regexes</guid>
-      <pubDate>Fri, 19 Jun 2026 23:03:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Status Is a Distributed System</title>
-      <link>https://blog.victorbona.dev/blog/status-is-a-distributed-system</link>
-      <description>Why deployment status is not a UI label, but a consistency problem across databases, queues, workers, locks, reconcilers, Kubernetes, and user trust.</description>
-      <author> (Victor Bona)</author>
-      <category>containers</category>
-      <category>git</category>
-      <guid>https://blog.victorbona.dev/blog/status-is-a-distributed-system</guid>
-      <pubDate>Fri, 19 Jun 2026 23:03:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>adding face tracking to my pico
-4</title>
-      <link>https://www.kitsu.red/blog/2025-08-06-face-tracking-for-pico-4</link>
-      <description>and
-how i accidentally got into hardware development</description>
-      <author> (https://www.kitsu.red)</author>
-      <category>gaming</category>
-      <guid>https://www.kitsu.red/blog/2025-08-06-face-tracking-for-pico-4</guid>
-      <pubDate>Fri, 19 Jun 2026 23:03:00 GMT</pubDate>
-    </item>
-    <item>
-      <title>Hyundai takes full control of Boston Dynamics as SoftBank exits for $325 million - Startup Fortune</title>
-      <link>https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/</link>
-      <description>Hyundai Motor Group is acquiring SoftBank's remaining 9.65% stake in Boston Dynamics for $325 million, completing its full ownership of the robotics</description>
-      <category>git</category>
-      <category>ai</category>
-      <category>youtube</category>
-      <guid>https://startupfortune.com/hyundai-takes-full-control-of-boston-dynamics-as-softbank-exits-for-325-million/</guid>
-      <pubDate>Fri, 19 Jun 2026 23:02:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>My agentic engineering workflow (step by step) | Shreyas</title>
-      <link>https://shreyasprakash.com/my-agentic-engineering-workflow/</link>
-      <description>My agentic engineering workflow has changed in the recent past, the models are better, there is much more freedom in choosing the harness, selecting the abilities and actions you could provide. - Pre-planning, pre-idea, pre-everything - The first chat with the agents - The first chat on the terminal - Setting up the Opencode environment - Doing Light research, deep research - Model choices while...</description>
-      <author> (Shreyas Prakash)</author>
-      <category>web</category>
-      <category>ai</category>
-      <category>cloud</category>
-      <guid>https://shreyasprakash.com/my-agentic-engineering-workflow/</guid>
-      <pubDate>Fri, 19 Jun 2026 23:02:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI Engineer Claims to Have Cracked Linear A</title>
-      <link>https://aiclambake.com/clamtakes/linear-a/</link>
-      <description>AI Engineer Claims to Have Cracked Linear A</description>
-      <category>ai</category>
-      <category>python</category>
-      <guid>https://aiclambake.com/clamtakes/linear-a/</guid>
-      <pubDate>Fri, 19 Jun 2026 23:02:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Self-improving agents still need humans</title>
-      <link>https://douwe.com/blog/2026/0619/</link>
-      <description>Terminal-bench-style scores are tempting progress numbers and very easy to overfit. Used carefully, though, they are a pile of bug reports. goose's Harbor tooling made it cheap to run, pull, compare and explain failures, which led to two small fixes: turn awareness and reading images from disk again.</description>
-      <category>python</category>
-      <category>containers</category>
-      <category>git</category>
-      <category>javascript</category>
-      <category>linux</category>
-      <guid>https://douwe.com/blog/2026/0619/</guid>
-      <pubDate>Fri, 19 Jun 2026 23:02:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>How four years at a startup changed the way I work - Diogo Moreira</title>
-      <link>https://diogomr.com/posts/how-four-years-at-a-startup-changed-the-way-i-work/</link>
-      <description>Reflections on my time at Amplemarket</description>
-      <author> (https://diogomr.com/about)</author>
-      <category>ruby</category>
-      <guid>https://diogomr.com/posts/how-four-years-at-a-startup-changed-the-way-i-work/</guid>
-      <pubDate>Fri, 19 Jun 2026 23:02:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>I Replaced JSON With a Custom Binary Format. In PHP. :: Tom J.</title>
-      <link>https://tomj.pro/i-replaced-json-with-a-custom-binary-format-in-php/</link>
-      <description>We need to store rich text used for web, apps, UIs and editable in editor.Long time ago, it started as pure HTML in DB. When we wanted to split editing and printing, we opted for JSON.But now we want to manipulate data inside effectively. And there, we decided to create a binary format.It proved to be faster, smaller and easier to change.</description>
-      <category>web</category>
-      <category>ides</category>
-      <category>javascript</category>
-      <guid>https://tomj.pro/i-replaced-json-with-a-custom-binary-format-in-php/</guid>
-      <pubDate>Fri, 19 Jun 2026 23:02:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Rethinking modularity in Ruby applications</title>
-      <link>https://noteflakes.com/articles/2026-06-18-syntropy-modules</link>
-      <description>Rethinking modularity in Ruby applications - Noteflakes</description>
-      <category>ruby</category>
-      <category>web</category>
-      <guid>https://noteflakes.com/articles/2026-06-18-syntropy-modules</guid>
-      <pubDate>Fri, 19 Jun 2026 23:02:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Google workspace threatening to block firefox access</title>
-      <link>https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html</link>
-      <description>Google workspace threatening to block firefox</description>
-      <category>apple</category>
-      <category>encryption</category>
-      <category>android</category>
-      <category>javascript</category>
-      <category>web</category>
-      <guid>https://tales.fromprod.com/2026/169/google-workspace-threatening-to-block-firefox.html</guid>
-      <pubDate>Fri, 19 Jun 2026 23:02:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>My Mathematical Regression</title>
-      <link>https://blog.dahl.dev/posts/my-mathematical-regression/</link>
-      <description>i become stupid</description>
-      <category>python</category>
-      <category>ai</category>
-      <guid>https://blog.dahl.dev/posts/my-mathematical-regression/</guid>
-      <pubDate>Fri, 19 Jun 2026 23:02:21 GMT</pubDate>
-    </item>
-    <item>
-      <title>How I turned World Cup data into posters</title>
-      <link>https://zehfernandes.com/posts/how-i-turned-world-cup-data-into-posters</link>
-      <description>How I turned World Cup match data into organic, painting-like posters: a breakdown of the data, the chrono-grid, the brush strokes, and the gravity fields behind GenCup 2026.</description>
-      <category>web</category>
-      <category>javascript</category>
-      <category>gaming</category>
-      <guid>https://zehfernandes.com/posts/how-i-turned-world-cup-data-into-posters</guid>
-      <pubDate>Fri, 19 Jun 2026 23:02:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Wrong End of the Problem</title>
-      <link>https://schrottner.at/2026/06/18/The-Wrong-End-of-the-Problem.html</link>
-      <description>Every company wants AI in their development process right now. That part is clear. What’s less clear is where they’re putting it.</description>
-      <category>ai</category>
-      <category>web</category>
-      <guid>https://schrottner.at/2026/06/18/The-Wrong-End-of-the-Problem.html</guid>
-      <pubDate>Fri, 19 Jun 2026 23:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Line Vibe Coding Can't Cross</title>
-      <link>https://blog.r-lopes.com/newsletter/2026-06-18</link>
-      <description>2026-06-18 (Thu) · Thematic brief — blog.r-lopes.com</description>
-      <author> (Rafael Lopes)</author>
-      <category>ai</category>
-      <category>javascript</category>
-      <category>encryption</category>
-      <guid>https://blog.r-lopes.com/newsletter/2026-06-18</guid>
-      <pubDate>Fri, 19 Jun 2026 23:02:10 GMT</pubDate>
     </item>
   </channel>
 </rss>
