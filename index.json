@@ -1,5 +1,21 @@
 [
   {
+    "Title": "A New Bill Takes Aim at Government Pressure to Silence Lawful Online Speech",
+    "Url": "https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech",
+    "Timestamp": "2026-06-20T07:02:15",
+    "Domain": "www.eff.org",
+    "Description": "The bipartisan legislation creates a federal cause of action against government officials who coerce or attempt to coerce broadcasters, interactive computer services, or AI providers into taking actions against lawful, First-Amendment-protected speech, and establishes a transparency system for government communications with those intermediaries about user expression.",
+    "Confidence": 0.74048436
+  },
+  {
+    "Title": "I know Kung-fu",
+    "Url": "https://idiallo.com/blog/i-know-kung-fu",
+    "Timestamp": "2026-06-20T07:02:12",
+    "Domain": "idiallo.com",
+    "Description": "Remember that scene in the Matrix where Neo is strapped into the chair and Link uploads all sorts of martial arts into his mind? When Neo wakes up, he says \"I know Kung-fu,\" then proceeds to demonstra",
+    "Confidence": 0.9310327
+  },
+  {
     "Title": "Side Effect",
     "Url": "https://xkcd.com/3261/",
     "Timestamp": "2026-06-20T03:02:39",
@@ -158,13 +174,5 @@
     "Domain": "www.jvm-weekly.com",
     "Description": "The new JVM Weekly is here... and Ragnarok seems to come, as we finally have Valhalla in the JDK. However, situation is a bit... nuanced.",
     "Confidence": 0.9860745
-  },
-  {
-    "Title": "IN THE WEIGHTS",
-    "Url": "https://www.intheweights.com/",
-    "Timestamp": "2026-06-19T07:02:04",
-    "Domain": "www.intheweights.com",
-    "Description": "The weights are the billions of numbers forming an AI's brain. Type a name and see how strongly the leading AI models recognize it. Are you in the weights?",
-    "Confidence": 0.9429324
   }
 ]

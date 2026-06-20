@@ -7,6 +7,24 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>A New Bill Takes Aim at Government Pressure to Silence Lawful Online Speech</title>
+      <link>https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech</link>
+      <description>The bipartisan legislation creates a federal cause of action against government officials who coerce or attempt to coerce broadcasters, interactive computer services, or AI providers into taking actions against lawful, First-Amendment-protected speech, and establishes a transparency system for government communications with those intermediaries about user expression.</description>
+      <category>apple</category>
+      <category>ai</category>
+      <guid>https://www.eff.org/deeplinks/2026/06/new-bill-takes-aim-government-pressure-silence-lawful-online-speech</guid>
+      <pubDate>Sat, 20 Jun 2026 07:02:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>I know Kung-fu</title>
+      <link>https://idiallo.com/blog/i-know-kung-fu</link>
+      <description>Remember that scene in the Matrix where Neo is strapped into the chair and Link uploads all sorts of martial arts into his mind? When Neo wakes up, he says "I know Kung-fu," then proceeds to demonstra</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://idiallo.com/blog/i-know-kung-fu</guid>
+      <pubDate>Sat, 20 Jun 2026 07:02:12 GMT</pubDate>
+    </item>
+    <item>
       <title>Side Effect</title>
       <link>https://xkcd.com/3261/</link>
       <description></description>
@@ -192,14 +210,6 @@ how i accidentally got into hardware development</description>
       <description>The new JVM Weekly is here... and Ragnarok seems to come, as we finally have Valhalla in the JDK. However, situation is a bit... nuanced.</description>
       <guid>https://www.jvm-weekly.com/p/project-valhalla-explained-how-a</guid>
       <pubDate>Fri, 19 Jun 2026 15:02:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>IN THE WEIGHTS</title>
-      <link>https://www.intheweights.com/</link>
-      <description>The weights are the billions of numbers forming an AI's brain. Type a name and see how strongly the leading AI models recognize it. Are you in the weights?</description>
-      <category>ai</category>
-      <guid>https://www.intheweights.com/</guid>
-      <pubDate>Fri, 19 Jun 2026 07:02:04 GMT</pubDate>
     </item>
   </channel>
 </rss>
