@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Windows 11's New Media Player Uses 3.5x More RAM, Charges for Popular Video Codecs</title>
+      <link>https://www.extremetech.com/computing/windows-11s-new-media-player-uses-35x-more-ram-charges-for-popular-video</link>
+      <description>It replaces Groove Music and the classic Windows Media Player.</description>
+      <author> (Devesh Beri)</author>
+      <guid>https://www.extremetech.com/computing/windows-11s-new-media-player-uses-35x-more-ram-charges-for-popular-video</guid>
+      <pubDate>Sun, 21 Jun 2026 03:02:26 GMT</pubDate>
+    </item>
+    <item>
       <title>The Wholesale Plagiarism of Obscure Sorrows - Waxy.org</title>
       <link>https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/</link>
       <description>Without permission, a marketing agency republished the entirety of John Koenig's Dictionary of Obscure Sorrows book, replacing its art with AI slop and adding new AI words. Their unauthorized site now ranks higher than the real one everywhere.</description>
@@ -55,22 +63,6 @@
       <category>gaming</category>
       <guid>https://idiallo.com/blog/i-know-kung-fu</guid>
       <pubDate>Sat, 20 Jun 2026 07:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Side Effect</title>
-      <link>https://xkcd.com/3261/</link>
-      <description></description>
-      <category>apple</category>
-      <category>javascript</category>
-      <guid>https://xkcd.com/3261/</guid>
-      <pubDate>Sat, 20 Jun 2026 03:02:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Court Records Should Be Free</title>
-      <link>https://www.eff.org/deeplinks/2026/06/court-records-should-be-free</link>
-      <description>Court records belong to the public. Yet anyone seeking access to federal court filings through PACER, a government software system that stands for Public Access to Court Electronic Records, is usually required to pay hefty fees to search for and view documents. PACER’s fees have long acted as a...</description>
-      <guid>https://www.eff.org/deeplinks/2026/06/court-records-should-be-free</guid>
-      <pubDate>Sat, 20 Jun 2026 03:02:36 GMT</pubDate>
     </item>
   </channel>
 </rss>

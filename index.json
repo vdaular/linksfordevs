@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Windows 11's New Media Player Uses 3.5x More RAM, Charges for Popular Video Codecs",
+    "Url": "https://www.extremetech.com/computing/windows-11s-new-media-player-uses-35x-more-ram-charges-for-popular-video",
+    "Timestamp": "2026-06-21T03:02:26",
+    "Domain": "www.extremetech.com",
+    "Description": "It replaces Groove Music and the classic Windows Media Player.",
+    "Confidence": 0.9637033
+  },
+  {
     "Title": "The Wholesale Plagiarism of Obscure Sorrows - Waxy.org",
     "Url": "https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/",
     "Timestamp": "2026-06-20T23:02:08",
@@ -46,21 +54,5 @@
     "Domain": "idiallo.com",
     "Description": "Remember that scene in the Matrix where Neo is strapped into the chair and Link uploads all sorts of martial arts into his mind? When Neo wakes up, he says \"I know Kung-fu,\" then proceeds to demonstra",
     "Confidence": 0.9310327
-  },
-  {
-    "Title": "Side Effect",
-    "Url": "https://xkcd.com/3261/",
-    "Timestamp": "2026-06-20T03:02:39",
-    "Domain": "xkcd.com",
-    "Description": "",
-    "Confidence": 0.98151064
-  },
-  {
-    "Title": "Court Records Should Be Free",
-    "Url": "https://www.eff.org/deeplinks/2026/06/court-records-should-be-free",
-    "Timestamp": "2026-06-20T03:02:36",
-    "Domain": "www.eff.org",
-    "Description": "Court records belong to the public. Yet anyone seeking access to federal court filings through PACER, a government software system that stands for Public Access to Court Electronic Records, is usually required to pay hefty fees to search for and view documents. PACER’s fees have long acted as a...",
-    "Confidence": 0.5074139
   }
 ]
