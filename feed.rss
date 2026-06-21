@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>SMPTE Makes Its Standards Freely Accessible, Opening Standards Library to the Global Media Technology Community</title>
+      <link>https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community</link>
+      <description>WHITE PLAINS, N.Y. — June 17, 2026 — SMPTE®, the home of media professionals, technologists and engineers, has announced that its entire Standards catalog is now freely available to the global media technology community. </description>
+      <category>cloud</category>
+      <category>git</category>
+      <category>apple</category>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community</guid>
+      <pubDate>Sun, 21 Jun 2026 11:02:00 GMT</pubDate>
+    </item>
+    <item>
       <title>Manifest V2 is leaving Chrome</title>
       <link>https://irbis.sh/blog/manifest-v2-chrome</link>
       <description>Manifest V3 weakens ad blockers in Chrome. The real technical losses, Google's incentives, and how to retain full filtering.</description>
