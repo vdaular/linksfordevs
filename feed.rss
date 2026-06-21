@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Beyond All Reason ★ RTS</title>
+      <link>https://www.beyondallreason.info/</link>
+      <description>Beyond All Reason is the ultimate epic-scale RTS game for Windows and Linux. Command colossal armies in battles with thousands of units in fully simulated environments. Wage war across land, sea, and air with 2 factions and 400 unique units. Enjoy skirmishes, scenarios, co-op, and multiplayer matches. Play for FREE now!</description>
+      <category>gaming</category>
+      <guid>https://www.beyondallreason.info/</guid>
+      <pubDate>Sun, 21 Jun 2026 19:02:26 GMT</pubDate>
+    </item>
+    <item>
       <title>Developers don't understand CORS</title>
       <link>https://fosterelli.co/developers-dont-understand-cors</link>
       <description>The recent Zoom vulnerability is just one of many examples which show us that many developers do not understand how CORS works </description>
@@ -436,22 +444,6 @@ Drawing files on this page:
       <category>ai</category>
       <guid>https://waxy.org/2026/06/the-wholesale-plagiarism-of-obscure-sorrows/</guid>
       <pubDate>Sat, 20 Jun 2026 23:02:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>I Stored a Website in a Favicon</title>
-      <link>https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/</link>
-      <description>Words from me as developer, student and human.</description>
-      <category>javascript</category>
-      <category>web</category>
-      <guid>https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/</guid>
-      <pubDate>Sat, 20 Jun 2026 19:02:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>cssQuake - Play Quake in Your Browser</title>
-      <link>https://cssquake.com/</link>
-      <description>Play Quake in your browser with no install. cssQuake renders the game as inspectable HTML and CSS powered by PolyCSS.</description>
-      <guid>https://cssquake.com/</guid>
-      <pubDate>Sat, 20 Jun 2026 19:02:23 GMT</pubDate>
     </item>
   </channel>
 </rss>

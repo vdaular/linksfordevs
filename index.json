@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Beyond All Reason ★ RTS",
+    "Url": "https://www.beyondallreason.info/",
+    "Timestamp": "2026-06-21T19:02:26",
+    "Domain": "www.beyondallreason.info",
+    "Description": "Beyond All Reason is the ultimate epic-scale RTS game for Windows and Linux. Command colossal armies in battles with thousands of units in fully simulated environments. Wage war across land, sea, and air with 2 factions and 400 unique units. Enjoy skirmishes, scenarios, co-op, and multiplayer matches. Play for FREE now!",
+    "Confidence": 0.8963157
+  },
+  {
     "Title": "Developers don't understand CORS",
     "Url": "https://fosterelli.co/developers-dont-understand-cors",
     "Timestamp": "2026-06-21T15:02:47",
@@ -158,21 +166,5 @@
     "Domain": "waxy.org",
     "Description": "Without permission, a marketing agency republished the entirety of John Koenig's Dictionary of Obscure Sorrows book, replacing its art with AI slop and adding new AI words. Their unauthorized site now ranks higher than the real one everywhere.",
     "Confidence": 0.7346108
-  },
-  {
-    "Title": "I Stored a Website in a Favicon",
-    "Url": "https://www.timwehrle.de/blog/i-stored-a-website-in-a-favicon/",
-    "Timestamp": "2026-06-20T19:02:28",
-    "Domain": "www.timwehrle.de",
-    "Description": "Words from me as developer, student and human.",
-    "Confidence": 0.98963034
-  },
-  {
-    "Title": "cssQuake - Play Quake in Your Browser",
-    "Url": "https://cssquake.com/",
-    "Timestamp": "2026-06-20T19:02:23",
-    "Domain": "cssquake.com",
-    "Description": "Play Quake in your browser with no install. cssQuake renders the game as inspectable HTML and CSS powered by PolyCSS.",
-    "Confidence": 0.7940012
   }
 ]
