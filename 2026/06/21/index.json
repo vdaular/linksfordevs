@@ -1,5 +1,40 @@
 [
   {
+    "Title": "Developers don't understand CORS",
+    "Url": "https://fosterelli.co/developers-dont-understand-cors",
+    "Timestamp": "2026-06-21T15:02:47",
+    "Domain": "fosterelli.co",
+    "Description": "The recent Zoom vulnerability is just one of many examples which show us that many developers do not understand how CORS works "
+  },
+  {
+    "Title": "Your brain was never designed for this much bad news",
+    "Url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
+    "Timestamp": "2026-06-21T15:02:44",
+    "Domain": "www.sciencedaily.com",
+    "Description": "Humans evolved to pay close attention to danger, but today that instinct is being overwhelmed by an endless supply of bad news from around the world. Researchers say the answer isn’t to stop following current events—it’s to build healthier habits around how, when, and where we get our news."
+  },
+  {
+    "Title": "Slow breathing impacts inter-organ dynamics modulating brain function and risk behavior",
+    "Url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
+    "Timestamp": "2026-06-21T15:02:40",
+    "Domain": "www.cell.com",
+    "Description": "Huang et al. show that prolonged exhalation increases risky decisions by enhancing\nreward sensitivity and cardiac parasympathetic activity. Individuals with greater\nparasympathetic upregulation exhibit stronger reward-related responses in the vmPFC\nand precuneus, revealing a neurovisceral pathway linking breathing, autonomic regulation,\nand value-based decision-making."
+  },
+  {
+    "Title": "Linux Finally Eliminates The strncpy API After Six Years Of Work, 360+ Patches",
+    "Url": "https://www.phoronix.com/news/Linux-7.2-Drops-strncpy",
+    "Timestamp": "2026-06-21T15:02:35",
+    "Domain": "www.phoronix.com",
+    "Description": "Linux 7.2 has finally eliminated the strncpy API from the Linux kernel"
+  },
+  {
+    "Title": "Google hits 50% IPv6 | APNIC Blog",
+    "Url": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
+    "Timestamp": "2026-06-21T15:02:31",
+    "Domain": "blog.apnic.net",
+    "Description": "IPv6 has reached a major milestone, with around half of Google’s users now accessing its services over IPv6."
+  },
+  {
     "Title": "SMPTE Makes Its Standards Freely Accessible, Opening Standards Library to the Global Media Technology Community",
     "Url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
     "Timestamp": "2026-06-21T11:02:00",

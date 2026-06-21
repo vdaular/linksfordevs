@@ -7,6 +7,51 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Developers don't understand CORS</title>
+      <link>https://fosterelli.co/developers-dont-understand-cors</link>
+      <description>The recent Zoom vulnerability is just one of many examples which show us that many developers do not understand how CORS works </description>
+      <category>javascript</category>
+      <guid>https://fosterelli.co/developers-dont-understand-cors</guid>
+      <pubDate>Sun, 21 Jun 2026 15:02:47 GMT</pubDate>
+    </item>
+    <item>
+      <title>Your brain was never designed for this much bad news</title>
+      <link>https://www.sciencedaily.com/releases/2026/06/260614012006.htm</link>
+      <description>Humans evolved to pay close attention to danger, but today that instinct is being overwhelmed by an endless supply of bad news from around the world. Researchers say the answer isn’t to stop following current events—it’s to build healthier habits around how, when, and where we get our news.</description>
+      <guid>https://www.sciencedaily.com/releases/2026/06/260614012006.htm</guid>
+      <pubDate>Sun, 21 Jun 2026 15:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Slow breathing impacts inter-organ dynamics modulating brain function and risk behavior</title>
+      <link>https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9</link>
+      <description>Huang et al. show that prolonged exhalation increases risky decisions by enhancing
+reward sensitivity and cardiac parasympathetic activity. Individuals with greater
+parasympathetic upregulation exhibit stronger reward-related responses in the vmPFC
+and precuneus, revealing a neurovisceral pathway linking breathing, autonomic regulation,
+and value-based decision-making.</description>
+      <category>ai</category>
+      <category>git</category>
+      <category>dotnet</category>
+      <guid>https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9</guid>
+      <pubDate>Sun, 21 Jun 2026 15:02:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>Linux Finally Eliminates The strncpy API After Six Years Of Work, 360+ Patches</title>
+      <link>https://www.phoronix.com/news/Linux-7.2-Drops-strncpy</link>
+      <description>Linux 7.2 has finally eliminated the strncpy API from the Linux kernel</description>
+      <category>linux</category>
+      <guid>https://www.phoronix.com/news/Linux-7.2-Drops-strncpy</guid>
+      <pubDate>Sun, 21 Jun 2026 15:02:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Google hits 50% IPv6 | APNIC Blog</title>
+      <link>https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/</link>
+      <description>IPv6 has reached a major milestone, with around half of Google’s users now accessing its services over IPv6.</description>
+      <category>git</category>
+      <guid>https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/</guid>
+      <pubDate>Sun, 21 Jun 2026 15:02:31 GMT</pubDate>
+    </item>
+    <item>
       <title>SMPTE Makes Its Standards Freely Accessible, Opening Standards Library to the Global Media Technology Community</title>
       <link>https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community</link>
       <description>WHITE PLAINS, N.Y. — June 17, 2026 — SMPTE®, the home of media professionals, technologists and engineers, has announced that its entire Standards catalog is now freely available to the global media technology community. </description>
@@ -407,13 +452,6 @@ Drawing files on this page:
       <description>Play Quake in your browser with no install. cssQuake renders the game as inspectable HTML and CSS powered by PolyCSS.</description>
       <guid>https://cssquake.com/</guid>
       <pubDate>Sat, 20 Jun 2026 19:02:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Where to Find the Colors Your Screen Can’t Show You</title>
-      <link>https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/</link>
-      <description>An atlas of the vibrance of the real world</description>
-      <guid>https://moultano.wordpress.com/2026/06/19/where-to-find-the-colors-your-screen-cant-show-you/</guid>
-      <pubDate>Sat, 20 Jun 2026 15:02:12 GMT</pubDate>
     </item>
   </channel>
 </rss>
