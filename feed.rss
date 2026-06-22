@@ -7,6 +7,18 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Desktop apps</title>
+      <link>https://docs.deno.com/runtime/desktop/</link>
+      <description>Build self-contained desktop applications from a Deno project, with framework auto-detection, hot reload, native windowing, auto-update, and cross-platform distribution.</description>
+      <category>typescript</category>
+      <category>cloud</category>
+      <category>linux</category>
+      <category>javascript</category>
+      <category>web</category>
+      <guid>https://docs.deno.com/runtime/desktop/</guid>
+      <pubDate>Mon, 22 Jun 2026 11:02:11 GMT</pubDate>
+    </item>
+    <item>
       <title>Everything you say CAN and WILL be used against you</title>
       <link>https://idiallo.com/blog/the-right-to-remain-silent</link>
       <description>- "If you talk to me, I'll punch you in the face, are you ok with talking with me?"
@@ -205,18 +217,6 @@ and value-based decision-making.</description>
       <category>git</category>
       <guid>https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/</guid>
       <pubDate>Sun, 21 Jun 2026 15:02:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>SMPTE Makes Its Standards Freely Accessible, Opening Standards Library to the Global Media Technology Community</title>
-      <link>https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community</link>
-      <description>WHITE PLAINS, N.Y. — June 17, 2026 — SMPTE®, the home of media professionals, technologists and engineers, has announced that its entire Standards catalog is now freely available to the global media technology community. </description>
-      <category>cloud</category>
-      <category>git</category>
-      <category>apple</category>
-      <category>ai</category>
-      <category>web</category>
-      <guid>https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community</guid>
-      <pubDate>Sun, 21 Jun 2026 11:02:00 GMT</pubDate>
     </item>
   </channel>
 </rss>

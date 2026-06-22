@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Desktop apps",
+    "Url": "https://docs.deno.com/runtime/desktop/",
+    "Timestamp": "2026-06-22T11:02:11",
+    "Domain": "docs.deno.com",
+    "Description": "Build self-contained desktop applications from a Deno project, with framework auto-detection, hot reload, native windowing, auto-update, and cross-platform distribution.",
+    "Confidence": 0.9968389
+  },
+  {
     "Title": "Everything you say CAN and WILL be used against you",
     "Url": "https://idiallo.com/blog/the-right-to-remain-silent",
     "Timestamp": "2026-06-22T07:02:13",
@@ -174,13 +182,5 @@
     "Domain": "blog.apnic.net",
     "Description": "IPv6 has reached a major milestone, with around half of Google’s users now accessing its services over IPv6.",
     "Confidence": 0.9617139
-  },
-  {
-    "Title": "SMPTE Makes Its Standards Freely Accessible, Opening Standards Library to the Global Media Technology Community",
-    "Url": "https://www.smpte.org/blog/smpte-makes-its-standards-freely-accessible-openingstandards-library-to-the-global-media-technology-community",
-    "Timestamp": "2026-06-21T11:02:00",
-    "Domain": "www.smpte.org",
-    "Description": "WHITE PLAINS, N.Y. — June 17, 2026 — SMPTE®, the home of media professionals, technologists and engineers, has announced that its entire Standards catalog is now freely available to the global media technology community. ",
-    "Confidence": 0.6768315
   }
 ]
