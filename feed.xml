@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Happy Father's Day.</title>
+      <link>https://idiallo.com/byte-size/happy-fathers-day-2026</link>
+      <description>An Ode to my father. The man who shaped me into who I am today. I hope I can one day fill half his shoes. For now, I'll remember him for the giant he was.</description>
+      <category>ai</category>
+      <guid>https://idiallo.com/byte-size/happy-fathers-day-2026</guid>
+      <pubDate>Mon, 22 Jun 2026 03:02:37 GMT</pubDate>
+    </item>
+    <item>
       <title>Why I Moved from Arch to Boring Debian Testing | WhileForLoop</title>
       <link>https://www.whileforloop.com/blog/2026/06/20/why-i-moved-from-arch-to-debian-testing/</link>
       <description>The recent AUR incident did not make Arch unusable, but it changed how I think about trust, package sources, and the amount of maintenance I want from my desktop.</description>
@@ -547,14 +555,6 @@ Drawing files on this page:
       <category>ai</category>
       <guid>https://andrewngo.dev/writing/the-limits-of-takeoff-automation</guid>
       <pubDate>Sun, 21 Jun 2026 07:02:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>Windows 11's New Media Player Uses 3.5x More RAM, Charges for Popular Video Codecs</title>
-      <link>https://www.extremetech.com/computing/windows-11s-new-media-player-uses-35x-more-ram-charges-for-popular-video</link>
-      <description>It replaces Groove Music and the classic Windows Media Player.</description>
-      <author> (Devesh Beri)</author>
-      <guid>https://www.extremetech.com/computing/windows-11s-new-media-player-uses-35x-more-ram-charges-for-popular-video</guid>
-      <pubDate>Sun, 21 Jun 2026 03:02:26 GMT</pubDate>
     </item>
   </channel>
 </rss>

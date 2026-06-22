@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Happy Father's Day.",
+    "Url": "https://idiallo.com/byte-size/happy-fathers-day-2026",
+    "Timestamp": "2026-06-22T03:02:37",
+    "Domain": "idiallo.com",
+    "Description": "An Ode to my father. The man who shaped me into who I am today. I hope I can one day fill half his shoes. For now, I'll remember him for the giant he was.",
+    "Confidence": 0.9720425
+  },
+  {
     "Title": "Why I Moved from Arch to Boring Debian Testing | WhileForLoop",
     "Url": "https://www.whileforloop.com/blog/2026/06/20/why-i-moved-from-arch-to-debian-testing/",
     "Timestamp": "2026-06-21T23:03:19",
@@ -254,13 +262,5 @@
     "Domain": "andrewngo.dev",
     "Description": "An empirical case study on the accuracy ceiling of vision-language models on real Australian construction takeoff. Given everything but the final numbers, a Claude Opus 4.7 / Sonnet 4.6 extractor peaked at 77.5%: because the per-job billing conventions that decide a takeoff are not present in the drawings.",
     "Confidence": 0.9296704
-  },
-  {
-    "Title": "Windows 11's New Media Player Uses 3.5x More RAM, Charges for Popular Video Codecs",
-    "Url": "https://www.extremetech.com/computing/windows-11s-new-media-player-uses-35x-more-ram-charges-for-popular-video",
-    "Timestamp": "2026-06-21T03:02:26",
-    "Domain": "www.extremetech.com",
-    "Description": "It replaces Groove Music and the classic Windows Media Player.",
-    "Confidence": 0.9637033
   }
 ]
