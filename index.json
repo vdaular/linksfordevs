@@ -1,5 +1,13 @@
 [
   {
+    "Title": "GLM-5.2 vs Claude Opus | Tech Stackups",
+    "Url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
+    "Timestamp": "2026-06-22T15:02:43",
+    "Domain": "techstackups.com",
+    "Description": "Is the GLM-5.2 hype real or benchmaxxed? We ran it head-to-head against Claude Opus, building a 3D platformer in raw WebGL from scratch.",
+    "Confidence": 0.92882997
+  },
+  {
     "Title": "Desktop apps",
     "Url": "https://docs.deno.com/runtime/desktop/",
     "Timestamp": "2026-06-22T11:02:11",
@@ -142,45 +150,5 @@
     "Domain": "www.beyondallreason.info",
     "Description": "Beyond All Reason is the ultimate epic-scale RTS game for Windows and Linux. Command colossal armies in battles with thousands of units in fully simulated environments. Wage war across land, sea, and air with 2 factions and 400 unique units. Enjoy skirmishes, scenarios, co-op, and multiplayer matches. Play for FREE now!",
     "Confidence": 0.8963157
-  },
-  {
-    "Title": "Developers don't understand CORS",
-    "Url": "https://fosterelli.co/developers-dont-understand-cors",
-    "Timestamp": "2026-06-21T15:02:47",
-    "Domain": "fosterelli.co",
-    "Description": "The recent Zoom vulnerability is just one of many examples which show us that many developers do not understand how CORS works ",
-    "Confidence": 0.99762106
-  },
-  {
-    "Title": "Your brain was never designed for this much bad news",
-    "Url": "https://www.sciencedaily.com/releases/2026/06/260614012006.htm",
-    "Timestamp": "2026-06-21T15:02:44",
-    "Domain": "www.sciencedaily.com",
-    "Description": "Humans evolved to pay close attention to danger, but today that instinct is being overwhelmed by an endless supply of bad news from around the world. Researchers say the answer isn’t to stop following current events—it’s to build healthier habits around how, when, and where we get our news.",
-    "Confidence": 0.51233685
-  },
-  {
-    "Title": "Slow breathing impacts inter-organ dynamics modulating brain function and risk behavior",
-    "Url": "https://www.cell.com/neuron/fulltext/S0896-6273(26)00339-9",
-    "Timestamp": "2026-06-21T15:02:40",
-    "Domain": "www.cell.com",
-    "Description": "Huang et al. show that prolonged exhalation increases risky decisions by enhancing\nreward sensitivity and cardiac parasympathetic activity. Individuals with greater\nparasympathetic upregulation exhibit stronger reward-related responses in the vmPFC\nand precuneus, revealing a neurovisceral pathway linking breathing, autonomic regulation,\nand value-based decision-making.",
-    "Confidence": 0.9703139
-  },
-  {
-    "Title": "Linux Finally Eliminates The strncpy API After Six Years Of Work, 360+ Patches",
-    "Url": "https://www.phoronix.com/news/Linux-7.2-Drops-strncpy",
-    "Timestamp": "2026-06-21T15:02:35",
-    "Domain": "www.phoronix.com",
-    "Description": "Linux 7.2 has finally eliminated the strncpy API from the Linux kernel",
-    "Confidence": 0.7483126
-  },
-  {
-    "Title": "Google hits 50% IPv6 | APNIC Blog",
-    "Url": "https://blog.apnic.net/2026/04/28/google-hits-50-ipv6/",
-    "Timestamp": "2026-06-21T15:02:31",
-    "Domain": "blog.apnic.net",
-    "Description": "IPv6 has reached a major milestone, with around half of Google’s users now accessing its services over IPv6.",
-    "Confidence": 0.9617139
   }
 ]

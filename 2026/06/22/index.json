@@ -1,5 +1,12 @@
 [
   {
+    "Title": "GLM-5.2 vs Claude Opus | Tech Stackups",
+    "Url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
+    "Timestamp": "2026-06-22T15:02:43",
+    "Domain": "techstackups.com",
+    "Description": "Is the GLM-5.2 hype real or benchmaxxed? We ran it head-to-head against Claude Opus, building a 3D platformer in raw WebGL from scratch."
+  },
+  {
     "Title": "Desktop apps",
     "Url": "https://docs.deno.com/runtime/desktop/",
     "Timestamp": "2026-06-22T11:02:11",
