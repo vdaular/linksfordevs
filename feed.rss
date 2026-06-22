@@ -7,6 +7,25 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Pledging Another $400,000 to the Zig Software Foundation</title>
+      <link>https://mitchellh.com/writing/zig-donation-2026</link>
+      <description>My family is pledging another $400,0001 to the
+Zig Software Foundation (ZSF). This brings
+our total pledged support for ZSF to $700,000, after our
+initial donation in 2024.</description>
+      <category>rust</category>
+      <category>ai</category>
+      <guid>https://mitchellh.com/writing/zig-donation-2026</guid>
+      <pubDate>Mon, 22 Jun 2026 19:02:23 GMT</pubDate>
+    </item>
+    <item>
+      <title>Never Give Them Your Face</title>
+      <link>https://nevergivethemyourface.com/</link>
+      <description>They are not verifying your age. They are building a permanent identity checkpoint over public life. Here is why to refuse.</description>
+      <guid>https://nevergivethemyourface.com/</guid>
+      <pubDate>Mon, 22 Jun 2026 19:02:19 GMT</pubDate>
+    </item>
+    <item>
       <title>GLM-5.2 vs Claude Opus | Tech Stackups</title>
       <link>https://techstackups.com/comparisons/glm-5.2-vs-opus/</link>
       <description>Is the GLM-5.2 hype real or benchmaxxed? We ran it head-to-head against Claude Opus, building a 3D platformer in raw WebGL from scratch.</description>
@@ -177,14 +196,6 @@
       <category>apple</category>
       <guid>https://blog.chrislewis.au/snowboard-kids-2-is-recompiled/</guid>
       <pubDate>Sun, 21 Jun 2026 23:02:33 GMT</pubDate>
-    </item>
-    <item>
-      <title>Beyond All Reason ★ RTS</title>
-      <link>https://www.beyondallreason.info/</link>
-      <description>Beyond All Reason is the ultimate epic-scale RTS game for Windows and Linux. Command colossal armies in battles with thousands of units in fully simulated environments. Wage war across land, sea, and air with 2 factions and 400 unique units. Enjoy skirmishes, scenarios, co-op, and multiplayer matches. Play for FREE now!</description>
-      <category>gaming</category>
-      <guid>https://www.beyondallreason.info/</guid>
-      <pubDate>Sun, 21 Jun 2026 19:02:26 GMT</pubDate>
     </item>
   </channel>
 </rss>
