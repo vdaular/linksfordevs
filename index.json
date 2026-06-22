@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Unhandled exception - An error occurred trying to start process when using .NET CLI in VS Code snap on Ubuntu | no dogma blog",
+    "Url": "https://nodogmablog.bryanhogan.net/2026/06/unhandled-exception-an-error-occurred-trying-to-start-process-when-using-net-cli-in-vs-code-snap-on-ubuntu/",
+    "Timestamp": "2026-06-22T23:01:59",
+    "Domain": "nodogmablog.bryanhogan.net",
+    "Description": "There is a an interesting bug when using the .NET CLI in VS Code snap installs.",
+    "Confidence": 0.9660847
+  },
+  {
     "Title": "Pledging Another $400,000 to the Zig Software Foundation",
     "Url": "https://mitchellh.com/writing/zig-donation-2026",
     "Timestamp": "2026-06-22T19:02:23",
@@ -54,109 +62,5 @@
     "Domain": "idiallo.com",
     "Description": "An Ode to my father. The man who shaped me into who I am today. I hope I can one day fill half his shoes. For now, I'll remember him for the giant he was.",
     "Confidence": 0.9720425
-  },
-  {
-    "Title": "Why I Moved from Arch to Boring Debian Testing | WhileForLoop",
-    "Url": "https://www.whileforloop.com/blog/2026/06/20/why-i-moved-from-arch-to-debian-testing/",
-    "Timestamp": "2026-06-21T23:03:19",
-    "Domain": "www.whileforloop.com",
-    "Description": "The recent AUR incident did not make Arch unusable, but it changed how I think about trust, package sources, and the amount of maintenance I want from my desktop.",
-    "Confidence": 0.9926714
-  },
-  {
-    "Title": "Looping Casino",
-    "Url": "https://www.mahdiyusuf.com/looping-casino/",
-    "Timestamp": "2026-06-21T23:03:14",
-    "Domain": "www.mahdiyusuf.com",
-    "Description": "Autonomous coding loops excel at search, not judgment. They can optimize toward a goal, but they can’t reliably tell when the goal is wrong. Engineering is still more than iteration speed.",
-    "Confidence": 0.98946023
-  },
-  {
-    "Title": "When Rails Engines Are the Wrong Tool",
-    "Url": "https://davidslv.uk/2026/06/09/when-rails-engines-are-wrong-tool.html",
-    "Timestamp": "2026-06-21T23:03:10",
-    "Domain": "davidslv.uk",
-    "Description": "Rails engines aren’t free. When adding engine boundaries is over-engineering — the performance, boot-time and memory costs — and how to tell when a boundary actually earns its keep.",
-    "Confidence": 0.986634
-  },
-  {
-    "Title": "Did my old job only exist because of fraud? – It's not about code",
-    "Url": "https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/",
-    "Timestamp": "2026-06-21T23:03:06",
-    "Domain": "david.newgas.net",
-    "Description": "Early in my software engineering career, the UK-based startup I worked at, GenieDB, was taken over by a US Venture Capital fund, Frost VP, owned by Stuart Frost.  I was functionally the only piece that came to the US. The code was rebuilt, the rest of the team eventually rotated out, even the core strategy was replaced. But I was early in my career and excited to be working in the VC tech-startup world. I ended up making my life in the US, so this was a pretty pivotal phase in my life.",
-    "Confidence": 0.8396053
-  },
-  {
-    "Title": "A Small Fintech Challenge, and Why I Let Postgres Hold the Money",
-    "Url": "https://e-mahmoudi.me/blog/a-small-fintech-challenge-and-why-i-let-postgres-hold-the-money/",
-    "Timestamp": "2026-06-21T23:03:02",
-    "Domain": "e-mahmoudi.me",
-    "Description": "I took a small fintech-style coding challenge — a marketplace where players buy and auction items with in-game gold — and treated it as one question: how do you keep money correct when many people act at once? The answer wasn't a clever lock in my code. It was leaning on what Postgres already guarantees.",
-    "Confidence": 0.9644577
-  },
-  {
-    "Title": "I want to spend more time on the internet",
-    "Url": "https://m-bertel.at/articles/i-want-to-spend-more-time-on-the-internet",
-    "Timestamp": "2026-06-21T23:02:58",
-    "Domain": "m-bertel.at",
-    "Description": "Michael Bertel's personal website",
-    "Confidence": 0.9942732
-  },
-  {
-    "Title": "The Wrong Abstraction — Sandi Metz",
-    "Url": "https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction",
-    "Timestamp": "2026-06-21T23:02:55",
-    "Domain": "sandimetz.com",
-    "Description": "I've been thinking about the consequences of the \"wrong abstraction.\" &nbsp;My RailsConf 2014 \"all the little things\" talk included a section where I asserted:  &gt; duplication is far cheaper than the wrong abstraction  And in the summary, I went on to advise:  &gt; ",
-    "Confidence": 0.93281144
-  },
-  {
-    "Title": "Thinking at the edge",
-    "Url": "https://mklyons.com/blog/thinking-at-the-edge",
-    "Timestamp": "2026-06-21T23:02:51",
-    "Domain": "mklyons.com",
-    "Description": "Getting locked out of a BitLocker laptop with a frozen keyboard brought back a feeling I hadn't had since LLMs took over my workflow: the satisfaction of thinking at the edge of a hard problem.",
-    "Confidence": 0.9811208
-  },
-  {
-    "Title": "Real-time dreamy Cloudscapes with Volumetric Raymarching - The Blog of Maxime Heckel",
-    "Url": "https://blog.maximeheckel.com/posts/real-time-cloudscapes-with-volumetric-raymarching/",
-    "Timestamp": "2026-06-21T23:02:47",
-    "Domain": "blog.maximeheckel.com",
-    "Description": "This article is a deep dive into my experimentations with Volumetric rendering and how to leverage it to render beautiful raymarched cloudscapes in React Three Fiber and WebGL. In it, I walk you through everything from the basics of Volumetric Raymarching to the techniques used in video games to render physically accurate clouds.",
-    "Confidence": 0.9921553
-  },
-  {
-    "Title": "Identity verification on Claude | Claude Help Center",
-    "Url": "https://support.claude.com/en/articles/14328960-identity-verification-on-claude",
-    "Timestamp": "2026-06-21T23:02:43",
-    "Domain": "support.claude.com",
-    "Description": "",
-    "Confidence": 0.87863976
-  },
-  {
-    "Title": "Nix needs relocatable binaries",
-    "Url": "https://fzakaria.com/2026/06/21/nix-needs-relocatable-binaries",
-    "Timestamp": "2026-06-21T23:02:39",
-    "Domain": "fzakaria.com",
-    "Description": "This is my problem statement and proposal for a TacoSprint 2026 project 🏄.",
-    "Confidence": 0.98926014
-  },
-  {
-    "Title": "We built a trading bot in two hours. Now my wife and I trade together.",
-    "Url": "https://magzimof.com/trading-together/",
-    "Timestamp": "2026-06-21T23:02:36",
-    "Domain": "magzimof.com",
-    "Description": "We had two Robinhood accounts and no shared view of anything. Schwab has a free API most people don't know about. We migrated, built a bot in two hours, and it changed how we think about money together.",
-    "Confidence": 0.97634596
-  },
-  {
-    "Title": "Snowboard Kids 2 is Recompiled",
-    "Url": "https://blog.chrislewis.au/snowboard-kids-2-is-recompiled/",
-    "Timestamp": "2026-06-21T23:02:33",
-    "Domain": "blog.chrislewis.au",
-    "Description": "Snowboard Kids 2 has been recompiled for modern platforms, bringing widescreen, 60 FPS support, and modding to Snow Town.",
-    "Confidence": 0.99114877
   }
 ]

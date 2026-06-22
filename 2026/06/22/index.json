@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Unhandled exception - An error occurred trying to start process when using .NET CLI in VS Code snap on Ubuntu | no dogma blog",
+    "Url": "https://nodogmablog.bryanhogan.net/2026/06/unhandled-exception-an-error-occurred-trying-to-start-process-when-using-net-cli-in-vs-code-snap-on-ubuntu/",
+    "Timestamp": "2026-06-22T23:01:59",
+    "Domain": "nodogmablog.bryanhogan.net",
+    "Description": "There is a an interesting bug when using the .NET CLI in VS Code snap installs."
+  },
+  {
     "Title": "Pledging Another $400,000 to the Zig Software Foundation",
     "Url": "https://mitchellh.com/writing/zig-donation-2026",
     "Timestamp": "2026-06-22T19:02:23",

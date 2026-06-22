@@ -7,6 +7,16 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Unhandled exception - An error occurred trying to start process when using .NET CLI in VS Code snap on Ubuntu | no dogma blog</title>
+      <link>https://nodogmablog.bryanhogan.net/2026/06/unhandled-exception-an-error-occurred-trying-to-start-process-when-using-net-cli-in-vs-code-snap-on-ubuntu/</link>
+      <description>There is a an interesting bug when using the .NET CLI in VS Code snap installs.</description>
+      <category>linux</category>
+      <category>ides</category>
+      <category>dotnet</category>
+      <guid>https://nodogmablog.bryanhogan.net/2026/06/unhandled-exception-an-error-occurred-trying-to-start-process-when-using-net-cli-in-vs-code-snap-on-ubuntu/</guid>
+      <pubDate>Mon, 22 Jun 2026 23:01:59 GMT</pubDate>
+    </item>
+    <item>
       <title>Pledging Another $400,000 to the Zig Software Foundation</title>
       <link>https://mitchellh.com/writing/zig-donation-2026</link>
       <description>My family is pledging another $400,0001 to the
@@ -76,126 +86,6 @@ initial donation in 2024.</description>
       <category>ai</category>
       <guid>https://idiallo.com/byte-size/happy-fathers-day-2026</guid>
       <pubDate>Mon, 22 Jun 2026 03:02:37 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why I Moved from Arch to Boring Debian Testing | WhileForLoop</title>
-      <link>https://www.whileforloop.com/blog/2026/06/20/why-i-moved-from-arch-to-debian-testing/</link>
-      <description>The recent AUR incident did not make Arch unusable, but it changed how I think about trust, package sources, and the amount of maintenance I want from my desktop.</description>
-      <author> (Łukasz Klim)</author>
-      <category>linux</category>
-      <guid>https://www.whileforloop.com/blog/2026/06/20/why-i-moved-from-arch-to-debian-testing/</guid>
-      <pubDate>Sun, 21 Jun 2026 23:03:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Looping Casino</title>
-      <link>https://www.mahdiyusuf.com/looping-casino/</link>
-      <description>Autonomous coding loops excel at search, not judgment. They can optimize toward a goal, but they can’t reliably tell when the goal is wrong. Engineering is still more than iteration speed.</description>
-      <category>ai</category>
-      <guid>https://www.mahdiyusuf.com/looping-casino/</guid>
-      <pubDate>Sun, 21 Jun 2026 23:03:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>When Rails Engines Are the Wrong Tool</title>
-      <link>https://davidslv.uk/2026/06/09/when-rails-engines-are-wrong-tool.html</link>
-      <description>Rails engines aren’t free. When adding engine boundaries is over-engineering — the performance, boot-time and memory costs — and how to tell when a boundary actually earns its keep.</description>
-      <category>cloud</category>
-      <category>ruby</category>
-      <category>git</category>
-      <category>gaming</category>
-      <guid>https://davidslv.uk/2026/06/09/when-rails-engines-are-wrong-tool.html</guid>
-      <pubDate>Sun, 21 Jun 2026 23:03:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Did my old job only exist because of fraud? – It's not about code</title>
-      <link>https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/</link>
-      <description>Early in my software engineering career, the UK-based startup I worked at, GenieDB, was taken over by a US Venture Capital fund, Frost VP, owned by Stuart Frost.  I was functionally the only piece that came to the US. The code was rebuilt, the rest of the team eventually rotated out, even the core strategy was replaced. But I was early in my career and excited to be working in the VC tech-startup world. I ended up making my life in the US, so this was a pretty pivotal phase in my life.</description>
-      <guid>https://david.newgas.net/did-my-old-job-only-exist-because-of-fraud/</guid>
-      <pubDate>Sun, 21 Jun 2026 23:03:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>A Small Fintech Challenge, and Why I Let Postgres Hold the Money</title>
-      <link>https://e-mahmoudi.me/blog/a-small-fintech-challenge-and-why-i-let-postgres-hold-the-money/</link>
-      <description>I took a small fintech-style coding challenge — a marketplace where players buy and auction items with in-game gold — and treated it as one question: how do you keep money correct when many people act at once? The answer wasn't a clever lock in my code. It was leaning on what Postgres already guarantees.</description>
-      <author> (Ehsan Mahmoudi)</author>
-      <category>cloud</category>
-      <category>git</category>
-      <category>gaming</category>
-      <guid>https://e-mahmoudi.me/blog/a-small-fintech-challenge-and-why-i-let-postgres-hold-the-money/</guid>
-      <pubDate>Sun, 21 Jun 2026 23:03:02 GMT</pubDate>
-    </item>
-    <item>
-      <title>I want to spend more time on the internet</title>
-      <link>https://m-bertel.at/articles/i-want-to-spend-more-time-on-the-internet</link>
-      <description>Michael Bertel's personal website</description>
-      <category>javascript</category>
-      <category>ai</category>
-      <guid>https://m-bertel.at/articles/i-want-to-spend-more-time-on-the-internet</guid>
-      <pubDate>Sun, 21 Jun 2026 23:02:58 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Wrong Abstraction — Sandi Metz</title>
-      <link>https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction</link>
-      <description>I've been thinking about the consequences of the "wrong abstraction." &amp;nbsp;My RailsConf 2014 "all the little things" talk included a section where I asserted:  &amp;gt; duplication is far cheaper than the wrong abstraction  And in the summary, I went on to advise:  &amp;gt; </description>
-      <category>ruby</category>
-      <category>javascript</category>
-      <guid>https://sandimetz.com/blog/2016/1/20/the-wrong-abstraction</guid>
-      <pubDate>Sun, 21 Jun 2026 23:02:55 GMT</pubDate>
-    </item>
-    <item>
-      <title>Thinking at the edge</title>
-      <link>https://mklyons.com/blog/thinking-at-the-edge</link>
-      <description>Getting locked out of a BitLocker laptop with a frozen keyboard brought back a feeling I hadn't had since LLMs took over my workflow: the satisfaction of thinking at the edge of a hard problem.</description>
-      <category>ai</category>
-      <guid>https://mklyons.com/blog/thinking-at-the-edge</guid>
-      <pubDate>Sun, 21 Jun 2026 23:02:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Real-time dreamy Cloudscapes with Volumetric Raymarching - The Blog of Maxime Heckel</title>
-      <link>https://blog.maximeheckel.com/posts/real-time-cloudscapes-with-volumetric-raymarching/</link>
-      <description>This article is a deep dive into my experimentations with Volumetric rendering and how to leverage it to render beautiful raymarched cloudscapes in React Three Fiber and WebGL. In it, I walk you through everything from the basics of Volumetric Raymarching to the techniques used in video games to render physically accurate clouds.</description>
-      <category>web</category>
-      <category>cloud</category>
-      <category>gaming</category>
-      <guid>https://blog.maximeheckel.com/posts/real-time-cloudscapes-with-volumetric-raymarching/</guid>
-      <pubDate>Sun, 21 Jun 2026 23:02:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Identity verification on Claude | Claude Help Center</title>
-      <link>https://support.claude.com/en/articles/14328960-identity-verification-on-claude</link>
-      <description></description>
-      <category>ai</category>
-      <guid>https://support.claude.com/en/articles/14328960-identity-verification-on-claude</guid>
-      <pubDate>Sun, 21 Jun 2026 23:02:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Nix needs relocatable binaries</title>
-      <link>https://fzakaria.com/2026/06/21/nix-needs-relocatable-binaries</link>
-      <description>This is my problem statement and proposal for a TacoSprint 2026 project 🏄.</description>
-      <category>linux</category>
-      <category>python</category>
-      <guid>https://fzakaria.com/2026/06/21/nix-needs-relocatable-binaries</guid>
-      <pubDate>Sun, 21 Jun 2026 23:02:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>We built a trading bot in two hours. Now my wife and I trade together.</title>
-      <link>https://magzimof.com/trading-together/</link>
-      <description>We had two Robinhood accounts and no shared view of anything. Schwab has a free API most people don't know about. We migrated, built a bot in two hours, and it changed how we think about money together.</description>
-      <category>encryption</category>
-      <category>python</category>
-      <category>apple</category>
-      <category>ai</category>
-      <category>javascript</category>
-      <guid>https://magzimof.com/trading-together/</guid>
-      <pubDate>Sun, 21 Jun 2026 23:02:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>Snowboard Kids 2 is Recompiled</title>
-      <link>https://blog.chrislewis.au/snowboard-kids-2-is-recompiled/</link>
-      <description>Snowboard Kids 2 has been recompiled for modern platforms, bringing widescreen, 60 FPS support, and modding to Snow Town.</description>
-      <category>gaming</category>
-      <category>apple</category>
-      <guid>https://blog.chrislewis.au/snowboard-kids-2-is-recompiled/</guid>
-      <pubDate>Sun, 21 Jun 2026 23:02:33 GMT</pubDate>
     </item>
   </channel>
 </rss>
