@@ -7,6 +7,33 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Mistral OCR 4 : SOTA OCR for Document Intelligence</title>
+      <link>https://mistral.ai/news/ocr-4/</link>
+      <description>Mistral OCR 4 delivers enterprise document AI with 170-language support, bounding boxes, and self-hosted deployment.</description>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://mistral.ai/news/ocr-4/</guid>
+      <pubDate>Tue, 23 Jun 2026 19:02:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Daily links from Cory Doctorow</title>
+      <link>https://pluralistic.net/2026/06/23/destroy-the-village/</link>
+      <description></description>
+      <category>ai</category>
+      <category>youtube</category>
+      <guid>https://pluralistic.net/2026/06/23/destroy-the-village/</guid>
+      <pubDate>Tue, 23 Jun 2026 19:02:30 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub - future-file-format/F3: [SIGMOD 2026] F3: The Open-Source Data File Format for the Future</title>
+      <link>https://github.com/future-file-format/f3</link>
+      <description>[SIGMOD 2026] F3: The Open-Source Data File Format for the Future - future-file-format/F3</description>
+      <category>web</category>
+      <category>git</category>
+      <guid>https://github.com/future-file-format/f3</guid>
+      <pubDate>Tue, 23 Jun 2026 19:02:25 GMT</pubDate>
+    </item>
+    <item>
       <title>Sports Commentary</title>
       <link>https://xkcd.com/3262/</link>
       <description></description>
@@ -53,25 +80,6 @@
       <category>dotnet</category>
       <guid>https://nodogmablog.bryanhogan.net/2026/06/unhandled-exception-an-error-occurred-trying-to-start-process-when-using-net-cli-in-vs-code-snap-on-ubuntu/</guid>
       <pubDate>Mon, 22 Jun 2026 23:01:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Pledging Another $400,000 to the Zig Software Foundation</title>
-      <link>https://mitchellh.com/writing/zig-donation-2026</link>
-      <description>My family is pledging another $400,0001 to the
-Zig Software Foundation (ZSF). This brings
-our total pledged support for ZSF to $700,000, after our
-initial donation in 2024.</description>
-      <category>rust</category>
-      <category>ai</category>
-      <guid>https://mitchellh.com/writing/zig-donation-2026</guid>
-      <pubDate>Mon, 22 Jun 2026 19:02:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Never Give Them Your Face</title>
-      <link>https://nevergivethemyourface.com/</link>
-      <description>They are not verifying your age. They are building a permanent identity checkpoint over public life. Here is why to refuse.</description>
-      <guid>https://nevergivethemyourface.com/</guid>
-      <pubDate>Mon, 22 Jun 2026 19:02:19 GMT</pubDate>
     </item>
   </channel>
 </rss>
