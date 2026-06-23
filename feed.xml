@@ -7,6 +7,23 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Jobs and Software is Fucked</title>
+      <link>https://urflow.bearblog.dev/jobs-and-software-is-fucked/</link>
+      <description>Or how I decided to scream into the void about how awful the job market is. I'm still in a very sour mood after the latest rounds of interviews but ultimatel...</description>
+      <category>conference</category>
+      <category>ai</category>
+      <guid>https://urflow.bearblog.dev/jobs-and-software-is-fucked/</guid>
+      <pubDate>Tue, 23 Jun 2026 03:02:39 GMT</pubDate>
+    </item>
+    <item>
+      <title>Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed (Public Report)</title>
+      <link>https://ipvm.com/reports/police-chiefs-track</link>
+      <description>Documented LPR misuse by police chiefs exposes a gap only judicial oversight can close.</description>
+      <author> (ipvideomarket)</author>
+      <guid>https://ipvm.com/reports/police-chiefs-track</guid>
+      <pubDate>Tue, 23 Jun 2026 03:02:35 GMT</pubDate>
+    </item>
+    <item>
       <title>Unhandled exception - An error occurred trying to start process when using .NET CLI in VS Code snap on Ubuntu | no dogma blog</title>
       <link>https://nodogmablog.bryanhogan.net/2026/06/unhandled-exception-an-error-occurred-trying-to-start-process-when-using-net-cli-in-vs-code-snap-on-ubuntu/</link>
       <description>There is a an interesting bug when using the .NET CLI in VS Code snap installs.</description>
@@ -78,14 +95,6 @@ initial donation in 2024.</description>
       <category>ai</category>
       <guid>https://apertvs.ai/</guid>
       <pubDate>Mon, 22 Jun 2026 07:02:09 GMT</pubDate>
-    </item>
-    <item>
-      <title>Happy Father's Day.</title>
-      <link>https://idiallo.com/byte-size/happy-fathers-day-2026</link>
-      <description>An Ode to my father. The man who shaped me into who I am today. I hope I can one day fill half his shoes. For now, I'll remember him for the giant he was.</description>
-      <category>ai</category>
-      <guid>https://idiallo.com/byte-size/happy-fathers-day-2026</guid>
-      <pubDate>Mon, 22 Jun 2026 03:02:37 GMT</pubDate>
     </item>
   </channel>
 </rss>

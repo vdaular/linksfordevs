@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Jobs and Software is Fucked",
+    "Url": "https://urflow.bearblog.dev/jobs-and-software-is-fucked/",
+    "Timestamp": "2026-06-23T03:02:39",
+    "Domain": "urflow.bearblog.dev",
+    "Description": "Or how I decided to scream into the void about how awful the job market is. I'm still in a very sour mood after the latest rounds of interviews but ultimatel...",
+    "Confidence": 0.95474184
+  },
+  {
+    "Title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed (Public Report)",
+    "Url": "https://ipvm.com/reports/police-chiefs-track",
+    "Timestamp": "2026-06-23T03:02:35",
+    "Domain": "ipvm.com",
+    "Description": "Documented LPR misuse by police chiefs exposes a gap only judicial oversight can close.",
+    "Confidence": 0.5899276
+  },
+  {
     "Title": "Unhandled exception - An error occurred trying to start process when using .NET CLI in VS Code snap on Ubuntu | no dogma blog",
     "Url": "https://nodogmablog.bryanhogan.net/2026/06/unhandled-exception-an-error-occurred-trying-to-start-process-when-using-net-cli-in-vs-code-snap-on-ubuntu/",
     "Timestamp": "2026-06-22T23:01:59",
@@ -54,13 +70,5 @@
     "Domain": "apertvs.ai",
     "Description": "Fully Open Foundation Model for Sovereign AI",
     "Confidence": 0.91334385
-  },
-  {
-    "Title": "Happy Father's Day.",
-    "Url": "https://idiallo.com/byte-size/happy-fathers-day-2026",
-    "Timestamp": "2026-06-22T03:02:37",
-    "Domain": "idiallo.com",
-    "Description": "An Ode to my father. The man who shaped me into who I am today. I hope I can one day fill half his shoes. For now, I'll remember him for the giant he was.",
-    "Confidence": 0.9720425
   }
 ]
