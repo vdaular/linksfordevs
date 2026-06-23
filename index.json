@@ -62,13 +62,5 @@
     "Domain": "techstackups.com",
     "Description": "Is the GLM-5.2 hype real or benchmaxxed? We ran it head-to-head against Claude Opus, building a 3D platformer in raw WebGL from scratch.",
     "Confidence": 0.92882997
-  },
-  {
-    "Title": "Desktop apps",
-    "Url": "https://docs.deno.com/runtime/desktop/",
-    "Timestamp": "2026-06-22T11:02:11",
-    "Domain": "docs.deno.com",
-    "Description": "Build self-contained desktop applications from a Deno project, with framework auto-detection, hot reload, native windowing, auto-update, and cross-platform distribution.",
-    "Confidence": 0.9968389
   }
 ]
