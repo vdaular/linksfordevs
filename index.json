@@ -1,5 +1,109 @@
 [
   {
+    "Title": "GPS spoofing teleported me to Peru, mid-flight",
+    "Url": "https://blog.emilburzo.com/2026/06/gps-spoofing-teleported-me-to-peru-while-flying/",
+    "Timestamp": "2026-06-23T23:02:57",
+    "Domain": "blog.emilburzo.com",
+    "Description": "My first encounter with electronic warfare",
+    "Confidence": 0.75392014
+  },
+  {
+    "Title": "What If Creativity Was the Constraint?",
+    "Url": "https://blog.nseldeib.com/p/what-if-creativity-was-the-constraint",
+    "Timestamp": "2026-06-23T23:02:51",
+    "Domain": "blog.nseldeib.com",
+    "Description": "What happens when the distance between an idea and working software becomes dramatically shorter? Some thoughts on creativity, curiosity, and AI-powered building.",
+    "Confidence": 0.9672412
+  },
+  {
+    "Title": "Building Intelligent Games – Rasmus Rasmussen dot com",
+    "Url": "https://rasmusrasmussen.com/2026/06/23/building-intelligent-games/",
+    "Timestamp": "2026-06-23T23:02:46",
+    "Domain": "rasmusrasmussen.com",
+    "Description": "In the world of game development the term AI has been around for decades, though it was not referring to chatbots and neural networks but rather things like finite state machines and behavior trees. Both of those are fantastic tools for game development and everyone should use them, but this post is not about either. This is about using transformer networks as a way to dynamically control the level of gameplay difficulty. Instead of hard coded values, this is based on individual, (almost) real-time player behavior!",
+    "Confidence": 0.9349082
+  },
+  {
+    "Title": "Less is more, more or less",
+    "Url": "https://jakub.kr/writing/less-is-more",
+    "Timestamp": "2026-06-23T23:02:41",
+    "Domain": "jakub.kr",
+    "Description": "In the age of AI, knowing what not to build might be the most important skill of all.",
+    "Confidence": 0.99587893
+  },
+  {
+    "Title": "Reject Agility, Embrace Specification",
+    "Url": "https://lewiscampbell.tech/blog/260622.html",
+    "Timestamp": "2026-06-23T23:02:38",
+    "Domain": "lewiscampbell.tech",
+    "Description": "Rebuilding Software Engineering in the Post-Agile world.",
+    "Confidence": 0.9683576
+  },
+  {
+    "Title": "The Map —  Jerry's Map",
+    "Url": "http://www.jerrysmap.com/the-map",
+    "Timestamp": "2026-06-23T23:02:34",
+    "Domain": "www.jerrysmap.com",
+    "Description": "In the summer of 1963 Jerry began drawing a map of an imaginary city. The work started as a doodle done in the spare time he had while working at a tedious job. He continued to add to that map through the years until, in 1983, he set it aside to put his free time to other use.",
+    "Confidence": 0.95420414
+  },
+  {
+    "Title": "Death by a Thousand Comments — Royal Icing",
+    "Url": "https://royalicing.com/2026/death-by-a-thousand-comments",
+    "Timestamp": "2026-06-23T23:02:29",
+    "Domain": "royalicing.com",
+    "Description": "Gergely Orosz of the Pragmatic Engineer newsletter/podcast writes:",
+    "Confidence": 0.83508986
+  },
+  {
+    "Title": "Who Owns the Model of You? — 0set0set",
+    "Url": "https://0set0set.github.io/articles/alma-a-self-model-for-ai-agents/",
+    "Timestamp": "2026-06-23T23:02:25",
+    "Domain": "0set0set.github.io",
+    "Description": "A person-owned architecture for what AI agents are allowed to know about you — claims, provenance, consent, and portability, exposed to agents over MCP.",
+    "Confidence": 0.9816962
+  },
+  {
+    "Title": "Alternatives to the UK government’s social media ban | MattCASmith",
+    "Url": "https://mattcasmith.net/2026/06/21/uk-social-media-ban-alternatives",
+    "Timestamp": "2026-06-23T23:02:22",
+    "Domain": "mattcasmith.net",
+    "Description": "The UK government wants to ban social media for under-16s. The goal is reasonable, but there are more effective alternatives that don't require sacrificing privacy and anonymity for the rest of the population.",
+    "Confidence": 0.9027442
+  },
+  {
+    "Title": "I received a fake job offer. The npm package in the project was a full info-stealer. | Yunus Aydın Blog",
+    "Url": "https://aydinnyunus.github.io/2026/06/22/fake-job-offer-npm-supply-chain-malware-foxtopia/",
+    "Timestamp": "2026-06-23T23:02:15",
+    "Domain": "aydinnyunus.github.io",
+    "Description": "A social engineering attack disguised as a freelance NFT staking project. The zip file contained a typosquatted npm package (pretie_x1) that drops a multi-stage, AES-encrypted info-stealer targeting browser credentials, crypto wallets, SSH keys, and OS login passwords.",
+    "Confidence": 0.99331963
+  },
+  {
+    "Title": "(June 2026) BleatBox: A mesh-networked, screaming tissue dispenser",
+    "Url": "https://jerryryle.github.io/bleatbox/",
+    "Timestamp": "2026-06-23T23:02:12",
+    "Domain": "jerryryle.github.io",
+    "Description": "A goat-oriented tissue dispenser",
+    "Confidence": 0.87276417
+  },
+  {
+    "Title": "Vibe under constraint",
+    "Url": "https://ngrislain.github.io/projects/2026-6-22-vibe-under-constraint/",
+    "Timestamp": "2026-06-23T23:02:08",
+    "Domain": "ngrislain.github.io",
+    "Description": "Vibe coding is great. You describe what you want, the agent writes it, the tests pass, you ship. It keeps working right up to the moment it does not: the job gets killed by the OOM reaper in production, or it opens ten thousand file descriptors and falls over, or it runs fine on the sample and melts on the real dataset. The code was correct. It just assumed it had infinite memory and infinite file handles, because nothing in the problem statement said otherwise.",
+    "Confidence": 0.9970128
+  },
+  {
+    "Title": "Stop AB2047 - California's bill that pulls 3D printers from schools and businesses",
+    "Url": "https://www.the3dprintingnerd.com/ab2047",
+    "Timestamp": "2026-06-23T22:10:08",
+    "Domain": "www.the3dprintingnerd.com",
+    "Description": "A plain-language guide to AB2047 you can share with your school board, PTA, or neighbor. Learn what's at stake and how to take action.",
+    "Confidence": 1.0
+  },
+  {
     "Title": "Mistral OCR 4 : SOTA OCR for Document Intelligence",
     "Url": "https://mistral.ai/news/ocr-4/",
     "Timestamp": "2026-06-23T19:02:35",
@@ -54,13 +158,5 @@
     "Domain": "ipvm.com",
     "Description": "Documented LPR misuse by police chiefs exposes a gap only judicial oversight can close.",
     "Confidence": 0.5899276
-  },
-  {
-    "Title": "Unhandled exception - An error occurred trying to start process when using .NET CLI in VS Code snap on Ubuntu | no dogma blog",
-    "Url": "https://nodogmablog.bryanhogan.net/2026/06/unhandled-exception-an-error-occurred-trying-to-start-process-when-using-net-cli-in-vs-code-snap-on-ubuntu/",
-    "Timestamp": "2026-06-22T23:01:59",
-    "Domain": "nodogmablog.bryanhogan.net",
-    "Description": "There is a an interesting bug when using the .NET CLI in VS Code snap installs.",
-    "Confidence": 0.9660847
   }
 ]
