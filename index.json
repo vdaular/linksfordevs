@@ -54,13 +54,5 @@
     "Domain": "nevergivethemyourface.com",
     "Description": "They are not verifying your age. They are building a permanent identity checkpoint over public life. Here is why to refuse.",
     "Confidence": 0.84363437
-  },
-  {
-    "Title": "GLM-5.2 vs Claude Opus | Tech Stackups",
-    "Url": "https://techstackups.com/comparisons/glm-5.2-vs-opus/",
-    "Timestamp": "2026-06-22T15:02:43",
-    "Domain": "techstackups.com",
-    "Description": "Is the GLM-5.2 hype real or benchmaxxed? We ran it head-to-head against Claude Opus, building a 3D platformer in raw WebGL from scratch.",
-    "Confidence": 0.92882997
   }
 ]

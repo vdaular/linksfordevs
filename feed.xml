@@ -73,18 +73,5 @@ initial donation in 2024.</description>
       <guid>https://nevergivethemyourface.com/</guid>
       <pubDate>Mon, 22 Jun 2026 19:02:19 GMT</pubDate>
     </item>
-    <item>
-      <title>GLM-5.2 vs Claude Opus | Tech Stackups</title>
-      <link>https://techstackups.com/comparisons/glm-5.2-vs-opus/</link>
-      <description>Is the GLM-5.2 hype real or benchmaxxed? We ran it head-to-head against Claude Opus, building a 3D platformer in raw WebGL from scratch.</description>
-      <author> (/authors/jamesdanielwhitford/)</author>
-      <category>web</category>
-      <category>cloud</category>
-      <category>ides</category>
-      <category>gaming</category>
-      <category>ai</category>
-      <guid>https://techstackups.com/comparisons/glm-5.2-vs-opus/</guid>
-      <pubDate>Mon, 22 Jun 2026 15:02:43 GMT</pubDate>
-    </item>
   </channel>
 </rss>
