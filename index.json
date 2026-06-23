@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Sports Commentary",
+    "Url": "https://xkcd.com/3262/",
+    "Timestamp": "2026-06-23T07:02:20",
+    "Domain": "xkcd.com",
+    "Description": "",
+    "Confidence": 0.98151064
+  },
+  {
+    "Title": "GLM-5.2 - How to Run Locally | Unsloth Documentation",
+    "Url": "https://unsloth.ai/docs/models/glm-5.2",
+    "Timestamp": "2026-06-23T07:02:16",
+    "Domain": "unsloth.ai",
+    "Description": "Run the new GLM-5.2 model by Z.ai on local hardware!",
+    "Confidence": 0.99514383
+  },
+  {
     "Title": "Jobs and Software is Fucked",
     "Url": "https://urflow.bearblog.dev/jobs-and-software-is-fucked/",
     "Timestamp": "2026-06-23T03:02:39",
@@ -54,21 +70,5 @@
     "Domain": "docs.deno.com",
     "Description": "Build self-contained desktop applications from a Deno project, with framework auto-detection, hot reload, native windowing, auto-update, and cross-platform distribution.",
     "Confidence": 0.9968389
-  },
-  {
-    "Title": "Everything you say CAN and WILL be used against you",
-    "Url": "https://idiallo.com/blog/the-right-to-remain-silent",
-    "Timestamp": "2026-06-22T07:02:13",
-    "Domain": "idiallo.com",
-    "Description": "- \"If you talk to me, I'll punch you in the face, are you ok with talking with me?\"\n- \"Nods in agreement.\"\n- \"Proceeds to punch the man in the face.\"",
-    "Confidence": 0.85626394
-  },
-  {
-    "Title": "Fully Open Foundation Model for Sovereign AI",
-    "Url": "https://apertvs.ai/",
-    "Timestamp": "2026-06-22T07:02:09",
-    "Domain": "apertvs.ai",
-    "Description": "Fully Open Foundation Model for Sovereign AI",
-    "Confidence": 0.91334385
   }
 ]

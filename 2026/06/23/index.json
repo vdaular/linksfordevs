@@ -1,5 +1,19 @@
 [
   {
+    "Title": "Sports Commentary",
+    "Url": "https://xkcd.com/3262/",
+    "Timestamp": "2026-06-23T07:02:20",
+    "Domain": "xkcd.com",
+    "Description": ""
+  },
+  {
+    "Title": "GLM-5.2 - How to Run Locally | Unsloth Documentation",
+    "Url": "https://unsloth.ai/docs/models/glm-5.2",
+    "Timestamp": "2026-06-23T07:02:16",
+    "Domain": "unsloth.ai",
+    "Description": "Run the new GLM-5.2 model by Z.ai on local hardware!"
+  },
+  {
     "Title": "Jobs and Software is Fucked",
     "Url": "https://urflow.bearblog.dev/jobs-and-software-is-fucked/",
     "Timestamp": "2026-06-23T03:02:39",

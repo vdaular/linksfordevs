@@ -7,6 +7,27 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Sports Commentary</title>
+      <link>https://xkcd.com/3262/</link>
+      <description></description>
+      <category>apple</category>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3262/</guid>
+      <pubDate>Tue, 23 Jun 2026 07:02:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>GLM-5.2 - How to Run Locally | Unsloth Documentation</title>
+      <link>https://unsloth.ai/docs/models/glm-5.2</link>
+      <description>Run the new GLM-5.2 model by Z.ai on local hardware!</description>
+      <category>gaming</category>
+      <category>ides</category>
+      <category>web</category>
+      <category>ai</category>
+      <category>apple</category>
+      <guid>https://unsloth.ai/docs/models/glm-5.2</guid>
+      <pubDate>Tue, 23 Jun 2026 07:02:16 GMT</pubDate>
+    </item>
+    <item>
       <title>Jobs and Software is Fucked</title>
       <link>https://urflow.bearblog.dev/jobs-and-software-is-fucked/</link>
       <description>Or how I decided to scream into the void about how awful the job market is. I'm still in a very sour mood after the latest rounds of interviews but ultimatel...</description>
@@ -76,25 +97,6 @@ initial donation in 2024.</description>
       <category>web</category>
       <guid>https://docs.deno.com/runtime/desktop/</guid>
       <pubDate>Mon, 22 Jun 2026 11:02:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Everything you say CAN and WILL be used against you</title>
-      <link>https://idiallo.com/blog/the-right-to-remain-silent</link>
-      <description>- "If you talk to me, I'll punch you in the face, are you ok with talking with me?"
-- "Nods in agreement."
-- "Proceeds to punch the man in the face."</description>
-      <category>ai</category>
-      <category>youtube</category>
-      <guid>https://idiallo.com/blog/the-right-to-remain-silent</guid>
-      <pubDate>Mon, 22 Jun 2026 07:02:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Fully Open Foundation Model for Sovereign AI</title>
-      <link>https://apertvs.ai/</link>
-      <description>Fully Open Foundation Model for Sovereign AI</description>
-      <category>ai</category>
-      <guid>https://apertvs.ai/</guid>
-      <pubDate>Mon, 22 Jun 2026 07:02:09 GMT</pubDate>
     </item>
   </channel>
 </rss>
