@@ -7,6 +7,14 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>FUTO Swipe</title>
+      <link>https://swipe.futo.tech/</link>
+      <description></description>
+      <category>android</category>
+      <guid>https://swipe.futo.tech/</guid>
+      <pubDate>Wed, 24 Jun 2026 03:02:45 GMT</pubDate>
+    </item>
+    <item>
       <title>GPS spoofing teleported me to Peru, mid-flight</title>
       <link>https://blog.emilburzo.com/2026/06/gps-spoofing-teleported-me-to-peru-while-flying/</link>
       <description>My first encounter with electronic warfare</description>
@@ -170,23 +178,6 @@
       <category>apple</category>
       <guid>https://unsloth.ai/docs/models/glm-5.2</guid>
       <pubDate>Tue, 23 Jun 2026 07:02:16 GMT</pubDate>
-    </item>
-    <item>
-      <title>Jobs and Software is Fucked</title>
-      <link>https://urflow.bearblog.dev/jobs-and-software-is-fucked/</link>
-      <description>Or how I decided to scream into the void about how awful the job market is. I'm still in a very sour mood after the latest rounds of interviews but ultimatel...</description>
-      <category>conference</category>
-      <category>ai</category>
-      <guid>https://urflow.bearblog.dev/jobs-and-software-is-fucked/</guid>
-      <pubDate>Tue, 23 Jun 2026 03:02:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed (Public Report)</title>
-      <link>https://ipvm.com/reports/police-chiefs-track</link>
-      <description>Documented LPR misuse by police chiefs exposes a gap only judicial oversight can close.</description>
-      <author> (ipvideomarket)</author>
-      <guid>https://ipvm.com/reports/police-chiefs-track</guid>
-      <pubDate>Tue, 23 Jun 2026 03:02:35 GMT</pubDate>
     </item>
   </channel>
 </rss>

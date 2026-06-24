@@ -1,5 +1,13 @@
 [
   {
+    "Title": "FUTO Swipe",
+    "Url": "https://swipe.futo.tech/",
+    "Timestamp": "2026-06-24T03:02:45",
+    "Domain": "swipe.futo.tech",
+    "Description": "",
+    "Confidence": 0.97411424
+  },
+  {
     "Title": "GPS spoofing teleported me to Peru, mid-flight",
     "Url": "https://blog.emilburzo.com/2026/06/gps-spoofing-teleported-me-to-peru-while-flying/",
     "Timestamp": "2026-06-23T23:02:57",
@@ -142,21 +150,5 @@
     "Domain": "unsloth.ai",
     "Description": "Run the new GLM-5.2 model by Z.ai on local hardware!",
     "Confidence": 0.99514383
-  },
-  {
-    "Title": "Jobs and Software is Fucked",
-    "Url": "https://urflow.bearblog.dev/jobs-and-software-is-fucked/",
-    "Timestamp": "2026-06-23T03:02:39",
-    "Domain": "urflow.bearblog.dev",
-    "Description": "Or how I decided to scream into the void about how awful the job market is. I'm still in a very sour mood after the latest rounds of interviews but ultimatel...",
-    "Confidence": 0.95474184
-  },
-  {
-    "Title": "Flock-Powered Police Chiefs Stalking Women Shows Why Warrants Are Needed (Public Report)",
-    "Url": "https://ipvm.com/reports/police-chiefs-track",
-    "Timestamp": "2026-06-23T03:02:35",
-    "Domain": "ipvm.com",
-    "Description": "Documented LPR misuse by police chiefs exposes a gap only judicial oversight can close.",
-    "Confidence": 0.5899276
   }
 ]
