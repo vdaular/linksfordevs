@@ -1,5 +1,19 @@
 [
   {
+    "Title": "RubyLLM",
+    "Url": "https://rubyllm.com/",
+    "Timestamp": "2026-06-24T23:02:15",
+    "Domain": "rubyllm.com",
+    "Description": "A single, beautiful Ruby framework for all major AI providers. Easily build chatbots, AI agents, RAG applications, content generators, and every AI workflow you can think of."
+  },
+  {
+    "Title": "OpenAI unveils its first custom chip, built by Broadcom | TechCrunch",
+    "Url": "https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/",
+    "Timestamp": "2026-06-24T23:02:11",
+    "Domain": "techcrunch.com",
+    "Description": "Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems."
+  },
+  {
     "Title": "We’re making Bunny DNS free",
     "Url": "https://bunny.net/blog/were-making-bunny-dns-free/",
     "Timestamp": "2026-06-24T15:02:30",

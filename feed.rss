@@ -7,6 +7,24 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>RubyLLM</title>
+      <link>https://rubyllm.com/</link>
+      <description>A single, beautiful Ruby framework for all major AI providers. Easily build chatbots, AI agents, RAG applications, content generators, and every AI workflow you can think of.</description>
+      <category>ruby</category>
+      <category>ai</category>
+      <category>javascript</category>
+      <guid>https://rubyllm.com/</guid>
+      <pubDate>Wed, 24 Jun 2026 23:02:15 GMT</pubDate>
+    </item>
+    <item>
+      <title>OpenAI unveils its first custom chip, built by Broadcom | TechCrunch</title>
+      <link>https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/</link>
+      <description>Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems.</description>
+      <category>ai</category>
+      <guid>https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/</guid>
+      <pubDate>Wed, 24 Jun 2026 23:02:11 GMT</pubDate>
+    </item>
+    <item>
       <title>We’re making Bunny DNS free</title>
       <link>https://bunny.net/blog/were-making-bunny-dns-free/</link>
       <description>Your DNS bill shouldn't scale with your traffic. So we removed query fees from Bunny DNS entirely. No per-request billing and no query limits.</description>
@@ -59,123 +77,6 @@ But Expansion Cards use USB-C for their connection to the mainboard—and therei
       <category>android</category>
       <guid>https://swipe.futo.tech/</guid>
       <pubDate>Wed, 24 Jun 2026 03:02:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>GPS spoofing teleported me to Peru, mid-flight</title>
-      <link>https://blog.emilburzo.com/2026/06/gps-spoofing-teleported-me-to-peru-while-flying/</link>
-      <description>My first encounter with electronic warfare</description>
-      <category>android</category>
-      <category>apple</category>
-      <category>linux</category>
-      <guid>https://blog.emilburzo.com/2026/06/gps-spoofing-teleported-me-to-peru-while-flying/</guid>
-      <pubDate>Tue, 23 Jun 2026 23:02:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>What If Creativity Was the Constraint?</title>
-      <link>https://blog.nseldeib.com/p/what-if-creativity-was-the-constraint</link>
-      <description>What happens when the distance between an idea and working software becomes dramatically shorter? Some thoughts on creativity, curiosity, and AI-powered building.</description>
-      <category>rust</category>
-      <category>ai</category>
-      <category>ides</category>
-      <guid>https://blog.nseldeib.com/p/what-if-creativity-was-the-constraint</guid>
-      <pubDate>Tue, 23 Jun 2026 23:02:51 GMT</pubDate>
-    </item>
-    <item>
-      <title>Building Intelligent Games – Rasmus Rasmussen dot com</title>
-      <link>https://rasmusrasmussen.com/2026/06/23/building-intelligent-games/</link>
-      <description>In the world of game development the term AI has been around for decades, though it was not referring to chatbots and neural networks but rather things like finite state machines and behavior trees. Both of those are fantastic tools for game development and everyone should use them, but this post is not about either. This is about using transformer networks as a way to dynamically control the level of gameplay difficulty. Instead of hard coded values, this is based on individual, (almost) real-time player behavior!</description>
-      <category>gaming</category>
-      <category>ai</category>
-      <guid>https://rasmusrasmussen.com/2026/06/23/building-intelligent-games/</guid>
-      <pubDate>Tue, 23 Jun 2026 23:02:46 GMT</pubDate>
-    </item>
-    <item>
-      <title>Less is more, more or less</title>
-      <link>https://jakub.kr/writing/less-is-more</link>
-      <description>In the age of AI, knowing what not to build might be the most important skill of all.</description>
-      <category>ai</category>
-      <guid>https://jakub.kr/writing/less-is-more</guid>
-      <pubDate>Tue, 23 Jun 2026 23:02:41 GMT</pubDate>
-    </item>
-    <item>
-      <title>Reject Agility, Embrace Specification</title>
-      <link>https://lewiscampbell.tech/blog/260622.html</link>
-      <description>Rebuilding Software Engineering in the Post-Agile world.</description>
-      <category>database</category>
-      <category>javascript</category>
-      <guid>https://lewiscampbell.tech/blog/260622.html</guid>
-      <pubDate>Tue, 23 Jun 2026 23:02:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Map —  Jerry's Map</title>
-      <link>http://www.jerrysmap.com/the-map</link>
-      <description>In the summer of 1963 Jerry began drawing a map of an imaginary city. The work started as a doodle done in the spare time he had while working at a tedious job. He continued to add to that map through the years until, in 1983, he set it aside to put his free time to other use.</description>
-      <guid>http://www.jerrysmap.com/the-map</guid>
-      <pubDate>Tue, 23 Jun 2026 23:02:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>Death by a Thousand Comments — Royal Icing</title>
-      <link>https://royalicing.com/2026/death-by-a-thousand-comments</link>
-      <description>Gergely Orosz of the Pragmatic Engineer newsletter/podcast writes:</description>
-      <category>apple</category>
-      <category>ai</category>
-      <guid>https://royalicing.com/2026/death-by-a-thousand-comments</guid>
-      <pubDate>Tue, 23 Jun 2026 23:02:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>Who Owns the Model of You? — 0set0set</title>
-      <link>https://0set0set.github.io/articles/alma-a-self-model-for-ai-agents/</link>
-      <description>A person-owned architecture for what AI agents are allowed to know about you — claims, provenance, consent, and portability, exposed to agents over MCP.</description>
-      <category>rust</category>
-      <category>encryption</category>
-      <category>git</category>
-      <category>ai</category>
-      <category>database</category>
-      <guid>https://0set0set.github.io/articles/alma-a-self-model-for-ai-agents/</guid>
-      <pubDate>Tue, 23 Jun 2026 23:02:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Alternatives to the UK government’s social media ban | MattCASmith</title>
-      <link>https://mattcasmith.net/2026/06/21/uk-social-media-ban-alternatives</link>
-      <description>The UK government wants to ban social media for under-16s. The goal is reasonable, but there are more effective alternatives that don't require sacrificing privacy and anonymity for the rest of the population.</description>
-      <category>apple</category>
-      <guid>https://mattcasmith.net/2026/06/21/uk-social-media-ban-alternatives</guid>
-      <pubDate>Tue, 23 Jun 2026 23:02:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>I received a fake job offer. The npm package in the project was a full info-stealer. | Yunus Aydın Blog</title>
-      <link>https://aydinnyunus.github.io/2026/06/22/fake-job-offer-npm-supply-chain-malware-foxtopia/</link>
-      <description>A social engineering attack disguised as a freelance NFT staking project. The zip file contained a typosquatted npm package (pretie_x1) that drops a multi-stage, AES-encrypted info-stealer targeting browser credentials, crypto wallets, SSH keys, and OS login passwords.</description>
-      <category>encryption</category>
-      <category>linux</category>
-      <category>javascript</category>
-      <category>ai</category>
-      <category>typescript</category>
-      <guid>https://aydinnyunus.github.io/2026/06/22/fake-job-offer-npm-supply-chain-malware-foxtopia/</guid>
-      <pubDate>Tue, 23 Jun 2026 23:02:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>(June 2026) BleatBox: A mesh-networked, screaming tissue dispenser</title>
-      <link>https://jerryryle.github.io/bleatbox/</link>
-      <description>A goat-oriented tissue dispenser</description>
-      <category>gaming</category>
-      <guid>https://jerryryle.github.io/bleatbox/</guid>
-      <pubDate>Tue, 23 Jun 2026 23:02:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>Vibe under constraint</title>
-      <link>https://ngrislain.github.io/projects/2026-6-22-vibe-under-constraint/</link>
-      <description>Vibe coding is great. You describe what you want, the agent writes it, the tests pass, you ship. It keeps working right up to the moment it does not: the job gets killed by the OOM reaper in production, or it opens ten thousand file descriptors and falls over, or it runs fine on the sample and melts on the real dataset. The code was correct. It just assumed it had infinite memory and infinite file handles, because nothing in the problem statement said otherwise.</description>
-      <category>ai</category>
-      <guid>https://ngrislain.github.io/projects/2026-6-22-vibe-under-constraint/</guid>
-      <pubDate>Tue, 23 Jun 2026 23:02:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stop AB2047 - California's bill that pulls 3D printers from schools and businesses</title>
-      <link>https://www.the3dprintingnerd.com/ab2047</link>
-      <description>A plain-language guide to AB2047 you can share with your school board, PTA, or neighbor. Learn what's at stake and how to take action.</description>
-      <guid>https://www.the3dprintingnerd.com/ab2047</guid>
-      <pubDate>Tue, 23 Jun 2026 22:10:08 GMT</pubDate>
     </item>
   </channel>
 </rss>
