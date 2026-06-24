@@ -1,5 +1,12 @@
 [
   {
+    "Title": "Vulnerability Reports Are Not Special Anymore",
+    "Url": "https://words.filippo.io/vuln-reports/",
+    "Timestamp": "2026-06-24T11:02:08",
+    "Domain": "words.filippo.io",
+    "Description": "We needed the insight and confidentiality to protect our users, but now that anyone can get the same results from LLM?"
+  },
+  {
     "Title": "In memory of the man who put red and green squiggles under words - The Old New Thing",
     "Url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
     "Timestamp": "2026-06-24T07:02:15",

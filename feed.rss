@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Vulnerability Reports Are Not Special Anymore</title>
+      <link>https://words.filippo.io/vuln-reports/</link>
+      <description>We needed the insight and confidentiality to protect our users, but now that anyone can get the same results from LLM?</description>
+      <guid>https://words.filippo.io/vuln-reports/</guid>
+      <pubDate>Wed, 24 Jun 2026 11:02:08 GMT</pubDate>
+    </item>
+    <item>
       <title>In memory of the man who put red and green squiggles under words - The Old New Thing</title>
       <link>https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451</link>
       <description>Starting in Word and expanding to nearly every other word processor, and even things that aren't word processors.</description>
