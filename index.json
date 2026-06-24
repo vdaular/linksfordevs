@@ -150,29 +150,5 @@
     "Domain": "www.the3dprintingnerd.com",
     "Description": "A plain-language guide to AB2047 you can share with your school board, PTA, or neighbor. Learn what's at stake and how to take action.",
     "Confidence": 1.0
-  },
-  {
-    "Title": "Mistral OCR 4 : SOTA OCR for Document Intelligence",
-    "Url": "https://mistral.ai/news/ocr-4/",
-    "Timestamp": "2026-06-23T19:02:35",
-    "Domain": "mistral.ai",
-    "Description": "Mistral OCR 4 delivers enterprise document AI with 170-language support, bounding boxes, and self-hosted deployment.",
-    "Confidence": 0.91120255
-  },
-  {
-    "Title": "Daily links from Cory Doctorow",
-    "Url": "https://pluralistic.net/2026/06/23/destroy-the-village/",
-    "Timestamp": "2026-06-23T19:02:30",
-    "Domain": "pluralistic.net",
-    "Description": "",
-    "Confidence": 0.7321813
-  },
-  {
-    "Title": "GitHub - future-file-format/F3: [SIGMOD 2026] F3: The Open-Source Data File Format for the Future",
-    "Url": "https://github.com/future-file-format/f3",
-    "Timestamp": "2026-06-23T19:02:25",
-    "Domain": "github.com",
-    "Description": "[SIGMOD 2026] F3: The Open-Source Data File Format for the Future - future-file-format/F3",
-    "Confidence": 0.9969736
   }
 ]
