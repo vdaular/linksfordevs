@@ -1,5 +1,157 @@
 [
   {
+    "Title": "Your Interface Has Two Channels",
+    "Url": "https://tomeraberba.ch/your-interface-has-two-channels",
+    "Timestamp": "2026-06-25T03:04:20",
+    "Domain": "tomeraberba.ch",
+    "Description": "This code would easily pass a cursory review: Then one day the endpoint returns a 500, flags becomes { error: 'Internal Server Error' }, no key matches a real option, and the server silently starts…",
+    "Confidence": 0.99278814
+  },
+  {
+    "Title": "Travellers in a Foreign Land",
+    "Url": "https://rubenflamshepherd.com/articles/2026-06-22-travelers-in-a-foreign-land",
+    "Timestamp": "2026-06-25T03:04:16",
+    "Domain": "rubenflamshepherd.com",
+    "Description": "A mental model for how to think about agentic capabilities",
+    "Confidence": 0.9905551
+  },
+  {
+    "Title": "The Junior Developer Problem Is Becoming a Senior Developer Problem",
+    "Url": "https://www.vincentschmalbach.com/the-junior-developer-problem-is-becoming-a-senior-developer-problem/",
+    "Timestamp": "2026-06-25T03:04:12",
+    "Domain": "www.vincentschmalbach.com",
+    "Description": "AI is fundamentally changing how junior developers learn, but it’s also making senior developers a whole lot less valuable if all they’re doing is taking well-defined tickets and turning them into…",
+    "Confidence": 0.9665317
+  },
+  {
+    "Title": "Wagtail as Django admin on steroids",
+    "Url": "https://timonweb.com/wagtail/wagtail-as-django-admin-on-steroids/",
+    "Timestamp": "2026-06-25T03:04:07",
+    "Domain": "timonweb.com",
+    "Description": "Wagtail as Django admin on steroids.",
+    "Confidence": 0.9875569
+  },
+  {
+    "Title": "Thoughts on Role Confusion",
+    "Url": "https://www.gilesthomas.com/2026/06/role-confusion",
+    "Timestamp": "2026-06-25T03:04:03",
+    "Domain": "www.gilesthomas.com",
+    "Description": "LLMs seem to almost ignore 'role' tags like <system>, <user> or <think>, and use the tone of text to infer roles.  This explains a lot of jailbreaks.",
+    "Confidence": 0.9593624
+  },
+  {
+    "Title": "When does data help automated agent engineering? · Andrew Jesson",
+    "Url": "http://www.andrewjesson.com/blog/when-does-data-help-automated-agent-engineering/",
+    "Timestamp": "2026-06-25T03:03:58",
+    "Domain": "www.andrewjesson.com",
+    "Description": "When does data help automated agent engineering?",
+    "Confidence": 0.9933621
+  },
+  {
+    "Title": "Security Is A Political Problem",
+    "Url": "https://blog.miloslavhomer.cz/security-is-a-political-problem/",
+    "Timestamp": "2026-06-25T03:03:55",
+    "Domain": "blog.miloslavhomer.cz",
+    "Description": "Every now and then I meet a (usually) young and passionate security practitioner, uttering sentences like: “But this is just the bare minimum, we have to do (insert here: firewalls, phishing simulations, SAST, bcrypt, encryption at rest... pick one). We cannot work without it!“",
+    "Confidence": 0.99537426
+  },
+  {
+    "Title": "The End of the Craftsman?",
+    "Url": "https://schrottner.at/2026/06/24/The-End-of-the-Craftsman.html",
+    "Timestamp": "2026-06-25T03:03:49",
+    "Domain": "schrottner.at",
+    "Description": "I noticed something a few months ago: I was talking to my colleagues less. Nothing was wrong. I’d have a question, describe it to an AI, get something useful back. Why pull in a human when the loop already closed? It took me a while to notice what that was costing.",
+    "Confidence": 0.9896472
+  },
+  {
+    "Title": "Reinventing The Wheel, Now At A Bargain Price! – zwischenzugs.com",
+    "Url": "https://zwischenzugs.com/2026/06/24/reinventing-the-wheel-now-at-a-bargain-price/",
+    "Timestamp": "2026-06-25T03:03:45",
+    "Domain": "zwischenzugs.com",
+    "Description": "For twenty years, saying “don’t reinvent the wheel” was usually enough to win any argument about writing bespoke software. But that advice assumed two things: writing code was expensive, and importing code was cheap. AI and supply-chain governance are changing both assumptions.",
+    "Confidence": 0.9654174
+  },
+  {
+    "Title": "Vibe Code Is Legacy Code Before It Ships",
+    "Url": "https://www.vincentschmalbach.com/vibe-code-is-legacy-code-before-it-ships/",
+    "Timestamp": "2026-06-25T03:03:40",
+    "Domain": "www.vincentschmalbach.com",
+    "Description": "Vibe coding is useful and fast. Nearly a quarter of the YC W25 batch apparently has codebases that are almost entirely AI-generated. This is a giant leap in speed and capability. But there is a point…",
+    "Confidence": 0.9883735
+  },
+  {
+    "Title": "luck surface area",
+    "Url": "https://blog.danwald.me/luck-surface-area",
+    "Timestamp": "2026-06-25T03:03:35",
+    "Domain": "blog.danwald.me",
+    "Description": "Your luck surface area is the amount of serendipity that will occur in your life.\n\nLuck = Doing * Telling\n\nExpertise is valuable and is created by doing with passion.\nPassion excites like-minded peopl",
+    "Confidence": 0.9641974
+  },
+  {
+    "Title": "You gotta deal with the boring part first - Arnon Shimoni",
+    "Url": "https://arnon.dk/you-gotta-deal-with-the-boring-part-first/",
+    "Timestamp": "2026-06-25T03:03:31",
+    "Domain": "arnon.dk",
+    "Description": "Since 2024 the role of the CMO or marketer in a startup has really changed. Mostly, everyone has the same tools so everyone is producing the same slop at the same time. I can no longer remember times that I’ve read content that looks and sounds exactly the same. They organize cool dinners and then […]",
+    "Confidence": 0.9898334
+  },
+  {
+    "Title": "How to Live Without Options - and Why It's the Key to Happiness",
+    "Url": "https://www.joanwestenberg.com/p/how-to-live-without-options-and-why",
+    "Timestamp": "2026-06-25T03:03:27",
+    "Domain": "www.joanwestenberg.com",
+    "Description": "It turns out closing doors is the key to happiness.",
+    "Confidence": 0.7726593
+  },
+  {
+    "Title": "Building a LoFi radio | Cieslak.dev",
+    "Url": "https://cieslak.dev/en/blog/2026-06-24-lofi/",
+    "Timestamp": "2026-06-25T03:03:22",
+    "Domain": "cieslak.dev",
+    "Description": "After listening to LoFi for quite some time, I decided to build my own radio station.",
+    "Confidence": 0.9342288
+  },
+  {
+    "Title": "Introduction to making Makefiles",
+    "Url": "https://www.jfranken.de/homepages/johannes/vortraege/make.en.html",
+    "Timestamp": "2026-06-25T03:03:17",
+    "Domain": "www.jfranken.de",
+    "Description": "Introduction to making Makefiles",
+    "Confidence": 0.9932914
+  },
+  {
+    "Title": "Debugging in the age of agents",
+    "Url": "https://www.akashtandon.in/ai/2026-06-24-debugging-in-the-age-of-agents/",
+    "Timestamp": "2026-06-25T03:03:13",
+    "Domain": "www.akashtandon.in",
+    "Description": "Coding agents can hand you a confident, detailed, and wrong explanation backed by persuasive evidence. The craft of debugging - building hypotheses, gathering evidence, and knowing a system’s internals - matters as much as ever.",
+    "Confidence": 0.97284454
+  },
+  {
+    "Title": "Still have spare tokens? Use /autoresearch",
+    "Url": "https://elazzabi.com/2026/06/24/still-have-spare-tokens-use-autoresearch/",
+    "Timestamp": "2026-06-25T03:03:10",
+    "Domain": "elazzabi.com",
+    "Description": "Everyone is tokenmaxxing around you, and you are standing there with extra tokens, not sure what to do with all these wasted resources. Normal. We were never blocked by the amount of code we could …",
+    "Confidence": 0.9790473
+  },
+  {
+    "Title": "Slop Paralysis",
+    "Url": "https://elijahpotter.dev/articles/slop-paralysis",
+    "Timestamp": "2026-06-25T03:03:07",
+    "Domain": "elijahpotter.dev",
+    "Description": "A complete or partial loss of function while reviewing the output of a coding agent.",
+    "Confidence": 0.9972021
+  },
+  {
+    "Title": "Building an FDE Motion",
+    "Url": "https://jaygoel.com/posts/building-an-fde-motion/",
+    "Timestamp": "2026-06-25T03:03:01",
+    "Domain": "jaygoel.com",
+    "Description": "How to think about building an FDE org",
+    "Confidence": 0.9877278
+  },
+  {
     "Title": "RubyLLM",
     "Url": "https://rubyllm.com/",
     "Timestamp": "2026-06-24T23:02:15",
@@ -54,13 +206,5 @@
     "Domain": "devblogs.microsoft.com",
     "Description": "Starting in Word and expanding to nearly every other word processor, and even things that aren't word processors.",
     "Confidence": 0.76431185
-  },
-  {
-    "Title": "FUTO Swipe",
-    "Url": "https://swipe.futo.tech/",
-    "Timestamp": "2026-06-24T03:02:45",
-    "Domain": "swipe.futo.tech",
-    "Description": "",
-    "Confidence": 0.97411424
   }
 ]

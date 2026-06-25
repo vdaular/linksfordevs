@@ -7,6 +7,180 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Your Interface Has Two Channels</title>
+      <link>https://tomeraberba.ch/your-interface-has-two-channels</link>
+      <description>This code would easily pass a cursory review: Then one day the endpoint returns a 500, flags becomes { error: 'Internal Server Error' }, no key matches a real option, and the server silently starts…</description>
+      <author> (Tomer Aberbach)</author>
+      <category>rust</category>
+      <category>android</category>
+      <category>python</category>
+      <category>database</category>
+      <category>javascript</category>
+      <guid>https://tomeraberba.ch/your-interface-has-two-channels</guid>
+      <pubDate>Thu, 25 Jun 2026 03:04:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Travellers in a Foreign Land</title>
+      <link>https://rubenflamshepherd.com/articles/2026-06-22-travelers-in-a-foreign-land</link>
+      <description>A mental model for how to think about agentic capabilities</description>
+      <category>ai</category>
+      <category>web</category>
+      <category>typescript</category>
+      <category>database</category>
+      <guid>https://rubenflamshepherd.com/articles/2026-06-22-travelers-in-a-foreign-land</guid>
+      <pubDate>Thu, 25 Jun 2026 03:04:16 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Junior Developer Problem Is Becoming a Senior Developer Problem</title>
+      <link>https://www.vincentschmalbach.com/the-junior-developer-problem-is-becoming-a-senior-developer-problem/</link>
+      <description>AI is fundamentally changing how junior developers learn, but it’s also making senior developers a whole lot less valuable if all they’re doing is taking well-defined tickets and turning them into…</description>
+      <category>ai</category>
+      <guid>https://www.vincentschmalbach.com/the-junior-developer-problem-is-becoming-a-senior-developer-problem/</guid>
+      <pubDate>Thu, 25 Jun 2026 03:04:12 GMT</pubDate>
+    </item>
+    <item>
+      <title>Wagtail as Django admin on steroids</title>
+      <link>https://timonweb.com/wagtail/wagtail-as-django-admin-on-steroids/</link>
+      <description>Wagtail as Django admin on steroids.</description>
+      <category>python</category>
+      <guid>https://timonweb.com/wagtail/wagtail-as-django-admin-on-steroids/</guid>
+      <pubDate>Thu, 25 Jun 2026 03:04:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Thoughts on Role Confusion</title>
+      <link>https://www.gilesthomas.com/2026/06/role-confusion</link>
+      <description>LLMs seem to almost ignore 'role' tags like &lt;system&gt;, &lt;user&gt; or &lt;think&gt;, and use the tone of text to infer roles.  This explains a lot of jailbreaks.</description>
+      <author> (Giles Thomas)</author>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://www.gilesthomas.com/2026/06/role-confusion</guid>
+      <pubDate>Thu, 25 Jun 2026 03:04:03 GMT</pubDate>
+    </item>
+    <item>
+      <title>When does data help automated agent engineering? · Andrew Jesson</title>
+      <link>http://www.andrewjesson.com/blog/when-does-data-help-automated-agent-engineering/</link>
+      <description>When does data help automated agent engineering?</description>
+      <category>encryption</category>
+      <category>linux</category>
+      <category>ides</category>
+      <category>javascript</category>
+      <category>ai</category>
+      <guid>http://www.andrewjesson.com/blog/when-does-data-help-automated-agent-engineering/</guid>
+      <pubDate>Thu, 25 Jun 2026 03:03:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>Security Is A Political Problem</title>
+      <link>https://blog.miloslavhomer.cz/security-is-a-political-problem/</link>
+      <description>Every now and then I meet a (usually) young and passionate security practitioner, uttering sentences like: “But this is just the bare minimum, we have to do (insert here: firewalls, phishing simulations, SAST, bcrypt, encryption at rest... pick one). We cannot work without it!“</description>
+      <category>encryption</category>
+      <guid>https://blog.miloslavhomer.cz/security-is-a-political-problem/</guid>
+      <pubDate>Thu, 25 Jun 2026 03:03:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>The End of the Craftsman?</title>
+      <link>https://schrottner.at/2026/06/24/The-End-of-the-Craftsman.html</link>
+      <description>I noticed something a few months ago: I was talking to my colleagues less. Nothing was wrong. I’d have a question, describe it to an AI, get something useful back. Why pull in a human when the loop already closed? It took me a while to notice what that was costing.</description>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://schrottner.at/2026/06/24/The-End-of-the-Craftsman.html</guid>
+      <pubDate>Thu, 25 Jun 2026 03:03:49 GMT</pubDate>
+    </item>
+    <item>
+      <title>Reinventing The Wheel, Now At A Bargain Price! – zwischenzugs.com</title>
+      <link>https://zwischenzugs.com/2026/06/24/reinventing-the-wheel-now-at-a-bargain-price/</link>
+      <description>For twenty years, saying “don’t reinvent the wheel” was usually enough to win any argument about writing bespoke software. But that advice assumed two things: writing code was expensive, and importing code was cheap. AI and supply-chain governance are changing both assumptions.</description>
+      <category>javascript</category>
+      <guid>https://zwischenzugs.com/2026/06/24/reinventing-the-wheel-now-at-a-bargain-price/</guid>
+      <pubDate>Thu, 25 Jun 2026 03:03:45 GMT</pubDate>
+    </item>
+    <item>
+      <title>Vibe Code Is Legacy Code Before It Ships</title>
+      <link>https://www.vincentschmalbach.com/vibe-code-is-legacy-code-before-it-ships/</link>
+      <description>Vibe coding is useful and fast. Nearly a quarter of the YC W25 batch apparently has codebases that are almost entirely AI-generated. This is a giant leap in speed and capability. But there is a point…</description>
+      <category>ai</category>
+      <guid>https://www.vincentschmalbach.com/vibe-code-is-legacy-code-before-it-ships/</guid>
+      <pubDate>Thu, 25 Jun 2026 03:03:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>luck surface area</title>
+      <link>https://blog.danwald.me/luck-surface-area</link>
+      <description>Your luck surface area is the amount of serendipity that will occur in your life.
+
+Luck = Doing * Telling
+
+Expertise is valuable and is created by doing with passion.
+Passion excites like-minded peopl</description>
+      <author> (https://blog.danwald.me/@danwald)</author>
+      <guid>https://blog.danwald.me/luck-surface-area</guid>
+      <pubDate>Thu, 25 Jun 2026 03:03:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>You gotta deal with the boring part first - Arnon Shimoni</title>
+      <link>https://arnon.dk/you-gotta-deal-with-the-boring-part-first/</link>
+      <description>Since 2024 the role of the CMO or marketer in a startup has really changed. Mostly, everyone has the same tools so everyone is producing the same slop at the same time. I can no longer remember times that I’ve read content that looks and sounds exactly the same. They organize cool dinners and then […]</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://arnon.dk/you-gotta-deal-with-the-boring-part-first/</guid>
+      <pubDate>Thu, 25 Jun 2026 03:03:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>How to Live Without Options - and Why It's the Key to Happiness</title>
+      <link>https://www.joanwestenberg.com/p/how-to-live-without-options-and-why</link>
+      <description>It turns out closing doors is the key to happiness.</description>
+      <category>apple</category>
+      <guid>https://www.joanwestenberg.com/p/how-to-live-without-options-and-why</guid>
+      <pubDate>Thu, 25 Jun 2026 03:03:27 GMT</pubDate>
+    </item>
+    <item>
+      <title>Building a LoFi radio | Cieslak.dev</title>
+      <link>https://cieslak.dev/en/blog/2026-06-24-lofi/</link>
+      <description>After listening to LoFi for quite some time, I decided to build my own radio station.</description>
+      <category>conference</category>
+      <category>dotnet</category>
+      <category>youtube</category>
+      <guid>https://cieslak.dev/en/blog/2026-06-24-lofi/</guid>
+      <pubDate>Thu, 25 Jun 2026 03:03:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>Introduction to making Makefiles</title>
+      <link>https://www.jfranken.de/homepages/johannes/vortraege/make.en.html</link>
+      <description>Introduction to making Makefiles</description>
+      <guid>https://www.jfranken.de/homepages/johannes/vortraege/make.en.html</guid>
+      <pubDate>Thu, 25 Jun 2026 03:03:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Debugging in the age of agents</title>
+      <link>https://www.akashtandon.in/ai/2026-06-24-debugging-in-the-age-of-agents/</link>
+      <description>Coding agents can hand you a confident, detailed, and wrong explanation backed by persuasive evidence. The craft of debugging - building hypotheses, gathering evidence, and knowing a system’s internals - matters as much as ever.</description>
+      <category>ai</category>
+      <guid>https://www.akashtandon.in/ai/2026-06-24-debugging-in-the-age-of-agents/</guid>
+      <pubDate>Thu, 25 Jun 2026 03:03:13 GMT</pubDate>
+    </item>
+    <item>
+      <title>Still have spare tokens? Use /autoresearch</title>
+      <link>https://elazzabi.com/2026/06/24/still-have-spare-tokens-use-autoresearch/</link>
+      <description>Everyone is tokenmaxxing around you, and you are standing there with extra tokens, not sure what to do with all these wasted resources. Normal. We were never blocked by the amount of code we could …</description>
+      <guid>https://elazzabi.com/2026/06/24/still-have-spare-tokens-use-autoresearch/</guid>
+      <pubDate>Thu, 25 Jun 2026 03:03:10 GMT</pubDate>
+    </item>
+    <item>
+      <title>Slop Paralysis</title>
+      <link>https://elijahpotter.dev/articles/slop-paralysis</link>
+      <description>A complete or partial loss of function while reviewing the output of a coding agent.</description>
+      <guid>https://elijahpotter.dev/articles/slop-paralysis</guid>
+      <pubDate>Thu, 25 Jun 2026 03:03:07 GMT</pubDate>
+    </item>
+    <item>
+      <title>Building an FDE Motion</title>
+      <link>https://jaygoel.com/posts/building-an-fde-motion/</link>
+      <description>How to think about building an FDE org</description>
+      <category>database</category>
+      <category>ides</category>
+      <category>gaming</category>
+      <guid>https://jaygoel.com/posts/building-an-fde-motion/</guid>
+      <pubDate>Thu, 25 Jun 2026 03:03:01 GMT</pubDate>
+    </item>
+    <item>
       <title>RubyLLM</title>
       <link>https://rubyllm.com/</link>
       <description>A single, beautiful Ruby framework for all major AI providers. Easily build chatbots, AI agents, RAG applications, content generators, and every AI workflow you can think of.</description>
@@ -69,14 +243,6 @@ But Expansion Cards use USB-C for their connection to the mainboard—and therei
       <category>gaming</category>
       <guid>https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451</guid>
       <pubDate>Wed, 24 Jun 2026 07:02:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>FUTO Swipe</title>
-      <link>https://swipe.futo.tech/</link>
-      <description></description>
-      <category>android</category>
-      <guid>https://swipe.futo.tech/</guid>
-      <pubDate>Wed, 24 Jun 2026 03:02:45 GMT</pubDate>
     </item>
   </channel>
 </rss>
