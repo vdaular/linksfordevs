@@ -1,5 +1,82 @@
 [
   {
+    "Title": "Every Team is Building the Same Cache — TierFS",
+    "Url": "https://www.tierfs.com/blog/every-team-builds-the-same-cache.html",
+    "Timestamp": "2026-06-25T23:03:04",
+    "Domain": "www.tierfs.com",
+    "Description": "Why infrastructure teams keep solving the same storage problem from scratch, and what would happen if they didn't have to."
+  },
+  {
+    "Title": "Why aren't there more AlphaFolds?",
+    "Url": "https://nkeivan.com/writing/why-no-more-alphafolds",
+    "Timestamp": "2026-06-25T23:02:59",
+    "Domain": "nkeivan.com",
+    "Description": "Most of science isn't text"
+  },
+  {
+    "Title": "Accidental anonymity",
+    "Url": "https://macwright.com/2026/06/24/accidental-anonymity",
+    "Timestamp": "2026-06-25T23:02:55",
+    "Domain": "macwright.com",
+    "Description": "JavaScript, math, maps, etc"
+  },
+  {
+    "Title": "Scaling Rails at Aura Frames: Splitting to 8 Primary DBs and Reaching #1 in the App Store",
+    "Url": "https://andyatkinson.com/how-aura-frames-scales-for-peak-load-ruby-on-rails",
+    "Timestamp": "2026-06-25T23:02:52",
+    "Domain": "andyatkinson.com",
+    "Description": "📌 Overview Ruby on Rails has helped make it possible to scale out the database layer, meeting the demands of millions of Aura Frames customers enjoying their digital photo frames. In late 2025, the team added additional primary databases to expand capacity for peak write and read load ahead of Christmas Day, the busiest day of the year for the company. Rails manages queries and schema changes for each primary database within the same codebase, and now with the additional capacity of many primary databases. With 8 primary databases in total, each server instance can be vertically scaled ahead of peak load. When load returns to normal levels, instances are scaled down for cost savings. The team leveraged native support for Multiple Databases and the disable_joins: true feature in Active Record, the ORM for Ruby on Rails. The disable_joins feature replaces SQL joins, issuing multiple SELECT statements to combine data in the application from different databases. This post looks back at the technical details of that plan, as well as a variety of additional data layer scaling tactics, that culminated in a successful Christmas 2025 season, with peak U.S. and Canadian Apple App Store and Google Play Store rankings of #1."
+  },
+  {
+    "Title": "Repricing of Software Engineering Labor",
+    "Url": "https://blog.grandimam.com/posts/repricing-of-software-engineering-labor/",
+    "Timestamp": "2026-06-25T23:02:48",
+    "Domain": "blog.grandimam.com",
+    "Description": "As AI compresses implementation costs, the market is repricing software engineering labor—collapsing the premium for generalists while raising the value of deep expertise."
+  },
+  {
+    "Title": "Throwing my Roku in the trash • Cory Dransfeldt",
+    "Url": "https://www.coryd.dev/posts/2026/throwing-my-roku-in-the-trash",
+    "Timestamp": "2026-06-25T23:02:44",
+    "Domain": "www.coryd.dev",
+    "Description": "I work from a big corner desk and part of the space on that desk is taken up by a small TV positioned in the corner. I use it occasionally and, for the longest time, it's had a Roku stick attached to it. It's reliable, but the UI has been filled with more and more cruft when all I ever want to do is launch Jellyfin."
+  },
+  {
+    "Title": "Konrad Hinsen's blog",
+    "Url": "https://blog.khinsen.net/posts/2026/06/25/cultures.html",
+    "Timestamp": "2026-06-25T23:02:40",
+    "Domain": "blog.khinsen.net",
+    "Description": "2026-06-25\n  science, scientific software"
+  },
+  {
+    "Title": "font-family recommendations — Chris Morgan",
+    "Url": "https://chrismorgan.info/font-family",
+    "Timestamp": "2026-06-25T23:02:37",
+    "Domain": "chrismorgan.info",
+    "Description": "Draft: started 2026-05-09 • Tagged /css, /opinions"
+  },
+  {
+    "Title": "The Problem is Prompt Debt",
+    "Url": "https://www.dbreunig.com/2026/06/22/the-problem-is-prompt-debt.html",
+    "Timestamp": "2026-06-25T23:02:32",
+    "Domain": "www.dbreunig.com",
+    "Description": "The plain-English prompt that makes prototypes effortless turns out to be a poor way to specify how a system should behave, and the bill arrives slowly, disguised as ordinary progress, until the application can barely move."
+  },
+  {
+    "Title": "Claudecaine · Baptiste Fontaine’s Blog",
+    "Url": "https://bfontaine.net/blog/2026/06/25/claudecaine/",
+    "Timestamp": "2026-06-25T23:02:28",
+    "Domain": "bfontaine.net",
+    "Description": "Tips and tricks in Python, Bash, Clojure and other languages/environments."
+  },
+  {
+    "Title": "The favors we used to need",
+    "Url": "https://davidpoblador.com/blog/the-favors-we-used-to-need.html",
+    "Timestamp": "2026-06-25T23:02:23",
+    "Domain": "davidpoblador.com",
+    "Description": "Work used to run on a quiet economy of small favors, and whole layers of managers grew up to keep it fair and fast. Then I shipped something I'd normally have called a friend to help with, alone, in an afternoon. No favor asked, no debt owed. When agents can do that for almost any small experiment, the roles built to smooth the favor chain don't vanish, they invert."
+  },
+  {
     "Title": "An entire Herculaneum scroll has been read for the first time",
     "Url": "https://scrollprize.org/firstscroll",
     "Timestamp": "2026-06-25T19:02:26",

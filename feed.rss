@@ -7,6 +7,112 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Every Team is Building the Same Cache — TierFS</title>
+      <link>https://www.tierfs.com/blog/every-team-builds-the-same-cache.html</link>
+      <description>Why infrastructure teams keep solving the same storage problem from scratch, and what would happen if they didn't have to.</description>
+      <category>containers</category>
+      <category>javascript</category>
+      <category>cloud</category>
+      <category>rust</category>
+      <category>ai</category>
+      <guid>https://www.tierfs.com/blog/every-team-builds-the-same-cache.html</guid>
+      <pubDate>Thu, 25 Jun 2026 23:03:04 GMT</pubDate>
+    </item>
+    <item>
+      <title>Why aren't there more AlphaFolds?</title>
+      <link>https://nkeivan.com/writing/why-no-more-alphafolds</link>
+      <description>Most of science isn't text</description>
+      <author> (Nima Keivan)</author>
+      <category>ai</category>
+      <category>cloud</category>
+      <guid>https://nkeivan.com/writing/why-no-more-alphafolds</guid>
+      <pubDate>Thu, 25 Jun 2026 23:02:59 GMT</pubDate>
+    </item>
+    <item>
+      <title>Accidental anonymity</title>
+      <link>https://macwright.com/2026/06/24/accidental-anonymity</link>
+      <description>JavaScript, math, maps, etc</description>
+      <guid>https://macwright.com/2026/06/24/accidental-anonymity</guid>
+      <pubDate>Thu, 25 Jun 2026 23:02:55 GMT</pubDate>
+    </item>
+    <item>
+      <title>Scaling Rails at Aura Frames: Splitting to 8 Primary DBs and Reaching #1 in the App Store</title>
+      <link>https://andyatkinson.com/how-aura-frames-scales-for-peak-load-ruby-on-rails</link>
+      <description>📌 Overview Ruby on Rails has helped make it possible to scale out the database layer, meeting the demands of millions of Aura Frames customers enjoying their digital photo frames. In late 2025, the team added additional primary databases to expand capacity for peak write and read load ahead of Christmas Day, the busiest day of the year for the company. Rails manages queries and schema changes for each primary database within the same codebase, and now with the additional capacity of many primary databases. With 8 primary databases in total, each server instance can be vertically scaled ahead of peak load. When load returns to normal levels, instances are scaled down for cost savings. The team leveraged native support for Multiple Databases and the disable_joins: true feature in Active Record, the ORM for Ruby on Rails. The disable_joins feature replaces SQL joins, issuing multiple SELECT statements to combine data in the application from different databases. This post looks back at the technical details of that plan, as well as a variety of additional data layer scaling tactics, that culminated in a successful Christmas 2025 season, with peak U.S. and Canadian Apple App Store and Google Play Store rankings of #1.</description>
+      <category>ruby</category>
+      <category>database</category>
+      <category>git</category>
+      <category>conference</category>
+      <category>apple</category>
+      <guid>https://andyatkinson.com/how-aura-frames-scales-for-peak-load-ruby-on-rails</guid>
+      <pubDate>Thu, 25 Jun 2026 23:02:52 GMT</pubDate>
+    </item>
+    <item>
+      <title>Repricing of Software Engineering Labor</title>
+      <link>https://blog.grandimam.com/posts/repricing-of-software-engineering-labor/</link>
+      <description>As AI compresses implementation costs, the market is repricing software engineering labor—collapsing the premium for generalists while raising the value of deep expertise.</description>
+      <category>containers</category>
+      <category>ai</category>
+      <guid>https://blog.grandimam.com/posts/repricing-of-software-engineering-labor/</guid>
+      <pubDate>Thu, 25 Jun 2026 23:02:48 GMT</pubDate>
+    </item>
+    <item>
+      <title>Throwing my Roku in the trash • Cory Dransfeldt</title>
+      <link>https://www.coryd.dev/posts/2026/throwing-my-roku-in-the-trash</link>
+      <description>I work from a big corner desk and part of the space on that desk is taken up by a small TV positioned in the corner. I use it occasionally and, for the longest time, it's had a Roku stick attached to it. It's reliable, but the UI has been filled with more and more cruft when all I ever want to do is launch Jellyfin.</description>
+      <author> (https://www.coryd.dev)</author>
+      <category>android</category>
+      <category>apple</category>
+      <category>youtube</category>
+      <guid>https://www.coryd.dev/posts/2026/throwing-my-roku-in-the-trash</guid>
+      <pubDate>Thu, 25 Jun 2026 23:02:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>Konrad Hinsen's blog</title>
+      <link>https://blog.khinsen.net/posts/2026/06/25/cultures.html</link>
+      <description>2026-06-25
+  science, scientific software</description>
+      <category>ai</category>
+      <guid>https://blog.khinsen.net/posts/2026/06/25/cultures.html</guid>
+      <pubDate>Thu, 25 Jun 2026 23:02:40 GMT</pubDate>
+    </item>
+    <item>
+      <title>font-family recommendations — Chris Morgan</title>
+      <link>https://chrismorgan.info/font-family</link>
+      <description>Draft: started 2026-05-09 • Tagged /css, /opinions</description>
+      <category>apple</category>
+      <category>web</category>
+      <category>android</category>
+      <category>javascript</category>
+      <guid>https://chrismorgan.info/font-family</guid>
+      <pubDate>Thu, 25 Jun 2026 23:02:37 GMT</pubDate>
+    </item>
+    <item>
+      <title>The Problem is Prompt Debt</title>
+      <link>https://www.dbreunig.com/2026/06/22/the-problem-is-prompt-debt.html</link>
+      <description>The plain-English prompt that makes prototypes effortless turns out to be a poor way to specify how a system should behave, and the bill arrives slowly, disguised as ordinary progress, until the application can barely move.</description>
+      <category>ai</category>
+      <guid>https://www.dbreunig.com/2026/06/22/the-problem-is-prompt-debt.html</guid>
+      <pubDate>Thu, 25 Jun 2026 23:02:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Claudecaine · Baptiste Fontaine’s Blog</title>
+      <link>https://bfontaine.net/blog/2026/06/25/claudecaine/</link>
+      <description>Tips and tricks in Python, Bash, Clojure and other languages/environments.</description>
+      <category>ai</category>
+      <guid>https://bfontaine.net/blog/2026/06/25/claudecaine/</guid>
+      <pubDate>Thu, 25 Jun 2026 23:02:28 GMT</pubDate>
+    </item>
+    <item>
+      <title>The favors we used to need</title>
+      <link>https://davidpoblador.com/blog/the-favors-we-used-to-need.html</link>
+      <description>Work used to run on a quiet economy of small favors, and whole layers of managers grew up to keep it fair and fast. Then I shipped something I'd normally have called a friend to help with, alone, in an afternoon. No favor asked, no debt owed. When agents can do that for almost any small experiment, the roles built to smooth the favor chain don't vanish, they invert.</description>
+      <author> (David Poblador i Garcia)</author>
+      <category>ai</category>
+      <guid>https://davidpoblador.com/blog/the-favors-we-used-to-need.html</guid>
+      <pubDate>Thu, 25 Jun 2026 23:02:23 GMT</pubDate>
+    </item>
+    <item>
       <title>An entire Herculaneum scroll has been read for the first time</title>
       <link>https://scrollprize.org/firstscroll</link>
       <description>PHerc. 1667, sealed since the eruption of Vesuvius in 79 AD, has been virtually unwrapped and read from beginning to end — without ever being opened.</description>
@@ -241,24 +347,6 @@ Passion excites like-minded peopl</description>
       <category>gaming</category>
       <guid>https://jaygoel.com/posts/building-an-fde-motion/</guid>
       <pubDate>Thu, 25 Jun 2026 03:03:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>RubyLLM</title>
-      <link>https://rubyllm.com/</link>
-      <description>A single, beautiful Ruby framework for all major AI providers. Easily build chatbots, AI agents, RAG applications, content generators, and every AI workflow you can think of.</description>
-      <category>ruby</category>
-      <category>ai</category>
-      <category>javascript</category>
-      <guid>https://rubyllm.com/</guid>
-      <pubDate>Wed, 24 Jun 2026 23:02:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>OpenAI unveils its first custom chip, built by Broadcom | TechCrunch</title>
-      <link>https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/</link>
-      <description>Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems.</description>
-      <category>ai</category>
-      <guid>https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/</guid>
-      <pubDate>Wed, 24 Jun 2026 23:02:11 GMT</pubDate>
     </item>
   </channel>
 </rss>
