@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Baryon Asymmetry",
+    "Url": "https://xkcd.com/3263/",
+    "Timestamp": "2026-06-25T07:02:36",
+    "Domain": "xkcd.com",
+    "Description": "",
+    "Confidence": 0.98151064
+  },
+  {
     "Title": "Your Interface Has Two Channels",
     "Url": "https://tomeraberba.ch/your-interface-has-two-channels",
     "Timestamp": "2026-06-25T03:04:20",
@@ -198,13 +206,5 @@
     "Domain": "words.filippo.io",
     "Description": "We needed the insight and confidentiality to protect our users, but now that anyone can get the same results from LLM?",
     "Confidence": 0.9683697
-  },
-  {
-    "Title": "In memory of the man who put red and green squiggles under words - The Old New Thing",
-    "Url": "https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451",
-    "Timestamp": "2026-06-24T07:02:15",
-    "Domain": "devblogs.microsoft.com",
-    "Description": "Starting in Word and expanding to nearly every other word processor, and even things that aren't word processors.",
-    "Confidence": 0.76431185
   }
 ]

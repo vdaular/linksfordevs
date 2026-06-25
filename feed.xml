@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Baryon Asymmetry</title>
+      <link>https://xkcd.com/3263/</link>
+      <description></description>
+      <category>apple</category>
+      <category>javascript</category>
+      <guid>https://xkcd.com/3263/</guid>
+      <pubDate>Thu, 25 Jun 2026 07:02:36 GMT</pubDate>
+    </item>
+    <item>
       <title>Your Interface Has Two Channels</title>
       <link>https://tomeraberba.ch/your-interface-has-two-channels</link>
       <description>This code would easily pass a cursory review: Then one day the endpoint returns a 500, flags becomes { error: 'Internal Server Error' }, no key matches a real option, and the server silently starts…</description>
@@ -234,15 +243,6 @@ But Expansion Cards use USB-C for their connection to the mainboard—and therei
       <description>We needed the insight and confidentiality to protect our users, but now that anyone can get the same results from LLM?</description>
       <guid>https://words.filippo.io/vuln-reports/</guid>
       <pubDate>Wed, 24 Jun 2026 11:02:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>In memory of the man who put red and green squiggles under words - The Old New Thing</title>
-      <link>https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451</link>
-      <description>Starting in Word and expanding to nearly every other word processor, and even things that aren't word processors.</description>
-      <category>apple</category>
-      <category>gaming</category>
-      <guid>https://devblogs.microsoft.com/oldnewthing/20260622-00/?p=112451</guid>
-      <pubDate>Wed, 24 Jun 2026 07:02:15 GMT</pubDate>
     </item>
   </channel>
 </rss>
