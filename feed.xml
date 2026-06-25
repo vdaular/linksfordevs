@@ -237,12 +237,5 @@ But Expansion Cards use USB-C for their connection to the mainboard—and therei
       <guid>https://paolino.me/founding-a-company-in-germany/</guid>
       <pubDate>Wed, 24 Jun 2026 15:02:21 GMT</pubDate>
     </item>
-    <item>
-      <title>Vulnerability Reports Are Not Special Anymore</title>
-      <link>https://words.filippo.io/vuln-reports/</link>
-      <description>We needed the insight and confidentiality to protect our users, but now that anyone can get the same results from LLM?</description>
-      <guid>https://words.filippo.io/vuln-reports/</guid>
-      <pubDate>Wed, 24 Jun 2026 11:02:08 GMT</pubDate>
-    </item>
   </channel>
 </rss>
