@@ -1,5 +1,13 @@
 [
   {
+    "Title": "web hl2",
+    "Url": "https://hl2.slqnt.dev/",
+    "Timestamp": "2026-06-25T15:02:25",
+    "Domain": "hl2.slqnt.dev",
+    "Description": "Downloading map bootstrap",
+    "Confidence": 0.94725674
+  },
+  {
     "Title": "Baryon Asymmetry",
     "Url": "https://xkcd.com/3263/",
     "Timestamp": "2026-06-25T07:02:36",
@@ -174,29 +182,5 @@
     "Domain": "techcrunch.com",
     "Description": "Named Jalapeño, the new processor was designed specifically for the unique needs of OpenAI's inference systems.",
     "Confidence": 0.740362
-  },
-  {
-    "Title": "We’re making Bunny DNS free",
-    "Url": "https://bunny.net/blog/were-making-bunny-dns-free/",
-    "Timestamp": "2026-06-24T15:02:30",
-    "Domain": "bunny.net",
-    "Description": "Your DNS bill shouldn't scale with your traffic. So we removed query fees from Bunny DNS entirely. No per-request billing and no query limits.",
-    "Confidence": 0.9848352
-  },
-  {
-    "Title": "Framework's 10G Ethernet module exposes USB-C's complexity",
-    "Url": "https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/",
-    "Timestamp": "2026-06-24T15:02:25",
-    "Domain": "www.jeffgeerling.com",
-    "Description": "I've been following WisdPi's development of various 5 Gbps and 10 Gbps Ethernet adapters for the past couple years.\nThey use newer Realtek Ethernet chips, which sometimes have performance quirks—most frequently encountered under Linux.\nIn today's video, I tested the new WisdPi 10G Ethernet Expansion Card for Framework computers. It fits in any available Framework Expansion slot—even on the Framework Desktop.\nBut Expansion Cards use USB-C for their connection to the mainboard—and therein lies the rub...",
-    "Confidence": 0.95924133
-  },
-  {
-    "Title": "Founding a Company in Germany: €9,600, 152 Days, and I Still Can’t Send an Invoice",
-    "Url": "https://paolino.me/founding-a-company-in-germany/",
-    "Timestamp": "2026-06-24T15:02:21",
-    "Domain": "paolino.me",
-    "Description": "I started a company in Germany in late January. By late June I had spent 9,600 euros, registered two companies, and still cannot issue a single invoice of my...",
-    "Confidence": 0.91190994
   }
 ]

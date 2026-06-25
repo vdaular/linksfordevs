@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>web hl2</title>
+      <link>https://hl2.slqnt.dev/</link>
+      <description>Downloading map bootstrap</description>
+      <guid>https://hl2.slqnt.dev/</guid>
+      <pubDate>Thu, 25 Jun 2026 15:02:25 GMT</pubDate>
+    </item>
+    <item>
       <title>Baryon Asymmetry</title>
       <link>https://xkcd.com/3263/</link>
       <description></description>
@@ -206,36 +213,6 @@ Passion excites like-minded peopl</description>
       <category>ai</category>
       <guid>https://techcrunch.com/2026/06/24/openai-unveils-its-first-custom-chip-built-by-broadcom/</guid>
       <pubDate>Wed, 24 Jun 2026 23:02:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>We’re making Bunny DNS free</title>
-      <link>https://bunny.net/blog/were-making-bunny-dns-free/</link>
-      <description>Your DNS bill shouldn't scale with your traffic. So we removed query fees from Bunny DNS entirely. No per-request billing and no query limits.</description>
-      <category>javascript</category>
-      <guid>https://bunny.net/blog/were-making-bunny-dns-free/</guid>
-      <pubDate>Wed, 24 Jun 2026 15:02:30 GMT</pubDate>
-    </item>
-    <item>
-      <title>Framework's 10G Ethernet module exposes USB-C's complexity</title>
-      <link>https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/</link>
-      <description>I've been following WisdPi's development of various 5 Gbps and 10 Gbps Ethernet adapters for the past couple years.
-They use newer Realtek Ethernet chips, which sometimes have performance quirks—most frequently encountered under Linux.
-In today's video, I tested the new WisdPi 10G Ethernet Expansion Card for Framework computers. It fits in any available Framework Expansion slot—even on the Framework Desktop.
-But Expansion Cards use USB-C for their connection to the mainboard—and therein lies the rub...</description>
-      <category>linux</category>
-      <category>ai</category>
-      <category>dotnet</category>
-      <guid>https://www.jeffgeerling.com/blog/2026/framework-10g-ethernet-module-usb-c-complexity/</guid>
-      <pubDate>Wed, 24 Jun 2026 15:02:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Founding a Company in Germany: €9,600, 152 Days, and I Still Can’t Send an Invoice</title>
-      <link>https://paolino.me/founding-a-company-in-germany/</link>
-      <description>I started a company in Germany in late January. By late June I had spent 9,600 euros, registered two companies, and still cannot issue a single invoice of my...</description>
-      <category>apple</category>
-      <category>ai</category>
-      <guid>https://paolino.me/founding-a-company-in-germany/</guid>
-      <pubDate>Wed, 24 Jun 2026 15:02:21 GMT</pubDate>
     </item>
   </channel>
 </rss>
