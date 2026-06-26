@@ -7,6 +7,17 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Quickly apply LUTs (color grading) with ffmpeg</title>
+      <link>https://www.jeffgeerling.com/blog/2026/apply-lut-color-grade-with-ffmpeg/</link>
+      <description>This is a quick post, mostly for my own reference.
+I've avoided LUTs and 'Log' video footage for years1, mostly because of the extra tiny bit of workflow involved. Like RAW photos, 'Log' footage retains the video sensor's full dynamic range, so you can pull more color and luminance information out of the footage later.
+But unlike photography, where RAW has been a thing for decades, and many workflows 'just work' without me having to 'grade' every individual photo, in video precious few consumer apps handle Log footage gracefully. You generally end up with a muddy grey mess.</description>
+      <category>apple</category>
+      <category>dotnet</category>
+      <guid>https://www.jeffgeerling.com/blog/2026/apply-lut-color-grade-with-ffmpeg/</guid>
+      <pubDate>Fri, 26 Jun 2026 07:02:20 GMT</pubDate>
+    </item>
+    <item>
       <title>The ‘papers, please’ era of the internet will decimate your privacy</title>
       <link>https://expression.fire.org/p/the-papers-please-era-of-the-internet</link>
       <description>Americans, be warned: Age verification is identity verification.</description>
@@ -180,15 +191,6 @@ Video Credit: Pinal County Sheriff - https://www.youtube.com/@UCkQLMKbkhyCDJmY1M
       <description>Downloading map bootstrap</description>
       <guid>https://hl2.slqnt.dev/</guid>
       <pubDate>Thu, 25 Jun 2026 15:02:25 GMT</pubDate>
-    </item>
-    <item>
-      <title>Baryon Asymmetry</title>
-      <link>https://xkcd.com/3263/</link>
-      <description></description>
-      <category>apple</category>
-      <category>javascript</category>
-      <guid>https://xkcd.com/3263/</guid>
-      <pubDate>Thu, 25 Jun 2026 07:02:36 GMT</pubDate>
     </item>
   </channel>
 </rss>
