@@ -1,5 +1,187 @@
 [
   {
+    "Title": "Tuning a Server for Benchmarking | David Álvarez Rosa | Personal Site",
+    "Url": "https://david.alvarezrosa.com/posts/tuning-a-server-for-benchmarking/",
+    "Timestamp": "2026-06-26T23:03:31",
+    "Domain": "david.alvarezrosa.com",
+    "Description": "Optimizing code starts with measuring it, and a measurement is only useful if it is repeatable: a 2% improvement is invisible under 5% of noise. Yet on an …"
+  },
+  {
+    "Title": "Reflecting to optimise | Magnus Ross",
+    "Url": "https://magnusross.github.io/posts/reflecting-to-optimise/",
+    "Timestamp": "2026-06-26T23:03:28",
+    "Domain": "magnusross.github.io",
+    "Description": "This is nothing to be proud of, but I have never really studied optimisation in depth. Oh sure, I know my Adam from my AdaGrad and I even used L-BFGS one time, but when people start talking about dual spaces and convergence for L∞L^\\infty continuous functions, I tend to glaze over a bit. For some reason I think in my head a lot of it seemed a bit old fashioned, whatever that means; why do I need to learn about optimising constrained convex functions in the gradient-descent-for-everything-wait-actually-just-use-a-pre-trained-model era? Isn’t that what they used to, like, make the cheapest possible diet? Boring!"
+  },
+  {
+    "Title": "A month of vibe-coding at 0.01x velocity",
+    "Url": "https://webesque.agency/blog/2026-06-19-llms.html",
+    "Timestamp": "2026-06-26T23:03:24",
+    "Domain": "webesque.agency",
+    "Description": "Exchanging my data for service use, I took up OpenAI's offer for a free   trial of ChatGPT Plus for a month. After slowly vibecoding an IDE plugin   throughout last month, I'm eager to share my notes and lingering thoughts."
+  },
+  {
+    "Title": "Chatbots vs. Ozone",
+    "Url": "https://blog.dshr.org/2026/05/chatbots-vs-ozone.html",
+    "Timestamp": "2026-06-26T23:03:19",
+    "Domain": "blog.dshr.org",
+    "Description": "Source  Back in February I posted The Kessler Syndrome , which also included a brief section mentioning the impacts of the proposed megacons..."
+  },
+  {
+    "Title": "Designing a personal Pebble watchface",
+    "Url": "https://www.jonashietala.se/blog/2026/06/26/designing_a_personal_pebble_watchface/",
+    "Timestamp": "2026-06-26T23:03:15",
+    "Domain": "www.jonashietala.se",
+    "Description": "I recently got a Pebble Time 2 as it seemed like a fun smartwatch away from Google/Apple/Samsung with a good 4 weeks of battery life.\nOne thing I wanted to do is to create a custom watchface for my specific problems."
+  },
+  {
+    "Title": "Why software engineers are grieving",
+    "Url": "https://dev.jimgrey.net/2026/06/25/why-software-engineers-are-grieving/",
+    "Timestamp": "2026-06-26T23:03:10",
+    "Domain": "dev.jimgrey.net",
+    "Description": "Mission, craft, and the end of a historically unusual moment."
+  },
+  {
+    "Title": "bertolami",
+    "Url": "https://bertolami.com/blog/cascade-neural-image-compression",
+    "Timestamp": "2026-06-26T23:03:06",
+    "Domain": "bertolami.com",
+    "Description": "Joe Bertolami's portfolio and blog covering artificial intelligence, game development, computer graphics, data compression, and more."
+  },
+  {
+    "Title": "June Spam wave",
+    "Url": "https://blog.vasi.li/june-spam-wave/",
+    "Timestamp": "2026-06-26T23:03:03",
+    "Domain": "blog.vasi.li",
+    "Description": "I've been observing a new email spam wave hitting my servers in the last couple of weeks...\n\nWay above the normal \"background radiation levels\" for my server... 99% of them are poorly configured, and usually fail during \"does the sender domain actually exist in DNS\" stage... Not to mention"
+  },
+  {
+    "Title": "Scaling Laws, Carefully",
+    "Url": "https://lilianweng.github.io/posts/2026-06-24-scaling-laws/",
+    "Timestamp": "2026-06-26T23:02:59",
+    "Domain": "lilianweng.github.io",
+    "Description": "Scaling laws are one of the most critical empirical findings in deep learning. The observation is simple in form: the training loss $L$ decreases predictably as we scale up model size $N$, dataset size $D$, and compute $C$, following a power-law curve, which appears as a straight line on a log-log plot. We can view scaling laws as a framework for describing the relationship between compute, loss, model size and data; at its core, it is about how to allocate precious compute optimally between $N$ and $D$."
+  },
+  {
+    "Title": "Flatpak.org Rewrite | Jakub Steiner",
+    "Url": "https://blog.jimmac.eu/posts/flatpak-org-zola/",
+    "Timestamp": "2026-06-26T23:02:54",
+    "Domain": "blog.jimmac.eu",
+    "Description": "Flatpak website deserved a better backend."
+  },
+  {
+    "Title": "Wakamoleguy - home of the wakamoleguy",
+    "Url": "https://wakamoleguy.com/p/flexible-gates",
+    "Timestamp": "2026-06-26T23:02:50",
+    "Domain": "wakamoleguy.com",
+    "Description": "When you need an approval checkpoint but don't want it everywhere, make the gate required but flexible in formality rather than optional but formal. A required gate lowers the stakes of misjudging risk."
+  },
+  {
+    "Title": "HTML::Composer and Perl HTML templating",
+    "Url": "https://rawley.xyz/posts/html-composer.html",
+    "Timestamp": "2026-06-26T23:02:47",
+    "Domain": "rawley.xyz",
+    "Description": "Description of post"
+  },
+  {
+    "Title": "Where the wild Discovery Loops are",
+    "Url": "https://blog.christianperone.com/2026/06/where-the-wild-discovery-loops-are/",
+    "Timestamp": "2026-06-26T23:02:43",
+    "Domain": "blog.christianperone.com",
+    "Description": "Karl Popper offered an elegant normative account of science as a process of conjectures and refutations: we formulate hypotheses or theories, expose them to criticism, scrutiny and experiment, and retain only what survives our best attempts at falsification. Even though we couldn't ever know if we reached the truth, we can approximate it and get"
+  },
+  {
+    "Title": "From API to Ontology: An Architecture for On-demand Semantic Digital Twins",
+    "Url": "https://blog.ptidej.net/from-api-to-ontology-an-architecture-for-on-demand-semantic-digital-twins/",
+    "Timestamp": "2026-06-26T23:02:39",
+    "Domain": "blog.ptidej.net",
+    "Description": "In our previous post, we drew a line between two layers of an urban energy digital twin: the Truth Layer, a relational system of record that protects the structural integrity of a city's data, and a promised Knowledge Layer, a semantic graph that would let that data reason about itself."
+  },
+  {
+    "Title": "Why the single package.json monorepo policy is a trap · John James",
+    "Url": "https://johnjames.blog/posts/why-the-single-package-json-monorepo-policy-is-trap/",
+    "Timestamp": "2026-06-26T23:02:35",
+    "Domain": "johnjames.blog",
+    "Description": "A single root package.json can look simpler in an Nx monorepo but dependency hoisting hides ownership and can turn upgrades into confusing production build failures."
+  },
+  {
+    "Title": "Type Inference (Part 1)",
+    "Url": "https://www.blog.akhil.cc/type-inference-part-1",
+    "Timestamp": "2026-06-26T23:02:31",
+    "Domain": "www.blog.akhil.cc",
+    "Description": "A tutorial on Hindley Milner type inference."
+  },
+  {
+    "Title": "A glitch in February of the year 0",
+    "Url": "https://28times.com/blog/2026-06-26-february-of-the-year-0",
+    "Timestamp": "2026-06-26T23:02:27",
+    "Domain": "28times.com",
+    "Description": "A technical report about a rare correctness issue that we found and fixed."
+  },
+  {
+    "Title": "I've Automated My Homelab with the BAT Stack (Bootc, Ansible, Terraform/OpenTofu)",
+    "Url": "https://keijilohier.com/blogs/recreating-my-homelab-with-infrastructure-as-code/",
+    "Timestamp": "2026-06-26T23:02:22",
+    "Domain": "keijilohier.com",
+    "Description": "I rebuilt Geronimo Lab using Bootc, Ansible, Terraform/OpenTofu. This stack allows me to manage my homelab entirely through infrastructure as code tools, making it easier to maintain, scale and automate."
+  },
+  {
+    "Title": "Don’t Use a Stochastic Engine for Deterministic Workflows",
+    "Url": "https://webmnem.here.now/dont-use-a-stochastic-engine-for-deterministic-workflows/",
+    "Timestamp": "2026-06-26T23:02:19",
+    "Domain": "webmnem.here.now",
+    "Description": "Before adding AI to source-controlled organizational workflows, ask whether the answer should be generated live at all."
+  },
+  {
+    "Title": "The Latent Capability Ceiling: When a Bigger Model Won't Fix Your Problem - TianPan.co",
+    "Url": "https://tianpan.co/blog/2026-04-19-latent-capability-ceiling-llm-production",
+    "Timestamp": "2026-06-26T23:02:15",
+    "Domain": "tianpan.co",
+    "Description": "Frontier models plateau on domain-specific tasks well before teams expect it. Here's how to diagnose whether you've hit a true capability ceiling or a prompt, eval, or data problem — and which technique actually breaks through."
+  },
+  {
+    "Title": "Engineering for Bounded Cognition",
+    "Url": "https://shapeofthesystem.com/posts/2026/02/03/bounded-cognition",
+    "Timestamp": "2026-06-26T23:02:10",
+    "Domain": "shapeofthesystem.com",
+    "Description": "The mind that builds software is far smaller than the software it builds, and almost everything good in engineering is a way of living with that gap."
+  },
+  {
+    "Title": "Stop generating what you already have",
+    "Url": "https://aazar.me/posts/stop-generating-what-you-already-have",
+    "Timestamp": "2026-06-26T23:02:07",
+    "Domain": "aazar.me",
+    "Description": "A teammate pinged me about a self-hosted LLM taking 42 seconds per extraction. The model was not slow. The prompt was asking it to copy text it already had. Here is how I cut it to 6 seconds."
+  },
+  {
+    "Title": "The day I started believing",
+    "Url": "https://davidpoblador.com/blog/the-day-i-started-believing.html",
+    "Timestamp": "2026-06-26T23:02:01",
+    "Domain": "davidpoblador.com",
+    "Description": "I'd boxed AI coding assistants in as a great autocomplete that would plateau, convinced senior engineers like me would spend years cleaning up after them. Then Claude Opus 4.5 reverse-engineered my way off a locked ISP router, software-only, the kind of work others had only managed by soldering hardware or exploiting dead firmware, and rebuilt it in an hour when my ISP broke it. On an already-old model. This is the day I stopped seeing these tools as a time-saver and started seeing them as the future."
+  },
+  {
+    "Title": "Transformers and Attention: A Plain-English Guide for Engineers",
+    "Url": "https://bharad.dev/blog/transformers-and-attention",
+    "Timestamp": "2026-06-26T23:01:57",
+    "Domain": "bharad.dev",
+    "Description": "We use models built on transformers every day, yet the architecture itself usually stays a black box. It doesn't have to, and following it doesn't take heavy math. A visual, ground-up walkthrough: how words become numbers, how attention lets them shape each other, and how it all turns into a next-word prediction."
+  },
+  {
+    "Title": "You probably don’t need a UUID",
+    "Url": "https://ssg.dev/you-probably-dont-need-a-uuid/",
+    "Timestamp": "2026-06-26T23:01:54",
+    "Domain": "ssg.dev",
+    "Description": "My troubles with record identifiers starts with a web site I developed, Eksi Sozluk. It's been one of the most popular Turkish web sites in the world for the last quarter century. When I first wrote it in 1999, I had to run it on a remote hosting service"
+  },
+  {
+    "Title": "Easier to Convince Than to Prove",
+    "Url": "https://korbonits.com/blog/2026-06-12-easier-to-convince-than-to-prove/",
+    "Timestamp": "2026-06-26T23:01:50",
+    "Domain": "korbonits.com",
+    "Description": "Two posts ago I quoted a warning: an AI will find it easier to convince you it has a proof than to write one. A middling new paper finally put a number on that gap — 0.99 against 0.55."
+  },
+  {
     "Title": "Previewing GPT-5.6 Sol: a next-generation model",
     "Url": "https://openai.com/index/previewing-gpt-5-6-sol/",
     "Timestamp": "2026-06-26T19:01:52",

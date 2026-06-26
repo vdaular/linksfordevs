@@ -1,5 +1,213 @@
 [
   {
+    "Title": "Tuning a Server for Benchmarking | David Álvarez Rosa | Personal Site",
+    "Url": "https://david.alvarezrosa.com/posts/tuning-a-server-for-benchmarking/",
+    "Timestamp": "2026-06-26T23:03:31",
+    "Domain": "david.alvarezrosa.com",
+    "Description": "Optimizing code starts with measuring it, and a measurement is only useful if it is repeatable: a 2% improvement is invisible under 5% of noise. Yet on an …",
+    "Confidence": 0.97712624
+  },
+  {
+    "Title": "Reflecting to optimise | Magnus Ross",
+    "Url": "https://magnusross.github.io/posts/reflecting-to-optimise/",
+    "Timestamp": "2026-06-26T23:03:28",
+    "Domain": "magnusross.github.io",
+    "Description": "This is nothing to be proud of, but I have never really studied optimisation in depth. Oh sure, I know my Adam from my AdaGrad and I even used L-BFGS one time, but when people start talking about dual spaces and convergence for L∞L^\\infty continuous functions, I tend to glaze over a bit. For some reason I think in my head a lot of it seemed a bit old fashioned, whatever that means; why do I need to learn about optimising constrained convex functions in the gradient-descent-for-everything-wait-actually-just-use-a-pre-trained-model era? Isn’t that what they used to, like, make the cheapest possible diet? Boring!",
+    "Confidence": 0.98658705
+  },
+  {
+    "Title": "A month of vibe-coding at 0.01x velocity",
+    "Url": "https://webesque.agency/blog/2026-06-19-llms.html",
+    "Timestamp": "2026-06-26T23:03:24",
+    "Domain": "webesque.agency",
+    "Description": "Exchanging my data for service use, I took up OpenAI's offer for a free   trial of ChatGPT Plus for a month. After slowly vibecoding an IDE plugin   throughout last month, I'm eager to share my notes and lingering thoughts.",
+    "Confidence": 0.9838916
+  },
+  {
+    "Title": "Chatbots vs. Ozone",
+    "Url": "https://blog.dshr.org/2026/05/chatbots-vs-ozone.html",
+    "Timestamp": "2026-06-26T23:03:19",
+    "Domain": "blog.dshr.org",
+    "Description": "Source  Back in February I posted The Kessler Syndrome , which also included a brief section mentioning the impacts of the proposed megacons...",
+    "Confidence": 0.93659675
+  },
+  {
+    "Title": "Designing a personal Pebble watchface",
+    "Url": "https://www.jonashietala.se/blog/2026/06/26/designing_a_personal_pebble_watchface/",
+    "Timestamp": "2026-06-26T23:03:15",
+    "Domain": "www.jonashietala.se",
+    "Description": "I recently got a Pebble Time 2 as it seemed like a fun smartwatch away from Google/Apple/Samsung with a good 4 weeks of battery life.\nOne thing I wanted to do is to create a custom watchface for my specific problems.",
+    "Confidence": 0.99011827
+  },
+  {
+    "Title": "Why software engineers are grieving",
+    "Url": "https://dev.jimgrey.net/2026/06/25/why-software-engineers-are-grieving/",
+    "Timestamp": "2026-06-26T23:03:10",
+    "Domain": "dev.jimgrey.net",
+    "Description": "Mission, craft, and the end of a historically unusual moment.",
+    "Confidence": 0.96608603
+  },
+  {
+    "Title": "bertolami",
+    "Url": "https://bertolami.com/blog/cascade-neural-image-compression",
+    "Timestamp": "2026-06-26T23:03:06",
+    "Domain": "bertolami.com",
+    "Description": "Joe Bertolami's portfolio and blog covering artificial intelligence, game development, computer graphics, data compression, and more.",
+    "Confidence": 0.9882987
+  },
+  {
+    "Title": "June Spam wave",
+    "Url": "https://blog.vasi.li/june-spam-wave/",
+    "Timestamp": "2026-06-26T23:03:03",
+    "Domain": "blog.vasi.li",
+    "Description": "I've been observing a new email spam wave hitting my servers in the last couple of weeks...\n\nWay above the normal \"background radiation levels\" for my server... 99% of them are poorly configured, and usually fail during \"does the sender domain actually exist in DNS\" stage... Not to mention",
+    "Confidence": 0.95611805
+  },
+  {
+    "Title": "Scaling Laws, Carefully",
+    "Url": "https://lilianweng.github.io/posts/2026-06-24-scaling-laws/",
+    "Timestamp": "2026-06-26T23:02:59",
+    "Domain": "lilianweng.github.io",
+    "Description": "Scaling laws are one of the most critical empirical findings in deep learning. The observation is simple in form: the training loss $L$ decreases predictably as we scale up model size $N$, dataset size $D$, and compute $C$, following a power-law curve, which appears as a straight line on a log-log plot. We can view scaling laws as a framework for describing the relationship between compute, loss, model size and data; at its core, it is about how to allocate precious compute optimally between $N$ and $D$.",
+    "Confidence": 0.96893275
+  },
+  {
+    "Title": "Flatpak.org Rewrite | Jakub Steiner",
+    "Url": "https://blog.jimmac.eu/posts/flatpak-org-zola/",
+    "Timestamp": "2026-06-26T23:02:54",
+    "Domain": "blog.jimmac.eu",
+    "Description": "Flatpak website deserved a better backend.",
+    "Confidence": 0.67063254
+  },
+  {
+    "Title": "Wakamoleguy - home of the wakamoleguy",
+    "Url": "https://wakamoleguy.com/p/flexible-gates",
+    "Timestamp": "2026-06-26T23:02:50",
+    "Domain": "wakamoleguy.com",
+    "Description": "When you need an approval checkpoint but don't want it everywhere, make the gate required but flexible in formality rather than optional but formal. A required gate lowers the stakes of misjudging risk.",
+    "Confidence": 0.9078615
+  },
+  {
+    "Title": "HTML::Composer and Perl HTML templating",
+    "Url": "https://rawley.xyz/posts/html-composer.html",
+    "Timestamp": "2026-06-26T23:02:47",
+    "Domain": "rawley.xyz",
+    "Description": "Description of post",
+    "Confidence": 0.9657717
+  },
+  {
+    "Title": "Where the wild Discovery Loops are",
+    "Url": "https://blog.christianperone.com/2026/06/where-the-wild-discovery-loops-are/",
+    "Timestamp": "2026-06-26T23:02:43",
+    "Domain": "blog.christianperone.com",
+    "Description": "Karl Popper offered an elegant normative account of science as a process of conjectures and refutations: we formulate hypotheses or theories, expose them to criticism, scrutiny and experiment, and retain only what survives our best attempts at falsification. Even though we couldn't ever know if we reached the truth, we can approximate it and get",
+    "Confidence": 0.9021725
+  },
+  {
+    "Title": "From API to Ontology: An Architecture for On-demand Semantic Digital Twins",
+    "Url": "https://blog.ptidej.net/from-api-to-ontology-an-architecture-for-on-demand-semantic-digital-twins/",
+    "Timestamp": "2026-06-26T23:02:39",
+    "Domain": "blog.ptidej.net",
+    "Description": "In our previous post, we drew a line between two layers of an urban energy digital twin: the Truth Layer, a relational system of record that protects the structural integrity of a city's data, and a promised Knowledge Layer, a semantic graph that would let that data reason about itself.",
+    "Confidence": 0.9363295
+  },
+  {
+    "Title": "Why the single package.json monorepo policy is a trap · John James",
+    "Url": "https://johnjames.blog/posts/why-the-single-package-json-monorepo-policy-is-trap/",
+    "Timestamp": "2026-06-26T23:02:35",
+    "Domain": "johnjames.blog",
+    "Description": "A single root package.json can look simpler in an Nx monorepo but dependency hoisting hides ownership and can turn upgrades into confusing production build failures.",
+    "Confidence": 0.99065095
+  },
+  {
+    "Title": "Type Inference (Part 1)",
+    "Url": "https://www.blog.akhil.cc/type-inference-part-1",
+    "Timestamp": "2026-06-26T23:02:31",
+    "Domain": "www.blog.akhil.cc",
+    "Description": "A tutorial on Hindley Milner type inference.",
+    "Confidence": 0.9979843
+  },
+  {
+    "Title": "A glitch in February of the year 0",
+    "Url": "https://28times.com/blog/2026-06-26-february-of-the-year-0",
+    "Timestamp": "2026-06-26T23:02:27",
+    "Domain": "28times.com",
+    "Description": "A technical report about a rare correctness issue that we found and fixed.",
+    "Confidence": 0.97244805
+  },
+  {
+    "Title": "I've Automated My Homelab with the BAT Stack (Bootc, Ansible, Terraform/OpenTofu)",
+    "Url": "https://keijilohier.com/blogs/recreating-my-homelab-with-infrastructure-as-code/",
+    "Timestamp": "2026-06-26T23:02:22",
+    "Domain": "keijilohier.com",
+    "Description": "I rebuilt Geronimo Lab using Bootc, Ansible, Terraform/OpenTofu. This stack allows me to manage my homelab entirely through infrastructure as code tools, making it easier to maintain, scale and automate.",
+    "Confidence": 0.99926907
+  },
+  {
+    "Title": "Don’t Use a Stochastic Engine for Deterministic Workflows",
+    "Url": "https://webmnem.here.now/dont-use-a-stochastic-engine-for-deterministic-workflows/",
+    "Timestamp": "2026-06-26T23:02:19",
+    "Domain": "webmnem.here.now",
+    "Description": "Before adding AI to source-controlled organizational workflows, ask whether the answer should be generated live at all.",
+    "Confidence": 0.9906333
+  },
+  {
+    "Title": "The Latent Capability Ceiling: When a Bigger Model Won't Fix Your Problem - TianPan.co",
+    "Url": "https://tianpan.co/blog/2026-04-19-latent-capability-ceiling-llm-production",
+    "Timestamp": "2026-06-26T23:02:15",
+    "Domain": "tianpan.co",
+    "Description": "Frontier models plateau on domain-specific tasks well before teams expect it. Here's how to diagnose whether you've hit a true capability ceiling or a prompt, eval, or data problem — and which technique actually breaks through.",
+    "Confidence": 0.96152097
+  },
+  {
+    "Title": "Engineering for Bounded Cognition",
+    "Url": "https://shapeofthesystem.com/posts/2026/02/03/bounded-cognition",
+    "Timestamp": "2026-06-26T23:02:10",
+    "Domain": "shapeofthesystem.com",
+    "Description": "The mind that builds software is far smaller than the software it builds, and almost everything good in engineering is a way of living with that gap.",
+    "Confidence": 0.82183623
+  },
+  {
+    "Title": "Stop generating what you already have",
+    "Url": "https://aazar.me/posts/stop-generating-what-you-already-have",
+    "Timestamp": "2026-06-26T23:02:07",
+    "Domain": "aazar.me",
+    "Description": "A teammate pinged me about a self-hosted LLM taking 42 seconds per extraction. The model was not slow. The prompt was asking it to copy text it already had. Here is how I cut it to 6 seconds.",
+    "Confidence": 0.9883624
+  },
+  {
+    "Title": "The day I started believing",
+    "Url": "https://davidpoblador.com/blog/the-day-i-started-believing.html",
+    "Timestamp": "2026-06-26T23:02:01",
+    "Domain": "davidpoblador.com",
+    "Description": "I'd boxed AI coding assistants in as a great autocomplete that would plateau, convinced senior engineers like me would spend years cleaning up after them. Then Claude Opus 4.5 reverse-engineered my way off a locked ISP router, software-only, the kind of work others had only managed by soldering hardware or exploiting dead firmware, and rebuilt it in an hour when my ISP broke it. On an already-old model. This is the day I stopped seeing these tools as a time-saver and started seeing them as the future.",
+    "Confidence": 0.8440807
+  },
+  {
+    "Title": "Transformers and Attention: A Plain-English Guide for Engineers",
+    "Url": "https://bharad.dev/blog/transformers-and-attention",
+    "Timestamp": "2026-06-26T23:01:57",
+    "Domain": "bharad.dev",
+    "Description": "We use models built on transformers every day, yet the architecture itself usually stays a black box. It doesn't have to, and following it doesn't take heavy math. A visual, ground-up walkthrough: how words become numbers, how attention lets them shape each other, and how it all turns into a next-word prediction.",
+    "Confidence": 0.9811996
+  },
+  {
+    "Title": "You probably don’t need a UUID",
+    "Url": "https://ssg.dev/you-probably-dont-need-a-uuid/",
+    "Timestamp": "2026-06-26T23:01:54",
+    "Domain": "ssg.dev",
+    "Description": "My troubles with record identifiers starts with a web site I developed, Eksi Sozluk. It's been one of the most popular Turkish web sites in the world for the last quarter century. When I first wrote it in 1999, I had to run it on a remote hosting service",
+    "Confidence": 0.9810052
+  },
+  {
+    "Title": "Easier to Convince Than to Prove",
+    "Url": "https://korbonits.com/blog/2026-06-12-easier-to-convince-than-to-prove/",
+    "Timestamp": "2026-06-26T23:01:50",
+    "Domain": "korbonits.com",
+    "Description": "Two posts ago I quoted a warning: an AI will find it easier to convince you it has a proof than to write one. A middling new paper finally put a number on that gap — 0.99 against 0.55.",
+    "Confidence": 0.61130995
+  },
+  {
     "Title": "Previewing GPT-5.6 Sol: a next-generation model",
     "Url": "https://openai.com/index/previewing-gpt-5-6-sol/",
     "Timestamp": "2026-06-26T19:01:52",
@@ -70,93 +278,5 @@
     "Domain": "om.co",
     "Description": "Om Malik passed away on June 24, 2026, at Stanford Hospital after a long health journey with his heart. He was surrounded by family and friends. We invite you to share your remembrances of Om in th…",
     "Confidence": 0.94489926
-  },
-  {
-    "Title": "Every Team is Building the Same Cache — TierFS",
-    "Url": "https://www.tierfs.com/blog/every-team-builds-the-same-cache.html",
-    "Timestamp": "2026-06-25T23:03:04",
-    "Domain": "www.tierfs.com",
-    "Description": "Why infrastructure teams keep solving the same storage problem from scratch, and what would happen if they didn't have to.",
-    "Confidence": 0.97921973
-  },
-  {
-    "Title": "Why aren't there more AlphaFolds?",
-    "Url": "https://nkeivan.com/writing/why-no-more-alphafolds",
-    "Timestamp": "2026-06-25T23:02:59",
-    "Domain": "nkeivan.com",
-    "Description": "Most of science isn't text",
-    "Confidence": 0.97046006
-  },
-  {
-    "Title": "Accidental anonymity",
-    "Url": "https://macwright.com/2026/06/24/accidental-anonymity",
-    "Timestamp": "2026-06-25T23:02:55",
-    "Domain": "macwright.com",
-    "Description": "JavaScript, math, maps, etc",
-    "Confidence": 0.96387625
-  },
-  {
-    "Title": "Scaling Rails at Aura Frames: Splitting to 8 Primary DBs and Reaching #1 in the App Store",
-    "Url": "https://andyatkinson.com/how-aura-frames-scales-for-peak-load-ruby-on-rails",
-    "Timestamp": "2026-06-25T23:02:52",
-    "Domain": "andyatkinson.com",
-    "Description": "📌 Overview Ruby on Rails has helped make it possible to scale out the database layer, meeting the demands of millions of Aura Frames customers enjoying their digital photo frames. In late 2025, the team added additional primary databases to expand capacity for peak write and read load ahead of Christmas Day, the busiest day of the year for the company. Rails manages queries and schema changes for each primary database within the same codebase, and now with the additional capacity of many primary databases. With 8 primary databases in total, each server instance can be vertically scaled ahead of peak load. When load returns to normal levels, instances are scaled down for cost savings. The team leveraged native support for Multiple Databases and the disable_joins: true feature in Active Record, the ORM for Ruby on Rails. The disable_joins feature replaces SQL joins, issuing multiple SELECT statements to combine data in the application from different databases. This post looks back at the technical details of that plan, as well as a variety of additional data layer scaling tactics, that culminated in a successful Christmas 2025 season, with peak U.S. and Canadian Apple App Store and Google Play Store rankings of #1.",
-    "Confidence": 0.9916664
-  },
-  {
-    "Title": "Repricing of Software Engineering Labor",
-    "Url": "https://blog.grandimam.com/posts/repricing-of-software-engineering-labor/",
-    "Timestamp": "2026-06-25T23:02:48",
-    "Domain": "blog.grandimam.com",
-    "Description": "As AI compresses implementation costs, the market is repricing software engineering labor—collapsing the premium for generalists while raising the value of deep expertise.",
-    "Confidence": 0.9397344
-  },
-  {
-    "Title": "Throwing my Roku in the trash • Cory Dransfeldt",
-    "Url": "https://www.coryd.dev/posts/2026/throwing-my-roku-in-the-trash",
-    "Timestamp": "2026-06-25T23:02:44",
-    "Domain": "www.coryd.dev",
-    "Description": "I work from a big corner desk and part of the space on that desk is taken up by a small TV positioned in the corner. I use it occasionally and, for the longest time, it's had a Roku stick attached to it. It's reliable, but the UI has been filled with more and more cruft when all I ever want to do is launch Jellyfin.",
-    "Confidence": 0.9627039
-  },
-  {
-    "Title": "Konrad Hinsen's blog",
-    "Url": "https://blog.khinsen.net/posts/2026/06/25/cultures.html",
-    "Timestamp": "2026-06-25T23:02:40",
-    "Domain": "blog.khinsen.net",
-    "Description": "2026-06-25\n  science, scientific software",
-    "Confidence": 0.97701347
-  },
-  {
-    "Title": "font-family recommendations — Chris Morgan",
-    "Url": "https://chrismorgan.info/font-family",
-    "Timestamp": "2026-06-25T23:02:37",
-    "Domain": "chrismorgan.info",
-    "Description": "Draft: started 2026-05-09 • Tagged /css, /opinions",
-    "Confidence": 0.9821313
-  },
-  {
-    "Title": "The Problem is Prompt Debt",
-    "Url": "https://www.dbreunig.com/2026/06/22/the-problem-is-prompt-debt.html",
-    "Timestamp": "2026-06-25T23:02:32",
-    "Domain": "www.dbreunig.com",
-    "Description": "The plain-English prompt that makes prototypes effortless turns out to be a poor way to specify how a system should behave, and the bill arrives slowly, disguised as ordinary progress, until the application can barely move.",
-    "Confidence": 0.949113
-  },
-  {
-    "Title": "Claudecaine · Baptiste Fontaine’s Blog",
-    "Url": "https://bfontaine.net/blog/2026/06/25/claudecaine/",
-    "Timestamp": "2026-06-25T23:02:28",
-    "Domain": "bfontaine.net",
-    "Description": "Tips and tricks in Python, Bash, Clojure and other languages/environments.",
-    "Confidence": 0.9904147
-  },
-  {
-    "Title": "The favors we used to need",
-    "Url": "https://davidpoblador.com/blog/the-favors-we-used-to-need.html",
-    "Timestamp": "2026-06-25T23:02:23",
-    "Domain": "davidpoblador.com",
-    "Description": "Work used to run on a quiet economy of small favors, and whole layers of managers grew up to keep it fair and fast. Then I shipped something I'd normally have called a friend to help with, alone, in an afternoon. No favor asked, no debt owed. When agents can do that for almost any small experiment, the roles built to smooth the favor chain don't vanish, they invert.",
-    "Confidence": 0.9571549
   }
 ]
