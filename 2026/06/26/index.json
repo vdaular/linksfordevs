@@ -1,5 +1,26 @@
 [
   {
+    "Title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "Url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+    "Timestamp": "2026-06-26T19:01:52",
+    "Domain": "openai.com",
+    "Description": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack."
+  },
+  {
+    "Title": "Incident Report: CVE-2026-LGTM",
+    "Url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
+    "Timestamp": "2026-06-26T19:01:47",
+    "Domain": "nesbitt.io",
+    "Description": "A series of unfortunate agents."
+  },
+  {
+    "Title": "Claude Code in a Container | no dogma blog",
+    "Url": "https://nodogmablog.bryanhogan.net/2026/06/claude-code-in-a-container/",
+    "Timestamp": "2026-06-26T19:01:43",
+    "Domain": "nodogmablog.bryanhogan.net",
+    "Description": "I don't like running Claude Code on my computer, instead I put it in a container and mount a directory from the host into the container where Claude generates code."
+  },
+  {
     "Title": "AI inference is obviously profitable",
     "Url": "https://www.seangoedecke.com/ai-inference-is-obviously-profitable/",
     "Timestamp": "2026-06-26T15:02:35",

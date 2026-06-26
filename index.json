@@ -1,5 +1,29 @@
 [
   {
+    "Title": "Previewing GPT-5.6 Sol: a next-generation model",
+    "Url": "https://openai.com/index/previewing-gpt-5-6-sol/",
+    "Timestamp": "2026-06-26T19:01:52",
+    "Domain": "openai.com",
+    "Description": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
+    "Confidence": 0.86525786
+  },
+  {
+    "Title": "Incident Report: CVE-2026-LGTM",
+    "Url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
+    "Timestamp": "2026-06-26T19:01:47",
+    "Domain": "nesbitt.io",
+    "Description": "A series of unfortunate agents.",
+    "Confidence": 0.8393385
+  },
+  {
+    "Title": "Claude Code in a Container | no dogma blog",
+    "Url": "https://nodogmablog.bryanhogan.net/2026/06/claude-code-in-a-container/",
+    "Timestamp": "2026-06-26T19:01:43",
+    "Domain": "nodogmablog.bryanhogan.net",
+    "Description": "I don't like running Claude Code on my computer, instead I put it in a container and mount a directory from the host into the container where Claude generates code.",
+    "Confidence": 0.99903196
+  },
+  {
     "Title": "AI inference is obviously profitable",
     "Url": "https://www.seangoedecke.com/ai-inference-is-obviously-profitable/",
     "Timestamp": "2026-06-26T15:02:35",
@@ -134,37 +158,5 @@
     "Domain": "davidpoblador.com",
     "Description": "Work used to run on a quiet economy of small favors, and whole layers of managers grew up to keep it fair and fast. Then I shipped something I'd normally have called a friend to help with, alone, in an afternoon. No favor asked, no debt owed. When agents can do that for almost any small experiment, the roles built to smooth the favor chain don't vanish, they invert.",
     "Confidence": 0.9571549
-  },
-  {
-    "Title": "An entire Herculaneum scroll has been read for the first time",
-    "Url": "https://scrollprize.org/firstscroll",
-    "Timestamp": "2026-06-25T19:02:26",
-    "Domain": "scrollprize.org",
-    "Description": "PHerc. 1667, sealed since the eruption of Vesuvius in 79 AD, has been virtually unwrapped and read from beginning to end — without ever being opened.",
-    "Confidence": 0.87609076
-  },
-  {
-    "Title": "Apple increases MacBook and iPad prices by 20%",
-    "Url": "https://www.ft.com/content/0f067265-2baf-4b6e-8fb2-ed56daef6f3c",
-    "Timestamp": "2026-06-25T19:02:23",
-    "Domain": "www.ft.com",
-    "Description": "iPhone maker blamed cost rises on memory chip shortages caused by AI boom",
-    "Confidence": 0.79498374
-  },
-  {
-    "Title": "Hacker Trends: 18 years of Hacker News, charted",
-    "Url": "https://hackernewstrends.com/",
-    "Timestamp": "2026-06-25T19:02:18",
-    "Domain": "hackernewstrends.com",
-    "Description": "Search 18 years of Hacker News and chart how any topic, tool, or person trended. Overlay terms to compare their rise and fall across 45M posts and comments.",
-    "Confidence": 0.95971364
-  },
-  {
-    "Title": "The Secret RGB LED Features I Hid in this 1970 Lincoln Continental Mark III",
-    "Url": "https://youtube.com/watch?v=hRhBuHJ-j_o",
-    "Timestamp": "2026-06-25T19:02:14",
-    "Domain": "youtube.com",
-    "Description": "Dave demos his RGB LED third brake light strip and dives into the interface and power electronics needed to run it.  Check out an episode of ShopTalk on Dave's Attic where we answer the best user questions!\n\nhttps://youtu.be/ZUvDO2g5Y1s\n\nGet the Code: https://github.com/davepl/ThirdBrakeLight\nGet the LED Strips (2): https://amzn.to/3R0jKHm\n\nCheck out JLCPCB.com for PCB and EasyEDA!\n\nVideo Credit: Pinal County Sheriff - https://www.youtube.com/@UCkQLMKbkhyCDJmY1MEcXnLQ",
-    "Confidence": 0.98382795
   }
 ]
