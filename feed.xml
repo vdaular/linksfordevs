@@ -7,6 +7,36 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>AI inference is obviously profitable</title>
+      <link>https://www.seangoedecke.com/ai-inference-is-obviously-profitable/</link>
+      <description>Many people claim that AI inference is unprofitable to serve, and thus must be subsidized by an ocean of dumb money from investors who believe that some future AI model will come to dominate the world economy. When that dumb money goes away, so will AI products. According to this view, LLMs are just inherently too expensive (in terms of money, power, and water) to be used in consumer products. In fact, they can only be used today by externalizing the costs: money onto VC funds and now retail ETF investors, power onto electric utility consumers, and water onto the communities where datacenters are built.</description>
+      <category>ai</category>
+      <guid>https://www.seangoedecke.com/ai-inference-is-obviously-profitable/</guid>
+      <pubDate>Fri, 26 Jun 2026 15:02:35 GMT</pubDate>
+    </item>
+    <item>
+      <title>Open Letter | Akrites</title>
+      <link>https://akrites.org/letter/</link>
+      <description>An open letter from the technology industry, and the launch of Akrites - a coordinated effort to remediate vulnerabilities in the open source software the world runs on.</description>
+      <category>linux</category>
+      <category>rust</category>
+      <category>ai</category>
+      <category>containers</category>
+      <category>cloud</category>
+      <guid>https://akrites.org/letter/</guid>
+      <pubDate>Fri, 26 Jun 2026 15:02:31 GMT</pubDate>
+    </item>
+    <item>
+      <title>What happened after 2,000 people tried to hack my AI assistant — Fernando Irarrázaval</title>
+      <link>https://www.fernandoi.cl/posts/hackmyclaw/</link>
+      <description>home ·
+about</description>
+      <category>ai</category>
+      <category>gaming</category>
+      <guid>https://www.fernandoi.cl/posts/hackmyclaw/</guid>
+      <pubDate>Fri, 26 Jun 2026 15:02:28 GMT</pubDate>
+    </item>
+    <item>
       <title>Quickly apply LUTs (color grading) with ffmpeg</title>
       <link>https://www.jeffgeerling.com/blog/2026/apply-lut-color-grade-with-ffmpeg/</link>
       <description>This is a quick post, mostly for my own reference.
@@ -184,13 +214,6 @@ Video Credit: Pinal County Sheriff - https://www.youtube.com/@UCkQLMKbkhyCDJmY1M
       <category>youtube</category>
       <guid>https://youtube.com/watch?v=hRhBuHJ-j_o</guid>
       <pubDate>Thu, 25 Jun 2026 19:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>web hl2</title>
-      <link>https://hl2.slqnt.dev/</link>
-      <description>Downloading map bootstrap</description>
-      <guid>https://hl2.slqnt.dev/</guid>
-      <pubDate>Thu, 25 Jun 2026 15:02:25 GMT</pubDate>
     </item>
   </channel>
 </rss>
