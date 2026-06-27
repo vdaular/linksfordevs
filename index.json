@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Om",
+    "Url": "https://daringfireball.net/2026/06/om",
+    "Timestamp": "2026-06-27T07:02:38",
+    "Domain": "daringfireball.net",
+    "Description": "This is going to sound cornier than a bucket of Jiffy-Pop, but it is a profound irony that a man with such a big and beautiful figurative heart could have such a lousy literal one.",
+    "Confidence": 0.8665396
+  },
+  {
+    "Title": "Exclusive: US releases powerful Anthropic model Mythos to some US companies",
+    "Url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
+    "Timestamp": "2026-06-27T07:02:34",
+    "Domain": "www.semafor.com",
+    "Description": "The move comes the same day as a new OpenAI model sees a limited release.",
+    "Confidence": 0.8642491
+  },
+  {
     "Title": "We Can Still Stop California’s 3D Printer Surveillance Scheme",
     "Url": "https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme",
     "Timestamp": "2026-06-27T03:02:44",
@@ -270,13 +286,5 @@
     "Domain": "www.fernandoi.cl",
     "Description": "home ·\nabout",
     "Confidence": 0.94326645
-  },
-  {
-    "Title": "Quickly apply LUTs (color grading) with ffmpeg",
-    "Url": "https://www.jeffgeerling.com/blog/2026/apply-lut-color-grade-with-ffmpeg/",
-    "Timestamp": "2026-06-26T07:02:20",
-    "Domain": "www.jeffgeerling.com",
-    "Description": "This is a quick post, mostly for my own reference.\nI've avoided LUTs and 'Log' video footage for years1, mostly because of the extra tiny bit of workflow involved. Like RAW photos, 'Log' footage retains the video sensor's full dynamic range, so you can pull more color and luminance information out of the footage later.\nBut unlike photography, where RAW has been a thing for decades, and many workflows 'just work' without me having to 'grade' every individual photo, in video precious few consumer apps handle Log footage gracefully. You generally end up with a muddy grey mess.",
-    "Confidence": 0.96875685
   }
 ]

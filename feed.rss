@@ -7,6 +7,23 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Om</title>
+      <link>https://daringfireball.net/2026/06/om</link>
+      <description>This is going to sound cornier than a bucket of Jiffy-Pop, but it is a profound irony that a man with such a big and beautiful figurative heart could have such a lousy literal one.</description>
+      <category>apple</category>
+      <category>conference</category>
+      <guid>https://daringfireball.net/2026/06/om</guid>
+      <pubDate>Sat, 27 Jun 2026 07:02:38 GMT</pubDate>
+    </item>
+    <item>
+      <title>Exclusive: US releases powerful Anthropic model Mythos to some US companies</title>
+      <link>https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies</link>
+      <description>The move comes the same day as a new OpenAI model sees a limited release.</description>
+      <category>ai</category>
+      <guid>https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies</guid>
+      <pubDate>Sat, 27 Jun 2026 07:02:34 GMT</pubDate>
+    </item>
+    <item>
       <title>We Can Still Stop California’s 3D Printer Surveillance Scheme</title>
       <link>https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme</link>
       <description>Ignoring EFF’s warnings about the dangers and impossibility of implementing a new mandate for 3D print surveillance software, the California State Assembly has signed off on legislation to do just that. In the process, legislators amended the bill to make it even more confusing, while failing to address the risks to privacy, speech, and consumer rights. We must renew our call on legislators to drop this bill as it heads to the state senate, and protect the tools of creators in the state.</description>
@@ -311,17 +328,6 @@ about</description>
       <category>gaming</category>
       <guid>https://www.fernandoi.cl/posts/hackmyclaw/</guid>
       <pubDate>Fri, 26 Jun 2026 15:02:28 GMT</pubDate>
-    </item>
-    <item>
-      <title>Quickly apply LUTs (color grading) with ffmpeg</title>
-      <link>https://www.jeffgeerling.com/blog/2026/apply-lut-color-grade-with-ffmpeg/</link>
-      <description>This is a quick post, mostly for my own reference.
-I've avoided LUTs and 'Log' video footage for years1, mostly because of the extra tiny bit of workflow involved. Like RAW photos, 'Log' footage retains the video sensor's full dynamic range, so you can pull more color and luminance information out of the footage later.
-But unlike photography, where RAW has been a thing for decades, and many workflows 'just work' without me having to 'grade' every individual photo, in video precious few consumer apps handle Log footage gracefully. You generally end up with a muddy grey mess.</description>
-      <category>apple</category>
-      <category>dotnet</category>
-      <guid>https://www.jeffgeerling.com/blog/2026/apply-lut-color-grade-with-ffmpeg/</guid>
-      <pubDate>Fri, 26 Jun 2026 07:02:20 GMT</pubDate>
     </item>
   </channel>
 </rss>
