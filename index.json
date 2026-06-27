@@ -1,5 +1,29 @@
 [
   {
+    "Title": "Daily links from Cory Doctorow",
+    "Url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
+    "Timestamp": "2026-06-27T19:02:32",
+    "Domain": "pluralistic.net",
+    "Description": "",
+    "Confidence": 0.7085591
+  },
+  {
+    "Title": "Fintech Engineering Handbook",
+    "Url": "https://w.pitula.me/fintech-engineering-handbook/",
+    "Timestamp": "2026-06-27T19:02:26",
+    "Domain": "w.pitula.me",
+    "Description": "Welcome to the Fintech Engineering Handbook. This resource aims to describe the most important patterns used in software engineering, where money is the primary focus of the system. It can be read in full to get a comprehensive understanding or in parts when dealing with a particular problem.",
+    "Confidence": 0.99309754
+  },
+  {
+    "Title": "GitHub - bikini/exploitarium: A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.",
+    "Url": "https://github.com/bikini/exploitarium",
+    "Timestamp": "2026-06-27T19:02:23",
+    "Domain": "github.com",
+    "Description": "A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if hand...",
+    "Confidence": 0.94099134
+  },
+  {
     "Title": "Why does kinetic energy increase quadratically, not linearly, with speed?",
     "Url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
     "Timestamp": "2026-06-27T15:02:36",
@@ -262,29 +286,5 @@
     "Domain": "korbonits.com",
     "Description": "Two posts ago I quoted a warning: an AI will find it easier to convince you it has a proof than to write one. A middling new paper finally put a number on that gap — 0.99 against 0.55.",
     "Confidence": 0.61130995
-  },
-  {
-    "Title": "Previewing GPT-5.6 Sol: a next-generation model",
-    "Url": "https://openai.com/index/previewing-gpt-5-6-sol/",
-    "Timestamp": "2026-06-26T19:01:52",
-    "Domain": "openai.com",
-    "Description": "OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.",
-    "Confidence": 0.86525786
-  },
-  {
-    "Title": "Incident Report: CVE-2026-LGTM",
-    "Url": "https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html",
-    "Timestamp": "2026-06-26T19:01:47",
-    "Domain": "nesbitt.io",
-    "Description": "A series of unfortunate agents.",
-    "Confidence": 0.8393385
-  },
-  {
-    "Title": "Claude Code in a Container | no dogma blog",
-    "Url": "https://nodogmablog.bryanhogan.net/2026/06/claude-code-in-a-container/",
-    "Timestamp": "2026-06-26T19:01:43",
-    "Domain": "nodogmablog.bryanhogan.net",
-    "Description": "I don't like running Claude Code on my computer, instead I put it in a container and mount a directory from the host into the container where Claude generates code.",
-    "Confidence": 0.99903196
   }
 ]
