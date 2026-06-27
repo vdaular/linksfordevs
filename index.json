@@ -1,5 +1,21 @@
 [
   {
+    "Title": "Why does kinetic energy increase quadratically, not linearly, with speed?",
+    "Url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
+    "Timestamp": "2026-06-27T15:02:36",
+    "Domain": "physics.stackexchange.com",
+    "Description": "As Wikipedia says:\n  [...] the kinetic energy of a non-rotating object of mass $m$ traveling at a speed $v$ is $\frac{1}{2}mv^2$.\nWhy does this not increase linearly with speed? Why does it take so...",
+    "Confidence": 0.9805964
+  },
+  {
+    "Title": "DeepSpec/DSpark_paper.pdf at main · deepseek-ai/DeepSpec",
+    "Url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+    "Timestamp": "2026-06-27T15:02:31",
+    "Domain": "github.com",
+    "Description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms - deepseek-ai/DeepSpec",
+    "Confidence": 0.99871147
+  },
+  {
     "Title": "Saying the obvious thing",
     "Url": "https://www.seangoedecke.com/saying-the-obvious-thing/",
     "Timestamp": "2026-06-27T11:02:43",
@@ -270,29 +286,5 @@
     "Domain": "nodogmablog.bryanhogan.net",
     "Description": "I don't like running Claude Code on my computer, instead I put it in a container and mount a directory from the host into the container where Claude generates code.",
     "Confidence": 0.99903196
-  },
-  {
-    "Title": "AI inference is obviously profitable",
-    "Url": "https://www.seangoedecke.com/ai-inference-is-obviously-profitable/",
-    "Timestamp": "2026-06-26T15:02:35",
-    "Domain": "www.seangoedecke.com",
-    "Description": "Many people claim that AI inference is unprofitable to serve, and thus must be subsidized by an ocean of dumb money from investors who believe that some future AI model will come to dominate the world economy. When that dumb money goes away, so will AI products. According to this view, LLMs are just inherently too expensive (in terms of money, power, and water) to be used in consumer products. In fact, they can only be used today by externalizing the costs: money onto VC funds and now retail ETF investors, power onto electric utility consumers, and water onto the communities where datacenters are built.",
-    "Confidence": 0.981493
-  },
-  {
-    "Title": "Open Letter | Akrites",
-    "Url": "https://akrites.org/letter/",
-    "Timestamp": "2026-06-26T15:02:31",
-    "Domain": "akrites.org",
-    "Description": "An open letter from the technology industry, and the launch of Akrites - a coordinated effort to remediate vulnerabilities in the open source software the world runs on.",
-    "Confidence": 0.82888204
-  },
-  {
-    "Title": "What happened after 2,000 people tried to hack my AI assistant — Fernando Irarrázaval",
-    "Url": "https://www.fernandoi.cl/posts/hackmyclaw/",
-    "Timestamp": "2026-06-26T15:02:28",
-    "Domain": "www.fernandoi.cl",
-    "Description": "home ·\nabout",
-    "Confidence": 0.94326645
   }
 ]

@@ -1,5 +1,19 @@
 [
   {
+    "Title": "Why does kinetic energy increase quadratically, not linearly, with speed?",
+    "Url": "https://physics.stackexchange.com/questions/535/why-does-kinetic-energy-increase-quadratically-not-linearly-with-speed",
+    "Timestamp": "2026-06-27T15:02:36",
+    "Domain": "physics.stackexchange.com",
+    "Description": "As Wikipedia says:\n  [...] the kinetic energy of a non-rotating object of mass $m$ traveling at a speed $v$ is $\frac{1}{2}mv^2$.\nWhy does this not increase linearly with speed? Why does it take so..."
+  },
+  {
+    "Title": "DeepSpec/DSpark_paper.pdf at main · deepseek-ai/DeepSpec",
+    "Url": "https://github.com/deepseek-ai/DeepSpec/blob/main/DSpark_paper.pdf",
+    "Timestamp": "2026-06-27T15:02:31",
+    "Domain": "github.com",
+    "Description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms - deepseek-ai/DeepSpec"
+  },
+  {
     "Title": "Saying the obvious thing",
     "Url": "https://www.seangoedecke.com/saying-the-obvious-thing/",
     "Timestamp": "2026-06-27T11:02:43",
