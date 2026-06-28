@@ -1,5 +1,13 @@
 [
   {
+    "Title": "IP Crawl — open webcam catalog",
+    "Url": "https://ipcrawl.com/",
+    "Timestamp": "2026-06-28T11:02:10",
+    "Domain": "ipcrawl.com",
+    "Description": "A filterable, live dashboard for exploring video-feed data.",
+    "Confidence": 0.9098704
+  },
+  {
     "Title": "The Laziest Generation",
     "Url": "https://idiallo.com/blog/the-laziest-generation",
     "Timestamp": "2026-06-28T07:03:53",
@@ -166,13 +174,5 @@
     "Domain": "github.com",
     "Description": "DeepSpec: a full-stack codebase for training and evaluating speculative decoding algorithms - deepseek-ai/DeepSpec",
     "Confidence": 0.99871147
-  },
-  {
-    "Title": "Saying the obvious thing",
-    "Url": "https://www.seangoedecke.com/saying-the-obvious-thing/",
-    "Timestamp": "2026-06-27T11:02:43",
-    "Domain": "www.seangoedecke.com",
-    "Description": "Stating the obvious is surprisingly useful. Most of your knowledge lives below the threshold of conscious awareness, so it’s possible for a piece of writing to remind you of what you already know. It’s common to know you don’t like something without being quite sure why, and reading an obvious statement (such as “accuracy matters, even when you agree with the broad strokes”) can help clarify why you find certain things distasteful.",
-    "Confidence": 0.9805253
   }
 ]
