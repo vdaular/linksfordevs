@@ -7,334 +7,193 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
-      <title>Saying the obvious thing</title>
-      <link>https://www.seangoedecke.com/saying-the-obvious-thing/</link>
-      <description>Stating the obvious is surprisingly useful. Most of your knowledge lives below the threshold of conscious awareness, so it’s possible for a piece of writing to remind you of what you already know. It’s common to know you don’t like something without being quite sure why, and reading an obvious statement (such as “accuracy matters, even when you agree with the broad strokes”) can help clarify why you find certain things distasteful.</description>
-      <guid>https://www.seangoedecke.com/saying-the-obvious-thing/</guid>
-      <pubDate>Sat, 27 Jun 2026 11:02:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>Om</title>
-      <link>https://daringfireball.net/2026/06/om</link>
-      <description>This is going to sound cornier than a bucket of Jiffy-Pop, but it is a profound irony that a man with such a big and beautiful figurative heart could have such a lousy literal one.</description>
-      <category>apple</category>
-      <category>conference</category>
-      <guid>https://daringfireball.net/2026/06/om</guid>
-      <pubDate>Sat, 27 Jun 2026 07:02:38 GMT</pubDate>
-    </item>
-    <item>
-      <title>Exclusive: US releases powerful Anthropic model Mythos to some US companies</title>
-      <link>https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies</link>
-      <description>The move comes the same day as a new OpenAI model sees a limited release.</description>
+      <title>The best response to AI slop, infinite advice, and online noise is from Robin Williams</title>
+      <link>https://jayacunzo.com/blog/your-move-chief</link>
+      <description>There's a moment in the movie  Good Will Hunting  which perfectly summarizes all the problems with AI slop and online noise and infinite advice content.  Sean (played by Robin Williams) is sitting next to Will (Matt Damon) on a bench in Boston Public Garden. I live here, so I know it well. The area </description>
+      <category>encryption</category>
       <category>ai</category>
-      <guid>https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies</guid>
-      <pubDate>Sat, 27 Jun 2026 07:02:34 GMT</pubDate>
+      <guid>https://jayacunzo.com/blog/your-move-chief</guid>
+      <pubDate>Sun, 28 Jun 2026 15:02:23 GMT</pubDate>
     </item>
     <item>
-      <title>We Can Still Stop California’s 3D Printer Surveillance Scheme</title>
-      <link>https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme</link>
-      <description>Ignoring EFF’s warnings about the dangers and impossibility of implementing a new mandate for 3D print surveillance software, the California State Assembly has signed off on legislation to do just that. In the process, legislators amended the bill to make it even more confusing, while failing to address the risks to privacy, speech, and consumer rights. We must renew our call on legislators to drop this bill as it heads to the state senate, and protect the tools of creators in the state.</description>
-      <guid>https://www.eff.org/deeplinks/2026/06/we-can-still-stop-californias-3d-printer-surveillance-scheme</guid>
-      <pubDate>Sat, 27 Jun 2026 03:02:44 GMT</pubDate>
+      <title>Marfa Public Radio Puts You to Sleep</title>
+      <link>https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep</link>
+      <description>Marfa Public Radio is literally never asleep. It operates 24/7 (except when lightning strikes) and there’s so much that goes on behind the scenes to make this happen– fundraising, compliance, protocols, emergency response, maintenance…the list goes on and on.Do you lay awake wondering what FCC compliance entails? Ever wondered what NPR's code of journalistic ethics involves for the newsroom?We may never be able to explain what it takes to operate the station, but we can put you to sleep trying to.For this fall membership drive we bring you Marfa Public Radio Puts You to Sleep. It's a sleep podcast wherein we read you the boring documents essential to our jobs, in the hopes we might lull you into slumber.We do actually hope that you fall asleep listening to this, but when you wake up, help us continue to read our boring documents and keep Marfa Public Radio awake by donating to the station at marfapublicradio.org/donate.</description>
+      <guid>https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep</guid>
+      <pubDate>Sun, 28 Jun 2026 15:02:18 GMT</pubDate>
     </item>
     <item>
-      <title>720 Ollie</title>
-      <link>https://xkcd.com/3264/</link>
-      <description></description>
-      <category>apple</category>
-      <category>javascript</category>
-      <guid>https://xkcd.com/3264/</guid>
-      <pubDate>Sat, 27 Jun 2026 03:02:40 GMT</pubDate>
+      <title>IP Crawl — open webcam catalog</title>
+      <link>https://ipcrawl.com/</link>
+      <description>A filterable, live dashboard for exploring video-feed data.</description>
+      <guid>https://ipcrawl.com/</guid>
+      <pubDate>Sun, 28 Jun 2026 11:02:10 GMT</pubDate>
     </item>
     <item>
-      <title>Tuning a Server for Benchmarking | David Álvarez Rosa | Personal Site</title>
-      <link>https://david.alvarezrosa.com/posts/tuning-a-server-for-benchmarking/</link>
-      <description>Optimizing code starts with measuring it, and a measurement is only useful if it is repeatable: a 2% improvement is invisible under 5% of noise. Yet on an …</description>
-      <author> (David Álvarez Rosa)</author>
-      <category>javascript</category>
-      <category>linux</category>
-      <guid>https://david.alvarezrosa.com/posts/tuning-a-server-for-benchmarking/</guid>
-      <pubDate>Fri, 26 Jun 2026 23:03:31 GMT</pubDate>
+      <title>The Laziest Generation</title>
+      <link>https://idiallo.com/blog/the-laziest-generation</link>
+      <description>I don't understand why this generation can't afford a home. When my grandfather was 18, he had already saved enough money from his paper route and various odd jobs to buy his first home. By the time m</description>
+      <guid>https://idiallo.com/blog/the-laziest-generation</guid>
+      <pubDate>Sun, 28 Jun 2026 07:03:53 GMT</pubDate>
     </item>
     <item>
-      <title>Reflecting to optimise | Magnus Ross</title>
-      <link>https://magnusross.github.io/posts/reflecting-to-optimise/</link>
-      <description>This is nothing to be proud of, but I have never really studied optimisation in depth. Oh sure, I know my Adam from my AdaGrad and I even used L-BFGS one time, but when people start talking about dual spaces and convergence for L∞L^\infty continuous functions, I tend to glaze over a bit. For some reason I think in my head a lot of it seemed a bit old fashioned, whatever that means; why do I need to learn about optimising constrained convex functions in the gradient-descent-for-everything-wait-actually-just-use-a-pre-trained-model era? Isn’t that what they used to, like, make the cheapest possible diet? Boring!</description>
-      <category>ai</category>
-      <guid>https://magnusross.github.io/posts/reflecting-to-optimise/</guid>
-      <pubDate>Fri, 26 Jun 2026 23:03:28 GMT</pubDate>
+      <title>Streaming services’ obnoxiously loud ads become illegal on July 1 in California</title>
+      <link>https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/</link>
+      <description>Illinois passed a similar law, giving services more incentive to make ads less booming.</description>
+      <guid>https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/</guid>
+      <pubDate>Sun, 28 Jun 2026 03:04:08 GMT</pubDate>
     </item>
     <item>
-      <title>A month of vibe-coding at 0.01x velocity</title>
-      <link>https://webesque.agency/blog/2026-06-19-llms.html</link>
-      <description>Exchanging my data for service use, I took up OpenAI's offer for a free   trial of ChatGPT Plus for a month. After slowly vibecoding an IDE plugin   throughout last month, I'm eager to share my notes and lingering thoughts.</description>
-      <category>ai</category>
-      <guid>https://webesque.agency/blog/2026-06-19-llms.html</guid>
-      <pubDate>Fri, 26 Jun 2026 23:03:24 GMT</pubDate>
+      <title>Data Access Patterns That Makes Your CPU Really Angry</title>
+      <link>https://blog.weineng.me/posts/slowest_add</link>
+      <description>Given an array of data, what is the slowest way to sum up the integers? Is it adding the numbers from left to right, adding them randomly, or doing something else? In this post, we are going to build a data access pattern from the ground up that sums numbers as slowly as possible by exploiting memory pitfalls.
+uint32_t* data = ...; // sequential data[0] + data[1] + data[2] + ... // random data[67] + data[69420] + data[42] + ... // the slowest data[A] + data[B] + data[C] + ... Spoiler: You can do &gt;30% worse than a randomized access pattern.</description>
+      <guid>https://blog.weineng.me/posts/slowest_add</guid>
+      <pubDate>Sat, 27 Jun 2026 23:53:10 GMT</pubDate>
     </item>
     <item>
-      <title>Chatbots vs. Ozone</title>
-      <link>https://blog.dshr.org/2026/05/chatbots-vs-ozone.html</link>
-      <description>Source  Back in February I posted The Kessler Syndrome , which also included a brief section mentioning the impacts of the proposed megacons...</description>
-      <guid>https://blog.dshr.org/2026/05/chatbots-vs-ozone.html</guid>
-      <pubDate>Fri, 26 Jun 2026 23:03:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>Designing a personal Pebble watchface</title>
-      <link>https://www.jonashietala.se/blog/2026/06/26/designing_a_personal_pebble_watchface/</link>
-      <description>I recently got a Pebble Time 2 as it seemed like a fun smartwatch away from Google/Apple/Samsung with a good 4 weeks of battery life.
-One thing I wanted to do is to create a custom watchface for my specific problems.</description>
-      <category>ai</category>
-      <category>android</category>
-      <guid>https://www.jonashietala.se/blog/2026/06/26/designing_a_personal_pebble_watchface/</guid>
-      <pubDate>Fri, 26 Jun 2026 23:03:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why software engineers are grieving</title>
-      <link>https://dev.jimgrey.net/2026/06/25/why-software-engineers-are-grieving/</link>
-      <description>Mission, craft, and the end of a historically unusual moment.</description>
-      <category>ai</category>
-      <guid>https://dev.jimgrey.net/2026/06/25/why-software-engineers-are-grieving/</guid>
-      <pubDate>Fri, 26 Jun 2026 23:03:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>bertolami</title>
-      <link>https://bertolami.com/blog/cascade-neural-image-compression</link>
-      <description>Joe Bertolami's portfolio and blog covering artificial intelligence, game development, computer graphics, data compression, and more.</description>
-      <category>ai</category>
-      <guid>https://bertolami.com/blog/cascade-neural-image-compression</guid>
-      <pubDate>Fri, 26 Jun 2026 23:03:06 GMT</pubDate>
-    </item>
-    <item>
-      <title>June Spam wave</title>
-      <link>https://blog.vasi.li/june-spam-wave/</link>
-      <description>I've been observing a new email spam wave hitting my servers in the last couple of weeks...
-
-Way above the normal "background radiation levels" for my server... 99% of them are poorly configured, and usually fail during "does the sender domain actually exist in DNS" stage... Not to mention</description>
-      <category>database</category>
-      <category>linux</category>
-      <guid>https://blog.vasi.li/june-spam-wave/</guid>
-      <pubDate>Fri, 26 Jun 2026 23:03:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>Scaling Laws, Carefully</title>
-      <link>https://lilianweng.github.io/posts/2026-06-24-scaling-laws/</link>
-      <description>Scaling laws are one of the most critical empirical findings in deep learning. The observation is simple in form: the training loss $L$ decreases predictably as we scale up model size $N$, dataset size $D$, and compute $C$, following a power-law curve, which appears as a straight line on a log-log plot. We can view scaling laws as a framework for describing the relationship between compute, loss, model size and data; at its core, it is about how to allocate precious compute optimally between $N$ and $D$.</description>
+      <title>Perspective · Mark Ferraz</title>
+      <link>https://markferraz.com/perspective</link>
+      <description>Essays by Mark Ferraz. Operator, founder, builder, thinker, architect, author.</description>
       <category>ai</category>
       <category>encryption</category>
-      <guid>https://lilianweng.github.io/posts/2026-06-24-scaling-laws/</guid>
-      <pubDate>Fri, 26 Jun 2026 23:02:59 GMT</pubDate>
+      <category>git</category>
+      <guid>https://markferraz.com/perspective</guid>
+      <pubDate>Sat, 27 Jun 2026 23:53:06 GMT</pubDate>
     </item>
     <item>
-      <title>Flatpak.org Rewrite | Jakub Steiner</title>
-      <link>https://blog.jimmac.eu/posts/flatpak-org-zola/</link>
-      <description>Flatpak website deserved a better backend.</description>
-      <guid>https://blog.jimmac.eu/posts/flatpak-org-zola/</guid>
-      <pubDate>Fri, 26 Jun 2026 23:02:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Wakamoleguy - home of the wakamoleguy</title>
-      <link>https://wakamoleguy.com/p/flexible-gates</link>
-      <description>When you need an approval checkpoint but don't want it everywhere, make the gate required but flexible in formality rather than optional but formal. A required gate lowers the stakes of misjudging risk.</description>
-      <guid>https://wakamoleguy.com/p/flexible-gates</guid>
-      <pubDate>Fri, 26 Jun 2026 23:02:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>HTML::Composer and Perl HTML templating</title>
-      <link>https://rawley.xyz/posts/html-composer.html</link>
-      <description>Description of post</description>
+      <title>A peek into Reddit's anti-spam internals</title>
+      <link>https://lyra.horse/blog/2026/06/reddit-spam-internals/</link>
+      <description>How Reddit accidentally leaked its spamurai system.</description>
       <category>web</category>
       <category>javascript</category>
+      <guid>https://lyra.horse/blog/2026/06/reddit-spam-internals/</guid>
+      <pubDate>Sat, 27 Jun 2026 23:53:02 GMT</pubDate>
+    </item>
+    <item>
+      <title>Clean Code Critique: Why Much of 'Clean Code' Aged Poorly (+ Better Alternatives)</title>
+      <link>https://bugzmanov.github.io/cleancode-critique/</link>
+      <description>A deep dive into Clean Code's impact, its shortcomings, and what modern developers should do instead.</description>
+      <guid>https://bugzmanov.github.io/cleancode-critique/</guid>
+      <pubDate>Sat, 27 Jun 2026 23:52:58 GMT</pubDate>
+    </item>
+    <item>
+      <title>William: a tiny poetry model in the browser</title>
+      <link>https://akshit.org/2026/06/21/william/</link>
+      <description>Training, quantizing, and running a small poetry model entirely in the browser.</description>
+      <category>apple</category>
+      <guid>https://akshit.org/2026/06/21/william/</guid>
+      <pubDate>Sat, 27 Jun 2026 23:52:54 GMT</pubDate>
+    </item>
+    <item>
+      <title>My addiction with trading apps</title>
+      <link>https://cat.strayforge.com/posts/investment-reflection/</link>
+      <description>The first thing I do when I wake up every morning is to open the stock app and check my watchlist. It’s a habit I developed and reinforced over the past few years. Admittedly, it’s very time and energy consuming. Many times, I’m not trying to actively trade, it’s almost like an addiction that I have to watch the ticker price multiple times every day.
+When it comes to personal finance and investing, I believe I’m a know how. Over the years,I read books (like The Philosopy of Money kind), forums (bogleheads etc), and all these resources tell you the same things, diversify, low-cost ETFs, maintain and balance your allocation, use tax-advantaged accounts. Over the years, I also watched myself made painful mistakes when I tried to out-play the market. If I think completely rational, I should just set my allocation and check my portfolio once or twice per year for rebalance and that should be it. So where comes the impulse of constantly checking the accounts?</description>
       <category>ai</category>
-      <guid>https://rawley.xyz/posts/html-composer.html</guid>
-      <pubDate>Fri, 26 Jun 2026 23:02:47 GMT</pubDate>
+      <guid>https://cat.strayforge.com/posts/investment-reflection/</guid>
+      <pubDate>Sat, 27 Jun 2026 23:52:51 GMT</pubDate>
     </item>
     <item>
-      <title>Where the wild Discovery Loops are</title>
-      <link>https://blog.christianperone.com/2026/06/where-the-wild-discovery-loops-are/</link>
-      <description>Karl Popper offered an elegant normative account of science as a process of conjectures and refutations: we formulate hypotheses or theories, expose them to criticism, scrutiny and experiment, and retain only what survives our best attempts at falsification. Even though we couldn't ever know if we reached the truth, we can approximate it and get</description>
-      <guid>https://blog.christianperone.com/2026/06/where-the-wild-discovery-loops-are/</guid>
-      <pubDate>Fri, 26 Jun 2026 23:02:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>From API to Ontology: An Architecture for On-demand Semantic Digital Twins</title>
-      <link>https://blog.ptidej.net/from-api-to-ontology-an-architecture-for-on-demand-semantic-digital-twins/</link>
-      <description>In our previous post, we drew a line between two layers of an urban energy digital twin: the Truth Layer, a relational system of record that protects the structural integrity of a city's data, and a promised Knowledge Layer, a semantic graph that would let that data reason about itself.</description>
-      <category>cloud</category>
-      <category>encryption</category>
-      <category>javascript</category>
-      <guid>https://blog.ptidej.net/from-api-to-ontology-an-architecture-for-on-demand-semantic-digital-twins/</guid>
-      <pubDate>Fri, 26 Jun 2026 23:02:39 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why the single package.json monorepo policy is a trap · John James</title>
-      <link>https://johnjames.blog/posts/why-the-single-package-json-monorepo-policy-is-trap/</link>
-      <description>A single root package.json can look simpler in an Nx monorepo but dependency hoisting hides ownership and can turn upgrades into confusing production build failures.</description>
-      <category>javascript</category>
-      <category>typescript</category>
-      <category>containers</category>
-      <guid>https://johnjames.blog/posts/why-the-single-package-json-monorepo-policy-is-trap/</guid>
-      <pubDate>Fri, 26 Jun 2026 23:02:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Type Inference (Part 1)</title>
-      <link>https://www.blog.akhil.cc/type-inference-part-1</link>
-      <description>A tutorial on Hindley Milner type inference.</description>
-      <guid>https://www.blog.akhil.cc/type-inference-part-1</guid>
-      <pubDate>Fri, 26 Jun 2026 23:02:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>A glitch in February of the year 0</title>
-      <link>https://28times.com/blog/2026-06-26-february-of-the-year-0</link>
-      <description>A technical report about a rare correctness issue that we found and fixed.</description>
-      <guid>https://28times.com/blog/2026-06-26-february-of-the-year-0</guid>
-      <pubDate>Fri, 26 Jun 2026 23:02:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>I've Automated My Homelab with the BAT Stack (Bootc, Ansible, Terraform/OpenTofu)</title>
-      <link>https://keijilohier.com/blogs/recreating-my-homelab-with-infrastructure-as-code/</link>
-      <description>I rebuilt Geronimo Lab using Bootc, Ansible, Terraform/OpenTofu. This stack allows me to manage my homelab entirely through infrastructure as code tools, making it easier to maintain, scale and automate.</description>
-      <category>git</category>
-      <category>javascript</category>
-      <category>containers</category>
-      <guid>https://keijilohier.com/blogs/recreating-my-homelab-with-infrastructure-as-code/</guid>
-      <pubDate>Fri, 26 Jun 2026 23:02:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Don’t Use a Stochastic Engine for Deterministic Workflows</title>
-      <link>https://webmnem.here.now/dont-use-a-stochastic-engine-for-deterministic-workflows/</link>
-      <description>Before adding AI to source-controlled organizational workflows, ask whether the answer should be generated live at all.</description>
-      <category>ai</category>
-      <guid>https://webmnem.here.now/dont-use-a-stochastic-engine-for-deterministic-workflows/</guid>
-      <pubDate>Fri, 26 Jun 2026 23:02:19 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Latent Capability Ceiling: When a Bigger Model Won't Fix Your Problem - TianPan.co</title>
-      <link>https://tianpan.co/blog/2026-04-19-latent-capability-ceiling-llm-production</link>
-      <description>Frontier models plateau on domain-specific tasks well before teams expect it. Here's how to diagnose whether you've hit a true capability ceiling or a prompt, eval, or data problem — and which technique actually breaks through.</description>
-      <author> (https://tianpan.co)</author>
-      <category>encryption</category>
-      <category>ai</category>
-      <guid>https://tianpan.co/blog/2026-04-19-latent-capability-ceiling-llm-production</guid>
-      <pubDate>Fri, 26 Jun 2026 23:02:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>Engineering for Bounded Cognition</title>
-      <link>https://shapeofthesystem.com/posts/2026/02/03/bounded-cognition</link>
-      <description>The mind that builds software is far smaller than the software it builds, and almost everything good in engineering is a way of living with that gap.</description>
-      <author> (Matt Williams)</author>
-      <category>git</category>
-      <guid>https://shapeofthesystem.com/posts/2026/02/03/bounded-cognition</guid>
-      <pubDate>Fri, 26 Jun 2026 23:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Stop generating what you already have</title>
-      <link>https://aazar.me/posts/stop-generating-what-you-already-have</link>
-      <description>A teammate pinged me about a self-hosted LLM taking 42 seconds per extraction. The model was not slow. The prompt was asking it to copy text it already had. Here is how I cut it to 6 seconds.</description>
-      <author> (Aazar)</author>
-      <category>javascript</category>
-      <category>typescript</category>
-      <category>ai</category>
-      <guid>https://aazar.me/posts/stop-generating-what-you-already-have</guid>
-      <pubDate>Fri, 26 Jun 2026 23:02:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>The day I started believing</title>
-      <link>https://davidpoblador.com/blog/the-day-i-started-believing.html</link>
-      <description>I'd boxed AI coding assistants in as a great autocomplete that would plateau, convinced senior engineers like me would spend years cleaning up after them. Then Claude Opus 4.5 reverse-engineered my way off a locked ISP router, software-only, the kind of work others had only managed by soldering hardware or exploiting dead firmware, and rebuilt it in an hour when my ISP broke it. On an already-old model. This is the day I stopped seeing these tools as a time-saver and started seeing them as the future.</description>
-      <author> (David Poblador i Garcia)</author>
-      <category>ai</category>
-      <category>python</category>
-      <guid>https://davidpoblador.com/blog/the-day-i-started-believing.html</guid>
-      <pubDate>Fri, 26 Jun 2026 23:02:01 GMT</pubDate>
-    </item>
-    <item>
-      <title>Transformers and Attention: A Plain-English Guide for Engineers</title>
-      <link>https://bharad.dev/blog/transformers-and-attention</link>
-      <description>We use models built on transformers every day, yet the architecture itself usually stays a black box. It doesn't have to, and following it doesn't take heavy math. A visual, ground-up walkthrough: how words become numbers, how attention lets them shape each other, and how it all turns into a next-word prediction.</description>
-      <author> (Bharadwaj P)</author>
-      <category>cloud</category>
-      <category>ai</category>
-      <guid>https://bharad.dev/blog/transformers-and-attention</guid>
-      <pubDate>Fri, 26 Jun 2026 23:01:57 GMT</pubDate>
-    </item>
-    <item>
-      <title>You probably don’t need a UUID</title>
-      <link>https://ssg.dev/you-probably-dont-need-a-uuid/</link>
-      <description>My troubles with record identifiers starts with a web site I developed, Eksi Sozluk. It's been one of the most popular Turkish web sites in the world for the last quarter century. When I first wrote it in 1999, I had to run it on a remote hosting service</description>
-      <category>encryption</category>
-      <category>database</category>
-      <category>javascript</category>
-      <guid>https://ssg.dev/you-probably-dont-need-a-uuid/</guid>
-      <pubDate>Fri, 26 Jun 2026 23:01:54 GMT</pubDate>
-    </item>
-    <item>
-      <title>Easier to Convince Than to Prove</title>
-      <link>https://korbonits.com/blog/2026-06-12-easier-to-convince-than-to-prove/</link>
-      <description>Two posts ago I quoted a warning: an AI will find it easier to convince you it has a proof than to write one. A middling new paper finally put a number on that gap — 0.99 against 0.55.</description>
-      <category>ai</category>
-      <guid>https://korbonits.com/blog/2026-06-12-easier-to-convince-than-to-prove/</guid>
-      <pubDate>Fri, 26 Jun 2026 23:01:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>Previewing GPT-5.6 Sol: a next-generation model</title>
-      <link>https://openai.com/index/previewing-gpt-5-6-sol/</link>
-      <description>OpenAI previews GPT-5.6 Sol, a next-generation model with stronger capabilities in coding, science, and cybersecurity, paired with its most advanced safety stack.</description>
-      <category>ai</category>
-      <guid>https://openai.com/index/previewing-gpt-5-6-sol/</guid>
-      <pubDate>Fri, 26 Jun 2026 19:01:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>Incident Report: CVE-2026-LGTM</title>
-      <link>https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html</link>
-      <description>A series of unfortunate agents.</description>
-      <category>ai</category>
-      <category>containers</category>
-      <category>git</category>
-      <category>javascript</category>
-      <guid>https://nesbitt.io/2026/06/26/incident-report-cve-2026-lgtm.html</guid>
-      <pubDate>Fri, 26 Jun 2026 19:01:47 GMT</pubDate>
-    </item>
-    <item>
-      <title>Claude Code in a Container | no dogma blog</title>
-      <link>https://nodogmablog.bryanhogan.net/2026/06/claude-code-in-a-container/</link>
-      <description>I don't like running Claude Code on my computer, instead I put it in a container and mount a directory from the host into the container where Claude generates code.</description>
-      <category>containers</category>
-      <category>dotnet</category>
-      <category>ai</category>
-      <category>ides</category>
-      <guid>https://nodogmablog.bryanhogan.net/2026/06/claude-code-in-a-container/</guid>
-      <pubDate>Fri, 26 Jun 2026 19:01:43 GMT</pubDate>
-    </item>
-    <item>
-      <title>AI inference is obviously profitable</title>
-      <link>https://www.seangoedecke.com/ai-inference-is-obviously-profitable/</link>
-      <description>Many people claim that AI inference is unprofitable to serve, and thus must be subsidized by an ocean of dumb money from investors who believe that some future AI model will come to dominate the world economy. When that dumb money goes away, so will AI products. According to this view, LLMs are just inherently too expensive (in terms of money, power, and water) to be used in consumer products. In fact, they can only be used today by externalizing the costs: money onto VC funds and now retail ETF investors, power onto electric utility consumers, and water onto the communities where datacenters are built.</description>
-      <category>ai</category>
-      <guid>https://www.seangoedecke.com/ai-inference-is-obviously-profitable/</guid>
-      <pubDate>Fri, 26 Jun 2026 15:02:35 GMT</pubDate>
-    </item>
-    <item>
-      <title>Open Letter | Akrites</title>
-      <link>https://akrites.org/letter/</link>
-      <description>An open letter from the technology industry, and the launch of Akrites - a coordinated effort to remediate vulnerabilities in the open source software the world runs on.</description>
-      <category>linux</category>
+      <title>PRs and LLMs</title>
+      <link>https://gerdzellweger.com/engineering/2026/06/27/prs-and-llms.html</link>
+      <description>We are hiring at Feldera, so I have been talking to many software engineers. These calls tend to reveal where the “meta of software engineering” is at. Often the signal is that there isn’t a good signal and people are looking for new opportunities for various reasons.</description>
       <category>rust</category>
       <category>ai</category>
-      <category>containers</category>
-      <category>cloud</category>
-      <guid>https://akrites.org/letter/</guid>
-      <pubDate>Fri, 26 Jun 2026 15:02:31 GMT</pubDate>
+      <category>web</category>
+      <guid>https://gerdzellweger.com/engineering/2026/06/27/prs-and-llms.html</guid>
+      <pubDate>Sat, 27 Jun 2026 23:52:48 GMT</pubDate>
     </item>
     <item>
-      <title>What happened after 2,000 people tried to hack my AI assistant — Fernando Irarrázaval</title>
-      <link>https://www.fernandoi.cl/posts/hackmyclaw/</link>
-      <description>home ·
-about</description>
-      <category>ai</category>
+      <title>The Case for Physical Media Ownership | Cem Dervis</title>
+      <link>https://dervis.de/physical/</link>
+      <description>An overview of physical media ownership, streaming shutdowns, content removals, and the limits of digital licenses.</description>
       <category>gaming</category>
-      <guid>https://www.fernandoi.cl/posts/hackmyclaw/</guid>
-      <pubDate>Fri, 26 Jun 2026 15:02:28 GMT</pubDate>
+      <category>apple</category>
+      <category>git</category>
+      <category>youtube</category>
+      <guid>https://dervis.de/physical/</guid>
+      <pubDate>Sat, 27 Jun 2026 23:52:44 GMT</pubDate>
+    </item>
+    <item>
+      <title>A Perfect Meritocracy Will Have Limited Social Mobility</title>
+      <link>https://outlookzen.com/2026/06/27/a-perfect-meritocracy-will-have-little-social-mobility/</link>
+      <description>I’ve increasingly been hearing people assume or claim that meritocracy and social mobility go hand-in-hand. Their argument often goes like this: In a world driven by nepotism, cronyism, bribery etc…</description>
+      <guid>https://outlookzen.com/2026/06/27/a-perfect-meritocracy-will-have-little-social-mobility/</guid>
+      <pubDate>Sat, 27 Jun 2026 23:52:36 GMT</pubDate>
+    </item>
+    <item>
+      <title>Software is becoming marketing</title>
+      <link>https://www.terezatizkova.com/writing/software-abundance</link>
+      <description>Four ways software products and jobs change in the age of abundance</description>
+      <category>ai</category>
+      <guid>https://www.terezatizkova.com/writing/software-abundance</guid>
+      <pubDate>Sat, 27 Jun 2026 23:52:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>When you're stuck, just do something</title>
+      <link>https://www.autogram.id/alex/thoughts/when-you-re-stuck-just-do-something</link>
+      <description>Thinking won't get you anywhere.</description>
+      <author> (/alex)</author>
+      <category>ai</category>
+      <guid>https://www.autogram.id/alex/thoughts/when-you-re-stuck-just-do-something</guid>
+      <pubDate>Sat, 27 Jun 2026 23:52:29 GMT</pubDate>
+    </item>
+    <item>
+      <title>Voting with Feet</title>
+      <link>https://maxmautner.com/2026/06/25/voting-with-feet.html</link>
+      <description>Where you live, pay taxes, and put down roots is its own kind of vote – and staying is a way of adding value to a place.</description>
+      <category>web</category>
+      <guid>https://maxmautner.com/2026/06/25/voting-with-feet.html</guid>
+      <pubDate>Sat, 27 Jun 2026 23:52:25 GMT</pubDate>
+    </item>
+    <item>
+      <title>One More Thing</title>
+      <link>https://take.surf/2026/06/07/one-more-thing</link>
+      <description>WWDC used to be fun.</description>
+      <category>conference</category>
+      <category>apple</category>
+      <guid>https://take.surf/2026/06/07/one-more-thing</guid>
+      <pubDate>Sat, 27 Jun 2026 23:52:22 GMT</pubDate>
+    </item>
+    <item>
+      <title>"No, I swear I wrote this."</title>
+      <link>https://revise.io/blog/06-27-2026/no-i-swear-i-wrote-this</link>
+      <description>LLMs have gotten very good. It's impossible tell anymore if something was written by a human or a model. AI detectors are snake oil. Nobody trusts each...</description>
+      <category>ai</category>
+      <category>youtube</category>
+      <guid>https://revise.io/blog/06-27-2026/no-i-swear-i-wrote-this</guid>
+      <pubDate>Sat, 27 Jun 2026 23:52:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Daily links from Cory Doctorow</title>
+      <link>https://pluralistic.net/2026/06/27/zuckerstreisand-2/</link>
+      <description></description>
+      <category>encryption</category>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://pluralistic.net/2026/06/27/zuckerstreisand-2/</guid>
+      <pubDate>Sat, 27 Jun 2026 19:02:32 GMT</pubDate>
+    </item>
+    <item>
+      <title>Fintech Engineering Handbook</title>
+      <link>https://w.pitula.me/fintech-engineering-handbook/</link>
+      <description>Welcome to the Fintech Engineering Handbook. This resource aims to describe the most important patterns used in software engineering, where money is the primary focus of the system. It can be read in full to get a comprehensive understanding or in parts when dealing with a particular problem.</description>
+      <category>ides</category>
+      <category>git</category>
+      <category>cloud</category>
+      <guid>https://w.pitula.me/fintech-engineering-handbook/</guid>
+      <pubDate>Sat, 27 Jun 2026 19:02:26 GMT</pubDate>
+    </item>
+    <item>
+      <title>GitHub - bikini/exploitarium: A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if handed out lulz. Please do not abuse these. I do this so to allure people into the field, and I've always found this is the most efficient way.</title>
+      <link>https://github.com/bikini/exploitarium</link>
+      <description>A single archive of public exploit PoCs and vulnerability research writeups. At the time I post these, none have been reported. Feel free to report them yourself and take credit for the CVE if hand...</description>
+      <category>ai</category>
+      <category>git</category>
+      <category>containers</category>
+      <guid>https://github.com/bikini/exploitarium</guid>
+      <pubDate>Sat, 27 Jun 2026 19:02:23 GMT</pubDate>
     </item>
   </channel>
 </rss>
