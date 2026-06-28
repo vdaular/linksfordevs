@@ -7,6 +7,23 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>We have Mythos at Home: GLM 5.2 beats Claude in our Cyber Benchmarks</title>
+      <link>https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/</link>
+      <description>Among models given nothing but a prompt, the best open-weight option beat Claude Opus 4.8.</description>
+      <category>ai</category>
+      <category>ides</category>
+      <guid>https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/</guid>
+      <pubDate>Sun, 28 Jun 2026 23:02:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>Using Opus 4.8 to get a second opinion on an MRI and where it leaves me</title>
+      <link>https://antoine.fi/mri-analysis-using-claude-code-opus</link>
+      <description>Welcome to my personal blog! I use it to share what I'm currently learning or thinking about, usually on topics related to technology, business, and health.</description>
+      <category>ai</category>
+      <guid>https://antoine.fi/mri-analysis-using-claude-code-opus</guid>
+      <pubDate>Sun, 28 Jun 2026 23:02:14 GMT</pubDate>
+    </item>
+    <item>
       <title>The best response to AI slop, infinite advice, and online noise is from Robin Williams</title>
       <link>https://jayacunzo.com/blog/your-move-chief</link>
       <description>There's a moment in the movie  Good Will Hunting  which perfectly summarizes all the problems with AI slop and online noise and infinite advice content.  Sean (played by Robin Williams) is sitting next to Will (Matt Damon) on a bench in Boston Public Garden. I live here, so I know it well. The area </description>

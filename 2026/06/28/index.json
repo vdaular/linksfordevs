@@ -1,5 +1,19 @@
 [
   {
+    "Title": "We have Mythos at Home: GLM 5.2 beats Claude in our Cyber Benchmarks",
+    "Url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
+    "Timestamp": "2026-06-28T23:02:17",
+    "Domain": "semgrep.dev",
+    "Description": "Among models given nothing but a prompt, the best open-weight option beat Claude Opus 4.8."
+  },
+  {
+    "Title": "Using Opus 4.8 to get a second opinion on an MRI and where it leaves me",
+    "Url": "https://antoine.fi/mri-analysis-using-claude-code-opus",
+    "Timestamp": "2026-06-28T23:02:14",
+    "Domain": "antoine.fi",
+    "Description": "Welcome to my personal blog! I use it to share what I'm currently learning or thinking about, usually on topics related to technology, business, and health."
+  },
+  {
     "Title": "The best response to AI slop, infinite advice, and online noise is from Robin Williams",
     "Url": "https://jayacunzo.com/blog/your-move-chief",
     "Timestamp": "2026-06-28T15:02:23",
