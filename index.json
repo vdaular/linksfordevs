@@ -1,5 +1,117 @@
 [
   {
+    "Title": "Data Access Patterns That Makes Your CPU Really Angry",
+    "Url": "https://blog.weineng.me/posts/slowest_add",
+    "Timestamp": "2026-06-27T23:53:10",
+    "Domain": "blog.weineng.me",
+    "Description": "Given an array of data, what is the slowest way to sum up the integers? Is it adding the numbers from left to right, adding them randomly, or doing something else? In this post, we are going to build a data access pattern from the ground up that sums numbers as slowly as possible by exploiting memory pitfalls.\nuint32_t* data = ...; // sequential data[0] + data[1] + data[2] + ... // random data[67] + data[69420] + data[42] + ... // the slowest data[A] + data[B] + data[C] + ... Spoiler: You can do >30% worse than a randomized access pattern.",
+    "Confidence": 0.9891786
+  },
+  {
+    "Title": "Perspective · Mark Ferraz",
+    "Url": "https://markferraz.com/perspective",
+    "Timestamp": "2026-06-27T23:53:06",
+    "Domain": "markferraz.com",
+    "Description": "Essays by Mark Ferraz. Operator, founder, builder, thinker, architect, author.",
+    "Confidence": 0.98440117
+  },
+  {
+    "Title": "A peek into Reddit's anti-spam internals",
+    "Url": "https://lyra.horse/blog/2026/06/reddit-spam-internals/",
+    "Timestamp": "2026-06-27T23:53:02",
+    "Domain": "lyra.horse",
+    "Description": "How Reddit accidentally leaked its spamurai system.",
+    "Confidence": 0.995466
+  },
+  {
+    "Title": "Clean Code Critique: Why Much of 'Clean Code' Aged Poorly (+ Better Alternatives)",
+    "Url": "https://bugzmanov.github.io/cleancode-critique/",
+    "Timestamp": "2026-06-27T23:52:58",
+    "Domain": "bugzmanov.github.io",
+    "Description": "A deep dive into Clean Code's impact, its shortcomings, and what modern developers should do instead.",
+    "Confidence": 0.91380775
+  },
+  {
+    "Title": "William: a tiny poetry model in the browser",
+    "Url": "https://akshit.org/2026/06/21/william/",
+    "Timestamp": "2026-06-27T23:52:54",
+    "Domain": "akshit.org",
+    "Description": "Training, quantizing, and running a small poetry model entirely in the browser.",
+    "Confidence": 0.9061296
+  },
+  {
+    "Title": "My addiction with trading apps",
+    "Url": "https://cat.strayforge.com/posts/investment-reflection/",
+    "Timestamp": "2026-06-27T23:52:51",
+    "Domain": "cat.strayforge.com",
+    "Description": "The first thing I do when I wake up every morning is to open the stock app and check my watchlist. It’s a habit I developed and reinforced over the past few years. Admittedly, it’s very time and energy consuming. Many times, I’m not trying to actively trade, it’s almost like an addiction that I have to watch the ticker price multiple times every day.\nWhen it comes to personal finance and investing, I believe I’m a know how. Over the years,I read books (like The Philosopy of Money kind), forums (bogleheads etc), and all these resources tell you the same things, diversify, low-cost ETFs, maintain and balance your allocation, use tax-advantaged accounts. Over the years, I also watched myself made painful mistakes when I tried to out-play the market. If I think completely rational, I should just set my allocation and check my portfolio once or twice per year for rebalance and that should be it. So where comes the impulse of constantly checking the accounts?",
+    "Confidence": 0.9458149
+  },
+  {
+    "Title": "PRs and LLMs",
+    "Url": "https://gerdzellweger.com/engineering/2026/06/27/prs-and-llms.html",
+    "Timestamp": "2026-06-27T23:52:48",
+    "Domain": "gerdzellweger.com",
+    "Description": "We are hiring at Feldera, so I have been talking to many software engineers. These calls tend to reveal where the “meta of software engineering” is at. Often the signal is that there isn’t a good signal and people are looking for new opportunities for various reasons.",
+    "Confidence": 0.986704
+  },
+  {
+    "Title": "The Case for Physical Media Ownership | Cem Dervis",
+    "Url": "https://dervis.de/physical/",
+    "Timestamp": "2026-06-27T23:52:44",
+    "Domain": "dervis.de",
+    "Description": "An overview of physical media ownership, streaming shutdowns, content removals, and the limits of digital licenses.",
+    "Confidence": 0.8317165
+  },
+  {
+    "Title": "A Perfect Meritocracy Will Have Limited Social Mobility",
+    "Url": "https://outlookzen.com/2026/06/27/a-perfect-meritocracy-will-have-little-social-mobility/",
+    "Timestamp": "2026-06-27T23:52:36",
+    "Domain": "outlookzen.com",
+    "Description": "I’ve increasingly been hearing people assume or claim that meritocracy and social mobility go hand-in-hand. Their argument often goes like this: In a world driven by nepotism, cronyism, bribery etc…",
+    "Confidence": 0.8546271
+  },
+  {
+    "Title": "Software is becoming marketing",
+    "Url": "https://www.terezatizkova.com/writing/software-abundance",
+    "Timestamp": "2026-06-27T23:52:32",
+    "Domain": "www.terezatizkova.com",
+    "Description": "Four ways software products and jobs change in the age of abundance",
+    "Confidence": 0.96474665
+  },
+  {
+    "Title": "When you're stuck, just do something",
+    "Url": "https://www.autogram.id/alex/thoughts/when-you-re-stuck-just-do-something",
+    "Timestamp": "2026-06-27T23:52:29",
+    "Domain": "www.autogram.id",
+    "Description": "Thinking won't get you anywhere.",
+    "Confidence": 0.97379297
+  },
+  {
+    "Title": "Voting with Feet",
+    "Url": "https://maxmautner.com/2026/06/25/voting-with-feet.html",
+    "Timestamp": "2026-06-27T23:52:25",
+    "Domain": "maxmautner.com",
+    "Description": "Where you live, pay taxes, and put down roots is its own kind of vote – and staying is a way of adding value to a place.",
+    "Confidence": 0.5261804
+  },
+  {
+    "Title": "One More Thing",
+    "Url": "https://take.surf/2026/06/07/one-more-thing",
+    "Timestamp": "2026-06-27T23:52:22",
+    "Domain": "take.surf",
+    "Description": "WWDC used to be fun.",
+    "Confidence": 0.9774415
+  },
+  {
+    "Title": "\"No, I swear I wrote this.\"",
+    "Url": "https://revise.io/blog/06-27-2026/no-i-swear-i-wrote-this",
+    "Timestamp": "2026-06-27T23:52:17",
+    "Domain": "revise.io",
+    "Description": "LLMs have gotten very good. It's impossible tell anymore if something was written by a human or a model. AI detectors are snake oil. Nobody trusts each...",
+    "Confidence": 0.95450175
+  },
+  {
     "Title": "Daily links from Cory Doctorow",
     "Url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
     "Timestamp": "2026-06-27T19:02:32",
@@ -78,213 +190,5 @@
     "Domain": "xkcd.com",
     "Description": "",
     "Confidence": 0.98151064
-  },
-  {
-    "Title": "Tuning a Server for Benchmarking | David Álvarez Rosa | Personal Site",
-    "Url": "https://david.alvarezrosa.com/posts/tuning-a-server-for-benchmarking/",
-    "Timestamp": "2026-06-26T23:03:31",
-    "Domain": "david.alvarezrosa.com",
-    "Description": "Optimizing code starts with measuring it, and a measurement is only useful if it is repeatable: a 2% improvement is invisible under 5% of noise. Yet on an …",
-    "Confidence": 0.97712624
-  },
-  {
-    "Title": "Reflecting to optimise | Magnus Ross",
-    "Url": "https://magnusross.github.io/posts/reflecting-to-optimise/",
-    "Timestamp": "2026-06-26T23:03:28",
-    "Domain": "magnusross.github.io",
-    "Description": "This is nothing to be proud of, but I have never really studied optimisation in depth. Oh sure, I know my Adam from my AdaGrad and I even used L-BFGS one time, but when people start talking about dual spaces and convergence for L∞L^\\infty continuous functions, I tend to glaze over a bit. For some reason I think in my head a lot of it seemed a bit old fashioned, whatever that means; why do I need to learn about optimising constrained convex functions in the gradient-descent-for-everything-wait-actually-just-use-a-pre-trained-model era? Isn’t that what they used to, like, make the cheapest possible diet? Boring!",
-    "Confidence": 0.98658705
-  },
-  {
-    "Title": "A month of vibe-coding at 0.01x velocity",
-    "Url": "https://webesque.agency/blog/2026-06-19-llms.html",
-    "Timestamp": "2026-06-26T23:03:24",
-    "Domain": "webesque.agency",
-    "Description": "Exchanging my data for service use, I took up OpenAI's offer for a free   trial of ChatGPT Plus for a month. After slowly vibecoding an IDE plugin   throughout last month, I'm eager to share my notes and lingering thoughts.",
-    "Confidence": 0.9838916
-  },
-  {
-    "Title": "Chatbots vs. Ozone",
-    "Url": "https://blog.dshr.org/2026/05/chatbots-vs-ozone.html",
-    "Timestamp": "2026-06-26T23:03:19",
-    "Domain": "blog.dshr.org",
-    "Description": "Source  Back in February I posted The Kessler Syndrome , which also included a brief section mentioning the impacts of the proposed megacons...",
-    "Confidence": 0.93659675
-  },
-  {
-    "Title": "Designing a personal Pebble watchface",
-    "Url": "https://www.jonashietala.se/blog/2026/06/26/designing_a_personal_pebble_watchface/",
-    "Timestamp": "2026-06-26T23:03:15",
-    "Domain": "www.jonashietala.se",
-    "Description": "I recently got a Pebble Time 2 as it seemed like a fun smartwatch away from Google/Apple/Samsung with a good 4 weeks of battery life.\nOne thing I wanted to do is to create a custom watchface for my specific problems.",
-    "Confidence": 0.99011827
-  },
-  {
-    "Title": "Why software engineers are grieving",
-    "Url": "https://dev.jimgrey.net/2026/06/25/why-software-engineers-are-grieving/",
-    "Timestamp": "2026-06-26T23:03:10",
-    "Domain": "dev.jimgrey.net",
-    "Description": "Mission, craft, and the end of a historically unusual moment.",
-    "Confidence": 0.96608603
-  },
-  {
-    "Title": "bertolami",
-    "Url": "https://bertolami.com/blog/cascade-neural-image-compression",
-    "Timestamp": "2026-06-26T23:03:06",
-    "Domain": "bertolami.com",
-    "Description": "Joe Bertolami's portfolio and blog covering artificial intelligence, game development, computer graphics, data compression, and more.",
-    "Confidence": 0.9882987
-  },
-  {
-    "Title": "June Spam wave",
-    "Url": "https://blog.vasi.li/june-spam-wave/",
-    "Timestamp": "2026-06-26T23:03:03",
-    "Domain": "blog.vasi.li",
-    "Description": "I've been observing a new email spam wave hitting my servers in the last couple of weeks...\n\nWay above the normal \"background radiation levels\" for my server... 99% of them are poorly configured, and usually fail during \"does the sender domain actually exist in DNS\" stage... Not to mention",
-    "Confidence": 0.95611805
-  },
-  {
-    "Title": "Scaling Laws, Carefully",
-    "Url": "https://lilianweng.github.io/posts/2026-06-24-scaling-laws/",
-    "Timestamp": "2026-06-26T23:02:59",
-    "Domain": "lilianweng.github.io",
-    "Description": "Scaling laws are one of the most critical empirical findings in deep learning. The observation is simple in form: the training loss $L$ decreases predictably as we scale up model size $N$, dataset size $D$, and compute $C$, following a power-law curve, which appears as a straight line on a log-log plot. We can view scaling laws as a framework for describing the relationship between compute, loss, model size and data; at its core, it is about how to allocate precious compute optimally between $N$ and $D$.",
-    "Confidence": 0.96893275
-  },
-  {
-    "Title": "Flatpak.org Rewrite | Jakub Steiner",
-    "Url": "https://blog.jimmac.eu/posts/flatpak-org-zola/",
-    "Timestamp": "2026-06-26T23:02:54",
-    "Domain": "blog.jimmac.eu",
-    "Description": "Flatpak website deserved a better backend.",
-    "Confidence": 0.67063254
-  },
-  {
-    "Title": "Wakamoleguy - home of the wakamoleguy",
-    "Url": "https://wakamoleguy.com/p/flexible-gates",
-    "Timestamp": "2026-06-26T23:02:50",
-    "Domain": "wakamoleguy.com",
-    "Description": "When you need an approval checkpoint but don't want it everywhere, make the gate required but flexible in formality rather than optional but formal. A required gate lowers the stakes of misjudging risk.",
-    "Confidence": 0.9078615
-  },
-  {
-    "Title": "HTML::Composer and Perl HTML templating",
-    "Url": "https://rawley.xyz/posts/html-composer.html",
-    "Timestamp": "2026-06-26T23:02:47",
-    "Domain": "rawley.xyz",
-    "Description": "Description of post",
-    "Confidence": 0.9657717
-  },
-  {
-    "Title": "Where the wild Discovery Loops are",
-    "Url": "https://blog.christianperone.com/2026/06/where-the-wild-discovery-loops-are/",
-    "Timestamp": "2026-06-26T23:02:43",
-    "Domain": "blog.christianperone.com",
-    "Description": "Karl Popper offered an elegant normative account of science as a process of conjectures and refutations: we formulate hypotheses or theories, expose them to criticism, scrutiny and experiment, and retain only what survives our best attempts at falsification. Even though we couldn't ever know if we reached the truth, we can approximate it and get",
-    "Confidence": 0.9021725
-  },
-  {
-    "Title": "From API to Ontology: An Architecture for On-demand Semantic Digital Twins",
-    "Url": "https://blog.ptidej.net/from-api-to-ontology-an-architecture-for-on-demand-semantic-digital-twins/",
-    "Timestamp": "2026-06-26T23:02:39",
-    "Domain": "blog.ptidej.net",
-    "Description": "In our previous post, we drew a line between two layers of an urban energy digital twin: the Truth Layer, a relational system of record that protects the structural integrity of a city's data, and a promised Knowledge Layer, a semantic graph that would let that data reason about itself.",
-    "Confidence": 0.9363295
-  },
-  {
-    "Title": "Why the single package.json monorepo policy is a trap · John James",
-    "Url": "https://johnjames.blog/posts/why-the-single-package-json-monorepo-policy-is-trap/",
-    "Timestamp": "2026-06-26T23:02:35",
-    "Domain": "johnjames.blog",
-    "Description": "A single root package.json can look simpler in an Nx monorepo but dependency hoisting hides ownership and can turn upgrades into confusing production build failures.",
-    "Confidence": 0.99065095
-  },
-  {
-    "Title": "Type Inference (Part 1)",
-    "Url": "https://www.blog.akhil.cc/type-inference-part-1",
-    "Timestamp": "2026-06-26T23:02:31",
-    "Domain": "www.blog.akhil.cc",
-    "Description": "A tutorial on Hindley Milner type inference.",
-    "Confidence": 0.9979843
-  },
-  {
-    "Title": "A glitch in February of the year 0",
-    "Url": "https://28times.com/blog/2026-06-26-february-of-the-year-0",
-    "Timestamp": "2026-06-26T23:02:27",
-    "Domain": "28times.com",
-    "Description": "A technical report about a rare correctness issue that we found and fixed.",
-    "Confidence": 0.97244805
-  },
-  {
-    "Title": "I've Automated My Homelab with the BAT Stack (Bootc, Ansible, Terraform/OpenTofu)",
-    "Url": "https://keijilohier.com/blogs/recreating-my-homelab-with-infrastructure-as-code/",
-    "Timestamp": "2026-06-26T23:02:22",
-    "Domain": "keijilohier.com",
-    "Description": "I rebuilt Geronimo Lab using Bootc, Ansible, Terraform/OpenTofu. This stack allows me to manage my homelab entirely through infrastructure as code tools, making it easier to maintain, scale and automate.",
-    "Confidence": 0.99926907
-  },
-  {
-    "Title": "Don’t Use a Stochastic Engine for Deterministic Workflows",
-    "Url": "https://webmnem.here.now/dont-use-a-stochastic-engine-for-deterministic-workflows/",
-    "Timestamp": "2026-06-26T23:02:19",
-    "Domain": "webmnem.here.now",
-    "Description": "Before adding AI to source-controlled organizational workflows, ask whether the answer should be generated live at all.",
-    "Confidence": 0.9906333
-  },
-  {
-    "Title": "The Latent Capability Ceiling: When a Bigger Model Won't Fix Your Problem - TianPan.co",
-    "Url": "https://tianpan.co/blog/2026-04-19-latent-capability-ceiling-llm-production",
-    "Timestamp": "2026-06-26T23:02:15",
-    "Domain": "tianpan.co",
-    "Description": "Frontier models plateau on domain-specific tasks well before teams expect it. Here's how to diagnose whether you've hit a true capability ceiling or a prompt, eval, or data problem — and which technique actually breaks through.",
-    "Confidence": 0.96152097
-  },
-  {
-    "Title": "Engineering for Bounded Cognition",
-    "Url": "https://shapeofthesystem.com/posts/2026/02/03/bounded-cognition",
-    "Timestamp": "2026-06-26T23:02:10",
-    "Domain": "shapeofthesystem.com",
-    "Description": "The mind that builds software is far smaller than the software it builds, and almost everything good in engineering is a way of living with that gap.",
-    "Confidence": 0.82183623
-  },
-  {
-    "Title": "Stop generating what you already have",
-    "Url": "https://aazar.me/posts/stop-generating-what-you-already-have",
-    "Timestamp": "2026-06-26T23:02:07",
-    "Domain": "aazar.me",
-    "Description": "A teammate pinged me about a self-hosted LLM taking 42 seconds per extraction. The model was not slow. The prompt was asking it to copy text it already had. Here is how I cut it to 6 seconds.",
-    "Confidence": 0.9883624
-  },
-  {
-    "Title": "The day I started believing",
-    "Url": "https://davidpoblador.com/blog/the-day-i-started-believing.html",
-    "Timestamp": "2026-06-26T23:02:01",
-    "Domain": "davidpoblador.com",
-    "Description": "I'd boxed AI coding assistants in as a great autocomplete that would plateau, convinced senior engineers like me would spend years cleaning up after them. Then Claude Opus 4.5 reverse-engineered my way off a locked ISP router, software-only, the kind of work others had only managed by soldering hardware or exploiting dead firmware, and rebuilt it in an hour when my ISP broke it. On an already-old model. This is the day I stopped seeing these tools as a time-saver and started seeing them as the future.",
-    "Confidence": 0.8440807
-  },
-  {
-    "Title": "Transformers and Attention: A Plain-English Guide for Engineers",
-    "Url": "https://bharad.dev/blog/transformers-and-attention",
-    "Timestamp": "2026-06-26T23:01:57",
-    "Domain": "bharad.dev",
-    "Description": "We use models built on transformers every day, yet the architecture itself usually stays a black box. It doesn't have to, and following it doesn't take heavy math. A visual, ground-up walkthrough: how words become numbers, how attention lets them shape each other, and how it all turns into a next-word prediction.",
-    "Confidence": 0.9811996
-  },
-  {
-    "Title": "You probably don’t need a UUID",
-    "Url": "https://ssg.dev/you-probably-dont-need-a-uuid/",
-    "Timestamp": "2026-06-26T23:01:54",
-    "Domain": "ssg.dev",
-    "Description": "My troubles with record identifiers starts with a web site I developed, Eksi Sozluk. It's been one of the most popular Turkish web sites in the world for the last quarter century. When I first wrote it in 1999, I had to run it on a remote hosting service",
-    "Confidence": 0.9810052
-  },
-  {
-    "Title": "Easier to Convince Than to Prove",
-    "Url": "https://korbonits.com/blog/2026-06-12-easier-to-convince-than-to-prove/",
-    "Timestamp": "2026-06-26T23:01:50",
-    "Domain": "korbonits.com",
-    "Description": "Two posts ago I quoted a warning: an AI will find it easier to convince you it has a proof than to write one. A middling new paper finally put a number on that gap — 0.99 against 0.55.",
-    "Confidence": 0.61130995
   }
 ]

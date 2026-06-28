@@ -1,5 +1,103 @@
 [
   {
+    "Title": "Data Access Patterns That Makes Your CPU Really Angry",
+    "Url": "https://blog.weineng.me/posts/slowest_add",
+    "Timestamp": "2026-06-27T23:53:10",
+    "Domain": "blog.weineng.me",
+    "Description": "Given an array of data, what is the slowest way to sum up the integers? Is it adding the numbers from left to right, adding them randomly, or doing something else? In this post, we are going to build a data access pattern from the ground up that sums numbers as slowly as possible by exploiting memory pitfalls.\nuint32_t* data = ...; // sequential data[0] + data[1] + data[2] + ... // random data[67] + data[69420] + data[42] + ... // the slowest data[A] + data[B] + data[C] + ... Spoiler: You can do >30% worse than a randomized access pattern."
+  },
+  {
+    "Title": "Perspective · Mark Ferraz",
+    "Url": "https://markferraz.com/perspective",
+    "Timestamp": "2026-06-27T23:53:06",
+    "Domain": "markferraz.com",
+    "Description": "Essays by Mark Ferraz. Operator, founder, builder, thinker, architect, author."
+  },
+  {
+    "Title": "A peek into Reddit's anti-spam internals",
+    "Url": "https://lyra.horse/blog/2026/06/reddit-spam-internals/",
+    "Timestamp": "2026-06-27T23:53:02",
+    "Domain": "lyra.horse",
+    "Description": "How Reddit accidentally leaked its spamurai system."
+  },
+  {
+    "Title": "Clean Code Critique: Why Much of 'Clean Code' Aged Poorly (+ Better Alternatives)",
+    "Url": "https://bugzmanov.github.io/cleancode-critique/",
+    "Timestamp": "2026-06-27T23:52:58",
+    "Domain": "bugzmanov.github.io",
+    "Description": "A deep dive into Clean Code's impact, its shortcomings, and what modern developers should do instead."
+  },
+  {
+    "Title": "William: a tiny poetry model in the browser",
+    "Url": "https://akshit.org/2026/06/21/william/",
+    "Timestamp": "2026-06-27T23:52:54",
+    "Domain": "akshit.org",
+    "Description": "Training, quantizing, and running a small poetry model entirely in the browser."
+  },
+  {
+    "Title": "My addiction with trading apps",
+    "Url": "https://cat.strayforge.com/posts/investment-reflection/",
+    "Timestamp": "2026-06-27T23:52:51",
+    "Domain": "cat.strayforge.com",
+    "Description": "The first thing I do when I wake up every morning is to open the stock app and check my watchlist. It’s a habit I developed and reinforced over the past few years. Admittedly, it’s very time and energy consuming. Many times, I’m not trying to actively trade, it’s almost like an addiction that I have to watch the ticker price multiple times every day.\nWhen it comes to personal finance and investing, I believe I’m a know how. Over the years,I read books (like The Philosopy of Money kind), forums (bogleheads etc), and all these resources tell you the same things, diversify, low-cost ETFs, maintain and balance your allocation, use tax-advantaged accounts. Over the years, I also watched myself made painful mistakes when I tried to out-play the market. If I think completely rational, I should just set my allocation and check my portfolio once or twice per year for rebalance and that should be it. So where comes the impulse of constantly checking the accounts?"
+  },
+  {
+    "Title": "PRs and LLMs",
+    "Url": "https://gerdzellweger.com/engineering/2026/06/27/prs-and-llms.html",
+    "Timestamp": "2026-06-27T23:52:48",
+    "Domain": "gerdzellweger.com",
+    "Description": "We are hiring at Feldera, so I have been talking to many software engineers. These calls tend to reveal where the “meta of software engineering” is at. Often the signal is that there isn’t a good signal and people are looking for new opportunities for various reasons."
+  },
+  {
+    "Title": "The Case for Physical Media Ownership | Cem Dervis",
+    "Url": "https://dervis.de/physical/",
+    "Timestamp": "2026-06-27T23:52:44",
+    "Domain": "dervis.de",
+    "Description": "An overview of physical media ownership, streaming shutdowns, content removals, and the limits of digital licenses."
+  },
+  {
+    "Title": "A Perfect Meritocracy Will Have Limited Social Mobility",
+    "Url": "https://outlookzen.com/2026/06/27/a-perfect-meritocracy-will-have-little-social-mobility/",
+    "Timestamp": "2026-06-27T23:52:36",
+    "Domain": "outlookzen.com",
+    "Description": "I’ve increasingly been hearing people assume or claim that meritocracy and social mobility go hand-in-hand. Their argument often goes like this: In a world driven by nepotism, cronyism, bribery etc…"
+  },
+  {
+    "Title": "Software is becoming marketing",
+    "Url": "https://www.terezatizkova.com/writing/software-abundance",
+    "Timestamp": "2026-06-27T23:52:32",
+    "Domain": "www.terezatizkova.com",
+    "Description": "Four ways software products and jobs change in the age of abundance"
+  },
+  {
+    "Title": "When you're stuck, just do something",
+    "Url": "https://www.autogram.id/alex/thoughts/when-you-re-stuck-just-do-something",
+    "Timestamp": "2026-06-27T23:52:29",
+    "Domain": "www.autogram.id",
+    "Description": "Thinking won't get you anywhere."
+  },
+  {
+    "Title": "Voting with Feet",
+    "Url": "https://maxmautner.com/2026/06/25/voting-with-feet.html",
+    "Timestamp": "2026-06-27T23:52:25",
+    "Domain": "maxmautner.com",
+    "Description": "Where you live, pay taxes, and put down roots is its own kind of vote – and staying is a way of adding value to a place."
+  },
+  {
+    "Title": "One More Thing",
+    "Url": "https://take.surf/2026/06/07/one-more-thing",
+    "Timestamp": "2026-06-27T23:52:22",
+    "Domain": "take.surf",
+    "Description": "WWDC used to be fun."
+  },
+  {
+    "Title": "\"No, I swear I wrote this.\"",
+    "Url": "https://revise.io/blog/06-27-2026/no-i-swear-i-wrote-this",
+    "Timestamp": "2026-06-27T23:52:17",
+    "Domain": "revise.io",
+    "Description": "LLMs have gotten very good. It's impossible tell anymore if something was written by a human or a model. AI detectors are snake oil. Nobody trusts each..."
+  },
+  {
     "Title": "Daily links from Cory Doctorow",
     "Url": "https://pluralistic.net/2026/06/27/zuckerstreisand-2/",
     "Timestamp": "2026-06-27T19:02:32",
