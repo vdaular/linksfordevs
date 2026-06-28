@@ -1,5 +1,13 @@
 [
   {
+    "Title": "The Laziest Generation",
+    "Url": "https://idiallo.com/blog/the-laziest-generation",
+    "Timestamp": "2026-06-28T07:03:53",
+    "Domain": "idiallo.com",
+    "Description": "I don't understand why this generation can't afford a home. When my grandfather was 18, he had already saved enough money from his paper route and various odd jobs to buy his first home. By the time m",
+    "Confidence": 0.7152948
+  },
+  {
     "Title": "Streaming services’ obnoxiously loud ads become illegal on July 1 in California",
     "Url": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/",
     "Timestamp": "2026-06-28T03:04:08",
@@ -166,21 +174,5 @@
     "Domain": "www.seangoedecke.com",
     "Description": "Stating the obvious is surprisingly useful. Most of your knowledge lives below the threshold of conscious awareness, so it’s possible for a piece of writing to remind you of what you already know. It’s common to know you don’t like something without being quite sure why, and reading an obvious statement (such as “accuracy matters, even when you agree with the broad strokes”) can help clarify why you find certain things distasteful.",
     "Confidence": 0.9805253
-  },
-  {
-    "Title": "Om",
-    "Url": "https://daringfireball.net/2026/06/om",
-    "Timestamp": "2026-06-27T07:02:38",
-    "Domain": "daringfireball.net",
-    "Description": "This is going to sound cornier than a bucket of Jiffy-Pop, but it is a profound irony that a man with such a big and beautiful figurative heart could have such a lousy literal one.",
-    "Confidence": 0.8665396
-  },
-  {
-    "Title": "Exclusive: US releases powerful Anthropic model Mythos to some US companies",
-    "Url": "https://www.semafor.com/article/06/27/2026/us-releases-powerful-anthropic-model-mythos-to-some-us-companies",
-    "Timestamp": "2026-06-27T07:02:34",
-    "Domain": "www.semafor.com",
-    "Description": "The move comes the same day as a new OpenAI model sees a limited release.",
-    "Confidence": 0.8642491
   }
 ]
