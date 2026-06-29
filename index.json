@@ -1,5 +1,37 @@
 [
   {
+    "Title": "Memory Prices",
+    "Url": "https://dam.stanford.edu/memory-prices.html",
+    "Timestamp": "2026-06-29T07:02:24",
+    "Domain": "dam.stanford.edu",
+    "Description": "Historical and current prices for DRAM, HBM, and NAND flash.",
+    "Confidence": 0.81007576
+  },
+  {
+    "Title": "Zanagrams - free daily word puzzle",
+    "Url": "https://zanagrams.com/",
+    "Timestamp": "2026-06-29T07:02:20",
+    "Domain": "zanagrams.com",
+    "Description": "A free daily word puzzle. Drag across the letters to find the hidden words and watch the grid shrink as you solve it.",
+    "Confidence": 0.97367847
+  },
+  {
+    "Title": "Age verification is just a precursor to attribution of speech",
+    "Url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
+    "Timestamp": "2026-06-29T07:02:17",
+    "Domain": "nonogra.ph",
+    "Description": "Lots of US states, European countries, and Australia have introduced &quot;age verification&quot; regulations. They present it as the classic &quot;save the children&quot; talking ...",
+    "Confidence": 0.8877605
+  },
+  {
+    "Title": "My favorite keyboards",
+    "Url": "https://fabiensanglard.net/keyboards/index.html",
+    "Timestamp": "2026-06-29T07:02:13",
+    "Domain": "fabiensanglard.net",
+    "Description": "June 28th, 2025",
+    "Confidence": 0.9049102
+  },
+  {
     "Title": "Do LLMs pass the mirror test?",
     "Url": "https://blog.pascalschuster.de/article/do-llms-pass-the-mirror-test",
     "Timestamp": "2026-06-29T03:04:50",
@@ -254,13 +286,5 @@
     "Domain": "ipcrawl.com",
     "Description": "A filterable, live dashboard for exploring video-feed data.",
     "Confidence": 0.9098704
-  },
-  {
-    "Title": "The Laziest Generation",
-    "Url": "https://idiallo.com/blog/the-laziest-generation",
-    "Timestamp": "2026-06-28T07:03:53",
-    "Domain": "idiallo.com",
-    "Description": "I don't understand why this generation can't afford a home. When my grandfather was 18, he had already saved enough money from his paper route and various odd jobs to buy his first home. By the time m",
-    "Confidence": 0.7152948
   }
 ]

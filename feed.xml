@@ -7,6 +7,40 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Memory Prices</title>
+      <link>https://dam.stanford.edu/memory-prices.html</link>
+      <description>Historical and current prices for DRAM, HBM, and NAND flash.</description>
+      <category>ai</category>
+      <category>web</category>
+      <guid>https://dam.stanford.edu/memory-prices.html</guid>
+      <pubDate>Mon, 29 Jun 2026 07:02:24 GMT</pubDate>
+    </item>
+    <item>
+      <title>Zanagrams - free daily word puzzle</title>
+      <link>https://zanagrams.com/</link>
+      <description>A free daily word puzzle. Drag across the letters to find the hidden words and watch the grid shrink as you solve it.</description>
+      <category>gaming</category>
+      <guid>https://zanagrams.com/</guid>
+      <pubDate>Mon, 29 Jun 2026 07:02:20 GMT</pubDate>
+    </item>
+    <item>
+      <title>Age verification is just a precursor to attribution of speech</title>
+      <link>https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026</link>
+      <description>Lots of US states, European countries, and Australia have introduced &amp;quot;age verification&amp;quot; regulations. They present it as the classic &amp;quot;save the children&amp;quot; talking ...</description>
+      <author> (Anonymous)</author>
+      <guid>https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026</guid>
+      <pubDate>Mon, 29 Jun 2026 07:02:17 GMT</pubDate>
+    </item>
+    <item>
+      <title>My favorite keyboards</title>
+      <link>https://fabiensanglard.net/keyboards/index.html</link>
+      <description>June 28th, 2025</description>
+      <category>apple</category>
+      <category>web</category>
+      <guid>https://fabiensanglard.net/keyboards/index.html</guid>
+      <pubDate>Mon, 29 Jun 2026 07:02:13 GMT</pubDate>
+    </item>
+    <item>
       <title>Do LLMs pass the mirror test?</title>
       <link>https://blog.pascalschuster.de/article/do-llms-pass-the-mirror-test</link>
       <description>It's likelier than you think! ...maybe.</description>
@@ -303,13 +337,6 @@ Smartphones condensed cameras, maps, encyclopedias, music players, and libraries
       <description>A filterable, live dashboard for exploring video-feed data.</description>
       <guid>https://ipcrawl.com/</guid>
       <pubDate>Sun, 28 Jun 2026 11:02:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Laziest Generation</title>
-      <link>https://idiallo.com/blog/the-laziest-generation</link>
-      <description>I don't understand why this generation can't afford a home. When my grandfather was 18, he had already saved enough money from his paper route and various odd jobs to buy his first home. By the time m</description>
-      <guid>https://idiallo.com/blog/the-laziest-generation</guid>
-      <pubDate>Sun, 28 Jun 2026 07:03:53 GMT</pubDate>
     </item>
   </channel>
 </rss>
