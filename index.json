@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Pollen tried to remove my article about CEO Callum Negus-Fancey and CTO Bradley Wright, and Google is assisting with it",
+    "Url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
+    "Timestamp": "2026-06-29T15:02:31",
+    "Domain": "blog.pragmaticengineer.com",
+    "Description": "In 2022, I wrote about the damning fall of events tech company Pollen. The short of it:\n\nPollen seemed to have pulled off the improbable feat of building a business in the notoriously low margin industry of events, surviving Covid-19, and building a solid software engineering organization. In April",
+    "Confidence": 0.5131566
+  },
+  {
     "Title": "HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74/100. No — 88/100. Actually 83/100. ",
     "Url": "https://danunparsed.com/p/hackerrank-open-source-ats",
     "Timestamp": "2026-06-29T11:02:11",
@@ -270,21 +278,5 @@
     "Domain": "antoine.fi",
     "Description": "Welcome to my personal blog! I use it to share what I'm currently learning or thinking about, usually on topics related to technology, business, and health.",
     "Confidence": 0.9596082
-  },
-  {
-    "Title": "The best response to AI slop, infinite advice, and online noise is from Robin Williams",
-    "Url": "https://jayacunzo.com/blog/your-move-chief",
-    "Timestamp": "2026-06-28T15:02:23",
-    "Domain": "jayacunzo.com",
-    "Description": "There's a moment in the movie  Good Will Hunting  which perfectly summarizes all the problems with AI slop and online noise and infinite advice content.  Sean (played by Robin Williams) is sitting next to Will (Matt Damon) on a bench in Boston Public Garden. I live here, so I know it well. The area ",
-    "Confidence": 0.8961263
-  },
-  {
-    "Title": "Marfa Public Radio Puts You to Sleep",
-    "Url": "https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep",
-    "Timestamp": "2026-06-28T15:02:18",
-    "Domain": "www.marfapublicradio.org",
-    "Description": "Marfa Public Radio is literally never asleep. It operates 24/7 (except when lightning strikes) and there’s so much that goes on behind the scenes to make this happen– fundraising, compliance, protocols, emergency response, maintenance…the list goes on and on.Do you lay awake wondering what FCC compliance entails? Ever wondered what NPR's code of journalistic ethics involves for the newsroom?We may never be able to explain what it takes to operate the station, but we can put you to sleep trying to.For this fall membership drive we bring you Marfa Public Radio Puts You to Sleep. It's a sleep podcast wherein we read you the boring documents essential to our jobs, in the hopes we might lull you into slumber.We do actually hope that you fall asleep listening to this, but when you wake up, help us continue to read our boring documents and keep Marfa Public Radio awake by donating to the station at marfapublicradio.org/donate.",
-    "Confidence": 0.7649571
   }
 ]

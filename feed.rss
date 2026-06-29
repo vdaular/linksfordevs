@@ -7,6 +7,15 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>Pollen tried to remove my article about CEO Callum Negus-Fancey and CTO Bradley Wright, and Google is assisting with it</title>
+      <link>https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/</link>
+      <description>In 2022, I wrote about the damning fall of events tech company Pollen. The short of it:
+
+Pollen seemed to have pulled off the improbable feat of building a business in the notoriously low margin industry of events, surviving Covid-19, and building a solid software engineering organization. In April</description>
+      <guid>https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/</guid>
+      <pubDate>Mon, 29 Jun 2026 15:02:31 GMT</pubDate>
+    </item>
+    <item>
       <title>HackerRank open sourced its ATS. My resume scored 90/100. Oh wait 74/100. No — 88/100. Actually 83/100. </title>
       <link>https://danunparsed.com/p/hackerrank-open-source-ats</link>
       <description>How hiring is becoming a luck filter.</description>
@@ -323,22 +332,6 @@ Smartphones condensed cameras, maps, encyclopedias, music players, and libraries
       <category>ai</category>
       <guid>https://antoine.fi/mri-analysis-using-claude-code-opus</guid>
       <pubDate>Sun, 28 Jun 2026 23:02:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>The best response to AI slop, infinite advice, and online noise is from Robin Williams</title>
-      <link>https://jayacunzo.com/blog/your-move-chief</link>
-      <description>There's a moment in the movie  Good Will Hunting  which perfectly summarizes all the problems with AI slop and online noise and infinite advice content.  Sean (played by Robin Williams) is sitting next to Will (Matt Damon) on a bench in Boston Public Garden. I live here, so I know it well. The area </description>
-      <category>encryption</category>
-      <category>ai</category>
-      <guid>https://jayacunzo.com/blog/your-move-chief</guid>
-      <pubDate>Sun, 28 Jun 2026 15:02:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>Marfa Public Radio Puts You to Sleep</title>
-      <link>https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep</link>
-      <description>Marfa Public Radio is literally never asleep. It operates 24/7 (except when lightning strikes) and there’s so much that goes on behind the scenes to make this happen– fundraising, compliance, protocols, emergency response, maintenance…the list goes on and on.Do you lay awake wondering what FCC compliance entails? Ever wondered what NPR's code of journalistic ethics involves for the newsroom?We may never be able to explain what it takes to operate the station, but we can put you to sleep trying to.For this fall membership drive we bring you Marfa Public Radio Puts You to Sleep. It's a sleep podcast wherein we read you the boring documents essential to our jobs, in the hopes we might lull you into slumber.We do actually hope that you fall asleep listening to this, but when you wake up, help us continue to read our boring documents and keep Marfa Public Radio awake by donating to the station at marfapublicradio.org/donate.</description>
-      <guid>https://www.marfapublicradio.org/podcast/marfa-public-radio-puts-you-to-sleep</guid>
-      <pubDate>Sun, 28 Jun 2026 15:02:18 GMT</pubDate>
     </item>
   </channel>
 </rss>
