@@ -1,5 +1,138 @@
 [
   {
+    "Title": "Worse is better",
+    "Url": "https://blog.ploeh.dk/2026/06/29/worse-is-better/",
+    "Timestamp": "2026-06-29T23:03:42",
+    "Domain": "blog.ploeh.dk",
+    "Description": "The most popular technology may not be the best."
+  },
+  {
+    "Title": "Testing is fucking awesome",
+    "Url": "https://mike.gg/testing-is-fucking-awesome",
+    "Timestamp": "2026-06-29T23:03:39",
+    "Domain": "mike.gg",
+    "Description": "Read \"Testing is fucking awesome\" by Michael Tromba. I used to have a pretty negative sentiment on testing. Unit tests, integration tests, anything that required writing code to test other code I alre..."
+  },
+  {
+    "Title": "Evaluation order and nontermination in query languages",
+    "Url": "https://www.rntz.net/post/2026-06-11-datalog-nontermination.html",
+    "Timestamp": "2026-06-29T23:03:36",
+    "Domain": "www.rntz.net",
+    "Description": "June 2026"
+  },
+  {
+    "Title": "Structural Correctness — sao.dev",
+    "Url": "https://blog.sao.dev/structural-correctness/",
+    "Timestamp": "2026-06-29T23:03:32",
+    "Domain": "blog.sao.dev",
+    "Description": "Type systems are great: they catch huge swaths of bugs at compile time, and contribute to a grammar/vocab of forward development for your app. Like type systems, modern tools for verifying correctness leverage structural descriptions of the problem, via graph-structured model of the domain:"
+  },
+  {
+    "Title": "One Man's Delusion Is Another Man's Dream.",
+    "Url": "http://guerrillademocracy.blogspot.com/2026/06/one-mans-delusion-is-another-mans-dream.html",
+    "Timestamp": "2026-06-29T23:03:28",
+    "Domain": "guerrillademocracy.blogspot.com",
+    "Description": "There is a particular type of person found everywhere, but especially online. They stand at the side-lines of life, watching others take ris..."
+  },
+  {
+    "Title": "On Hopping Claudes",
+    "Url": "https://www.olafalders.com/2026/06/29/on-hopping-claudes/",
+    "Timestamp": "2026-06-29T23:03:24",
+    "Domain": "www.olafalders.com",
+    "Description": "I vibe-coded a dashboard for hopping Claudes. It allows me to see which of my agents are working, stalled, or waiting on me. Under the hood it captures each agent's hook events into a local SQLite database."
+  },
+  {
+    "Title": "When Impressive Performance Gains Do Not Matter",
+    "Url": "https://blog.colinbreck.com/when-impressive-performance-gains-do-not-matter/",
+    "Timestamp": "2026-06-29T23:03:20",
+    "Domain": "blog.colinbreck.com",
+    "Description": "Even order-of-magnitude improvements in performance may not matter."
+  },
+  {
+    "Title": "European ISPs Want Rightsholders Held Accountable for Overblocking Damage * TorrentFreak",
+    "Url": "https://torrentfreak.com/european-isps-want-rightsholders-held-accountable-for-overblocking-damage/",
+    "Timestamp": "2026-06-29T23:03:17",
+    "Domain": "torrentfreak.com",
+    "Description": "For years, rightsholders have pushed for broader site blocking orders, with no direct liability for overblocking. EuroISPA want to change that."
+  },
+  {
+    "Title": "Docker Desktop Linux X11 Forwarding from Container to Host | no dogma blog",
+    "Url": "https://nodogmablog.bryanhogan.net/2026/06/docker-desktop-linux-x11-forwarding-from-container-to-host/",
+    "Timestamp": "2026-06-29T23:03:13",
+    "Domain": "nodogmablog.bryanhogan.net",
+    "Description": "This was much harder than it should have been. If I were using the Docker Engine instead, it probably would have worked with only a few steps. But I like Docker Desktop, and I want to stick with it. This post explains how to run GUI applications in a Docker container on Linux, and forward the X11 display from the container to the host."
+  },
+  {
+    "Title": "Anti-Meme Explosion",
+    "Url": "https://www.jernesto.com/articles/anti_meme_explosion",
+    "Timestamp": "2026-06-29T23:03:09",
+    "Domain": "www.jernesto.com",
+    "Description": "A brain-dump about antimemetics: ideas that resist transmission, the four kinds I keep noticing, and why LLMs may be the greatest anti-meme generators we've built."
+  },
+  {
+    "Title": "Ableton Live and Designing for Authenticity — THU Sound & Music 2026",
+    "Url": "https://ericcarl.link/blog/ableton-live-and-designing-for-authenticity/",
+    "Timestamp": "2026-06-29T23:03:05",
+    "Domain": "ericcarl.link",
+    "Description": "Slides and speaker notes from my THU: Sound & Music 2026 talk on the design of Ableton Live — exploring its foundational ideas, the Drift synthesizer, and the role of authenticity in the design of lasting creative tools."
+  },
+  {
+    "Title": "Qwen 3.6 27B is the sweet spot for local development - Quesma Blog",
+    "Url": "https://quesma.com/blog/qwen-36-is-awesome/",
+    "Timestamp": "2026-06-29T23:03:01",
+    "Domain": "quesma.com",
+    "Description": "Qwen 3.6 27B is finally a smart model we can use for coding on Macbook or Nvidia RTX - with llama.cpp and OpenCode."
+  },
+  {
+    "Title": "Building a Self-Hosted Cloud #0",
+    "Url": "https://lukaswerner.com/post/2026-06-29@dot-acm-0",
+    "Timestamp": "2026-06-29T23:02:58",
+    "Domain": "lukaswerner.com",
+    "Description": "I did something kinda silly when I ran for president of my ACM chapter. I promised free web hosting for all members. Why is this silly? We are quite budget constrained due to university spending policy. So how am I going get myself out of this pickle? I’m going to build a homelab capable of running member apps without stepping on my own homelab’s toes."
+  },
+  {
+    "Title": "Projection: A jj Workflow for splitting public and private files",
+    "Url": "https://vihren.dev/blog/20260625-jj-public-private-workflow/",
+    "Timestamp": "2026-06-29T23:02:54",
+    "Domain": "vihren.dev",
+    "Description": "How to track private files together with public code with Jujutsu filesets, revsets, and git private commits setting."
+  },
+  {
+    "Title": "Migrating from TrueNAS to NixOS without losing data after the build-system rug pull | Bas Nijholt",
+    "Url": "https://www.nijho.lt/post/truenas-to-nixos/",
+    "Timestamp": "2026-06-29T23:02:51",
+    "Domain": "www.nijho.lt",
+    "Description": "TrueNAS was the last appliance OS in my homelab. The build-system change was the last straw, but the itch had been building for a while: too much UI state, unclear defaults, and virtualization churn around Incus. This is the story of how I gave an AI agent root-capable SSH access with strict instructions not to change anything, used it to inspect the live machine, recreated the config declaratively, and built a VM rehearsal to prove disko would only wipe the boot disk."
+  },
+  {
+    "Title": "Because it Speaks in Words",
+    "Url": "https://brianschrader.com/archive/because-it-speaks-in-words/",
+    "Timestamp": "2026-06-29T23:02:47",
+    "Domain": "brianschrader.com",
+    "Description": "Grappling with the true power of words."
+  },
+  {
+    "Title": "The Dead Internet is Real",
+    "Url": "https://moai.studio/blog/posts/the-dead-internet-is-real.html",
+    "Timestamp": "2026-06-29T23:02:39",
+    "Domain": "moai.studio",
+    "Description": "The measurable version of dead-internet theory is already here: bots are 53% of web traffic, AI writes most new pages, and under a third of Google searches still send a click. The open web got disintermediated — hollowed from both ends."
+  },
+  {
+    "Title": "A Command Palette for Sway - Nilcoast",
+    "Url": "https://www.nilcoast.com/blog/sway-command-palette",
+    "Timestamp": "2026-06-29T23:02:34",
+    "Domain": "www.nilcoast.com",
+    "Description": "Erik Benoist - Software engineer building platforms for 20+ years. Chicago-based. Focusing on product and DevOps."
+  },
+  {
+    "Title": "Extracting sound effects from a Switch game - Vox Silva",
+    "Url": "https://blog.alexbeals.com/posts/extracting-sound-effects-from-a-switch-game",
+    "Timestamp": "2026-06-29T23:02:30",
+    "Domain": "blog.alexbeals.com",
+    "Description": "How I took apart Switch Sports to isolate the golf audio."
+  },
+  {
     "Title": "Asteroid Threat",
     "Url": "https://xkcd.com/3265/",
     "Timestamp": "2026-06-29T19:02:26",
