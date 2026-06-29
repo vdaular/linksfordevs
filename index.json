@@ -1,5 +1,221 @@
 [
   {
+    "Title": "Do LLMs pass the mirror test?",
+    "Url": "https://blog.pascalschuster.de/article/do-llms-pass-the-mirror-test",
+    "Timestamp": "2026-06-29T03:04:50",
+    "Domain": "blog.pascalschuster.de",
+    "Description": "It's likelier than you think! ...maybe.",
+    "Confidence": 0.8870016
+  },
+  {
+    "Title": "The Extra Gear | Fabio Scagliola",
+    "Url": "https://fabioscagliola.com/blog/the-extra-gear/",
+    "Timestamp": "2026-06-29T03:04:45",
+    "Domain": "fabioscagliola.com",
+    "Description": "Architecting software and servantly leading people. Making music as Nothence. Writing weird stories.",
+    "Confidence": 0.89981776
+  },
+  {
+    "Title": "Microsoft Bought a Nuke Plant. You Should Be Worried.",
+    "Url": "https://moai.studio/blog/posts/microsoft-bought-a-nuke-plant.html",
+    "Timestamp": "2026-06-29T03:04:40",
+    "Domain": "moai.studio",
+    "Description": "Let's cut through the Green Energy PR noise. Microsoft bought their own physics. They have nuclear reactors. You have rolling blackouts.",
+    "Confidence": 0.6631991
+  },
+  {
+    "Title": "A hash proves the bytes, not the source",
+    "Url": "https://collider.ee/blog/2026-06-28-1500_a_hash_proves_the_bytes_not_the_source/",
+    "Timestamp": "2026-06-29T03:04:34",
+    "Domain": "collider.ee",
+    "Description": "A package and dependency manager for Meson projects.",
+    "Confidence": 0.94205
+  },
+  {
+    "Title": "My coworker Iris isn't a person — Vinicius Brasil",
+    "Url": "https://vinibrasil.com/my-coworker-iris-isnt-a-person/",
+    "Timestamp": "2026-06-29T03:04:29",
+    "Domain": "vinibrasil.com",
+    "Description": "We put an AI agent in Slack. The surprise wasn't what she automated — it was that I started leaving the thread less, even for code.",
+    "Confidence": 0.933561
+  },
+  {
+    "Title": "The KIDS Act Would Require Age Checks To Get Online",
+    "Url": "https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online",
+    "Timestamp": "2026-06-29T03:04:26",
+    "Domain": "www.eff.org",
+    "Description": "Buried inside the KIDS Act are provisions that will push online services to verify all users’ ages, require government-directed moderation policies for online speech, and even create new rules about private and encrypted communications. While supporters continue to claim this bill protects minors online, its requirements come at the expense of privacy, free expression, and the ability of people of all ages to use the internet without revealing sensitive data.",
+    "Confidence": 0.9077997
+  },
+  {
+    "Title": "Slop, trust, and a three-line patch",
+    "Url": "https://klez.me/2026/06/28/slop-trust-and-a-three-line-patch/",
+    "Timestamp": "2026-06-29T03:04:22",
+    "Domain": "klez.me",
+    "Description": "A real bug, a three-line fix, and a one-line rejection: what reaching for ‘AI slop’ as a reflex gets wrong about verification, scale, and trust in open source.",
+    "Confidence": 0.89356947
+  },
+  {
+    "Title": "Customer service as a mirror of modern life – Connor Gurney",
+    "Url": "https://connorgurney.me.uk/2026/06/customer-service-mirror-of-modern-life/",
+    "Timestamp": "2026-06-29T03:04:18",
+    "Domain": "connorgurney.me.uk",
+    "Description": "As my Now page will tell you, my day job is handling complaints for a major UK-based telecommunications company. My role sits in our executive complaints team, where we deal with the most serious of complaints—those sent to our senior bosses, to MPs, to the papers, and so on.",
+    "Confidence": 0.8676113
+  },
+  {
+    "Title": "Why the Metaverse Failed — josh.earth",
+    "Url": "https://josh.earth/posts/metaverse-failed",
+    "Timestamp": "2026-06-29T03:04:14",
+    "Domain": "josh.earth",
+    "Description": "I recently read the excellent long form\narticle The Metaverse Fever Dream\nby Pixel Envy (Nick Heer). It gets the general vibe right and I encourage you\nto\nread it, but I also think it doesn’t capture what the metaverse — meaning Mark\nZuckerberg’s vision strong enough to rename the company after — really was.\nHis vision wasn’t to bring the world together in immersive nirvana. It wasn’t\neven to sell more ads. The Metaverse existed to let Facebook own a\nhardware platform.",
+    "Confidence": 0.95621425
+  },
+  {
+    "Title": "POSIX Is Not A Shell",
+    "Url": "https://alganet.github.io/blog/2026-06-28-12-POSIX-Is-Not-A-Shell.html",
+    "Timestamp": "2026-06-29T03:04:10",
+    "Domain": "alganet.github.io",
+    "Description": "Alexandre Gomes Gaigalas – June 28, 2026",
+    "Confidence": 0.9688534
+  },
+  {
+    "Title": "Life lessons and hot takes from my 30s | Shreyas",
+    "Url": "https://shreyasprakash.com/life-lessons-30s/",
+    "Timestamp": "2026-06-29T03:04:07",
+    "Domain": "shreyasprakash.com",
+    "Description": "I recently read Kevin Kelly’s Excellent Life Advice for Living. And immediately after that, on Substack, I also came across Nabeel Qureshi’s Substack post which is in this similar genre of being a listicle. I felt a genuine urge to articulate my own life lessons in this wonderful format and share it across to the world. So here goes: 1. I’m angry not because someone else did something wrong, and...",
+    "Confidence": 0.87088525
+  },
+  {
+    "Title": "The Internet needs more You",
+    "Url": "https://arunrocks.com/the-internet-needs-more-you/",
+    "Timestamp": "2026-06-29T03:04:03",
+    "Domain": "arunrocks.com",
+    "Description": "The most scarce thing on the internet isn't traffic. It's a genuine human perspective. Here's why I'm going back to blogging.",
+    "Confidence": 0.81152755
+  },
+  {
+    "Title": "My First Encounter With a Political Spambot | Tom Bedor's Blog",
+    "Url": "https://tombedor.dev/political-spam/",
+    "Timestamp": "2026-06-29T03:03:59",
+    "Domain": "tombedor.dev",
+    "Description": "I had my first encounter with a political spambot this week: a polite robot named Emma texted me wanting to talk about Israel.",
+    "Confidence": 0.60328907
+  },
+  {
+    "Title": "Why is there smoke coming from the boiler room? | Willem Vooijs",
+    "Url": "https://vooijs.eu/posts/why-is-there-smoke-from-the-boiler-room/",
+    "Timestamp": "2026-06-29T03:03:56",
+    "Domain": "vooijs.eu",
+    "Description": "Willem Vooijs - builder and tinkerer sharing insights on electronics, home automation, open source software, and sustainable energy",
+    "Confidence": 0.9597285
+  },
+  {
+    "Title": "Run Obsidian as a self-hosted web app",
+    "Url": "https://mudkip.me/2026/06/29/Run-Obsidian-as-a-self-hosted-web-app/",
+    "Timestamp": "2026-06-29T03:03:52",
+    "Domain": "mudkip.me",
+    "Description": "Obsidian has been my primary personal knowledge management solution for years. Since Obsidian Bases was added, my Obsidian Vault has become my source of truth for media tracking and project planning,",
+    "Confidence": 0.9746114
+  },
+  {
+    "Title": "From Transformer to ChatGPT: The Part That Isn't the Architecture",
+    "Url": "https://bharad.dev/blog/from-transformer-to-llm",
+    "Timestamp": "2026-06-29T03:03:49",
+    "Domain": "bharad.dev",
+    "Description": "A stack of transformer layers is not yet ChatGPT or Claude. This is the rest of the path: how text becomes tokens, how a raw next-word predictor turns into an assistant across three training phases, how LoRA customizes a model on a budget, and why everyone is racing for data and compute.",
+    "Confidence": 0.9840902
+  },
+  {
+    "Title": "I build a 10 inch mini rack from aluminium extrusions",
+    "Url": "https://louwrentius.com/i-build-a-10-inch-mini-rack-from-aluminium-extrusions.html",
+    "Timestamp": "2026-06-29T03:03:45",
+    "Domain": "louwrentius.com",
+    "Description": "I built a 10-inch mini rack from aluminium extrusions and I had a lot of fun doing it. I want to share my build in this post.",
+    "Confidence": 0.96560425
+  },
+  {
+    "Title": "Single point of failure apps",
+    "Url": "https://chrpaul.de/posts/2026-06-27-single-point-of-failure-apps/",
+    "Timestamp": "2026-06-29T03:03:36",
+    "Domain": "chrpaul.de",
+    "Description": "Two years ago, I bought a secondary phone. It’s a cheap Android phone that always travels with me outside of town. I’ve for the case that my main phone breaks from a fall, fails to boot after an update, gets lost or runs out of battery.\nThe secondary phone has a set of essential apps installed. Simply put, its task is to get me to my next destination and have some hours or days to repair or replace the main phone.",
+    "Confidence": 0.9801685
+  },
+  {
+    "Title": "I turned my prologue into a short video",
+    "Url": "https://idiallo.com/byte-size/my-prologue-to-short-video",
+    "Timestamp": "2026-06-29T03:03:31",
+    "Domain": "idiallo.com",
+    "Description": "A video depicting the prologue of my book \"Just Fired\". This is my story growing up in Saudi Arabia, and ending up in Los Angeles with failed dreams.",
+    "Confidence": 0.8762625
+  },
+  {
+    "Title": "Connections in Math: deriving the SVD from scratch",
+    "Url": "https://stillthinking.net/posts/connections-in-math-svd/",
+    "Timestamp": "2026-06-29T03:03:27",
+    "Domain": "stillthinking.net",
+    "Description": "Most books state the Singular Value Decomposition as a finished theorem. Here we arrive at it naturally, without even aiming for it — letting the structure of any linear map hand us the factorization for free.",
+    "Confidence": 0.9861142
+  },
+  {
+    "Title": "Strong Relationships, Loosely Held",
+    "Url": "https://www.jerry.wtf/posts/strong-relationships-loosely-held/",
+    "Timestamp": "2026-06-29T03:03:23",
+    "Domain": "www.jerry.wtf",
+    "Description": "\nThe best relationships in my life are seldom the longest ones.\nOne of my best friends Carolina entered my life by storm, a whirlwind of entrepreneurship and road trips in France during the summer of ‘16, topped off with some trauma bonding during the attack in Nice.\nAs I traveled the world the rest of that year, we’d end up calling every day; I thought of her as my remote traveling companion. But then I started working in earnest in San Francisco, and she started a serious relationship, and just like that we barely chatted for five years. Until we had a mutual friend Ameera pass away, and we touched base again. After all that time the closeness and goodwill never went away. I went to Valencia and hung out with her for a while, and once again we were the best of friends. It’s not the same youthful exuberant friendship, but a deeper closeness, and I would trust her to pick me up from the airport or help out if I’m ever in trouble.",
+    "Confidence": 0.5937863
+  },
+  {
+    "Title": "The Waffle Shop Downstairs - Gibberish and Stuff",
+    "Url": "https://zhenyi.gibber.blog/the-waffle-shop-downstairs",
+    "Timestamp": "2026-06-29T03:03:20",
+    "Domain": "zhenyi.gibber.blog",
+    "Description": "There's a waffle shop near my house that's been there for as long as I can remember. I used to go all the time. At $2 a waffle, it was slightly more expensive than your average bakery waffle, but...",
+    "Confidence": 0.98466605
+  },
+  {
+    "Title": "The Curious Case of aa.ns.charter.com",
+    "Url": "https://mikehowells.com/2026/06/21/the-curious-case-of-aa-ns-charter-com/",
+    "Timestamp": "2026-06-29T03:03:15",
+    "Domain": "mikehowells.com",
+    "Description": "I run Pi-hole on my home network. Most days I don’t think about it. But one stray entry in the query log caught my eye, and what I thought would be a five-minute mystery turned into a seven-y…",
+    "Confidence": 0.96082187
+  },
+  {
+    "Title": "My Linux Odyssey: How I Ended Up on NixOS",
+    "Url": "https://nezutero.dev/my-linux-odyssey-how-i-ended-up-on-nixos/",
+    "Timestamp": "2026-06-29T03:03:12",
+    "Domain": "nezutero.dev",
+    "Description": "A personal account of distro-hopping, window managers, and eventually finding NixOS.\nPart 1: How It All Started I started using Linux about four years ago. My very first distribution was Fedora, followed by Ubuntu, which I used for about a month before switching back. The main reason I left Ubuntu was its interface; I simply didn’t like it. But beneath that was a deeper frustration: bloat. Ubuntu came pre-installed with so much software that, as someone still finding their footing in Linux, I felt completely lost.",
+    "Confidence": 0.9839016
+  },
+  {
+    "Title": "There Is No Reward Function for Meaning",
+    "Url": "https://aaron-ang.github.io/there-is-no-reward-function-for-meaning/",
+    "Timestamp": "2026-06-29T03:03:08",
+    "Domain": "aaron-ang.github.io",
+    "Description": "We Only Celebrate Progress Once A century ago, sending word to another continent meant waiting weeks for a ship to cross the ocean. Today, we complain when a video call lags for half a second. For some reason, we celebrate a breakthrough once, then it quietly becomes the baseline.\nSmartphones condensed cameras, maps, encyclopedias, music players, and libraries into devices that fit in our pockets, yet we’re quicker to notice a low battery than to appreciate all other aspects of convenience they bring to our lives. Once something remarkable becomes routine, we stop noticing it at all.",
+    "Confidence": 0.98552644
+  },
+  {
+    "Title": "GitHub - librepods-org/librepods: AirPods liberated from Apple's ecosystem.",
+    "Url": "https://github.com/librepods-org/librepods",
+    "Timestamp": "2026-06-29T03:03:05",
+    "Domain": "github.com",
+    "Description": "AirPods liberated from Apple's ecosystem. Contribute to librepods-org/librepods development by creating an account on GitHub.",
+    "Confidence": 0.9921875
+  },
+  {
+    "Title": "On cigarettes – Blog Fiasco",
+    "Url": "https://funnelfiasco.com/blog/2026/06/28/on-cigarettes/",
+    "Timestamp": "2026-06-29T03:02:59",
+    "Domain": "funnelfiasco.com",
+    "Description": "There’s something to be said for cigarettes. Most of it, of course, is bad. Cigarettes smell awful. The stench lingers and invades long after the cigarette is gone. Cigarettes, of course, also kill people. Lung cancer from a lifetime of … Continue reading →",
+    "Confidence": 0.913323
+  },
+  {
     "Title": "We have Mythos at Home: GLM 5.2 beats Claude in our Cyber Benchmarks",
     "Url": "https://semgrep.dev/blog/2026/we-have-mythos-at-home-glm-52-beats-claude-in-our-cyber-benchmarks/",
     "Timestamp": "2026-06-28T23:02:17",
@@ -46,125 +262,5 @@
     "Domain": "idiallo.com",
     "Description": "I don't understand why this generation can't afford a home. When my grandfather was 18, he had already saved enough money from his paper route and various odd jobs to buy his first home. By the time m",
     "Confidence": 0.7152948
-  },
-  {
-    "Title": "Streaming services’ obnoxiously loud ads become illegal on July 1 in California",
-    "Url": "https://arstechnica.com/gadgets/2026/06/streaming-services-obnoxiously-loud-ads-become-illegal-on-july-1-in-california/",
-    "Timestamp": "2026-06-28T03:04:08",
-    "Domain": "arstechnica.com",
-    "Description": "Illinois passed a similar law, giving services more incentive to make ads less booming.",
-    "Confidence": 0.77093726
-  },
-  {
-    "Title": "Data Access Patterns That Makes Your CPU Really Angry",
-    "Url": "https://blog.weineng.me/posts/slowest_add",
-    "Timestamp": "2026-06-27T23:53:10",
-    "Domain": "blog.weineng.me",
-    "Description": "Given an array of data, what is the slowest way to sum up the integers? Is it adding the numbers from left to right, adding them randomly, or doing something else? In this post, we are going to build a data access pattern from the ground up that sums numbers as slowly as possible by exploiting memory pitfalls.\nuint32_t* data = ...; // sequential data[0] + data[1] + data[2] + ... // random data[67] + data[69420] + data[42] + ... // the slowest data[A] + data[B] + data[C] + ... Spoiler: You can do >30% worse than a randomized access pattern.",
-    "Confidence": 0.9891786
-  },
-  {
-    "Title": "Perspective · Mark Ferraz",
-    "Url": "https://markferraz.com/perspective",
-    "Timestamp": "2026-06-27T23:53:06",
-    "Domain": "markferraz.com",
-    "Description": "Essays by Mark Ferraz. Operator, founder, builder, thinker, architect, author.",
-    "Confidence": 0.98440117
-  },
-  {
-    "Title": "A peek into Reddit's anti-spam internals",
-    "Url": "https://lyra.horse/blog/2026/06/reddit-spam-internals/",
-    "Timestamp": "2026-06-27T23:53:02",
-    "Domain": "lyra.horse",
-    "Description": "How Reddit accidentally leaked its spamurai system.",
-    "Confidence": 0.995466
-  },
-  {
-    "Title": "Clean Code Critique: Why Much of 'Clean Code' Aged Poorly (+ Better Alternatives)",
-    "Url": "https://bugzmanov.github.io/cleancode-critique/",
-    "Timestamp": "2026-06-27T23:52:58",
-    "Domain": "bugzmanov.github.io",
-    "Description": "A deep dive into Clean Code's impact, its shortcomings, and what modern developers should do instead.",
-    "Confidence": 0.91380775
-  },
-  {
-    "Title": "William: a tiny poetry model in the browser",
-    "Url": "https://akshit.org/2026/06/21/william/",
-    "Timestamp": "2026-06-27T23:52:54",
-    "Domain": "akshit.org",
-    "Description": "Training, quantizing, and running a small poetry model entirely in the browser.",
-    "Confidence": 0.9061296
-  },
-  {
-    "Title": "My addiction with trading apps",
-    "Url": "https://cat.strayforge.com/posts/investment-reflection/",
-    "Timestamp": "2026-06-27T23:52:51",
-    "Domain": "cat.strayforge.com",
-    "Description": "The first thing I do when I wake up every morning is to open the stock app and check my watchlist. It’s a habit I developed and reinforced over the past few years. Admittedly, it’s very time and energy consuming. Many times, I’m not trying to actively trade, it’s almost like an addiction that I have to watch the ticker price multiple times every day.\nWhen it comes to personal finance and investing, I believe I’m a know how. Over the years,I read books (like The Philosopy of Money kind), forums (bogleheads etc), and all these resources tell you the same things, diversify, low-cost ETFs, maintain and balance your allocation, use tax-advantaged accounts. Over the years, I also watched myself made painful mistakes when I tried to out-play the market. If I think completely rational, I should just set my allocation and check my portfolio once or twice per year for rebalance and that should be it. So where comes the impulse of constantly checking the accounts?",
-    "Confidence": 0.9458149
-  },
-  {
-    "Title": "PRs and LLMs",
-    "Url": "https://gerdzellweger.com/engineering/2026/06/27/prs-and-llms.html",
-    "Timestamp": "2026-06-27T23:52:48",
-    "Domain": "gerdzellweger.com",
-    "Description": "We are hiring at Feldera, so I have been talking to many software engineers. These calls tend to reveal where the “meta of software engineering” is at. Often the signal is that there isn’t a good signal and people are looking for new opportunities for various reasons.",
-    "Confidence": 0.986704
-  },
-  {
-    "Title": "The Case for Physical Media Ownership | Cem Dervis",
-    "Url": "https://dervis.de/physical/",
-    "Timestamp": "2026-06-27T23:52:44",
-    "Domain": "dervis.de",
-    "Description": "An overview of physical media ownership, streaming shutdowns, content removals, and the limits of digital licenses.",
-    "Confidence": 0.8317165
-  },
-  {
-    "Title": "A Perfect Meritocracy Will Have Limited Social Mobility",
-    "Url": "https://outlookzen.com/2026/06/27/a-perfect-meritocracy-will-have-little-social-mobility/",
-    "Timestamp": "2026-06-27T23:52:36",
-    "Domain": "outlookzen.com",
-    "Description": "I’ve increasingly been hearing people assume or claim that meritocracy and social mobility go hand-in-hand. Their argument often goes like this: In a world driven by nepotism, cronyism, bribery etc…",
-    "Confidence": 0.8546271
-  },
-  {
-    "Title": "Software is becoming marketing",
-    "Url": "https://www.terezatizkova.com/writing/software-abundance",
-    "Timestamp": "2026-06-27T23:52:32",
-    "Domain": "www.terezatizkova.com",
-    "Description": "Four ways software products and jobs change in the age of abundance",
-    "Confidence": 0.96474665
-  },
-  {
-    "Title": "When you're stuck, just do something",
-    "Url": "https://www.autogram.id/alex/thoughts/when-you-re-stuck-just-do-something",
-    "Timestamp": "2026-06-27T23:52:29",
-    "Domain": "www.autogram.id",
-    "Description": "Thinking won't get you anywhere.",
-    "Confidence": 0.97379297
-  },
-  {
-    "Title": "Voting with Feet",
-    "Url": "https://maxmautner.com/2026/06/25/voting-with-feet.html",
-    "Timestamp": "2026-06-27T23:52:25",
-    "Domain": "maxmautner.com",
-    "Description": "Where you live, pay taxes, and put down roots is its own kind of vote – and staying is a way of adding value to a place.",
-    "Confidence": 0.5261804
-  },
-  {
-    "Title": "One More Thing",
-    "Url": "https://take.surf/2026/06/07/one-more-thing",
-    "Timestamp": "2026-06-27T23:52:22",
-    "Domain": "take.surf",
-    "Description": "WWDC used to be fun.",
-    "Confidence": 0.9774415
-  },
-  {
-    "Title": "\"No, I swear I wrote this.\"",
-    "Url": "https://revise.io/blog/06-27-2026/no-i-swear-i-wrote-this",
-    "Timestamp": "2026-06-27T23:52:17",
-    "Domain": "revise.io",
-    "Description": "LLMs have gotten very good. It's impossible tell anymore if something was written by a human or a model. AI detectors are snake oil. Nobody trusts each...",
-    "Confidence": 0.95450175
   }
 ]
