@@ -7,6 +7,26 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>A native graphical shell for SSH</title>
+      <link>https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html</link>
+      <description>Marcus Lewis</description>
+      <category>encryption</category>
+      <category>web</category>
+      <category>javascript</category>
+      <category>linux</category>
+      <category>ai</category>
+      <guid>https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html</guid>
+      <pubDate>Tue, 30 Jun 2026 03:02:43 GMT</pubDate>
+    </item>
+    <item>
+      <title>HCCF’s Vision for a Human-Centered Top-Level Domain – Human-Centered Computing Foundation</title>
+      <link>https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/</link>
+      <description>The Internet is the most powerful communication tool ever created, yet the infrastructure underpinning it has been leveraged by the tech industry to extract our data and exploit our attention. The Human-Centered Computing Foundation seeks to change this dynamic by creating an alternative architecture for the web. As an approved participant in ICANN’s Applicant Support Program (ASP), we are officially launching our campaign to secure a new Top-Level Domain (TLD) dedicated entirely to ethical, human-centered technology.</description>
+      <category>dotnet</category>
+      <guid>https://hccf.onmy.cloud/2026/06/21/reclaiming-our-digital-selves-hccfs-vision-for-a-human-centered-top-level-domain/</guid>
+      <pubDate>Tue, 30 Jun 2026 03:02:39 GMT</pubDate>
+    </item>
+    <item>
       <title>Worse is better</title>
       <link>https://blog.ploeh.dk/2026/06/29/worse-is-better/</link>
       <description>The most popular technology may not be the best.</description>
@@ -241,264 +261,6 @@ Pollen seemed to have pulled off the improbable feat of building a business in t
       <category>web</category>
       <guid>https://fabiensanglard.net/keyboards/index.html</guid>
       <pubDate>Mon, 29 Jun 2026 07:02:13 GMT</pubDate>
-    </item>
-    <item>
-      <title>Do LLMs pass the mirror test?</title>
-      <link>https://blog.pascalschuster.de/article/do-llms-pass-the-mirror-test</link>
-      <description>It's likelier than you think! ...maybe.</description>
-      <author> (Pascal)</author>
-      <category>ides</category>
-      <category>dotnet</category>
-      <category>ai</category>
-      <guid>https://blog.pascalschuster.de/article/do-llms-pass-the-mirror-test</guid>
-      <pubDate>Mon, 29 Jun 2026 03:04:50 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Extra Gear | Fabio Scagliola</title>
-      <link>https://fabioscagliola.com/blog/the-extra-gear/</link>
-      <description>Architecting software and servantly leading people. Making music as Nothence. Writing weird stories.</description>
-      <guid>https://fabioscagliola.com/blog/the-extra-gear/</guid>
-      <pubDate>Mon, 29 Jun 2026 03:04:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Microsoft Bought a Nuke Plant. You Should Be Worried.</title>
-      <link>https://moai.studio/blog/posts/microsoft-bought-a-nuke-plant.html</link>
-      <description>Let's cut through the Green Energy PR noise. Microsoft bought their own physics. They have nuclear reactors. You have rolling blackouts.</description>
-      <category>ai</category>
-      <category>web</category>
-      <guid>https://moai.studio/blog/posts/microsoft-bought-a-nuke-plant.html</guid>
-      <pubDate>Mon, 29 Jun 2026 03:04:40 GMT</pubDate>
-    </item>
-    <item>
-      <title>A hash proves the bytes, not the source</title>
-      <link>https://collider.ee/blog/2026-06-28-1500_a_hash_proves_the_bytes_not_the_source/</link>
-      <description>A package and dependency manager for Meson projects.</description>
-      <category>javascript</category>
-      <category>python</category>
-      <guid>https://collider.ee/blog/2026-06-28-1500_a_hash_proves_the_bytes_not_the_source/</guid>
-      <pubDate>Mon, 29 Jun 2026 03:04:34 GMT</pubDate>
-    </item>
-    <item>
-      <title>My coworker Iris isn't a person — Vinicius Brasil</title>
-      <link>https://vinibrasil.com/my-coworker-iris-isnt-a-person/</link>
-      <description>We put an AI agent in Slack. The surprise wasn't what she automated — it was that I started leaving the thread less, even for code.</description>
-      <author> (Vinicius Brasil)</author>
-      <category>ai</category>
-      <guid>https://vinibrasil.com/my-coworker-iris-isnt-a-person/</guid>
-      <pubDate>Mon, 29 Jun 2026 03:04:29 GMT</pubDate>
-    </item>
-    <item>
-      <title>The KIDS Act Would Require Age Checks To Get Online</title>
-      <link>https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online</link>
-      <description>Buried inside the KIDS Act are provisions that will push online services to verify all users’ ages, require government-directed moderation policies for online speech, and even create new rules about private and encrypted communications. While supporters continue to claim this bill protects minors online, its requirements come at the expense of privacy, free expression, and the ability of people of all ages to use the internet without revealing sensitive data.</description>
-      <category>encryption</category>
-      <category>git</category>
-      <category>ai</category>
-      <guid>https://www.eff.org/deeplinks/2026/06/kids-act-would-require-age-checks-get-online</guid>
-      <pubDate>Mon, 29 Jun 2026 03:04:26 GMT</pubDate>
-    </item>
-    <item>
-      <title>Slop, trust, and a three-line patch</title>
-      <link>https://klez.me/2026/06/28/slop-trust-and-a-three-line-patch/</link>
-      <description>A real bug, a three-line fix, and a one-line rejection: what reaching for ‘AI slop’ as a reflex gets wrong about verification, scale, and trust in open source.</description>
-      <category>ai</category>
-      <guid>https://klez.me/2026/06/28/slop-trust-and-a-three-line-patch/</guid>
-      <pubDate>Mon, 29 Jun 2026 03:04:22 GMT</pubDate>
-    </item>
-    <item>
-      <title>Customer service as a mirror of modern life – Connor Gurney</title>
-      <link>https://connorgurney.me.uk/2026/06/customer-service-mirror-of-modern-life/</link>
-      <description>As my Now page will tell you, my day job is handling complaints for a major UK-based telecommunications company. My role sits in our executive complaints team, where we deal with the most serious of complaints—those sent to our senior bosses, to MPs, to the papers, and so on.</description>
-      <category>apple</category>
-      <guid>https://connorgurney.me.uk/2026/06/customer-service-mirror-of-modern-life/</guid>
-      <pubDate>Mon, 29 Jun 2026 03:04:18 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why the Metaverse Failed — josh.earth</title>
-      <link>https://josh.earth/posts/metaverse-failed</link>
-      <description>I recently read the excellent long form
-article The Metaverse Fever Dream
-by Pixel Envy (Nick Heer). It gets the general vibe right and I encourage you
-to
-read it, but I also think it doesn’t capture what the metaverse — meaning Mark
-Zuckerberg’s vision strong enough to rename the company after — really was.
-His vision wasn’t to bring the world together in immersive nirvana. It wasn’t
-even to sell more ads. The Metaverse existed to let Facebook own a
-hardware platform.</description>
-      <category>cloud</category>
-      <category>apple</category>
-      <category>android</category>
-      <category>gaming</category>
-      <category>git</category>
-      <guid>https://josh.earth/posts/metaverse-failed</guid>
-      <pubDate>Mon, 29 Jun 2026 03:04:14 GMT</pubDate>
-    </item>
-    <item>
-      <title>POSIX Is Not A Shell</title>
-      <link>https://alganet.github.io/blog/2026-06-28-12-POSIX-Is-Not-A-Shell.html</link>
-      <description>Alexandre Gomes Gaigalas – June 28, 2026</description>
-      <category>containers</category>
-      <category>linux</category>
-      <category>dotnet</category>
-      <category>web</category>
-      <guid>https://alganet.github.io/blog/2026-06-28-12-POSIX-Is-Not-A-Shell.html</guid>
-      <pubDate>Mon, 29 Jun 2026 03:04:10 GMT</pubDate>
-    </item>
-    <item>
-      <title>Life lessons and hot takes from my 30s | Shreyas</title>
-      <link>https://shreyasprakash.com/life-lessons-30s/</link>
-      <description>I recently read Kevin Kelly’s Excellent Life Advice for Living. And immediately after that, on Substack, I also came across Nabeel Qureshi’s Substack post which is in this similar genre of being a listicle. I felt a genuine urge to articulate my own life lessons in this wonderful format and share it across to the world. So here goes: 1. I’m angry not because someone else did something wrong, and...</description>
-      <author> (Shreyas Prakash)</author>
-      <category>ai</category>
-      <category>youtube</category>
-      <category>apple</category>
-      <guid>https://shreyasprakash.com/life-lessons-30s/</guid>
-      <pubDate>Mon, 29 Jun 2026 03:04:07 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Internet needs more You</title>
-      <link>https://arunrocks.com/the-internet-needs-more-you/</link>
-      <description>The most scarce thing on the internet isn't traffic. It's a genuine human perspective. Here's why I'm going back to blogging.</description>
-      <category>python</category>
-      <category>gaming</category>
-      <category>ai</category>
-      <guid>https://arunrocks.com/the-internet-needs-more-you/</guid>
-      <pubDate>Mon, 29 Jun 2026 03:04:03 GMT</pubDate>
-    </item>
-    <item>
-      <title>My First Encounter With a Political Spambot | Tom Bedor's Blog</title>
-      <link>https://tombedor.dev/political-spam/</link>
-      <description>I had my first encounter with a political spambot this week: a polite robot named Emma texted me wanting to talk about Israel.</description>
-      <category>ai</category>
-      <guid>https://tombedor.dev/political-spam/</guid>
-      <pubDate>Mon, 29 Jun 2026 03:03:59 GMT</pubDate>
-    </item>
-    <item>
-      <title>Why is there smoke coming from the boiler room? | Willem Vooijs</title>
-      <link>https://vooijs.eu/posts/why-is-there-smoke-from-the-boiler-room/</link>
-      <description>Willem Vooijs - builder and tinkerer sharing insights on electronics, home automation, open source software, and sustainable energy</description>
-      <author> (Willem Vooijs)</author>
-      <category>git</category>
-      <category>ai</category>
-      <guid>https://vooijs.eu/posts/why-is-there-smoke-from-the-boiler-room/</guid>
-      <pubDate>Mon, 29 Jun 2026 03:03:56 GMT</pubDate>
-    </item>
-    <item>
-      <title>Run Obsidian as a self-hosted web app</title>
-      <link>https://mudkip.me/2026/06/29/Run-Obsidian-as-a-self-hosted-web-app/</link>
-      <description>Obsidian has been my primary personal knowledge management solution for years. Since Obsidian Bases was added, my Obsidian Vault has become my source of truth for media tracking and project planning,</description>
-      <author> (Mudkip)</author>
-      <category>containers</category>
-      <category>ides</category>
-      <guid>https://mudkip.me/2026/06/29/Run-Obsidian-as-a-self-hosted-web-app/</guid>
-      <pubDate>Mon, 29 Jun 2026 03:03:52 GMT</pubDate>
-    </item>
-    <item>
-      <title>From Transformer to ChatGPT: The Part That Isn't the Architecture</title>
-      <link>https://bharad.dev/blog/from-transformer-to-llm</link>
-      <description>A stack of transformer layers is not yet ChatGPT or Claude. This is the rest of the path: how text becomes tokens, how a raw next-word predictor turns into an assistant across three training phases, how LoRA customizes a model on a budget, and why everyone is racing for data and compute.</description>
-      <author> (Bharadwaj P)</author>
-      <category>ai</category>
-      <category>conference</category>
-      <guid>https://bharad.dev/blog/from-transformer-to-llm</guid>
-      <pubDate>Mon, 29 Jun 2026 03:03:49 GMT</pubDate>
-    </item>
-    <item>
-      <title>I build a 10 inch mini rack from aluminium extrusions</title>
-      <link>https://louwrentius.com/i-build-a-10-inch-mini-rack-from-aluminium-extrusions.html</link>
-      <description>I built a 10-inch mini rack from aluminium extrusions and I had a lot of fun doing it. I want to share my build in this post.</description>
-      <guid>https://louwrentius.com/i-build-a-10-inch-mini-rack-from-aluminium-extrusions.html</guid>
-      <pubDate>Mon, 29 Jun 2026 03:03:45 GMT</pubDate>
-    </item>
-    <item>
-      <title>Single point of failure apps</title>
-      <link>https://chrpaul.de/posts/2026-06-27-single-point-of-failure-apps/</link>
-      <description>Two years ago, I bought a secondary phone. It’s a cheap Android phone that always travels with me outside of town. I’ve for the case that my main phone breaks from a fall, fails to boot after an update, gets lost or runs out of battery.
-The secondary phone has a set of essential apps installed. Simply put, its task is to get me to my next destination and have some hours or days to repair or replace the main phone.</description>
-      <category>android</category>
-      <category>apple</category>
-      <category>linux</category>
-      <guid>https://chrpaul.de/posts/2026-06-27-single-point-of-failure-apps/</guid>
-      <pubDate>Mon, 29 Jun 2026 03:03:36 GMT</pubDate>
-    </item>
-    <item>
-      <title>I turned my prologue into a short video</title>
-      <link>https://idiallo.com/byte-size/my-prologue-to-short-video</link>
-      <description>A video depicting the prologue of my book "Just Fired". This is my story growing up in Saudi Arabia, and ending up in Los Angeles with failed dreams.</description>
-      <guid>https://idiallo.com/byte-size/my-prologue-to-short-video</guid>
-      <pubDate>Mon, 29 Jun 2026 03:03:31 GMT</pubDate>
-    </item>
-    <item>
-      <title>Connections in Math: deriving the SVD from scratch</title>
-      <link>https://stillthinking.net/posts/connections-in-math-svd/</link>
-      <description>Most books state the Singular Value Decomposition as a finished theorem. Here we arrive at it naturally, without even aiming for it — letting the structure of any linear map hand us the factorization for free.</description>
-      <category>encryption</category>
-      <guid>https://stillthinking.net/posts/connections-in-math-svd/</guid>
-      <pubDate>Mon, 29 Jun 2026 03:03:27 GMT</pubDate>
-    </item>
-    <item>
-      <title>Strong Relationships, Loosely Held</title>
-      <link>https://www.jerry.wtf/posts/strong-relationships-loosely-held/</link>
-      <description>
-The best relationships in my life are seldom the longest ones.
-One of my best friends Carolina entered my life by storm, a whirlwind of entrepreneurship and road trips in France during the summer of ‘16, topped off with some trauma bonding during the attack in Nice.
-As I traveled the world the rest of that year, we’d end up calling every day; I thought of her as my remote traveling companion. But then I started working in earnest in San Francisco, and she started a serious relationship, and just like that we barely chatted for five years. Until we had a mutual friend Ameera pass away, and we touched base again. After all that time the closeness and goodwill never went away. I went to Valencia and hung out with her for a while, and once again we were the best of friends. It’s not the same youthful exuberant friendship, but a deeper closeness, and I would trust her to pick me up from the airport or help out if I’m ever in trouble.</description>
-      <guid>https://www.jerry.wtf/posts/strong-relationships-loosely-held/</guid>
-      <pubDate>Mon, 29 Jun 2026 03:03:23 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Waffle Shop Downstairs - Gibberish and Stuff</title>
-      <link>https://zhenyi.gibber.blog/the-waffle-shop-downstairs</link>
-      <description>There's a waffle shop near my house that's been there for as long as I can remember. I used to go all the time. At $2 a waffle, it was slightly more expensive than your average bakery waffle, but...</description>
-      <guid>https://zhenyi.gibber.blog/the-waffle-shop-downstairs</guid>
-      <pubDate>Mon, 29 Jun 2026 03:03:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>The Curious Case of aa.ns.charter.com</title>
-      <link>https://mikehowells.com/2026/06/21/the-curious-case-of-aa-ns-charter-com/</link>
-      <description>I run Pi-hole on my home network. Most days I don’t think about it. But one stray entry in the query log caught my eye, and what I thought would be a five-minute mystery turned into a seven-y…</description>
-      <guid>https://mikehowells.com/2026/06/21/the-curious-case-of-aa-ns-charter-com/</guid>
-      <pubDate>Mon, 29 Jun 2026 03:03:15 GMT</pubDate>
-    </item>
-    <item>
-      <title>My Linux Odyssey: How I Ended Up on NixOS</title>
-      <link>https://nezutero.dev/my-linux-odyssey-how-i-ended-up-on-nixos/</link>
-      <description>A personal account of distro-hopping, window managers, and eventually finding NixOS.
-Part 1: How It All Started I started using Linux about four years ago. My very first distribution was Fedora, followed by Ubuntu, which I used for about a month before switching back. The main reason I left Ubuntu was its interface; I simply didn’t like it. But beneath that was a deeper frustration: bloat. Ubuntu came pre-installed with so much software that, as someone still finding their footing in Linux, I felt completely lost.</description>
-      <category>linux</category>
-      <category>ai</category>
-      <category>containers</category>
-      <category>git</category>
-      <guid>https://nezutero.dev/my-linux-odyssey-how-i-ended-up-on-nixos/</guid>
-      <pubDate>Mon, 29 Jun 2026 03:03:12 GMT</pubDate>
-    </item>
-    <item>
-      <title>There Is No Reward Function for Meaning</title>
-      <link>https://aaron-ang.github.io/there-is-no-reward-function-for-meaning/</link>
-      <description>We Only Celebrate Progress Once A century ago, sending word to another continent meant waiting weeks for a ship to cross the ocean. Today, we complain when a video call lags for half a second. For some reason, we celebrate a breakthrough once, then it quietly becomes the baseline.
-Smartphones condensed cameras, maps, encyclopedias, music players, and libraries into devices that fit in our pockets, yet we’re quicker to notice a low battery than to appreciate all other aspects of convenience they bring to our lives. Once something remarkable becomes routine, we stop noticing it at all.</description>
-      <category>ai</category>
-      <guid>https://aaron-ang.github.io/there-is-no-reward-function-for-meaning/</guid>
-      <pubDate>Mon, 29 Jun 2026 03:03:08 GMT</pubDate>
-    </item>
-    <item>
-      <title>GitHub - librepods-org/librepods: AirPods liberated from Apple's ecosystem.</title>
-      <link>https://github.com/librepods-org/librepods</link>
-      <description>AirPods liberated from Apple's ecosystem. Contribute to librepods-org/librepods development by creating an account on GitHub.</description>
-      <category>android</category>
-      <category>gaming</category>
-      <category>linux</category>
-      <category>rust</category>
-      <category>apple</category>
-      <guid>https://github.com/librepods-org/librepods</guid>
-      <pubDate>Mon, 29 Jun 2026 03:03:05 GMT</pubDate>
-    </item>
-    <item>
-      <title>On cigarettes – Blog Fiasco</title>
-      <link>https://funnelfiasco.com/blog/2026/06/28/on-cigarettes/</link>
-      <description>There’s something to be said for cigarettes. Most of it, of course, is bad. Cigarettes smell awful. The stench lingers and invades long after the cigarette is gone. Cigarettes, of course, also kill people. Lung cancer from a lifetime of … Continue reading →</description>
-      <guid>https://funnelfiasco.com/blog/2026/06/28/on-cigarettes/</guid>
-      <pubDate>Mon, 29 Jun 2026 03:02:59 GMT</pubDate>
     </item>
   </channel>
 </rss>
