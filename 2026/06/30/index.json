@@ -1,5 +1,26 @@
 [
   {
+    "Title": "The Last People Who Know How It Works · unix.foo",
+    "Url": "https://unix.foo/posts/last-people-who-know-how-it-works/",
+    "Timestamp": "2026-06-30T23:02:37",
+    "Domain": "unix.foo",
+    "Description": "You only ever know the things you can lose to."
+  },
+  {
+    "Title": "Claude Science beta | Claude by Anthropic",
+    "Url": "https://claude.com/product/claude-science",
+    "Timestamp": "2026-06-30T23:02:30",
+    "Domain": "claude.com",
+    "Description": "Claude Science is your AI workbench for scientific research. Works through your research like a skilled scientist, running the analysis and tracing every step. Spend less time stitching pipelines together, and more time on the science."
+  },
+  {
+    "Title": "Nano Banana 2 Lite",
+    "Url": "https://deepmind.google/models/gemini-image/flash-lite/",
+    "Timestamp": "2026-06-30T23:02:25",
+    "Domain": "deepmind.google",
+    "Description": "Google DeepMind"
+  },
+  {
     "Title": "Introducing Claude Sonnet 5",
     "Url": "https://www.anthropic.com/news/claude-sonnet-5",
     "Timestamp": "2026-06-30T19:03:01",
