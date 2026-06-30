@@ -1,5 +1,13 @@
 [
   {
+    "Title": "Waag | European digital ID wallets are a gift to Google and Apple",
+    "Url": "https://waag.org/en/article/european-digital-id-wallets-are-gift-google-and-apple/",
+    "Timestamp": "2026-06-30T15:02:29",
+    "Domain": "waag.org",
+    "Description": "European governments are rolling out digital identity wallets, which are to be used by citizens to access services, and to verify their age online. There is a serious problem with this: these wallets rely on safety services of Google and Apple.",
+    "Confidence": 0.97481674
+  },
+  {
     "Title": "The Dating App Plot Device",
     "Url": "https://idiallo.com/blog/dating-plot-device",
     "Timestamp": "2026-06-30T07:02:09",
@@ -182,13 +190,5 @@
     "Domain": "xkcd.com",
     "Description": "",
     "Confidence": 0.98151064
-  },
-  {
-    "Title": "Pollen tried to remove my article about CEO Callum Negus-Fancey and CTO Bradley Wright, and Google is assisting with it",
-    "Url": "https://blog.pragmaticengineer.com/pollen-tried-to-remove-my-article-about-callum-negus-fancey-and-google-is-assisting-to-it/",
-    "Timestamp": "2026-06-29T15:02:31",
-    "Domain": "blog.pragmaticengineer.com",
-    "Description": "In 2022, I wrote about the damning fall of events tech company Pollen. The short of it:\n\nPollen seemed to have pulled off the improbable feat of building a business in the notoriously low margin industry of events, surviving Covid-19, and building a solid software engineering organization. In April",
-    "Confidence": 0.5131566
   }
 ]
