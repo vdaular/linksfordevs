@@ -1,5 +1,13 @@
 [
   {
+    "Title": "The Dating App Plot Device",
+    "Url": "https://idiallo.com/blog/dating-plot-device",
+    "Timestamp": "2026-06-30T07:02:09",
+    "Domain": "idiallo.com",
+    "Description": "I've always been interested in how dating apps work. You really only have two choices if you want to get in the business.",
+    "Confidence": 0.97502434
+  },
+  {
     "Title": "A native graphical shell for SSH",
     "Url": "https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html",
     "Timestamp": "2026-06-30T03:02:43",
@@ -190,37 +198,5 @@
     "Domain": "danunparsed.com",
     "Description": "How hiring is becoming a luck filter.",
     "Confidence": 0.8626038
-  },
-  {
-    "Title": "Memory Prices",
-    "Url": "https://dam.stanford.edu/memory-prices.html",
-    "Timestamp": "2026-06-29T07:02:24",
-    "Domain": "dam.stanford.edu",
-    "Description": "Historical and current prices for DRAM, HBM, and NAND flash.",
-    "Confidence": 0.81007576
-  },
-  {
-    "Title": "Zanagrams - free daily word puzzle",
-    "Url": "https://zanagrams.com/",
-    "Timestamp": "2026-06-29T07:02:20",
-    "Domain": "zanagrams.com",
-    "Description": "A free daily word puzzle. Drag across the letters to find the hidden words and watch the grid shrink as you solve it.",
-    "Confidence": 0.97367847
-  },
-  {
-    "Title": "Age verification is just a precursor to attribution of speech",
-    "Url": "https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026",
-    "Timestamp": "2026-06-29T07:02:17",
-    "Domain": "nonogra.ph",
-    "Description": "Lots of US states, European countries, and Australia have introduced &quot;age verification&quot; regulations. They present it as the classic &quot;save the children&quot; talking ...",
-    "Confidence": 0.8877605
-  },
-  {
-    "Title": "My favorite keyboards",
-    "Url": "https://fabiensanglard.net/keyboards/index.html",
-    "Timestamp": "2026-06-29T07:02:13",
-    "Domain": "fabiensanglard.net",
-    "Description": "June 28th, 2025",
-    "Confidence": 0.9049102
   }
 ]

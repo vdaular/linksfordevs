@@ -7,6 +7,13 @@
     <description>Curated links for devs</description>
     <language>en</language>
     <item>
+      <title>The Dating App Plot Device</title>
+      <link>https://idiallo.com/blog/dating-plot-device</link>
+      <description>I've always been interested in how dating apps work. You really only have two choices if you want to get in the business.</description>
+      <guid>https://idiallo.com/blog/dating-plot-device</guid>
+      <pubDate>Tue, 30 Jun 2026 07:02:09 GMT</pubDate>
+    </item>
+    <item>
       <title>A native graphical shell for SSH</title>
       <link>https://probablymarcus.com/blocks/2026/06/28/native-graphical-shell-for-SSH.html</link>
       <description>Marcus Lewis</description>
@@ -227,40 +234,6 @@ Pollen seemed to have pulled off the improbable feat of building a business in t
       <category>ai</category>
       <guid>https://danunparsed.com/p/hackerrank-open-source-ats</guid>
       <pubDate>Mon, 29 Jun 2026 11:02:11 GMT</pubDate>
-    </item>
-    <item>
-      <title>Memory Prices</title>
-      <link>https://dam.stanford.edu/memory-prices.html</link>
-      <description>Historical and current prices for DRAM, HBM, and NAND flash.</description>
-      <category>ai</category>
-      <category>web</category>
-      <guid>https://dam.stanford.edu/memory-prices.html</guid>
-      <pubDate>Mon, 29 Jun 2026 07:02:24 GMT</pubDate>
-    </item>
-    <item>
-      <title>Zanagrams - free daily word puzzle</title>
-      <link>https://zanagrams.com/</link>
-      <description>A free daily word puzzle. Drag across the letters to find the hidden words and watch the grid shrink as you solve it.</description>
-      <category>gaming</category>
-      <guid>https://zanagrams.com/</guid>
-      <pubDate>Mon, 29 Jun 2026 07:02:20 GMT</pubDate>
-    </item>
-    <item>
-      <title>Age verification is just a precursor to attribution of speech</title>
-      <link>https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026</link>
-      <description>Lots of US states, European countries, and Australia have introduced &amp;quot;age verification&amp;quot; regulations. They present it as the classic &amp;quot;save the children&amp;quot; talking ...</description>
-      <author> (Anonymous)</author>
-      <guid>https://nonogra.ph/age-verification-is-just-a-precursor-to-attribution-of-speech-06-29-2026</guid>
-      <pubDate>Mon, 29 Jun 2026 07:02:17 GMT</pubDate>
-    </item>
-    <item>
-      <title>My favorite keyboards</title>
-      <link>https://fabiensanglard.net/keyboards/index.html</link>
-      <description>June 28th, 2025</description>
-      <category>apple</category>
-      <category>web</category>
-      <guid>https://fabiensanglard.net/keyboards/index.html</guid>
-      <pubDate>Mon, 29 Jun 2026 07:02:13 GMT</pubDate>
     </item>
   </channel>
 </rss>
