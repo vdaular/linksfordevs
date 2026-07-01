@@ -1,0 +1,114 @@
+[
+  {
+    "Title": "Lzon.ca. A personal blog, by a programmer and IT expert.",
+    "Url": "https://lzon.ca/posts/other/youtube-algorithm/",
+    "Timestamp": "2026-07-01T03:04:02",
+    "Domain": "lzon.ca",
+    "Description": "A personal blog, by a programmer and IT expert. Essays, Articles, Guides, and Recipes. As well as Code, Quotes, and Links."
+  },
+  {
+    "Title": "Odd gestures in public",
+    "Url": "https://manualdousuario.net/en/gestures-airpods-apple-watch/",
+    "Timestamp": "2026-07-01T03:03:58",
+    "Domain": "manualdousuario.net",
+    "Description": "Apple’s watch fulfilled the prophecy made by Brazilian pop duo Claudinho e Buchecha back in 1998 — and suddenly, I could control my calendar — and many other things — without using my hands."
+  },
+  {
+    "Title": "Bringing Claude Code Into Neovim",
+    "Url": "https://inacioklassmann.com/posts/claude-chat-nvim/",
+    "Timestamp": "2026-07-01T03:03:52",
+    "Domain": "inacioklassmann.com",
+    "Description": "I live in two places: a terminal running Claude Code and Neovim. For months I bounced between them. Edit in Neovim, alt-tab to the terminal, paste a file path, ask Claude something, alt-tab back, apply the change by hand. The friction was small but constant, and constant friction is the kind that wears a groove in your day."
+  },
+  {
+    "Title": "A Deadline Is a Constraint, Not a Threat",
+    "Url": "https://julien.ch/posts/a-deadline-is-a-constraint-not-a-threat/",
+    "Timestamp": "2026-07-01T03:03:48",
+    "Domain": "julien.ch",
+    "Description": "A deadline becomes a threat when date, scope, and quality are all fixed at once but a useful constraint when it forces a team to decide what must be true first. This post is about why even autonomous teams get stuck, what separates the \"smallest coherent change\" from the \"smallest visible feature\" and why good leadership doesn't apply pressure from the outside but builds a better constraint from the inside. A deadline worth having doesn't reduce quality; it reduces ambiguity."
+  },
+  {
+    "Title": "Your Prime Is Not Youth, Money, or Status. It Is Something More Human",
+    "Url": "https://kanyilmaz.me/2026/03/28/prime-is-1-to-4.html",
+    "Timestamp": "2026-07-01T03:03:45",
+    "Domain": "kanyilmaz.me",
+    "Description": "Your Prime Is Not Youth, Money, or Status. It Is Something More Human\n\n"
+  },
+  {
+    "Title": "I like Claude Desktop, so I created my own",
+    "Url": "https://www.zandrey.com/blog/i-like-claude-desktop-so-i-created-my-own",
+    "Timestamp": "2026-07-01T03:03:42",
+    "Domain": "www.zandrey.com",
+    "Description": "Building my own Claude Desktop with Tauri, GLM-5.2, the Claude Agent SDK, and Apple container machines"
+  },
+  {
+    "Title": "Clean Architecture protects the happy zone | Christian Rackerseder",
+    "Url": "https://www.echooff.dev/blog/clean-architecture-protects-the-happy-zone",
+    "Timestamp": "2026-07-01T03:03:38",
+    "Domain": "www.echooff.dev",
+    "Description": "Clean Architecture is not only about drawing onions or creating folders. It is about protecting pure application logic from the messy outside world."
+  },
+  {
+    "Title": "Most rewrites serve the engineer, not the business",
+    "Url": "https://anatoliybabushka.com/blog/when-to-rewrite-working-code.html",
+    "Timestamp": "2026-07-01T03:03:33",
+    "Domain": "anatoliybabushka.com",
+    "Description": "The urge to rewrite working code usually serves the engineer, not the business. A test for when a rewrite is worth it, and what AI does and doesn't change."
+  },
+  {
+    "Title": "Grief, Growth, and my Future as a Programmer",
+    "Url": "https://blog.jorj.tech/posts/grief-growth-and-my-future-as-a-programmer/",
+    "Timestamp": "2026-07-01T03:03:30",
+    "Domain": "blog.jorj.tech",
+    "Description": "As AI transforms software development, this is my honest account of moving from fear and resistance to adaptation and the mindset shifts I’m making to stay relevant and fulfilled."
+  },
+  {
+    "Title": "stop asking writers about \"AI\"",
+    "Url": "https://benjaminhollon.com/musings/stop-asking-writers-about-ai/",
+    "Timestamp": "2026-07-01T03:03:26",
+    "Domain": "benjaminhollon.com",
+    "Description": "Every time I tell someone new that I’m a writer, they pause for a moment, then ask the same question: “So, what do you think about AI?” This question has been sapping my motivation to write for years."
+  },
+  {
+    "Title": "There is no 'middle' between working and owning",
+    "Url": "https://techwerkers.nl/en/posts/myth-of-middle-class/",
+    "Timestamp": "2026-07-01T03:03:23",
+    "Domain": "techwerkers.nl",
+    "Description": "Do you see yourself as a worker? In this article, a tech worker pierces through the myth of the ‘middle class’."
+  },
+  {
+    "Title": "Minor contagious metadata corruption in exiv2",
+    "Url": "https://me.micahrl.com/blog/minor-contagious-corruption-exiv2/",
+    "Timestamp": "2026-07-01T03:03:19",
+    "Domain": "me.micahrl.com",
+    "Description": "All rituals restricted. All rites reserved."
+  },
+  {
+    "Title": "Small acts of defiance",
+    "Url": "https://www.stephenlewis.me/blog/small-acts-of-defiance/",
+    "Timestamp": "2026-07-01T03:03:15",
+    "Domain": "www.stephenlewis.me",
+    "Description": "A benign rebellion."
+  },
+  {
+    "Title": "localhost is disappearing",
+    "Url": "https://fulghum.io/local.html",
+    "Timestamp": "2026-07-01T03:03:11",
+    "Domain": "fulghum.io",
+    "Description": "Why localhost is becoming the wrong default for agentic software development."
+  },
+  {
+    "Title": "why agent-to-agent economy will explode — lucianocccc",
+    "Url": "https://lucianocccc.com/agent-economy/",
+    "Timestamp": "2026-07-01T03:03:08",
+    "Domain": "lucianocccc.com",
+    "Description": "6 giugno 2028"
+  },
+  {
+    "Title": "Preface | Causality-Oriented Architecture Notes",
+    "Url": "https://notes.shixiangxi.com/en/docs/dual-world-theory/preface/",
+    "Timestamp": "2026-07-01T03:03:05",
+    "Domain": "notes.shixiangxi.com",
+    "Description": "About Software Engineering"
+  }
+]
